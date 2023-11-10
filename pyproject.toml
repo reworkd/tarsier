@@ -11,6 +11,37 @@ playwright = "^1.39.0"
 selenium = "^4.15.2"
 
 
+[tool.poetry.group.dev.dependencies]
+black = "^23.11.0"
+isort = "^5.12.0"
+mypy = "^1.7.0"
+
+
+[tool.poetry.group.test.dependencies]
+pytest = "^7.4.3"
+
+
+[tool.isort]
+profile = "black"
+multi_line_output = 3
+src_paths = ["tarsier", "tests"]
+known_first_party = ["commons"]
+
+[tool.mypy]
+strict = true
+ignore_missing_imports = true
+allow_subclassing_any = true
+allow_untyped_calls = true
+pretty = true
+show_error_codes = true
+implicit_reexport = true
+allow_untyped_decorators = true
+warn_unused_ignores = false
+warn_return_any = false
+namespace_packages = true
+files = "tarsier"
+exclude = ["tests"]
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
