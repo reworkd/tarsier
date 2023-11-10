@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/tarsier.png" height="200" />
+  <img src="public/tarsier.png" height="300" />
 </p>
 
 # tarsier
