@@ -7,6 +7,13 @@
 <p align="center">
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
+<p align="center">
+<a href="https://reworkd.ai/">🔗 Main site</a>
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+<a href="https://twitter.com/reworkdai">🐦 Twitter</a>
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+<a href="https://discord.gg/gcmNyAAFfV">📢 Discord</a>
+</p>
 
 # Tarsier
 Vision utilities for web interaction agents
