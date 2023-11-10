@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Pandey"
+  given-names: "Rohan"
+- family-names: "Watkins"
+  given-names: "Adam"
+- family-names: "Shrestha"
+  given-names: "Asim"
+- family-names: "Subedi"
+  given-names: "Srijan"
+title: "Tarsier: A tool for generating text representations of webpages"
+date-released: 2023-11-11
+license: "MIT"
+url: "https://github.com/reworkd/tarsier"
