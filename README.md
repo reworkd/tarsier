@@ -1,4 +1,6 @@
-![Banner](../main/public/tarsier.png?raw=true)
+<p align="center">
+  <img src="public/tarsier.png" height="200" />
+</p>
 
 # tarsier
 Vision utilities for web interaction agents
