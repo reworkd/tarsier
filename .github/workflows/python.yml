@@ -57,4 +57,4 @@ jobs:
           cache: 'poetry'
       - run: poetry install
       - name: Run pytest check
-        run: poetry run pytest -vv --cov="reworkd_platform" .
+        run: poetry run pytest -vv --cov="tarsier" .
