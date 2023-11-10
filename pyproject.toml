@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "tarsier"
+version = "0.1.0"
+description = "Vision utilities for web interaction agents"
+authors = ["Rohan Pandey"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+playwright = "^1.39.0"
+selenium = "^4.15.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
