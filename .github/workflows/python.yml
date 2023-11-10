@@ -2,14 +2,8 @@ name: Testing Platform
 on:
   push:
     branches: [ "main" ]
-    paths:
-      - 'tarsier/**'
-      - 'tests/**'
   pull_request:
     branches: [ "main" ]
-    paths:
-      - 'tarsier/**'
-      - 'tests/**'
 
 env:
   PYTHON_VERSION: "3.11"
