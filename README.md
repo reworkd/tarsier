@@ -16,14 +16,24 @@
 </p>
 
 # Tarsier
-Vision utilities for web interaction agents
+Tried using GPT-4(V) to automate web interactions? You've probably run into issues like these:
+- How do you map from an LLM's responses back to web elements?
+- How do you feed a "screenshot" to a text-only LLM?
+- How do you screen capture an entire page?
 
-## Roadmap
-- [ ] Playwright interface
-- [ ] tagify page
-- [ ] page -> screenshot
-- [ ] screenshot -> ocr
-- [ ] ocr -> ocr_text
+At Reworkd, we found ourselves reusing the same utils to solve these problems across multiple projects, so we're now open-sourcing a simple little utils library for multimodal web agents... Tarsier!
+
+Tarsier visually tags elements on a page, allowing GPT-4V to specify by tag which element to click. Tarsier also provides OCR utils to convert a page screenshot into a whitespace-structured string that an LLM without vision can understand.
+
+## Usage
+An agent using Tarsier might look like this:
+```
+# TODO
+```
+
+## Installation
+
+`pip install tarsier`
 
 ## Citations
 ```
