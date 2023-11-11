@@ -1,13 +1,12 @@
 import math
 from abc import ABC, abstractmethod
 from collections import defaultdict
-from typing import Any, Dict, List, Tuple
+from typing import Any, Dict, List, Tuple, TypedDict
 
 from google.cloud import vision
-from pydantic import BaseModel
 
 
-class ImageAnnotation(BaseModel):
+class ImageAnnotation(TypedDict):
     text: str  # the word
     midpoint: Tuple[float, float]  # the UNNORMALIZED midpoint of the word, (X,Y)
     midpoint_normalized: Tuple[
@@ -15,7 +14,7 @@ class ImageAnnotation(BaseModel):
     ]  # the normalized midpoint between 0 - 1  (X,Y)
 
 
-class ImageAnnotatorResponse(BaseModel):
+class ImageAnnotatorResponse(TypedDict):
     words: List[ImageAnnotation]  # a list of words and their midpoints
 
 
@@ -32,15 +31,15 @@ class OCRService(ABC):
 
         # Cluster tokens by line
         line_cluster = defaultdict(list)
-        for annotation in ocr_text.words:
+        for annotation in ocr_text["words"]:
             # y = math.floor(annotation.midpoint_normalized[1] * canvas_height)
-            y = round(annotation.midpoint_normalized[1], 3)
+            y = round(annotation["midpoint_normalized"][1], 3)
             line_cluster[y].append(annotation)
         canvas_height = max(canvas_height, len(line_cluster))
 
         # find max line length
         max_line_length = max(
-            sum([len(token.text) + 1 for token in line])
+            sum([len(token["text"]) + 1 for token in line])
             for line in line_cluster.values()
         )
         canvas_width = max(canvas_width, max_line_length)
@@ -51,25 +50,27 @@ class OCRService(ABC):
         # Place the annotations on the canvas
         for i, (y, line_annotations) in enumerate(line_cluster.items()):
             # Sort annotations in this line by x coordinate
-            line_annotations.sort(key=lambda x: x.midpoint_normalized[0])
+            line_annotations.sort(key=lambda e: e["midpoint_normalized"][0])
 
             last_x = 0  # Keep track of the last position where text was inserted
             for annotation in line_annotations:
-                x = math.floor(annotation.midpoint_normalized[0] * canvas_width)
+                text = annotation["text"]
+
+                x = math.floor(annotation["midpoint_normalized"][0] * canvas_width)
 
                 # Move forward if there's an overlap
                 x = max(x, last_x)
 
                 # Check if the text fits; if not, move to next line (this is simplistic)
-                if x + len(annotation.text) >= canvas_width:
+                if x + len(text) >= canvas_width:
                     continue  # TODO: extend the canvas_width in this case
 
                 # Place the text on the canvas
-                for j, char in enumerate(annotation.text):
+                for j, char in enumerate(text):
                     canvas[i][x + j] = char
 
                 # Update the last inserted position
-                last_x = x + len(annotation.text) + 1  # +1 for a space between words
+                last_x = x + len(text) + 1  # +1 for a space between words
 
         # Delete all whitespace characters after the last non-whitespace character in each row
         canvas = [list("".join(row).rstrip()) for row in canvas]
@@ -92,11 +93,18 @@ class GoogleVisionOCRService(OCRService):
         except Exception:  # TODO: specify exception
             raise ValueError("OCR client creation from credentials failed.")
 
-        self._features = [vision.Feature(type_=vision.Feature.Type.TEXT_DETECTION)]
+        text_detection = vision.Feature()
+        text_detection.type_ = vision.Feature.Type.TEXT_DETECTION
+        self._features = [text_detection]
 
     def annotate(self, image_file: bytes) -> ImageAnnotatorResponse:
-        image = vision.Image(content=image_file)
-        request = vision.AnnotateImageRequest(image=image, features=self._features)
+        image = vision.Image()
+        image.content = image_file
+
+        request = vision.AnnotateImageRequest()
+        request.image = image
+        request.features = self._features
+
         res = self.client.annotate_image(request)  # TODO: make this async?
 
         annotations = res.text_annotations
@@ -114,24 +122,24 @@ class GoogleVisionOCRService(OCRService):
             midpoint = ((box[2].x + box[0].x) / 2, (box[2].y + box[0].y) / 2)
 
             annotations_normed.append(
-                ImageAnnotation(
-                    text=text.description,
-                    midpoint=midpoint,
-                    midpoint_normalized=(
+                {
+                    "text": text.description,
+                    "midpoint": midpoint,
+                    "midpoint_normalized": (
                         midpoint[0] / max_width,
                         midpoint[1] / max_height,
                     ),
-                )
+                }
             )
 
         annotations_normed = list(
             sorted(
                 annotations_normed,
-                key=lambda x: (x.midpoint_normalized[1], x.midpoint_normalized[0]),
+                key=lambda x: (
+                    x["midpoint_normalized"][1],
+                    x["midpoint_normalized"][0],
+                ),
             )
         )
-        response = ImageAnnotatorResponse(
-            words=annotations_normed,
-        )
 
-        return response
+        return {"words": annotations_normed}

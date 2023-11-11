@@ -1,11 +1,11 @@
-import asyncio
-import json
 import os
 from typing import Dict, Tuple
 
-from ocr import GoogleVisionOCRService, OCRService
 from tarsier._base import ITarsier
 from tarsier.driver import BrowserDriver
+from tarsier.ocr import OCRService
+
+TagToXPath = Dict[int, str]
 
 
 class Tarsier(ITarsier):
@@ -28,7 +28,7 @@ class Tarsier(ITarsier):
         with open("screenshot.png", "rb") as f:
             return f.read(), tag_to_xpath
 
-    async def page_to_text(self, driver: BrowserDriver) -> Tuple[str, Dict[int, str]]:
+    async def page_to_text(self, driver: BrowserDriver) -> Tuple[str, TagToXPath]:
         image, tag_to_xpath = await self.page_to_image(driver)
         page_text = await self._run_ocr(image)
         return page_text, tag_to_xpath
