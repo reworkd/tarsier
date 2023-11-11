@@ -6,28 +6,30 @@ from tarsier.driver._base import BrowserDriver
 
 class PlaywrightSyncDriver(BrowserDriver):
     def __init__(self, page: PageSync):
-        self.page = page
+        self._page = page
+        raise NotImplementedError(
+            "Sync playwright is not yet supported. Please use the PlaywrightAsyncDriver instead."
+        )
 
     async def run_js(self, js: str):
-        return self.page.evaluate(js)
+        return self._page.evaluate(js)
 
     async def take_screenshot(self) -> bytes:
-        return self.page.screenshot(type="png")
+        return self._page.screenshot(type="png")
 
     async def set_viewport_size(self, width, height):
-        self.page.set_viewport_size({"width": width, "height": height})
+        self._page.set_viewport_size({"width": width, "height": height})
 
 
 class PlaywrightAsyncDriver(BrowserDriver):
     def __init__(self, page: PageAsync):
-        self.page = page
+        self._page = page
 
     async def run_js(self, js: str):
-        result = await self.page.evaluate(js)
-        return result
+        return await self._page.evaluate(js)
 
     async def take_screenshot(self) -> bytes:
-        return await self.page.screenshot(type="png")
+        return await self._page.screenshot(type="png")
 
     async def set_viewport_size(self, width, height):
-        await self.page.set_viewport_size({"width": width, "height": height})
+        await self._page.set_viewport_size({"width": width, "height": height})

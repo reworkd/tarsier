@@ -1,21 +1,8 @@
 import math
 from abc import ABC, abstractmethod
 from collections import defaultdict
-from typing import Any, Dict, List, Tuple, TypedDict
 
-from google.cloud import vision
-
-
-class ImageAnnotation(TypedDict):
-    text: str  # the word
-    midpoint: Tuple[float, float]  # the UNNORMALIZED midpoint of the word, (X,Y)
-    midpoint_normalized: Tuple[
-        float, float
-    ]  # the normalized midpoint between 0 - 1  (X,Y)
-
-
-class ImageAnnotatorResponse(TypedDict):
-    words: List[ImageAnnotation]  # a list of words and their midpoints
+from tarsier.ocr.types import ImageAnnotatorResponse
 
 
 class OCRService(ABC):
@@ -82,64 +69,3 @@ class OCRService(ABC):
         page_text = page_text.replace("        ", "\t")
 
         return page_text
-
-
-class GoogleVisionOCRService(OCRService):
-    def __init__(self, credentials: Dict[str, Any]):
-        try:
-            self.client = vision.ImageAnnotatorClient.from_service_account_info(
-                credentials
-            )
-        except Exception:  # TODO: specify exception
-            raise ValueError("OCR client creation from credentials failed.")
-
-        text_detection = vision.Feature()
-        text_detection.type_ = vision.Feature.Type.TEXT_DETECTION
-        self._features = [text_detection]
-
-    def annotate(self, image_file: bytes) -> ImageAnnotatorResponse:
-        image = vision.Image()
-        image.content = image_file
-
-        request = vision.AnnotateImageRequest()
-        request.image = image
-        request.features = self._features
-
-        res = self.client.annotate_image(request)  # TODO: make this async?
-
-        annotations = res.text_annotations
-        whole_text_box_max = annotations[0].bounding_poly.vertices[2]
-        max_width = whole_text_box_max.x
-        max_height = whole_text_box_max.y
-
-        annotations_normed = []
-        for text in annotations[1:]:
-            box = text.bounding_poly.vertices
-
-            # midpoint: average position betwen
-            # the upper left location and lower
-            # right position
-            midpoint = ((box[2].x + box[0].x) / 2, (box[2].y + box[0].y) / 2)
-
-            annotations_normed.append(
-                {
-                    "text": text.description,
-                    "midpoint": midpoint,
-                    "midpoint_normalized": (
-                        midpoint[0] / max_width,
-                        midpoint[1] / max_height,
-                    ),
-                }
-            )
-
-        annotations_normed = list(
-            sorted(
-                annotations_normed,
-                key=lambda x: (
-                    x["midpoint_normalized"][1],
-                    x["midpoint_normalized"][0],
-                ),
-            )
-        )
-
-        return {"words": annotations_normed}

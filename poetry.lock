@@ -978,6 +978,23 @@ pytest = ">=4.6"
 testing = ["fields", "hunter", "process-tests", "pytest-xdist", "six", "virtualenv"]
 
 [[package]]
+name = "pytest-mock"
+version = "3.12.0"
+description = "Thin-wrapper around the mock package for easier use with pytest"
+optional = false
+python-versions = ">=3.8"
+files = [
+    {file = "pytest-mock-3.12.0.tar.gz", hash = "sha256:31a40f038c22cad32287bb43932054451ff5583ff094bca6f675df2f8bc1a6e9"},
+    {file = "pytest_mock-3.12.0-py3-none-any.whl", hash = "sha256:0972719a7263072da3a21c7f4773069bcc7486027d7e8e1f81d98a47e701bc4f"},
+]
+
+[package.dependencies]
+pytest = ">=5.0"
+
+[package.extras]
+dev = ["pre-commit", "pytest-asyncio", "tox"]
+
+[[package]]
 name = "pytest-playwright"
 version = "0.4.3"
 description = "A pytest wrapper with fixtures for Playwright to automate web browsers"
@@ -993,6 +1010,20 @@ playwright = ">=1.18"
 pytest = ">=6.2.4,<8.0.0"
 pytest-base-url = ">=1.0.0,<3.0.0"
 python-slugify = ">=6.0.0,<9.0.0"
+
+[[package]]
+name = "python-dotenv"
+version = "1.0.0"
+description = "Read key-value pairs from a .env file and set them as environment variables"
+optional = false
+python-versions = ">=3.8"
+files = [
+    {file = "python-dotenv-1.0.0.tar.gz", hash = "sha256:a8df96034aae6d2d50a4ebe8216326c61c3eb64836776504fcca410e5937a3ba"},
+    {file = "python_dotenv-1.0.0-py3-none-any.whl", hash = "sha256:f5971a9226b701070a4bf2c38c89e5a3f0d64de8debda981d1db98583009122a"},
+]
+
+[package.extras]
+cli = ["click (>=5.0)"]
 
 [[package]]
 name = "python-slugify"
@@ -1175,6 +1206,22 @@ socks = ["pysocks (>=1.5.6,!=1.5.7,<2.0)"]
 zstd = ["zstandard (>=0.18.0)"]
 
 [[package]]
+name = "webdriver-manager"
+version = "4.0.1"
+description = "Library provides the way to automatically manage drivers for different browsers"
+optional = false
+python-versions = ">=3.7"
+files = [
+    {file = "webdriver_manager-4.0.1-py2.py3-none-any.whl", hash = "sha256:d7970052295bb9cda2c1a24cf0b872dd2c41ababcc78f7b6b8dc37a41e979a7e"},
+    {file = "webdriver_manager-4.0.1.tar.gz", hash = "sha256:25ec177c6a2ce9c02fb8046f1b2732701a9418d6a977967bb065d840a3175d87"},
+]
+
+[package.dependencies]
+packaging = "*"
+python-dotenv = "*"
+requests = "*"
+
+[[package]]
 name = "wsproto"
 version = "1.2.0"
 description = "WebSockets state-machine based protocol implementation"
@@ -1191,4 +1238,4 @@ h11 = ">=0.9.0,<1"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.10"
-content-hash = "6db12ac9d449c2045f9d75fc1c02ce17932d8f793707b894c48810bf89db3e11"
+content-hash = "bc83f2d5b685f3c6cd321e9e1da9a5db301303d2978195c2ba3294aac75b203b"

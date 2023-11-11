@@ -2,7 +2,7 @@ import os
 from typing import Dict, Tuple
 
 from tarsier._base import ITarsier
-from tarsier.driver import BrowserDriver
+from tarsier.driver import BrowserDriver, SeleniumDriver
 from tarsier.ocr import OCRService
 
 TagToXPath = Dict[int, str]
@@ -26,18 +26,17 @@ class Tarsier(ITarsier):
 
     async def page_to_text(self, driver: BrowserDriver) -> Tuple[str, TagToXPath]:
         image, tag_to_xpath = await self.page_to_image(driver)
-        page_text = await self._run_ocr(image)
+        page_text = self._run_ocr(image)
         return page_text, tag_to_xpath
 
     @staticmethod
     async def _take_screenshot(driver: BrowserDriver) -> bytes:
         # TODO: scroll & stitch here, don't do viewport resizing
-        default_width, default_height = await driver.run_js(
-            "() => [window.innerWidth, window.innerHeight];"
-        )
-        content_height = await driver.run_js(
-            "() => document.documentElement.scrollHeight;"
-        )
+        script = "() => [window.innerWidth, window.innerHeight, document.documentElement.scrollHeight];"
+        if isinstance(driver, SeleniumDriver):
+            script = f"return [window.innerWidth, window.innerHeight, document.documentElement.scrollHeight];"
+
+        default_width, default_height, content_height = await driver.run_js(script)
 
         await driver.set_viewport_size(default_width, content_height)
         screenshot = await driver.take_screenshot()
@@ -45,13 +44,17 @@ class Tarsier(ITarsier):
 
         return screenshot
 
-    async def _run_ocr(self, image: bytes) -> str:
+    def _run_ocr(self, image: bytes) -> str:
         ocr_text = self._ocr_service.annotate(image)
         page_text = self._ocr_service.format_text(ocr_text)
         return page_text
 
     async def _tag_page(self, driver: BrowserDriver) -> Dict[int, str]:
         await driver.run_js(self._js_utils)
-        _, tag_to_xpath = await driver.run_js(f"tagifyWebpage(null, null);")
-        return {int(key): value for key, value in tag_to_xpath.items()}
 
+        script = "tagifyWebpage(null, null);"
+        if isinstance(driver, SeleniumDriver):
+            script = f"return window.{script}"
+
+        _, tag_to_xpath = await driver.run_js(script)
+        return {int(key): value for key, value in tag_to_xpath.items()}
