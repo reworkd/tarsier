@@ -61,7 +61,7 @@ async def main():
         print(tag_to_xpath) # Mapping of tags to x_paths
 ```
 
-Visit our cookbook for additional examples:
+Visit our [cookbook](https://github.com/reworkd/Tarsier/tree/main/cookbook) for additional examples:
 - A LangChain web agent
 - A LlamaIndex web agent
 
