@@ -3,10 +3,10 @@ from typing import Any
 from playwright.async_api import Page as PageAsync
 from playwright.sync_api import Page as PageSync
 
-from tarsier.driver._base import BrowserDriver
+from tarsier.adapter._base import BrowserAdapter
 
 
-class PlaywrightSyncDriver(BrowserDriver):
+class PlaywrightSyncAdapter(BrowserAdapter):
     def __init__(self, page: PageSync):
         self._page = page
         raise NotImplementedError(
@@ -23,7 +23,7 @@ class PlaywrightSyncDriver(BrowserDriver):
         self._page.set_viewport_size({"width": width, "height": height})
 
 
-class PlaywrightAsyncDriver(BrowserDriver):
+class PlaywrightAsyncAdapter(BrowserAdapter):
     def __init__(self, page: PageAsync):
         self._page = page
 

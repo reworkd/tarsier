@@ -10,8 +10,7 @@ from tarsier import Tarsier
 # noinspection DuplicatedCode
 @pytest.mark.skipif(reason="Sync Playwright is not yet supported")
 def test_sync_playwright(sync_page: Page, tarsier: Tarsier):
-    driver = tarsier.create_driver(sync_page)
-    text, paths = tarsier.page_to_text(driver)
+    text, paths = tarsier.page_to_text(sync_page)
 
     assert "Hacker" in text and "News" in text
     assert paths
@@ -28,8 +27,7 @@ def test_sync_playwright(sync_page: Page, tarsier: Tarsier):
 async def test_async_playwright(async_page: AsyncPage, tarsier: Tarsier) -> None:
     await async_page.goto("https://news.ycombinator.com/")
 
-    driver = tarsier.create_driver(async_page)
-    text, paths = await tarsier.page_to_text(driver)
+    text, paths = await tarsier.page_to_text(async_page)
 
     assert "Hacker" in text and "News" in text
     assert paths
@@ -46,8 +44,7 @@ async def test_async_playwright(async_page: AsyncPage, tarsier: Tarsier) -> None
 async def test_selenium(chrome_driver: WebDriver, tarsier: Tarsier):
     chrome_driver.get("https://news.ycombinator.com/")
 
-    driver = tarsier.create_driver(chrome_driver)
-    text, paths = await tarsier.page_to_text(driver)
+    text, paths = await tarsier.page_to_text(chrome_driver)
 
     assert "Hacker" in text and "News" in text
     assert paths

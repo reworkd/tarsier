@@ -24,8 +24,7 @@ async def main(credentials_path: str, url: str, verbose: bool) -> None:
         print("👀  Navigated to page.")
         print("🤖  Running Tarsier OCR...")
 
-        driver = tarsier.create_driver(page)
-        page_text, tag_to_xpath = await tarsier.page_to_text(driver)
+        page_text, tag_to_xpath = await tarsier.page_to_text(page)
 
         if verbose:
             print("XPaths:")

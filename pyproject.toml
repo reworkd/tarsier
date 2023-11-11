@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tarsier"
-version = "0.2.0"
+version = "0.3.0"
 description = "Vision utilities for web interaction agents"
 authors = ["Rohan Pandey", "Adam Watkins", "Asim Shrestha"]
 readme = "README.md"
@@ -13,7 +13,7 @@ google-cloud-vision = "^3.4.5"
 
 
 [tool.poetry.group.dev.dependencies]
-black = "^23.11.0"
+black = {extras = ["jupyter"], version = "^23.11.0"}
 isort = "^5.12.0"
 mypy = "^1.7.0"
 
