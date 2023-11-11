@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.github/assets/tarsier.png" height="300" alt="Tarsier Monkey" />
+  <img src="https://raw.githubusercontent.com/reworkd/Tarsier/main/.github/assets/tarsier.png" height="300" alt="Tarsier Monkey" />
 </p>
 <p align="center">
   <em>🙈 Vision utilities for web interaction agents 🙈</em>
