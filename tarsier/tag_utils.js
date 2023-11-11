@@ -1,9 +1,5 @@
 // TODO: clean up this file
 
-const assert = (condition, message) => {
-    if (!condition) throw new Error(message)
-}
-
 const elIsClean = (el) => {
     if (el.style && el.style.display === 'none') return false
     if (el.hidden) return false

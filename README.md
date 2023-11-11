@@ -16,14 +16,22 @@
 </p>
 
 # Tarsier
-Tried using GPT-4(V) to automate web interactions? You've probably run into issues like these:
-- How do you map from an LLM's responses back to web elements?
+If you've tried using GPT-4(V) to automate web interactions, you've probably run into questions like:
+- How do you map LLM responses back into web elements?
+- How can you mark up a page for an LLM better understand its action space?
 - How do you feed a "screenshot" to a text-only LLM?
-- How do you screen capture an entire page?
 
-At Reworkd, we found ourselves reusing the same utils to solve these problems across multiple projects, so we're now open-sourcing a simple little utils library for multimodal web agents... Tarsier!
+At Reworkd, we found ourselves reusing the same utility libraries to solve these problems across multiple projects. 
+Because of this we're now open-sourcing this simple utility library for multimodal web agents... Tarsier!
 
-Tarsier visually tags elements on a page, allowing GPT-4V to specify by tag which element to click. Tarsier also provides OCR utils to convert a page screenshot into a whitespace-structured string that an LLM without vision can understand.
+## How does it work?
+Tarsier works by visually "tagging" interactable elements on a page via brackets + an id such as `[1]`.
+In doing this, we provide a mapping between elements and ids for GPT-4(V) to take actions upon. 
+We define interactable elements as buttons, links, or input fields that are visible on the page.
+
+Can provide a textual representation of the page. This means that Tarsier enables deeper interaction for even non multi-modal LLMs.
+This is important to note given performance issues with existing vision language models.
+Tarsier also provides OCR utils to convert a page screenshot into a whitespace-structured string that an LLM without vision can understand.
 
 ## Installation
 ```shell
@@ -37,8 +45,8 @@ from playwright.async_api import async_playwright
 from tarsier import Tarsier, GoogleVisionOCRService
 
 async def main():
-    creds = {...} # Google Cloud credentials
-    ocr_service = GoogleVisionOCRService(creds)
+    google_cloud_credentials = {...}
+    ocr_service = GoogleVisionOCRService(google_cloud_credentials)
     tarsier = Tarsier(ocr_service)
     
     async with async_playwright() as p:
@@ -53,6 +61,20 @@ async def main():
         print(tag_to_xpath) # Mapping of tags to x_paths
 ```
 
+Visit our cookbook for additional examples:
+- A LangChain web agent
+- A LlamaIndex web agent
+
+## Roadmap
+- [x] Add documentation and examples
+- [x] Clean up interfaces and add unit tests
+- [x] Launch
+
+
+- [ ] Improve OCR text performance
+- [ ] Add options to customize tagging
+- [ ] Add support for other browsers drivers as necessary
+- [ ] Add support for other OCR services as necessary
 
 ## Citations
 ```
