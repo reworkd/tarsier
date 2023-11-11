@@ -2,21 +2,21 @@ from playwright.async_api import Page as PageAsync
 from playwright.sync_api import Page as PageSync
 from selenium.webdriver.remote.webdriver import WebDriver
 
-from ._base import BrowserDriver
-from .playwright import PlaywrightAsyncDriver, PlaywrightSyncDriver
-from .selenium import SeleniumDriver
+from ._base import BrowserAdapter
+from .playwright import PlaywrightAsyncAdapter, PlaywrightSyncAdapter
+from .selenium import SeleniumAdapter
 from .types import AnyDriver
 
 # TODO: make selenium and playwright drivers optional
 
 
-def driver_factory(driver: AnyDriver) -> BrowserDriver:
+def adapter_factory(driver: AnyDriver) -> BrowserAdapter:
     if isinstance(driver, WebDriver):
-        return SeleniumDriver(driver)
+        return SeleniumAdapter(driver)
     elif isinstance(driver, PageSync):
-        return PlaywrightSyncDriver(driver)
+        return PlaywrightSyncAdapter(driver)
     elif isinstance(driver, PageAsync):
-        return PlaywrightAsyncDriver(driver)
+        return PlaywrightAsyncAdapter(driver)
     # TODO: add support for Puppeteer
 
     else:
@@ -26,10 +26,10 @@ def driver_factory(driver: AnyDriver) -> BrowserDriver:
 
 
 __all__ = [
-    "BrowserDriver",
-    "PlaywrightAsyncDriver",
-    "PlaywrightSyncDriver",
-    "SeleniumDriver",
-    "driver_factory",
+    "BrowserAdapter",
+    "PlaywrightAsyncAdapter",
+    "PlaywrightSyncAdapter",
+    "SeleniumAdapter",
+    "adapter_factory",
     "AnyDriver",
 ]

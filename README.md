@@ -57,8 +57,7 @@ async def main():
         page = await browser.new_page()
         await page.goto("https://news.ycombinator.com")
 
-        driver = tarsier.create_driver(page)
-        page_text, tag_to_xpath = await tarsier.page_to_text(driver)
+        page_text, tag_to_xpath = await tarsier.page_to_text(page)
 
         print(tag_to_xpath)  # Mapping of tags to x_paths
         print(page_text)  # My Text representation of the page

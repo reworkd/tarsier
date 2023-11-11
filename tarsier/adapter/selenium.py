@@ -3,10 +3,10 @@ from typing import Any
 
 from selenium.webdriver.remote.webdriver import WebDriver
 
-from tarsier.driver._base import BrowserDriver
+from tarsier.adapter._base import BrowserAdapter
 
 
-class SeleniumDriver(BrowserDriver):
+class SeleniumAdapter(BrowserAdapter):
     def __init__(self, driver: WebDriver):
         self.driver = driver
 

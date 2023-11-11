@@ -2,7 +2,7 @@ from abc import ABC, abstractmethod
 from typing import Any
 
 
-class BrowserDriver(ABC):
+class BrowserAdapter(ABC):
     @abstractmethod
     async def run_js(self, js: str) -> Any:
         pass

@@ -1,18 +1,18 @@
 import pytest
 from playwright.async_api import Page
 
-from tarsier.driver import PlaywrightAsyncDriver, PlaywrightSyncDriver
+from tarsier.adapter import PlaywrightAsyncAdapter, PlaywrightSyncAdapter
 
 
 def test_sync_playwright_fails(mocker):
     with pytest.raises(NotImplementedError):
-        PlaywrightSyncDriver(mocker.Mock())
+        PlaywrightSyncAdapter(mocker.Mock())
 
 
 @pytest.mark.asyncio
 async def test_run_js(mocker):
     mock_page = mocker.MagicMock(spec=Page)
-    driver = PlaywrightAsyncDriver(mock_page)
+    driver = PlaywrightAsyncAdapter(mock_page)
 
     # Test run_js
     js_script = "return true;"
@@ -23,7 +23,7 @@ async def test_run_js(mocker):
 @pytest.mark.asyncio
 async def test_take_screenshot(mocker):
     mock_page = mocker.MagicMock(spec=Page)
-    driver = PlaywrightAsyncDriver(mock_page)
+    driver = PlaywrightAsyncAdapter(mock_page)
 
     # Test take_screenshot
     await driver.take_screenshot()
@@ -33,7 +33,7 @@ async def test_take_screenshot(mocker):
 @pytest.mark.asyncio
 async def test_set_viewport_size(mocker):
     mock_page = mocker.MagicMock(spec=Page)
-    driver = PlaywrightAsyncDriver(mock_page)
+    driver = PlaywrightAsyncAdapter(mock_page)
 
     # Test set_viewport_size
     width, height = 1920, 1080
