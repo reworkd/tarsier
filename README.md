@@ -25,15 +25,34 @@ At Reworkd, we found ourselves reusing the same utils to solve these problems ac
 
 Tarsier visually tags elements on a page, allowing GPT-4V to specify by tag which element to click. Tarsier also provides OCR utils to convert a page screenshot into a whitespace-structured string that an LLM without vision can understand.
 
+## Installation
+```shell
+pip install tarsier
+```
+
 ## Usage
 An agent using Tarsier might look like this:
-```
-# TODO
+```python
+from playwright.async_api import async_playwright
+from tarsier import Tarsier, GoogleVisionOCRService
+
+async def main():
+    creds = {...} # Google Cloud credentials
+    ocr_service = GoogleVisionOCRService(creds)
+    tarsier = Tarsier(ocr_service)
+    
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=False)
+        page = await browser.new_page()
+        await page.goto("https://news.ycombinator.com")
+    
+        driver = tarsier.create_driver(page)
+        page_text, tag_to_xpath = await tarsier.page_to_text(driver)
+        
+        print(page_text) # My Text representation of the page
+        print(tag_to_xpath) # Mapping of tags to x_paths
 ```
 
-## Installation
-
-`pip install tarsier`
 
 ## Citations
 ```

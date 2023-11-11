@@ -1,9 +1,10 @@
-from abc import ABC, abstractmethod
-from typing import Any, Dict, Tuple, List
-from collections import defaultdict
 import math
-from pydantic import BaseModel
+from abc import ABC, abstractmethod
+from collections import defaultdict
+from typing import Any, Dict, List, Tuple
+
 from google.cloud import vision
+from pydantic import BaseModel
 
 
 class ImageAnnotation(BaseModel):
@@ -23,7 +24,8 @@ class OCRService(ABC):
     def annotate(self, image_file: bytes) -> ImageAnnotatorResponse:
         pass
 
-    def format_text(self, ocr_text: ImageAnnotatorResponse) -> str:
+    @staticmethod
+    def format_text(ocr_text: ImageAnnotatorResponse) -> str:
         # Initialize dimensions
         canvas_width = 200
         canvas_height = 100
