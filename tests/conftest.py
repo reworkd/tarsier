@@ -44,7 +44,7 @@ def sync_page() -> None:
 @pytest.fixture
 def chrome_driver():
     options = webdriver.ChromeOptions()
-    # options.add_argument('headless')
+    options.add_argument('headless')
 
     path = ChromeDriverManager().install()
     driver = webdriver.Chrome(service=ChromeService(path), options=options)

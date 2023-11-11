@@ -52,3 +52,5 @@ jobs:
       - run: poetry install && poetry run playwright install chromium
       - name: Run pytest check
         run: poetry run pytest -vv --cov="tarsier" .
+        env:
+          TARSIER_GOOGLE_OCR_CREDENTIALS: ${{ secrets.TARSIER_GOOGLE_OCR_CREDENTIALS }}
