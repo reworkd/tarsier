@@ -75,6 +75,10 @@ async def main():
 if __name__ == '__main__':
     asyncio.run(main())
 ```
+## Supported OCR Services
+- [x] [Google Cloud Vision](https://cloud.google.com/vision)
+- [ ] [Amazon Textract](https://aws.amazon.com/textract/) (Coming Soon)
+- [ ] [Microsoft Azure Computer Vision](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/) (Coming Soon)
 
 ## Roadmap
 - [x] Add documentation and examples

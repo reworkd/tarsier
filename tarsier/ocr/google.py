@@ -1,9 +1,9 @@
-from typing import Any, Dict, List
+from typing import Any, Dict
 
 from google.cloud import vision
 
 from tarsier.ocr._base import OCRService
-from tarsier.ocr.types import ImageAnnotation, ImageAnnotatorResponse
+from tarsier.ocr.types import ImageAnnotatorResponse
 
 
 class GoogleVisionOCRService(OCRService):
@@ -13,7 +13,11 @@ class GoogleVisionOCRService(OCRService):
                 credentials
             )
         except Exception:  # TODO: specify exception
-            raise ValueError("OCR client creation from credentials failed.")
+            raise ValueError(
+                "OCR client creation from credentials failed.\n"
+                "Google your google cloud vision credentials can be created here:\n"
+                "https://console.cloud.google.com/apis/api/vision.googleapis.com"
+            )
 
         text_detection = vision.Feature()
         text_detection.type_ = vision.Feature.Type.TEXT_DETECTION  # type: ignore
