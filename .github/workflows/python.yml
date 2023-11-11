@@ -49,6 +49,6 @@ jobs:
         with:
           python-version: ${{ env.PYTHON_VERSION }}
           cache: 'poetry'
-      - run: poetry install
+      - run: poetry install && poetry run playwright install chromium
       - name: Run pytest check
         run: poetry run pytest -vv --cov="tarsier" .
