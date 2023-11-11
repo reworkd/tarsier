@@ -41,24 +41,31 @@ pip install tarsier
 ## Usage
 An agent using Tarsier might look like this:
 ```python
+import asyncio
+
 from playwright.async_api import async_playwright
 from tarsier import Tarsier, GoogleVisionOCRService
 
 async def main():
-    google_cloud_credentials = {...}
+    google_cloud_credentials = {}
+
     ocr_service = GoogleVisionOCRService(google_cloud_credentials)
     tarsier = Tarsier(ocr_service)
-    
+
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=False)
         page = await browser.new_page()
         await page.goto("https://news.ycombinator.com")
-    
+
         driver = tarsier.create_driver(page)
         page_text, tag_to_xpath = await tarsier.page_to_text(driver)
-        
-        print(page_text) # My Text representation of the page
-        print(tag_to_xpath) # Mapping of tags to x_paths
+
+        print(tag_to_xpath)  # Mapping of tags to x_paths
+        print(page_text)  # My Text representation of the page
+
+
+if __name__ == '__main__':
+    asyncio.run(main())
 ```
 
 Visit our [cookbook](https://github.com/reworkd/Tarsier/tree/main/cookbook) for additional examples:
