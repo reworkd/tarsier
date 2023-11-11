@@ -45,10 +45,10 @@ pip install tarsier
 
 ## Usage
 Visit our [cookbook](https://github.com/reworkd/Tarsier/tree/main/cookbook) for agent examples using Tarsier:
-- An autonomous LangChain web agent 🦜⛓️
-- A autonomous LlamaIndex web agent 🦙
+- [An autonomous LangChain web agent](https://github.com/reworkd/tarsier/blob/main/cookbook/langchain-web-agent.ipynb) 🦜⛓️
+- [An autonomous LlamaIndex web agent](https://github.com/reworkd/tarsier/blob/main/cookbook/llama-index-web-agent.ipynb) 🦙
   
-Basic Tarsier usage might look like the following:
+Otherwise, basic Tarsier usage might look like the following:
 ```python
 import asyncio
 
