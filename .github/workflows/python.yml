@@ -2,14 +2,8 @@ name: Testing Platform
 on:
   push:
     branches: [ "main" ]
-    paths:
-      - 'tarsier/**'
-      - 'tests/**'
   pull_request:
     branches: [ "main" ]
-    paths:
-      - 'tarsier/**'
-      - 'tests/**'
 
 env:
   PYTHON_VERSION: "3.11"
@@ -57,4 +51,4 @@ jobs:
           cache: 'poetry'
       - run: poetry install
       - name: Run pytest check
-        run: poetry run pytest -vv --cov="reworkd_platform" .
+        run: poetry run pytest -vv --cov="tarsier" .
