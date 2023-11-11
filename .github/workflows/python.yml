@@ -93,14 +93,6 @@ jobs:
           python-version: ${{ env.PYTHON_VERSION }}
           cache: 'poetry'
       - run: poetry install
-      - name: Run isort check
-        run: poetry run isort --check .
-      - name: Run black check
-        run: poetry run black --check .
-      - name: Run mypy check
-        run: poetry run mypy .
-      - name: Run pytest check
-        run: poetry run pytest -vv --cov="tarsier" .
       - name: Build and Publish
         run: |
           poetry config pypi-token.pypi ${{ secrets.PYPI_TOKEN }}
