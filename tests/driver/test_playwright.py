@@ -1,7 +1,7 @@
 import pytest
 from playwright.async_api import Page
 
-from tarsier.driver import PlaywrightSyncDriver, PlaywrightAsyncDriver
+from tarsier.driver import PlaywrightAsyncDriver, PlaywrightSyncDriver
 
 
 def test_sync_playwright_fails(mocker):

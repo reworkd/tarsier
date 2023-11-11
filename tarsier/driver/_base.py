@@ -1,9 +1,10 @@
 from abc import ABC, abstractmethod
+from typing import Any
 
 
 class BrowserDriver(ABC):
     @abstractmethod
-    async def run_js(self, js: str):
+    async def run_js(self, js: str) -> Any:
         pass
 
     @abstractmethod
@@ -11,5 +12,5 @@ class BrowserDriver(ABC):
         pass
 
     @abstractmethod
-    async def set_viewport_size(self, width: int, height: int):
+    async def set_viewport_size(self, width: int, height: int) -> None:
         pass

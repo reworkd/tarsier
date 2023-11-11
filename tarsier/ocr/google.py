@@ -1,9 +1,9 @@
-from typing import Any, Dict
+from typing import Any, Dict, List
 
 from google.cloud import vision
 
 from tarsier.ocr._base import OCRService
-from tarsier.ocr.types import ImageAnnotatorResponse
+from tarsier.ocr.types import ImageAnnotation, ImageAnnotatorResponse
 
 
 class GoogleVisionOCRService(OCRService):
@@ -16,7 +16,7 @@ class GoogleVisionOCRService(OCRService):
             raise ValueError("OCR client creation from credentials failed.")
 
         text_detection = vision.Feature()
-        text_detection.type_ = vision.Feature.Type.TEXT_DETECTION
+        text_detection.type_ = vision.Feature.Type.TEXT_DETECTION  # type: ignore
         self._features = [text_detection]
 
     def annotate(self, image_file: bytes) -> ImageAnnotatorResponse:
@@ -64,4 +64,4 @@ class GoogleVisionOCRService(OCRService):
             )
         )
 
-        return {"words": annotations_normed}
+        return {"words": annotations_normed}  # type: ignore

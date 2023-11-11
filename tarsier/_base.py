@@ -1,22 +1,18 @@
 from asyncio import Protocol
-from typing import Dict, Tuple, Union
+from typing import Dict, Tuple
 
-from playwright.async_api import Page as PageAsync
-from playwright.sync_api import Page as PageSync
-from selenium.webdriver.remote.webdriver import WebDriver
-
-from tarsier.driver import BrowserDriver, driver_factory
-
-Driver = Union[WebDriver, PageSync, PageAsync]
+from tarsier.driver import AnyDriver, BrowserDriver, driver_factory
 
 
 class ITarsier(Protocol):
-    async def page_to_image(self, driver: BrowserDriver) -> Tuple[str, Dict[int, str]]:
-        ...
+    async def page_to_image(
+        self, driver: BrowserDriver
+    ) -> Tuple[bytes, Dict[int, str]]:
+        raise NotImplementedError()
 
     async def page_to_text(self, driver: BrowserDriver) -> Tuple[str, Dict[int, str]]:
-        ...
+        raise NotImplementedError()
 
     @staticmethod
-    def create_driver(driver: Driver) -> BrowserDriver:
+    def create_driver(driver: AnyDriver) -> BrowserDriver:
         return driver_factory(driver)

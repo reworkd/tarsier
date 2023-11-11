@@ -1,4 +1,4 @@
-from typing import TypedDict, Tuple, List
+from typing import List, Tuple, TypedDict
 
 
 class ImageAnnotation(TypedDict):

@@ -47,7 +47,7 @@ warn_unused_ignores = false
 warn_return_any = false
 namespace_packages = true
 files = "tarsier"
-exclude = ["tests"]
+exclude = ["tests", "venv"]
 
 [build-system]
 requires = ["poetry-core"]
