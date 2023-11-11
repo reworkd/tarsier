@@ -1,4 +1,4 @@
-name: Testing Platform
+name: Poetry Publish
 on:
   push:
     branches: [ "main" ]
