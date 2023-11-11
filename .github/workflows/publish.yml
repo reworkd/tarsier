@@ -4,6 +4,7 @@ on:
     branches: [ "main" ]
     paths:
       - "pyproject.toml"
+      - ".github/workflows/publish.yml"
 
 env:
   PYTHON_VERSION: "3.11"
@@ -33,7 +34,7 @@ jobs:
   publish:
     needs: check-version
     runs-on: ubuntu-latest
-    if: needs.check-version.outputs.should_publish == 'true'
+    if: steps.check-version.outputs.should_publish == 'true'
     steps:
       - uses: actions/checkout@v3
       - name: Install poetry
