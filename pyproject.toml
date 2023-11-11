@@ -2,7 +2,7 @@
 name = "tarsier"
 version = "0.1.0"
 description = "Vision utilities for web interaction agents"
-authors = ["Rohan Pandey"]
+authors = ["Rohan Pandey", "Adam Watkins", "Asim Shrestha"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
@@ -21,6 +21,9 @@ mypy = "^1.7.0"
 [tool.poetry.group.test.dependencies]
 pytest = "^7.4.3"
 pytest-cov = "^4.1.0"
+pytest-playwright = "^0.4.3"
+pytest-asyncio = "^0.21.1"
+nest-asyncio = "^1.5.8"
 
 
 [tool.isort]

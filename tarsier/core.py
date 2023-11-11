@@ -21,12 +21,8 @@ class Tarsier(ITarsier):
     ) -> Tuple[bytes, Dict[int, str]]:
         tag_to_xpath = await self._tag_page(driver)
 
-        await self._take_screenshot(
-            driver, "screenshot.png"
-        )  # TODO: probably not best naming practice?
-
-        with open("screenshot.png", "rb") as f:
-            return f.read(), tag_to_xpath
+        screenshot = await self._take_screenshot(driver)
+        return screenshot, tag_to_xpath
 
     async def page_to_text(self, driver: BrowserDriver) -> Tuple[str, TagToXPath]:
         image, tag_to_xpath = await self.page_to_image(driver)
@@ -34,7 +30,7 @@ class Tarsier(ITarsier):
         return page_text, tag_to_xpath
 
     @staticmethod
-    async def _take_screenshot(driver: BrowserDriver, filename: str) -> None:
+    async def _take_screenshot(driver: BrowserDriver) -> bytes:
         # TODO: scroll & stitch here, don't do viewport resizing
         default_width, default_height = await driver.run_js(
             "() => [window.innerWidth, window.innerHeight];"
@@ -44,8 +40,10 @@ class Tarsier(ITarsier):
         )
 
         await driver.set_viewport_size(default_width, content_height)
-        await driver.take_screenshot(filename)
+        screenshot = await driver.take_screenshot()
         await driver.set_viewport_size(default_width, default_height)
+
+        return screenshot
 
     async def _run_ocr(self, image: bytes) -> str:
         ocr_text = self._ocr_service.annotate(image)
@@ -55,4 +53,5 @@ class Tarsier(ITarsier):
     async def _tag_page(self, driver: BrowserDriver) -> Dict[int, str]:
         await driver.run_js(self._js_utils)
         _, tag_to_xpath = await driver.run_js(f"tagifyWebpage(null, null);")
-        return tag_to_xpath
+        return {int(key): value for key, value in tag_to_xpath.items()}
+

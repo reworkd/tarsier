@@ -1,7 +1,6 @@
 import argparse
 import asyncio
 import json
-import logging
 from pprint import pprint
 
 from playwright.async_api import async_playwright

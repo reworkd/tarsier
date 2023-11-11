@@ -7,7 +7,7 @@ class BrowserDriver(ABC):
         pass
 
     @abstractmethod
-    async def take_screenshot(self, filename: str):
+    async def take_screenshot(self) -> bytes:
         pass
 
     @abstractmethod

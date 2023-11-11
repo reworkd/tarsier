@@ -11,8 +11,8 @@ class PlaywrightSyncDriver(BrowserDriver):
     async def run_js(self, js: str):
         return self.page.evaluate(js)
 
-    async def take_screenshot(self, filename: str):
-        self.page.screenshot(path=filename)
+    async def take_screenshot(self) -> bytes:
+        return self.page.screenshot(type="png")
 
     async def set_viewport_size(self, width, height):
         self.page.set_viewport_size({"width": width, "height": height})
@@ -26,8 +26,8 @@ class PlaywrightAsyncDriver(BrowserDriver):
         result = await self.page.evaluate(js)
         return result
 
-    async def take_screenshot(self, filename: str):
-        await self.page.screenshot(path=filename)
+    async def take_screenshot(self) -> bytes:
+        return await self.page.screenshot(type="png")
 
     async def set_viewport_size(self, width, height):
         await self.page.set_viewport_size({"width": width, "height": height})

@@ -14,10 +14,11 @@ class SeleniumDriver(BrowserDriver):
             None, self.driver.execute_script, js
         )
 
-    async def take_screenshot(self, filename: str):
-        await asyncio.get_event_loop().run_in_executor(
-            None, self.driver.save_screenshot, filename
-        )
+    async def take_screenshot(self) -> bytes:
+        raise NotImplementedError()
+        # await asyncio.get_event_loop().run_in_executor(
+        #     None, self.driver.save_screenshot, filename
+        # )
 
     async def set_viewport_size(self, width, height):
         await asyncio.get_event_loop().run_in_executor(
