@@ -2,7 +2,7 @@
   <img src="./.github/assets/tarsier.png" height="300" alt="Tarsier Monkey" />
 </p>
 <p align="center">
-  <em>👁 Vision utilities for web interaction agents 👁️</em>
+  <em>🙈 Vision utilities for web interaction agents 🙈</em>
 </p>
 <p align="center">
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />

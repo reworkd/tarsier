@@ -9,6 +9,8 @@ readme = "README.md"
 python = "^3.10"
 playwright = "^1.39.0"
 selenium = "^4.15.2"
+pydantic = "^2.4.2"
+google-cloud-vision = "^3.4.5"
 
 
 [tool.poetry.group.dev.dependencies]
