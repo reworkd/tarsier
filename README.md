@@ -5,7 +5,10 @@
   <em>🙈 Vision utilities for web interaction agents 🙈</em>
 </p>
 <p align="center">
-    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <a href="https://pypi.org/project/tarsier/" target="_blank">
+        <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+        <img alt="Version" src="https://img.shields.io/pypi/v/tarsier?style=for-the-badge&color=3670A0">
+    </a>
 </p>
 <p align="center">
 <a href="https://reworkd.ai/">🔗 Main site</a>
@@ -84,8 +87,6 @@ if __name__ == '__main__':
 - [x] Add documentation and examples
 - [x] Clean up interfaces and add unit tests
 - [x] Launch
-
-
 - [ ] Improve OCR text performance
 - [ ] Add options to customize tagging styling
 - [ ] Add support for other browsers drivers as necessary
