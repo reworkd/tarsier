@@ -99,6 +99,6 @@ bibtex
   author       = {Rohan Pandey and Adam Watkins and Asim Shrestha and Srijan Subedi},
   year         = {2023},
   howpublished = {GitHub},
-  url          = {https://github.com/reworkd/bananalyzer}
+  url          = {https://github.com/reworkd/tarsier}
 }
 ```
