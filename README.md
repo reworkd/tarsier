@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://reworkd.ai/">🔗 Main site</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://twitter.com/reworkdai">🐦 Twitter</a>
+<a href="https://twitter.com/khoomeik/status/1723432848739483976">🐦 Twitter</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="https://discord.gg/gcmNyAAFfV">📢 Discord</a>
 </p>
