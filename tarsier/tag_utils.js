@@ -178,6 +178,6 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
 
 
 window.removeTags = () => {
-    const tags = document.querySelectorAll('#__tarsier_tag');
+    const tags = document.querySelectorAll('#__tarsier_id');
     tags.forEach(tag => tag.remove());
 }
