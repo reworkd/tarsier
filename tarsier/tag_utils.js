@@ -98,16 +98,16 @@ function getElementXPath(element) {
     return iframe_str + "//" + path_parts.join('/');
 }
 
+window.tagifyWebpage = (tagLeafTexts = false) => {
+    window.removeTags();
 
+    let idNum = 0;
+    let idToXpath = {};
 
-window.tagifyWebpage = (gtCls, gtId) => {
-    let numTagsSoFar = 0;
-    let gtTagId = null;
-    let idToTag = {};
-
-    const allElements = [...document.body.querySelectorAll("*")];
+    let allElements = [...document.body.querySelectorAll("*")];
     const iframes = document.getElementsByTagName('iframe');
 
+    // add elements in iframes to allElements
     for (let i = 0; i < iframes.length; i++) {
         try {
             console.log('iframe!', iframes[i]);
@@ -121,62 +121,63 @@ window.tagifyWebpage = (gtCls, gtId) => {
         }
     }
 
-    for (let el of allElements) {
-        const stringifiedClasses = el.classList.toString();
-        const isGt = (gtCls === null || stringifiedClasses === gtCls) && (gtId === null || el.id === gtId);
+    // ignore all children of interactable elements
+    allElements.map(el => {
+        if (isInteractable(el)) {
+            el.childNodes.forEach(child => {
+                const index = allElements.indexOf(child);
+                if (index > -1) {
+                    allElements.splice(index, 1);
+                }
+            });
+        }
+    });
 
+    const inputTags = ["input", "textarea", "select"];
+
+    for (let el of allElements) {
         const empty = isEmpty(el);
         const dirty = !elIsClean(el);
-        const uninteractable = !isInteractable(el);
+        const interactable = isInteractable(el);
 
-        if (logElements.includes(el)) {
-            console.log(`Logging ${el.innerText}, ${empty},${dirty},${uninteractable}`)
-        }
-        if (empty || dirty || uninteractable) {
-            // assert(!isGt, `GT element is marked as unclean or uninteractable. empty=${empty}, dirty=${dirty}, uninteractable=${uninteractable}`)
+        if (empty || dirty) {
             continue
         }
 
-        if (isGt) {
-            console.log("Tagging GT!", el);
-            // assert(gtTagId === null, "Multiple GTs found!")
-            gtTagId = numTagsSoFar;
+        const elTagName = el.tagName.toLowerCase();
+        const idStr = inputTags.includes(elTagName) ? `{${idNum}} ` : `[${idNum}] `;
+        idToXpath[idNum] = getElementXPath(el);
+
+        // create the span for the id tag
+        let idSpan = document.createElement('span');
+        idSpan.style.all = 'inherit';
+        idSpan.style.display = 'inline';
+        idSpan.textContent = idStr;
+        idSpan.id = '__tarsier_id';
+
+        if (interactable) {
+            if (!inputTags.includes(elTagName)) {
+                el.prepend(idSpan);
+            }
+            else if (elTagName === "textarea" || elTagName === "input") {
+                el.prepend(idSpan);
+            }
+            else if (elTagName === "select") {
+                // leave select blank - we'll give a tag ID to the options
+            }
+        } else if (tagLeafTexts && /\S/.test(el.textContent) && Array.from(el.childNodes).every(node => node.nodeType === Node.TEXT_NODE)) {
+            // This is a leaf element with non-whitespace text
+            el.prepend(idSpan);
         }
 
-        const specialTags = ["input", "textarea", "select"];
-
-        const tagLower = el.tagName.toLowerCase();
-        const tagStr = specialTags.includes(tagLower) ? `{${numTagsSoFar}} ` : `[${numTagsSoFar}] `;
-        idToTag[numTagsSoFar] = getElementXPath(el);
-
-        // check if already tagged and remove previous tag if so
-        const tagRegex = /[\[\]{]\d+[\[\]}]\s/;
-        if (tagRegex.test(el.textContent)) {
-            el.textContent = el.textContent.replace(tagRegex, '');
-        }
-        else if (el.placeholder && tagRegex.test(el.placeholder)) {
-            el.placeholder = el.placeholder.replace(tagRegex, '');
-        }
-        else if (el.value && tagRegex.test(el.value)) {
-            el.value = el.value.replace(tagRegex, '');
-        }
-
-        if (!specialTags.includes(tagLower)) {
-            el.prepend(new Text(tagStr));
-            // el.innerText = tagStr + el.innerText
-        }
-        else if (tagLower === "textarea" || tagLower === "input") {
-            if (el.value.length === 0)
-                el.placeholder = tagStr + el.placeholder
-            else el.value = tagStr + el.value
-        }
-        else if (tagLower === "select") {
-            // leave select blank - we'll give a tag ID to the options
-        }
-
-        numTagsSoFar++;
+        idNum++;
     }
 
-    return [gtTagId, idToTag];
+    return idToXpath;
 }
-logElements = []; // some elements where you can check your classification performance. useful for debugging.
+
+
+window.removeTags = () => {
+    const tags = document.querySelectorAll('#__tarsier_tag');
+    tags.forEach(tag => tag.remove());
+}

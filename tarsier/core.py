@@ -16,14 +16,15 @@ class Tarsier(ITarsier):
         with open(self._JS_TAG_UTILS, "r") as f:
             self._js_utils = f.read()
 
-    async def page_to_image(self, driver: AnyDriver) -> Tuple[bytes, Dict[int, str]]:
+    async def page_to_image(self, driver: AnyDriver, tagUninteractableText: bool = False) -> Tuple[bytes, Dict[int, str]]:
         adapter = adapter_factory(driver)
-        tag_to_xpath = await self._tag_page(adapter)
+        tag_to_xpath = await self._tag_page(adapter, tagUninteractableText)
         screenshot = await self._take_screenshot(adapter)
+        await self._remove_tags(adapter)
         return screenshot, tag_to_xpath
 
-    async def page_to_text(self, driver: AnyDriver) -> Tuple[str, TagToXPath]:
-        image, tag_to_xpath = await self.page_to_image(driver)
+    async def page_to_text(self, driver: AnyDriver, tagUninteractableText: bool = False) -> Tuple[str, TagToXPath]:
+        image, tag_to_xpath = await self.page_to_image(driver, tagUninteractableText)
         page_text = self._run_ocr(image)
         return page_text, tag_to_xpath
 
@@ -47,12 +48,24 @@ class Tarsier(ITarsier):
         page_text = self._ocr_service.format_text(ocr_text)
         return page_text
 
-    async def _tag_page(self, adapter: BrowserAdapter) -> Dict[int, str]:
+    async def _tag_page(
+        self, adapter: BrowserAdapter, tagUninteractableText: bool = False
+    ) -> Dict[int, str]:
         await adapter.run_js(self._js_utils)
 
-        script = "tagifyWebpage(null, null);"
+        script = f"tagifyWebpage({str(tagUninteractableText).lower()});"
         if isinstance(adapter, SeleniumAdapter):
             script = f"return window.{script}"
 
-        _, tag_to_xpath = await adapter.run_js(script)
+        tag_to_xpath = await adapter.run_js(script)
         return {int(key): value for key, value in tag_to_xpath.items()}
+
+    async def _remove_tags(self, adapter: BrowserAdapter) -> None:
+        # await adapter.run_js(self._js_utils)
+
+        script = "removeTags();"
+        if isinstance(adapter, SeleniumAdapter):
+            script = f"return window.{script}"
+
+        await adapter.run_js(script)
+        return None
