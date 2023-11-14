@@ -16,15 +16,15 @@ class Tarsier(ITarsier):
         with open(self._JS_TAG_UTILS, "r") as f:
             self._js_utils = f.read()
 
-    async def page_to_image(self, driver: AnyDriver, tagUninteractableText: bool = False) -> Tuple[bytes, Dict[int, str]]:
+    async def page_to_image(self, driver: AnyDriver, tag_text_elements: bool = False) -> Tuple[bytes, Dict[int, str]]:
         adapter = adapter_factory(driver)
-        tag_to_xpath = await self._tag_page(adapter, tagUninteractableText)
+        tag_to_xpath = await self._tag_page(adapter, tag_text_elements)
         screenshot = await self._take_screenshot(adapter)
         await self._remove_tags(adapter)
         return screenshot, tag_to_xpath
 
-    async def page_to_text(self, driver: AnyDriver, tagUninteractableText: bool = False) -> Tuple[str, TagToXPath]:
-        image, tag_to_xpath = await self.page_to_image(driver, tagUninteractableText)
+    async def page_to_text(self, driver: AnyDriver, tag_text_elements: bool = False) -> Tuple[str, TagToXPath]:
+        image, tag_to_xpath = await self.page_to_image(driver, tag_text_elements)
         page_text = self._run_ocr(image)
         return page_text, tag_to_xpath
 
@@ -49,11 +49,11 @@ class Tarsier(ITarsier):
         return page_text
 
     async def _tag_page(
-        self, adapter: BrowserAdapter, tagUninteractableText: bool = False
+        self, adapter: BrowserAdapter, tag_text_elements: bool = False
     ) -> Dict[int, str]:
         await adapter.run_js(self._js_utils)
 
-        script = f"tagifyWebpage({str(tagUninteractableText).lower()});"
+        script = f"tagifyWebpage({str(tag_text_elements).lower()});"
         if isinstance(adapter, SeleniumAdapter):
             script = f"return window.{script}"
 
