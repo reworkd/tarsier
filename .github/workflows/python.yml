@@ -1,12 +1,13 @@
 name: Test and Publish
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
   pull_request:
-    branches: [ "main" ]
+    branches: ["main"]
 
 env:
   PYTHON_VERSION: "3.11"
+  NODE_VERSION: "18.x"
 
 jobs:
   check-version:
@@ -38,7 +39,7 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: ${{ env.PYTHON_VERSION }}
-          cache: 'poetry'
+          cache: "poetry"
       - run: poetry install
       - name: Run isort check
         run: poetry run isort --check .
@@ -54,7 +55,7 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: ${{ env.PYTHON_VERSION }}
-          cache: 'poetry'
+          cache: "poetry"
       - run: poetry install
       - name: Run mypy check
         run: poetry run mypy .
@@ -63,12 +64,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: "npm"
+          cache-dependency-path: package-lock.json
+      - name: Compile TypeScript
+        run: npm ci && npm run build
       - name: Install poetry
         run: pipx install poetry
       - uses: actions/setup-python@v4
         with:
           python-version: ${{ env.PYTHON_VERSION }}
-          cache: 'poetry'
+          cache: "poetry"
       - run: poetry install && poetry run playwright install chromium
       - name: Run pytest check
         run: poetry run pytest -vv --cov="tarsier" .
@@ -76,22 +84,24 @@ jobs:
           TARSIER_GOOGLE_OCR_CREDENTIALS: ${{ secrets.TARSIER_GOOGLE_OCR_CREDENTIALS }}
 
   publish:
-    needs: [
-      check-version,
-      black,
-      mypy,
-      pytest
-    ]
+    needs: [check-version, black, mypy, pytest]
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main' && needs.check-version.outputs.should_publish == 'true'
     steps:
       - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: "npm"
+          cache-dependency-path: package-lock.json
+      - name: Compile TypeScript
+        run: npm ci && npm run build
       - name: Install poetry
         run: pipx install poetry
       - uses: actions/setup-python@v4
         with:
           python-version: ${{ env.PYTHON_VERSION }}
-          cache: 'poetry'
+          cache: "poetry"
       - run: poetry install
       - name: Build and Publish
         run: |

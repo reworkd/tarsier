@@ -1,5 +1,6 @@
 import asyncio
 import json
+import os
 from os import environ
 
 import nest_asyncio
@@ -12,6 +13,8 @@ from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
 
 from tarsier import GoogleVisionOCRService, Tarsier
+
+IN_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
 
 
 @pytest.fixture(scope="module")
@@ -26,7 +29,7 @@ def event_loop():
 @pytest.mark.asyncio
 async def async_page() -> None:
     async with async_playwright() as pw:
-        browser = await pw.chromium.launch()
+        browser = await pw.chromium.launch(headless=IN_GITHUB_ACTIONS)
         page = await browser.new_page()
         yield page
         await browser.close()
@@ -35,7 +38,7 @@ async def async_page() -> None:
 @pytest.fixture(scope="module")
 def sync_page() -> None:
     with sync_playwright() as pw:
-        browser = pw.chromium.launch()
+        browser = pw.chromium.launch(headless=IN_GITHUB_ACTIONS)
         page = browser.new_page()
         yield page
         browser.close()
@@ -44,7 +47,8 @@ def sync_page() -> None:
 @pytest.fixture
 def chrome_driver():
     options = webdriver.ChromeOptions()
-    options.add_argument("headless")
+    if IN_GITHUB_ACTIONS:
+        options.add_argument("headless")
 
     path = ChromeDriverManager().install()
     driver = webdriver.Chrome(service=ChromeService(path), options=options)
