@@ -5,22 +5,18 @@ interface Window {
 }
 
 const elIsClean = (el: HTMLElement) => {
-  if (el.style && el.style.display === "none") return false;
-  if (el.hidden) return false;
-  // @ts-ignore
-  if (el.disabled) return false;
-
   const rect = el.getBoundingClientRect();
-  if (rect.width === 0 || rect.height === 0) return false;
 
-  if (el.tagName === "SCRIPT") return false;
-  if (el.tagName === "STYLE") return false;
+  // @ts-ignore
+  const isHidden = el.style?.display === "none" || el.hidden || el.disabled;
+  const isZeroSize = rect.width === 0 || rect.height === 0;
+  const isScriptOrStyle = el.tagName === "SCRIPT" || el.tagName === "STYLE";
 
-  return true;
+  return !isHidden && !isZeroSize && !isScriptOrStyle;
 };
 
 const inputs = ["a", "button", "textarea", "select", "details", "label"];
-const isInteractable = (el: Element) =>
+const isInteractable = (el: HTMLElement) =>
   inputs.includes(el.tagName.toLowerCase()) ||
   // @ts-ignore
   (el.tagName.toLowerCase() === "input" && el.type !== "hidden") ||
@@ -103,8 +99,7 @@ function getElementXPath(element: HTMLElement | null) {
     }
 
     path_parts.unshift(prefix);
-    // @ts-ignore
-    element = element.parentNode;
+    element = element.parentNode as HTMLElement | null;
   }
   return iframe_str + "//" + path_parts.join("/");
 }
@@ -150,7 +145,7 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
 
   // ignore all children of interactable elements
   allElements.map((el) => {
-    if (isInteractable(el as Element)) {
+    if (isInteractable(el)) {
       el.childNodes.forEach((child) => {
         const index = allElements.indexOf(child as HTMLElement);
         if (index > -1) {
