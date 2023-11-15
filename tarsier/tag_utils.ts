@@ -5,18 +5,14 @@ interface Window {
 }
 
 const elIsClean = (el: HTMLElement) => {
-  if (el.style && el.style.display === "none") return false;
-  if (el.hidden) return false;
-  // @ts-ignore
-  if (el.disabled) return false;
-
   const rect = el.getBoundingClientRect();
-  if (rect.width === 0 || rect.height === 0) return false;
 
-  if (el.tagName === "SCRIPT") return false;
-  if (el.tagName === "STYLE") return false;
+  // @ts-ignore
+  const isHidden = el.style?.display === "none" || el.hidden || el.disabled;
+  const isZeroSize = rect.width === 0 || rect.height === 0;
+  const isScriptOrStyle = el.tagName === "SCRIPT" || el.tagName === "STYLE";
 
-  return true;
+  return !isHidden && !isZeroSize && !isScriptOrStyle;
 };
 
 const inputs = ["a", "button", "textarea", "select", "details", "label"];
