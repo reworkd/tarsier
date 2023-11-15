@@ -148,3 +148,7 @@ cython_debug/
 *.db
 *.bin
 /screenshots/
+
+*.d.ts
+*.js
+node_modules
