@@ -10,7 +10,7 @@ TagToXPath = Dict[int, str]
 
 
 class Tarsier(ITarsier):
-    _JS_TAG_UTILS = Path(__file__).parent / "tag_utils.js"
+    _JS_TAG_UTILS = Path(__file__).parent / "tag_utils.min.js"
 
     def __init__(self, ocr_service: OCRService):
         self._ocr_service = ocr_service

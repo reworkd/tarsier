@@ -85,27 +85,37 @@ if __name__ == '__main__':
 ```
 
 ## Local Development
+
 ### Setup
+
 We have provided a handy setup script to get you up and running with Tarsier development.
+
 ```shell
 ./script/setup.sh
 ```
+
 If you modify any TypeScript files used by Tarsier, you'll need to execute the following command.
 This compiles the TypeScript into JavaScript, which can then be utilized in the Python package.
+
 ```shell
 npm run build
 ```
+
 ### Testing
+
 We use [pytest](https://docs.pytest.org) for testing. To run the tests, simply run:
+
 ```shell
 poetry run pytest .
 ```
+
 ### Linting
+
 Prior to submitting a potential PR, please run the following to format your code:
+
 ```shell
 ./script/format.sh
 ```
-
 
 ## Supported OCR Services
 

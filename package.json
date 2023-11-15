@@ -2,16 +2,17 @@
   "name": "tarsier",
   "description": "Vision utilities for web interaction agents",
   "private": true,
-  "version": "0.4.0",
+  "version": "0.4.2",
   "author": "Reworkd AI, INC.",
   "license": "MIT",
   "scripts": {
-    "build": "tsc -p ./tsconfig.json",
+    "build": "tsc -p ./tsconfig.json && esbuild ./tarsier/tag_utils.js --minify --outfile=./tarsier/tag_utils.min.js",
     "format": "prettier --write .",
     "lint": "prettier --check ."
   },
   "keywords": [],
   "devDependencies": {
+    "esbuild": "^0.19.5",
     "prettier": "^3.1.0",
     "typescript": "^5.2.2"
   }
