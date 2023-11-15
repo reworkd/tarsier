@@ -52,6 +52,11 @@ namespace_packages = true
 files = "tarsier"
 exclude = ["tests", "venv"]
 
+[tool.pytest.ini_options]
+filterwarnings = [
+    "ignore::DeprecationWarning",
+]
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
