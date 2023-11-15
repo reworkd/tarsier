@@ -41,3 +41,15 @@ async def test_set_viewport_size(mocker):
     mock_page.set_viewport_size.assert_called_once_with(
         {"width": width, "height": height}
     )
+
+
+@pytest.mark.asyncio
+async def test_get_viewport_size_returns_correct_values(async_page: Page):
+    adapter = PlaywrightAsyncAdapter(async_page)
+
+    await adapter.set_viewport_size(1920, 1080)
+    viewport = await adapter.get_viewport_size()
+
+    assert viewport["width"] == 1920
+    assert viewport["height"] == 1080
+    assert viewport["content_height"] == 1080
