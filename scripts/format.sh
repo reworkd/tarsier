@@ -1,7 +1,10 @@
 #!/bin/sh
 cd "$(dirname "$0")" || exit 1
 
-printf "Formatting Code 🧹\n"
+printf "Formatting JS 🧹\n"
+npm run format
+
+printf "\nFormatting Python 🧹\n"
 poetry run black .
 
 printf "\nSorting imports 🧹\n"
