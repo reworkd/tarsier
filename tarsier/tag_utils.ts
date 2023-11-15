@@ -109,6 +109,17 @@ function getElementXPath(element: HTMLElement | null) {
   return iframe_str + "//" + path_parts.join("/");
 }
 
+function create_tagged_span(idStr: string) {
+  let idSpan = document.createElement("span");
+  idSpan.id = "__tarsier_id";
+  idSpan.style.all = "inherit";
+  idSpan.style.display = "inline";
+  idSpan.style.color = "white";
+  idSpan.style.backgroundColor = "red";
+  idSpan.textContent = idStr;
+  return idSpan;
+}
+
 window.tagifyWebpage = (tagLeafTexts = false) => {
   window.removeTags();
 
@@ -158,15 +169,11 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
 
     const intractable = isInteractable(el);
     const elTagName = el.tagName.toLowerCase();
-    const idStr = inputTags.includes(elTagName) ? `{${idNum}} ` : `[${idNum}] `;
+    const idStr = inputTags.includes(elTagName) ? `{${idNum}}` : `[${idNum}]`;
     idToXpath[idNum] = getElementXPath(el);
 
     // create the span for the id tag
-    let idSpan = document.createElement("span");
-    idSpan.style.all = "inherit";
-    idSpan.style.display = "inline";
-    idSpan.textContent = idStr;
-    idSpan.id = "__tarsier_id";
+    let idSpan = create_tagged_span(idStr);
 
     if (intractable) {
       if (!inputTags.includes(elTagName)) {
