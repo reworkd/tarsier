@@ -1,9 +1,12 @@
 [tool.poetry]
 name = "tarsier"
-version = "0.4.0"
+version = "0.4.2"
 description = "Vision utilities for web interaction agents"
 authors = ["Rohan Pandey", "Adam Watkins", "Asim Shrestha"]
 readme = "README.md"
+include = ["tarsier/**/*.min.js"]
+exclude = ["tarsier/**/*.ts"]
+
 
 [tool.poetry.dependencies]
 python = "^3.10"
@@ -48,6 +51,11 @@ warn_return_any = false
 namespace_packages = true
 files = "tarsier"
 exclude = ["tests", "venv"]
+
+[tool.pytest.ini_options]
+filterwarnings = [
+    "ignore::DeprecationWarning",
+]
 
 [build-system]
 requires = ["poetry-core"]

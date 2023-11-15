@@ -1,20 +1,20 @@
-import os
+from pathlib import Path
 from typing import Dict, Tuple
 
 from tarsier._base import ITarsier
-from tarsier.adapter import AnyDriver, BrowserAdapter, SeleniumAdapter, adapter_factory
+from tarsier._utils import load_js
+from tarsier.adapter import AnyDriver, BrowserAdapter, adapter_factory
 from tarsier.ocr import OCRService
 
 TagToXPath = Dict[int, str]
 
 
 class Tarsier(ITarsier):
-    _JS_TAG_UTILS = os.path.dirname(os.path.realpath(__file__)) + "/tag_utils.js"
+    _JS_TAG_UTILS = Path(__file__).parent / "tag_utils.min.js"
 
     def __init__(self, ocr_service: OCRService):
         self._ocr_service = ocr_service
-        with open(self._JS_TAG_UTILS, "r") as f:
-            self._js_utils = f.read()
+        self._js_utils = load_js(self._JS_TAG_UTILS)
 
     async def page_to_image(
         self, driver: AnyDriver, tag_text_elements: bool = False
