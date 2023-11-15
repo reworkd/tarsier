@@ -1,7 +1,8 @@
 from os import PathLike
+from typing import Any
 
 
-def load_js(path: PathLike = None) -> str:
+def load_js(path: PathLike[Any]) -> str:
     try:
         with open(path, "r") as f:
             return f.read()
