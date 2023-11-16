@@ -162,7 +162,7 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
       continue;
     }
 
-    const intractable = isInteractable(el);
+    const interactable = isInteractable(el);
     const elTagName = el.tagName.toLowerCase();
     const idStr = inputTags.includes(elTagName) ? `{${idNum}}` : `[${idNum}]`;
     idToXpath[idNum] = getElementXPath(el);
@@ -170,7 +170,7 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
     // create the span for the id tag
     let idSpan = create_tagged_span(idStr);
 
-    if (intractable) {
+    if (interactable) {
       if (!inputTags.includes(elTagName)) {
         el.prepend(idSpan);
       } else if (elTagName === "textarea" || elTagName === "input") {
@@ -179,15 +179,13 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
         // leave select blank - we'll give a tag ID to the options
       }
     } else {
-      if (
-        tagLeafTexts &&
-        /\S/.test(el.textContent || "") &&
-        Array.from(el.childNodes).every(
-          (node) => node.nodeType === Node.TEXT_NODE,
-        )
-      ) {
-        // This is a leaf element with non-whitespace text
-        el.prepend(idSpan);
+      for (let child of Array.from(el.childNodes)) {
+        if (child.nodeType === Node.TEXT_NODE && /\S/.test(child.textContent || "")) {
+          // This is a text node with non-whitespace text
+          let idSpan = create_tagged_span(idStr);
+          el.insertBefore(idSpan, child);
+          idNum++;
+        }
       }
     }
 
