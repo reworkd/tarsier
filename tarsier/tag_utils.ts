@@ -164,18 +164,12 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
 
     const interactable = isInteractable(el);
     const elTagName = el.tagName.toLowerCase();
-    // const idStr = inputTags.includes(elTagName) ? `{${idNum}}` : `[${idNum}]`;
     idToXpath[idNum] = getElementXPath(el);
 
-    // create the span for the id tag
-    // let idSpan = create_tagged_span(idStr);
-
-    if (interactable) { // TODO: break the actual tag insertion out into a new loop
+    if (interactable) {
       if (!inputTags.includes(elTagName)) {
-        // el.prepend(idSpan);
         idNum++;
       } else if (elTagName === "textarea" || elTagName === "input") {
-        // el.prepend(idSpan);
         idNum++;
       } else if (elTagName === "select") {
         // leave select blank - we'll give a tag ID to the options
@@ -184,8 +178,6 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
       for (let child of Array.from(el.childNodes)) {
         if (child.nodeType === Node.TEXT_NODE && /\S/.test(child.textContent || "")) {
           // This is a text node with non-whitespace text
-          // let idSpan = create_tagged_span(idStr);
-          // el.insertBefore(idSpan, child);
           idNum++;
         }
       }
