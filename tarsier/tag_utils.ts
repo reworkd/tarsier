@@ -22,6 +22,9 @@ const isInteractable = (el: HTMLElement) =>
   (el.tagName.toLowerCase() === "input" && el.type !== "hidden") ||
   el.role === "button";
 
+const isTextInsertable = (el: HTMLElement) =>
+  (["input", "textarea"].includes(el.tagName.toLowerCase()));
+
 const emptyTagWhitelist = ["input", "textarea", "select", "button"];
 const isEmpty = (el: HTMLElement) => {
   const tagName = el.tagName.toLowerCase();
@@ -155,25 +158,15 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
     }
   });
 
-  const inputTags = ["input", "textarea", "select"];
-
   for (let el of allElements) {
     if (isEmpty(el) || !elIsClean(el)) {
       continue;
     }
 
-    const interactable = isInteractable(el);
-    const elTagName = el.tagName.toLowerCase();
     idToXpath[idNum] = getElementXPath(el);
 
-    if (interactable) {
-      if (!inputTags.includes(elTagName)) {
-        idNum++;
-      } else if (elTagName === "textarea" || elTagName === "input") {
-        idNum++;
-      } else if (elTagName === "select") {
-        // leave select blank - we'll give a tag ID to the options
-      }
+    if (isInteractable(el)) {
+      idNum++;
     } else {
       for (let child of Array.from(el.childNodes)) {
         if (child.nodeType === Node.TEXT_NODE && /\S/.test(child.textContent || "")) {
@@ -190,23 +183,12 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
       continue;
     }
 
-    const interactable = isInteractable(el);
-    const elTagName = el.tagName.toLowerCase();
-    const idStr = inputTags.includes(elTagName) ? `{${idNum}}` : `[${idNum}]`;
-
-    // create the span for the id tag
+    const idStr = isTextInsertable(el) ? `{${idNum}}` : `[${idNum}]`;
     let idSpan = create_tagged_span(idStr);
 
-    if (interactable) {
-      if (!inputTags.includes(elTagName)) {
-        el.prepend(idSpan);
-        idNum++;
-      } else if (elTagName === "textarea" || elTagName === "input") {
-        el.prepend(idSpan);
-        idNum++;
-      } else if (elTagName === "select") {
-        // leave select blank - we'll give a tag ID to the options
-      }
+    if (isInteractable(el)) {
+      el.prepend(idSpan);
+      idNum++;
     } else {
       for (let child of Array.from(el.childNodes)) {
         if (child.nodeType === Node.TEXT_NODE && /\S/.test(child.textContent || "")) {
