@@ -2,7 +2,7 @@
   "name": "tarsier",
   "description": "Vision utilities for web interaction agents",
   "private": true,
-  "version": "0.4.2",
+  "version": "0.4.3",
   "author": "Reworkd AI, INC.",
   "license": "MIT",
   "scripts": {
