@@ -167,7 +167,7 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
 
     if (isInteractable(el)) {
       idNum++;
-    } else {
+    } else if (tagLeafTexts) {
       for (let child of Array.from(el.childNodes)) {
         if (child.nodeType === Node.TEXT_NODE && /\S/.test(child.textContent || "")) {
           // This is a text node with non-whitespace text
@@ -189,7 +189,7 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
     if (isInteractable(el)) {
       el.prepend(idSpan);
       idNum++;
-    } else {
+    } else if (tagLeafTexts) {
       for (let child of Array.from(el.childNodes)) {
         if (child.nodeType === Node.TEXT_NODE && /\S/.test(child.textContent || "")) {
           // This is a text node with non-whitespace text
