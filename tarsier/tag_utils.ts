@@ -186,11 +186,13 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
     let idStr: string;
     if (isInteractable(el)) {
       if (isTextInsertable(el))
-        idStr = `{${idNum}}`;
+        idStr = `[#${idNum}]`;
+      else if (el.tagName.toLowerCase() == 'a')
+        idStr = `[@${idNum}]`;
       else
-        idStr = `[${idNum}]`;
+        idStr = `[$${idNum}]`;
     } else {
-      idStr = `#${idNum}`;
+      idStr = `[${idNum}]`;
     }
     let idSpan = create_tagged_span(idStr);
 
