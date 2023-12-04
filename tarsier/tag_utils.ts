@@ -183,11 +183,23 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
       continue;
     }
 
-    const idStr = isTextInsertable(el) ? `{${idNum}}` : `[${idNum}]`;
+    let idStr: string;
+    if (isInteractable(el)) {
+      if (isTextInsertable(el))
+        idStr = `{${idNum}}`;
+      else
+        idStr = `[${idNum}]`;
+    } else {
+      idStr = `#${idNum}`;
+    }
     let idSpan = create_tagged_span(idStr);
 
     if (isInteractable(el)) {
-      el.prepend(idSpan);
+      if (isTextInsertable(el) && el.parentElement) {
+        el.parentElement.insertBefore(idSpan, el);
+      } else {
+        el.prepend(idSpan);
+      }
       idNum++;
     } else if (tagLeafTexts) {
       for (let child of Array.from(el.childNodes)) {
