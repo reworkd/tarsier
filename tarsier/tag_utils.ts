@@ -22,8 +22,11 @@ const isInteractable = (el: HTMLElement) =>
   (el.tagName.toLowerCase() === "input" && el.type !== "hidden") ||
   el.role === "button";
 
+const text_input_types = ["text", "password", "email", "search", "url", "tel", "number"];
 const isTextInsertable = (el: HTMLElement) =>
-  (["input", "textarea"].includes(el.tagName.toLowerCase()));
+  el.tagName.toLowerCase() === "textarea" ||
+  ((el.tagName.toLowerCase() === "input" &&
+    text_input_types.includes((el as HTMLInputElement).type)));
 
 const emptyTagWhitelist = ["input", "textarea", "select", "button"];
 const isEmpty = (el: HTMLElement) => {
