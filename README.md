@@ -84,6 +84,12 @@ if __name__ == '__main__':
     asyncio.run(main())
 ```
 
+Keep in mind that Tarsier tags different types of elements differently to help your LLM identify what actions are performable on each element. Specifically:
+- `[#ID]`: text-insertable fields (e.g. `textarea`, `input` with textual type)
+- `[@ID]`: hyperlinks (`<a>` tags)
+- `[$ID]`: other interactable elements (e.g. `button`, `select`)
+- `[ID]`: plain text (if you pass `tag_text_elements=True`)
+
 ## Local Development
 
 ### Setup
