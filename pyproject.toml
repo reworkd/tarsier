@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tarsier"
-version = "0.4.2"
+version = "0.5.0"
 description = "Vision utilities for web interaction agents"
 authors = ["Rohan Pandey", "Adam Watkins", "Asim Shrestha"]
 readme = "README.md"

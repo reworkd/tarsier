@@ -22,6 +22,12 @@ const isInteractable = (el: HTMLElement) =>
   (el.tagName.toLowerCase() === "input" && el.type !== "hidden") ||
   el.role === "button";
 
+const text_input_types = ["text", "password", "email", "search", "url", "tel", "number"];
+const isTextInsertable = (el: HTMLElement) =>
+  el.tagName.toLowerCase() === "textarea" ||
+  ((el.tagName.toLowerCase() === "input" &&
+    text_input_types.includes((el as HTMLInputElement).type)));
+
 const emptyTagWhitelist = ["input", "textarea", "select", "button"];
 const isEmpty = (el: HTMLElement) => {
   const tagName = el.tagName.toLowerCase();
@@ -109,7 +115,19 @@ function getElementXPath(element: HTMLElement | null) {
   return iframe_str + "//" + path_parts.join("/");
 }
 
-function create_tagged_span(idStr: string) {
+function create_tagged_span(idNum: number, el: HTMLElement) {
+  let idStr: string;
+  if (isInteractable(el)) {
+    if (isTextInsertable(el))
+      idStr = `[#${idNum}]`;
+    else if (el.tagName.toLowerCase() == 'a')
+      idStr = `[@${idNum}]`;
+    else
+      idStr = `[$${idNum}]`;
+  } else {
+    idStr = `[${idNum}]`;
+  }
+
   let idSpan = document.createElement("span");
   idSpan.id = "__tarsier_id";
   idSpan.style.all = "inherit";
@@ -117,6 +135,7 @@ function create_tagged_span(idStr: string) {
   idSpan.style.color = "white";
   idSpan.style.backgroundColor = "red";
   idSpan.textContent = idStr;
+  
   return idSpan;
 }
 
@@ -160,43 +179,50 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
     }
   });
 
-  const inputTags = ["input", "textarea", "select"];
-
   for (let el of allElements) {
     if (isEmpty(el) || !elIsClean(el)) {
       continue;
     }
 
-    const intractable = isInteractable(el);
-    const elTagName = el.tagName.toLowerCase();
-    const idStr = inputTags.includes(elTagName) ? `{${idNum}}` : `[${idNum}]`;
     idToXpath[idNum] = getElementXPath(el);
 
-    // create the span for the id tag
-    let idSpan = create_tagged_span(idStr);
-
-    if (intractable) {
-      if (!inputTags.includes(elTagName)) {
-        el.prepend(idSpan);
-      } else if (elTagName === "textarea" || elTagName === "input") {
-        el.prepend(idSpan);
-      } else if (elTagName === "select") {
-        // leave select blank - we'll give a tag ID to the options
-      }
-    } else {
-      if (
-        tagLeafTexts &&
-        /\S/.test(el.textContent || "") &&
-        Array.from(el.childNodes).every(
-          (node) => node.nodeType === Node.TEXT_NODE,
-        )
-      ) {
-        // This is a leaf element with non-whitespace text
-        el.prepend(idSpan);
+    if (isInteractable(el)) {
+      idNum++;
+    } else if (tagLeafTexts) {
+      for (let child of Array.from(el.childNodes)) {
+        if (child.nodeType === Node.TEXT_NODE && /\S/.test(child.textContent || "")) {
+          // This is a text node with non-whitespace text
+          idNum++;
+        }
       }
     }
+  }
 
-    idNum++;
+  idNum = 0;
+  for (let el of allElements) {
+    if (isEmpty(el) || !elIsClean(el)) {
+      continue;
+    }
+
+    let idSpan = create_tagged_span(idNum, el);
+
+    if (isInteractable(el)) {
+      if (isTextInsertable(el) && el.parentElement) {
+        el.parentElement.insertBefore(idSpan, el);
+      } else {
+        el.prepend(idSpan);
+      }
+      idNum++;
+    } else if (tagLeafTexts) {
+      for (let child of Array.from(el.childNodes)) {
+        if (child.nodeType === Node.TEXT_NODE && /\S/.test(child.textContent || "")) {
+          // This is a text node with non-whitespace text
+          let idSpan = create_tagged_span(idNum, el);
+          el.insertBefore(idSpan, child);
+          idNum++;
+        }
+      }
+    }
   }
 
   return idToXpath;
