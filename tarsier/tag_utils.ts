@@ -33,7 +33,12 @@ const isEmpty = (el: HTMLElement) => {
 
     if (svg || img) return false;
 
-    return true;
+    // Check if the rectangle is non-zero and element is on screen
+    const rect = el.getBoundingClientRect();
+    return !(rect.width > 0 && rect.height > 0 &&
+      rect.top >= 0 && rect.left >= 0 &&
+      rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+      rect.right <= (window.innerWidth || document.documentElement.clientWidth));
   }
 
   return false;
