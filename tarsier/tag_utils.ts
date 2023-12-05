@@ -39,11 +39,21 @@ const isEmpty = (el: HTMLElement) => {
 
     if (svg || img) return false;
 
-    return true;
+    return isElementInViewport(el);
   }
 
   return false;
 };
+
+function isElementInViewport(el: HTMLElement) {
+  const rect = el.getBoundingClientRect();
+  return (
+    rect.top >= 0 &&
+    rect.left >= 0 &&
+    rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+    rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+  );
+}
 
 function getElementXPath(element: HTMLElement | null) {
   let path_parts = [];
