@@ -110,7 +110,19 @@ function getElementXPath(element: HTMLElement | null) {
   return iframe_str + "//" + path_parts.join("/");
 }
 
-function create_tagged_span(idStr: string) {
+function create_tagged_span(idNum: number, el: HTMLElement) {
+  let idStr: string;
+  if (isInteractable(el)) {
+    if (isTextInsertable(el))
+      idStr = `[#${idNum}]`;
+    else if (el.tagName.toLowerCase() == 'a')
+      idStr = `[@${idNum}]`;
+    else
+      idStr = `[$${idNum}]`;
+  } else {
+    idStr = `[${idNum}]`;
+  }
+
   let idSpan = document.createElement("span");
   idSpan.id = "__tarsier_id";
   idSpan.style.all = "inherit";
@@ -118,6 +130,7 @@ function create_tagged_span(idStr: string) {
   idSpan.style.color = "white";
   idSpan.style.backgroundColor = "red";
   idSpan.textContent = idStr;
+  
   return idSpan;
 }
 
@@ -186,18 +199,7 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
       continue;
     }
 
-    let idStr: string;
-    if (isInteractable(el)) {
-      if (isTextInsertable(el))
-        idStr = `[#${idNum}]`;
-      else if (el.tagName.toLowerCase() == 'a')
-        idStr = `[@${idNum}]`;
-      else
-        idStr = `[$${idNum}]`;
-    } else {
-      idStr = `[${idNum}]`;
-    }
-    let idSpan = create_tagged_span(idStr);
+    let idSpan = create_tagged_span(idNum, el);
 
     if (isInteractable(el)) {
       if (isTextInsertable(el) && el.parentElement) {
@@ -210,7 +212,7 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
       for (let child of Array.from(el.childNodes)) {
         if (child.nodeType === Node.TEXT_NODE && /\S/.test(child.textContent || "")) {
           // This is a text node with non-whitespace text
-          let idSpan = create_tagged_span(idStr);
+          let idSpan = create_tagged_span(idNum, el);
           el.insertBefore(idSpan, child);
           idNum++;
         }
