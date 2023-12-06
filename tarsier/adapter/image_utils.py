@@ -7,7 +7,7 @@ from PIL import Image
 def stitch_screenshots_in_memory(images: List[Image.Image]) -> bytes:
     total_width = max(image.width for image in images)
     total_height = sum(image.height for image in images)
-    stitched_image = Image.new("RGB", (total_width, total_height)) 
+    stitched_image = Image.new("RGB", (total_width, total_height))
 
     y_offset = 0
     for img in images:

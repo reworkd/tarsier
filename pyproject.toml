@@ -13,6 +13,7 @@ python = "^3.10"
 playwright = "^1.39.0"
 selenium = "^4.15.2"
 google-cloud-vision = "^3.4.5"
+pillow = "^10.1.0"
 
 
 [tool.poetry.group.dev.dependencies]
