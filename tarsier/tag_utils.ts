@@ -6,13 +6,14 @@ interface Window {
 
 const elIsClean = (el: HTMLElement) => {
   const rect = el.getBoundingClientRect();
+  const computedStyle = window.getComputedStyle(el);
 
   // @ts-ignore
-  const isHidden = el.style?.display === "none" || el.hidden || el.disabled;
+  const isHidden = computedStyle.visibility === 'hidden' || computedStyle.display === 'none' || el.hidden || el.disabled;
+  const isTransparent = computedStyle.opacity === '0';
   const isZeroSize = rect.width === 0 || rect.height === 0;
   const isScriptOrStyle = el.tagName === "SCRIPT" || el.tagName === "STYLE";
-
-  return !isHidden && !isZeroSize && !isScriptOrStyle;
+  return !isHidden && !isTransparent && !isZeroSize && !isScriptOrStyle;
 };
 
 const inputs = ["a", "button", "textarea", "select", "details", "label"];
@@ -137,10 +138,13 @@ function create_tagged_span(idNum: number, el: HTMLElement) {
   idSpan.id = "__tarsier_id";
   idSpan.style.all = "inherit";
   idSpan.style.display = "inline";
-  idSpan.style.color = "white";
-  idSpan.style.backgroundColor = "red";
+  idSpan.style.color = "black";
+  idSpan.style.backgroundColor = "yellow";
+  idSpan.style.padding = "3px";
+  idSpan.style.borderRadius = "5px";
+  idSpan.style.margin = "5px";
+  idSpan.style.zIndex = '2140000046';
   idSpan.textContent = idStr;
-  
   return idSpan;
 }
 
@@ -230,8 +234,48 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
     }
   }
 
+  absolutelyPositionMissingTags();
+
   return idToXpath;
 };
+
+function absolutelyPositionMissingTags() {
+  /*
+  Some tags don't get displayed on the page properly
+  This occurs if the parent element children are disjointed from the parent
+  In this case, we absolutely position the tag to the parent element
+  */
+  const distanceThreshold = 500;
+  const distanceToParentPadding = 20;
+
+  const tags: NodeListOf<HTMLElement> = document.querySelectorAll("#__tarsier_id");
+  tags.forEach((tag) => {
+    const parent = tag.parentElement as HTMLElement;
+    const parentRect = parent.getBoundingClientRect();
+    const parentCenter = {
+        x: (parentRect.left + parentRect.right) / 2,
+        y: (parentRect.top + parentRect.bottom) / 2,
+    };
+    
+    const tagRect = tag.getBoundingClientRect();
+    const tagCenter = {
+        x: (tagRect.left + tagRect.right) / 2,
+        y: (tagRect.top + tagRect.bottom) / 2,
+    };
+
+    const dx = Math.abs(parentCenter.x - tagCenter.x);
+    const dy = Math.abs(parentCenter.y - tagCenter.y);
+    if (dx > distanceThreshold || dy > distanceThreshold || !elIsClean(tag)) {
+        tag.style.position = "absolute";
+        tag.style.left = `${parentRect.left - distanceToParentPadding}px`;
+        tag.style.top = `${parentRect.top - distanceToParentPadding}px`;
+
+        // Remove the tag from parent and place in html body
+        parent.removeChild(tag);
+        document.body.appendChild(tag);
+    }
+  });
+}
 
 window.removeTags = () => {
   const tags = document.querySelectorAll("#__tarsier_id");
