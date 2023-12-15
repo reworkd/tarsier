@@ -139,7 +139,6 @@ function create_tagged_span(idNum: number, el: HTMLElement) {
 
   let idSpan = document.createElement("span");
   idSpan.id = tarsierId;
-  idSpan.style.all = "inherit";
   idSpan.style.display = "inline";
   idSpan.style.color = "white";
   idSpan.style.backgroundColor = "red";
@@ -147,6 +146,9 @@ function create_tagged_span(idNum: number, el: HTMLElement) {
   idSpan.style.borderRadius = "5px";
   idSpan.style.margin = "5px";
   idSpan.style.zIndex = '2140000046';
+  idSpan.style.clip = 'auto';
+  idSpan.style.height = 'fit-content';
+  idSpan.style.width = 'fit-content';
   idSpan.textContent = idStr;
   return idSpan;
 }
