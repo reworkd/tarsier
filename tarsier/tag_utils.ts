@@ -270,7 +270,6 @@ function absolutelyPositionMissingTags() {
         tag.style.left = `${parentRect.left - distanceToParentPadding}px`;
         tag.style.top = `${parentRect.top - distanceToParentPadding}px`;
 
-        // Remove the tag from parent and place in html body
         parent.removeChild(tag);
         document.body.appendChild(tag);
     }
