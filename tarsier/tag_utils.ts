@@ -4,6 +4,9 @@ interface Window {
   removeTags: () => void;
 }
 
+const tarsierId = "__tarsier_id";
+const tarsierSelector = `#${tarsierId}`;
+
 const elIsClean = (el: HTMLElement) => {
   const rect = el.getBoundingClientRect();
   const computedStyle = window.getComputedStyle(el);
@@ -135,11 +138,11 @@ function create_tagged_span(idNum: number, el: HTMLElement) {
   }
 
   let idSpan = document.createElement("span");
-  idSpan.id = "__tarsier_id";
+  idSpan.id = tarsierId;
   idSpan.style.all = "inherit";
   idSpan.style.display = "inline";
-  idSpan.style.color = "black";
-  idSpan.style.backgroundColor = "yellow";
+  idSpan.style.color = "white";
+  idSpan.style.backgroundColor = "red";
   idSpan.style.padding = "3px";
   idSpan.style.borderRadius = "5px";
   idSpan.style.margin = "5px";
@@ -248,7 +251,7 @@ function absolutelyPositionMissingTags() {
   const distanceThreshold = 500;
   const distanceToParentPadding = 20;
 
-  const tags: NodeListOf<HTMLElement> = document.querySelectorAll("#__tarsier_id");
+  const tags: NodeListOf<HTMLElement> = document.querySelectorAll(tarsierSelector);
   tags.forEach((tag) => {
     const parent = tag.parentElement as HTMLElement;
     const parentRect = parent.getBoundingClientRect();
@@ -277,6 +280,6 @@ function absolutelyPositionMissingTags() {
 }
 
 window.removeTags = () => {
-  const tags = document.querySelectorAll("#__tarsier_id");
+  const tags = document.querySelectorAll(tarsierSelector);
   tags.forEach((tag) => tag.remove());
 };
