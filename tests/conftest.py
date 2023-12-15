@@ -18,6 +18,7 @@ IN_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
 
 
 @pytest.fixture(scope="module")
+@pytest.mark.asyncio
 def event_loop():
     nest_asyncio.apply()
     loop = asyncio.new_event_loop()
