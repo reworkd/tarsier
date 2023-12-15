@@ -149,6 +149,10 @@ function create_tagged_span(idNum: number, el: HTMLElement) {
   idSpan.style.clip = 'auto';
   idSpan.style.height = 'fit-content';
   idSpan.style.width = 'fit-content';
+  idSpan.style.minHeight = 'fit-content';
+  idSpan.style.minWidth = 'fit-content';
+  idSpan.style.maxHeight = 'unset';
+  idSpan.style.maxWidth = 'unset';
   idSpan.textContent = idStr;
   return idSpan;
 }
