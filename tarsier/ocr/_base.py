@@ -19,9 +19,13 @@ class OCRService(ABC):
         # Cluster tokens by line
         line_cluster = defaultdict(list)
         for annotation in ocr_text["words"]:
-            # y = math.floor(annotation.midpoint_normalized[1] * canvas_height)
-            y = round(annotation["midpoint_normalized"][1], 3)
-            line_cluster[y].append(annotation)
+            if (
+                len(line_cluster.keys())
+                and abs(annotation["midpoint"][1] - list(line_cluster.keys())[-1]) < 10
+            ): # within 10px of the last line (OCR shouldn't ever really be off by more than 10px)
+                line_cluster[list(line_cluster.keys())[-1]].append(annotation)
+            else:
+                line_cluster[annotation["midpoint"][1]].append(annotation)
         canvas_height = max(canvas_height, len(line_cluster))
 
         # find max line length
