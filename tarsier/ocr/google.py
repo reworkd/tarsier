@@ -34,6 +34,9 @@ class GoogleVisionOCRService(OCRService):
         res = self.client.annotate_image(request)  # TODO: make this async?
 
         annotations = res.text_annotations
+        if len(annotations) == 0:
+            return {"words": []}
+
         whole_text_box_max = annotations[0].bounding_poly.vertices[2]
         max_width = whole_text_box_max.x
         max_height = whole_text_box_max.y
