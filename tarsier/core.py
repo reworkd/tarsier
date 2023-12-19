@@ -30,7 +30,9 @@ class Tarsier(ITarsier):
     async def page_to_text(
         self, driver: AnyDriver, tag_text_elements: bool = False, tagless: bool = False
     ) -> Tuple[str, TagToXPath]:
-        image, tag_to_xpath = await self.page_to_image(driver, tag_text_elements, tagless)
+        image, tag_to_xpath = await self.page_to_image(
+            driver, tag_text_elements, tagless
+        )
         page_text = self._run_ocr(image)
         return page_text, tag_to_xpath
 

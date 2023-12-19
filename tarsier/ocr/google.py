@@ -45,10 +45,8 @@ class GoogleVisionOCRService(OCRService):
         for text in annotations[1:]:
             box = text.bounding_poly.vertices
 
-            # midpoint: average position betwen
-            # the upper left location and lower
-            # right position
-            midpoint = ((box[2].x + box[0].x) / 2, (box[2].y + box[0].y) / 2)
+            # NOTE: we now use the bottom left coordinate as the "midpoint"
+            midpoint = (box[3].x, box[3].y)
 
             annotations_normed.append(
                 {

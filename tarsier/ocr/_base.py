@@ -1,8 +1,9 @@
 import math
 from abc import ABC, abstractmethod
 from collections import defaultdict
+from typing import Dict, List
 
-from tarsier.ocr.types import ImageAnnotatorResponse
+from tarsier.ocr.types import ImageAnnotation, ImageAnnotatorResponse
 
 
 class OCRService(ABC):
@@ -12,28 +13,40 @@ class OCRService(ABC):
 
     @staticmethod
     def format_text(ocr_text: ImageAnnotatorResponse) -> str:
-        # Initialize dimensions
-        canvas_width = 200
-        canvas_height = 100
-
         # Cluster tokens by line
-        line_cluster = defaultdict(list)
+        line_cluster: Dict[float, List[ImageAnnotation]] = defaultdict(list)
         for annotation in ocr_text["words"]:
             if (
                 len(line_cluster.keys())
                 and abs(annotation["midpoint"][1] - list(line_cluster.keys())[-1]) < 10
-            ): # within 10px of the last line (OCR shouldn't ever really be off by more than 10px)
+            ):  # within 10px of the last line (OCR shouldn't ever really be off by more than 10px)
                 line_cluster[list(line_cluster.keys())[-1]].append(annotation)
             else:
                 line_cluster[annotation["midpoint"][1]].append(annotation)
-        canvas_height = max(canvas_height, len(line_cluster))
+        canvas_height = len(line_cluster)
 
-        # find max line length
-        max_line_length = max(
-            sum([len(token["text"]) + 1 for token in line])
-            for line in line_cluster.values()
-        )
-        canvas_width = max(canvas_width, max_line_length)
+        # approximate the max line length with 3 strategies
+        canvas_width = int(max(
+            (
+                max(
+                    sum([len(token["text"]) + 1 for token in line])
+                    for line in line_cluster.values()
+                ),
+                (
+                    canvas_height
+                    * (annotation["midpoint"][0] / annotation["midpoint_normalized"][0])
+                    / (annotation["midpoint"][1] / annotation["midpoint_normalized"][1])
+                ),
+                max(
+                    max(
+                        len(annotation["text"])
+                        / (1 - annotation["midpoint_normalized"][0])
+                        for annotation in line
+                    )
+                    for line in line_cluster.values()
+                ),
+            )
+        ))
 
         # Create an empty canvas (list of lists filled with spaces)
         canvas = [[" " for _ in range(canvas_width)] for _ in range(canvas_height)]
@@ -54,7 +67,7 @@ class OCRService(ABC):
 
                 # Check if the text fits; if not, move to next line (this is simplistic)
                 if x + len(text) >= canvas_width:
-                    continue  # TODO: extend the canvas_width in this case
+                    canvas[i] += [" " for _ in range(len(text) + 1)]
 
                 # Place the text on the canvas
                 for j, char in enumerate(text):
