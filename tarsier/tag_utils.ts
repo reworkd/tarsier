@@ -4,15 +4,19 @@ interface Window {
   removeTags: () => void;
 }
 
+const tarsierId = "__tarsier_id";
+const tarsierSelector = `#${tarsierId}`;
+
 const elIsClean = (el: HTMLElement) => {
   const rect = el.getBoundingClientRect();
+  const computedStyle = window.getComputedStyle(el);
 
   // @ts-ignore
-  const isHidden = el.style?.display === "none" || el.hidden || el.disabled;
+  const isHidden = computedStyle.visibility === 'hidden' || computedStyle.display === 'none' || el.hidden || el.disabled;
+  const isTransparent = computedStyle.opacity === '0';
   const isZeroSize = rect.width === 0 || rect.height === 0;
   const isScriptOrStyle = el.tagName === "SCRIPT" || el.tagName === "STYLE";
-
-  return !isHidden && !isZeroSize && !isScriptOrStyle;
+  return !isHidden && !isTransparent && !isZeroSize && !isScriptOrStyle;
 };
 
 const inputs = ["a", "button", "textarea", "select", "details", "label"];
@@ -39,11 +43,21 @@ const isEmpty = (el: HTMLElement) => {
 
     if (svg || img) return false;
 
-    return true;
+    return isElementInViewport(el);
   }
 
   return false;
 };
+
+function isElementInViewport(el: HTMLElement) {
+  const rect = el.getBoundingClientRect();
+  return (
+    rect.top >= 0 &&
+    rect.left >= 0 &&
+    rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+    rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+  );
+}
 
 function getElementXPath(element: HTMLElement | null) {
   let path_parts = [];
@@ -124,13 +138,22 @@ function create_tagged_span(idNum: number, el: HTMLElement) {
   }
 
   let idSpan = document.createElement("span");
-  idSpan.id = "__tarsier_id";
-  idSpan.style.all = "inherit";
+  idSpan.id = tarsierId;
   idSpan.style.display = "inline";
   idSpan.style.color = "white";
   idSpan.style.backgroundColor = "red";
+  idSpan.style.padding = "3px";
+  idSpan.style.borderRadius = "5px";
+  idSpan.style.margin = "5px";
+  idSpan.style.zIndex = '2140000046';
+  idSpan.style.clip = 'auto';
+  idSpan.style.height = 'fit-content';
+  idSpan.style.width = 'fit-content';
+  idSpan.style.minHeight = 'fit-content';
+  idSpan.style.minWidth = 'fit-content';
+  idSpan.style.maxHeight = 'unset';
+  idSpan.style.maxWidth = 'unset';
   idSpan.textContent = idStr;
-  
   return idSpan;
 }
 
@@ -221,10 +244,49 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
     }
   }
 
+  absolutelyPositionMissingTags();
+
   return idToXpath;
 };
 
+function absolutelyPositionMissingTags() {
+  /*
+  Some tags don't get displayed on the page properly
+  This occurs if the parent element children are disjointed from the parent
+  In this case, we absolutely position the tag to the parent element
+  */
+  const distanceThreshold = 500;
+  const distanceToParentPadding = 20;
+
+  const tags: NodeListOf<HTMLElement> = document.querySelectorAll(tarsierSelector);
+  tags.forEach((tag) => {
+    const parent = tag.parentElement as HTMLElement;
+    const parentRect = parent.getBoundingClientRect();
+    const parentCenter = {
+        x: (parentRect.left + parentRect.right) / 2,
+        y: (parentRect.top + parentRect.bottom) / 2,
+    };
+    
+    const tagRect = tag.getBoundingClientRect();
+    const tagCenter = {
+        x: (tagRect.left + tagRect.right) / 2,
+        y: (tagRect.top + tagRect.bottom) / 2,
+    };
+
+    const dx = Math.abs(parentCenter.x - tagCenter.x);
+    const dy = Math.abs(parentCenter.y - tagCenter.y);
+    if (dx > distanceThreshold || dy > distanceThreshold || !elIsClean(tag)) {
+        tag.style.position = "absolute";
+        tag.style.left = `${parentRect.left - distanceToParentPadding}px`;
+        tag.style.top = `${parentRect.top - distanceToParentPadding}px`;
+
+        parent.removeChild(tag);
+        document.body.appendChild(tag);
+    }
+  });
+}
+
 window.removeTags = () => {
-  const tags = document.querySelectorAll("#__tarsier_id");
+  const tags = document.querySelectorAll(tarsierSelector);
   tags.forEach((tag) => tag.remove());
 };

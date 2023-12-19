@@ -1,9 +1,7 @@
-import asyncio
 import json
 import os
 from os import environ
 
-import nest_asyncio
 import pytest
 import pytest_asyncio
 from playwright.async_api import async_playwright
@@ -17,16 +15,7 @@ from tarsier import GoogleVisionOCRService, Tarsier
 IN_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
 
 
-@pytest.fixture(scope="module")
-def event_loop():
-    nest_asyncio.apply()
-    loop = asyncio.new_event_loop()
-    yield loop
-    loop.close()
-
-
-@pytest_asyncio.fixture(scope="module")
-@pytest.mark.asyncio
+@pytest_asyncio.fixture()
 async def async_page() -> None:
     async with async_playwright() as pw:
         browser = await pw.chromium.launch(headless=IN_GITHUB_ACTIONS)
@@ -35,7 +24,7 @@ async def async_page() -> None:
         await browser.close()
 
 
-@pytest.fixture(scope="module")
+@pytest.fixture()
 def sync_page() -> None:
     with sync_playwright() as pw:
         browser = pw.chromium.launch(headless=IN_GITHUB_ACTIONS)
