@@ -26,27 +26,35 @@ class OCRService(ABC):
         canvas_height = len(line_cluster)
 
         # approximate the max line length with 3 strategies
-        canvas_width = int(max(
-            (
-                max(
-                    sum([len(token["text"]) + 1 for token in line])
-                    for line in line_cluster.values()
-                ),
+        canvas_width = int(
+            max(
                 (
-                    canvas_height
-                    * (annotation["midpoint"][0] / annotation["midpoint_normalized"][0])
-                    / (annotation["midpoint"][1] / annotation["midpoint_normalized"][1])
-                ),
-                max(
                     max(
-                        len(annotation["text"])
-                        / (1 - annotation["midpoint_normalized"][0])
-                        for annotation in line
-                    )
-                    for line in line_cluster.values()
-                ),
+                        sum([len(token["text"]) + 1 for token in line])
+                        for line in line_cluster.values()
+                    ),
+                    (
+                        canvas_height
+                        * (
+                            annotation["midpoint"][0]
+                            / annotation["midpoint_normalized"][0]
+                        )
+                        / (
+                            annotation["midpoint"][1]
+                            / annotation["midpoint_normalized"][1]
+                        )
+                    ),
+                    max(
+                        max(
+                            len(annotation["text"])
+                            / (1 - annotation["midpoint_normalized"][0])
+                            for annotation in line
+                        )
+                        for line in line_cluster.values()
+                    ),
+                )
             )
-        ))
+        )
 
         # Create an empty canvas (list of lists filled with spaces)
         canvas = [[" " for _ in range(canvas_width)] for _ in range(canvas_height)]
