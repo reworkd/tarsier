@@ -17,18 +17,22 @@ class Tarsier(ITarsier):
         self._js_utils = load_js(self._JS_TAG_UTILS)
 
     async def page_to_image(
-        self, driver: AnyDriver, tag_text_elements: bool = False
+        self, driver: AnyDriver, tag_text_elements: bool = False, tagless: bool = False
     ) -> Tuple[bytes, Dict[int, str]]:
         adapter = adapter_factory(driver)
-        tag_to_xpath = await self._tag_page(adapter, tag_text_elements)
+        if not tagless:
+            tag_to_xpath = await self._tag_page(adapter, tag_text_elements)
         screenshot = await self._take_screenshot(adapter)
-        await self._remove_tags(adapter)
-        return screenshot, tag_to_xpath
+        if not tagless:
+            await self._remove_tags(adapter)
+        return screenshot, tag_to_xpath if not tagless else {}
 
     async def page_to_text(
-        self, driver: AnyDriver, tag_text_elements: bool = False
+        self, driver: AnyDriver, tag_text_elements: bool = False, tagless: bool = False
     ) -> Tuple[str, TagToXPath]:
-        image, tag_to_xpath = await self.page_to_image(driver, tag_text_elements)
+        image, tag_to_xpath = await self.page_to_image(
+            driver, tag_text_elements, tagless
+        )
         page_text = self._run_ocr(image)
         return page_text, tag_to_xpath
 

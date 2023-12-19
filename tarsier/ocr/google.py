@@ -34,6 +34,9 @@ class GoogleVisionOCRService(OCRService):
         res = self.client.annotate_image(request)  # TODO: make this async?
 
         annotations = res.text_annotations
+        if len(annotations) == 0:
+            return {"words": []}
+
         whole_text_box_max = annotations[0].bounding_poly.vertices[2]
         max_width = whole_text_box_max.x
         max_height = whole_text_box_max.y
@@ -42,10 +45,8 @@ class GoogleVisionOCRService(OCRService):
         for text in annotations[1:]:
             box = text.bounding_poly.vertices
 
-            # midpoint: average position betwen
-            # the upper left location and lower
-            # right position
-            midpoint = ((box[2].x + box[0].x) / 2, (box[2].y + box[0].y) / 2)
+            # NOTE: we now use the bottom left coordinate as the "midpoint"
+            midpoint = (box[3].x, box[3].y)
 
             annotations_normed.append(
                 {

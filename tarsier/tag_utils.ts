@@ -202,14 +202,15 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
       continue;
     }
 
-    idToXpath[idNum] = getElementXPath(el);
-
+    
     if (isInteractable(el)) {
+      idToXpath[idNum] = getElementXPath(el);
       idNum++;
     } else if (tagLeafTexts) {
       for (let child of Array.from(el.childNodes)) {
         if (child.nodeType === Node.TEXT_NODE && /\S/.test(child.textContent || "")) {
           // This is a text node with non-whitespace text
+          idToXpath[idNum] = getElementXPath(el);
           idNum++;
         }
       }
