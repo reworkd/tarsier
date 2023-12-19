@@ -128,11 +128,11 @@ function create_tagged_span(idNum: number, el: HTMLElement) {
   let idStr: string;
   if (isInteractable(el)) {
     if (isTextInsertable(el))
-      idStr = `#${idNum}#`;
+      idStr = `[#${idNum}]`;
     else if (el.tagName.toLowerCase() == 'a')
-      idStr = `@${idNum}@`;
+      idStr = `[@${idNum}]`;
     else
-      idStr = `$${idNum}$`;
+      idStr = `[$${idNum}]`;
   } else {
     idStr = `[${idNum}]`;
   }
