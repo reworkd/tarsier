@@ -106,16 +106,7 @@ function getElementXPath(element: HTMLElement | null) {
       return "//" + path_parts.join("/");
     } else if (element.className) {
       const classList = Array.from(element.classList);
-      const class_conditions = classList
-        .map(
-          (single_class) =>
-            `contains(concat(" ", normalize-space(@class), " "), " ${single_class} ")`,
-        )
-        .join(" and ");
-
-      if (class_conditions.length > 0) {
-        prefix += `[${class_conditions}]`;
-      }
+      prefix += `[@class="${element.className}"]`;
     }
 
     path_parts.unshift(prefix);
@@ -168,7 +159,7 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
   const iframes = document.getElementsByTagName("iframe");
 
   // add elements in iframes to allElements
-  for (let i = 0; i < iframes.length; i++) {
+  for(let i = 0; i < iframes.length; i++) {
     try {
       const frame = iframes[i];
       console.log("iframe!", iframes[i]);
@@ -197,17 +188,17 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
     }
   });
 
-  for (let el of allElements) {
+  for(let el of allElements) {
     if (isEmpty(el) || !elIsClean(el)) {
       continue;
     }
 
-    
+
     if (isInteractable(el)) {
       idToXpath[idNum] = getElementXPath(el);
       idNum++;
     } else if (tagLeafTexts) {
-      for (let child of Array.from(el.childNodes)) {
+      for(let child of Array.from(el.childNodes)) {
         if (child.nodeType === Node.TEXT_NODE && /\S/.test(child.textContent || "")) {
           // This is a text node with non-whitespace text
           idToXpath[idNum] = getElementXPath(el);
@@ -218,7 +209,7 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
   }
 
   idNum = 0;
-  for (let el of allElements) {
+  for(let el of allElements) {
     if (isEmpty(el) || !elIsClean(el)) {
       continue;
     }
@@ -233,7 +224,7 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
       }
       idNum++;
     } else if (tagLeafTexts) {
-      for (let child of Array.from(el.childNodes)) {
+      for(let child of Array.from(el.childNodes)) {
         if (child.nodeType === Node.TEXT_NODE && /\S/.test(child.textContent || "")) {
           // This is a text node with non-whitespace text
           let idSpan = create_tagged_span(idNum, el);
@@ -263,25 +254,25 @@ function absolutelyPositionMissingTags() {
     const parent = tag.parentElement as HTMLElement;
     const parentRect = parent.getBoundingClientRect();
     const parentCenter = {
-        x: (parentRect.left + parentRect.right) / 2,
-        y: (parentRect.top + parentRect.bottom) / 2,
+      x: (parentRect.left + parentRect.right) / 2,
+      y: (parentRect.top + parentRect.bottom) / 2,
     };
-    
+
     const tagRect = tag.getBoundingClientRect();
     const tagCenter = {
-        x: (tagRect.left + tagRect.right) / 2,
-        y: (tagRect.top + tagRect.bottom) / 2,
+      x: (tagRect.left + tagRect.right) / 2,
+      y: (tagRect.top + tagRect.bottom) / 2,
     };
 
     const dx = Math.abs(parentCenter.x - tagCenter.x);
     const dy = Math.abs(parentCenter.y - tagCenter.y);
     if (dx > distanceThreshold || dy > distanceThreshold || !elIsClean(tag)) {
-        tag.style.position = "absolute";
-        tag.style.left = `${parentRect.left - distanceToParentPadding}px`;
-        tag.style.top = `${parentRect.top - distanceToParentPadding}px`;
+      tag.style.position = "absolute";
+      tag.style.left = `${parentRect.left - distanceToParentPadding}px`;
+      tag.style.top = `${parentRect.top - distanceToParentPadding}px`;
 
-        parent.removeChild(tag);
-        document.body.appendChild(tag);
+      parent.removeChild(tag);
+      document.body.appendChild(tag);
     }
   });
 }
