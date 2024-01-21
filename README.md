@@ -62,9 +62,16 @@ import asyncio
 
 from playwright.async_api import async_playwright
 from tarsier import Tarsier, GoogleVisionOCRService
+import json
+
+def load_google_cloud_credentials(json_file_path):
+    with open(json_file_path) as f:
+        credentials = json.load(f)
+    return credentials
 
 async def main():
-    google_cloud_credentials = {}
+    # To create the service account key, follow the instructions on this SO answer https://stackoverflow.com/a/46290808/1780891
+    google_cloud_credentials = load_google_cloud_credentials('./google_service_acc_key.json')
 
     ocr_service = GoogleVisionOCRService(google_cloud_credentials)
     tarsier = Tarsier(ocr_service)
