@@ -20,11 +20,15 @@ const elIsClean = (el: HTMLElement) => {
 };
 
 const inputs = ["a", "button", "textarea", "select", "details", "label"];
-const isInteractable = (el: HTMLElement) =>
-  inputs.includes(el.tagName.toLowerCase()) ||
-  // @ts-ignore
-  (el.tagName.toLowerCase() === "input" && el.type !== "hidden") ||
-  el.role === "button";
+const isInteractable = (el: HTMLElement) => {
+  const computedStyle = window.getComputedStyle(el);
+
+  return inputs.includes(el.tagName.toLowerCase()) ||
+    // @ts-ignore
+    (el.tagName.toLowerCase() === "input" && el.type !== "hidden") ||
+    el.role === "button" ||
+    computedStyle.cursor == "pointer";
+}
 
 const text_input_types = ["text", "password", "email", "search", "url", "tel", "number"];
 const isTextInsertable = (el: HTMLElement) =>
@@ -68,7 +72,7 @@ function getElementXPath(element: HTMLElement | null) {
     iframe_str = `iframe[${element.getAttribute("iframe_index")}]`;
   }
 
-  while (element) {
+  while(element) {
     if (!element.tagName) {
       element = element.parentNode as HTMLElement | null;
       continue;
@@ -78,7 +82,7 @@ function getElementXPath(element: HTMLElement | null) {
     let sibling_index = 1;
 
     let sibling = element.previousElementSibling;
-    while (sibling) {
+    while(sibling) {
       if (sibling.tagName === element.tagName) {
         sibling_index++;
       }
@@ -88,7 +92,7 @@ function getElementXPath(element: HTMLElement | null) {
     // Check next siblings to determine if index should be added
     let nextSibling = element.nextElementSibling;
     let shouldAddIndex = false;
-    while (nextSibling) {
+    while(nextSibling) {
       if (nextSibling.tagName === element.tagName) {
         shouldAddIndex = true;
         break;
@@ -133,9 +137,12 @@ function create_tagged_span(idNum: number, el: HTMLElement) {
   idSpan.style.display = "inline";
   idSpan.style.color = "white";
   idSpan.style.backgroundColor = "red";
-  idSpan.style.padding = "3px";
+  idSpan.style.padding = "2px";
   idSpan.style.borderRadius = "5px";
-  idSpan.style.margin = "5px";
+  idSpan.style.fontWeight = "regular";
+  idSpan.style.fontSize = "0.75em";
+  idSpan.style.fontFamily = "monospace";
+  idSpan.style.margin = "2px";
   idSpan.style.zIndex = '2140000046';
   idSpan.style.clip = 'auto';
   idSpan.style.height = 'fit-content';
@@ -236,7 +243,7 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
   }
 
   absolutelyPositionMissingTags();
-
+  removeCollidingTags()
   return idToXpath;
 };
 
@@ -275,6 +282,41 @@ function absolutelyPositionMissingTags() {
       document.body.appendChild(tag);
     }
   });
+}
+
+function removeCollidingTags() {
+  const tags = Array.from(document.querySelectorAll(tarsierSelector));
+  const tagsToDelete: Set<Element> = new Set();
+
+  // Iterate through each tag. Compare with all other tags to see if there is an overlap and should be deleted
+  tags.forEach((tag, index) => {
+    if (tagsToDelete.has(tag)) {
+      return;
+    }
+
+    const tagRect = tag.getBoundingClientRect();
+
+    for(let i = 0; i < tags.length; i++) {
+      if (i === index || tagsToDelete.has(tags[i])) {
+        continue;
+      }
+
+      const otherTag = tags[i];
+      const otherTagRect = otherTag.getBoundingClientRect();
+
+      const isOverlapping = !(otherTagRect.right < tagRect.left ||
+        otherTagRect.left > tagRect.right ||
+        otherTagRect.bottom < tagRect.top ||
+        otherTagRect.top > tagRect.bottom);
+
+      if (isOverlapping) {
+        tagsToDelete.add(tag);
+        break;
+      }
+    }
+  });
+
+  tagsToDelete.forEach(tag => tag.remove());
 }
 
 window.removeTags = () => {
