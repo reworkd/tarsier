@@ -40,6 +40,7 @@ const emptyTagWhitelist = ["input", "textarea", "select", "button"];
 const isEmpty = (el: HTMLElement) => {
   const tagName = el.tagName.toLowerCase();
   if (emptyTagWhitelist.includes(tagName)) return false;
+  if (el.childElementCount > 0) return false;
   if ("innerText" in el && el.innerText.trim().length === 0) {
     // look for svg or img in the element
     const svg = el.querySelector("svg");
