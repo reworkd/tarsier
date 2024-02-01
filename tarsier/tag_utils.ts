@@ -21,13 +21,10 @@ const elIsClean = (el: HTMLElement) => {
 
 const inputs = ["a", "button", "textarea", "select", "details", "label"];
 const isInteractable = (el: HTMLElement) => {
-  const computedStyle = window.getComputedStyle(el);
-
   return inputs.includes(el.tagName.toLowerCase()) ||
     // @ts-ignore
     (el.tagName.toLowerCase() === "input" && el.type !== "hidden") ||
-    el.role === "button" ||
-    computedStyle.cursor == "pointer";
+    el.role === "button"
 }
 
 const text_input_types = ["text", "password", "email", "search", "url", "tel", "number"];
@@ -135,15 +132,17 @@ function create_tagged_span(idNum: number, el: HTMLElement) {
 
   let idSpan = document.createElement("span");
   idSpan.id = tarsierId;
+  idSpan.style.position = "relative";
   idSpan.style.display = "inline";
   idSpan.style.color = "white";
   idSpan.style.backgroundColor = "red";
-  idSpan.style.padding = "2px";
+  idSpan.style.padding = "1px";
   idSpan.style.borderRadius = "5px";
   idSpan.style.fontWeight = "regular";
   idSpan.style.fontSize = "0.75em";
   idSpan.style.fontFamily = "monospace";
-  idSpan.style.margin = "2px";
+  idSpan.style.margin = "1px";
+  idSpan.style.lineHeight = "1.25";
   idSpan.style.zIndex = '2140000046';
   idSpan.style.clip = 'auto';
   idSpan.style.height = 'fit-content';
