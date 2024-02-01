@@ -23,7 +23,7 @@ class PlaywrightSyncAdapter(BrowserAdapter):
         return self._page.evaluate(js)
 
     async def take_screenshot(self) -> bytes:
-        return self._page.screenshot(type="png")
+        return self._page.screenshot(type="png", full_page=True)
 
     async def set_viewport_size(self, width: int, height: int) -> None:
         self._page.set_viewport_size({"width": width, "height": height})
@@ -49,7 +49,7 @@ class PlaywrightAsyncAdapter(BrowserAdapter):
         return await self._page.evaluate(js)
 
     async def take_screenshot(self) -> bytes:
-        return await self._page.screenshot(type="png")
+        return await self._page.screenshot(type="png", full_page=True)
 
     async def set_viewport_size(self, width: int, height: int) -> None:
         await self._page.set_viewport_size({"width": width, "height": height})
