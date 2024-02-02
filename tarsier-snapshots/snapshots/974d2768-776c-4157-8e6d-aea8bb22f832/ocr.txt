@@ -9,7 +9,7 @@
       [ @ 23  ] Home      →   [ 24 ] Find   a  Location
      [ 25   ] Find	a   Location
 										     [  37     ]   Find	      a      Location
-										     [ $ 38 ]   Location      Name		      [ $ 40 ]  Address      , City   or  ZIP    Code
+										     [ $ 38 ]   Location      Name		      [ $ 40  ] Address      , City   or  ZIP    Code
       [ @ 26  ]   Storm     Related      Closures      or  Delays		    [ # 39 ]					   [ # 41  ]						[ $ 42  ]
 																	Address      , City   or  ZIP    Code			   Use    Your    Current       Location
 	[ 27    ]  Visitation	      Restrictions			      [ $ 43 ]  Radius														    [ $ 44  ]
@@ -22,10 +22,10 @@
 [ [ 1 ]      [ @ 29   ] Learn     More
 																      Pharmacy			  -    Falmouth
 																      [ 53  ]  Falmouth	 Hospital				 [ 51  ] Main    : [ 52  ] 508-495-7520
-																      [ [ 54 ] 100   Ter   Heun     Drive
+																      [ 54  ] 100    Ter   Heun     Drive
 																									    [ @ 59  ] Get    Driving     Directions
-																      [ 56  ] Falmouth	[ 55 ] ,  [ 57 ] MA
-	    [ 30    ] receive													 [ 58  ] 02540
+																      [ 56  ] Falmouth       [ 55  ] ,  [ 57 ] MA
+	    [ 30    ]  receive													[ 58  ] 02540
 	       [ 31       ]   health
 	      news														    [  @     60     ]   Cape	       Cod	    Healthcare
 																      Pharmacy			  -    Hyannis
@@ -38,14 +38,14 @@
 																      [ 68  ] 02601
 		    Health	News       .
 			  [ @  33   ]  Subscribe										      [  @     70     ]   Cape	       Cod	     Healthcare			  Urgent
-															 URGENT CAM
+															 URGENT CAP
 			     to   Cape	Cod
 																      Care	     -    Falmouth
 			      Health       News
 																      [ 73  ] 273    Teaticket      Highway			      [ 71  ] Main    : [ 72  ] 508-495-8000
-																      [ 75  ] Falmouth	[ 74 ] ,  [ 76 ] MA			  [ @  78  ] Get    Driving     Directions
+																      [ 75  ] Falmouth	[ 74 ] ,  [ 76 ] MA			   [ @ 78  ]  Get   Driving     Directions
 																      [ 77  ] 02540
-	     [ 34  ]  Expert	physicians	  ,  local
+	     [ 34  ]  Expert       physicians	   ,  local
 	    insight
 																      [  @     79     ]   Cape	       Cod	     Hospital
 	     [ 35 ] Cape     Cod   Health    News     is your   go
@@ -79,15 +79,15 @@
 																      [ 113   ]  Cape      Cod     Hospital			   [ 111  ] Main    :  [ 112  ] 508-771-1800
 																      [ 114   ] 27   Park    Street
 																									  [ @ 119   ] Get     Driving     Directions
-																      [ 116   ] Hyannis      [ 115   ] ,  [ 117  ] MA		  [ @  120   ]  Find    a  Physician       at  this
+																      [ 116   ] Hyannis      [ 115   ] , [ 117   ] MA		  [ @  120   ]  Find    a  Physician       at  this
 																      [ 118  ]  02601										       Location
 													    90			[  @     121	]   Falmouth			Hospital
-																      Rehabilitation				Center
+																      Rehabilitation			       Center
 																      [ 124   ]  Falmouth	  Hospital			  [ 122   ] Main    : [ 123   ] 508-495-7600
 																      Medical       Office     Building
-																									  [ @ 130   ]  Get    Driving     Directions
+																									  [ @ 130   ]  Get   Driving      Directions
 																      [ 125   ] 90   Ter   Heun      Drive
-																      [ 127   ] Falmouth	[ 126  ]  , [ 128   ] MA
+																      [ 127   ] Falmouth       [ 126   ] ,  [ 128   ] MA
 																      [ 129   ] 02540
 																      [  @     131	]   Heritage		     at      Falmouth
 																      [ 134   ] 140    Ter   Heun      Drive			 [ 132   ] Main    : [ 133   ] 508-495-1518
@@ -98,20 +98,20 @@
 																      [ 145   ] Falmouth       [ 144   ]  , [ 146   ] MA		 [ @  148   ]  Get    Driving     Directions
 																      [ 147   ] 02540
 												  [ $ 151   ]
-										     [ 150  ] Page     1	   [ 152 ]  of  13 , showing      locations    1-10   of  124							  [ @ 153   ] Next
-		   [ @ 154    ] patient	     [ @ 155    ] pay	  [ @  156    ] view	     [ @  157   ]  estimate	    [ @  158   ] request			 [ @ 159   ]  find
+										     [ 150  ] Page     1	  [ 152  ]  of  13 , showing      locations    1-10   of  124							  [ @ 153   ] Next
+		   [ @ 154   ] patient	      [ @ 155    ] pay	  [ @  156    ] view	     [ @  157   ]  estimate	    [ @  158   ] request			 [ @ 159   ]  find
 																										       [ @ 160   ]  access
 		  help			     a			  wait			   cost       of		    medical				      a
 		  center			   bill		       times			  care			     records								 MyChart
 																							   career
 									About     Us	[ @  164   ]  Careers	   [ @  165   ]  Employee	 &  Physician       Login	  [ @  166   ] ASL     &  Interpreter       Services
 							  [ @  171   ]
-	     f    ·   $      ···	      ©
+	     fy
 	  [ @  172   ] Patient      Help    Center
 	  [ 173   ] Subscribe	to  Our    eNewsletter
 	  [ # 175   ]  Enter   your    email   address		      [ $ 176  ] Subscribe
 																		    [ @ 178  ]						  [ @ 177  ]
     Like   most   websites    , we  use   cookies    and  other   similar  technologies      for  a number     of  reasons   , such   as  keeping    our  website     reliable  and   secure   , personalizing     content   , providing
 																														   X
-    social   media    features   and   to  better  understand      how   our  site  is used   . By using   our   site , you  ar [ 179 ] eing  to  our  use  of  these   tools . [ @  2 ] Learn   More		   [ @ 180  ]
+    social   media    features   and   to  better  understand      how   our  site  is used   . By using    our  site , you  ar [ 179 ] eing  to  our  use  of  these   tools . [ @  2 ] Learn   More		   [ @ 180  ]
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

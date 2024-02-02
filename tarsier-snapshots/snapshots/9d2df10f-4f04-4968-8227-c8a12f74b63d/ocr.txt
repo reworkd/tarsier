@@ -8,7 +8,7 @@
 	   [ @  29  ]  UWHealth					       Doctor				    Services					Clinics							     Families	      [ 39  ] MyChart
 	     [ @   44  ]
 	      [ 45  ] UW	Health	  Specialty	     Clinic	-   Sauk	Prairie
-	     [    47		 ]       Eye				   Care
+	     [    47		 ]      Eye				    Care
 	     Clinic
 	     (      Optometry											   )
 		 [ @  48  ]	 250     26th    Street    , Suite    120   /  Prairie     du   Sac  , WI    53578	       [ @ 49  ]	  ( 608  )  643-6060		[ $ 50  ]	  Closed     now
@@ -68,11 +68,19 @@ Regle
 	       Health					      Inclusion							  Center					 [ 156   ]  Contact       Us					       >> →→
 	       [ @  159   ]				   ractices      ( HIPAA      )											 [ @  161   ] . Language	Access      : Notice       of  Nondiscrimination
 			    OKIE	 NOTICE
-	       [ 160   ]																														 [ $ 9 ]
-	       Loj   vve    use    cookies       on   this   site   to   enhance       your     experience	 and    improve       our    marketing	efforts    . By   continuing	to   browse       without       changing
-																						   [ @  162   ]		  [ @  163  ]	      l  ( Spanis
-	      your     browser	settings      to  block     or   delete      cookies     , you    agree     to  the    storing     of   cookies      and     related     technologies	  on   your     device    .  [ @  7  ]			 [ 10  ]  Agree
-						under   501   ( c ) ( 3 )													  [ @  164   ]	     b ( Hmong       )    [ @  165   ]		( Chines
+	       [ 160   ] ,																													       [ $ 9 ]
+	       LOJ    Vve   use    cookies       on   this   site   to   enhance       your     experience	 and    improve       our    marketing	efforts    . By   continuing	to   browse       without       changing
+																						   [ @  162   ]		  [ @ 163   ]	      l ( Spanis
+	      your     browser	settings      to   block    or   delete      cookies     , you    agree     to  the    storing      of  cookies      and     related     technologies	  on   your     device    .  [ @  7  ]			 [ 10  ]  Agree
+						under    501  ( c ) ( 3 ) of the I												 [ @  164   ]      noob     ( Hmong       )    [ @  165   ]	+     7 ( Chines
 	       [ 8 ] Learn      More
-	      Revenue      Code    .																		[ @ 166   ]  Deutsch	( German       )    [ @  167   ]	  ( Arabic     )
+	      Revenue      Code    .																	       [ @  166   ]  Deutsch	( German       )    [ @  167   ]	  ( Arabic     )
+																						   [ @  168   ]  rycскии	( Russian      )    [ @ 169   ]	    ( Korean     )
+																						    [ @  170   ] Tiếng     Việt     ( Vietnamese	 )
+																						   [ @  171   ]  Deitsch       ( Pennsylvania	   Dutch     )     [ @ 172   ]   ¶¯⁹⁹	( Lao  )
+																						   [ @  173   ]  Français       ( French     )     [ @ 174   ]  Polski     ( Polish    )
+																						   [ @  175   ] f      ( Hindi    )    [ @  176   ] Shqip      ( Albanian       )
+																						    [ @ 177   ]  Tagalog       ( Tagalog       -  Filipino    )
+	       [ 178   ] Copyright     [ 179   ]      [ 181   ] 2023     [ 180  ]  University     of Wisconsin       Hospitals    and	    [ @ 182   ]  [ 183   ] Terms     and      [ @ 184   ]  [ 185   ] Website			[ @  186   ]  [ 187  ] . Employee      home
+	       Clinics  Authority													       conditions      /			 privacy   policy .									   access
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

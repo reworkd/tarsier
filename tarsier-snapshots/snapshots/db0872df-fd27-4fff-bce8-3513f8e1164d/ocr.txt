@@ -17,7 +17,7 @@
 	[ 14 ] Washington , DC    L   [ 15 ] Full Time
 											     ✓    [ 20 ] Design and implement   secure  scalable backend   systems   for Federal
 												 customers   , leveraging Scale's modern   and  cloud - native Al infrastructure .
-											     ✓   [ 21 ] Own services  or systems   and define  their long - term health goals ,
+											     ✓    [ 21 ] Own services or systems   and define  their long - term health goals ,
 												 while  also improving  the health of surrounding   components
 											     ✓    [ 22 ] Improve our high engineering  standards  , tooling , and process
 											     ✓    [ 23 ] Collaborate with cross - functional teams to define and execute  the
@@ -41,7 +41,7 @@
 												 Familiarity with cloud  platforms ( e.g. , AWS , Azure , GCP ) and experience
 												 in developing  and  deploying  applications  in a cloud - native environment .
 											     ✓   [ 30 ] Security Focused  : Experience  with Federal  Compliance    frameworks  ,
-												 and  requirements  ( e.g , Cloud SRG , FedRAMP   , STIG  Benchmarks    , etc ) .
+												 and  requirements  ( e.g , Cloud SRG , FedRAMP    , STIG Benchmarks    , etc ) .
 												 Experience   developing   software  & technical solutions  that meet  strict
 												 security &  regulatory compliance   requirements  .
 											     ✓   [ 31 ] Problem  Solving : Strong analytical and problem  - solving skills to
@@ -121,7 +121,6 @@
 																		     X
     [ @ 57 ] Defense		   [ @ 67 ] Content & Language		 [ @ 83 ] Guides
     [ @ 58 ] Federal		   [ @ 68 ] RLHF			       [ @ 84 ] Community
-    [ @ 59 ] Public Sector							 [ @ 85 ] Al Readiness Report 2023
- EVERE
+HOTE [ @ 59 ] Public Sector							[ @ 85 ] Al Readiness Report 2023
     [ 101 ] Copyright © [ 102 ] 2023 [ 103 ] Scale Al , Inc. All rights reserved .					    [ @ 105 ] Terms of Use [ 104 ] & [ @ 106 ] Privacy Policy
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

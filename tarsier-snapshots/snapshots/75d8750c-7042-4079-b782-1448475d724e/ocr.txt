@@ -1,21 +1,21 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 2 ]		$ 3 ] Insights	     [ $ 4 ] Services	     [ $ 5 ] Industries					 [ $ 7 ]   About       0			ACCESS		( @ 9 ] SAVED JOBS	  [ $ 10 ]
-			 [										       [ $ 6 ] Careers  ☐		 Accenture			 [ @ 8 ] APPLICATION
+[ @ 2 ]					   [ $ 4 ] Services	     [ $ 5 ] Industries	     [ $ 6 ] Careers	     [ $ 7 ]   About       0			ACCESS		[ @ 9 ] SAVED JOBS	  [ $ 10 ]
+			 [ $ 3 ] Insights a													 Accenture			 [ @ 8 ) APPLICATION					    0
   accenture
 	   [ @ 11  ]
 	  Job    Search
 	  [   12       ]    Payroll			   Operations					    Manager
 	   [ 13 ] TX - HOUSTON	   [ 14 ] JOB  NO . 11770326	 [ 15 ] FULL - TIME - REMOTE
-	      [ @ 16 ] APPLY     NOW		 [ @ 17  ]  SAVE     JOB	       [ @ 18  ]  REGISTER	 FOR     JOB    ALERTS
+	      [ @ 16 ] APPLY     NOW		 [ @  17 ]  SAVE     JOB	       [ @  18 ]  REGISTER	  FOR    JOB    ALERTS
 		   [ $ 19 ]  SHARE
 																					  [ 82 ] RELATED	     JOBS	NEAR	YOU
 	   [ 20     ]   Job	   Description
 																					 [ @    83   ]
-																							    [ 84 ] MULTIPLE     LOCATIONS	      0
-	   [ 21 ] Payroll   Operations       Manager      , L7
-	  Location     : Remote																								    [ $ 85   ]
-	   [ 23 ] Accenture      is  a leading    global    professional      services    company       that   helps   the  world's    leading											Save
-	  businesses      , governments	 and   other   organizations       build  their  digital   core  , optimize    their  operations     ,				       [ 86   ]  Cybersecurity
+	   [ 21 ] Payroll    Operations      Manager      , L7															      [ 84 ] MULTIPLE    LOCATIONS
+	  Location     : Remote																								    [ $ 85    ]
+																												      Save
+	   [ 23 ] Accenture      is  a leading    global    professional      services    company       that   helps   the  world's    leading
+	  businesses      , governments	 and   other   organizations       build  their  digital   core  , optimize    their  operations     ,				       [ 86    ] Cybersecurity
 	  accelerate      revenue     growth    , and   enhance      citizen   services    -  creating    tangible    value    at speed     and   scale   . We			      Crisis	 Manager
 	  are   a talent   and   innovation      led  company       with  738,000      people    serving     clients   in more    than   120   countries    .
 	   [ 24 ] Technology       is at  the  core   of  change     today   , and  we    are  one   of  the  world's    leaders    in  helping    drive  that			      [ 87 ] Security
@@ -25,7 +25,7 @@
 	  tangible    outcomes       because      of  our  broad    range    of  services    , solutions    and   assets    across    Strategy     &
 																					 [ @    89   ]
 																							    [ 90 ] MULTIPLE     LOCATIONS
-	   [ $ 35 ]  SHOW       MORE																							       [ $ 91   ]
+	   [ $ 35 ]  SHOW       MORE																							       [ $ 91    ]
 																												      Save
 																							     [ 92  ]  Workday
 	   [ 36     ]   Qualifications																		      Certified	     Integrations
@@ -34,13 +34,13 @@
 			 [ 38 ] Minimum       of 7  years    of experience       in a  Payroll   Shared      Services     environment
 																							    Government
 			 [ 39 ] Minimum       of 4  years    of experience       in Payroll    Supervisory       Management
-																							     [ 93 ] Business       &  Technology
+																							    [ 93 ]  Business       &  Technology
 	   [ 40 ] Preferred     Qualifications     :																	Integration
 																							    [ 94 ] Posted  within last 24 hours
 			 [ 41 ] Knowledge	using   Workday      Payroll    for  North   America      &  UK
 			 [ 42 ] Experience       working     with  payroll   vendors      &  platform    technologies       e.g. , Workday
 																					   @    95   ]
-			 [ 43 ] CPP    Preferred																	    [ 96 ] MULTIPLE    LOCATIONS	       0
+			 [ 43 ] CPP    Preferred																	    [ 96 ] MULTIPLE    LOCATIONS
 			 [ 44 ] Bachelor's      degree																					     [ $ 97    ]
 																												      Save
 			 [ 45 ] US   Payroll   , Tax   &  Accounting
@@ -50,12 +50,12 @@
 			 [ 47 ] Vendor    / Supplier    Management															  Manager	       -  West
 			 [ 48 ] Strong    oral   and   written   communication	 skills											       Market	    Unit
 			 [ 49 ] Excellent     customer      service    skills
-																							    [ 99 ]  Business       &  Technology
+																							     [ 99 ] Business       &  Technology
 		 .       [ 50 ] Operational       Excellence      experience														Integration
 																							    [ 100 ]  Posted  within last 24 hours
 	   [ 51 ] Compensation	  at Accenture      varies   depending       on   a  wide   array   of  factors  , which    may    include    but  are
-	  not   limited   to the   specific   office   location   , role , skill set , and   level  of  experience      . As  required    by   local  law  ,									JOBS
-																								    [ @ 101   ]  VIEW     MORE
+	  not   limited   to the   specific   office   location   , role , skill set , and   level  of  experience      . As  required    by   local  law  ,
+																								    [ @ 101  ]  VIEW      MORE      JOBS	0
 	  Accenture       provides     a reasonable       range    of  compensation	for  roles  that   may    be  hired   in  California   , Colorado     ,
 	  New     York  , or Washington	as   set  forth  below   .  [ @  52 ] Information      on   benefits    is here  .
 	   [ 53 ] Role   Location     : Range     of Starting    Pay   for  role :
@@ -101,22 +101,22 @@
 	  because      they   have    inquired    about   , discussed     , or  disclosed     their  own    pay   or the   pay   of another     employee       or
 	  applicant    . Additionally    , employees       who    have    access    to  the  compensation	 information      of other   employees	or
 	  applicants      as  a  part  of  their  essential    job  functions     cannot    disclose     the  pay   of  other   employees       or  applicants
-	  to  individuals     who    do  not  otherwise      have    access    to  compensation	 information     , unless   the   disclosure     is ( a ) in
+	  to  individuals     who   do   not  otherwise      have    access    to  compensation	 information     , unless   the   disclosure     is ( a ) in
 	  response      to  a formal    complaint      or  charge   , ( b ) in furtherance     of  an  investigation     , proceeding      , hearing   , or
 	  action   , including    an   investigation     conducted       by  the  employer     , or  ( c ) consistent    with  the   Company's       legal
 	  duty   to furnish    information     .
-	      [ @ 79 ] APPLY     NOW		       [ @ 80  ]  REGISTER	 FOR     JOB    ALERTS			  [ $ 81 ] SHARE
+	      [ @ 79 ] APPLY     NOW		       [ @ 80  ]  REGISTER	 FOR     JOB    ALERTS			  [ $ 81 ]  SHARE
 	   [  102	   ]    Life	       at	 Accenture
 	   [ 103  ] Work    where     you're   inspired    to  explore    your   passions      and   where    your    talents   are  nurtured     and
 	  cultivated    . Innovate     with  leading    - edge   technologies      on   some     of the   coolest    projects   you   can    imagine    .
-	       [ 104     ]   Training	     and					  [ 107     ]   Work	  Environment					[  110    ]   Rewards		&    Benefits
+	       [ 104     ]   Training	     and					  [ 107     ]   Work	  Environment					 [ 110    ]   Rewards		&    Benefits
 	       Development
 											       [ 108  ] Be  your    best   every   day   in  a work			    [ 111 ] With   Accenture's       Total  Rewards      , you
-	       [ 105  ] Take   time    away    to  learn  and    learn   all		  environment	that  helps   drive   innovation      in		     are  empowered	 to  be  your   best  -  for  the
+	       [ 105  ] Take   time    away    to  learn  and    learn   all		  environment	that  helps   drive   innovation      in		     are  empowered	 to  be  your   best     for  the
 	      the   time   in our   regional    learning    hubs   ,			  everything      you   do  .						     business     , for your   family  , and   for  yourself   .
 	       connected      classrooms       , online   courses    and
 	       learning    boards   .
-	       [ @ 106   ] LEARN       MORE						    [ @ 109   ] LEARN       MORE						   [ @  112  ] LEARN       MORE
+	       [ @ 106   ] LEARN       MORE						    [ @ 109   ] LEARN       MORE						    [ @ 112  ]  LEARN      MORE
 	   [  113	   ]   Learn			more		      about		       Accenture
 	   [ 114  ] Our   more    than   733,000      people    in  more   than    120   countries    , combine      unmatched       experience       and
 	  specialized      skills  across    more    than   40   industries    . We   embrace      the   power    of  change     to  create   value    and
@@ -125,18 +125,18 @@
 	   [ @   116     ]  Our       Expertise										    [ @   120     ]  Meet	Our	People
 	   [ 117  ] See   how    we   embrace      the   power    of  change     to  create   value    and   shared	       [ 121  ]  From    entry  - level to  leadership     , across    all business     and    industry
 	  success      for our   clients  , people    , shareholders      , partners    and   communities       .		 segments      , get  to  know    our  people     harnessing      technology       to make     a difference     ,
-																  every    day .
-	   [ @ 118   ] FIND    OUT     MORE										       [ @  122  ]  FIND    OUT    MORE
+																  every    day  .
+	   [ @ 118   ] FIND    OUT     MORE										       [ @  122  ] FIND     OUT    MORE
 	   [  123	   ]    Stay		   connected
 	       [ 124     ]   Join	Our       Team					[ 127     ]   Keep	 Up      to    Date				   [ 130    ]   Job       Alert	Emails
 	       [ 125  ] Search     open    positions     that  match    your		   [ 128  ] Stay   ahead     with  careers     tips , insider		      [ 131  ] Personalize      your   subscription      to
-	       skills and    interest  . We   look   for  passionate     ,		    perspectives      , and   industry   - leading    insights		      receive    job  alerts  , latest  news     and   insider   tips
+	       skills and    interest  . We   look   for  passionate     ,		    perspectives      , and   industry   - leading    insights		      receive    job  alerts  , latest   news    and   insider   tips
 	       curious   , creative    and   solution   - driven  team			you   can   put  to  use   today   - all from   the  people		     tailored   to  your   preferences      . See   what
 	       players   .								    who    work    here  .							  exciting    and   rewarding      opportunities      await   .
-	       [ @ 126   ] SEARCH	ACCENTURE	    JOBS			     [ @ 129   ] READ      CAREERS	 BLOG				     [ @  132  ]  REGISTER	 FOR    JOB    ALERTS
+	       [ @ 126   ] SEARCH	ACCENTURE	    JOBS			     [ @ 129   ] READ      CAREERS	 BLOG				      [ @ 132  ]  REGISTER	 FOR    JOB    ALERTS
 	   [ @ 133   ]
 				 [ @ 134  ] ABOUT      US	      [ @ 135  ]  CONTACT       US	   [ @ 136  ] ALUMNI		      [ @ 137 ]  PRIVACY
-																												     [ @  142   ]
+																												    [  @  142  ]
 																		    STATEMENT
 	   [ @ 143 ] Recruiting and Hiring Privacy Statement      [ @ 144 ] Terms & Conditions       [ @ 145 ] Cookie  Policy      [ @ 146 ] Accessibility Statement      [ @ 147 ] Sitemap
       [ 153 ] Welcome       accenture.com     ! In order to provide  a more   relevant experience    for you , we use  cookies  to enable   some   website   functionality . Cookies  help

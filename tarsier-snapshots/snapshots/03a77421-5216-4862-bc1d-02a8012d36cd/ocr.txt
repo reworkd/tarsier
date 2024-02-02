@@ -1,18 +1,18 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ # 2 ]
-     [ @  0 ]  A     Adobe  Community															  [ @ 4 ]   [ 5 ] Sign In
+      [ @ 0 ]  A     Adobe   Community															 [ @ 4 ]   [ 5 ] Sign In
 										     Search this community					 [ $ 3 ]
 	     [ @ 6 ] Home >  [ @ 7 ] Photoshop Elem ... > [ @ 8 ] Discussions > [ 9 ] restore catalog fro ...		    [ 165  ] Related      conversations
 			  [ 11  ]  restore	  catalog	  from       sd    cards				      [ 166 ] Updated Nov 11 , 2022 [ 167 ] [ @ 168 ] Lightroom
 																 ecosystem ( Cloud - based ) Discussions
-	     [ 10 ]
+	     [ 10 ] 0
 					   [ @ 13 ] Jim28618690ppdu								  [ @ 169 ] restoring photos  from  catalog to
 					   [ 14 ] New Here [ 15 ] , [ 16 ] Feb 27 , 2023					 computer
 			  [ @ 12 ]
 																 [ @ 170 ] Hi ! i lost some important photos   from
 			  [ 18 ] Can i use SD Card  data  to restore originals in Elements   7 ?				 my  dropbox   but i can see them   in my lightroom
-			   19 ] TOPICS											   catalog . Of cour ...
-			   [	    [ 20 ] Import and export
+																 catalog . Of cour ...
+			   [ 19 ] TOPICS [ 20 ] Import and export
 																 [ 171 ] Updated Nov 11 , 2022 [ 172 ] [ @ 173 ] Lightroom
 			  O   [ 22 ] 520 XA [ 24 ] Translate    [ @ 26 ] Report						  ecosystem ( Cloud - based ) Discussions
 													    [ $ 27 ] Reply
@@ -33,8 +33,8 @@
 				      missing  files to the new location .						       Classic Discussions
 																     [ @ 184 ] Importing   From  SD  Card
 				      [ 38 ] Try a test with one card and  see  what
-																 [ @ 185 ] When   importing  photos   from  an SD
-				      [ 35 ] ...
+				      [ 35										       [ @ 185 ] When   importing   photos  from  an SD
+					  ] ...
 																 card I only get the  Copy  as DNG   and  Copy
 					    [ 40 ] Upvote   XA  [ 42 ] Translate	    [ @ 43 ]   Jump  to answer	   options  at the top and  I c ...
 																  [ $ 186 ]      [ $ 187 ] 2
@@ -54,7 +54,7 @@
 		  however  , i do have all my original SD  cards  and I'm thinking  i can at least get my  originals
 		  back . not sure if this will create duplicates , or if my catalog will recognize the  image  files and
 		  reconnect   to my  catalog .....
-		  ▲   [ 69 ] Upvote   XA  [ 71 ] Translate   [ @ 73 ] Report			     [ $ 74 ] Reply
+		      [ 69 ] Upvote   XA  [ 71 ] Translate   [ @ 73 ] Report			     [ $ 74 ] Reply
 			      [ @ 76 ]    Correct  answer  by Greg_S  .
 				  [ 77 ] Community Expert [ 78 ] , [ 79 ] Feb 27 , 2023
 	     [ @ 75 ]
@@ -99,5 +99,6 @@
 	     mark  icon .
 	    ▲   [ 159 ] Upvote     A [ 161 ] Translate     [ @ 163 ] Report			       [ $ 164 ] Reply
      [ 192 ] Copyright © 2023 Adobe . All rights reserved .
-     [ @ 193 ] Using the Community [ @ 194 ] Experience League [ @ 195 ] Terms of Use [ @ 196 ] Privacy [ @ 197 ] Cookie preferences [ @ 198 ] Do not sell or share my personal information
+     ( @ 193 ] Using the Community [ @ 194 ] Experience League [ @ 195 ] Terms of Use [ @ 196 ] Privacy [ @ 197 ] Cookie preferences ( @ 198 ] Do not sell or share my personal information
+     [ @ 199 ] AdChoices
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
