@@ -27,7 +27,7 @@ async def test_take_screenshot(mocker):
 
     # Test take_screenshot
     await driver.take_screenshot()
-    mock_page.screenshot.assert_called_once_with(type="png")
+    mock_page.screenshot.assert_called_once_with(type="png", full_page=True)
 
 
 @pytest.mark.asyncio
