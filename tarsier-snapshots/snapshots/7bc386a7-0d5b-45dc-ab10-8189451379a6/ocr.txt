@@ -1,0 +1,152 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ # 4 ]
+    [ @  0 ]	 stackoverflow			 [ @  1 ] About	     [ @  2 ]  Products	      [ @  3 ] For   Teams	     a      Search														   [ @   5 ] Log    in	[ @  6 ]  Sign    up
+																					 ...
+    [ @  7 ]	Home														  ALWAY		    returns		"  undefined		      "   in								 [ @  22  ]   Ask   Question
+						   [  @      21     ]   Custom		   Jscript		Event
+    [ @  8 ]  Q     Questions				   /  GTM	    / Debug		  -   any	  ideas
+						   GA4
+    [ @  9 ]	Tags			    [ 23 ]  Asked       [ 24  ] 5  days     ago       [ 25  ] Modified	[ @  26  ]  5  days    ago	[ 28  ] Viewed       [ 27  ]  18   times
+    [ @  10  ]	Users			   [ $ 29  ]   A	   [ 34   ]  I have     tried     multiple       different       scripts      ranging	from      simply      " hello     world     " prints     to			   [ 179  ] The    Overflow       Blog
+									      more      complex	  ones     in   GA4    / GTM      Custom	 Javascript	  Events      .
+    [ @  11  ]	Companies
+							 [ 30    ]																								  [ @ 180    ] Are    remote      workers      more
+									      [ 35   ]  I had    a  jscript      developer	  look    at   it as    is stumped	  so   was      wondering	   if theres      any				 productive       ?  That's     the   wrong     question      .
+							     0
+									      hints     or  tips    or   ideas    ?
+    [ @ 12  ] COLLECTIVES	     +
+						      [ $ 31  ]   ▼																							   [ 181  ] Featured       on   Meta
+									      [ 36   ]  Current       example	  is to   try   and     build     a  script     that    grabs      the     pageloadtime	     for   example
+    [ @  13  ] ]      Explore
+		      Collectives		     [ $ 32  ]	      [ 64 ]																						( @  182    ] Update      : New     Colors     Launched
+										  [ 65 ]  function	 [ 37 ]  ( [ 38  ]  )  {
+						      [ @  33  ]		  [ 66 ]  if  [ 39  ]    ( [ 67  ]  window       [ 40 ]  .  [ 68 ]  performance	    [ 41  ]    &&    [ 69  ]  window      [ 42  ]  . [ 70  ]  perfc			  [ @  183   ] We're      rolling    back    the   changes
+    ( @ 14  ] LABS		    Ⓡ						   [ 72  ] var    [ 45 ]    entries	  =   [ 73  ] window       [ 46  ]   . [ 74 ]  performance	    [ 47  ]  . [ 75  ] getEntrie	  :		    to  the   Acceptable	 Use    Policy     ( AUP   )
+											 [ 77   ] if   [ 50 ]     ( entries       . [ 78  ]  length      [ 51  ]    >   [ 79  ]  0 [ 52  ]  )   {
+    [ @  15  ]	Discussions								 [ 80  ] var   [ [ 53 ]   nav	  ing	 entries	[ [ 81  ]  0 [ 54  ] ] ;									 [ @ 184    ] Temporary	 policy    : Generative
+												  [ 82  ]  var   [ 55  ]    pageLoadTime	      =   navTiming	   . [ 83 ]  load    Event      End   [ 56  ]   -    navTimi			    Al  ( e.g. , ChatGPT       )  is banned
+      16 ]  TEAMS									 [ 85  ]  return	[ 86  ] Math     [ 58  ]  . [ 87  ]  round     [ 59  ]  ( ( ( pageLoadTime	       /   [ 88  ]  1000    [ 60  ]			     [ @   185   ]  Beta   test    for  short    survey      in
+    [
+																																   banner      ad   slots    starting     on   the   week
+																																   of ...
+     [ 18  ]  Stack     Overflow
+     for   Teams      [ 17  ]  -																												    [ @  186   ]  Collectives       updates      : new
+     Start    collaborating	 and																											    features      and    ways     to  get   started     with
+     sharing      organizational					       [ 93  ]  however	 when      I  test   in   preview      ...  the    response	  is always       the    sane      " undefined	 " .			       Discussions
+     knowledge	.
+									      [ 94   ] As    the    devs      also    stumped	  is  there     something	   in   ga4     config      or   something	   in  GA    that											   X
+			     10					       perhaps	I  need     to   do   ?
+																																					Contents  of / etc / haproxy / hapre
+	 Free																														Optimize
+									       [ 95  ]  ps  ... the    tag    is  linked     to   the    trigger      and     i've   even      opened	 up   the    trigger      to   fire   on   all		  infrastructure			     defaults
+																																					     made      global
+									      pages       all the     time   ... no   joy  .																 capacity	       when		     option
+																															     you       need	  it
+	 [ @ 19  ] Create    a  free					  [ 96  ]  really     appreciate	  any    advice      ...														 and	not       when		  frontend  www
+		   Team																																		      bind load balancer  et
+																															     you	don't	.		       default_backend  ngink_p
+	 ( @  20 ]  Why    Teams    ?					 [ 97   ]  ps  .. ive   also     used     about       5  different	scripts      so   i'm    sure     its  not    the    script     but									      backend  nginx pool
+									      something	   either     blocked	 or  not    switched	  on   but    console	works       fine   with												 balance  roundrobin
+																																 Equinix      Metal			  server web1 web2 192.168.1.10 192.168.1.11 : .
+									      " window.performance.timing.load			    EventEnd	   -																	       server
+									      window.performance.timing.navigationStart				     "																					를
+																																					 [ $ 187  ] Report    this  ad
+									       [ 98  ]  multiple       different       scripts       ranging       from      " hello    world     "  prints     to   the    pageload	 one
+									      included	above      ...
+									       [ 99  ]  Ive   looked       at  console	 and    tested       ( it works     ) ..... looked       at   GTM       preview	( " undefined	"					  M.EQUINIX
+									      response	" ) ....
+																																	     Infrastructure
+									      [ 100    ]   Network	 collect      looks      fine  ....  no    obvious	404     or   failures      in  network	 console
+																																	    capacity		 when
+									      notices       no    obvious	blocking	of  jscript      but    it feels     like   this    is the     issue     as   no    script     works     .						 need	   it  .
+																																	       you
+																																	     And	  not	when
+										[ @  101   ] javascript	   [ @ 102   ]  google    - analytics	 [ @  103   ] google    - tag  - manager									      you	 don't	  .
+										[ @  104   ] google    - analytics    - 4       [ @ 105   ] cjs
+																																		     Equinix      Metal
+									      [ @  106   ]  Share       [ @  107   ]  Improve      this   question	( [ $ 108 ]   Follow	      [ 109  ]   asked     [ 110  ]  Nov   22   at
+																							    11:55													[ $ 188  ] Report    this  ad
+																								      [ @  112   ]  Stephen       Reece		   [ @   189     ]    Hot      Network	     Questions
+																							      S	 113   ] 1
+																								      [
+																															       [ @  190   ]  Are   All  French     Liaisons     Optional    ?
+																								 [ 114   ]  New     contributor
+																															       ( @  191  ]   Halachicly      sound     ways    to  bookmark
+																															       on  Shabbat
+										    [ 115    ] The    only    reason     this   does     not   work     is that     [ 118   ]  entries.length		[ 116   ]   is no   bigger			( @  192  ]   What     happens      if an   MCU     boosts     its
+																															       own   supply     voltage     while    running    ?
+										    than    0.  I believe     this   may     be  an   issue    with    support      for  the    given    entry    type    , could    you    provide
+										    the    result   of  running	[ 119   ]  PerformanceObserver.supported			      EntryTypes	     [ 117  ]   for  us  ?		{ }   [ @  193  ]   How    to  center     a  cell  in the   aligned
+										    some      browsers       have     removed       the    support      for  Performance	  Observers       , please      look   into				    environment       ?
+										     [ @  120   ]  developer.mozilla.org/en-US/docs/Web/API/Performance				     / ...							      [ @  194   ]  How     Many    Paint    Tins   Do   I Need   ?
+										     [ 121  ]  -  [ @  122    ] Krzysztof       Krzeszewski	   [ @  123   ] Nov    22   at   11:58
+																															       ( @  195  ]   Can   you    multiply     3 matrices
+										     [ 124   ] thanks     . so  from     console      its  [ ' element    ' , ' event ' , ' first - input ' , ' largest - contentful      - paint   ' ,			simultaneouly       ?
+										    ' layout   - shift  ' , ' longtask   ' , ' mark ' , ' measure     ' , ' navigation    ' , ' paint ' , ' resource   ' , ' visibility - state  ' ] i ran	       Po    [ @  196   ]  Why     is Hamas      seen    as  being     less
+										    a  simplified      version     function      ( ) { var  time    =   window.performance.timing		  ;  var  pageLoad	Time     =			  corrupt    than    the   Palestinian     Authority     ?
+										    time.loadEventEnd	      - time.navigation	  Start  ;  return    Math.round	 ( page   Load   Time     / 100   ) / 10 ; } same			  ( @  197   ]  Errors    when     the   quantity    is  an
+										    issue     [ 125   ]      [ @  126   ]  Stephen       Reece	[ @  127   ] Nov     22  at   12:10								      exponent
+									       [ @  128   ]  Add    a  comment																		 ( @  198  ]   Mishustin's       circle   problem   .
+																															       ( @  199   ]  Do   editors    pretend      that   someone
+																															       asked    for  you   to   review    to  make     acceptance	of
+							[ 129     ] Related	 questions																				  review    requests      more    likely  ?
+																															       [ @  200   ]  is to  be   able   to  describe      something       to
+							   [ @  130   ]      0	  [ 131   ] GTM      and    GA4   :  Consent       Initialization      exception       trigger     not   working      correctly					  be  able   to  judge    that   it's true    or  not ?
+																															       [ @  201   ]  Could     Megaflora       Sustain    Permanent
+																															       Settlements      ?
+							   [ @  132    ]     0	 [ 133    ] GA4     -  Item    Scoped       Custom       Dimensions	 Via   GTM      GA4     Event    Tag   ?
+																															 SX    ( @  202   ]  What     kept   the   Soviets     from   going     to
+																															      the   Moon     ( before    the   US  ) ?
+							   [ @  134    ]     0	  [ 135   ] GA4    / GTM     -  How    to  track    revenue       for   a custom       event     in  GA4   ?							     ( @  203   ]  Should     my    methods       return   concrete
+																															      classes     or  interfaces     ?
+														[ @   136   ]   ✓    Load     4  more     related     questions										( @ 204   ]   Statement       of  Purpose      for   Math    PhD's
+																															      with    a fairly   complicated	mathematical	 history
+																															       [ @ 205   ]   Relatively     prime     numbers
+						    [ 137    ]   Know	someone	     who       can     answer	?   Share       a   link    to   this     [ @   142     ]  question	 [  138    ]   via			   A
+																															 MO    [ @  206   ]  What     is the   most    " concrete     - feeling  "
+						    [ @   143     ] email       [ 139    ]  ,  [ @   144     ]  Twitter      [  140     ]  , or    [ @   145     ]  Facebook	   [  141    ]  .							  equivalent      formulation       of  the  Continuum
+																															       Hypothesis       that   you   can   think   of  ?
+						    [ 146     ]   Your	Answer																				     { }   ( @  207   ]  How    to  set   up   a sequence	of  clips  in
+																															       TiKZ    with   a loop   ?
+						       BI							13      13																    [ @  208   ]  Alternative      to  polling    interrupt     flag
+									     &	     { }     M																			  from     main   loop  ?
+																															       [ @  209  ]   Understanding	  Wikipedia's       definition
+						       [ 148   ]  Reminder	: [ 147  ]   Answers       generated	 by  Artificial    Intelligence       tools    are   not   allowed      on   Stack     Overflow      .			   of  a spinor
+						       [ @  149   ]  Learn    more
+																															       ( @  210  ]   Why    expectation	values    of  an
+						    [ # 150   ]																								observable       are   important      in QM   ?
+																															       ( @  211  ]   Residual     error    covariance       structure     in
+																															       longitudinal      mixed    models
+																															 +     [ @  212   ]  Is  it a problem      that   my   sink   disposal
+																															       has  exposed       wire   nut   connections	in the
+																															       cabinet   ?
+																															 { }   [ @  213   ]  xelatex    does     not  respect     \ ifpdf ?
+																															 [ @  214   ]	Question	feed
+						    [ 151      ]  Sign	up      or    [ @     152      ]  log      in			   [ 156      ]  Post	as     a   guest
+																		      [ $ 157    ]  Name
+									 G    [ 153   ]  Sign    up   using     Google			       [ # 158    ]
+									f   [ 154   ]  Sign    up   using     Facebook				[ $ 159    ]  Email
+																		      [ 160  ]  Required     , but  never     shown   .
+								    [ 155  ]   Sign    up   using     Email    and    Password		       [ # 161   ]
+							  [ $ 162   ]	 [ 163   ]  By    clicking     " Post    Your    Answer      " , you   agree     to  our   [ @   167   ]  terms     of  service    [ 164    ]  and
+							 Post   Your	  acknowledge	  that    you    have    read    and    understand	 our    [ @  168   ]  privacy     policy    [ 165   ]   and    [ @  169   ]  code
+							  Answer	      of  conduct      [  166  ]
+						   [  170    ]   Browse	  other       questions	   tagged	    ( @  173   ] javascript	  [ @  174   ] google    - analytics
+						     [ @  175   ]  google    - tag - manager	   [ @  176  ]  google    - analytics    - 4      [ @  177   ] cjs      [ 171    ]   or    [ @   178     ]  ask     your      own
+						   question	  [ 172    ]  .
+     [ @  215   ]
+		      [ @  216   ]  STACK       OVERFLOW					   [ @  219   ]  PRODUCTS					   [ @ 224    ]  COMPANY						   [ @ 234    ] STACK	EXCHANGE	    NETWORK
+		      [ @  217   ]  Questions						      [ @  220   ]  Teams					      [ @ 225    ] About						      [ @  235   ]   Technology
+		      [ @  218   ]  Help							   [ @  221   ]  Advertising					[ @ 226    ] Press						      [ @ 236    ]  Culture      &  recreation
+												   [ @  222   ]  Collectives					[ @  227   ] Work      Here					     [ @ 237    ]  Life   &  arts
+												   [ @  223   ]  Talent					     [ @ 228    ] Legal						      [ @ 238    ]  Science
+																				    [ @  229   ]  Privacy     Policy					[ @ 239    ]  Professional
+																				    [ @ 230    ] Terms      of  Service				     [ @ 240    ]  Business
+																				    [ @ 231    ] Contact       Us
+																													    [ @ 241    ]  API
+																				    [ @  232   ]  Cookie      Settings
+																													    [ @ 242   ]   Data
+																				    [ @  233   ]  Cookie      Policy
+[ 248   ]      [ @ 244  ]  Facebook	 [ @ 245   ] Twitter      [ @  246  ]  Linkedin       [ @  247  ]  Instagram
+    Site   design    / logo  ©   2023    Stack    Exchange      Inc ; user   contributions      licensed    under    [ @  250  ] , CC BY  - SA  [ 249  ] . [ 251  ]  rev  2023.11.27.1504
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,53 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ # 1 ] Enter a PO Number , part number , series , technolc [ $ 2 ] GO [ # 3 ] Stock Check	     [ $ 4 ] GO  @ 5 ]  Login
+																				     [
+	   [ @ ⁰ ]					 [ 6 ] Resistors	   [ 7 ] Capacitors	  [ 8 ] Varistors	   [ 9 ] Inductors
+		 SEI																	 [ @ 10 ]    [ @ 11 ] +
+		 Stackpole Electronics , Inc.															    站
+											[ # 13 ] [ # 14 ]
+					[ 12 ] Part : Enter Stackpole Part , ie RMCF0402FT10K0					    [ $ 15 ] GO
+		   [ 16 ] ASR1JA330R				[ 23 ] Location		      [ 24 ] Available Stock	      [ 25 ] Unit Price       [ 26 ] MOQ
+	      [ 17 ] RES , SURGE , 1W , 330 ohm , 5 %
+						     [ 27 ] STACKPOLE    ( EL PASO   TX )		  [ 28 ] No Stock [ @ 29 ] Ⓒ   [ 30 ] Contact Factory       [ 31 ] 500
+	     [ @ 18 ] FOR [ @ 19 ] Specification
+			 Sheet
+	     [ @ 20 ]
+			 [ @ 21 ] STP Cad Files
+	     [ @ 22 ) 3D      3D   Model
+				  [ 32 ] Characteristics		      [ 41 ] Additional Characteristics			     [ 62 ] Documents
+			 [ 33 ] Power Rating ( watts ) [ 34 ] 1       [ 42 ] Operating Temperature			[ @ 63 ] ASR / ASRM Anti Surge Axial Leaded Step
+										       Range     [ 43 ] -55 to +155       Files
+				  [ 35 ] Tolerance [ 36 ] 5 %
+												[ 45 ] Through Hole -      [ @ 64 ] Lead Free / RoHS Status
+				 [ 37 ] Packaging [ 38 ] Ammo	       [ 44 ] Mounting Type      Axial
+															  [ @ 65 ] SEI Soldering Recommendations
+				[ 39 ] Ohmic Value [ 40 ] 330 ohm		   [ 46 ] Cofo      [ 47 ] JP
+									   [ 48 ] RoHS Compliant     [ 49 ] Yes
+										   [ 50 ] NCNR       [ 51 ] Yes
+										    [ 52 ] MOQ       [ 53 ] 500
+										    [ 54 ] SPQ       [ 55 ] 500
+									 [ 56 ] Lead Time ( weeks )   [ 57 ] 8
+									[ 58 ] Max Working Voltage  [ 59 ] 4000
+								       [ 60 ] Max Overload Voltage  [ 61 ] 5000
+										[ @ 66 ] Parametric Search
+	 [ 67 ]
+	    Stackpole Electronics , Inc. stock check shows stock available for sale as of the moment you check stock . The franchised distributor inventory age is noted on each line and does
+				   not necessarily represent current available stock . Click on the ' Site Stock Check ' link to see current available stock and pricing .
+	[ 68 ]
+	     ©  2020 Stackpole Electronics , Inc.
+		  [ 69 ] Site Links		     [ 76 ] Documents	   [ 87 ] Products	    [ 97 ] Tools			 [ 104 ] Connect
+		  [ @ 70 ] Stackpole Web Portal	 [ @ 77 ] Quality	   [ @ 88 ] Resistors	 [ @ 98 ] Parametric Search	  with us
+		  [ @ 71 ] Company Information	 Certifications	      [ @ 89 ] - All Resistors   [ @ 99 ] Stock Check			  105 ]
+																			 [ @
+		  [ @ 72 ] Sales Network		[ @ 78 ] CoC REACH	 [ @ 90 ] - Power	   [ @ 100 ] Part Lookup
+		  [ @ 73 ] Contact information	  [ @ 79 ] CoC RoHS	  [ @ 91 ] - Current	 [ @ 101 ] Counterfeit Detection Tool
+		  [ @ 74 ] Articles / Application Notes [ @ 80 ] COC POP	  Sensing		     [ @ 102 ] Spec Finder
+		  [ @ 75 ] Chinese Website ( XN )       [ @ 81 ] COC WEEE	  [ @ 92 ] - Wirewounds      [ @ 103 ] Product Cross Reference
+							[ @ 82 ] CoC	       [ @ 93 ] Others
+						       Proposition 65	      [ @ 94 ] - Capacitors
+							[ @ 83 ] CoC TSCA	  [ @ 95 ] - Inductors
+							[ @ 84 ] CoC CEPA	  [ @ 96 ] - Varistors
+							[ @ 85 ] Recommended
+						       Solder Profiles
+							[ @ 86 ] Terms of Use
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

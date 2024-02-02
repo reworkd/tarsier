@@ -1,0 +1,60 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 1 ]
+	       HEALTH
+		 □  [ @ 2 ] DONATE   [ @ 3 ] DRH FOUNDATION   [ @ 4 ] MYCARE PATIENT PORTAL  [ @ 5 ] ABOUT THE HOSPITAL  [ @ 6 ] CAREERS
+		 [ @ 7 ] Find a Doctor  [ @ 8 ] Patients & Visitors [ @ 9 ] Medical Services [ @ 10 ] Locations [ @ 11 ] Wellness  [ @ 12 ] Contact [ @ 13 ] Search
+	    [ @ 15 ] Home [ 14 ] [ 16 ] Our Locations
+       [ 17 ] Text [ $ 18 ] A [ $ 19 ] A [ [ $ 20 ] A
+	      [ 21 ] Share [ $ 22 ]   [ $ 23 ]   [ [ $ 24 ]  [ $ 25 ]
+	       [ 26 ] Locations
+				    [ 32    ]    OUR
+		  [ @ 27 ] Clic     LOCATIONS
+		  [ @ 28 ] Hospitals
+				    [ 33 ] Find the care you need close to home .
+		  [ [ @ 29 ] Centers
+		  [ @ 30 ] Rural	      [ 34 ] If this is a true emergency ,
+		  Health		      please dial 911 and await
+		  Clinics		     assistance
+		  [ @ 31 ] Specialty
+		  Clinics
+	   [ 35 ] Hospitals
+			 [ @ 36  ] DUNCAN			[ @  39 ] JEFFE
+			 REGIONAL				COUNTY
+			 HOSPITAL				HOSPITAL
+			 [ 37 ] 2621			     [ 40 ] US Hwy 81
+			 Whisenant Drive			 & US Hwy 70
+			 [ 38 ] Duncan ,			 [ 41 ] Waurika ,
+			 OK 73533				OK 73573
+	    [ 42 ] Centers
+	   PRH	   [ @ 43  ] ADVANCED		      [ @ 46  ] CHISH
+			 MEDICAL				 TRAIL
+			 SUPPLY				  HOSPICE
+			 [ 44 ] 2185 W			   [ 47 ] 2150 W.
+			 Elk				     Elk Avenue
+			 [ 45 ] Duncan ,			 [ 48 ] Duncan ,
+			 OK 73533				OK 73533
+			 [ @ 49  ] DRH			   [ @  52 ] DRH
+			 IMAGING				 WOUND
+			 CENTER				  CENTER
+			 [ 50 ] 1414			     [ 53 ] 2515
+			 Duncan				  Whisenant Drive
+			 Regional Loop			   [ 54 ] 2nd floor of
+			 Road				    the DRH
+			 [ 51 ] Duncan ,			 Pavilion
+			 OK 73533				[ 55 ] Duncan ,
+								 OK 73533
+			 [ @ 56  ] INSPIRATIONS
+			 [ 57 ] 2465
+			 Whisenant Drive
+			 [ 58 ] Suite 301
+			 [ 59 ] Duncan ,
+			 OK 73533
+			    [ 60    ]  CLINICS
+		 [ 61 ] Duncan Regional Hospital has multiple family and specialty care
+			    clinics to assist you and your entire family .
+			  [ @ 62 ]
+		   There has been a critical
+		     error on this website .
+		   [ @ 63 ] Learn more about
+		  troubleshooting WordPress .
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
