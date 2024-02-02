@@ -9,10 +9,12 @@ exclude = ["tarsier/**/*.ts"]
 
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.11"
 playwright = "^1.39.0"
 selenium = "^4.15.2"
 google-cloud-vision = "^3.4.5"
+bananalyzer = "^0.8.6"
+python-dotenv = "^1.0.1"
 
 
 [tool.poetry.group.dev.dependencies]
