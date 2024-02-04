@@ -78,17 +78,17 @@ tarsier = ">=0.5.0,<0.6.0"
 
 [[package]]
 name = "boto3"
-version = "1.34.33"
+version = "1.34.34"
 description = "The AWS SDK for Python"
 optional = false
 python-versions = ">= 3.8"
 files = [
-    {file = "boto3-1.34.33-py3-none-any.whl", hash = "sha256:5a5db6defe73238c25c0c4f9e5522401d2563d75fb10e1cf925bf4ea16514280"},
-    {file = "boto3-1.34.33.tar.gz", hash = "sha256:5bbd73711f7664c6e8b80981ff247ba8dd2a8c5aa0bf619c5466cb9c24b9f279"},
+    {file = "boto3-1.34.34-py3-none-any.whl", hash = "sha256:33a8b6d9136fa7427160edb92d2e50f2035f04e9d63a2d1027349053e12626aa"},
+    {file = "boto3-1.34.34.tar.gz", hash = "sha256:b2f321e20966f021ec800b7f2c01287a3dd04fc5965acdfbaa9c505a24ca45d1"},
 ]
 
 [package.dependencies]
-botocore = ">=1.34.33,<1.35.0"
+botocore = ">=1.34.34,<1.35.0"
 jmespath = ">=0.7.1,<2.0.0"
 s3transfer = ">=0.10.0,<0.11.0"
 
@@ -97,13 +97,13 @@ crt = ["botocore[crt] (>=1.21.0,<2.0a0)"]
 
 [[package]]
 name = "botocore"
-version = "1.34.33"
+version = "1.34.34"
 description = "Low-level, data-driven core of boto 3."
 optional = false
 python-versions = ">= 3.8"
 files = [
-    {file = "botocore-1.34.33-py3-none-any.whl", hash = "sha256:5d154d0af41d5978d58f198837450953ae7168e292071f013ef7b739f40fb18f"},
-    {file = "botocore-1.34.33.tar.gz", hash = "sha256:a50fb5e0c1ddf17d28dc8d0d2c33242b78009fb7f28e390cadcdc310908492b0"},
+    {file = "botocore-1.34.34-py3-none-any.whl", hash = "sha256:cd060b0d88ebb2b893f1411c1db7f2ba66cc18e52dcc57ad029564ef5fec437b"},
+    {file = "botocore-1.34.34.tar.gz", hash = "sha256:54093dc97372bb7683f5c61a279aa8240408abf3b2cc494ae82a9a90c1b784b5"},
 ]
 
 [package.dependencies]
@@ -763,13 +763,13 @@ files = [
 
 [[package]]
 name = "openai"
-version = "1.10.0"
+version = "1.11.1"
 description = "The official Python library for the openai API"
 optional = false
 python-versions = ">=3.7.1"
 files = [
-    {file = "openai-1.10.0-py3-none-any.whl", hash = "sha256:aa69e97d0223ace9835fbf9c997abe9ee95318f684fd2de6d02c870700c71ebc"},
-    {file = "openai-1.10.0.tar.gz", hash = "sha256:208886cb501b930dc63f48d51db9c15e5380380f80516d07332adad67c9f1053"},
+    {file = "openai-1.11.1-py3-none-any.whl", hash = "sha256:e0f388ce499f53f58079d0c1f571f356f2b168b84d0d24a412506b6abc714980"},
+    {file = "openai-1.11.1.tar.gz", hash = "sha256:f66b8fe431af43e09594147ef3cdcb79758285de72ebafd52be9700a2af41e99"},
 ]
 
 [package.dependencies]
@@ -1340,19 +1340,21 @@ widechars = ["wcwidth"]
 
 [[package]]
 name = "tarsier"
-version = "0.5.81"
+version = "0.5.84"
 description = "Vision utilities for web interaction agents"
 optional = false
-python-versions = ">=3.10,<4.0"
-files = [
-    {file = "tarsier-0.5.81-py3-none-any.whl", hash = "sha256:5369e7fca08273423a5fa2d8ce62ca4c809ad76d7eefa399576c6cfa555fd18a"},
-    {file = "tarsier-0.5.81.tar.gz", hash = "sha256:7d314aa52f7dc334495a297a9a9ec79a9f4992d8d4441314c367f59a2b0c07f4"},
-]
+python-versions = "^3.11"
+files = []
+develop = true
 
 [package.dependencies]
-google-cloud-vision = ">=3.4.5,<4.0.0"
-playwright = ">=1.39.0,<2.0.0"
-selenium = ">=4.15.2,<5.0.0"
+google-cloud-vision = "^3.4.5"
+playwright = "^1.39.0"
+selenium = "^4.15.2"
+
+[package.source]
+type = "directory"
+url = ".."
 
 [[package]]
 name = "tqdm"
@@ -1456,4 +1458,4 @@ h11 = ">=0.9.0,<1"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "314c86be3242c897c87b19e7f5fcd8a07fcb35d7bf238ff29cd685f1e5f98af0"
+content-hash = "39c18e11ad513363a6257ebc159fdc1e8d331d987ad62d4940e56e4acc313c7c"
