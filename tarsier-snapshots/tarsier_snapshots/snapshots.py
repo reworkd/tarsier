@@ -1,11 +1,13 @@
 import asyncio
 import os
 from pathlib import Path
+from statistics import median
 from typing import Dict
 
 from bananalyzer import Example
 from bananalyzer.data.examples import get_training_examples
 from dotenv import load_dotenv
+from numpy import percentile
 from playwright.async_api import Browser, async_playwright
 from tiktoken import get_encoding
 
@@ -78,10 +80,12 @@ async def snapshot_example(
         print(f"{prefix} Finished snapshotting {example.id}")
 
 
+snapshots_path = Path(__file__).parent.parent / "snapshots"
+
+
 async def generate_snapshots() -> None:
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
-        snapshots_path = Path(__file__).parent.parent / "snapshots"
         tarsier = Tarsier(GoogleVisionOCRService(google_creds()))
         semaphore = asyncio.Semaphore(10)
 
@@ -93,5 +97,34 @@ async def generate_snapshots() -> None:
         await asyncio.gather(*tasks)
 
 
+def calculate_token_count_statistics(snapshots_dir: Path) -> None:
+    token_counts = []
+
+    print(f"Calculating token count statistics for {snapshots_dir}")
+    for file in snapshots_dir.glob("**/ocr.txt"):
+        with open(file, "r") as f:
+            lines = f.readlines()
+            token_count = int(lines[-1].split(":")[-1].strip())
+            token_counts.append(token_count)
+
+    statistics = {
+        "Min tokens": min(token_counts),
+        "Max tokens": max(token_counts),
+        "Average tokens": sum(token_counts) / len(token_counts),
+        "Median tokens": median(token_counts),
+        "p50": percentile(token_counts, 50),
+        "p90": percentile(token_counts, 90),
+        "p99": percentile(token_counts, 99)
+    }
+
+    snapshots_dir = Path(__file__).parent.parent / "snapshots"
+
+    with open(snapshots_dir / "token_statistics.txt", "w") as f:
+        print("Writing token count statistics to token_statistics.txt")
+        for key, value in statistics.items():
+            f.write(f"{key}: {value}\n")
+
+
 if __name__ == "__main__":
     asyncio.run(generate_snapshots())
+    calculate_token_count_statistics(snapshots_path)
