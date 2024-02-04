@@ -1,47 +1,47 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 1 ] CONTACT US
-																				 CO
-			   Q     - CERT		      National     Information       Security     Center						 والاتصالات
-		  [ @ 2 ]
-																			[ @ 3 ]
-		    [ @ 4 ] HOME      [ @ 5 ] ABOUT  Q - CERT    [ @ 6 ] SERVICES      [ @ 7 ] LIBRARY					  [ $ 13 ]
-		    [ @ 8 ] ALERTS  & ADVISORIES       [ @ 9 ] INFOSEC COMMUNITY
-		   [ 14 ] National      Laws
-																   [ @ 20 ] THREAT     LOW JS
-		    [ @ 15 ] National Laws	   [ @ 16 ] Qatar E - commerce Bylaws -Arabic 2012
-																   [ @ 21 ] DASHBOARD	 [ @ 22 ] ABOUT
-						     [ @ 17 ] Qatar E - commerce Bylaws - English 2012
-						     [ @ 18 ] e - Commerce Law Arabic						   [ [ 23 ] Q - CERT REPORT INCIDENT
-						     [ @ 19 ] e - Commerce Law English					     [ @ 24  ] CORPORATE       [ @ 25 ]
-																				      PUBLIC
-																     [ 26 ] You can report an incident to Q - CERT in
-																    one of three ways :
-																    ▸  [ 27 ] Call us at +974 4493 3408 , ( 24 x 7
-																       service ) .
-																    ▸  [ 28 ] Email us
-																		      [ @ 31 ] Report Corporate
-																     [ @ 30 ] Mhe inci	Incident
-																			      [ @ 35 ]
-		     [ @ 36 ] ACCESSIBILITY    [ @ 37 ] PRIVACY POLICY    [ @ 38 ] TERMS OF  USE					[ 32 ] CONNECT WITH  USY
-		     [ @ 39 ] About Q - CERT	   [ @ 44 ] Services						     [ @ 63 ] Library
-		     [ @ 40 ] Vision & Mission	 [ @ 45 ] Incident Response					    [ @ 64 ] Best practices
-		     [ @ 41 ] Activities and Objectives [ @ 46 ] Digital Forensics					  [ @ 65 ] Legislations
-		     [ @ 42 ] Strategic Projects       [ @ 47 ] Malware Analysis Lab					[ @ 66  ] Meridian Library
-		     [ @ 43 ] Technical Projects       [ @ 48 ] Security Threat Alert					[ @ 67 ] Standards
-						       [ @ 49 ] Security Newsletter
-						       [ @ 50 ] Security Reports
-						       [ @ 51 ] Cyber Security Awareness
-						       [ @ 52 ] Penetration Testing
-						       [ @ 53 ] Specialized Security Advice
-						       [ @ 54 ] Cyber Security Workforce Development Training
-						       [ @ 55 ] Government ICT Mission Assurance Library
-						       [ @ 56 ] Government ICT Mission Assurance Consultancy
-						       [ @ 57 ] Business Continuity and Disaster Recovery Consultancy
-						       [ @ 58 ] Critical Sector Organizations Compliance Aid
-						       [ @ 59 ] Critical Sector Organizations Policy Aid
-						       [ @ 60 ] Critical Information Infrastructure Protection Advisory
-						       [ @ 61 ] Critical Information Infrastructure Protection Interdependency Database
-						       [ @ 62 ] Online Vulnerability Scanning Service ( OVSS )
-									    [ 68 ] Copyright © [ 69 ] 2021-2023 [ 70 ] Q - CERT . All rights reserved .
+                                                                                                                                                                 CO
+                           Q     - CERT                      National     Information       Security     Center                                                 والاتصالات
+                  [ @ 2 ]
+                                                                                                                                                        [ @ 3 ]
+                    [ @ 4 ] HOME      [ @ 5 ] ABOUT  Q - CERT    [ @ 6 ] SERVICES      [ @ 7 ] LIBRARY                                          [ $ 13 ]
+                    [ @ 8 ] ALERTS  & ADVISORIES       [ @ 9 ] INFOSEC COMMUNITY
+                   [ 14 ] National      Laws
+                                                                                                                                   [ @ 20 ] THREAT     LOW JS
+                    [ @ 15 ] National Laws           [ @ 16 ] Qatar E - commerce Bylaws - Arabic 2012
+                                                                                                                                   [ @ 21 ] DASHBOARD         [ @ 22 ] ABOUT
+                                                     [ @ 17 ] Qatar E - commerce Bylaws - English 2012
+                                                     [ @ 18 ] e - Commerce Law Arabic                                                   [ [ 23 ] Q - CERT REPORT INCIDENT
+                                                     [ @ 19 ] e - Commerce Law English                                             [ @ 24  ] CORPORATE       [ @ 25 ]
+                                                                                                                                                                      PUBLIC
+                                                                                                                                     [ 26 ] You can report an incident to Q - CERT in
+                                                                                                                                    one of three ways :
+                                                                                                                                    ▸  [ 27 ] Call us at +974 4493 3408 , ( 24 x 7
+                                                                                                                                       service ) .
+                                                                                                                                    ▸  [ 28 ] Email us
+                                                                                                                                                      [ @ 31 ] Report Corporate
+                                                                                                                                     [ @ 30 ] Mhe inci        Incident
+                                                                                                                                                              [ @ 35 ]
+                     [ @ 36 ] ACCESSIBILITY    [ @ 37 ] PRIVACY POLICY    [ @ 38 ] TERMS OF  USE                                        [ 32 ] CONNECT WITH  USY
+                     [ @ 39 ] About Q - CERT           [ @ 44 ] Services                                                     [ @ 63 ] Library
+                     [ @ 40 ] Vision & Mission         [ @ 45 ] Incident Response                                            [ @ 64 ] Best practices
+                     [ @ 41 ] Activities and Objectives [ @ 46 ] Digital Forensics                                          [ @ 65 ] Legislations
+                     [ @ 42 ] Strategic Projects       [ @ 47 ] Malware Analysis Lab                                        [ @ 66  ] Meridian Library
+                     [ @ 43 ] Technical Projects       [ @ 48 ] Security Threat Alert                                        [ @ 67 ] Standards
+                                                       [ @ 49 ] Security Newsletter
+                                                       [ @ 50 ] Security Reports
+                                                       [ @ 51 ] Cyber Security Awareness
+                                                       [ @ 52 ] Penetration Testing
+                                                       [ @ 53 ] Specialized Security Advice
+                                                       [ @ 54 ] Cyber Security Workforce Development Training
+                                                       [ @ 55 ] Government ICT Mission Assurance Library
+                                                       [ @ 56 ] Government ICT Mission Assurance Consultancy
+                                                       [ @ 57 ] Business Continuity and Disaster Recovery Consultancy
+                                                       [ @ 58 ] Critical Sector Organizations Compliance Aid
+                                                       [ @ 59 ] Critical Sector Organizations Policy Aid
+                                                       [ @ 60 ] Critical Information Infrastructure Protection Advisory
+                                                       [ @ 61 ] Critical Information Infrastructure Protection Interdependency Database
+                                                       [ @ 62 ] Online Vulnerability Scanning Service ( OVSS )
+                                                                            [ 68 ] Copyright © [ 69 ] 2021-2023 [ 70 ] Q - CERT . All rights reserved .
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 739
+Token count: 720

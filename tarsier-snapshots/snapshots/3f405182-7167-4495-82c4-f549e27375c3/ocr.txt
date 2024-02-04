@@ -1,12 +1,12 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 0 ]																								   [ @  1 ]    Login   to Portal
+[ @ 0 ]                                                                                                                                                                                                   [ @  1 ]    Login   to Portal
  ( @a )     O'Melveny
 [ 2 ]
-  Public    Company	Associate
-    [ $ 4 ] Job  ID :  [ 3 ] 1236			     [ $ 6 ] Position : [ 5 ] Associate			[ $ 8 ] Location : ( [ 7 ] Newport Beach		 [ $ 9 ] Practice
-																						 Area :
-    [ $ 11  ] Open					    [ $ 13 ] Job					      [ $ 14 ] Contact
-    Date :	     [ 10 ]  Wednesday   , March 23 ,       Function :	 [ 12 ]  Legal
+  Public    Company        Associate
+    [ $ 4 ] Job  ID :  [ 3 ] 1236                             [ $ 6 ] Position : [ 5 ] Associate                        [ $ 8 ] Location : [ 7 ] Newport Beach                   [ $ 9 ] Practice
+                                                                                                                                                                                 Area :
+    [ $ 11  ] Open                                            [ $ 13 ] Job                                              [ $ 14 ] Contact
+    Date :             [ 10 ]  Wednesday   , March 23 ,       Function :         [ 12 ]  Legal
     2022
     Job  Description :
  [ 16 ]
@@ -22,9 +22,9 @@
  [ 18 ]
     Candidates  may  submit an application via the " Apply Now " button below . Submissions from search firms should be sent to [ @ 20 ] lateralresumes@omm.com   [ 19  ]
     [ $ 21  ] Job  Requirements  :
-																						     [ $ 22 ]    Back	  [ $ 23 ]     Apply  Now
-												    OMICRON
-						  [ @  24  ] www.micronsystems.com	 [ @ 25 ]  About Micron  Systems     [ @  26  ] Privacy Policy    [ @ 27  ] Terms  & Conditions
-										      [ 28 ] © Copyright 2023  Micron Systems  , Inc. All rights reserved .
+                                                                                                                                                                                     [ $ 22 ]    Back          [ $ 23 ]     Apply  Now
+                                                                                                    OMICRON
+                                                  [ @  24  ] www.micronsystems.com         [ @ 25 ]  About Micron  Systems     [ @  26  ] Privacy Policy    [ @ 27  ] Terms  & Conditions
+                                                                                      [ 28 ] Ⓒ Copyright 2023  Micron Systems  , Inc. All rights reserved .
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 633
+Token count: 632

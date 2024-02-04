@@ -112,7 +112,7 @@ class OCRService(ABC):
         # Convert the canvas to a plaintext string
         page_text = "\n".join("".join(row) for row in canvas)
         page_text = page_text.strip()
+
         page_text = "-" * canvas_width + "\n" + page_text + "\n" + "-" * canvas_width
-        page_text = page_text.replace("        ", "\t")
 
         return page_text

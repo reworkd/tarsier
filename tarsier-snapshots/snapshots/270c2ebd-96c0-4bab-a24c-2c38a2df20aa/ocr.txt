@@ -1,38 +1,38 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 0 ]
-									      [ @ 1 ] Careers [ @ 2 ] Donate [ @ 3 ] Education [ @ 4 ] About
-									      [ @ 5 ] Quality & Safety
-															 Website Search	  [ $ 71 )
-    M					    Health
-		  UNIVERSITY       OF  MICHIGAN      HEALTH
-																      My      Chart
-														      [ @ 8 ] LOG IN   [ @ 9 ] LEARN MORE
-       [ @ 10 ] CARE  &	  [ @ 11 ] FIND A DOCTOR	   [ @ 12 ] LOCATIONS     &	 [ @ 13 ] PATIENTS   &	[ $ 14 ] QUICKLINKS    +
-       TREATMENT							  PHONE			 VISITORS
-    [ @ 17 ] Home [ 15 ] > [ @ 18 ] Locations & Phone [ 16 ] > [ 19 ] Profile					  [ 20 ] TEXT A A A
-														       SIZER
+                                                                              [ @ 1 ] Careers [ @ 2 ] Donate [ @ 3 ] Education [ @ 4 ] About
+                                                                              [ @ 5 ] Quality & Safety
+                                                                                                                         Website Search          [ $ 71 )
+    M                                            Health
+                  UNIVERSITY       OF  MICHIGAN      HEALTH
+                                                                                                                                      My      Chart
+                                                                                                                      [ @ 8 ] LOG IN   [ @ 9 ] LEARN MORE
+       [ @ 10 ] CARE  &          [ @ 11 ] FIND A DOCTOR           [ @ 12 ] LOCATIONS     &         [ @ 13 ] PATIENTS   &        [ $ 14 ] QUICKLINKS    +
+       TREATMENT                                                          PHONE                         VISITORS
+    [ @ 17 ] Home [ 15 ] > [ @ 18 ] Locations & Phone [ 16 ] > [ 19 ] Profile                                          [ 20 ] TEXT A A A
+                                                                                                                       SIZER
     New  Search
   [ 22 ] ]
     CT       Scanning
-					      [ @ 23 ] ( 989 ) 633-5252			[ 47 ] Hours of Operation
-					      [ 24 ] Alternate : [ @ 25 ] ( 888 ) 367-2778
-					      CT  Scanning				     [ 49 ] Thursday :		   [ 50 ] 8:00 AM-5:00PM
-					      [ 27 ] MyMichigan Medical Center Clare
-					      [ 291703    McEwan   Street		      [ 51 ] CT Scans are by available by Appointment Only , Monday -
-					      [ 30 ] Clare [ 28 ] , [ 31 ] MI [ 32 ] 48617     Saturday .
-						 [ @ 33 ] Get Driving Directions
+                                              [ @ 23 ] ( 989 ) 633-5252                        [ 47 ] Hours of Operation
+                                              [ 24 ] Alternate : [ @ 25 ] ( 888 ) 367-2778
+                                              CT  Scanning                                     [ 49 ] Thursday :                   [ 50 ] 8:00 AM-5:00PM
+                                              [ 27 ] MyMichigan Medical Center Clare
+                                              [ 291703    McEwan   Street                      [ 51 ] CT Scans are by available by Appointment Only , Monday -
+                                              [ 30 ] Clare [ 28 ] , [ 31 ] MI [ 32 ] 48617     Saturday .
+                                                 [ @ 33 ] Get Driving Directions
     Josed
-					     10	 Colonville Country Store    [ $ 38
-	[ $ 36 ] Map   [ $ 37 ] Satellite
-	 Farwell   ( 115 )
-			       115	    [ $ 3				 [ $ 39 ]
-    lountain					    10
-					     Clare
-						    ( 127 )     10		  [ $ 40
-							     Herrick
-     [ @ 42 ]					      Recreational	     [ $ 41
-							      Area	       Loomis ( 10 )
-			 56101
+                                             10         Colonville Country Store    [ $ 38
+        [ $ 36 ] Map   [ $ 37 ] Satellite
+         Farwell   ( 115 )
+                               115            [ $ 3                                 [ $ 39 ]
+    lountain                                            10
+                                             Clare
+                                                    ( 127 )     10                  [ $ 40
+                                                             Herrick
+     [ @ 42 ]                                              Recreational             [ $ 41
+                                                              Area               Loomis ( 10 )
+                         56101
   [ 52 ]
     About
   [ 53 ]
@@ -40,31 +40,31 @@
     other tissues . These images provide more detailed information than normal X - ray images . They can show the soft tissues , blood vessels , and bones in
     various parts of the body . A CT scan may be used to visualize the :
       [ 54 ]
-	abdomen
+        abdomen
       [ 55 ]
-	chest
+        chest
       [ 56 ]
-	head
+        head
       [ 57 ]
-	heart
+        heart
       [ 58 ]
       • knee
       [ 59 ]
-	spine
+        spine
       [ 60 ]
       . etc.
-   [ 61 ] MyMichigan     Health			     [ 69 ] Follow  Us   Online				[ 77 ] Stay Connected
+   [ 61 ] MyMichigan     Health                             [ 69 ] Follow  Us   Online                                [ 77 ] Stay Connected
    [ 62 ] 4000 Wellness Drive
-		, MI 48670				  [ @ 70 ]   [ @ 71 ]  [ @ 72 ]   [ @ 73 ]  [ @ 74 ]	[ @ 78 ] Access MyMichigan
+                , MI 48670                                  [ @ 70 ]   [ @ 71 ]  [ @ 72 ]   [ @ 73 ]  [ @ 74 ]        [ @ 78 ] Access MyMichigan
    [ 63 ] Midland
-											     You
-							      f			      Tube     in	      [ @ 79 ] E - Newsletter Sign - Up
+                                                                                             You
+                                                              f                              Tube     in              [ @ 79 ] E - Newsletter Sign - Up
    [ @ 64 ] Contact Us | [ @ 65 ] Notice of Non - Discrimination
-							    [ @ 75 ]   [ @ 76 ]
+                                                            [ @ 75 ]   [ @ 76 ]
     [ @ 66 ] Privacy Policy | [ @ 67 ] Terms of Service
-							     BLOG
+                                                             BLOG
    Tax - exempt status : 501 ( c ) ( 3 )
 [ 80 ]
    © 2023  MyMichigan   Health . [ 81 ] All rights reserved
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 857
+Token count: 848
