@@ -139,7 +139,7 @@ function create_tagged_span(idNum: number, el: HTMLElement) {
   idSpan.style.padding = "2px";
   idSpan.style.borderRadius = "5px";
   idSpan.style.fontWeight = "bold";
-  idSpan.style.fontSize = "0.85em";
+  idSpan.style.fontSize = "16px";
   idSpan.style.fontFamily = "Arial";
   idSpan.style.margin = "1px";
   idSpan.style.lineHeight = "1.25";
@@ -153,6 +153,9 @@ function create_tagged_span(idNum: number, el: HTMLElement) {
   idSpan.style.maxHeight = 'unset';
   idSpan.style.maxWidth = 'unset';
   idSpan.textContent = idStr;
+  idSpan.style.webkitTextFillColor = 'white';
+  idSpan.style.textShadow = '';
+  idSpan.style.textDecoration = 'none';
   return idSpan;
 }
 

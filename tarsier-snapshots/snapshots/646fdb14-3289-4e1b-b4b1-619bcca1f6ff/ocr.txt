@@ -1,69 +1,68 @@
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 0 ]
-	  WILSON
-	  SONSINI
-	  [ $ 1 ] MENU
-				    [  2  ]  Sebastian
-				    Alsheimer
-				    [ 3 ] PARTNER
-				     [ @ 4 ] Corporate
-				    [ @ 5 ] New York
-				    [ @  6 ] salsheimer@wsgr.com
-				    [ 7 ] D  [ @ 8 ] 212-453-2832
-															     [ 17 ] FOCUS AREAS
-					    [ $ 10 ]    [ @ 11 ]     [ $ 12 ]
-															    [ [ @ 18 ] Corporate
-															    [ @ 19 ] Corporate Governance
-															     [ @ 20 ] Mergers & Acquisitions
-															     [ @ 21 ] Shareholder Engagement
-															    and  Activism
-			    [ $ 13 ]	[ $ 141
-				  Experience      Credentials
-															     [ 22 ] RECENT INSIGHTS
-				  [ 15 ] Sebastian Alsheimer is a corporate partner in the New
-				 York office of Wilson Sonsini Goodrich & Rosati . He is a
-															     [ @ 29 ]
-				 leader of the firm's shareholder engagement and activism
-				 practice , focusing on shareholder activism , proxy contests ,
-				 corporate governance , and mergers and acquisitions .
-																[ 23 ] ALERTS
-				  [ 16 ] Prior to joining the firm , Sebastian was a partner at
-				 Olshan Frome  Wolosky .									[ 24 ] SEC  Adopts
-																Amendments      to Rules
-																Governing   Beneficial
-																Ownership    Reporting
-																[ 25 ] On October 10 , 2023 ,
-																the U.S. Securities and
-																Exchange  Commission  ( SEC )
-																approved  [ @ 27 ] final
-																rules [ 26 ] amending the ...
-																[ 28 ] LEARN MORE    0
-															     [ @ 34 ]
-																[ 30 ] CLIENT
-																HIGHLIGHTS
-																[ 31 ] Wilson Sonsini
-																Advises  VirnetX   on
-																Dividend   and
-																Shareholder   Agreement
-																[ 32 ] On March 30 , 2023 ,
-																internet security company
-																VirnetX announced  a special
-																cash dividend of $ 1.00 per
-																share , as well as a ...
-																[ [ 33 ] LEARN MORE
-																      [ @ 35 ] VIEW ALL
-						      [ @ 38 ]					   [ @ 43 ] Alumni
-							    Search   wsgr.com
-						     [ 56 )  [ @ 52 ]      [ @  53 ]      [ @  54 ]      [ @ 55 ] ghts Reserved .
-						     INSIGHTS					    Mailing   List  Signup
-						      [ @ 40 ] ABOUT     US			      [ @ 45 ] Employee     Login
-						      @ 41  ]					    [ @ 46 ] Client  FTP   Portal
-						     [       WESSON
-						      @ 50 ) SONSINI				     [ @ 47 ] Privacy Policy
-													 [ @ 48 ] Terms of Use
-													 [ 49 ] Accessibility
-    [ 57 ] By clicking " Accept All Cookies , " you agree to the storing of cookies on your device to help us analyze traffic , enhance $ 59 ] Disable All [ $ 60 ] Accept All Cookies
-		    provide you with tailored content .						    [ $ 58 ] Cookie Settings [					  [ $ 61 ]
-    your experience , and
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 779
+	 WILSON
+	 SONSINI
+	[ $ 1 ] MENU
+				    Sebastian
+				Alsheimer
+				[ 3 ] PARTNER
+				[ @ 4 ] Corporate
+				[ @ 5 ] New York
+				[ @ 6 ] Salsheimer@wsgr.com
+				[ 7 ] D [ @ 8 ] 212-453-2832
+													     [ 17 ] FOCUS AREAS
+			       ☐  [ @ 9 ]    [ $ 10 ]   [ @ 11 ]
+													     [ @ 18 ] Corporate
+				     [ $ 12 ]
+													     [ @ 19 ] Corporate Governance
+													     [ @ 20 ] Mergers & Acquisitions
+													     [ @ 21 ] Shareholder
+													    Engagement  and Activism
+		       [ $ 13 ] Experien [ $ 14 ] Credentials
+													     [ 22 ] RECENT INSIGHTS
+			     [ 15 ] Sebastian Alsheimer is a corporate partner in the New		     @ 29 ]
+													     [
+			     York office of Wilson Sonsini Goodrich & Rosati . He is a
+			     leader of the firm's shareholder engagement and activism
+			     practice , focusing on shareholder activism , proxy contests ,
+			     corporate governance , and mergers and acquisitions .			     [ [ 23 ] ALERTS
+			     [ 16 ] Prior to joining the firm , Sebastian was a partner at		      [ 24 ] SEC Adopts
+			     Olshan Frome Wolosky .							     Amendments   to Rules
+														Governing Beneficial
+														Ownership  Reporting
+														[ 25 ] On October 10 , 2023 ,
+													       the U.S. Securities and
+													       Exchange Commission ( SEC )
+													       approved final
+														rules [ 26 ] amending the ...
+														[ 28 ] LEARN MORE
+													     [ @ 34 ]
+														[ 30 ] CLIENT
+														HIGHLIGHTS
+														[ 31 ] Wilson Sonsini
+													       Advises  VirnetX on
+														Dividend and
+														Shareholder Agreement
+														[ 32 ] On March 30 , 2023 ,
+														internet security company
+													       VirnetX announced a special
+														cash dividend of $ 1.00 per
+													       share , as well as a ...
+														[ 33 ] LEARN MORE
+														     [ @ 35 ] VIEW ALL
+					      [ @ 38 ]				      [ @ 43 ] Alumni
+						    Search  wsgr.com
+					      [ 56 ] [ @ 52 ]   [ @ 53 ] —  [ @ 54 ]    [ @ 55 ] All Rights Reserved .
+					      INSIGHTS				     Mailing  List  Signup
+					      [ @ 40 ] ABOUT   US			   [ @ 45 ] Employee  Login
+					      [ @ 41 ] WESSON			      [ @ 46 ] Client FTP Portal
+					      [ @ 501 SONSINI			      [ @ 47 ] Privacy Policy
+											    [ @ 48 ] Terms of Use
+											    [ 49 ] Accessibility
+											    [ 30 ] Cookie Settings [ 959 ] Disable All
+    [ 57 ] By clicking " Accept All Cookies , " you agree to the storing of cookies on your device to help us analyze traffic , enhance
+       experience , and provide you with tailored content .											      [ $ 61 ]
+   your
+											    [ $ 601 Accept All Cookies
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 752
