@@ -19,42 +19,60 @@ class OCRService(ABC):
             if (
                 len(line_cluster.keys())
                 and abs(annotation["midpoint"][1] - list(line_cluster.keys())[-1]) < 10
-            ):  # within 10px of the last line (OCR shouldn't ever really be off by more than 10px)
+            ):  # within 10px of the last line
                 line_cluster[list(line_cluster.keys())[-1]].append(annotation)
             else:
                 line_cluster[annotation["midpoint"][1]].append(annotation)
         canvas_height = len(line_cluster)
 
-        # approximate the max line length with 3 strategies
-        canvas_width = int(
-            max(
-                (
-                    max(
-                        sum([len(token["text"]) + 1 for token in line])
-                        for line in line_cluster.values()
-                    ),
-                    (
-                        canvas_height
-                        * (
-                            annotation["midpoint"][0]
-                            / annotation["midpoint_normalized"][0]
-                        )
-                        / (
-                            annotation["midpoint"][1]
-                            / annotation["midpoint_normalized"][1]
-                        )
-                    ),
-                    max(
+        default_canvas_width = 80  # Default canvas width
+
+        # Ensure line_cluster is not empty before proceeding
+        if line_cluster:
+            canvas_width = int(
+                max(
+                    [
                         max(
-                            len(annotation["text"])
-                            / (1 - annotation["midpoint_normalized"][0])
-                            for annotation in line
-                        )
-                        for line in line_cluster.values()
-                    ),
+                            (
+                                sum(len(token["text"]) + 1 for token in line)
+                                for line in line_cluster.values()
+                            ),
+                            default=default_canvas_width
+                        ),
+                        max(
+                            (
+                                canvas_height
+                                * (
+                                    annotation["midpoint"][0]
+                                    / annotation["midpoint_normalized"][0]
+                                    if annotation["midpoint_normalized"][0] != 0 else default_canvas_width
+                                )
+                                / (
+                                    annotation["midpoint"][1]
+                                    / annotation["midpoint_normalized"][1]
+                                    if annotation["midpoint_normalized"][1] != 0 else default_canvas_width
+                                )
+                                for line in line_cluster.values() for annotation in line
+                            ),
+                            default=default_canvas_width
+                        ),
+                        max(
+                            (
+                                max(
+                                    len(annotation["text"])
+                                    / (1 - annotation["midpoint_normalized"][0])
+                                    if annotation["midpoint_normalized"][0] != 1 else len(annotation["text"])
+                                    for annotation in line
+                                )
+                                for line in line_cluster.values()
+                            ),
+                            default=default_canvas_width
+                        ),
+                    ]
                 )
             )
-        )
+        else:
+            canvas_width = default_canvas_width
 
         # Create an empty canvas (list of lists filled with spaces)
         canvas = [[" " for _ in range(canvas_width)] for _ in range(canvas_height)]
