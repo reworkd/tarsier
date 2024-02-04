@@ -2,441 +2,441 @@
 [ @ 1 ] SEARCH O
 [ @ 0 ]
   WACHTELL     , LIPTON   , ROSEN     &  KATZ
-								      [ @ 2 ] THE FIRM  [ @ 3 ] ATTORNEYS    [ @ 4 ] PRACTICES   [ @ 5 ] CAREERS   [ @ 6 ] CONTACT
+                                                                      [ @ 2 ] THE FIRM  [ @ 3 ] ATTORNEYS    [ @ 4 ] PRACTICES   [ @ 5 ] CAREERS   [ @ 6 ] CONTACT
       [ 7 ]
-	Attorney	     Search
-										 [ $ 10 ]
-	    [ $ 9 ] SEARCH BY NAME						    PRACTICE AREAS
-      [ $ 11 ] AW SCHOOL							 [ $ 12 ]
-										       OSITION
+        Attorney             Search
+                                                                                 [ $ 10 ]
+            [ $ 9 ] SEARCH BY NAME                                                    PRACTICE AREAS
+      [ $ 11 ] AW SCHOOL                                                         [ $ 12 ]
+                                                                                       OSITION
       [ $ 13 ]
-	    UNDERGRADUATE   SCHOOL						      [ $ 14 ] CLEAR	  [ $ 15 ] SEARCH
-	 [ $ 17 ] A [ $ 19 ] B [ $ 21 ] C [ $ 23 ] D [ $ 25 ] E [ $ 27 ] F [ $ 29 ] G [ $ 31 ] H [ $ 33 ] [ $ 35 ] J [ $ 37 ] K [ $ 39 ] L [ $ 41 ] M [ $ 43 ] N [ $ 45 ] 0
-	 [ $ 47 ] P [ $ 49 ] Q [ $ 51 ] R [ $ 53 ] s [ $ 55 ] T [ $ 57 ] U [ $ 59 ] V [ $ 61 ] w [ $ 63 ] x [ $ 65 ] Y [ $ 67 ] Z [ $ 69 ] VIEW ALL
+            UNDERGRADUATE   SCHOOL                                                      [ $ 14 ] CLEAR          [ $ 15 ] SEARCH
+         [ $ 17 ] A [ $ 19 ] B [ $ 21 ] C [ $ 23 ] D [ $ 25 ] E [ $ 27 ] F [ $ 29 ] G [ $ 31 ] H [ $ 33 ] [ $ 35 ] J [ $ 37 ] K [ $ 39 ] L [ $ 41 ] M [ $ 43 ] N [ $ 45 ] 0
+         [ $ 47 ] P [ $ 49 ] Q [ $ 51 ] R [ $ 53 ] s [ $ 55 ] T [ $ 57 ] U [ $ 59 ] V [ $ 61 ] w [ $ 63 ] x [ $ 65 ] Y [ $ 67 ] Z [ $ 69 ] VIEW ALL
       [ 70 ] earch      Results
       [ 71 ] splaying all attorneys .
-			  [ 72 ] NAME				 [ 73 ] POSITION			     [ 74 ] PRACTICE
-      [ @ 75 ]	   Abboud   , Alexis J.			 Associate				   Litigation
-      [ @ 76 ]	   Abdel  - Malek , Yasmina		     Associate				   Corporate
-      [ @ 77 ]	   Abu  , Akua F.			       Associate
-														  Litigation
-      [ @ 78 ]	   Adlerstein  , David M.		       Counsel				     Corporate
-      [ @ 79 ]		  , Sumita			      Counsel						   and  Finance
-			 Ahuja										    Restructuring
-      [ @ 80 ]	   Allen , Jessica L.			   Associate
-														  Litigation
-      [ @ 81 ]	   Altschuler , Samantha    M.		  Associate
-														  Corporate
-      [ @ 82 ]	   Amaker   , Ethan P.			  Associate				   Litigation
-      [ @ 83 ]	   Ambos   , Catherine			  Visiting Attorney			   Corporate
-      [ @ 84 ]	   Anders  , David  B.			  Partne				      Litigation
-      [ @ 85 ]	   Anderson   - Hamilton , Travis C.	    Associate				   Corporate
-      [ @ 86 ]	   Andre  , Jason  T.K.			 Associate				   Corporate
-      [ @ 87 ]	   Andriola  , Mark V.			  Associate
-														  Corporate
-      [ @ 88 ]	   Arfa , Benjamin  S.			  Partner				     Restructuring and  Finance
-      [ @ 89 ]	   Atkinson   , Matthew  N.J.							       Corporate
-								      Visiting Attorney
-      [ @ 90 ]	   Awoyinfa   , Ibitayo ( Tayo ) O.	     Associate				   Corporate
-      [ @ 91 ]	   Barash  , Louis J.			   Counsel				     Litigation
-      [ @ 92 ]	   Barkatullah  , Ahsan  M.		     Associate				   Corporate
-      [ @ 93 ]	   Barreca  , Emily R.			  Associate				   Litigation
-      [ @ 94 ]	   Barton  , Jill			       Associate				   Corporate
-      [ @ 95 ]	   Beard  , Jackson  H.			 Associate				   Corporate
-      [ @ 96 ]	   Begleiter , Raquel  V.L.		     Associate				   Executive  Compensation   and  Benefits
-      [ @ 97 ]	   Beleuz  Neagu   , Sabina M.		  Law  Clerk				  Corporate
-      [ @ 98 ]	   Benn  , Michael  S.			  Partner				     Restructuring and  Finance
-      [ @ 99 ]	   Berg  , E. Madison  ( Maddy )		Associate				   Corporate
-      [ @ 100 ]						       Associate
-			 Berger  , Getzel ( Getzy )							       Litigation
-      [ @ 101 ]	  Berger  , Sarah Perez			Associate				   Tax
-      [ @ 102 ]	  Berkelaar  , lan J.			  Associate				   Litigation
-      [ @ 103 ]	  Boczko  , lan				Partner				     Litigation
-      [ @ 104 ]		   , Erica E.			  Partner
-			 Bonnett										  Executive  Compensation   and  Benefits
-      [ @ 105 ]						       Associate
-			 Brady  , Brittany A.								     Corporate
-      [ @ 106 ]	  Brandt  , Elizabeth N.		       Associate				   Litigation
-      [ @ 107 ]	  Brooke  , Justin L.			  Associate				   Litigation
-      [ @ 108 ]	  Brownstein   , Andrew  R.		    Partner				     Corporate
-      [ @ 109 ]	  Bruce  , Julia M.			    Associate
-														  Litigation
-      [ @ 110 ]		     , Maurits C.								  Corporate
-			 Burggraaf				    Visiting Attorney
-      [ @ 111 ]	  Bustillo , Yolanda			   Associate				   Litigation
-      [ @ 112 ]		   , Michael H.			Of Counsel				  Antitrust
-			 Byowitz
-      [ @ 113 ]	  Cain , Karessa  L.			   Partner				     Corporate
-      [ @ 114 ]		 , Iliria			      Associate
-			 Camaj										    Litigation
-      [ @ 115 ]	  Cammaker    , Joshua  R.		     Partner				     Corporate
-      [ @ 116 ]						       Partner
-			 Carlin , Wayne  M.								       Litigation
-      [ @ 117 ]	  Carpenter  , Matthew  T.		     Associate				   Corporate
-      [ @ 118 ]	  Cassel  , Michael H.			 Associate						 and  Finance
-														  Restructuring
-      [ @ 119 ]		  , Franco			     Counsel				     Antitrust
-			 Castelli
-      [ @ 120 ]		 , Michael A.			  Associate						 and  Finance
-			 Chaia										    Restructuring
-      [ @ 121 ]	  Charles  , Scott K.			  Partner						   and  Finance
-														  Restructuring
-      [ @ 122 ]	  Chen  , Dianna			       Counsel				     Real Estate  M & A
-      [ @ 123 ]	  Chen  , Ronald  C.			   Partner				     Corporate
-      [ @ 124 ]	  Cheung   , Andrew  J.H.		      Counsel				     Litigation
-      [ @ 125 ]	  Cho  , Audrey  Y.			    Associate				   Corporate
-      [ @ 126 ]	  Choe  , Ellen E.			     Associate
-														  Corporate
-      [ @ 127 ]	  Choi , Sijin				 Associate
-														  Litigation
-      [ @ 128 ]	  Clark , Hannah			       Associate
-														  Corporate
-      [ @ 129 ]		 - Kaplan  , Jordan		    Law  Clerk				  Antitrust
-			 Cohen
-      [ @ 130 ]	  Cohen   , Steven A.			  Partner
-														  Corporate
-      [ @ 131 ]	  Cullerton  , Nathaniel D.		    Partner				     Litigation
-      [ @ 132 ]						       Associate						 and  Finance
-			 Custer  , Taylor G.								      Restructuring
-      [ @ 133 ]						       Associate
-			 David  , Zachary  M.								     Litigation
-      [ @ 134 ]	  Davis , Khori G.			     Associate				   Corporate
-      [ @ 135 ]			      G.		       Partner
-			 Demmo    , Nicholas								      Corporate
-      [ @ 136 ]	  Dennison   , Kelsey V.		       Associate				   Corporate
-      [ @ 137 ]	  D'Ginto  , Anna M.			   Associate				   Corporate
-      [ @ 138 ]		    , Helen A.			 Associate				   Corporate
-			 Diagama
-      [ @ 139 ]	  Diamond   , Kyle M.			  Associate				   Corporate
-      [ @ 140 ]	  Didden  , Damian  G.			 Partner				     Antitrust
-      [ @ 141 ]	  Dimitrijević , Anna			  Associate				   Corporate
-      [ @ 142 ]	  DiPrima  , Stephen  R.		       Partner				     Litigation
-      [ @ 143 ]	  Dooley  , Michael P.E.		       Associate				   Corporate
-      [ @ 144 ]						       Associate				   Litigation
-			 Drivas , loannis  ( lanni ) D.
-      [ @ 145 ]						       Partner				     Tax
-			 Dvornic  , Tijana J.
-      [ @ 146 ]		, Sarah K.			     Partner				     Litigation
-			 Eddy
-      [ @ 147 ]	  Edgar  , Swift S.O.			  Counsel				     Tax
-      [ @ 148 ]	  Ehrenkranz   , Pamela			Counsel				     Trusts and  Estates
-      [ @ 149 ]	  Ekechukwu    , Adabelle  ( Belle ) U.	Associate				   Litigation
-      [ @ 150 ]	  Emmerich   , Adam   O.		       Partner
-														  Corporate
-      [ @ 151 ]	  Evans  , Malcolm  F.			 Associate
-														  Corporate
-      [ @ 152 ]	  Feinstein  , Eric M.			 Partner				     Corporate
-      [ @ 153 ]	  Feltman  , Joshua  A.			Partner				     Restructuring and  Finance
-      [ @ 154 ]	  Fernandez    Lumermann    , Cynthia	  Partner				     Litigation
-      [ @ 155 ]	  Ferrara , Alexandra  M.		      Associate				   Tax
-      [ @ 156 ]	  Fischoeder  , Christian		      Associate				   Antitrust
-      [ @ 157 ]	  Fish , Brittany A.			   Associate				   Litigation
-      [ @ 158 ]	  Fitts , Nelson O.			    Partner				     Antitrust
-      [ @ 159 ]		    , Kailey B.			Associate				   Corporate
-			 Flanagan
-      [ @ 160 ]		, John - Francis ( Jack ) S.	   Associate				   Litigation
-			 Flynn
-      [ @ 161 ]		    , Kevin  M.K.		      Law Clerk				   Antitrust
-			 Fodouop
-      [ @ 162 ]		  , Kenneth  B.			Of Counsel
-			 Forrest										  Litigation
-      [ @ 163 ]	  Garber  , Chelsea  E.			Law Clerk				   Tax
-      [ @ 164 ]	  Garcia , Cesar  E.			   Associate
-														  Litigation
-      [ @ 165 ]	  Germana   , Ben  M.			  Partner				     Litigation
-      [ @ 166 ]	  Gettles - Atwa , Kathryn		     Counsel				     Corporate
-      [ @ 167 ]	  Ghods  , Rod  N.			     Associate
-														  Restructuring and  Finance
-      [ @ 168 ]	  Gogolak   , Adam  M.			 Counsel				     Litigation
-      [ @ 169 ]			       B.		      Of Counsel				  Intellectual Property
-			 Goldberg   , Selwyn
-      [ @ 170 ]	  Goldfeld  , Victor			   Partner				     Corporate
-      [ @ 171 ]	  Golin , Elaine P.			    Partner				     Litigation
-      [ @ 172 ]	  Goodman    , Adam  L.			Partner				     Litigation
-      [ @ 173 ]	  Gordon  , Mark			       Partner				     Corporate
-      [ @ 174 ]	  Gotts , llene Knable			 Partner				     Antitrust
-      [ @ 175 ]	  Grauschopf   , Melina			Visiting Attorney			   Corporate
-      [ @ 176 ]	  Green  , Steven  R.			  Associate				   Corporate
-      [ @ 177 ]	  Grosbard   , Remy  K.			Associate				   Litigation
-      [ @ 178 ]	  Guest  , Matthew  M.			 Partner				     Corporate
-      [ @ 179 ]		 , Katharine R.			Associate				   Antitrust
-			 Haigh
-      [ @ 180 ]	  Hantverk  , Emily J.			 Associate				   Corporate
-      [ @ 181 ]	  Harish , Alon  B.			    Associate
-														  Corporate
-      [ @ 182 ]	  Hauck  , Courtney  D.			Associate				   Corporate
-      [ @ 183 ]		       C.			      Of Counsel
-			 Hein , Peter									     Litigation
-      [ @ 184 ]		  , Edward  D.			 Partner				     Corporate
-			 Herlihy
-      [ @ 185 ]		  , Angela  K.			 Counsel						   and  Finance
-			 Herring										  Restructuring
-      [ @ 186 ]	  Holmes  , Joshua   M.			Partner				     Tax
-      [ @ 187 ]		, Charlene  C.			 Law Clerk
-			 Hong										     Litigation
-      [ @ 188 ]	  Hovatter  , Nicole			   Law Clerk
-														  Corporate
-      [ @ 189 ]	  Hunt , Alyssa  M.			    Law  Clerk
-														  Litigation
-      [ @ 190 ]	  Ingriselli , Elizabeth A.		    Associate				   Corporate
-      [ @ 191 ]	  Jackson   , Randall W.		       Partner				     Litigation
-      [ @ 192 ]						       Associate
-			 Jeon  , Sunny  S.									Litigation
-      [ @ 193 ]	  Johnson   , Emily D.			 Partner				     Restructuring and  Finance
-      [ @ 194 ]	  Junquera   , Brian H.			Associate				   Corporate
-      [ @ 195 ]	  Kahan  , David  E.			   Partner				     Executive  Compensation    and Benefits
-      [ @ 196 ]	       , David  C.			     Partner				     Corporate
-			 Karp
-      [ @ 197 ]	  Katz , David A.			      Partner				     Corporate
-      [ @ 198 ]		      , Sasha H.		       Associate
-			 Kawakami										 Litigation
-      [ @ 199 ]	  Kelly , JB				   Of Counsel				  Litigation
-      [ @ 200 ]	  Khan  , Sabrina			      Associate				   Corporate
-      [ @ 201 ]	  Kim  , Richard K.			    Partner				     Corporate
-      [ @ 202 ]	  Kirman  , Igor			       Partner				     Corporate
-      [ @ 203 ]		     , Emil A.			 Partner								and Finance
-			 Kleinhaus										Litigation & Restructuring
-      [ @ 204 ]	  Klein , Noah  R.			     Law Clerk				   Corporate
-      [ @ 205 ]		, Jacob  A.			    Partner
-			 Kling										    Corporate
-      [ @ 206 ]		  , Mark A.			    Counsel				     Real Estate  M & A
-			 Koenig
-      [ @ 207 ]	  Kofke  , Lauren  M.			  Partner				     Litigation
-      [ @ 208 ]			   G.			  Of Counsel				  Litigation
-			 Koplow  , Meyer
-      [ @ 209 ]	  Kotapati  , Bapu			     Associate				   Litigation
-      [ @ 210 ]	  Lambert  , Savannah   R.		     Law Clerk				   Executive  Compensation   and  Benefits
-      [ @ 211 ]	  Lam  , David K.			      Partner
-														  Corporate
-      [ @ 212 ]	  Larson  , Joseph  D.			 Of Counsel				  Antitrust
-      [ @ 213 ]	  Laureano   Mena  , Estefania		 Associate
-														  Corporate
-      [ @ 214 ]	  Levandoski   , Stephen  D.		   Associate				   Litigation
-      [ @ 215 ]	  Levene  , Ralph  M.			  Partner
-														  Litigation
-      [ @ 216 ]	  Levine  , Jenna E.			   Partner				     Corporate
-      [ @ 217 ]						       Associate						 and  Finance
-			 Levy , Mitchell ( Mitch ) S.							     Restructuring
-      [ @ 218 ]		 , Martin			      Partner
-			 Lipton										   Corporate
-      [ @ 219 ]	  Listwa , Daniel B.			   Associate
-														  Litigation
-      [ @ 220 ]						       Associate
-			 Liu , Ping - Chun ( Ping )							       Corporate
-      [ @ 221 ]	  Lobb  , Min K.			       Associate
-														  Litigation
-      [ @ 222 ]	  Lochner  , Matthew			   Associate				   Restructuring and  Finance
-      [ @ 223 ]			, Alice S.		     Law  Clerk				  Corporate
-			 Longenbach
-      [ @ 224 ]	  Lu , Carmen   X. W.			  Counsel				     Corporate
-      [ @ 225 ]		    , Nathaniel R.		     Associate				   Corporate
-			 Ludewig
-      [ @ 226 ]	  Lu , Meng				    Associate
-														  Corporate
-      [ @ 227 ]	  Lyons  , J. Austin			   Counsel				     Trusts and  Estates
-      [ @ 228 ]	  Ma , Christina  C.			   Partner				     Antitrust
-      [ @ 229 ]	  Makow   , Lawrence   S.		      Of Counsel				  Corporate
-      [ @ 230 ]	  Malhiet , Rachel  A.			 Associate				   Tax
-      [ @ 231 ]	  Marshak   , Stephanie  A.		    Associate				   Restructuring and  Finance
-      [ @ 232 ]	  Mason   , Richard G.			 Partner				     Restructuring and  Finance
-      [ @ 233 ]	  Mateo  , Katherine			   Associate						 and  Finance
-														  Restructuring
-      [ @ 234 ]	  Mayer  , Douglas  K.			 Of Counsel					    & Restructuring  and Finance .
-														  Litigation
-      [ @ 235 ]	  Mayo  , J. Heath			     Associate				   Corporate
-      [ @ 236 ]	  Mazur  , Robert B.			   Of Counsel
-														  Litigation
-      [ @ 237 ]		     ,       C.			Counsel				     Executive  Compensation    and Benefits
-			 McCarthy    Alicia
-      [ @ 238 ]	  McLeod   , Ryan  A.			  Partner
-														  Litigation
-      [ @ 239 ]	  Meli , Graham  W.			    Partner				     Litigation
-      [ @ 240 ]	  Melman   , Charles M.			Associate				   Litigation
-      [ @ 241 ]	  Merwin  , Kelley			     Associate				   Corporate
-      [ @ 242 ]	  Miles , Alexander  ( Alex ) M.	       Associate				   Restructuring and  Finance
-      [ @ 243 ]	  Miller , Alec G.			     Associate				   Corporate
-      [ @ 244 ]	  Mindlin , Philip			     Of Counsel				  Restructuring and  Finance
-      [ @ 245 ]	  Miroff , Maxim  ( Max ) A.		   Associate				   Intellectual Property
-      [ @ 246 ]	  Mirvis , Theodore  N.			Partner				     Litigation
-      [ @ 247 ]		   , Claudia T.				    Counsel
-			 Morgan				       eDiscovery				  Litigation
-      [ @ 248 ]	  Moses  , Jonathan   M.		       Partner
-														  Litigation
-      [ @ 249 ]	  Munshi  , Raeesa   I.			Associate				   Corporate
-      [ @ 250 ]		 , Thomas   A.			 Law Clerk				   Litigation
-			 Myers
-      [ @ 251 ]	  Nadler , Samuel   C.			 Associate				   Corporate
-      [ @ 252 ]			  A.			   Associate
-			 Nagy  , William									  Corporate
-      [ @ 253 ]		   , Raaj S.			   Partner				     Corporate
-			 Narayan
-      [ @ 254 ]	  Neff , Daniel A.			     Partner				     Corporate
-      [ @ 255 ]	       , David S.			      Of Counsel				  Antitrust
-			 Neill
-      [ @ 256 ]	  Nickerson   , Benjamin  J.		   Associate				   Restructuring and  Finance
-      [ @ 257 ]	  Nir , Shachar				Associate				   Corporate
-      [ @ 258 ]	  Nishi , Camila O.			    Visiting Attorney			   Corporate
-      [ @ 259 ]	  Norwitz  , Trevor S.			 Partner				     Corporate
-      [ @ 260 ]	  Novikoff  , Harold S.			Of Counsel				  Restructuring and  Finance
-      [ @ 261 ]	  Nussbaum    , Andrew   J.		    Partner				     Corporate
-      [ @ 262 ]	  O'Brien , Jeannemarie			Partner				     Executive  Compensation    and Benefits
-      [ @ 263 ]	  Okoye  , Chinecherem    ( ChiChi ) O.	Associate				   Corporate
-      [ @ 264 ]	  Olofin , Adebola  ( Bola ) O.M.	      Associate				   Litigation
-      [ @ 265 ]	  Orr , Justin R.			      Counsel				     Intellectual Property
-      [ @ 266 ]						       Partner
-			 Ostling , Gregory  E.								    Corporate
-      [ @ 267 ]	  Ozyildirim , Canem			   Associate				   Litigation
-      [ @ 268 ]	  Panovka   , Robin			    Partner				     Real  Estate M & A
-      [ @ 269 ]	  Papirnik , David A.			  Associate				   Corporate
-      [ @ 270 ]	  Park , Jane				  Law Clerk				   Litigation
-      [ @ 271 ]	  Patel , Rushi K.			     Associate
-														  Corporate
-      [ @ 272 ]	  Paul , Deborah   L.			  Partner				     Tax
-      [ @ 273 ]	  Pearlman   , Jacob D.			Associate				   Corporate
-      [ @ 274 ]	  Pedowitz  , Lawrence   B.		    Of Counsel				  Litigation
-      [ @ 275 ]	  Pessin  , Gregory  E.			Partner				     Restructuring and  Finance
-      [ @ 276 ]	  Podolsky  , Zachary  S.		      Partner				     Corporate
-      [ @ 277 ]	  Pollard , Beatrice R.			Law Clerk				   Litigation
-      [ @ 278 ]	  Preiss , Alison Zieske		       Partner				     Corporate
-      [ @ 279 ]	  Price , Brandon  C.			  Partner				     Corporate
-      [ @ 280 ]	  Rabkin   Golden  , Allison		   Law Clerk				   Corporate
-      [ @ 281 ]	  Reddy  , Anitha			      Partner				     Litigation
-      [ @ 282 ]	  Reilly , Carrie M.			   Partner				     Litigation
-      [ @ 283 ]	  Reisberg  , Rachel  B.		       Partner				     Tax
-      [ @ 284 ]	  Reiss , Sherri D.			    Associate				   Corporate
-      [ @ 285 ]	  Ricketts , Farrah M.			 Associate				   Corporate
-      [ @ 286 ]		, Andrea  E.			   Associate				   Real Estate  M & A
-			 Riina
-      [ @ 287 ]	  Robinson   , Eric S.			 Of Counsel
-														  Corporate
-      [ @ 288 ]	  Robinson   , John  L.			Partner				     Corporate
-      [ @ 289 ]	  Rose  , Daria				Associate				   Corporate
-      [ @ 290 ]	  Rosenblum    , Steven A.		     Partner				     Corporate
-      [ @ 291 ]	  Rosenthal   , Charles M.		     Associate
-														  Corporate
-      [ @ 292 ]	  Rosof  , Eric M.			     Of Counsel						and  Finance
-														  Restructuring
-      [ @ 293 ]	  Ross  , Richard  M.			  Associate				   Real  Estate M & A
-      [ @ 294 ]						       Partner				     Corporate
-			 Roth  , Benjamin  M.
-      [ @ 295 ]	  Roth , Eric M.			       Of Counsel
-														  Litigation
-      [ @ 296 ]	  Rowe  , Paul K.			      Of Counsel				  Litigation
-      [ @ 297 ]						       Associate				   Corporate
-			 Rubin  , Kimberly  A.
-      [ @ 298 ]		    , Alexandra  P.		    Associate
-			 Sadinsky										 Litigation
-      [ @ 299 ]						       Associate				   Antitrust
-			 Samra  , Emily  E.
-      [ @ 300 ]			, Viktor		       Partner
-			 Sapezhnikov									      Corporate
-      [ @ 301 ]	  Savarese  , John  F.			 Partner				     Litigation
-      [ @ 302 ]	  Savitt , William			     Partner				     Litigation
-      [ @ 303 ]		   , Yosef G.			  Associate
-			 Schaffel										 Litigation
-      [ @ 304 ]	  Schmertzler  , Olivia R.		     Associate				   Tax
-      [ @ 305 ]	  Schobel  , Michael  J.		       Partner				     Executive  Compensation   and  Benefits
-      [ @ 306 ]	  Schwartz  , David  A.			Of Counsel				  Litigation
-      [ @ 307 ]	  Schwartz  , Jodi J.			  Partner				     Tax
-      [ @ 308 ]	  Schwartz  , Kevin  S.			Partner
-														  Litigation
-      [ @ 309 ]	  Schwartz  , Michael  W.		      Of Counsel				  Litigation
-      [ @ 310 ]	  See , Charles  C.			    Associate				   Restructuring and  Finance
-      [ @ 311 ]	  Segal , Michael  J.			  Of Counsel				  Executive  Compensation   and  Benefits
-      [ @ 312 ]	  Shapiro  , Adam  J.			  Partner				     Executive  Compensation   and  Benefits
-      [ @ 313 ]			   E.			  Partner
-			 Shapiro  , David									 Corporate
-      [ @ 314 ]	  Sharer  , Nicole D.			  Associate				   Intellectual Property
-      [ @ 315 ]	  Sheinfeld  , David G.			Associate				   Restructuring and  Finance
-      [ @ 316 ]	  Shin , Won  S.			       Of Counsel				  Litigation
-      [ @ 317 ]	  Sicilian , Martin J.			 Associate
-														  Litigation
-      [ @ 318 ]	  Silk , David M.			      Of Counsel
-														  Corporate
-      [ @ 319 ]		      ,				Partner
-			 Silverberg   Rachelle								    Litigation
-      [ @ 320 ]	  Simwinga   , Joel M.			 Associate						 and  Finance
-														  Restructuring
-      [ @ 321 ]	  Singh  , Joseph  A.			  Law Clerk				   Corporate
-      [ @ 322 ]	  Smith  , Monica  L.			  Associate				   Antitrust
-      [ @ 323 ]						       Counsel						   and  Finance
-			 Snyder  , Neil ( Mac ) M.								Restructuring
-      [ @ 324 ]	  Sobolewski   , John  R.		      Partner							Finance
-														  Restructuring and
-      [ @ 325 ]		     , Sara B.			 Associate				   Corporate
-			 Spanbock
-      [ @ 326 ]		  , Deborah  A.			Law  Clerk				  Litigation
-			 Sparks
-      [ @ 327 ]						       Of Counsel
-			 Spaziani  , Rosemary								     Corporate
-      [ @ 328 ]	  Stagliano  , Mark A.			 Partner				     Corporate
-      [ @ 329 ]		  , T. Eiko			    Partner				     Tax
-			 Stange
-      [ @ 330 ]	  Stein , Elliott V.			   Of Counsel				  Corporate
-      [ @ 331 ]	  Stein , Emma   Sydney			Associate				   Litigation
-      [ @ 332 ]	  Stern , Warren  R.			   Of Counsel				  Litigation
-      [ @ 333 ]	  Strine , Leo E. , Jr.			Of Counsel				  Corporate
-      [ @ 334 ]	  Stringfellow  , Nicholas G.		  Associate				   Trusts and  Estates
-      [ @ 335 ]	  Szczerban   , S. Christopher		 Counsel				     Litigation
-      [ @ 336 ]		, Dixing			       Associate				   Executive  Compensation   and  Benefits
-			 Tang
-      [ @ 337 ]	  Tanne  , Adam  P.			    Associate
-														  Corporate
-      [ @ 338 ]	  Tepe , George   N.			   Associate				   Corporate
-      [ @ 339 ]		      , Elina			  Partner
-			 Tetelbaum										Corporate
-      [ @ 340 ]	  Thaler , Itai Y.			     Associate				   Antitrust
-      [ @ 341 ]		   , Michael  L.		       Associate
-			 Thomas										   Litigation
-      [ @ 342 ]	  Thorbjornson    , Jacquelyn  O.	      Law  Clerk				  Litigation
-      [ @ 343 ]	  Thurman   , Mackenzie   V.		   Associate				   Corporate
-      [ @ 344 ]		 , Alana M.			    Law  Clerk						     Finance
-			 Thyng										    Restructuring and
-      [ @ 345 ]	  Tobin  , Joseph  ( Joe ) S.		  Associate				   Litigation
-      [ @ 346 ]	  Toy , Amanda   K.			    Associate				   Executive  Compensation   and  Benefits
-      [ @ 347 ]	  Urdaneta  , Fabiola			  Associate				   Corporate
-      [ @ 348 ]	  Veblen  , Mark F.			    Partner				     Corporate
-      [ @ 349 ]	  Villegas , Lorenzo  A.		       Associate				   Litigation
-      [ @ 350 ]	  Vizcarrondo   , Paul			 Of Counsel
-														  Litigation
-      [ @ 351 ]	  Vlahakis  , Patricia A.		      Of Counsel				  Corporate
-      [ @ 352 ]	  Wachtell  , Herbert M.		       Partner				     Litigation
-      [ @ 353 ]	  Waldock   , Katherine P.		     Law  Clerk				  Restructuring and  Finance
-      [ @ 354 ]						       Counsel				     Corporate
-			 Watiker  , Jeffrey A.
-      [ @ 355 ]	  Webb   , David P.T.			  Associate				   Litigation
-      [ @ 356 ]	  Weintraub				    Associate				   Litigation
-				     , Amy  R.
-      [ @ 357 ]	  White  , Jennifer										      and  Finance
-								      Visiting Attorney			   Restructuring
-      [ @ 358 ]						       Partner
-			 Wilson  , Bradley R.								     Litigation
-      [ @ 359 ]		 , Steven  P.			  Partner
-			 Winter										   Litigation
-      [ @ 360 ]	  Wintner  , Jeffrey M.			Partner				     Litigation
-      [ @ 361 ]	  Wolf , Amy  R.			       Of Counsel				  Restructuring and  Finance
-      [ @ 362 ]	  Wolinsky  , Marc			     Of					  Litigation
-      [ @ 363 ]	  Wong   , Karen			       Associate				   Litigation
-      [ @ 364 ]	  Wozny  , Lucas			       Associate
-														  Corporate
-      [ @ 365 ]	  Yang  , Claire Y.			    Associate				   Corporate
-      [ @ 366 ]	  Yaster , Susan  ( Suzy )		     Associate				   Tax
-      [ @ 367 ]	  Yavitz , Noah  B.			    Partner
-														  Litigation
-      [ @ 368 ]	  Yeh  , Emily				 Associate
-														  Corporate
-      [ @ 369 ]	  Zakharenko   , Savely  S.		    Law Clerk
-														  Corporate
-      [ @ 370 ]	  Zeng  , Amy				  Associate				   Executive  Compensation   and  Benefits
-								      [ 371 ] Practices
+                          [ 72 ] NAME                                 [ 73 ] POSITION                             [ 74 ] PRACTICE
+      [ @ 75 ]           Abboud   , Alexis J.                         Associate                                   Litigation
+      [ @ 76 ]           Abdel  - Malek , Yasmina                     Associate                                   Corporate
+      [ @ 77 ]           Abu  , Akua F.                               Associate
+                                                                                                                  Litigation
+      [ @ 78 ]           Adlerstein  , David M.                       Counsel                                     Corporate
+      [ @ 79 ]                  , Sumita                              Counsel                                                   and  Finance
+                         Ahuja                                                                                    Restructuring
+      [ @ 80 ]           Allen , Jessica L.                           Associate
+                                                                                                                  Litigation
+      [ @ 81 ]           Altschuler , Samantha    M.                  Associate
+                                                                                                                  Corporate
+      [ @ 82 ]           Amaker   , Ethan P.                          Associate                                   Litigation
+      [ @ 83 ]           Ambos   , Catherine                          Visiting Attorney                           Corporate
+      [ @ 84 ]           Anders  , David  B.                          Partne                                      Litigation
+      [ @ 85 ]           Anderson   - Hamilton , Travis C.            Associate                                   Corporate
+      [ @ 86 ]           Andre  , Jason  T.K.                         Associate                                   Corporate
+      [ @ 87 ]           Andriola  , Mark V.                          Associate
+                                                                                                                  Corporate
+      [ @ 88 ]           Arfa , Benjamin  S.                          Partner                                     Restructuring and  Finance
+      [ @ 89 ]           Atkinson   , Matthew  N.J.                                                               Corporate
+                                                                      Visiting Attorney
+      [ @ 90 ]           Awoyinfa   , Ibitayo ( Tayo ) O.             Associate                                   Corporate
+      [ @ 91 ]           Barash  , Louis J.                           Counsel                                     Litigation
+      [ @ 92 ]           Barkatullah  , Ahsan  M.                     Associate                                   Corporate
+      [ @ 93 ]           Barreca  , Emily R.                          Associate                                   Litigation
+      [ @ 94 ]           Barton  , Jill                               Associate                                   Corporate
+      [ @ 95 ]           Beard  , Jackson  H.                         Associate                                   Corporate
+      [ @ 96 ]           Begleiter , Raquel  V.L.                     Associate                                   Executive  Compensation   and  Benefits
+      [ @ 97 ]           Beleuz  Neagu   , Sabina M.                  Law  Clerk                                  Corporate
+      [ @ 98 ]           Benn  , Michael  S.                          Partner                                     Restructuring and  Finance
+      [ @ 99 ]           Berg  , E. Madison  ( Maddy )                Associate                                   Corporate
+      [ @ 100 ]                                                       Associate
+                         Berger  , Getzel ( Getzy )                                                               Litigation
+      [ @ 101 ]          Berger  , Sarah Perez                        Associate                                   Tax
+      [ @ 102 ]          Berkelaar  , lan J.                          Associate                                   Litigation
+      [ @ 103 ]          Boczko  , lan                                Partner                                     Litigation
+      [ @ 104 ]                   , Erica E.                          Partner
+                         Bonnett                                                                                  Executive  Compensation   and  Benefits
+      [ @ 105 ]                                                       Associate
+                         Brady  , Brittany A.                                                                     Corporate
+      [ @ 106 ]          Brandt  , Elizabeth N.                       Associate                                   Litigation
+      [ @ 107 ]          Brooke  , Justin L.                          Associate                                   Litigation
+      [ @ 108 ]          Brownstein   , Andrew  R.                    Partner                                     Corporate
+      [ @ 109 ]          Bruce  , Julia M.                            Associate
+                                                                                                                  Litigation
+      [ @ 110 ]                     , Maurits C.                                                                  Corporate
+                         Burggraaf                                    Visiting Attorney
+      [ @ 111 ]          Bustillo , Yolanda                           Associate                                   Litigation
+      [ @ 112 ]                   , Michael H.                        Of Counsel                                  Antitrust
+                         Byowitz
+      [ @ 113 ]          Cain , Karessa  L.                           Partner                                     Corporate
+      [ @ 114 ]                 , Iliria                              Associate
+                         Camaj                                                                                    Litigation
+      [ @ 115 ]          Cammaker    , Joshua  R.                     Partner                                     Corporate
+      [ @ 116 ]                                                       Partner
+                         Carlin , Wayne  M.                                                                       Litigation
+      [ @ 117 ]          Carpenter  , Matthew  T.                     Associate                                   Corporate
+      [ @ 118 ]          Cassel  , Michael H.                         Associate                                                 and  Finance
+                                                                                                                  Restructuring
+      [ @ 119 ]                  , Franco                             Counsel                                     Antitrust
+                         Castelli
+      [ @ 120 ]                 , Michael A.                          Associate                                                 and  Finance
+                         Chaia                                                                                    Restructuring
+      [ @ 121 ]          Charles  , Scott K.                          Partner                                                   and  Finance
+                                                                                                                  Restructuring
+      [ @ 122 ]          Chen  , Dianna                               Counsel                                     Real Estate  M & A
+      [ @ 123 ]          Chen  , Ronald  C.                           Partner                                     Corporate
+      [ @ 124 ]          Cheung   , Andrew  J.H.                      Counsel                                     Litigation
+      [ @ 125 ]          Cho  , Audrey  Y.                            Associate                                   Corporate
+      [ @ 126 ]          Choe  , Ellen E.                             Associate
+                                                                                                                  Corporate
+      [ @ 127 ]          Choi , Sijin                                 Associate
+                                                                                                                  Litigation
+      [ @ 128 ]          Clark , Hannah                               Associate
+                                                                                                                  Corporate
+      [ @ 129 ]                 - Kaplan  , Jordan                    Law  Clerk                                  Antitrust
+                         Cohen
+      [ @ 130 ]          Cohen   , Steven A.                          Partner
+                                                                                                                  Corporate
+      [ @ 131 ]          Cullerton  , Nathaniel D.                    Partner                                     Litigation
+      [ @ 132 ]                                                       Associate                                                 and  Finance
+                         Custer  , Taylor G.                                                                      Restructuring
+      [ @ 133 ]                                                       Associate
+                         David  , Zachary  M.                                                                     Litigation
+      [ @ 134 ]          Davis , Khori G.                             Associate                                   Corporate
+      [ @ 135 ]                              G.                       Partner
+                         Demmo    , Nicholas                                                                      Corporate
+      [ @ 136 ]          Dennison   , Kelsey V.                       Associate                                   Corporate
+      [ @ 137 ]          D'Ginto  , Anna M.                           Associate                                   Corporate
+      [ @ 138 ]                    , Helen A.                         Associate                                   Corporate
+                         Diagama
+      [ @ 139 ]          Diamond   , Kyle M.                          Associate                                   Corporate
+      [ @ 140 ]          Didden  , Damian  G.                         Partner                                     Antitrust
+      [ @ 141 ]          Dimitrijević , Anna                          Associate                                   Corporate
+      [ @ 142 ]          DiPrima  , Stephen  R.                       Partner                                     Litigation
+      [ @ 143 ]          Dooley  , Michael P.E.                       Associate                                   Corporate
+      [ @ 144 ]                                                       Associate                                   Litigation
+                         Drivas , loannis  ( lanni ) D.
+      [ @ 145 ]                                                       Partner                                     Tax
+                         Dvornic  , Tijana J.
+      [ @ 146 ]                , Sarah K.                             Partner                                     Litigation
+                         Eddy
+      [ @ 147 ]          Edgar  , Swift S.O.                          Counsel                                     Tax
+      [ @ 148 ]          Ehrenkranz   , Pamela                        Counsel                                     Trusts and  Estates
+      [ @ 149 ]          Ekechukwu    , Adabelle  ( Belle ) U.        Associate                                   Litigation
+      [ @ 150 ]          Emmerich   , Adam   O.                       Partner
+                                                                                                                  Corporate
+      [ @ 151 ]          Evans  , Malcolm  F.                         Associate
+                                                                                                                  Corporate
+      [ @ 152 ]          Feinstein  , Eric M.                         Partner                                     Corporate
+      [ @ 153 ]          Feltman  , Joshua  A.                        Partner                                     Restructuring and  Finance
+      [ @ 154 ]          Fernandez    Lumermann    , Cynthia          Partner                                     Litigation
+      [ @ 155 ]          Ferrara , Alexandra  M.                      Associate                                   Tax
+      [ @ 156 ]          Fischoeder  , Christian                      Associate                                   Antitrust
+      [ @ 157 ]          Fish , Brittany A.                           Associate                                   Litigation
+      [ @ 158 ]          Fitts , Nelson O.                            Partner                                     Antitrust
+      [ @ 159 ]                    , Kailey B.                        Associate                                   Corporate
+                         Flanagan
+      [ @ 160 ]                , John - Francis ( Jack ) S.           Associate                                   Litigation
+                         Flynn
+      [ @ 161 ]                    , Kevin  M.K.                      Law Clerk                                   Antitrust
+                         Fodouop
+      [ @ 162 ]                  , Kenneth  B.                        Of Counsel
+                         Forrest                                                                                  Litigation
+      [ @ 163 ]          Garber  , Chelsea  E.                        Law Clerk                                   Tax
+      [ @ 164 ]          Garcia , Cesar  E.                           Associate
+                                                                                                                  Litigation
+      [ @ 165 ]          Germana   , Ben  M.                          Partner                                     Litigation
+      [ @ 166 ]          Gettles - Atwa , Kathryn                     Counsel                                     Corporate
+      [ @ 167 ]          Ghods  , Rod  N.                             Associate
+                                                                                                                  Restructuring and  Finance
+      [ @ 168 ]          Gogolak   , Adam  M.                         Counsel                                     Litigation
+      [ @ 169 ]                               B.                      Of Counsel                                  Intellectual Property
+                         Goldberg   , Selwyn
+      [ @ 170 ]          Goldfeld  , Victor                           Partner                                     Corporate
+      [ @ 171 ]          Golin , Elaine P.                            Partner                                     Litigation
+      [ @ 172 ]          Goodman    , Adam  L.                        Partner                                     Litigation
+      [ @ 173 ]          Gordon  , Mark                               Partner                                     Corporate
+      [ @ 174 ]          Gotts , llene Knable                         Partner                                     Antitrust
+      [ @ 175 ]          Grauschopf   , Melina                        Visiting Attorney                           Corporate
+      [ @ 176 ]          Green  , Steven  R.                          Associate                                   Corporate
+      [ @ 177 ]          Grosbard   , Remy  K.                        Associate                                   Litigation
+      [ @ 178 ]          Guest  , Matthew  M.                         Partner                                     Corporate
+      [ @ 179 ]                 , Katharine R.                        Associate                                   Antitrust
+                         Haigh
+      [ @ 180 ]          Hantverk  , Emily J.                         Associate                                   Corporate
+      [ @ 181 ]          Harish , Alon  B.                            Associate
+                                                                                                                  Corporate
+      [ @ 182 ]          Hauck  , Courtney  D.                        Associate                                   Corporate
+      [ @ 183 ]                       C.                              Of Counsel
+                         Hein , Peter                                                                             Litigation
+      [ @ 184 ]                  , Edward  D.                         Partner                                     Corporate
+                         Herlihy
+      [ @ 185 ]                  , Angela  K.                         Counsel                                                   and  Finance
+                         Herring                                                                                  Restructuring
+      [ @ 186 ]          Holmes  , Joshua   M.                        Partner                                     Tax
+      [ @ 187 ]                , Charlene  C.                         Law Clerk
+                         Hong                                                                                     Litigation
+      [ @ 188 ]          Hovatter  , Nicole                           Law Clerk
+                                                                                                                  Corporate
+      [ @ 189 ]          Hunt , Alyssa  M.                            Law  Clerk
+                                                                                                                  Litigation
+      [ @ 190 ]          Ingriselli , Elizabeth A.                    Associate                                   Corporate
+      [ @ 191 ]          Jackson   , Randall W.                       Partner                                     Litigation
+      [ @ 192 ]                                                       Associate
+                         Jeon  , Sunny  S.                                                                        Litigation
+      [ @ 193 ]          Johnson   , Emily D.                         Partner                                     Restructuring and  Finance
+      [ @ 194 ]          Junquera   , Brian H.                        Associate                                   Corporate
+      [ @ 195 ]          Kahan  , David  E.                           Partner                                     Executive  Compensation    and Benefits
+      [ @ 196 ]               , David  C.                             Partner                                     Corporate
+                         Karp
+      [ @ 197 ]          Katz , David A.                              Partner                                     Corporate
+      [ @ 198 ]                      , Sasha H.                       Associate
+                         Kawakami                                                                                 Litigation
+      [ @ 199 ]          Kelly , JB                                   Of Counsel                                  Litigation
+      [ @ 200 ]          Khan  , Sabrina                              Associate                                   Corporate
+      [ @ 201 ]          Kim  , Richard K.                            Partner                                     Corporate
+      [ @ 202 ]          Kirman  , Igor                               Partner                                     Corporate
+      [ @ 203 ]                     , Emil A.                         Partner                                                                and Finance
+                         Kleinhaus                                                                                Litigation & Restructuring
+      [ @ 204 ]          Klein , Noah  R.                             Law Clerk                                   Corporate
+      [ @ 205 ]                , Jacob  A.                            Partner
+                         Kling                                                                                    Corporate
+      [ @ 206 ]                  , Mark A.                            Counsel                                     Real Estate  M & A
+                         Koenig
+      [ @ 207 ]          Kofke  , Lauren  M.                          Partner                                     Litigation
+      [ @ 208 ]                           G.                          Of Counsel                                  Litigation
+                         Koplow  , Meyer
+      [ @ 209 ]          Kotapati  , Bapu                             Associate                                   Litigation
+      [ @ 210 ]          Lambert  , Savannah   R.                     Law Clerk                                   Executive  Compensation   and  Benefits
+      [ @ 211 ]          Lam  , David K.                              Partner
+                                                                                                                  Corporate
+      [ @ 212 ]          Larson  , Joseph  D.                         Of Counsel                                  Antitrust
+      [ @ 213 ]          Laureano   Mena  , Estefania                 Associate
+                                                                                                                  Corporate
+      [ @ 214 ]          Levandoski   , Stephen  D.                   Associate                                   Litigation
+      [ @ 215 ]          Levene  , Ralph  M.                          Partner
+                                                                                                                  Litigation
+      [ @ 216 ]          Levine  , Jenna E.                           Partner                                     Corporate
+      [ @ 217 ]                                                       Associate                                                 and  Finance
+                         Levy , Mitchell ( Mitch ) S.                                                             Restructuring
+      [ @ 218 ]                 , Martin                              Partner
+                         Lipton                                                                                   Corporate
+      [ @ 219 ]          Listwa , Daniel B.                           Associate
+                                                                                                                  Litigation
+      [ @ 220 ]                                                       Associate
+                         Liu , Ping - Chun ( Ping )                                                               Corporate
+      [ @ 221 ]          Lobb  , Min K.                               Associate
+                                                                                                                  Litigation
+      [ @ 222 ]          Lochner  , Matthew                           Associate                                   Restructuring and  Finance
+      [ @ 223 ]                        , Alice S.                     Law  Clerk                                  Corporate
+                         Longenbach
+      [ @ 224 ]          Lu , Carmen   X. W.                          Counsel                                     Corporate
+      [ @ 225 ]                    , Nathaniel R.                     Associate                                   Corporate
+                         Ludewig
+      [ @ 226 ]          Lu , Meng                                    Associate
+                                                                                                                  Corporate
+      [ @ 227 ]          Lyons  , J. Austin                           Counsel                                     Trusts and  Estates
+      [ @ 228 ]          Ma , Christina  C.                           Partner                                     Antitrust
+      [ @ 229 ]          Makow   , Lawrence   S.                      Of Counsel                                  Corporate
+      [ @ 230 ]          Malhiet , Rachel  A.                         Associate                                   Tax
+      [ @ 231 ]          Marshak   , Stephanie  A.                    Associate                                   Restructuring and  Finance
+      [ @ 232 ]          Mason   , Richard G.                         Partner                                     Restructuring and  Finance
+      [ @ 233 ]          Mateo  , Katherine                           Associate                                                 and  Finance
+                                                                                                                  Restructuring
+      [ @ 234 ]          Mayer  , Douglas  K.                         Of Counsel                                            & Restructuring  and Finance .
+                                                                                                                  Litigation
+      [ @ 235 ]          Mayo  , J. Heath                             Associate                                   Corporate
+      [ @ 236 ]          Mazur  , Robert B.                           Of Counsel
+                                                                                                                  Litigation
+      [ @ 237 ]                     ,       C.                        Counsel                                     Executive  Compensation    and Benefits
+                         McCarthy    Alicia
+      [ @ 238 ]          McLeod   , Ryan  A.                          Partner
+                                                                                                                  Litigation
+      [ @ 239 ]          Meli , Graham  W.                            Partner                                     Litigation
+      [ @ 240 ]          Melman   , Charles M.                        Associate                                   Litigation
+      [ @ 241 ]          Merwin  , Kelley                             Associate                                   Corporate
+      [ @ 242 ]          Miles , Alexander  ( Alex ) M.               Associate                                   Restructuring and  Finance
+      [ @ 243 ]          Miller , Alec G.                             Associate                                   Corporate
+      [ @ 244 ]          Mindlin , Philip                             Of Counsel                                  Restructuring and  Finance
+      [ @ 245 ]          Miroff , Maxim  ( Max ) A.                   Associate                                   Intellectual Property
+      [ @ 246 ]          Mirvis , Theodore  N.                        Partner                                     Litigation
+      [ @ 247 ]                   , Claudia T.                                    Counsel
+                         Morgan                                       eDiscovery                                  Litigation
+      [ @ 248 ]          Moses  , Jonathan   M.                       Partner
+                                                                                                                  Litigation
+      [ @ 249 ]          Munshi  , Raeesa   I.                        Associate                                   Corporate
+      [ @ 250 ]                 , Thomas   A.                         Law Clerk                                   Litigation
+                         Myers
+      [ @ 251 ]          Nadler , Samuel   C.                         Associate                                   Corporate
+      [ @ 252 ]                          A.                           Associate
+                         Nagy  , William                                                                          Corporate
+      [ @ 253 ]                   , Raaj S.                           Partner                                     Corporate
+                         Narayan
+      [ @ 254 ]          Neff , Daniel A.                             Partner                                     Corporate
+      [ @ 255 ]               , David S.                              Of Counsel                                  Antitrust
+                         Neill
+      [ @ 256 ]          Nickerson   , Benjamin  J.                   Associate                                   Restructuring and  Finance
+      [ @ 257 ]          Nir , Shachar                                Associate                                   Corporate
+      [ @ 258 ]          Nishi , Camila O.                            Visiting Attorney                           Corporate
+      [ @ 259 ]          Norwitz  , Trevor S.                         Partner                                     Corporate
+      [ @ 260 ]          Novikoff  , Harold S.                        Of Counsel                                  Restructuring and  Finance
+      [ @ 261 ]          Nussbaum    , Andrew   J.                    Partner                                     Corporate
+      [ @ 262 ]          O'Brien , Jeannemarie                        Partner                                     Executive  Compensation    and Benefits
+      [ @ 263 ]          Okoye  , Chinecherem    ( ChiChi ) O.        Associate                                   Corporate
+      [ @ 264 ]          Olofin , Adebola  ( Bola ) O.M.              Associate                                   Litigation
+      [ @ 265 ]          Orr , Justin R.                              Counsel                                     Intellectual Property
+      [ @ 266 ]                                                       Partner
+                         Ostling , Gregory  E.                                                                    Corporate
+      [ @ 267 ]          Ozyildirim , Canem                           Associate                                   Litigation
+      [ @ 268 ]          Panovka   , Robin                            Partner                                     Real  Estate M & A
+      [ @ 269 ]          Papirnik , David A.                          Associate                                   Corporate
+      [ @ 270 ]          Park , Jane                                  Law Clerk                                   Litigation
+      [ @ 271 ]          Patel , Rushi K.                             Associate
+                                                                                                                  Corporate
+      [ @ 272 ]          Paul , Deborah   L.                          Partner                                     Tax
+      [ @ 273 ]          Pearlman   , Jacob D.                        Associate                                   Corporate
+      [ @ 274 ]          Pedowitz  , Lawrence   B.                    Of Counsel                                  Litigation
+      [ @ 275 ]          Pessin  , Gregory  E.                        Partner                                     Restructuring and  Finance
+      [ @ 276 ]          Podolsky  , Zachary  S.                      Partner                                     Corporate
+      [ @ 277 ]          Pollard , Beatrice R.                        Law Clerk                                   Litigation
+      [ @ 278 ]          Preiss , Alison Zieske                       Partner                                     Corporate
+      [ @ 279 ]          Price , Brandon  C.                          Partner                                     Corporate
+      [ @ 280 ]          Rabkin   Golden  , Allison                   Law Clerk                                   Corporate
+      [ @ 281 ]          Reddy  , Anitha                              Partner                                     Litigation
+      [ @ 282 ]          Reilly , Carrie M.                           Partner                                     Litigation
+      [ @ 283 ]          Reisberg  , Rachel  B.                       Partner                                     Tax
+      [ @ 284 ]          Reiss , Sherri D.                            Associate                                   Corporate
+      [ @ 285 ]          Ricketts , Farrah M.                         Associate                                   Corporate
+      [ @ 286 ]                , Andrea  E.                           Associate                                   Real Estate  M & A
+                         Riina
+      [ @ 287 ]          Robinson   , Eric S.                         Of Counsel
+                                                                                                                  Corporate
+      [ @ 288 ]          Robinson   , John  L.                        Partner                                     Corporate
+      [ @ 289 ]          Rose  , Daria                                Associate                                   Corporate
+      [ @ 290 ]          Rosenblum    , Steven A.                     Partner                                     Corporate
+      [ @ 291 ]          Rosenthal   , Charles M.                     Associate
+                                                                                                                  Corporate
+      [ @ 292 ]          Rosof  , Eric M.                             Of Counsel                                                and  Finance
+                                                                                                                  Restructuring
+      [ @ 293 ]          Ross  , Richard  M.                          Associate                                   Real  Estate M & A
+      [ @ 294 ]                                                       Partner                                     Corporate
+                         Roth  , Benjamin  M.
+      [ @ 295 ]          Roth , Eric M.                               Of Counsel
+                                                                                                                  Litigation
+      [ @ 296 ]          Rowe  , Paul K.                              Of Counsel                                  Litigation
+      [ @ 297 ]                                                       Associate                                   Corporate
+                         Rubin  , Kimberly  A.
+      [ @ 298 ]                    , Alexandra  P.                    Associate
+                         Sadinsky                                                                                 Litigation
+      [ @ 299 ]                                                       Associate                                   Antitrust
+                         Samra  , Emily  E.
+      [ @ 300 ]                        , Viktor                       Partner
+                         Sapezhnikov                                                                              Corporate
+      [ @ 301 ]          Savarese  , John  F.                         Partner                                     Litigation
+      [ @ 302 ]          Savitt , William                             Partner                                     Litigation
+      [ @ 303 ]                   , Yosef G.                          Associate
+                         Schaffel                                                                                 Litigation
+      [ @ 304 ]          Schmertzler  , Olivia R.                     Associate                                   Tax
+      [ @ 305 ]          Schobel  , Michael  J.                       Partner                                     Executive  Compensation   and  Benefits
+      [ @ 306 ]          Schwartz  , David  A.                        Of Counsel                                  Litigation
+      [ @ 307 ]          Schwartz  , Jodi J.                          Partner                                     Tax
+      [ @ 308 ]          Schwartz  , Kevin  S.                        Partner
+                                                                                                                  Litigation
+      [ @ 309 ]          Schwartz  , Michael  W.                      Of Counsel                                  Litigation
+      [ @ 310 ]          See , Charles  C.                            Associate                                   Restructuring and  Finance
+      [ @ 311 ]          Segal , Michael  J.                          Of Counsel                                  Executive  Compensation   and  Benefits
+      [ @ 312 ]          Shapiro  , Adam  J.                          Partner                                     Executive  Compensation   and  Benefits
+      [ @ 313 ]                           E.                          Partner
+                         Shapiro  , David                                                                         Corporate
+      [ @ 314 ]          Sharer  , Nicole D.                          Associate                                   Intellectual Property
+      [ @ 315 ]          Sheinfeld  , David G.                        Associate                                   Restructuring and  Finance
+      [ @ 316 ]          Shin , Won  S.                               Of Counsel                                  Litigation
+      [ @ 317 ]          Sicilian , Martin J.                         Associate
+                                                                                                                  Litigation
+      [ @ 318 ]          Silk , David M.                              Of Counsel
+                                                                                                                  Corporate
+      [ @ 319 ]                      ,                                Partner
+                         Silverberg   Rachelle                                                                    Litigation
+      [ @ 320 ]          Simwinga   , Joel M.                         Associate                                                 and  Finance
+                                                                                                                  Restructuring
+      [ @ 321 ]          Singh  , Joseph  A.                          Law Clerk                                   Corporate
+      [ @ 322 ]          Smith  , Monica  L.                          Associate                                   Antitrust
+      [ @ 323 ]                                                       Counsel                                                   and  Finance
+                         Snyder  , Neil ( Mac ) M.                                                                Restructuring
+      [ @ 324 ]          Sobolewski   , John  R.                      Partner                                                        Finance
+                                                                                                                  Restructuring and
+      [ @ 325 ]                     , Sara B.                         Associate                                   Corporate
+                         Spanbock
+      [ @ 326 ]                  , Deborah  A.                        Law  Clerk                                  Litigation
+                         Sparks
+      [ @ 327 ]                                                       Of Counsel
+                         Spaziani  , Rosemary                                                                     Corporate
+      [ @ 328 ]          Stagliano  , Mark A.                         Partner                                     Corporate
+      [ @ 329 ]                  , T. Eiko                            Partner                                     Tax
+                         Stange
+      [ @ 330 ]          Stein , Elliott V.                           Of Counsel                                  Corporate
+      [ @ 331 ]          Stein , Emma   Sydney                        Associate                                   Litigation
+      [ @ 332 ]          Stern , Warren  R.                           Of Counsel                                  Litigation
+      [ @ 333 ]          Strine , Leo E. , Jr.                        Of Counsel                                  Corporate
+      [ @ 334 ]          Stringfellow  , Nicholas G.                  Associate                                   Trusts and  Estates
+      [ @ 335 ]          Szczerban   , S. Christopher                 Counsel                                     Litigation
+      [ @ 336 ]                , Dixing                               Associate                                   Executive  Compensation   and  Benefits
+                         Tang
+      [ @ 337 ]          Tanne  , Adam  P.                            Associate
+                                                                                                                  Corporate
+      [ @ 338 ]          Tepe , George   N.                           Associate                                   Corporate
+      [ @ 339 ]                      , Elina                          Partner
+                         Tetelbaum                                                                                Corporate
+      [ @ 340 ]          Thaler , Itai Y.                             Associate                                   Antitrust
+      [ @ 341 ]                   , Michael  L.                       Associate
+                         Thomas                                                                                   Litigation
+      [ @ 342 ]          Thorbjornson    , Jacquelyn  O.              Law  Clerk                                  Litigation
+      [ @ 343 ]          Thurman   , Mackenzie   V.                   Associate                                   Corporate
+      [ @ 344 ]                 , Alana M.                            Law  Clerk                                                     Finance
+                         Thyng                                                                                    Restructuring and
+      [ @ 345 ]          Tobin  , Joseph  ( Joe ) S.                  Associate                                   Litigation
+      [ @ 346 ]          Toy , Amanda   K.                            Associate                                   Executive  Compensation   and  Benefits
+      [ @ 347 ]          Urdaneta  , Fabiola                          Associate                                   Corporate
+      [ @ 348 ]          Veblen  , Mark F.                            Partner                                     Corporate
+      [ @ 349 ]          Villegas , Lorenzo  A.                       Associate                                   Litigation
+      [ @ 350 ]          Vizcarrondo   , Paul                         Of Counsel
+                                                                                                                  Litigation
+      [ @ 351 ]          Vlahakis  , Patricia A.                      Of Counsel                                  Corporate
+      [ @ 352 ]          Wachtell  , Herbert M.                       Partner                                     Litigation
+      [ @ 353 ]          Waldock   , Katherine P.                     Law  Clerk                                  Restructuring and  Finance
+      [ @ 354 ]                                                       Counsel                                     Corporate
+                         Watiker  , Jeffrey A.
+      [ @ 355 ]          Webb   , David P.T.                          Associate                                   Litigation
+      [ @ 356 ]          Weintraub                                    Associate                                   Litigation
+                                     , Amy  R.
+      [ @ 357 ]          White  , Jennifer                                                                                      and  Finance
+                                                                      Visiting Attorney                           Restructuring
+      [ @ 358 ]                                                       Partner
+                         Wilson  , Bradley R.                                                                     Litigation
+      [ @ 359 ]                 , Steven  P.                          Partner
+                         Winter                                                                                   Litigation
+      [ @ 360 ]          Wintner  , Jeffrey M.                        Partner                                     Litigation
+      [ @ 361 ]          Wolf , Amy  R.                               Of Counsel                                  Restructuring and  Finance
+      [ @ 362 ]          Wolinsky  , Marc                             Of                                          Litigation
+      [ @ 363 ]          Wong   , Karen                               Associate                                   Litigation
+      [ @ 364 ]          Wozny  , Lucas                               Associate
+                                                                                                                  Corporate
+      [ @ 365 ]          Yang  , Claire Y.                            Associate                                   Corporate
+      [ @ 366 ]          Yaster , Susan  ( Suzy )                     Associate                                   Tax
+      [ @ 367 ]          Yavitz , Noah  B.                            Partner
+                                                                                                                  Litigation
+      [ @ 368 ]          Yeh  , Emily                                 Associate
+                                                                                                                  Corporate
+      [ @ 369 ]          Zakharenko   , Savely  S.                    Law Clerk
+                                                                                                                  Corporate
+      [ @ 370 ]          Zeng  , Amy                                  Associate                                   Executive  Compensation   and  Benefits
+                                                                      [ 371 ] Practices
       [ 372 ] e have experience in the fields of mergers and acquisitions , strategic investments , takeovers and takeover defense , shareholder activism ,
-	   corporate  and securities law and corporate  governance  . We  handle  some  of the largest , most complex and  demanding   transactions in the
-	   United States and  around  the world . We also handle  significant white collar criminal investigations and other sensitive litigation matters and
-				       counsel  boards of directors and senior management     in the most sensitive situations .
-									[ @ 373 ] LEARN MORE
-							   WACHTELL      , LIPTON    , ROSEN     &  KATZ
-							      [ 374 ] 51 West 52nd Street , New York , NY 10019
-					     [ 375 ]			    [ @ 376 ]
-	    [ 377 ] We are using cookies to give you the best experience on our website . [ $ 378 ] Accept     [ $ 379 ] Reject       [ $ 380 ] Settings
+           corporate  and securities law and corporate  governance  . We  handle  some  of the largest , most complex and  demanding   transactions in the
+           United States and  around  the world . We also handle  significant white collar criminal investigations and other sensitive litigation matters and
+                                       counsel  boards of directors and senior management     in the most sensitive situations .
+                                                                        [ @ 373 ] LEARN MORE
+                                                           WACHTELL      , LIPTON    , ROSEN     &  KATZ
+                                                              [ 374 ] 51 West 52nd Street , New York , NY 10019
+                                             [ 375 ]                            [ @ 376 ]
+            [ 377 ] We are using cookies to give you the best experience on our website . [ $ 378 ] Accept     [ $ 379 ] Reject       [ $ 380 ] Settings
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 7044
+Token count: 6949
