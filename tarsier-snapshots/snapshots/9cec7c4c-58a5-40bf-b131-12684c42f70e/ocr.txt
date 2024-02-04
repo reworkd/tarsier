@@ -1,29 +1,28 @@
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ 1 ] Job Posting
-	   [ @ 0 ]  Cahill													    [ 2 ] Today is Friday , December 15 , 2023
-	[ [ 3 ]
-	   Tax Associate
-	     [ $ 5 ] Job ID : [ 4 ] 1013	   [ $ 7 ] Position : [ 6 ] Associate   [ $ 9 ] Location : [ 8 ] New York     [ $ 11 ] Practice
-															      Area :	[ 10 ] Tax
-	     [ $ 13 ] Open			 [ $ 14 ] Pay Type :		  [ $ 16 ] Job
-	    Date :	[ 12 ] Wednesday , June 22 ,				  Function :    [ 15 ] Legal
-	    2022
-	     [ $ 17 ] Job Description :
-	       [ 18 ] We are seeking a tax associate with two to four years of tax experience . Prior
-	       law firm experience preferred .
-	       [ 19 ] We regularly represent issuers and underwriters in connection with the tax
-	      aspects  of capital market transactions , including bank financings , securities offerings ,
-	       exchange  offers , tender offers , and consent solicitations . Experience in this area is
-	       preferred .
-	       [ 20 ] Candidates must have excellent oral and written communication skills , a strong
-	      academic   background  and be admitted to the New York Bar .
-	       [ 21 ] This is an excellent opportunity to join a leading , dynamic , and rewarding
-	       practice . More information about our practice can be found [ @ 23 ] here [ 22 ]
-	     [ $ 24 ] Job Requirements :
-															[ $ 25 ] Back	  [ $ 26 ] Apply Now
-										 MICRON
-									  OM     SYSTEMS
-					  [ @ 27 ] www.micronsystems.com [ @ 28 ] About Micron Systems [ @ 29 ] Privacy Policy [ @ 30 ] Terms & Conditions
-								[ 31 ] Ⓒ Copyright 2023 Micron Systems , Inc. All rights reserved .
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 428
+	    [ @  ]   Cahill														    [ 2 ] Today is Friday , December 15 , 2023
+	 [ 3 ]
+	    Tax  Associate
+	      [ $ 5 ] Job ID : [ 4 ] 1013	      [ $ 7 ] Position : [ [ 6 ] Associate     [ $ 9 ] Location : [ 8 ] New York	[ $ 11 ] Practice
+																	Area :	 [ 10 ] Tax
+	      [ $ 13 ] Open			    [ $ 14 ] Pay			     [ $ 16 ] Job
+	      Date :	 [ 12 ] Wednesday , June 22 , Type :			       Function :     [ 15 ] Legal
+	     2022
+	      [ $ 17 ] Job Description :
+		[ 18 ] We are seeking  a tax associate with two  to four years of tax experience . Prior
+		law firm experience  preferred .
+		[ 19 ] We regularly represent  issuers and underwriters  in connection  with the tax
+		aspects  of capital market transactions , including bank financings , securities offerings ,
+		exchange   offers , tender offers , and consent solicitations . Experience in this area is
+		preferred .
+		[ 20 ] Candidates  must  have excellent oral and written communication    skills , a strong
+		academic   background   and be admitted  to the New  York Bar .
+		[ 21 ] This is an excellent opportunity to join a leading , dynamic , and rewarding
+		practice . More information about our  practice can be found  [ @ 23 ] here [ 22 ]
+	      [ $ 24 ] Job Requirements :
+																 [ $ 25 ] Back	    [ $ 26 ] Apply Now
+										       MICRON
+					[ @ 27 ] www.micronsystems.com  [ @ 28 ] About Micron Systems [ @ 29 ] Privacy Policy [ @ 30 ] Terms & Conditions
+								    [ 31 ] © Copyright 2023 Micron Systems , Inc. All rights reserved .
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 447

@@ -1,50 +1,51 @@
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ # 1 ] [ $ 2 ]								[ $ 3 ]
-																				   [ $ 4 ]
-																				    Esc
-						  [  5  ]  Project	      Assistant		   ( Boston	     )
-									       [ 6 ] Boston , United States
-										  0  [ 7 ] TRENDING
-									       [ 8 ] JOB DESCRIPTION
-				Proskauer is an exciting place to be right now . With over 800 lawyers in 12 offices around the globe , we are the law firm that clients
-			       turn to when a matter is complex , innovative and game - changing in the world of sports , health care , life sciences , media &
-				entertainment , technology , asset management and hospitality . Since 1875 we have been trusted by our clients because of the
-			       combination of our best - in - class practices and the strength of our industry knowledge .
-				[ 10 ] The Firm seeks an entry - level paralegal to assist attorneys and senior paralegals in all aspects of the transactional , labor and
-			       litigation processes .
-										 RESPONSIBILITIES
-				  [ 12 ] Assisting attorneys with the preparation of pleadings , corporate documents , entity formations , contracts .
-				. [ 13 ] Preparing , tracking and organizing witness materials , document productions , closing documents , signature pages , closing
-				  sets and filings .
-				• Coordinating court and government agency filings .
-				• Conducting statistical , factual and legal research and assembling data for analyses .
-				  [ 16 ] Compiling , organizing and reviewing client documents .
-				• [ 17 ] Preparing for and attending depositions , arbitrations , trials and closings .
-				• Maintaining case files , document databases and data rooms .
-				• Preparing audit letters for distribution to auditors and clients .
-				• Conducting UCC  searches and preparing and filing UCC filings .
-				• [ 21 ] Facilitating communication between clients and third parties .
-									       [ 22 ] QUALIFICATIONS
-				• Recent college graduate with a B.A. or B.S. degree from a 4 - year college .
-				• Academically accomplished with excellent organizational skills .
-				. [ 25 ] Willing to make a two - year commitment .
-				. [ 26 ] Available to work overtime when required , including evenings and weekends .
-				• [ 27 ] Ability to work well under pressure in a collaborative environment and handle multiple tasks efficiently .
-				• [ 28 ] Strong written and oral communication skills .
-				  [ 29 ] Proficiency in Microsoft Outlook , Word , Excel , and PowerPoint .
-				. [ 30 ] Foreign language skills are a plus .
-				[ 31 ] This position will require physical presence in Proskauer's offices on a regular basis .
-				[ 32 ] Proskauer is an equal opportunity employer and is committed to providing a work environment that fosters diversity , inclusion ,
-			       and equal opportunity without regard to race , color , gender , age , creed , sex , religion , national origin , disability ( physical or mental ) ,
-				marital status , citizenship , ancestry , sexual orientation , gender identity and gender expression , or any other legally protected status .
-										     AP [ $ 33 ] OW
-										      JOB INFO
-				[ 35 ] Job Identification	[ 36 ] 256
-				Job Category		     [ 38 ] Paralegal Services
-				Posting Date		     10/25/2023 , 06:34 AM
-				Degree Level		     [ 42 ] Bachelor's Degree
-				[ 43 ] Job Schedule	      [ 44 ] Full time
-				[ 45 ] Locations		   [ 46 ] Boston
-				[ 128 ] New York , United States [ 129 ] Posted on [ 130 ] 02/08/2023 [ 131 ] BE THE FIRST TO APPLY
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 821
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+[ # 1 ] [ $ 2 ]						       [ $ 3 ]							□
+																		[ $ 4 ]
+																		 Esc
+					       [ 5 ] Project	 Assistant	       ( Boston	    )
+								      [ 6 ] Boston , United States
+									   [ 7 ] TRENDING
+								      [ 8 ] JOB DESCRIPTION
+			    [ 9 ] Proskauer is an exciting place to be right now . With over 800 lawyers in 12 offices around the globe , we are the law firm that
+			    clients turn to when a matter is complex , innovative and game - changing in the world of sports , health care , life sciences , media &
+			    entertainment , technology , asset management and hospitality . Since 1875 we have been trusted by our clients because of the
+			    combination of our best - in - class practices and the strength of our industry knowledge .
+			    [ 10 ] The Firm seeks an entry - level paralegal to assist attorneys and senior paralegals in all aspects of the transactional , labor and
+			    litigation processes .
+									RESPONSIBILITIES
+			    .  [ 12 ] Assisting attorneys with the preparation of pleadings , corporate documents , entity formations , contracts .
+			      [ 13 ] Preparing , tracking and organizing witness materials , document productions , closing documents , signature pages , closing
+			      sets and filings .
+			    . Coordinating court and government agency filings .
+			    • Conducting statistical , factual and legal research and assembling data for analyses .
+			      [ 16 ] Compiling , organizing and reviewing client documents .
+			      [ 17 ] Preparing for and attending depositions , arbitrations , trials and closings .
+			      Maintaining case files , document databases and data rooms .
+			    . Preparing audit letters for distribution to auditors and clients .
+			    • Conducting UCC searches and preparing and filing UCC filings .
+			       [ 21 ] Facilitating communication between clients and third parties .
+								      [ 22 ] QUALIFICATIONS
+			    • Recent college graduate with a B.A. or B.S. degree from a 4 - year college .
+			    . Academically accomplished with excellent organizational skills .
+			       [ 25 ] Willing to make a two - year commitment .
+			    . [ 26 ] Available to work overtime when required , including evenings and weekends .
+			      [ 27 ] Ability to work well under pressure in a collaborative environment and handle multiple tasks efficiently .
+			      [ 28 ] Strong written and oral communication skills .
+			    . [ 29 ] Proficiency in Microsoft Outlook , Word , Excel , and PowerPoint .
+			      [ 30 ] Foreign language skills are a plus .
+			    [ 31 ] This position will require physical presence in Proskauer's offices on a regular basis .
+			    [ 32 ] Proskauer is an equal opportunity employer and is committed to providing a work environment that fosters diversity , inclusion ,
+			    and equal opportunity without regard to race , color , gender , age , creed , sex , religion , national origin , disability ( physical or mental ) ,
+			    marital status , citizenship , ancestry , sexual orientation , gender identity and gender expression , or any other legally protected status .
+									   AF [ $ 33 ] W
+									    JOB INFO
+			    [ [ 35 ] Job Identification  [ 36 ] 256
+			    [ 37 ] Job Category	  [ 38 ] Paralegal Services
+			    Posting Date		 10/25/2023 , 06:34 AM
+			    Degree Level		 Bachelor's Degree
+			    [ 43 ] Job Schedule	  [ [ 44 ] Full time
+			    [ 45 ] Locations		[ 46 ] Boston
+		 [ @ 126 ]													 [ $ 132 ]
+			      [ 128 ] New York , United States [ 129 ] Posted on [ 130 ] 02/08/2023 [ 131 ] BE THE FIRST TO APPLY
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 804

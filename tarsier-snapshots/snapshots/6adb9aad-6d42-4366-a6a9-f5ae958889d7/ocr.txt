@@ -1,45 +1,42 @@
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ $ 11 ]
-  [ @  8 ]				     [ 12 ] Post
-    X
-					@ 16  [ @ 17 ]						      [ $ 21 ]
-  [ @ 9 ]
-					      [ 18 ] Asim Shrestha ✔
-					      [ @ 19 ]
-	  [ 10 ] Settings
-					      [ 20 ] @asimdotshrestha
-				       [ 22 ] SF is not ready for this boye
-				       ( @ 231
-															   [ 36 ] ew  to  X ?
-															  [ 37 ] Sign up now to get your own personalized
-															  timeline !
-																   G   Sign up with Google
-															    [ $ 38 ]
-																    [ 39 ] Sign up with Apple
-															    [ @ 40 ]
-																    [ 41 ] Create account
-															  [ 42 ] By signing up , you agree to the Terms of
-															  Service and [ @ 46 ] Privacy Policy [ 44 ] , including
-															  [ @ 47 ] Cookie Use .
-															   [ 48 ] Relevant  people
-															   @ 50   [ @ 51 ]
-																  [ 52 ] Asim Shres     [ $ 55 ]
-																  [ @ 53 ]	      [ 56 ] Follow
-																 [ 54 ] @asimdotshres
-																 [ 57 ] Cofounder , [ @ 58 ] @ReworkdAl
-																 [ 59 ] YC S23 . Working on Al agents
-				       [ @ 24 ] 9:30 AM Nov 25 , 2023 [ 25 ] [ 26 ] 2,506 [ 27 ] Views
-															     [ 60 ] Trends are unavailable .
-				       [ @ 28 ] [ 29 ] 23 [ 30 ] Likes
-					[ $ 31 ]	 [ $ 32 ]	 [ $ 33 ]	 [ $ 34 ]	 [ + $ 35 ]
-													    ]
-							 22				Q
-															   [ @ 61 ] Terms of Service [ @ 62 ] Privacy Policy
-															   [ @ 63 ] Cookie Policy [ @ 64 ] Accessibility
-															  [ @ 65 ] Ads info [ $ 66 ] ]
-																	 [ 67 ] More ...
-															   [ 68 ] 2023 X Corp.
-				     [ 0 ] Don't  miss   what's    happening							     [ @ 2 ]	 [ @ 4 ]
-				     [ 1 ] People on X are the first to know .							   [ 3 ] Log in    [ 5 ] Sign up
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 556
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 8 ]			      [ $ 11 ]
+						[ 12 ] Post
+   X
+  [ @ 9 ]				       [ @ 17 ]						      [ $ 21 ]
+					       [ 18 ] Asim Shrestha
+	  [ 10 ] Settings		      [ @ 19 ]
+					       [ 20 ] @asimdotshrestha
+					[ 22 ] SF is not ready for this boye
+					 [ @ 23 ]
+															      [ 36 ] New  to X ?
+															      [ 37 ] Sign up now to get your own personalized
+															     timeline !
+																       G   Sign up with Google
+																[ $ 38 ]
+																       [ 39 ] Sign up with Apple
+																[ @ 40 ]
+																	[ 41 ] Create account
+															     By signing up , you agree to the Terms of Service and
+															     Privacy Policy [ 44 ] , including [ @ 47 ] Cookie
+															     Use .
+															      [ 48 ] Relevant   people
+																     [ @ 51 ]
+																     [ 52 ] Asim Shri       56 ] Follow
+																			   [
+																     [ @ 53 ]
+																     [ 54 ] @asimdotshr
+																     Cofounder , [ @ 58 ] @ReworkdAl
+																     [ 59 ] YC S23 . Working on Al agents
+					 [ @ 24 ] 9:30 AM - Nov 25 , 2023 [ 25 ] [ 26 ] 2,506 [ 27 ] Views
+																[ 60 ] Trends are unavailable .
+					 [ @ 28 ] [ 29 ] 23 [ 30 ] Likes
+					 [ $ 31 ]	 [ $ 32 ]	 [ $ 33 ]	 [ $ 34 ]	  [ $ 35 ]
+							  22	       ♡		Q		 ↑
+															      [ @ 61 ] Terms of Service
+															      [ @ 62 ] Privacy Policy [ @ 63 ] Cookie Policy
+															      [ @ 64 ] Accessibility [ @ 65 ] Ads info
+															      [ 67 ] More ... [ 68 ] 2023 X Corp.
+				      [ 0 ] Don't  miss   what's    happening							       [ @ 2 ]	  [ @ 4 ]
+				      [ 1 ] People on X are the first to know .							     [ 3 ] Log in     [ 5 ] Sign up
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 526
