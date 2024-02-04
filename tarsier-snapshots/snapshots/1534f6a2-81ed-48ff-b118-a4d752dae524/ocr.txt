@@ -1,22 +1,22 @@
----------------------------------------------------------------------------------------------------------------------------
-[ $ 3 ]    [ 6 ] API     [ $ 7 ]    [ 10 ] Safety		       [ @ 16 ]
-  [ @ 1 ]	       [ 4 ] Research ✓	 [ 8 ] ChatGPT✓			   [ $ 13 ]  [ 17 ] Log in 7
-      OpenAl		  [ $ 11 ]						  [ 14 ] Search [ @ 18 ]
-			  [ 12 ] Company ✓							   [ 19 ] Try ChatGPT >
+-------------------------------------------------------------------------------------------------------------------------
+[ $ 3 ]    [ 6 ] API✓    [ $ 7 ]    [ 10 ] Safety		       [ @ 16 ]
+  [ [ @ 1 ]	    [ 4 ] Research ✓	 [ 8 ] ChatGPT ✓			  [ $ 13 ]  [ 17 ] Log in 7
+      OpenAl		  [ $ 11 ]						[ 14 ] Search [ @ 18 ]
+			  [ 12 ] Company ✓							  [ 19 ] Try ChatGPT >
   [ @ 20 ]
   [ 21 ] Careers
-								   [ 23 ] San Francisco  , California , United States
-  [  22     ] Al      Policy				      Legal
+								 [ 23 ] San Francisco  , California , United States
+  [ 22     ]  Al      Policy				     Legal
   Counsel
-  [ @ 24 ]	      [ 26 ] About the Team
+  [ @ 24 ] ]	   [ 26 ] About the Team
   [ 25 ] Apply now >
-			[ 27 ] OpenAl's Legal team plays a crucial role in furthering OpenAl's
+		       [ 27 ] OpenAl's Legal team plays a crucial role in furthering OpenAl's
 		       mission by tackling innovative , fundamental legal issues in Al . If you're
 		       passionate about doing significant and unique work as a technology lawyer ,
 		       this team is for you . The team comprises professionals from diverse fields ,
 		       including technology , Al , privacy , IP , corporate , employment , tax law ,
 		       regulatory , and litigation .
-			[ 28 ] About the Role
+		       [ 28 ] About the Role
 		       [ 29 ] We're seeking an Al Policy Counsel to help navigate the increasing Al
 		       legislative and regulatory landscape in the US and abroad . We're looking
 		       for a legal self - starter who is comfortable jumping into a broad range of Al
@@ -27,78 +27,79 @@
 		       Washington , DC . For San Francisco HQ , we use a hybrid work model of 3
 		       days in the office per week and offer relocation assistance to new
 		       employees .
-			[ 31 ] In this role , you will :
-		       ● [ 32 ] Analyze legislative and regulatory proposals concerning Al to
+		       [ 31 ] In this role , you will :
+		       • [ 32 ] Analyze legislative and regulatory proposals concerning Al to
 			 understand their impact on OpenAl and the broader Al community .
-		       . [ 33 ] Draft white papers , comments , and other materials to articulate
+			 [ 33 ] Draft white papers , comments , and other materials to articulate
 			 OpenAl's position on various policy and regulatory matters .
-		       ●  [ 34 ] Provide strategic policy analysis and advice to the Global Affairs
+		       • [ 34 ] Provide strategic policy analysis and advice to the Global Affairs
 			 team and other internal stakeholders .
 			 [ 35 ] Engage with external stakeholders , including regulatory authorities
 			 and industry groups , to advocate for favorable policy frameworks .
-			 [ 36 ] Monitor and keep the team updated on emerging policy issues
+		       • [ 36 ] Monitor and keep the team updated on emerging policy issues
 			 related to Al .
 		       [ 37 ] You might thrive in this role if you have :
-			 [ 38 ] 5-9 years of legal and policy experience .
+		       • [ [ 38 ] 5-9 years of legal and policy experience .
 		       ● [ 39 ] A combination of an in - house technology company , government , or
 			 law firm experience .
-			 [ 40 ] Strong background in technology policy , including Al .
-			  [ 41 ] Experience creating clear and concise writing , distilling complex
+		       • [ 40 ] Strong background in technology policy , including Al .
+		       • [ 41 ] Experience creating clear and concise writing , distilling complex
 			 concepts into simple , explainable , and persuasive ideas .
 			 [ 42 ] Experience analyzing complex legislation .
-			  [ 43 ] Experience engaging with regulators and / or policymakers .
-		       • [ 44 ] International policy experience , particularly in the EU and UK .
-			[ 45 ] About the Interview Process
-			[ 46 ] We will accept applications and conduct interviews through
+		       • [ 43 ] Experience engaging with regulators and / or policymakers .
+			 [ 44 ] International policy experience , particularly in the EU and UK .
+		       [ 45 ] About the Interview Process
+		       [ 46 ] We will accept applications and conduct interviews through
 		       December , targeting onboarding by early January . The interview process
 		       may include a written assessment and several values , skills , and behavioral
 		       interviews with our team , virtually or in person .
-			[ 47 ] # LI - RA1
-			[ 48 ] Compensation , Benefits and Perks
-			[ 49 ] Total compensation also includes generous equity and benefits .
-		       ● [ 50 ] Medical , dental , and vision insurance for you and your family
-		       ● [ 51 ] Mental health and wellness support
-		       ● [ 52 ] 401 ( k ) plan with 4 % matching
-		       ● [ 53 ] Unlimited time off and 18+ company holidays per year
-		       • [ 54 ] Paid parental leave ( 20 weeks ) and family - planning support
-		       ● [ 55 ] Annual learning & development stipend ( $ 1,500 per year )
-			[ 56 ] Annual Salary Range
-			[ 57 ] $ 250,000 [ 58 ] [ 59 ] ] $ 250,000 USD
-			[ 60 ] About OpenAl
-			[ 61 ] OpenAl is an Al research and deployment company dedicated to
+		       [ 47 ] # LI - RA1
+		       [ 48 ] Compensation , Benefits and Perks
+		       [ 49 ] Total compensation also includes generous equity and benefits .
+		       • [ 50 ] Medical , dental , and vision insurance for you and your family
+			 [ 51 ] Mental health and wellness support
+			 [ 52 ] 401 ( k ) plan with 4 % matching
+			 [ 53 ] Unlimited time off and 18+ company holidays per year
+			 [ 54 ] Paid parental leave ( 20 weeks ) and family - planning support
+		       • [ 55 ] Annual learning & development stipend ( $ 1,500 per year )
+		       [ 56 ] Annual Salary Range
+		       [ 57 ] $ 250,000 [ 58 ] [ 59 ] $ 250,000 USD
+		       [ 60 ] About OpenAl
+		       [ 61 ] OpenAl is an Al research and deployment company dedicated to
 		       ensuring that general - purpose artificial intelligence benefits all of humanity .
-		       We  push the boundaries of the capabilities of Al systems and seek to safely
+		       We push the boundaries of the capabilities of Al systems and seek to safely
 		       deploy them to the world through our products . Al is an extremely powerful
 		       tool that must be created with safety and human needs at its core , and to
 		       achieve our mission , we must encompass and value the many different
 		       perspectives , voices , and experiences that form the full spectrum of
 		       humanity .
-			[ 62 ] At OpenAl , we believe artificial intelligence has the potential to help
+		       [ 62 ] At OpenAl , we believe artificial intelligence has the potential to help
 		       people solve immense global challenges , and we want the upside of Al to
 		       be widely shared . Join us in shaping the future of technology .
-			[ @ 63 ]
-			[ 64 ] Apply now >
-  [ @ 65 ]				   [ 66 ] Research       [ 75 ] API	   [ 84 ] ChatGPT       [ 91 ] Company
-      OpenAl				 [ @ 67 ]	     [ @ 76 ]	      [ @ 85 ]	     [ @ 92 ]
-					     [ 68 ] Overview       [ 77 ] Overview      [ 86 ] Overview      [ 93 ] About
-					     [ @ 69 ]	      [ @ 78 ]	     [ @ 87 ]	     [ @ 94 ]
-					     [ 70 ] Index	  [ 79 ] Data privacy  [ 88 ] Enterprise    [ 95 ] Blog
-					     [ @ 71 ]	     [ @ 80 ]	      [ @ 89 ]	     [ @ 96 ]
-					     [ 72 ] GPT - 4       [ 81 ] Pricing	[ 90 ] Try ChatGPT > [ 97 ] Careers
-					     [ @ 73 ]	      [ @ 82 ]				  [ @ 98 ]
-					   EE [ 74 ] DALL - E 3   [ 83 ] Docs >			      [ 99 ] Charter
-													     [ @ 100 ]
-													     [ 101 ] Security
-													     [ @ 102 ]
-													     [ 103 ] Customer
-													     stories
-													     [ @ 104 ]
-													     [ 105 ] Safety
-  [ 106 ] OpenAI © 2015–2023		 [ @ 113 ]    [ @ 115 ]      [ @ 117 ]     [ @ 119 ]	[ @ 121 ]
-  [ @ 107 ]				  [ 114 ] Twitter [ 116 ] YouTube [ 118 ] GitHub [ 120 ] SoundCloud [ 122 ] LinkedIn
+		       [ @ 63 ]
+		       [ 64 ] Apply now >
+  [ @ 65 ]				  [ 66 ] Research      [ 75 ] API	    [ 84 ] ChatGPT       [ 91 ] Company
+     OpenAl				 [ @ 67 ]	     [ @ 76 ]	     [ @ 85 ]	      [ @ 92 ]
+					    [ 68 ] Overview      [ 77 ] Overview      [ 86 ] Overview       [ 93 ] About
+					    [ @ 69 ]	     [ @ 78 ]	     [ @ 87 ]	      [ @ 94 ]
+					    [ 70 ] Index	 [ 79 ] Data privacy  [ 88 ] Enterprise     [ 95 ] Blog
+					    [ @ 71 ]	     [ @ 80 ]	     [ @ 89 ]	      [ @ 96 ]
+					    [ 72 ] GPT - 4       [ 81 ] Pricing       [ 90 ] Try ChatGPT >  [ 97 ] Careers
+					    [ @ 73 ]	     [ @ 82 ]				   [ @ 98 ]
+					    [ 74 ] DALL - E 3    [ 83 ] Docs				[ 99 ] Charter
+													    [ @ 100 ]
+													    [ 101 ] Security
+													    [ @ 102 ]
+													    [ 103 ] Customer
+													   stories
+													    [ @ 104 ]
+													    [ 105 ] Safety
+  [ 106 ] OpenAl Ⓒ 2015-2023		[ @ 113 ]    [ @ 115 ]      [ @ 117 ]    [ @ 119 ]	 [ @ 121 ]
+  [ @ 107 ]				 [ 114 ] Twitter [ 116 ] YouTube [ 118 ] GitHub [ 120 ] SoundCloud [ 122 ] LinkedIn
   [ 108 ] Terms & policies
   [ @ 109 ]
   [ 110 ] Privacy policy
-  [ @ 111 ]				       [ $ 123 ]
-  [ 112 ] Brand guidelines		   [ 124 ] Back to top ↑
----------------------------------------------------------------------------------------------------------------------------
+  [ @ 111 ]				      [ $ 123 ]
+  [ 112 ] Brand guidelines		  [ 124 ] Back to top ↑
+-------------------------------------------------------------------------------------------------------------------------
+Token count: 1547

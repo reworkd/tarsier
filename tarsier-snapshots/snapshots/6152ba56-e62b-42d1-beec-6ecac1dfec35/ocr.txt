@@ -1,22 +1,22 @@
--------------------------------------------------------------------------------------------------------------------------
-[ [ $ 3 ]  [ 6 ] API     [ $ 7 ]    [ 10 ] Safety		       [ @ 16 ]
-  [ @ 1 ]	      [ 4 ] Research ✓	 [ 8 ] ChatGPT✓			   [ $ 13 ]  [ 17 ] Log in 7
-      OpenAl		  [ $ 11 ]						[ 14 ] Search [ @ 18 ]
-			  [ 12 ] Company ✓							  [ 19 ] Try ChatGPT >
+---------------------------------------------------------------------------------------------------------------------------
+[ $ 3 ]    [ 6 ] API✓    [ $ 7 ]    [ 10 ] Safety		       [ @ 16 ]
+  [ [ @ 1 ]	     [ 4 ] Research ✓	 [ 8 ] ChatGPT ✓			  [ $ 13 ]  [ 17 ] Log in
+      OpenAl		  [ $ 11 ]						  [ 14 ] Search [ @ 18 ]
+			  [ 12 ] Company ✓							    [ 19 ] Try ChatGPT >
   [ @ 20 ]
   [ 21 ] Careers
-								 [ 23 ] San Francisco  , California , United States
-  [ 22     ]   Software					  Applied   Al Engineering
+								   [ 23 ] San Francisco  , California , United States
+  [ 22      ]  Software					   Applied   Al Engineering
   Engineer		  ,  Fullstack
-  [ @ 24 ]	     [ 26 ] About the Team
+  [ @ 24 ] ]	    [ 26 ] About the Team
   [ 25 ] Apply now >
-		       [ 27 ] We bring OpenAl's technology to the world through products like
+			[ 27 ] We bring OpenAl's technology to the world through products like
 		       ChatGPT and the OpenAI API .
 		       [ 28 ] We seek to learn from deployment and distribute the benefits of Al ,
 		       while ensuring that this powerful tool is used responsibly and safely . Safety
 		       is more important to us than unfettered growth .
-		       [ 29 ] About the Role
-		       [ 30 ] We are looking for a self - starter engineer who loves building new
+			[ 29 ] About the Role
+			[ 30 ] We are looking for a self - starter engineer who loves building new
 		       products in an iterative and fast - moving environment . In this role , you will
 		       be bringing our large language models to millions of users around the
 		       world . Our users include everyday enthusiasts as well as professionals for
@@ -26,80 +26,81 @@
 		       the core models and work with them on continual improvement . You will be
 		       a key part of the effort to push these technologies forward , and onto the
 		       next 100x users .
-		       [ 31 ] In this role , you will :
-		       ● [ 32 ] Own the development of new customer - facing ChatGPT and
+			[ 31 ] In this role , you will :
+			 [ 32 ] Own the development of new customer - facing ChatGPT and
 			 OpenAI API features and product experiences end - to - end
-		       ● [ 33 ] Talk to users to understand their problems and design solutions to
+			 [ 33 ] Talk to users to understand their problems and design solutions to
 			 address them
-		       • [ 34 ] Work with the research team to get relevant feedback and iterate on
+			 [ 34 ] Work with the research team to get relevant feedback and iterate on
 			 their latest models
-			 [ 35 ] Collaborate with a cross - functional team of engineers , researchers ,
+			  [ 35 ] Collaborate with a cross - functional team of engineers , researchers ,
 			 product managers , designers , and operations folks to create cutting
 			 edge products
-		       ● [ 36 ] Optimize applications for speed and scale
-		       [ 37 ] Your background looks something like :
-		       • [ 38 ] 5+ years of relevant engineering experience at tech and product
+			• [ 36 ] Optimize applications for speed and scale
+			[ 37 ] Your background looks something like :
+			  [ 38 ] 5+ years of relevant engineering experience at tech and product
 			 driven companies
 			 [ 39 ] Proficiency with JavaScript , React , and other web technologies
-		       ● [ 40 ] Proficiency with some backend language ( we use Python )
-		       ● [ 41 ] Some experience with relational databases like Postgres / MySQL
-		       ● [ 42 ] Interest in Al / ML ( direct experience not required )
+			• [ 40 ] Proficiency with some backend language ( we use Python )
+			• [ 41 ] Some experience with relational databases like Postgres / MySQL
+		       •  [ 42 ] Interest in Al / ML ( direct experience not required )
 			 [ 43 ] Ability to move fast in an environment where things are sometimes
 			 loosely defined and may have competing priorities or deadlines
-		       [ 44 ] We are an equal opportunity employer and do not discriminate on the
+			[ 44 ] We are an equal opportunity employer and do not discriminate on the
 		       basis of race , religion , national origin , gender , sexual orientation , age ,
 		       veteran status , disability or any other legally protected status . Pursuant to
 		       the San Francisco Fair Chance Ordinance , we will consider qualified
 		       applicants with arrest and conviction records .
-		       [ 45 ] We are committed to providing reasonable accommodations to
+			[ 45 ] We are committed to providing reasonable accommodations to
 		       applicants with disabilities , and requests can be made via
 		       this [ @ 47 ] link [ 46 ] .
-		       [ @ 48 ] OpenAI US Applicant Privacy Policy
-		       [ 49 ] Compensation , Benefits and Perks
-		       [ 50 ] Total compensation also includes generous equity and benefits .
-		       ● [ 51 ] Medical , dental , and vision insurance for you and your family
-			 [ 52 ] Mental health and wellness support
-			 [ 53 ] 401 ( k ) plan with 4 % matching
-		       . [ 54 ] Unlimited time off and 18+ company holidays per year
-		       ● [ 55 ] Paid parental leave ( 20 weeks ) and family - planning support
-			 [ 56 ] Annual learning & development stipend ( $ 1,500 per year )
-		       [ 57 ] Annual Salary Range
-		       [ 58 ] $ 160,000 [ [ 59 ] [ 60 ] $ 385,000 USD
-		       [ 61 ] About OpenAl
-		       [ 62 ] OpenAl is an Al research and deployment company dedicated to
+			[ @ 48 ] OpenAI US Applicant Privacy Policy
+			[ 49 ] Compensation , Benefits and Perks
+			[ 50 ] Total compensation also includes generous equity and benefits .
+			  [ 51 ] Medical , dental , and vision insurance for you and your family
+			  [ 52 ] Mental health and wellness support
+			. [ 53 ] 401 ( k ) plan with 4 % matching
+			. [ 54 ] Unlimited time off and 18+ company holidays per year
+		       • [ 55 ] Paid parental leave ( 20 weeks ) and family - planning support
+			• [ 56 ] Annual learning & development stipend ( $ 1,500 per year )
+			[ 57 ] Annual Salary Range
+			[ 58 ] $ 160,000 [ 59 ] - [ 60 ] $ 385,000 USD
+			[ 61 ] About OpenAl
+			[ 62 ] OpenAl is an Al research and deployment company dedicated to
 		       ensuring that general - purpose artificial intelligence benefits all of humanity .
-		       We push the boundaries of the capabilities of Al systems and seek to safely
+		       We  push the boundaries of the capabilities of Al systems and seek to safely
 		       deploy them to the world through our products . Al is an extremely powerful
 		       tool that must be created with safety and human needs at its core , and to
 		       achieve our mission , we must encompass and value the many different
 		       perspectives , voices , and experiences that form the full spectrum of
 		       humanity .
-		       [ 63 ] At OpenAl , we believe artificial intelligence has the potential to help
+			[ 63 ] At OpenAl , we believe artificial intelligence has the potential to help
 		       people solve immense global challenges , and we want the upside of Al to
 		       be widely shared . Join us in shaping the future of technology .
-		       [ @ 64 ]
-		       [ 65 ] Apply now >
-  [ @ 66 ]				  [ 67 ] Research      [ 76 ] API	    [ 85 ] ChatGPT       [ 92 ] Company
-      OpenAl				[ @ 68 ]	     [ @ 77 ]	     [ @ 86 ]	      [ @ 93 ]
-					    [ 69 ] Overview      [ 78 ] Overview      [ 87 ] Overview       [ 94 ] About
-					    [ @ 70 ]	     [ @ 79 ]	     [ @ 88 ]	      [ @ 95 ]
-					    [ 71 ] Index	 [ 80 ] Data privacy   [ 89 ] Enterprise    [ 96 ] Blog
-					    [ @ 72 ]	     [ @ 81 ]	     [ @ 90 ]	     [ @ 97 ]
-					    [ 73 ] GPT - 4       [ 82 ] Pricing       [ 91 ] Try ChatGPT >  [ 98 ] Careers
-					    [ @ 74 ]	     [ @ 83 ]				   [ @ 99 ]
-					    [ 75 ] DALL - E 3    [ 84 ] Docs >			      [ 100 ] Charter
-													    [ @ 101 ]
-													    [ 102 ] Security
-													    [ @ 103 ]
-													    [ 104 ] Customer
-													   stories
-													    [ @ 105 ]
-													    [ 106 ] Safety
-  [ 107 ] OpenAl © 2015-2023		[ @ 114 ]    [ @ 116 ]      [ @ 118 ]    [ @ 120 ]	 [ @ 122 ]
-  [ @ 108 ]				 [ 115 ] Twitter [ 117 ] YouTube [ 119 ] GitHub [ 121 ] SoundCloud [ 123 ] LinkedIn
+			[ @ 64 ]
+			[ 65 ] Apply now >
+  [ @ 66 ]				   [ 67 ] Research       [ 76 ] API	   [ 85 ] ChatGPT       [ 92 ] Company
+      OpenAl				 [ @ 68 ]	     [ @ 77 ]	      [ @ 86 ]	     [ @ 93 ]
+					     [ 69 ] Overview      [ 78 ] Overview       [ 87 ] Overview      [ 94 ] About
+					     [ @ 70 ]	     [ @ 79 ]	      [ @ 88 ]	     [ @ 95 ]
+					     [ 71 ] Index	 [ 80 ] Data privacy   [ 89 ] Enterprise    [ 96 ] Blog
+					     [ @ 72 ]	     [ @ 81 ]	      [ @ 90 ]	     [ @ 97 ]
+					     [ 73 ] GPT - 4       [ 82 ] Pricing	[ 91 ] Try ChatGPT > [ 98 ] Careers
+					     [ @ 74 ]	     [ @ 83 ]				   [ @ ⁹99 ]
+					     [ 75 ] DALL - E 3    [ 84 ] Docs >			      [ 100 ] Charter
+													     [ @ 101 ]
+													     [ 102 ] Security
+													     [ @ 103 ]
+													     [ 104 ] Customer
+													     stories
+													     [ @ 105 ]
+													     [ 106 ] Safety
+  [ 107 ] OpenAl © 2015-2023		 [ @ 114 ]    [ @ 116 ]      [ @ 118 ]     [ @ 120 ]	[ @ 122 ]
+  [ @ 108 ]				  [ 115 ] Twitter [ 117 ] YouTube [ 119 ] GitHub [ 121 ] SoundCloud [ 123 ] LinkedIn
   [ 109 ] Terms & policies
   [ @ 110 ]
   [ 111 ] Privacy policy
-  [ @ 112 ]				      [ $ 124 ]
-  [ 113 ] Brand guidelines		  [ 125 ] Back to top ↑
--------------------------------------------------------------------------------------------------------------------------
+  [ @ 112 ]				       [ $ 124 ]
+  [ 113 ] Brand guidelines		   [ 125 ] Back to top ↑
+---------------------------------------------------------------------------------------------------------------------------
+Token count: 1601

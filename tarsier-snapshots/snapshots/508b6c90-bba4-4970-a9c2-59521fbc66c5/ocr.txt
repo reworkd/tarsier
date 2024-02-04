@@ -1,94 +1,93 @@
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ $ 2 ]      English	[ $ 3 ]  &   Sign   In
-     [ @  1 ]
-																					  [ $ 41 About    Us	      [ $ 5 ] Search    for  Jobs	      [ $ 6 ] Introduce     Yourself
-     NORTON	 ROSE      FULBRIGHT
-		[ 8  ]  Senior	   Analyst	    ,   HRIS
-																									       NORTON		ROSE	  FULBRIGHT
-		    [ @  9 ] Apply																					     [ 191   ] Norton      Rose     Fulbright      provides       a
-																									      full  scope      of  legal   services      to  the
-																									      world's      preeminent	 corporations	and
-																									      financial      institutions     . [ 193   ] Our    global
-																									      law    firm   has   [ 192   ]  more     than    3,000
-		    [ 11 ]  Houston      , Texas    , USA				    [ 16 ] Full  time												lawyers      advising       clients    across     more
-		    [ 12 ]  Dallas   , Texas    , USA																			    [ $ 194  ]   Read     More      ✓
-											    [ 18  ]  Posted      Yesterday
-		    [ 13 ] Austin     , Texas    , USA
-											    [ 20  ]  R - 790
-		    [ 14 ]  San    Antonio     , Texas    , USA
-	[ 21  ]
-	     [ 22 ]  Practice      Group      /  Department	 :
-	    HRIS
-	     [ 23 ]  Job    Description
-	     [ 24 ]  We    are   a global     law   firm   with    a  powerful       strategic     focus     and    real   momentum	  . Our   industry     - focused
-	    strategy      is  seeing     us   take   on   pioneering	work     in  places     that   others     have    yet   to   reach   . Our    shared      values     define
-	    our   culture     and    our   workplace	. You   will  find   us   to  be   unusually       collegial    , team    - oriented    , and    ready     to  innovate      .
-	    We    work     seamlessly	across      practices     , offices     and    around      the   world    . This   elimination       of  boundaries	 has    allowed
-	    us   to  evolve     into   a  law   firm   that   works      as   hard    for  its  culture    as   it does     for  its  clients   .
-	     [ 25 ]  The    Senior     [ 26  ] Analyst     , HRI    will  support      the   HRIS     Manager	with    reports    , [ 27  ] data    integrity     a [ 28  ] nd
-	    system       level   maintenance	  [ 29  ] of  all  Firm     [ 30 ]  HR   [ 31  ]  systems       ( [ 32 ] HCM      [ 33  ] , [ 34  ]  Benefits    , [ 35  ]
-	    Security     , Integrations       , [ 36 ]  Payroll    , T [ 37  ] ime    and    [ 38  ] Ab   [ 39  ] sence     [ 40  ] , [ 41  ] R  [ 42  ] ecruiting     , [ 43 ]  Prism    ,
-	     [ 44 ]  P  [ 45 ] erformance	  [ 46  ] M  [ 47  ]  anagement	, etc.  ) . This  position      requires      [ 48  ] analytical     , [ 49  ] statistical    ,
-	    and   [ 50  ]   interpersonal	skills  , and    operational	knowledge	 of  software       and    hardware      . [ 51  ] The     ideal   candidate
-	     [ 52 ]  will  bring    experience       [  53 ]  with    Workday	Business	Process      [ 54  ]  configuration	security     [ 55  ]  and
-	    integrations       [ 56  ]  [ 57  ]   functional      HR     [ 58 ]  knowledge	, and   [ 59  ]  the   ability   to   work    with    a  variety    of  reports     and
-	    analytics     . [ 60 ]  This    position      reports     to  the   HRIS     Manager	in  Houston      , Texas    .
-	     [ 61 ] Responsibilities       include    , but  are  not   limited   to :
-		     [ 62  ] Assign      [ 63 ]   security     [ 64  ] roles    [ 65 ]   [ 66  ]   [ 67  ]  roubleshoot	 issues    [ 68 ]  , [ 69  ] and    perform
-		     impact      assessments
-		     [ 70  ] Troubleshoot	   [ 71 ]  data   , system      [ 72  ] integrations       [ 73  ]  issues     [ 74  ]  and    perform      impact
-		     assessments	  [ 75  ] ; work     with    [ 76  ] IT [ 77  ] , vendors      , and    internal    users     to  resolve     issues
-		     [ 78  ]  D [ 79  ] iagno     [ 80 ]  se   [ 81 ]  business       process       configuration	 [ 82 ]  issues     and    [ 83  ] correct
-		     [ 84  ] Assist    [ 85  ]  subject      matter     experts      with    testing    of  system       changes       and    analyzing       data    flows    for
-		     process      improvement	   opportunities
-		     [ 86  ]  Develop      [ 87  ] ,  [ 88 ]  maintain     [ 89  ]  and    support      a  variety     of  reports      [ 90 ]  utilizing
-		      [ 91 ] appropriate	 reporting     [ 92  ]  tools
-		      [ 93 ]  Respond	to  data    requests      [ 94  ]   [ 95  ]   [ 96 ]  nterface      with   other     departments	 , responding	to
-		     reporting      needs      and    [ 97  ] providing       [ 98 ]   HR    data    to  [ 99  ] facilitate   [ 100    ]  survey     completion
-		      [ 101  ]  Communicate	    accurately      , [ 102   ] timely    [ 103   ]  and     professionally	to  employees	 , managers       ,
-		      [ 104  ]  and    other    team     members
-		      [ 105  ]  M  [ 106   ] aintain     data    integrity    in  systems       by   running      [ 107   ]  audits     [ 108  ]  and    analyzing       data
-		      [ 109  ]  Maintain      [ 110  ]   a  detailed     understanding	   and    working      knowledge	  of the    current
-		      [ 111  ] H  [ 112   ] R  [ 113   ]  system      [ 114  ]  , its  [ 115   ] functions      [ 116   ]  and    its  relationship       to  other
-		     information	systems       within    the   firm
-		     [ 117   ] Maintain       [ 118   ] documentation	   [  119  ]   and    [ 120   ] provide      [ 121  ]  training      [ 122  ]  to  end
-		     users    [ 123   ] ; and
-		      [ 124  ]  Additional      [ 125   ]  related     duties     as  assigned	by  the    [ 126  ]  HRIS     Manager
-	     [ 127  ]  Other     duties
-	     [ 128   ] Please     note    this   job   description       does     not   cover     or   contain     all  activities    , duties    or  responsibilities	that    are
-	    required      of  the   employee	 for  this  job  . [ 129   ]  Duties    ,  [ 130  ]  responsibilities       [ 131   ]   and    activities     may    change       at
-	    any    time    with   or  without      notice    .
-	     [ 132 ]  Qualifications      and   skills :
-		     [ 133   ]  Minimum	of  five   [ 134   ] years     of  experience	[ 135   ]  working      with     [ 136  ]  Workday
-		      [ 137  ]  Bachelor's	[ 138   ] degree      or  equivalent       strongly      preferred
-		     [ 139   ]  Experience	and    intermediate	 k [ 140   ] nowledge	 of  Excel     [ 141   ] required
-		     [ 142   ]  Knowledge	 and    experience	 with    [ 143   ] Workday	[ 144   ] s [ 145   ]  ecurity    [ 146   ] ,
-		     [ 147   ]  integrations	[ 148   ] Prism    [ 149   ] ,  [ 150   ] and    [ 151   ]  benefits     strongly     [ 152   ]  preferred
-		     [ 153   ]  Knowledge	 of   [ 154   ] SQL    [ 155   ]  , [ 156   ] Crystal     Reports      [ 157   ]  and    Power       [ 158   ] Bl  [ 159   ]  is
-		     a  plus
-		     [ 160   ] Additional       [ 161   ]  functional      experience	 with    human       r [ 162  ] esources	[ 163   ] and    its  related
-		     functional       areas    is  [ 164   ] strongly      preferred
-		 •    [ 165  ]  Must    display      exceptional	judgment       [ 166   ]   and   [ 167   ]  confidentiality
-		     [ 168   ]  Excellent      verbal     and    written    communication	     skills
-		     [ 169   ]  Extremely       detail    oriented      with    [ 170   ] high    standards       [ 171   ]  for  accuracy	and    precision
-		     [ 172   ]  Ability   to   [ 173   ] exhibit   ( [ 174  ]  conscientiousness	    ,  [ 175   ] dedication       , and
-		     [ 176   ]  establish     [ 177   ]   strong    work     [ 178  ]   relationships
-	    [ 179    ] Norton      Rose     Fulbright      US    LLP    is an   Equal      [ 182   ] Opportunity	/ Affirmative     [ 180   ]  Action      Employer       and
-	    complies       with    all  applicable       federal     laws    and    their   implementing	  regulations       that    require    the   collection       and
-	    recording       of  certain     data    and    information       . The    information       we    receive     will  not    be  used     to   make     any    decision
-	    regarding       employment	   and    will  be   kept    separate      from     your    application      . Similarly    , self  - identification      information
-	    is  kept    confidential       and    used     only   in  accordance	  with   applicable       federal     laws    and    regulations       . Qualified
-	    applicants       will   receive     consideration	 for   employment	  without      regard     to  race   , color   , religion   , sex   , national     origin   ,
-	    sexual     orientation      , gender      identity    , disability    or   protected       veteran      status   . Norton      Rose     Fulbright      is  committed	to
-	    providing       reasonable	accommodation	      as   an   Equal     Opportunity	Employer	to  applicants	with   disabilities     . If you
-	    require     assistance	or  accommodation	      to  complete	your    application      , please      contact
-	     [ @  183   ]  us.hr@nortonrosefulbright.com		    [ 181   ]  . Please     provide      your    contact      information       and    a  description	of
-	    your    accessibility       issue    . We   will   make     a  determination	  on   your    request      for  reasonable	accommodation	      on   a
-	    case   - by  - case    basis   .
-	     [ @  185   ]  E - Verify  [ 184    ]  is a  registered       trademark	of  the   U.S.    Department	  of  Homeland	 Security     . This   business
-	    uses     E - Verify   in  its hiring    practices       to  achieve      a  lawful    workforce       .
-	     [ @  188   ]  Equal     Employment	   Opportunity	[ 186   ]     [ @  189   ] EEO     is  the   Law     - Supplement	  [ 187   ]
-	     [ @  190   ]  Pay    Transparency
-																	 workday
-														      [ 195 ] © 2023 Workday , Inc. All rights reserved .
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ $ 2 ]     English      [ $ 3 ] &   Sign  In
+    [ @  1 ]
+    NORTON	ROSE     FULBRIGHT														     [ $ 4 ] About  Us	    [ $ 5 ] Search  for  Jobs	     [ $ 6 ] Introduce  Yourself
+	      [ 8  ]  Senior	 Analyst	  ,  HRIS
+																							   NORTON	     ROSE	 FULBRIGHT
+		  [ @ 9 ] Apply																			    [ 191  ] Norton     Rose    Fulbright    provides     a
+																							  full scope     of  legal  services     to the
+																							  world's    preeminent       corporations       and
+																							  financial    institutions    . [ 193  ] Our   global
+																							  law   firm  has   [ 192  ]  more    than   3,000
+		  [ 11 ] Houston     , Texas   , USA				[ 16 ] Full time										      lawyers     advising     clients   across    more
+		  [ 12 ] Dallas   , Texas  , USA				   [ 18  ] Posted     Yesterday									      [ $ 194 ]  Read    More
+		  [ 13 ] Austin   , Texas   , USA
+		   14  ] San   Antonio    , Texas   , USA			   [ 20 ] R - 790
+		  [
+       [ 21 ]
+	   [ 22 ]  Practice     Group    /  Department       :
+	   HRIS
+	   [ 23 ] Job    Description
+	   [ 24 ] ] We  are  a  global   law   firm   with  a  powerful     strategic    focus    and    real  momentum	. Our   industry   - focused
+	   strategy    is seeing     us  take   on   pioneering     work    in  places    that  others    have    yet  to  reach   . Our   shared    values    define
+	   our  culture    and   our   workplace      . You   will find  us  to  be   unusually     collegial   , team   - oriented   , and   ready   to  innovate     .
+	  We    work    seamlessly       across    practices    , offices   and    around    the   world   . This  elimination      of  boundaries      has   allowed
+	   us  to  evolve    into  a  law  firm   that  works     as  hard   for  its culture    as  it does   for  its  clients  .
+	   [ 25 ] The    Senior    [ 26 ] Analyst    , HRI   will support     the   HRIS    Manager      with    reports   , [ 27 ] data   integrity    a [ [ 28 ] nd
+	   system     level  maintenance	 [ 29 ] of  all Firm    [ 30 ] HR   [ 31 ]  systems      ( [ 32 ] HCM    [ 33 ] , [ 34 ]  Benefits   , [ 35 ]
+	   Security   , Integrations     , [ 36 ] Payroll   , T [ 37 ] ime   and    [ 38 ] Ab  [ 39  ] sence    [ 40 ] , [ 41 ] R  [ 42 ] ecruiting    , [ 43 ] Prism   ,
+	   [ 44 ] P  [ 45 ] erformance	[ 46 ] M  [ 47 ]  anagement       , etc. ) . This position    requires     [ 48 ] analytical    , [ 49 ] statistical   ,
+	   and   [ 50 ]  interpersonal      skills , and   operational      knowledge	of software     and    hardware     . [ 51 ] The    ideal  candidate
+	   [ 52 ] will  bring   experience      [ 53 ]  with   Workday       Business      Process     [ 54 ]  configuration      security    [ 55 ]  and
+	   integrations     [ 56 ] , [ 57 ]  functional     HR    [ 58 ] knowledge      , and   [ 59 ]  the  ability  to  work    with   a variety    of  reports   and
+	   analytics   . [ 60 ]  This   position    reports    to  the  HRIS    Manager       in Houston     , Texas   .
+	   [ 61 ] Responsibilities     include   , but are  not  limited  to :
+		•  [ 62 ] Assign    [ 63  ]  security    [ 64 ]  roles  [ 65 ]  [ 66 ]    [ 67 ] roubleshoot       issues   [ 68 ]  , [ 69 ] and   perform
+		   impact    assessments
+		   [ 70 ] Troubleshoot	 [ 71 ] data  , system     [ 72 ]  integrations     [ 73 ]  issues   [ 74 ]  and    perform     impact
+		   assessments	[ 75 ] ; work    with   [ 76 ] IT [ 77 ] , vendors     , and   internal   users    to  resolve    issues
+		   [ 78 ]  D [ 79 ] iagno    [ 80 ] se  [ 81  ] business     process      configuration       [ 82 ] issues    and   [ 83  ] correct
+		•  [ 84 ] Assist   [ 85  ]  subject    matter    experts     with  testing    of  system     changes      and   analyzing     data    flows   for
+		   process     improvement	 opportunities
+		•  [ 86 ]  Develop    [ 87  ] , [ 88 ] maintain     [ 89 ]  and   support     a  variety   of  reports    [ 90 ]  utilizing
+		   [ 91 ] appropriate       reporting    [ 92 ]  tools
+		•  [ 93 ]  Respond      to  data   requests     [ 94 ]   [ 95  ]  [ 96 ] Interface    with   other   departments       , responding      to
+		   reporting     needs    and    [ 97 ] providing     [ 98 ]  HR   data   to   [ 99 ] facilitate  [ 100  ]  survey     completion
+		•  [ 101  ] Communicate	  accurately     , [ 102  ] timely   [ 103  ]  and    professionally      to  employees      , managers      ,
+		   [ 104  ] and    other   team    members
+		   [ 105  ] M   [ 106  ] aintain   data   integrity    in systems      by  running     [ 107  ] audits    [ 108  ] and    analyzing     data
+		   [ 109  ]  Maintain    [ 110  ]  a  detailed    understanding	and   working      knowledge       of  the  current
+		   [ 111  ] H  [ 112  ] R [ 113  ]  system     [ 114  ] , its [ 115  ] functions     [ 116  ]  and   its  relationship     to other
+		   information      systems      within   the  firm
+		   [ 117  ] Maintain      [ 118  ] documentation	 [ 119  ]  and   [ 120  ] provide    [ 121   ] training    [ 122  ] to  end
+		   users   [ 123  ] ; and
+		   [ 124  ] Additional     [ 125  ]  related    duties    as  assigned      by  the   [ 126  ] HRIS    Manager
+	   [ 127  ] Other    duties
+	   [ 128  ] Please     note   this  job  description      does    not   cover    or contain     all activities  , duties    or  responsibilities     that   are
+	   required    of  the   employee      for  this  job  . [ 129 ]  Duties   , [ 130  ] responsibilities      [ 131  ]  and   activities    may    change     at
+	   any   time   with   or without     notice   .
+	   [ 132  ] Qualifications    and   skills :
+		•  [ 133  ] Minimum	of five  [ 134   ] years   of  experience      [ 135  ]  working     with    [ 136  ] Workday
+		   [ 137  ] Bachelor's       [ 138  ] degree     or equivalent      strongly    preferred
+		   [ 139  ] Experience       and    intermediate      k [ 140  ]  nowledge      of  Excel    [ 141  ] required
+		   [ 142  ] Knowledge	and    experience      with   [ 143   ] Workday       [ 144 ]    [ 145  ] ecurity   [ 146  ] ,
+		   [ 147  ] integrations      [ 148   ] Prism   [ 149  ] ,  [ 150  ] and    [ 151 ]  benefits    strongly    [ 152  ]  preferred
+		   [ 153  ]  Knowledge       of  [ 154  ]  SQL   [ 155  ]  , [ 156  ] Crystal    Reports    [ 157  ]  and    Power     [ 158  ] BI  [ 159  ]  is
+		   a plus
+		   [ 160  ] Additional     [ 161  ]  functional     experience       with   human     r [ 162  ] esources      [ 163  ] and    its related
+		   functional     areas    is [ 164  ] strongly     preferred
+		   [ 165  ] Must    display    exceptional       judgment      [ 166  ]  and   [ 167  ]  confidentiality
+		   [ 168  ]  Excellent    verbal    and   written    communication	  skills
+		   [ 169  ] Extremely      detail   oriented     with   [ 170  ] high   standards     [ 171   ]  for accuracy      and    precision
+		   [ 172  ] Ability   to  [ [ 173 ] exhibit  [ [ 174 ] conscientiousness	  , [ [ 175 ] dedication    , and
+		   [ 176  ] establish     [ 177  ]  strong    work  ( [ 178 ]  relationships
+	   [ 179  ] Norton     Rose     Fulbright    US   LLP    is an  Equal     [ 182  ] Opportunity      / Affirmative   [ 180   ] Action     Employer      and
+	   complies      with   all applicable     federal    laws   and   their   implementing	regulations     that   require   the   collection    and
+	   recording     of  certain    data   and   information     . The   information      we   receive    will  not  be   used   to   make    any   decision
+	   regarding     employment	 and   will  be  kept   separate      from   your   application     . Similarly   , self - identification    information
+	   is kept   confidential      and   used    only   in accordance	with   applicable     federal    laws   and    regulations    . Qualified
+	   applicants     will  receive    consideration       for  employment	 without    regard    to  race  , color  , religion  , sex  , national    origin ,
+	   sexual    orientation    , gender     identity  , disability   or  protected      veteran    status   . Norton    Rose     Fulbright    is committed       to
+	   providing     reasonable       accommodation	   as  an   Equal   Opportunity       Employer      to  applicants      with   disabilities   . If you
+	   require    assistance      or accommodation	    to complete      your    application     , please   contact
+	   [ @  183   ] us.hr@nortonrosefulbright.com		[ 181  ] . Please    provide     your   contact     information      and   a description      of
+	   your   accessibility     issue   . We   will make     a  determination       on   your   request    for  reasonable       accommodation	   on  a
+	   case  - by - case   basis   .
+	    [ @ 185   ] E - Verify . [ 184 ]  is a  registered     trademark      of  the  U.S.   Department	of  Homeland       Security    . This  business
+	   uses   E - Verify  in  its hiring   practices    to  achieve     a  lawful   workforce     .
+	    [ @ 188   ] Equal    Employment	 Opportunity    .  [ 186  ]    [ @ 189   ] EEO    is  the  Law    - Supplement	[ 187  ]
+	    [ @ 190   ] Pay   Transparency      .
+															   workday
+													  [ 195 ] Ⓒ 2023 Workday , Inc. All rights reserved .
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 2719

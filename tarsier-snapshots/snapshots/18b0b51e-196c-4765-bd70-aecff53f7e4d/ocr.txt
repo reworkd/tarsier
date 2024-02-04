@@ -1,76 +1,75 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 82  ]	  Garnet	   Health
 	     Find  a									       Patients   &
-    [ @ 93 ]		    [ @ 101  ] Locations	 [ @ 110  ] Services	[ @ 120  ]			  [ @ 130  ] Giving	[ @ 139 ] Careers	[ @ 146 ]   MyChart
+    [ @ 93 ]		    [ @ 101  ] Locations	 [ @ 110  ] Services	 [ @ 120 ]			  [ @ 130  ] Giving	[ @ 139 ] Careers	[ @ 146 ]   MyChart
 	     Doctor										Visitors
 									[  162	 ]   Find	      a      Location
 	      MY  ADDRESS				   [ 167 ]
        [ $ 163 ]						 [ 166 ] ES AWAY		    [ $ 168 ] FACILITY    TYPE			    [ $ 171 ] SERVICE
-       [ # 164 ]										       [ $ 169 ] [ 170 ] Facility Type		       [ $ 172 ] [ 173 ] Service
+       [ # 164 ]										       [ $ 169 ] [ 170 ] Facility Type			[ $ 172 ] [ 173 ] Service
        My  Address
-    0	  Use  my  location
-	  [ 165 ]																					     nuusom
+    0	   Use my  location
+	  [ 165 ]
 										  Afton									     Hunter		Catskill
 									   arpursville		    Walton					  42						      ( $ 690 )
 																      Margaretville 28
-74     [ 175 ]	Specialty  Care																			  رقا
-										 17			      Downsville    30			   Phoenicia	      Saugerties
+74     [ 175 ]	Specialty  Care																			  9
+										17			       Downsville    30			   Phoenicia	      Saugerties
 	    [ @ 176  ] Alcohol     &  Substance       Abuse			     Deposit									 Woodstock
 																			  Slide
-	    Treatment      at  Garnet    Health    Medical											     Mountain			 Red Hook
+	    Treatment      at Garnet     Health    Medical											     Mountain			 Red Hook
 														   17				 Wilderness
 	    Center							 usquehanna	   Hancock		      [ $ 662 ]
-															    L   20					       Kingston			44
-	    75  Crystal  Run   Road																	     ( 32 )
-	     178  ]	       , New   York  10941		      ord
-	    [       Middletown
-																   Liberty				      87		  Millbrook 0
-	    [ 179 ]  Phone   : [ @ 180  ] ( 845 ) 333-7818						     [ $ 680 ]				    Kerhonkson	      Hyde Park
-																  [ $ 689 ]				New Paltz
-@  181  ]															     3 , [ $ 671 ]
+															    Li  20					       Kingston			44
+	    75  Crystal  Run   Road					ord												  ( 32 )
+	    [ 178 ] Middletown    , New   York  10941
+														$ 680 ]	    Liberty		  Kerhonkson	      Hyde Park       Millbrook
+	    [ 179 ]  Phone   : [ @ 180  ] ( 845 ) 333-7818						     [  8
+																  ( [ $ 689 ]			      New Paltz
+@  181  ]															     3 [ $ 671 ]
 																	( 23				       Poughkeepsie	       22
-		      [ 182 ] View   more   info			   81							Mon					     ( 9W	    ( 55
-										 ( 247 )										       32				   7
-											     ( 6 )	  Narrowsburg							      Wappingers Falls
-										 Carbondale      Honesdale			    42									    New M
-																					       [ $ 677 ]
-													 6						      Montgomery       35     Fishkill
-																			  [ $ 688 ]	    N     urgh
-83     [ 184 ]	Specialty  Care				      ckson City		  Hawley					     (  ¹ )
-											 Lake Ariel					 ( 209 )  Mida   [ $
-																			      669 ]		9w
-	    [ @ 185   ] Ambulatory       Surgery     &		     anton									8418					 { 6 }	 Danbury
+		      [ 182 ] View   more   info			   81							Mon					      9W	     55
+										  247															       17
+											      6	     Narrowsburg							32    Wappingers
+										 Carbondale      Honesdale			    42						Falls		       New  M
+																		  209			  [ $ 677 ]
+													6						       Montgomery       35     Fishkill
+																			  [ $ 688 ]	    M     ürgh
+83     [ 184 ]	Specialty  Care				      ckson City		  Hawley
+											 Lake Ariel						  Mida
+																			    [ $ 669 ]	      9w
+	    [ @ 185   ] Ambulatory       Surgery     &		     anton									8418					  6	    Danbury
 																    Port Jervis		       $ 664 ] pdbury
 	    Procedure      Center     at Garnet     Health													   [
-															       Milford			       M  22
-	    Medical    Center																			 Peekskill
+															       Milford			       N22
+	    Medical     Center																			Peekskill :
 													   Delaware
-	    707  East  Main   Street								     State Forest	   ( 206				     Harriman       9			      7
-					  York  10940				 380										State Park
-	    [ 187 ] Middletown    , New							    191		      209
+	    707  East  Main   Street								     State Forest	    206				      Harriman       9			      75
+										      380										State Park
+	    [ 187 ] Middletown    , New   York  10940					      191		      209
 										       Tobyhanna
-											  Mt Pocono		 Delaware										      [ $ 691 ]
-	    [ 188 ]  Phone   : [ @ 189  ] ( 845 ) 333-3499							  Water  Gap		   ( 23 )
+											  Mt Pocono		 Delaware										      [ $ 691 )
+	    [ 188 ]  Phone   : [ @ 189  ] ( 845 ) 333-3499							  Water  Gap		    23
 @  190  ]													    National
-											     Tannersville	  Recreation .   Newton				    17			       Stam ( $ 692 ]
-									    [ @ 693 ]					  ( 94							   White Plains .
-		      [ 191 ] View   more   info						    Stroudsburg									      AUDI
-														    Blairstown   [ $ 694 ] Keyboard shortcuts [ 695 ] Map data © 2023 Google [ @ 696 ] Terms [ @ 697 ] Report a map error
-  [ @ 698  ]	Garnet	Health		 [ @ 699   ] Pay   My   Bill       [ @ 700   ] MyChart     Login	  [ @ 701  ] Donate	    [ @ 702  ] Medical    Records
-							       [ @  703   ]	  [ @  704   ]	   [ @  705   ]
-    [ 706   ] Patients	&  Visitors									  [ 717   ] Physicians	   &			[ 722  ]  Garnet       Health
-														   Employees
-    Find   a Doctor				   [ @  708  ] Locations												[ @ 723  ] About    Us
+											     Tannersville	  Recreation .   Newton								     Stam ( $ 692 ]
+									     [ @ 693 ]					 94							     White Plains .
+		      [ 191 ] View   more   info			     80     le
+												    Stroudsburg     Blairstown   [ $ 694 ] Keyboard shortcuts [ 695 ] Map data © 2023 Google [ @ 696 ] Terms [ @ 697 ] Report a map error
+  [ @ 698  ]	Garnet	Health		 [ @ 699   ] Pay   My  Bill	[ @ 700   ] MyChart     Login	  [ @ 701  ] Donate	    [ @ 702  ] Medical    Records
+							       [ @  703   ]	  [ @  704    ]	  [ @  705   ]
+    [ 706   ] Patients	&  Visitors									  [ 717   ] Physicians	   &			[ 722   ] Garnet       Health
+    Find   a Doctor												Employees
+						      [ @  708  ] Locations												[ @ 723  ] About    Us
 @  199  ]
 														   [ @ 718   ] Physician     Jobs
-    [ @ 709  ]  Services			      [ @  710  ] Patient    Support										       [ @ 724  ] Contact     Us
-														   [ @ 719   ] For  Employees
-    [ @ 711  ]  Billing &  Insurance		  [ @  712  ] Pay   My   Bill											  [ @ 725  ] Careers     / Jobs
+    [ @ 709  ]  Services			       [ @ 710  ] Patient    Support										       [ @ 724  ] Contact     Us
+														   [ @  719  ] For  Employees
+    [ @ 711   ] Billing  &  Insurance		 [ @  712  ] Pay   My   Bill											  [ @ 725  ] Careers     / Jobs
 														   [ @ 720   ] Medical    Education
-    [ @ 713  ]  Patient   Stories		     [ @  714  ] Medical    Records										       [ @ 726  ] Disclaimer
+    [ @ 713  ] Patient    Stories		     [ @  714  ] Medical    Records										       [ @ 726  ] Disclaimer
 														   [ @ 721   ] Nursing    Excellence
     [ @ 715  ]  Classes    &  Events		  [ @  716  ] Telehealth											       [ @ 727  ] Privacy    Policy
-    [ 728 ] Copyright ©  2023  Garnet  Health , All Rights Reserved .
+    [ 728 ] Copyright © 2023   Garnet  Health , All Rights Reserved .
 @  208  ]
 @  217  ]
 @  226  ]
@@ -116,3 +115,4 @@
 @  585  ]
 @  594  ]
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1521

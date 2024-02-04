@@ -6,9 +6,10 @@
 				     [ 7 ] - [ 8 ] John Carmack
 				     [ 9 ] " Day 2 is stasis . Followed by irrelevance . Followed by [ 11 ] excruciating [ 10 ] ,
 				    painful decline . Followed by death . "
-				     [ 12 ] - [ 13 ] Jeff Bezos
-				     [ 14 ] " Intelligence is the efficiency in which you turn sampling of experiences into
+					  [ 13 ] Jeff Bezos
+				     [ 14 ] " Intelligence is the efficiency in which you turn a sampling of experiences int
 				     generalized programs . "
 				     [ 15 ] - [ 16 ] François Chollet
 				  [ @ 17 ] Back
 ------------------------------------------------------------------------------------------------------
+Token count: 187

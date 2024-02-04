@@ -1,17 +1,17 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ $ 1 ] Health Partners ✓													   [ @ 2 ] Pay bill   [ @ 3 ] @ Sign in
-	  [ @ 4 ]															    [ [ $ 11 ]
-			  HealthPartner   : [ $ 5 ] [ 6 ] What we do	 [ $ 7 ] [ 8 ] Our doctors ✓      [ $ 9 ] [ 10 ] Our locations ✓	       [ @ 12 ] Make an appointment
-			 Park  Nicollet
+[ $ 1 ] Health Partners ✓													   [ @ 2 ] Pay bill   [ @ 3 ] Ⓡ Sign in
+	  [ @ 4 ]															    [ $ 11 ]
+		 27       HealthPartner    [ [ $ 5 ] [ 6 ] What we do	[ $ 7 ] [ 8 ] Our doctors ✓      [ $ 9 ] [ 10 ] Our locations ✓	       [ @ 12 ] Make an appointment
+			  Park  Nicollet
 								  [ 13     ]  Our	    locations
 	  [ $ 14 ] City , state or ZIP			      Distance
 								 [ $ 18 ]
-	  [ # 15 ] Surrey ( Newton ) , British Columbia ,  Q	  View  all
+	  [ # 15 ] Surrey ( Newton ) , British Columbia ,	     View  all
 	  [ $ 16 ] Use  current location
 	  [ $ 19 ] Clinic name	       [ $ 21 ] Care system	       [ $ 23 ] Type of location	  [ $ 25 ] Specialty
-	  [ # 20 ]		  Q	  [ $ 22 ]			  [ $ 24 ]			   [ $ 26 ]			       [ $ 27 ] All filters
+	  [ # 20 ]		  Q	 [ $ 22 ]			    [ $ 24 ]			  [ $ 26 ]			       [ $ 27 ] All filters
 																				 [ $ 30 ]
-	  [ 28 ] Showing       results     1-20    of  321											[ $ 29 ] Sort by  Name    A - Z ✓
+	  [ 28 ] Showing       results     1-20   of   321											[ $ 29 ] Sort by  Name    A - Z ✓
 																						[ $ 37
 																			       [ $ 42 ]
 																				     [ $ 44 ]
@@ -24,32 +24,31 @@
 											     [ $ 53 ]
 												 [ $ 51 ]
 																						[ $ 39
-	   [ @ 33 ] apbox											       [ @ 34 ] © Mapbox [ @ 35 ] © OpenStreetMap [ @ 36 ] Improve this map
-								  [ @  56  ] Amery	Clinic     , Amery	Hospital			 [ @ 62 ] Make an
+	   [ @ 33 ] apbox											       [ @ 34 ] Ⓒ Mapbox [ @ 35 ] Ⓒ OpenStreetMap ( @ 36 ] Improve this map
+								  [ @  56  ] Amery	 Clinic    , Amery	Hospital			 [ @ 62 ] Make an
 																		      appointment
 								  &   Clinic
 					      FOR
-								  [ 57 ] 265 Griffin St E , Amery  , WI 54001-1439				 [ @ 63 ] 715-268-8000
-		 BELLE
+		 BELLE					    [ 57 ] 265 Griffin St E , Amery  , WI 54001-1439				 [ @ 63 ] 715-268-8000
 								  [ 58 ] 1634.4  miles  away
-								  [ @ 59 ] Directions L
+								  [ @ 59 ] Directions
 								  [ 61 ] Closed [ 60 ] . Reopens on Friday at 7:30 a.m.
 								  [ @  64  ] Amery	 Fitness       Center      , Amery			 [ @ 70 ] Make an
 																		      appointment
 								  Hospital	&   Clinic
 								  [ 65 ] 220 Keller  Ave  N , Amery  , WI 54001-1036			       [ @ 71 ] 715-268-0110
 								  [ 66 ] 1633.1  miles  away
-								  [ @ 67 ] Directions L
+								  [ @ 67 ] Directions
 								  [ 69 ] Open [ 68 ] until 5:30 p.m.
 								  [ @  72  ] Amery	 Hospital	&   Clinic			      [ @ 76 ] 715-268-8000
 								  [ 73 ] 265 Griffin St E , Amery  , WI 54001-1439
 								  [ 74 ] 1634.4  miles  away
 								  [ @ 75 ] Directions
-								  [ @  77  ] Amery	 Hospital	&   Clinic     -			[ @ 83 ] 715-268-0175
+								  [ @  77  ] Amery	Hospital	 &   Clinic     -			[ @ 83 ] 715-268-0175
 								  Wound	 Healing	Center
 								  [ 78 ] 230 Deronda    St , Amery  , WI 54001-1412
 								  [ 79 ] 1633.7  miles  away
-								  [ @ 80 ] Directions L
+								  [ @ 80 ] Directions
 								  [ 82 ] Closed [ 81 ] . Reopens on Friday at 8 a.m.
 								  [ @  84  ] Amery	Hospital	 &   Clinic     Birth		    [ @ 88 ] 715-268-8000
 								  Center
@@ -68,13 +67,13 @@
 								  2502
 								  [ 98 ] 1625.4  miles  away
 								  [ @ 99 ] Directions L
-								  [ @  101   ] Clear      Lake      Clinic     , Amery			       [ @ 107 ] Make an
+								  [ @  101   ] Clear      Lake      Clinic     , Amery			      [ @ 107 ] Make  an
 																		      appointment
 								  Hospital	&   Clinic
 								  [ 102 ] 357  3rd Ave  , Clear  Lake  , WI 54005-8581			    [ @ 108 ] 715-263-3100
 								  [ 103 ] 1641.5   miles away
-								  [ @ 104 ] Directions L
-								  [ 106 ] Closed [ 105 ] . Reopens  on Friday at 8 a.m.
+								  [ @ 104 ] Directions
+								  [ 106 ] Closed [ 105 ] . Reopens on  Friday at 8 a.m.
 								  [ @  109   ] HealthPartners	       Cancer	Care		    [ @ 115 ] 612-341-4800
 								  at  Coon	Rapids
 								  [ 110 ] 11850   Blackfoot   St NW   Ste 200  , Coon   Rapids  , MN
@@ -82,62 +81,62 @@
 								  [ 111 ] 1597.4  miles  away
 								  [ @ 112 ] Directions L
 								  [ 114 ] Open [ 113 ] until 4:30 p.m.
-								  [ @  116   ] HealthPartners	       Cancer	Care		       [ @ 122 ] Make an
+								  [ @  116   ] HealthPartners	       Cancer	Care		      [ @ 122 ] Make  an
 																		      appointment
 								  at  Lakeview	   Hospital
 								  [ 117 ] 927  Churchill  St W , Stillwater , MN  55082-6605		      [ @ 123 ] 612-341-4800
 								  [ 118 ] 1631.2  miles  away
 								  [ @ 119 ] Directions L
 								  [ 121 ] Open [ 120 ] until 5 p.m.
-								  [ @  124   ] Health       Partners	Cancer	Care		       [ @ 130 ] Make an
+								  [ @  124   ] HealthPartners	       Cancer	Care		       [ @ 130 ] Make an
 																		      appointment
 								  at  Park      Nicollet       Burnsville
 								  [ 125 ] 14000   Fairview  Dr , Burnsville , MN  55337-5713		      [ @ 131 ] 612-341-4800
-								  [ 126 ] 1631.6   miles away
-								  [ @ 127 ] Directions L
+								  [ 126 ] 1631.6  miles  away
+								  [ @ 127 ] Directions
 								  [ 129 ] Open [ 128 ] until 4:30 p.m.
-								  [ @  132   ] HealthPartners	       Cancer	Care		      [ @ 138 ] Make  an
+								  [ @  132   ] HealthPartners	       Cancer	Care		       [ @ 138 ] Make an
 																		      appointment
 								  at  Park      Nicollet       Maple       Grove
 								  [ 133 ] 9555  Upland    Ln N , Maple   Grove  , MN   55369-4485		 [ @ 139 ] 612-341-4800
 								  [ 134 ] 1596.4  miles  away
-								  [ @ 135 ] Directions  L
+								  [ @ 135 ] Directions L
 								  [ 137 ] Open [ 136 ] until 4:30 p.m.
 								  [ @  140   ] HealthPartners	       Cancer				[ @ 146 ] 800-359-8052
 								  Center       at   Hutchinson	    Health
 								  [ 141 ] 1095  Highway     15 S , Hutchinson   , MN  55350-5000
 								  [ 142 ] 1574.1  miles  away
-								  [ @ 143 ] Directions  L
+								  [ @ 143 ] Directions
 								  [ 145 ] Open [ 144 ] until 4:30 p.m.
 								  [ @  147   ] HealthPartners	       Cancer				  [ @ 153 ] Make  an
 																		      appointment
 								  Center       at   Regions	 Hospital
-								  [ 148 ] 640  Jackson    St , Saint Paul , MN  55101-2502			[ @ 154 ] 612-341-4800
-								  [ 149 ] 1625.4   miles away
+								  [ 148 ] 640  Jackson   St , Saint Paul , MN   55101-2502			[ @ 154 ] 612-341-4800
+								  [ 149 ] 1625.4  miles  away
 								  [ @ 150 ] Directions L
 								  [ 152 ] Open [ 151 ] until 5 p.m.
-								  [ @  155   ] HealthPartners	       Center       for			[ @ 161 ] Make  an
+								  [ @  155   ] HealthPartners	       Center       for			 [ @ 161 ] Make an
 																		      appointment
 								  International	   Health
 								  [ 156 ] 451  N Dunlap    St N , Saint Paul , MN   55104-4619		    [ @ 162 ] 952-967-7201
 								  [ 157 ] 1623.1  miles  away
-								  [ @ 158 ] Directions L
+								  [ @ 158 ] Directions
 								  [ 160 ] Closed [ 159 ] . Reopens  on Friday at 7:30 a.m.
-								  [ @  163   ]  HealthPartners	      Clinic      Apple		       [ @ 169 ] Make  an
-																		      appointment
+								  [ @  163   ]  HealthPartners	      Clinic      Apple			[ @ 169 ] Make an
+																		       appointment
 								  Valley
 								  [ 164 ] 15290   Pennock    Ln , Apple  Valley , MN  55124-7163		  [ @ 170 ] 952-967-7250
 								  [ 165 ] 1635.4   miles away
-								  [ @ 166 ] Directions L
-								  [ 168 ] Closed [ 167 ] . Reopens on  Friday at 7 a.m.
-								  [ @  171   ]  HealthPartners	      Clinic     Arden			[ @ 177 ] Make  an
+								  [ @ 166 ] Directions
+								  [ 168 ] Closed [ 167 ] . Reopens  on Friday at 7 a.m.
+								  [ @  171   ]  HealthPartners	      Clinic     Arden			 [ @ 177 ] Make an
 																		      appointment
 								  Hills
 								  [ 172 ] 3930  Northwoods      Dr , Arden  Hills , MN 55112-6963		 [ @ 178 ] 952-967-7860
 								  [ 173 ] 1615.7  miles  away
-								  [ @ 174 ] Directions
-								  [ 176 ] Closed [ 175 ] . Reopens  on Friday at 7 a.m.
-								  [ @  179   ] HealthPartners	       Clinic				   [ @ 185 ] Make an
+								  [ @ 174 ] Directions L
+								  [ 176 ] Closed [ 175 ] . Reopens on  Friday at 7 a.m.
+								  [ @  179   ]  HealthPartners	      Clinic				   [ @ 185 ] Make an
 																		      appointment
 								  Bloomington
 								  [ 180 ] 8600  Nicollet  Ave  S , Bloomington    , MN  55420-2824		[ @ 186 ] 952-967-7375
@@ -149,9 +148,9 @@
 								  Brooklyn	  Center
 								  [ 188 ] 6845  Lee  Ave   N , Brooklyn  Center  , MN  55429-1717		 [ @ 194 ] 952-967-6818
 								  [ 189 ] 1606  miles  away
-								  [ @ 190 ] Directions L
+								  [ @ 190 ] ] Directions L
 								  [ 192 ] Closed [ 191 ] . Reopens  on Friday at 8 a.m.
-								  [ @  195   ]  HealthPartners	      Clinic      Coon			[ @ 201 ] Make  an
+								  [ @  195   ] HealthPartners	       Clinic      Coon			 [ @ 201 ] Make an
 																		      appointment
 								  Rapids
 								  [ 196 ] 11475   Robinson    Dr NW  , Coon   Rapids   , MN  55433		[ @ 202 ] 952-967-6990
@@ -159,41 +158,43 @@
 								  [ 197 ] 1600.3  miles  away
 								  [ @ 198 ] Directions L
 								  [ 200 ] Closed [ 199 ] . Reopens  on Friday at 7:20 a.m.
-									       [ $ 203 ] Page 1 of 17		  [ @ 204 ] >
-	       [ @ 205 ] Download    search   instructions		   [ @ 206 ] Print  search  results
-	  [ 207 ] HealthPartners      & Park   Nicollet	     [ 213 ] Clinics  &  hospitals	       [ 220 ] Our  Foundations		    [ 230 ] Resources
-	  [ @ 208 ] 8170 33rd  Ave  S , Bloomington , MN	    [ @ 214 ] HealthPartners  Clinics	   [ @ 221 ] Foundations  overview	     [ @ 231 ] Blog
-	  55425						     [ @ 215 ] Park Nicollet Clinics	     [ @ 222 ] Park Nicollet Foundation	  [ @ 232 ] Classes and
-								    [ @ 216 ] 24/7 online clinic							   events
-						       O							[ @ 223 ] Regions Hospital
-	  [ @ 209 ]	 [ @ 210 ]	[ @ 211 ]							  Foundation					 ] Health
-								    [ @ 217 ] Specialty Centers							     [ @ 233
-	  [ @ 212 ]											     [ @ 224 ] Lakeview  Foundation	     professionals
-								    [ @ 218 ] Hospitals
-														[ @ 225 ] Amery  Foundation		[ @ 234 ] Health library
-								    [ @ 219 ] TRIA
+									       [ $ 203 ] Page 1 of 17 v		[ @ 204 ] >
+	       [ @ 205 ] Download    search   instructions		   [ @ 206 ]  Print search  results
+	  [ 207 ] HealthPartners      & Park   Nicollet	     [ 213 ] Clinics  &  hospitals	       [ 220 ] Our  Foundations		   [ 230 ] Resources
+	  [ @ 208 ] 8170 33rd  Ave  S , Bloomington , MN	    [ @ 214 ] Health Partners Clinics	   [ @ 221 ] Foundations  overview	     [ @ 231 ] Blog
+	  55425¹2						   [ @ 215 ] Park Nicollet Clinics	     [ @ 222 ] Park Nicollet Foundation	   @ 232 ] Classes  and
+																			    [
+								    [ @ 216 ] 24/7 online clinic		[ @ 223 ] Regions Hospital		 events
+	  [ @ 209 ]	 [ @ 210 ]	[ @ 211 ] O
+											Centers		 Foundation				 [ @ 233 ] Health
+								    [ @ 217 ] Specialty
+	  [ @ 212 ]														 Foundation	     professionals
+								    [ @ 218 ] Hospitals			 [ @ 224 ] Lakeview
+									    ] TRIA			      [ @ 225 ] Amery  Foundation		 [ @ 234 ] Health library
+								    [ @ 219
 														[ @ 226 ] Hudson  Foundation		[ @ 235 ] Our health
 																			   care  stores
 														[ @ 227 ] Westfields Foundation
-																		 .	  [ @ 236 ] Pay a bill
-														[ @ 228 ] Hutchinson  Foundation
+																			    [ @ 236 ] Pay a bill
+														[ @ 228 ] Hutchinson  Foundation .
 																			    [ @ 237 ] Newsroom
 														[ @ 229 ] Olivia Foundation .
-																			   [ @ 238 ] Get Adobe
+																			    [ @ 238 ] Get Adobe
 																			   reader  ¹2
-																			   [ @ 239 ] HealthPartners
+																			    [ @ 239 ] HealthPartners
 																			   mobile  app  for
-																			   Android   2
-																			   [ @ 240 ] HealthPartners
-																			   mobile  app  for iOS 1¹
+																			   Android  L2
+																			    [ @ 240 ] HealthPartners
+																			   mobile  app  for iOS
        [ 241 ]
 	  Language    assistance
-	  [ @ 242 ] Español	    [ @ 248 ] Adamawa	    [ @ 254 ] Tagalog	    [ @ 260 ] Deutsch	    [ @ 266 ] ] ગુજરાતી	   [ @ 272 ] Diné Bizaad
-	  [ @ 243 ] Hmoob	       [ @ 249 ] ພາ ສາ ລາວ	  [ @ 255 ] Украïнська	[ @ 261 ] Polski	      ] @ 267 [ اردو	       [ @ 273 ] Ikirundi
+	  [ @ 242 ] Español	    [ @ 248 ] Adamawa	    [ @ 254 ] Tagalog	    [ @ 260 ] Deutsch	    [ @ 266 ] ગુજરાતી	     [ @ 272 ] Diné Bizaad
+	  [ @ 243 ] Hmoob	       [ @ 249 ] ພາ ສາ ລາວ	 [ @ 255 ] Украïнська	 [ @ 261 ] Polski	      ] @ 267 [ اردو	       [ @ 273 ] Ikirundi
 	  t @ 244 ] Tiếng Việt	 [ @ 250 ] Deitsch	    [ @ 256 ] Oromiffa	   [ @ 262 ]		     [ @ 268 ] Italiano	   [ @ 274 ] Kiswahili
-	  [ @ 245 ]      X	      ] @ 251 [ العربية	   [ @ 257 ] h ማርኛ	      [ @ 263 ] हिंदी	       [ @ 269 नेपाली ]	     [ @ 275 ] Norsk
+	  [ @ 245 ]      X	     ] @ 251 [ العربية	    [ @ 257 ] h ማርኛ	      [ @ 263 ] f		   [ @ 269 नेपाली ]	    [ @ 275 ] Norsk
 	  [ @ 246 ] Русский	    [ @ 252 ] Français	   [ @ 258 ] unD		[ @ 264 ] Shqip	       ( @ 270 ] ภาษา ไทย	   [ @ 276 ] Ojibwe
-	  [ @ 247 ] Af Soomaali	[ @ 253 ] 한국어		[ @ 259 ] ies		[ @ 265 ] Srpsko - hrvatski  [ @ 271 ] ελληνικά	   [ @ 277 ] ትግርኛ
-		    [ 278 ] © 2023 HealthPartners [ @ 279 ] . About [ @ 280 ] Accessibility [ @ 281 ] . Good faith estimate [ @ 282 ] . Nondiscrimination statement [ @ 283 ] . Notice of privacy practices
-							      [ @ 284 ] Privacy policy [ @ 285 ] Surprise billing [ @ 286 ] . Terms & conditions
+	  [ @ 247 ] Af Soomaali	[ @ 253 ] 한국어		 [ @ 259 ] ខ្មែរ	     [ @ 265 ] Srpsko - hrvatski  [ @ 271 ] ελληνικά	   [ @ 277 ] ት 7 ርኛ
+		    [ 278 ] © 2023 HealthPartners [ @ 279 ] About [ @ 280 ] . Accessibility . [ @ 281 ] . Good faith estimate [ @ 282 ] . Nondiscrimination statement [ @ 283 ] Notice of privacy practices
+							      [ @ 284 ] . Privacy policy [ @ 285 ] . Surprise billing [ @ 286 ] . Terms & conditions
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 3585

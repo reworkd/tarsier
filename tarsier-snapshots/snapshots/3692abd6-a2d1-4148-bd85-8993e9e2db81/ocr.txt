@@ -1,63 +1,64 @@
 -----------------------------------------------------------------------------------------------------------------------------------------
-[ $ 1 ] Set My Location
+[ $ 1 ] ] Set My Location
 												       [ $ 8 ]
-   [ @ 2 ] Classes & Events [ @ 3 ] Patient Help Center [ @ 4 ] Ways to Give [ [ # 7 ]			     @ 9 ] MyChart Patient Portal
-										Search Site			[
-  [ @ 5 ] For Referring Physicians									Q
-   [ @ 10 ]											a
-						     [ @ 12 ] Find a [ @ 13 ] Patients & [ @ 14 ] Find    [ @ 15 ] Medical [ @ 16 ] Wellness
+  [ @ 2 ] Classes & Events [ @ 3 ] Patient Help Center [ @ 4 ] Ways to Give [ # 7 ]
+										Search Site			[ @ 9 ] MyChart Patient Portal
+   [ @ 5 ] For Referring Physicians								       Q
+  [ @ 10 ]									&		a
+						     [ @ 12 ] Find a [ @ 13 ] Patients   [ @ 14 ] Find    [ @ 15 ] Medical [ @ 16 ] Wellness
 	   CAPE   COD    HEALTHCARE		      Provider	    Visitors	Location	  Services	    Wise
 					     [ @ 17 ] Urgent Care : Holiday Hours & Closures
-   [ @ 19 ] Home → [ @ 20 ] Find a Location [ 21 ] Locations Profile
+   [ @ 19 ] Home [ @ 20 ] Find a Location [ 21 ] Locations Profile
     [ @ 22 ] Return to Results
-															  期間
+														     T	    FI
 												      [ 26 ] 160 Falmouth Road
      [ 23 ] Cape      Cod     Surgery       Center						    [ 28 ] Mashpee [ 27 ] , [ 29 ] MA
 												      [ 30 ] 02649
-    [ @ 24 ] Directions      [ @ 25 ] Our Services
+     [ @ 24 ] Directions     [ @ 25 ] Our Services
 												      [ 31 ] Main : [ 32 ] 774-361-8700
 												      [ 33 ] Fax : [ 34 ] 774-521-3628
 												      [ 36 ] Contact Us . [ 35 ] For hours
-	 [ 37 ] Surgical    Services      in Mashpee						  of operation , to find a physician at
+	 [ 37 ] Surgical    Services      in Mashpee						 of operation , to find a physician at
 	 [ 38 ] Providing access to highly trained board - certified surgeons , the Cape Cod Surgery Center this location or for more
 	 brings extensive experience and expert level [ @ 40 ] surgical services [ 39 ] close to home . Our information please call us directly .
 	 surgeons utilize the latest technology , including minimally invasive procedures , resulting in
 	 superior care and promoting faster recovery .
 	 [ 41 ] Surgical services available at the Cape Cod Surgery Center include :
-	 ·  [ @ 42 ] ENT Surgery .
+	    [ @ 42 ] ENT Surgery .
 	    [ @ 43 ] Gynecological Surgery .
-	    [ @ 44 ] Hand Surgery
+	    [ @ 44 ] Hand Surgery .
 	    [ @ 45 ] Orthopedic Surgery .
-	 ●  [ @ 46 ] Plastic Surgery .
+	    [ @ 46 ] Plastic Surgery .
 	 [ 47 ] Our team of compassionate experts will guide you through your entire surgical journey ,
 	 from pre - op to post - op , and will communicate with your primary care physician to ensure any
 	 follow - up treatment and rehabilitation services are in place .
 				 [ $ 50 ] Map [ $ 51 ] Satellite				      [ $ 52 ]
-												      C11
+												      Cond
 					  CAMP EDWARDS
 							     Mashpee				Craigville
 				  Frances A.		 Cahoon Museum			    Beach ,
 				 Crane Wildlife	       of Amerirs4 Art		      Barnstable
 				 Management
-				  Area North							   [ $ 53 ]
+				  Area North							  [ [ $ 531
 				   HATCHVILLE					      OSTERVILLE
-							   Mashpee Commons	    Oyster Harbors Club
+							  Mashpee Commons	     Oyster Harbors Club
 					Frances A.
 				       Crane Wildlife		       COTUIT
 				       Management   Mashpee					    [ $ 54 ]
 					  Area       National    MASHPEE NECK
-						     Wildlife ( 28 )
-			       ( @		   Refuge					    [ $ 55 ]
-				 56 ) ale
-						       [ $ 57 ] Keyboard shortcuts [ 58 ] Map data © 2023 Google [ @ 59 ] Terms [ @ 60 ] Report a map error
+						     Wildlife
+						     Refuge					    [ $ 55 ]
+			       [ @ 56 ] gle
+						      ( $ 57 ] Keyboard shortcuts [ 58 ] Map data © 2023 Google [ @ 59 ] Terms [ @ 601 Report a map error
 			      [ @ 61 ] Get Driving Directions
 	 [ 62 ] our  [ 63  ]  services
-  •  [ @ 64 ] Surgical Services
+   • [ @ 64 ] Surgical Services
 					  About Us    [ @ 68 ] Careers [ @ 69 ] Employee & Physician Login [ @ 70 ] ASL & Interpreter Services
       [ @ 71 ] [ @ 72 ] ] [ @ 73 ] [ @ 74 ] [ @ 75 ]
-     [ @ 76 ] Patient Help Center						 [ @ 82 ] Google Translate Disclaimer [ pdf ] G ( @ 81 ] Select Language
+     [ @ 76 ] Patient Help Center						 [ @ 82 ] Google Translate Disclaimer [ pdf ] G [ @ 81 ] Select Language
      [ 77 ] Subscribe to Our eNewsletter						[ 83 ] Copyright 2023 Cape Cod Healthcare Inc. All rights res [ @ 65 ]
      [ # 79													   [ @ 84 ] Privacy
 	 ] Enter your email address     [ $ 80 ] Subscribe
 																 [ 66 ] Top
 -----------------------------------------------------------------------------------------------------------------------------------------
+Token count: 924

@@ -7,6 +7,7 @@ from bananalyzer import Example
 from bananalyzer.data.examples import get_training_examples
 from dotenv import load_dotenv
 from playwright.async_api import Browser, async_playwright
+from tiktoken import get_encoding
 
 from tarsier import GoogleVisionOCRService, Tarsier
 
@@ -29,6 +30,17 @@ def google_creds() -> Dict[str, str]:
     }
 
 
+class Cl100kBaseTokenCounter:
+    def __init__(self) -> None:
+        self.encoding = get_encoding("cl100k_base")
+
+    def count(self, text: str) -> int:
+        return len(self.tokenize(text))
+
+    def tokenize(self, text: str) -> list[int]:
+        return self.encoding.encode(text)
+
+
 examples = get_training_examples()
 
 
@@ -41,11 +53,13 @@ async def snapshot_example(
     tarsier: Tarsier,
 ) -> None:
     async with semaphore:
+        counter = Cl100kBaseTokenCounter()
         page = await browser.new_page()
         example_path = snapshots_path / example.id
-        print(f"#{index}/{len(examples)} Snapshotting {example.id}")
+        prefix = f"#{index}/{len(examples)}"
+        print(f"{prefix} Snapshotting {example.id}")
         await page.goto(example.get_static_url())
-        await page.wait_for_timeout(2000)
+        await page.wait_for_timeout(3000)
         image, _ = await tarsier.page_to_image(page, tag_text_elements=True)
         page_text, _ = await tarsier.page_to_text(page, tag_text_elements=True)
         await page.close()
@@ -55,12 +69,13 @@ async def snapshot_example(
 
         with open(example_path / "screenshot.png", "wb") as f:
             f.write(image)
-            print(f"Writing screenshot to {example_path / 'screenshot.png'}")
+            print(f"{prefix} Writing screenshot to {example_path / 'screenshot.png'}")
 
         with open(example_path / "ocr.txt", "w") as f:
-            f.write(page_text)
-            print(f"Writing OCR text to {example_path / 'ocr.txt'}")
-        print(f"Finished snapshotting {example.id}")
+            page_text_with_token_count = page_text + f"\nToken count: {counter.count(page_text)}"
+            f.write(page_text_with_token_count)
+            print(f"{prefix} Writing OCR text to {example_path / 'ocr.txt'}")
+        print(f"{prefix} Finished snapshotting {example.id}")
 
 
 async def generate_snapshots() -> None:

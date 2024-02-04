@@ -1,224 +1,223 @@
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 0 ] Hacker     News
-		     Y			     [ @ 8 ] new  [ 1 ]   [ @ 9 ] past  [ 2 ] | [ @ 10 ] comments      [ 3 ] | [ @ 11 ] ask  [ 4 ]    [ @ 12 ] show   [ 5 ]   [ @ 13 ] jobs  [ 6 ]   [ @ 14 ] submit	[ @ 15 ] login
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 0 ] Hacker     News																			 @  14 ] submit	@  15 ] login
+		     Y			     [ @ 8 ] new  [ 1 ]    [ @ 9 ] past [ 2 ]   [ @ 10 ] comments       [ 3 ] | [ @ 11 ] ask  [ 4 ]   [ @ 12 ] show   [ 5 ]    [ @ 13 ] jobs  [ 6 ]   [		     [
 		      [ @ 16 ]
-			 A      [ @ 17 ] Learnings     from   fine - tuning   LLM   on  my   Telegram     messages     ( 18 ] ( [ @ 20 ] asmirnov.xyz [ 19 ]
-				[ 26 ] 150 points ( [ 21 ] by ( @ 27 ] furiousteabag ( @ 28 ] 10 hours ago [ 22 ] ( @ 29 ) ide [ 23 ] [ @ 30 ] past [ 24 ] [ @ 31 ] favorite [ 25 ] ( @ 32 ) 43 comments
+				[ @ 17 ] Learnings     from   fine - tuning   LLM   on   my  Telegram      messages     ( 18 ] ( [ @ 20 ] asmirnov.xyz [ 19 ] )
+				[ 26 ] 150 points [ 21 ] by ( @ 27 ] furiousteabag ( @ 28 ] 10 hours ago [ 22 ] ( @ 29 ] [ 23 ] ( @ 30 ] past [ 24 ] [ @ 31 ] favorite [ 25 ] ( @ 32143 comments
 			    [ $ 34 ]
 				 add    comment
-		      [ @ 35 ]  ( @ 36 ] jstrieb ( @ 3711 hour  ago  [ 38 ]  ( @ 39 ] next [ @ 40 ] [ - ]
-				[ 41 ] This post  and   its findings are  really  interesting  !
-				[ 42 ] Back  when   the  " I forced a  bot to  watch   1000   hours ... " memes   were   popular   ( [ @ 44 ] https://knowyourmeme.com/memes/i-forced-a-bot[43		 ] ) , ages  ago  in
-				AI / ML time  , I tried to do something     similar  by fine - tuning  GPT - 2 on messages     from  a  group  chat  of  my  friends  . Since there  were   years   of chat  data , it seemed   like a
-				really  good  opportunity    to test  whether   the  language    model   would   capture   everyone's    personality   and  generate    funny , uncanny   - valley versions  of  our  banter .
-				[ 45 ] Turns  out  that the  group   chat  was  used   nearly  exclusively   for sending   funny   pictures  and   videos  ( that the  language    model   obviously   couldn't  see ) , and for
-				making    plans  to  meet  up . The  generated    conversations     almost   exclusively  consisted   of  a random    group   chat  member    starting  with   " there is a party  tonight  , who
-				wants   to go ? " and  others  saying   " I'm down  " or  " when ? " or " where ? " It was 0 %  banter  , and  100 %   logistics .
-				 [ 46 ] It was pretty  hilarious  in its own  way  , but  not for the  reasons   anyone    expected   ! I didn't learn  very  much   about   language    models   with  that  experiment    , but I did
-				learn  that  my  friends ' group   chat  is actually  pretty  boring .
-				[ 47 ] I guess  the  best  banter   happens    in real life . Glad to see  it worked   out somewhat      more   interestingly  for this  person  , even  if they did  allude  to some    similar
-				results  in their  closing thoughts    section  .
-				[ @ 48 ] reply
-		      [ @ 49 ]  ( @ 50 ] thefourthchime   [ @ 51 ] 8 hours ago [ 52 ]   [ @ 54 ] prev [ 53 ] ( @ 55 ] next ( @ 56 ] [ - ]
-				[ 57 ] This part  caught   my  eye  :
-				[ 58 ] " Using a  half - precision FSDP   full shard  with  a 1024   sequence    length  and  a  micro  batch   size of 2  required   63GB   of VRAM    on  each  of the  eight  A100   80  GB  GPUs  .
-				The  training  , lasting three  epochs   , took just  20  minutes   . The total  cost for the  VM   was  $ 8.88  per  hour , resulting  in $ 3 , not including  the  time  for experiments     and  bug
+		       [ @ 35 ]  ( @ 36 ] jstrieb ( @ 37 ] 1 hour ago [ 38 ] [ @ 39 ] next ( @ 40 ] [ - ]
+				 [ 41 ] This post  and  its findings  are  really interesting  !
+				 [ 42 ] Back when   the  " I forced  a bot  to watch   1000   hours  ... " memes   were   popular   ( [ @ 44 ] https://knowyourmeme.com/memes/i-forced-a-bot([43		] ) , ages ago   in
+				AI / ML time  , I tried to do  something    similar  by  fine - tuning GPT - 2 on  messages    from   a group   chat  of my   friends . Since  there  were   years  of  chat data  , it seemed   like a
+				really  good   opportunity   to test  whether    the language    model   would    capture  everyone's    personality   and   generate   funny  , uncanny   - valley versions  of our  banter  .
+				 [ 45 ] Turns out  that  the group   chat  was   used  nearly   exclusively  for  sending   funny   pictures  and  videos   ( that the language    model   obviously    couldn't  see ) , and for
+				making    plans  to  meet  up  . The  generated    conversations    almost   exclusively   consisted   of a random    group   chat  member     starting  with  " there  is a party  tonight , who
+				wants   to  go ? " and others   saying  " I'm down   " or " when ? " or " where ? " It was  0 %  banter , and  100  %  logistics .
+				 [ 46 ] It was pretty  hilarious  in its own   way , but  not for  the  reasons   anyone   expected   ! I didn't learn  very   much   about   language   models    with  that  experiment   , but  I did
+				learn  that  my  friends  ' group  chat  is actually  pretty  boring  .
+				 [ 47 ] I guess the  best  banter   happens    in real life . Glad to see  it worked   out  somewhat     more   interestingly   for this person   , even  if they did  allude  to some    similar
+				results  in their  closing  thoughts   section  .
+				 [ @ 48 ] reply .
+		       [ @ 49 ]  ( @ 501 thefourthchime   ( @ 511 8 hours  ago [ 52 ]   [ @ 54 ] prev [ 53 ]  ( @ 55 ] next ( @ 56 ] [ - ]
+				 [ 57 ] This part caught   my   eye :
+				 [ 58 ] " Using a half - precision FSDP   full shard  with  a 1024   sequence    length   and  a  micro  batch   size of 2  required  63GB    of VRAM    on each   of the  eight  A100   80  GB  GPUs  .
+				The   training , lasting three   epochs  , took  just 20  minutes   . The  total cost  for the  VM  was   $ 8.88  per hour  , resulting  in $ 3 , not including  the time   for experiments     and  bug
 				fixes . "
-				[ 59 ] I wondered    where   you  could   rent cycles   on a  machine    like that , a quick Google   found   that  p4d.24xlarge     on AWS    is available , while  the  on - demand   cost  is
-				$ 20.1755    per hour  , the Spot  is only  $ 8.99  ( I guess it's gone   up ? )
-				 [ 60 ] Cool to know     could  fine - tune for only  ~ $ 3 .
-				[ @ 61 ] reply
-			      [ @ 62 ]  ( @ 63 ] furiousteabag  ( @ 64 ] 8 hours ago  [ 65 ]  [ ( @ 67 ] parent [ 66 ] [ @ 68 ] next [ @ 69 ] [ - ]
-				  A
-					[ 70 ] I've been   using  vast.ai  for a very  long  time  . It is like a GPU  marketplace    , where   people  rent  and  lease  GPUs   . There  are  a lot of VMs   with  4090  , and  beasts
-					like 8xA100    80GB   are  also  available  from   time  to time  .
-					 ( @ 71 ] reply
-				      [ @ 72 ]  ( @ 73 ] skerit ( @ 74 ] 6 hours ago [ 75 ]   [ @ 78 ] root ( [ 76 ] ( @ 79 ] parent [ 77 ] ( @ 80 ] next ( @ 81 ] [ - ]
-						 [ 82 ] I've used vast.ai  to do  some    fine - tuning just a few  days   ago . It is indeed  pretty  great  , though  some    servers  fail to start up  properly  , or have   some
-						weird   performance     issues . I also wish  they   had  more   templates   to  try .
-						[ @ 831 reply
-					      [ @ 84 ]  ( @ 85 ] icelancer ( @ 86 ] 2 hours ago [ 87 ]   ( @ 90 ] root ( [ 88 ] ( @ 91 ] parent [ 89 ] [ @ 92 ] next ( @ 93 ] [ - ]
-							[ 94 ] Yeah  it works   pretty well  for the  price  - just need  to  be  comfortable    with  running   code  and   putting  data  on  random    peoples  ' computers
-							( which  I am  for certain  things  ) . Someone    on  HN  posted   a script  or snippet   of output  on  mass   - testing vast.ai servers   for connectivity   and
-							configuration   , and  auto - labeling them    using  their API . Wish  I could  find  it now ... maybe    with the  search  ?
-							[ @ 95 ] reply
-			      [ @ 96 ]  ( @ 97 ] jsight [ @ 98 ] 5 hours ago [ 99 ]  [ @ 102 ] parent [ 100 ]   ( @ 103 ] prev [ 101 ] | [ @ 104 ] next ( [ @ 105 ] [ - ]
-					 [ 106 ] I think Tensordock    and  vast.ai  are  cheaper   than   AWS  . Lambda    labs  can  be  as well , but they   seem   to only  have  reserved    instances   now  .
-					[ @ 107 ] reply
-				      [ @ 108  ]  [   109 ] cosmojg  ( @ 110 ] 4 hours ago  ( 111 )   [ @ 114 ] root [ 112 ] [ @ 115 ] parent ( [ 113 ] [ @ 116 ] next [ @ 117 ] [ - ]
-						  [ 118 ] runpod.io   is another   good  - and - cheap option
+				 [ 59 ] I wondered   where   you   could  rent  cycles  on  a machine    like that , a quick  Google   found   that  p4d.24xlarge    on  AWS    is available , while  the on - demand    cost  is
+				$ 20.1755    per  hour , the Spot   is only $ 8.99  ( I guess  it's gone  up ? )
+				[ 60 ] Cool  to know   I could  fine - tune for only  ~ $ 3 .
+				 [ @ 611 reply .
+			       [ @ 62 ]  ( @ 63 ] furiousteabag ( @ 64 ] 8 hours ago  [ 65 ]  [ @ 67 ] parent [ 66 ]  [ @ 68 ] next [ @ 69 ] [ - ]
+					 [ 70 ] I've been  using  vast.ai  for a very   long time  . It is like a GPU  marketplace    , where   people   rent  and  lease  GPUs  . There   are  a lot of VMs   with 4090   , and  beasts
+					like 8xA100    80GB    are  also available  from   time  to time  .
+					 ( @ 71 ] reply .
+				       [ @ 72 ]  ( @ 73 ) skerit ( @ 74 ] 6 hours ago [ 75 ]  ( @ 78 ] root [ 76 ] [ @ 79 ) parent [ 77 ] ( @ 80 ] next ( @ 81 ] [ - ]
+						 [ 82 ] I've used  vast.ai to  do some    fine - tuning just a  few  days  ago  . It is indeed  pretty  great , though   some   servers   fail to start up  properly  , or have  some
+						weird   performance     issues . I also wish   they  had  more   templates    to try .
+						 [ @ 83 ] reply .
+					       [ @ 84 ] ( @ 85 ] icelancer ( @ 86 ] 2 hours ago  [ 87 ]  ( @ 90 ] root [ 88 ] ( @ 91 ] parent ( [ 89 ] [ @ 92 ] next ( @ 93 ] [ - ]
+							 [ 94 ] Yeah it works   pretty  well for the  price  - just need   to be  comfortable    with  running   code   and  putting   data  on  random    peoples  ' computers
+							( which  I am   for certain  things  ) . Someone   on  HN   posted   a script or  snippet  of output   on  mass  - testing vast.ai  servers   for connectivity   and
+							configuration   , and  auto  - labeling them   using  their  API . Wish  I could  find  it now ... maybe   with  the  search  ?
+							 [  95 ] reply
+			      [ @ 96 ]   ( @ 97 ] jsight ( @ 98 ] 5 hours ago [ 99 ]  [ @ 102 ] parent [ 100 ] ] ( @ 103 ] prev [ 101 ]  [ @ 104 ] next [ @ 105 ] [ - ]
+					 [ 106 ] I think Tensordock    and   vast.ai  are cheaper    than  AWS   . Lambda    labs can   be as  well , but they  seem   to  only  have  reserved    instances   now  .
+					 [  107 ] reply
+				       [ @ 108 ]  [ @ 109 ] cosmojg   ( @ 110 ] 4 hours ago  [ 111 )  [ @ 114 ] root [ 112 ]  [ @ 115 ] parent [ 113 ]  ( @ 116 ] next ( @ 117 ] [ - ]
+					   A      [ 118 ] runpod.io   is another   good  - and - cheap  option
 						  [ @ 119 ] reply
-			      [ @ 120  ]  ( @ 121 ] bllchmbrs ( @ 122 ] 2 hours  ago [ 123 ]    ( @ 126 ] parent [ 124 ]  [ @ 127 ] prev [ 125 ]  [ @ 128 ] next [ @ 129 ] [ - ]
-					  [ 130 ] Check   out  other  prices  on  ( @ 131 ] https://gpumonger.com/
-					  [ 132 ] Disclosure  : I collected  the  data  and   built the site , but it has a  ton of  comparison    data  for  GPU   clouds .
-				1	 [ @ 1331 reply
-			      [ @ 134  ]  ( @ 135 ] siquick ( @ 136 ) 5 hours ago  [ 137 ]   [ @ 140 ] parent [ 138 ]    @ 141 ] prev [ 139 ]  [ @ 142 ] next ( @ 143 ] [ - ]
-					  [ 144 ] Excuse   the  ignorance   but  are  you  using  these   instances  to  fine tune  a  " fresh install " of a model  , and then  when    you've  finished   fine tuning   it do you
+			       [ @ 120 ]  ( @ 121 ) blichmbrs  [  122  ] 2 hours ago  [ 123 ] | ( @ 126 ) parent [ 124 ]   [ @ 127 ] prev [ 125 ]  [ @ 128 ] next ( @ 129 ] [ - ]
+					  [ 130 ] Check   out  other  prices  on  [ @ 131 ] https://gpumonger.com/
+					  [ 132 ] Disclosure   : I collected  the data   and  built the  site , but it has   ton  of comparison     data  for GPU   clouds  .
+					  ( @ 1331 reply .
+			      [ @  134 ]  ( @ 135 ] siquick ( @ 136 ] 5 hours ago  [ 137 ]   ( @ 140 ] parent [ 138 ]  [ @ 141 ] prev [ 139 ]   [ @ 142 ] next ( @ 143 ] [ - ]
+				   ▲
+					  [ 144 ] Excuse   the  ignorance    but are  you  using   these  instances   to fine tune   a " fresh install " of a model  , and  then  when    you've  finished  fine  tuning  it do you
 					  download    the  whole   model   from  the  instance   for use  somewhere      else ?
-					  [ @ 145 ] reply
-		      [ @ 146  ]  ( @ 147 ] gwern  ( @ 148 ] 5 hours ago  [ 149 ]   ( @ 151 ] prev [ 150 ]  [ @ 152 ] next ( @ 153 ] [ - ]
-				  [ 154 ] >  My  data  collator  ensures   that the  loss  is only  calculated  based   on  someone's     response  . Predicting   who   will speak  next  is relatively  straightforward   , and  we
-				  don't  want  the  model   to focus   on  learning  that . Therefore  , parts  of the  conversation    where   the  loss is calculated   are  highlighted   in bold .
-				  [ 155 ] If it's so easy , then you   don't  need  to  remove   it . The model   will solve  it easily and  focus   on everything    else . At best , you  save  some    parameters    and  compute    ,
-				  at worst  , you  are damaging     its ability to learn  important   things   like conversational    skills or modeling    people  . When   it comes   to LLMs  , more   is more  , and  trying  to
-				  hand  - engineer  the  dataset   or think  [ 157 ] for [ 156 ] the  LLM  can  backfire  in  very  subtle  and  difficult to diagnose   ways  .
-				  [ 158 ] >  Ok , it is capable  of forming   coherent   sentences    . The  most  noticeable   problem    is its lack of awareness     regarding   the  context  of the  conversations     which
-				  leads  to bland   and  generic  replies  . The messages     lacked   any  distinct style , feeling quite  basic  ... >>   Conversations    have   become    more   interesting   and  engaging   ,
-				  although   there's  still a risk of losing  context  . Russian  language    performance     has  improved    , but errors  still occur . I believe that  before  fine - tuning for a  specific task
-				  with  limited  data , like mine  , it would  be beneficial   to first fine - tune the model   unsupervised     on  a large  corpus   of Russian   texts . Additionally , incorporating    common
-				  conversation    partners  ' names   as  separate   tokens   might   enhance   the  quality . I wouldn't   say  it has turned   out  to be  significantly  better  than  LoRA  . It might  be  more
-				  effective  to focus  solely  on  a single  person   and  calculate  the  loss  based   only on  my   responses    ( or someone    else's ) , instead of trying  to learn  about   each  and  every
-				  conversational    partner .
-				  [ @ 159 ] reply
-		      [ @ 160  ]  ( @ 161 ] goda90  ( @ 162 ] 8 hours ago   [ 163 ] | ( @ 165 ] prev [ 164 ]  [ @ 166 ] next [ @ 167 ] [ - ]
-				  [ 168 ] We're  probably    quite some    time  off from  the  bio - mimetic  android   part , but  we're  feeling  closer  and  closer  to the AI  replacement     avatar  from   the  Black  Mirror
+					  [  145 ] reply .
+		       [ @ 146 ]  [ @ 147 ] gwern  ( @ 148 ] 5 hours  ago [ 149 ] | [ @ 151 ] prev [ 150 ]   [ @ 152 ] next ( @ 153 ] [ - ]
+				  [ 154 ] >  My  data  collator  ensures   that  the  loss is only  calculated   based   on  someone's    response   . Predicting  who   will speak   next  is relatively  straightforward   , and  we
+				  don't  want   the  model   to focus  on  learning  that  . Therefore  , parts of the  conversation    where    the loss  is calculated   are highlighted    in bold .
+				  [ 155 ] If it's so easy , then  you  don't  need   to remove    it . The model   will solve it easily  and  focus  on  everything    else . At best , you  save  some   parameters     and  compute    ,
+				  at worst  , you  are  damaging    its ability to learn  important    things  like conversational    skills or  modeling   people   . When   it comes   to LLMs  , more   is more  , and  trying to
+				  hand  - engineer  the  dataset   or think   [ 157 ] for [ 156 ] the LLM   can  backfire  in very  subtle  and   difficult to diagnose   ways  .
+				  [ 158 ] >  Ok , it is capable  of forming   coherent    sentences   . The  most   noticeable   problem    is its lack of awareness    regarding    the  context  of the  conversations    which
+				  leads  to bland   and  generic   replies . The  messages     lacked  any  distinct  style , feeling quite  basic ... >>   Conversations     have   become    more   interesting   and  engaging   ,
+				  although   there's  still a risk of losing  context  . Russian   language    performance     has  improved   , but  errors  still occur . I believe that before   fine - tuning for a specific  task
+				  with  limited  data  , like mine , it would  be  beneficial  to first fine - tune the  model   unsupervised    on  a  large  corpus  of  Russian   texts . Additionally , incorporating    common
+				  conversation    partners  ' names    as separate   tokens   might   enhance    the  quality . I wouldn't  say  it has  turned   out to  be significantly   better  than  LORA  . It might  be  more  .
+				  effective  to focus  solely  on  a single  person   and   calculate  the  loss based   only  on  my   responses   ( or someone    else's ) , instead of trying  to  learn  about  each   and  every
+				  conversational    partner  .
+				  ( @ 159 ] reply .
+		       [ @ 160 ]  ( @ 161 ) goda90   ( @ 162 ] 8 hours ago  [ 163 ]  ( @ 165 ] prev [ 164 ]   [ @ 166 ] next [ @ 167 ] [ - ]
+				  [ 168 ] We're   probably   quite  some   time  off from   the  bio - mimetic  android   part , but we're  feeling  closer  and   closer to  the AI  replacement     avatar  from   the Black   Mirror
 				  episode   " Be Right  Back  " [ 0 ]
-				  [ 169 ] [ 0 ] [ @ 170 ] https://en.wikipedia.org/wiki/Be       Right  Back
-				  [ @ 1711 reply
-		      [ @ 172  ]  ( @ 173 ] NoraCodes   ( @ 174 ] 9 hours ago [ 175 ]    ( @ 177 ] prev [ 176 ]  ( [ @ 178 ] next ( @ 179 ] [ - ]
-				  [ 180 ] A meta   - comment   , but , what  is the difference   between    " learnings " and  " lessons " ? Why  use  the  former   when   we   have  the  latter ?
-				  [ @ 181 ] reply
-			       [ @ 182 ]  ( @ 183 ] furyofantares  ( @ 184 ] 8 hours ago  ( 185 )  ( @ 187 ] parent [ 186 ]   ( @ 188 ] next [ @ 189 ] [ - ]
-				   A      [ 190 ] Learnings   implies   a report  of your  own   experience   ; lessons   implies  something    prepared    as  teaching   material  for the  audience   . ( In the context   of the
+				  [ 169 ] [ 0 ] [ @ 170 ] https://en.wikipedia.org/wiki/Be       Right   Back
+				  ( @ 1711 reply .
+		       [ @ 172 ]  ( @ 173 ] NoraCodes   ( @ 174 ] 9 hours ago   [ 175 ]  [ @ 177 ] prev [ 176 ]  ( @ 178 ] next  [ @ 179 ] [ - ]
+				  [ 180 ] A meta   - comment   , but , what  is the  difference  between    " learnings  " and  " lessons " ? Why  use  the  former   when   we  have   the  latter ?
+				  ( @ 181 ] reply .
+			       [ @ 182 ]  ( @ 183 ] furyofantares  ( @ 184 ] 8 hours ago  [ 185 ]   ( @ 187 ] parent [ 186 ]  ( @ 188 ] next [ @ 189 ] [ - ]
+					  [ 190 ] Learnings    implies  a report  of your   own   experience   ; lessons  implies   something    prepared    as teaching   material   for the  audience   . ( In the context  of the
 					  title sentence   anyway   . )
-					  [ @ 191 ] reply
-				      [ @ 192  ]  ( @ 193 ] xanderlewis  ( @ 194 ] 7 hours ago  [ 195 ]   [ @ 198 ] root [ 196 ]  [ @ 199 ] parent ( [ 197 ] ( @ 200 ] next ( @ 201 ] [ - ]
-					  A																				       would   take  to
-						  [ 202 ] ' Lessons ' to me  also  seems   to  carry  a sense   of regret , as in ' things ( we ) got wrong   ' . ' Learnings ' is a more obscure   word  that
-						  mean   something     more   neutral : literally ' things ( I've ) learnt ' .
-						  ( @ 2031 reply
-				      [ @ 204  ]  ( @ 205 ] kagol ( @ 206 ] 5 hours ago  [ 207 ]   ( @ 211 ] root [ 208 ] ( @ 212 ] parent [ 209 ]   [ @ 213 ] prev [ 210 ]  ( @ 214 ] next [ @ 215 ] [ - ]
-						  [ 216 ] Perhaps   " findings " over  " learnings " , based  on your  description   ?
-						  [ @ 217 ] reply
-			      [ @ 218  ]  ( @ 219 ] amccollum   ( @ 220 ] 6 hours ago  [ 221 ]   [ @ 224 ] parent [ 222 ] | [ @ 225 ] prev [ 223 ] ( @ 226 ] next [ @ 227 ] [ - ]
-					  [ 228 ] This  usage  of  " learnings " , while certainly  more   common     in " business  jargon  " today , was   used  by  Shakespeare    :
-					  [ @ 229 ] https : //www.opensourceshakespeare.org/views/plays/play_view		 ....
-					  [ @ 230 ] reply
-				      [ @ 231  ]  ( @ 232 ] nescioquid ( @ 233 ] 4 hours  ago  [ 234 ]   ( @ 237 ] root [ 235 ] ( @ 238 ] parent [ 236 ]   ( @ 239 ] next [ @ 240 ] [ - ]
-						  [ 241 ] Some   words   in Shakespeare      have  different  meanings     today  or  have  simply   left standard   usage  . I don't think  the  presence    of a word   in
-						  Shakespeare     means    it is de facto  good  style  to use  today  .
-						  [ 242 ] From   a correctness    stand - point , I think a descriptionist   would   be  satisfied with  an  attested   usage  , especially  from   such  a source  . From   a style
-						  point  of view , I still find myself  feeling  embarrassed     for the  author   when   I encounter   this  usage   ( which  is my  own   problem   ) .
-						  ( @ 243 ] reply
-			      [ @ 244  ]  ( @ 245 ] swatcoder  ( @ 246 ] 8 hours ago  [ 247 ] |  @ 250  ] parent [ 248 ]  ( @ 251 ] prev [ 249 ]   ( @ 252 ] next [ @ 253 ] [ - ]
-					  [ @ 254 ] https://en.m.wiktionary.org/wiki/learnings
-					  [ 255 ] Beyond   what's   noted   there  ( contemporary     business   jargon ) , English  is diffused  across  the  globe  and   has  many   regional   variations  that  are  different
-					 than   class - signalling / formal American    and  British  usage  . As we   all encounter   each   other  online , it's not always   worth  over  - analyzing  word   choice  when   you
-					  can  understand    the  intent .
-					  [ @ 2561 reply
-			       [ @ 257 ]  ( @ 258 ] bee_rider  ( @ 259 ] 8 hours ago [ 260 ]    [ @ 263 ] parent [ 261 ]  [ @ 264 ] prev [ 262 ]  ( @ 265 ] next [ @ 266 ] [ - ]
-				   A
-					  [ 267 ] I think when    you  ask  what  the  difference   between    two  phrases   is , people  will really dig down    to try and  find  a difference  .
-					  [ 268 ] IMO   in this context   it is basically shorthand    for " things I learned  / lessons  learned  while  tuning   LLM  ... , " and either would be  fine . It is sort of an informal
-					  list of stuff the author   learned  .
-					  [ 269 ] In my   experience    ( nothing  special , just another   native  speaker   ) " lessons from   < event  > " is the more   typical American     ( at least ) English phrase  . But  it
-					  is sort of close  to " Lessons   on . " " Lessons on " would   imply  more   refined  material   that  is more  narrowly    focused   on teaching   . So I wonder    if the author   decided
-					  they  just didn't  want  to  worry   about  any  confusion   , or the  possibility that  they  might   misuse   a phrase   .
-					  [ @ 270 ] reply
-			      [ @ 271  ]  ( @ 272 ] klooney  ( @ 273 ] 8 hours ago  [ 274 ]   ( @ 277 ] parent [ 275 ]  [ @ 278 ] prev [ 276 ] | [ @ 279 ] next ( @ 280 ] [ - ]
-					  [ 281 ] I've always   associated   it with  Indian  English  , possibly  it's a dialect thing  that's  spread   from  that  community    .
-					  [ @ 2821 reply
-				      [ @ 283  ]  ( @ 284 ] xanderlewis  ( @ 285 ] 7 hours ago  [ 286 ]   ( @ 289 ] root [ 287 ]  [ @ 290 ] parent [ 288 ]  ( @ 291 ] next ( @ 292 ] [ - ]
-					  A
-						  [ 293 ] Maybe   it's Kazakh  . ( @ 294 ] https://en.m.wikipedia.org/wiki/Borat
+					  ( @ 191 ] reply .
+				       [ @ 192 ]  ( @ 193 ] xanderlewis  ( @ 194 ] 7 hours  ago  [ 195 ]  [ @ 198 ] root [ 196 ]  ( @ 199 ] parent [ 197 ]   ( @ 200 ] next [ @ 201 ] [ - ]
+						  [ 202 ] ' Lessons ' to me   also seems    to carry  a sense   of regret  , as in ' things ( we ) got wrong  ' . ' Learnings ' is a more obscure   word   that  I would   take  to
+						  mean    something    more   neutral  : literally ' things ( I've ) learnt ' .
+						  [ @ 2031 reply .
+				       [ @ 204 ]  ( @ 205 ] kagol ( @ 206 ] 5 hours  ago  [ 207 ] | ( @ 211 ] root [ 208 ] [ @ 212 ] parent [ 209 ]   [ @ 213 ] prev [ 210 ]  [ @ 214 ] next ( @ 215 ] [ - ]
+						  [ 216 ] Perhaps   " findings " over  " learnings " , based  on  your  description  ?
+						  ( @ 217 ] reply .
+			       [ @ 218 ]  ( @ 219 ) amccollum   ( @ 220 ] 6 hours ago  [ 221 ]   [ @ 224 ] parent [ 222 ] | ( @ 225 ] prev [ 223 ]  ( @ 226 ] next [ @ 227 ] [ - ]
+					  [ 228 ] This  usage   of " learnings " , while certainly  more   common     in " business   jargon  " today , was  used   by Shakespeare     :
+					  [ @ 229 ] https  : //www.opensourceshakespeare.org/views/plays/play_view		....
+					  ( @ 230 ] reply .
+				       [ @ 231 ]  ( @ 232 ] nescioquid  ( @ 233 ] 4 hours ago  ( 234 ]   ( @ 237 ] root [ 235 ]  ( @ 238 ] parent [ 236 ]  ( @ 239 ] next [ @ 240 ] [ - ]
+						  [ 241 ] Some    words   in Shakespeare     have   different  meanings    today   or have   simply  left standard    usage  . I don't think  the  presence    of a word   in
+						  Shakespeare     means    it is de facto  good   style to  use today  .
+						  [ 242 ] From   a correctness    stand  - point , I think a descriptionist  would    be satisfied  with  an  attested   usage  , especially  from  such   a source  . From   a style
+						  point  of view  , I still find myself feeling  embarrassed     for  the author   when   I encounter    this  usage   ( which is my   own  problem   ) .
+						  ( @ 243 ] reply .
+			      [ @ 244  ]  ( @ 245 ] swatcoder   ( @ 246 ] 8 hours ago  [ 247 ] | [ @ 250 ] parent [ 248 ]  ( @ 251 ] prev [ 249 ]  ( @ 252 ] next ( @ 253 ] [ - ]
+					  [ @ 254  ] https://en.m.wiktionary.org/wiki/learnings
+					  [ 255 ] Beyond   what's    noted  there  ( contemporary     business   jargon  ) , English is diffused  across   the  globe  and  has  many    regional  variations   that  are  different
+					  than  class - signalling / formal American    and   British usage   . As we  all encounter    each  other  online  , it's not always  worth   over - analyzing   word   choice  when   you
+					  can  understand     the intent .
+			       1	  ( @ 256 ] reply .
+			       [ @ 257 ]  ( @ 258 ] bee_rider  ( @ 259 ] 8 hours ago  [ 260 ]   ( @ 263 ] parent [ 261 ]  ( @ 264 ] prev [ 262 ]  ( @ 265 ] next  ( @ 266 ] [ - ]
+				   ▲      [ 267 ] I think  when   you  ask  what   the  difference   between   two   phrases   is , people will really  dig down   to  try and  find  a difference  .
+					  [ 268 ] IMO   in this context   it is basically shorthand    for " things  I learned / lessons  learned   while  tuning   LLM ... , " and either would  be  fine . It is sort of an informal
+					  list of stuff the  author  learned  .
+					  [ 269 ] In my   experience    ( nothing  special , just another    native  speaker  ) " lessons  from  < event  > " is the more   typical  American    ( at least ) English  phrase  . But  it
+					  is sort of  close to  " Lessons  on . " " Lessons on " would   imply  more   refined   material  that  is more   narrowly   focused   on  teaching   . So I wonder    if the author   decided
+					  they  just didn't  want   to worry   about   any  confusion  , or the  possibility  that they   might   misuse   a phrase  .
+					  [  270 ] reply .
+			       [ @ 271 ]  ( @ 272 ] klooney  ( @ 273 ] 8 hours ago  [ 274 ] | ( @ 277 ) parent [ 275 ] | ( @ 278 ] prev [ 276 ]  [ @ 279 ] next ( @ 280 ] [ - ]
+					  [ 281 ] I've always   associated    it with Indian   English , possibly   it's a dialect thing  that's spread   from   that  community    .
+					  [ @ 282 ] reply .
+				      [ @ 283  ]  ( @ 284 ] xanderlewis  [ @ 285 ] 7 hours  ago [ 286 ]   [ @ 289 ] root [ 287 ]  ( @ 290 ] parent [ 288 ]   [ @ 291 ] next [ @ 292 ] [ - ]
+						  [ 293 ] Maybe    it's Kazakh  . [ @ 294 ] https://en.m.wikipedia.org/wiki/Borat
 						  [ 295 ] ;-)
-						  [ @ 296 ] reply
-			      [ @ 297  ]  ( @ 298 ] cOpium  ( @ 299 ] 8 hours ago  [ 300 ]   ( @ 303 ] parent [ 301 ]  [ @ 304 ] prev [ 302 ]   ( @ 305 ] next ( @ 306 ] [ - ]
-					  [ 307 ] Gotta  earn  those   fat management       consultant   fees  somehow    . I'm sure  there's  a  whole   team   at McKinsey    doing  nothing   but  inventing   new   ways   to say
-					  the  same   things .
-					  [ @ 308 ] reply
-				      [ @ 309  ]  ( @ 310 ] fl7305 ( @ 311 ] 7 hours ago  ( 312 )   [ @ 315 ] root [ 313 ]  [ @ 316 ] parent [ 314 ] | [ @ 317 ] next [ @ 318 ] [ - ]
-					  A
-						  [ 319 ] In Swedish   , there's  a commonly     used   word   " lärdomar  " which  is a direct  match   for " learnings " .
-						  [ 320 ] But where    the  Swedish   word   sounds    natural  in that language   , " learnings " just sounds    wrong   in English  , even  though   it apparently   is technically
-						  correct .
-						  [ @ 3211 reply
-			      [ @ 322  ]  ( @ 323 ] Jolter ( @ 324 ] 8 hours ago [ 325 ]   [ @ 328 ] parent [ [ 326 ] ( @ 329 ] prev [ 327 ]  ( @ 330 ] next [ @ 331 ] [ - ]
-					  [ 332 ] Lessons   may   be  given , but  are  not necessarily   learned   .
-					  [ @ 333 ] reply
-			       [ @ 334 ]  ( @ 335 ] bigdict ( @ 336 ] 9 hours ago [ 337 ]    [ @ 340 ] parent [ 338 ]  [ @ 341 ] prev [ 339 ]  [ @ 342 ] next ( @ 343 ] [ - ]
-					  [ 344 ] learnings  =  lessons   learned
-					  [ @ 345 ] reply
-			      [ @ 346  ]  ( @ 347 ] AlexCoventry  ( @ 348 ] 7 hours  ago  ( 349 )   [ @ 352 ] parent [ 350 ]  [ @ 353 ] prev [ 351 ]  [ @ 354 ] next [ @ 355 ] [ - ]
-					  [ 356 ] I think it's new  . I've only heard   it    the last few   years .
-					  [ @ 357 ] reply
-			      [ @ 358  ]  ( @ 359 ] catlover76 ( @ 360 ] 6 hours  ago [ 361 ]   [ @ 364 ] parent [ 362 ]   [ @ 365 ] prev [ 363 ]  ( @ 366 ] next [ @ 367 ] [ - ]
-					  [ 368 ] I assumed    the  author   was  a non  - native English  speaker
-					  [ @ 369 ] reply
-		      [ @ 370  ]  ( @ 371 ] spdif899 ( @ 372 ] 2 hours  ago [ 373 ]   ( @ 375 ) prev [ 374 ]   ( @ 376 ] next [ @ 377 ] [ - ]
-				  [ 378 ] Really  interesting    as  another   person   who's   used  telegram    for several  long - standing   group  chats  , I imagine   a tool to simplify  this  would   be well - received  .
-				  [ 379 ] I've wondered     since fine - tuning  started  being  a  thing  how  long  it'd be  before  somebody     makes    a utility where   you  can  dump    a giant  chat  export   into   and   an
-				  API  key  and  then   it fine tunes a  Telegram    bot that  can  imitate  any   of your  friends    would   be fun  to  play with  and  even   create  a  group  chat  with  multiple   friend - bots
-				  talking  to each   other to  see  how   long  until it goes  off the rails .
-				  ( @ 3801 reply
-		      [ @ 381  ]  ( @ 382 ] u385639   ( @ 383 ] 8 hours ago [ 384 ]    [ @ 386 ] prev [ 385 ]  ( @ 387 ] next ( @ 388 ] [ - ]
-				  [ 389 ] Great  post  . I wonder   how   much   this can  improve    if you RAG   - ify a diverse set of  contextual   data , for example    calendar  , meals  , recent  conversations    from   the
-				  real world  , etc.
-				  [ 390 ] It's also interesting   that бля  was   translated   to ' damn  ' . :)
-				  ( @ 391 ] reply
-			      [ @ 392  ]  ( @ 393 ] furiousteabag  ( @ 394 ] 7 hours ago  [ 395 ]   [ @ 397 ] parent [ 396 ]  [ @ 398 ] next [ @ 399 ] [ - ]
-					  [ 400 ] I think incorporating    knowledge     from  other   apps  is a good   next  step  because   the  model   definitely  lacks  the  context   of what   is going  on  right now  . The
-					  nature  of  instant  messaging    is that  most   of the  messages    are  about  what   is happening    right  now   or what   will happen   in the  near  future , so  past
-					  communication      history  does   not help  much   .
-					  [ @ 401 ] reply
-		      [ @ 402  ]  ( @ 403 ] haltist ( @ 404 ) 8 hours ago ( 405 )   [ @ 407 ] prev [ 406 ]  [ @ 408 ] next ( @ 409 ] [ - ]
-				  [ 410 ] Great  example    of immortal    digital avatars  . This  is just a simple   personal   avatar  but  it is possible  to make   technological    gods  with  the  same   techniques    . All
-				  that's  needed   is scale and   $ 80B .
-				  [ @ 411 ] reply
-		      [ @ 412  ]  ( @ 413 ] lloydatkinson ( @ 414 ] 7 hours  ago ( [ 415 ] [ @ 417 ] prev [ 416 ]   [ @ 418 ] next [ @ 419 ] [ - ]
-				  [ 420 ] " Learnings  " is such a  horrible  word
-				  [ @ 4211 reply
-		      [ @ 422  ]  ( @ 423 ] 123sereusername    ( @ 424 ] 7 hours  ago  [ 425 ]  ( @ 426 ] prev  ( @ 427 ] [ - ]
-				  [ 428 ] " Learnings  " While  it might  be  legal , Learnings   is a terrible abuse   of the  English  language   .
-				  [ @ 429 ] reply
-			      [ @ 430  ]  ( @ 431 ] sfink ( @ 432 ] 6 hours ago ( 433 ] | [ @ 435 ] parent ( 434 )   ( @ 436 ] next ( @ 437 ] [ - ]
-					  [ 438 ] I'm  a native  English  speaker    from  the  US , and  a  pedant   who  hates   " ask " as a noun  , " workshop  " as  a verb , and  " performant   " as a word   . But I don't  get
-					  the  hate  for " learnings " here . What's   wrong   with  it ? " Lessons " connotes   negativity  , " stuff I learned " doesn't  naturally  fit into many    sentences   , and " useful
-					  information    gleaned  " can  be  shoved   right  back  up  the tightly  puckered    ass  it came  out  of .
-					  [ 439 ] What's  the  problem   ? That   title is exactly the  way   I would  have   written  it .
-					  ( @ 440 ] reply
-				      [ @ 441  ]  ( @ 442 ] korhojoa  ( @ 443 ] 5 hours ago  [ 444 ] | [ @ 447 ] root [ 445 ] | [ @ 448 ] parent [ 446 ] ( @ 449 ] next ( @ 450 ] [ - ]
-					  ▲       [ 451 ] Out  of curiosity , what's  your  take   on how   to write  " this item  requires  repair " ?
-						  [ 452 ] " It needs  repaired  " is something    I've seen  , which  to me   is confusing  , because   it seems   like " to be " is missing . When    did " needs " run  away   from
-						  the  words  it's been   associated   with  before  ?
-						  [ @ 4531 reply
-					      [ @ 454  ]  ( @ 455 ] pweezy  ( @ 456 ] 4 hours ago  [ 457 ] | [ @ 460 ] root ( 458 )  ( @ 461 ] parent [ 459 ]  ( @ 462 ] next [ @ 463 ] [ - ]
-							  [ 464 ] This is a  regionalism   in parts  of the  US  , which  I've seen   described   as  Pittsburgh   and  its surroundings   .
-							  [ 465 ] I come   across  it often  and  struggle   with  cognitive  dissonance    every   time    I know   of the  regionalism    but it feels so  strongly  like a  glaring
-							  grammatical    error .
-							  [ 466 ] I see / hear the  specific phrase   " needs  fixed " most   often .
-							  [ @ 467 ] reply
-					      [ @ 468  ]  ( @ 469 ] swatcoder  ( @ 470 ] 5 hours ago  ( 471 )   [ @ 475 ] root [ 472 ]  [ @ 476 ] parent ( [ 473 ] [ @ 477 ] prev [ 474 ] [ @ 478 ] next ( @ 479 ] [ - ]
-							  [ 480 ] They  wrote   this for you  , I think :
-							  [ @ 481 ] https://ygdp.yale.edu/phenomena/needs-washed
-							  [ @ 482 ] reply
-					       [ @ 483 ]  ( @ 484 ] esafak ( @ 485 ] 5 hours  ago [ 486 ]   [ @ 490 ] root ( [ 487 ] [ @ 491 ] parent [ 488 ]  [ @ 492 ]     [ 489 ]   ( @ 493 ] next ( @ 494 ] [ - ]
-							  [ 495 ] So you're   saying   " needs " is not doing   the needful  .
-							  [ @ 496 ] reply
-					      [ @ 497  ]  ( @ 498 ] sfink ( @ 499 ] 4 hours ago ( 500 )   [ @ 504 ] root [ 501 ]  [ @ 505 ] parent [ 502 ]  ( @ 506 ] prev [ 503 ]   [ @ 507 ] next [ @ 508 ] [ - ]
-							  [ 509 ] " This shit's broke . "
-							  [ 510 ] Seriously , though   , I'm with  you  on  " It needs  to be  repaired  . "
-							  [ 511 ] Then  again  , I went  to school   in the  land  of the yinzers  , so " it needs  repaired  " doesn't  even   sound   all that off to me   anymore    even   though
-							  I'd never  use  it myself  . ( I kind of mentally   map   it to " it needs repairing  " . ) But I think of that as a  dialect of  English , with  no  bearing  on
-							  " standard " English  .
-							  [ 512 ] For standard    English , it has to  be  " it needs to be  repaired  " , " it requires repair " , " it needs repairing " , or " excuse me , my  good   sir , but I do
-							  believe  that  this shit here   is most  definitely  in need  of  repair " .
-							  [ @ 513 ] reply
-				      [ @ 514  ]  ( @ 515 ] kagol ( @ 516 ] 5 hours ago  [ 517 ]   ( @ 521 ] root [ 518 ]  ( @ 522 ] parent [ 519 ]  [ @ 523 ] prev [ 520 ]  [ @ 524 ] next [ @ 525 ] [ - ]
-						  [ 526 ] I always  thought    of " learning " as an  uncountable    noun  .
-						  [ @ 527 ] reply
-			      [ @ 528  ]  ( @ 529 ] ryanklee ( @ 530 ] 7 hours  ago  [ 531 ]  ( @ 534 ] parent [ 532 ]   ( @ 535 ] prev [ 533 ]  [ @ 536 ] next ( @ 537 ] [ - ]
-					  [ 538 ] This  is a ridiculous , arbitrary  judgment    that  has  nothing   to do  with  anything   even   remotely   related  to  this post . This type   of pedantry   is low - brow  and
-					  annoying   .
-					  [ @ 539 ] reply
-				      [ @ 540  ]  ( @ 541 ] aerhardt ( @ 542 ] 5 hours  ago [ 543 ]   ( @ 546 ] root [ 544 ]  ( @ 547 ] parent [ 545 ]   [ @ 548 ] next ( @ 549 ] [ - ]
-						  [ 550 ] It's also plainly  wrong  , because    " learnings " is perfectly commonplace      .
-						  ( @ 551 ] reply
-			      [ @ 552  ]  ( @ 553 ] amccollum   ( @ 554 ] 6 hours ago  ( 555 )   [ @ 557 ] parent [ 556 ]  [ @ 558 ] prev [ @ 559 ] [ - ]
-				  A	560  ] Take  it up with  Shakespeare    ?
+						  ( @ 2961 reply .
+			       [ @ 297 ]  ( @ 298 ] copium  ( @ 299 ]   hours ago  [ 300 ]   [ @ 303 ] parent [ 301 ]   [ @ 304 ] prev [ 302 ]  [ @ 305 ] next [ @ 306 ] [ - ]
+					  [ 307 ] Gotta  earn   those  fat management       consultant   fees  somehow     . I'm sure  there's  a whole   team   at  McKinsey    doing  nothing   but  inventing   new   ways  to  say
+					  the  same   things  .
+					  [ @ 308 ] reply .
+				      [ @ 309  ]  ( @ 310 ] fl7305 [ @ 311 ] 7 hours  ago [ 312 ]   [ @ 315 ] root [ 313 ]  [ @ 316 ] parent [ 314 ]   [ @ 317 ) next ( @ 318 ] [ - ]
+					   A
+						  [ 319 ] In Swedish    , there's a commonly      used  word   " lärdomar  " which   is a direct match    for " learnings " .
+						  [ 320 ] But  where   the  Swedish    word   sounds   natural  in that  language   , " learnings " just sounds   wrong    in English , even   though   it apparently   is technically
+						  correct  .
+						  [ @ 3211 reply .
+			       [ @ 322 ]  ( @ 323 ] Jolter ( @ 324 ] 8 hours ago [ 325 ]    [ @ 328 ] parent [ 326 ]  ( @ 329 ] prev [ 327 ]   [ @ 330 ] next ( @ 331 ] [ - ]
+					   [ 332 ] Lessons  may   be  given  , but are  not  necessarily   learned  .
+				E	 ( @ 333 ] reply .
+			       [ @ 334 ]  ( @ 335 ] bigdict [ @ 336 ] 9 hours ago  [ 337 ]   [ @ 340 ] parent [ 338 ] ] [ @ 341 ] prev [ 339 ]  [ @ 342 ] next ( @ 343 ] [ - ]
+				   A       344  ] learnings   =  lessons  learned
 					  [
-					  [ @ 561 ] https : //www.opensourceshakespeare.org/views/plays/play_view		 ....
-					  [ @ 5621 reply
-			 [ @ 570 ] Guidelines ( [ 563 ] [ @ 571 ] FAQ ( 564 )  ( @ 572 ] Lists ( 565 ]  [ @ 573 ] API [ 566 ]  [ @ 574 ] Security [ 567 ]  ( @ 575 ] Legal ( 568 )  ( @ 576 ] Apply to YC ( [ 569 ] ( @ 577 ] Contact
-												  [ 578 ] Search   :  [ # 579 ]
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+					  ( @ 345 ] reply .
+			       [ @ 346 ]  ( @ 347 ] AlexCoventry   ( @ 348 ] 7 hours ago  ( 349 ]   [ @ 352 ] parent [ 350 ]  [ @ 353 ] prev [ [ 351 ] ( @ 354 ] next [ @ 355 ] [ - ]
+				   A      [ 356 ] I think  it's new . I've only  heard   it in the last few  years  .
+					  [   357 ] reply .
+			       [ @ 358 ]  ( @ 359 ] catlover76  ( @ 360 ] 6 hours ago  [ 361 ]   [ @ 364 ] parent [ 362 ]   [ @ 365 ] prev [ 363 ]  [ @ 366 ] next [ @ 367 ] [ - ]
+					   [ 368 ] I assumed   the  author   was  a  non - native  English  speaker
+					  ( @ 369 ] reply .
+		       [ @ 370 ]  ( @ 371 ] spdif899  ( @ 372 ] 2 hours ago  [ 373 ]   ( @ 375 ) prev [ 374 ]  [ @ 376 ] next ( @ 377 ] [ - ]
+				  [ 378 ] Really  interesting     as another    person  who's   used   telegram   for several   long - standing  group   chats  , I imagine  a  tool to simplify  this  would   be well - received .
+				  [ 379 ] I've wondered     since  fine - tuning started  being   a thing  how   long  it'd be before   somebody     makes    a utility where   you  can  dump    a giant  chat  export  into    and   an
+				  API  key  and  then   it fine tunes  a Telegram    bot  that  can  imitate  any  of your  friends  - would   be  fun  to play  with  and  even   create  a group   chat  with  multiple   friend - bots
+				  talking  to each   other  to see  how   long  until it goes  off the  rails .
+				  ( @ 380 ] reply .
+		      [ @ 381  ]  ( @ 382 ] u385639   [ @ 383 ] 8 hours ago  [ 384 ] | [ @ 386 ] prev [ 385 ]  [ @ 387 ] next [ @ 388 ] [ - ]
+				  [ 389 ] Great   post . I wonder   how   much   this  can  improve   if you  RAG  - ify a diverse  set of contextual    data , for example    calendar  , meals  , recent  conversations    from  the
+				  real world  , etc.
+				  [ 390 ] It's also interesting   that  6ля  was  translated   to  ' damn ' . :)
+				  ( @ 3911 reply .
+			       [ @ 392 )  ( @ 393 ] furiousteabag   [ @ 394 ] 7 hours ago ( 395 ]   [ @ 397 ] parent [ 396 ]   [ @ 398 ] next [ @ 399 ] [ - ]
+					  [ 400 ] I think  incorporating    knowledge    from   other  apps   is a good  next   step because    the  model   definitely  lacks  the  context  of what   is going  on  right  now  . The
+					  nature   of instant  messaging     is that most   of the  messages     are about   what   is happening    right  now  or what   will happen    in the  near  future , so past
+					  communication      history  does   not  help  much  .
+					  ( @ 401 ] reply .
+		       [ @ 402 ]  ( @ 403 ] haltist ( @ 404 ] 8 hours ago [ 405 ]   [ @ 407 ] prev [ 406 ]   [ @ 408 ] next ( @ 409 ] [ - ]
+				  [ 410 ] Great  example     of immortal   digital  avatars  . This is just a  simple  personal   avatar   but  it is possible to  make   technological   gods   with  the  same   techniques   . All
+				  that's  needed   is scale  and  $ 80B .
+				  ( @ 411 ] reply
+		       [ @ 412 ]  ( @ 413 ] lloydatkinson  ( @ 414 ] 7 hours ago  [ 415 ]   [ @ 417 ] prev [ 416 ]  ( @ 418 ] next ( @ 419 ] [ - ]
+				  [ 420 ] " Learnings  " is such  a horrible  word
+				  ( @ 4211 reply
+		       [ @ 422 ]  ( @ 423 ] 123sereusername     ( @ 424 ] 7 hours ago  [ 425 ]   [ @ 426 ] prev ( @ 427 ] [ - ]
+				  [ 428 ] " Learnings  " While  it might  be  legal , Learnings   is a terrible  abuse   of the  English  language   .
+				  ( @ 4291 reply .
+			       [ @ 430 ]  ( @ 431 ] sfink ( @ 432 ] 6 hours ago  ( 433 ]   [ @ 435 ] parent [ 434 ]  ( @ 436 ] next ( @ 437 ] [ - ]
+					  [ 438 ] I'm  a native  English   speaker   from  the  US  , and  a pedant   who   hates   " ask " as a noun  , " workshop  " as a  verb , and  " performant   " as a word  . But  I don't  get
+					  the  hate  for " learnings " here  . What's  wrong    with  it ? " Lessons " connotes   negativity , " stuff I learned " doesn't   naturally  fit into many   sentences   , and  " useful
+					  information    gleaned  " can  be  shoved    right back  up  the  tightly puckered    ass  it came   out of .
+					  [ 439 ] What's   the  problem   ? That  title is exactly  the way   I would   have  written   it .
+					  ( @ 4401 reply .
+				       [ @ 441 ]  ( @ 442 ] korhojoa  ( @ 443 ] 5 hours ago  [ 444 ] | [ @ 447 ] root ( 445 ) | ( @ 448 ] parent [ 446 ] [ @ 449 ] next [ @ 450 ] [ - ]
+						   [ 451 ] Out of curiosity , what's   your  take  on  how   to write  " this item requires   repair " ?
+						  [ 452 ] " It needs  repaired  " is something    I've seen  , which  to  me  is confusing   , because   it seems   like " to be " is missing . When   did  " needs " run  away   from
+						  the  words   it's been  associated   with  before  ?
+						  [ @ 453 ] reply .
+					       [ @ 454 ]  ( @ 455 ] pweezy   ( @ 456 ]  hours  ago ( 457 )    [ @ 460 ] root [ 458 ] [ @ 461 ] parent [ 459 ]   ( @ 462 ] next [ @ 463 ] [ - ]
+						   A      [ 464 ] This  is a regionalism    in parts  of the  US , which  I've  seen  described    as Pittsburgh   and   its surroundings   .
+							  [ 465 ] I come   across   it often and  struggle   with  cognitive   dissonance    every  time     I know   of the  regionalism   but  it feels so  strongly  like a glaring
+							  grammatical     error .
+							  [ 466 ] I see / hear the  specific  phrase   " needs  fixed " most  often  .
+							  ( @ 467 ] reply .
+					      [ @ 468  ]  ( @ 469 ] swatcoder  ( @ 470 ] 5 hours  ago  [ 471 ]   [ @ 475 ] root [ 472 ]  [ @ 476 ] parent [ 473 ] ] [ @ 477 ] prev [ 474 ] [ @ 478 ] next ( @ 479 ] [ - ]
+							  [ 480 ] They  wrote   this  for you , I think :
+							  [ @ 481 ] https://y.gdp.yale.edu/phenomena/needs-washed
+							  [ @ 482 ] reply .
+					       [ @ 483 ]  ( @ 484 ] esafak  ( @ 485 ] 5 hours ago  [ 486 ]   [ @ 490 ] root [ 487 ]  [ @ 491 ] parent [ 488 ]  [ @ 492 ] prev [ 489 ]  ( @ 493 ] next [ @ 494 ] [ - ]
+						   A      [ 495 ] So  you're  saying   " needs " is not  doing  the  needful  .
+							  [ @ 496 ] reply .
+					      [ @ 497  ]  ( @ 498 ] sfink ( @ 499 ] 4 hours ago  ( 500 ]   [ @ 504 ] root [ 501 ]  [ @ 505 ] parent [ 502 ]  [ @ 506 ] prev [ 503 ]    @ 507 ] next ( @ 508 ] [ - ]
+						   A      [ 509 ] " This shit's broke  . "
+							  [ 510 ] Seriously  , though  , I'm with  you   on  " It needs to  be  repaired  . "
+							  [ 511 ] Then   again , I went  to  school  in the  land  of the  yinzers , so  " it needs repaired  " doesn't   even  sound   all that  off to me   anymore    even  though
+							  I'd never   use  it myself . ( I kind of mentally   map   it to " it needs repairing  " . ) But I think of that as  a dialect  of English  , with no  bearing   on
+							  " standard  " English .
+							  [ 512 ] For  standard   English  , it has to be  " it needs to  be  repaired  " , " it requires repair " , " it needs repairing " , or " excuse me , my  good   sir , but I do
+							  believe  that  this shit  here  is most  definitely  in need   of repair " .
+							  ( @ 513 ] reply .
+				       [ @ 514 ]  ( @ 515 ] kagol ( @ 516 ] 5 hours  ago  [ 517 ] | ( @ 521 ] root [ 518 ] [ @ 522 ] parent [ 519 ]   [ @ 523 ] prev [ 520 ]  ( @ 524 ] next [ @ 525 ] [ - ]
+						  [ 526 ] I always   thought   of " learning " as  an uncountable     noun  .
+						  ( @ 527 ] reply .
+			       [ @ 528 ]  ( @ 529 ] ryanklee  ( @ 530 ] 7 hours ago  ( 531 ]   ( @ 534 ] parent [ 532 ]   [ @ 535 ] prev [ 533 ]  [ @ 536 ] next ( @ 537 ] [ - ]
+				   ▲      ( 538 ] This  is a ridiculous , arbitrary  judgment     that has   nothing  to  do with  anything    even   remotely   related  to this  post . This type  of  pedantry   is low - brow  and
+					  annoying   .
+					  ( @ 5391 reply
+				       [ @ 540 ]  ( @ 541 ] aerhardt  ( @ 542 ] 5 hours ago  [ 543 ]   [ @ 546 ] root [ 544 ]  ( @ 547 ] parent [ 545 ]  [ @ 548 ] next ( @ 549 ] [ - ]
+						  [ 550 ] It's also plainly  wrong   , because   " learnings " is perfectly  commonplace      .
+						  ( @ 551 ] reply .
+			       [ @ 552 ]  ( @ 553 ] amccollum   ( @ 554 ] 6 hours ago  ( 555 )   [ @ 557 ] parent [ [ 556 ] ( @ 558 ] prev [ @ 559 ] - ]
+				   A
+					  [ 560 ] Take  it up  with  Shakespeare    ?
+					  [ @ 561  ] https : //www.opensourceshakespeare.org/views/plays/play_view		....
+					  ( @ 562 ] reply .
+			 [ @ 570 ] Guidelines [ 563 ]   [ @ 571 ] FAQ [ 564 ]   [ @ 572 ] Lists ( 565 ) ( @ 573 ] API [ 566 ]  [ @ 574 ] Security [ 567 ]   ( @ 575 ) Legal [ 568 ]  ( @ 576 ] Apply to YC ( [ 569 ] ( @ 577 ] Contact
+												  [ 578 ] Search    : [ # 579 ]
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 7911

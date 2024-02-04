@@ -1,12 +1,12 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 1 ]   Login   to Portal
+[ @ ⁰  ]																								    [ @ 1 ]   Login   to Portal
  [ @   ]    O'Melveny
 [ 2 ]
   Public    Company	Associate
-    [ $ 4 ] Job ID :   [ 3 ] 1236			     [ $ 6 ] Position : [ 5 ] Associate			[ $ 8 ] Location : [ 7 ] Newport Beach		   [ $ 9 ] Practice
+    [ $ 4 ] Job ID :   [ 3 ] 1236			     [ $ 6 ] Position : [ 5 ] Associate		       [ $ 8 ] Location : [ 7 ] Newport Beach		    [ $ 9 ] Practice
 																						 Area :
      [ $ 11 ] Open					    [ $ 13 ] Job					      [ $ 14 ] Contact :
-    Date :	     [ 10 ] Wednesday  , March 23 , 2022    Function :	 [ 12 ] Legal
+    Date :	     [ 10 ] Wednesday  , March 23 , 2022    Function :	[ 12 ] Legal
  [ 16 ]  Description :
     O'Melveny  is seeking a third or fourth year associate to join the Public Company Advisory group within its Capital Markets practice . Qualified candidates should have demonstrated experience advising public companies on a wide
     variety of securities law compliance , disclosure and corporate governance matters . This position will work closely with other members of the Public Company Advisory group to assist with day - to - day securities law counseling , SEC
@@ -22,7 +22,8 @@
     [ $ 21 ] Job Requirements  :
 																							[ $ 22 ]  Back	    [ $ 23 ]  Apply  Now
 													      MICRON
-													     SYSTEMS
+												    ON	 SYSTEMS
 							[ @ 24 ] www.micronsystems.com       [ @ 25 ] About Micron Systems     [ @ 26 ] Privacy Policy   [ @ 27 ] Terms & Conditions
 										       [ 28 ] © Copyright 2023 Micron Systems , Inc. All rights reserved .
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 619
