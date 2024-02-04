@@ -1,62 +1,64 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @  0 ]
+[ @ ⁰ ]
      Excela		      Health
 							      [ @ 1 ] Pay  Bill      [ @ 2 ] Contact   Us       [ @ 3 ] Careers	 [ @ 4 ] About  Us      [ $ 6 ] arch			   [ @ 7 ] 877-771-1234
-					      [ @ 8 ] Find  a Doctor	 [ @ 9 ] Locations	  [ @ 10 ] Services	 [ @ 38 ] Patients    &  Visitors	[ @ 59 ] Patient   Portal	[ @ 60 ] Giving
+					      [ @ 8 ] Find  a Doctor	 [ @ 9 ] Locations	  [ @ 10 ] Services	  [ @ 38 ] Patients   &  Visitors	[ @ 59 ] Patient   Portal	[ @ 60 ] Giving
 	 [ 61 ]
 	    Our	     Locations
-	     [ $ 63 ] Search   Locations					 66  ] egory							[ $ Services 68 ] ]
-									       [ $
-	     [ # 64 ]										    All Categories							 All Services
+	     [ $ 63 ] Search   Locations					      egory								 vices
+									       [ $ 66 ]							     [ [ $ 68 ] |
+	     [ # 64 ]										    All  Categories							All  Services
+									Q
 	       Search    Term
 																							   [ @ 69  ] Clear    Filters
 													    Tarentum		Vandergrift				       ( 422 )
-									      [ $ 842 ]		      New		      Apollo
-     [ 70 ] Blairsville	Medical	Park							Kensington				    156
-     [ 71 ] Outpatient  Facilities , Laboratory  &  Imaging  ,		[ $ 843 ]							     [ $ 840 ]	   ( 286 )	  Homer  City ( 6
+																								     ( 422 )
+									      ( $ 842 )		      New		      Apollo
+    Blairsville	Medical	Park								Kensington				   ( 156 )
+    [ 71 ] Outpatient   Facilities , Laboratory  & Imaging   ,	      T [ $ 843D							      ( $ 840 ]	   ( 286 )	  Homer  City ( 56 )
     Primary   Care
 									   279				 Plum								       Graceton
-     [ 72 ] 56 Club   Lane							   ( 28					    66	     Saltsburg
-														    [ $ 841 ]							  Black Lick    ( 259
-     [ 73 ] Blairsville , PA  15717					 cks		    Penn Hills
-															FO			      $ 839 ]					( 22 ) Armagh
-     [ @ 74 ] 877-771-1234															     (			  [ 831 ] 7		    56
-									   ittsburgh											 Blairs
-												       Monroeville Murrysville				     ( 119 )				    Seward .
-     [ @ 75  ] More     information						    Homestead				  [ 837 ] 6			    ( 982 )	      Bolivar
-																		       Alexandria
-																	     ( 819 )	( 981 )				New  Florence
-											    West  Mifflin										  ( 259 )   ( 711 )
-											     McKeesport
-									     Park					     Jeannette				   Derry					  Johnstown
-     [ 76 ] Excela       Advanced	   Pain     Center       -						[ 834 ] 15				 Latrobe						       Y
-									    88						 30
-    Excela       Square	at  Frick											   66 [ 835 ] 33rg								       Elim
-     [ 77 ] Specialty  Office or Clinic														     [ 833 ] 29					      ( 985 )
+     [ 72 ] 56 Club   Lane							   ( 28 )							 Saltsburg
+														    ( $ 841 O ]							Black Lick    ( 259 )
+     [ 73 ] Blairsville , PA  15717					ocks		    Penn Hills
+     [ @ 74 ] 877-771-1234															     ( $ 839 ]			     ( 22 )    ( 22 ) Armagh
+									   ittsburgh		   376								   Blairs [ 831 ] 7		  56
+												       Monroeville Murrysville			   9	 ( 119 )    LO			      Seward .
+     [ @ 75  ] More     information						    Homestead					] 6						 Bolivar
+																  [ 837		Alexandria
+																			    981				    New  Florence
+											    West  Mifflin		   Ⓡ									( 711
+											     McKeesport										    ( 259
+									     Park					     Jeannette				   Derry					 Johnstown
+     [ 76 ] Excela       Advanced	   Pain     Center       -						[ 834 ] 150				Latrobe						       V
+									   ( 88 )						  66 [ 835 ] 33rg								       Elim
+    Excela       Square	at  Frick
+     [ 77 ] Specialty Office  or Clinic														     [ 833 ] 29					      ( 985 )
 																	  ( 819 )			      30
 																			      ( 982 )	   [ 838 ] 5
-     [ 78 ] 508  South   Church     Street										    New  Stanton	  ( 981							      Davidsville
-     [ 79 ] Suite 200													  Hunker										   Hollsopple
-     [ 80 ] Mount   Pleasant    , PA  15666
+     [ 78 ] 508  South   Church     Street										    New  Stanton	  ( 981 )							    Davidsville
+     [ 79 ] Suite 200																								   Hollsopple
+															       Hunker
+    [ [ 80 ] Mount  Pleasant    , PA  15666														    ( 130 )
     [ @ 81  ] 724-542-1937								    ( 837 )			  Ruffs Dale	  76		     ( 711 )
-													      Smithton										      Boswell
-										     ( 481 Monessen     70			981 ) [ 832 ] 15t								      Hooversvil
+													      Smithton						       ( 381 )			Boswell
+										     ( 481 ) Monessen   70		       ( 981 ) [ 832 ] 15t								     Hooversvil
      [ @ 82  ] More     information							 Belle Vernon											       ( 985 )
 									    entleyville															( 219 ) 30
 																			      Donegal						Stoystown
-											    43				    Scottdale
+											    ( 43 )				Scottdale
 													    Perryopolis
 											  California							     Champion
 																			( 1009 )	    Hidden Valley
      [ 83 ] Excela       Advanced	   Pain     Center       -																	     Friedens
-											  Brownsville			   c [ 836 ] 4			    Seven Springs			   Listie      Shanksvil
+											  Brownsville			     [ 836 ] 4e			   Seven Springs			   Listie      Shanksvil
     Excela       Square	at  Latrobe				   Vestaburg													       Somerset
      [ 84 ] Specialty  Office or Clinic				    redericktown							     Normalville
-																Dunbar		( 381
-     [ 85 ] 100  Excela   Health    Drive													   Mill Run
-																					   653			     ( 219 )	    ( 31 )
-     [ 86 ] Suite  103						      [ @ 844 ]
-     [ 87 ] Latrobe  , PA  15650						 ogle				119								   Rockwood		    Berlin
-													 [ $ 845 ] Keyboard shortcuts [ 846 ] Map data © 2023 Google ( $ 847 ] [ 848 ] 5 km [ @ 849 ] Terms [ @ 850 ] Report a map error
+																Dunbar
+     [ 85 ] 100  Excela   Health    Drive								  ( 43 )				   Mill
+																			Run		653			     ( 219 )	    ( 31 )
+     [ 86 ] Suite  103						       [ @ 844 ]
+     [ 87 ] Latrobe  , PA  15650					     eoogle				  119								   Rockwood		    Berlin
+													 [ $ 845 ] Keyboard shortcuts [ 846 ] Map data © 2023 Google [ $ 847 ] [ 848 ] 5 km [ @ 849 ] Terms [ @ 850 ] Report a map error
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1051
+Token count: 1081

@@ -1,89 +1,71 @@
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 3 ]																										     [ # 2 ]
-			  AT THE FOREFRONT    OF KIDS MEDICINE
-			  UChicago	   Medicine
-			  Comer	   Children's
-	      [ @ 4 ] Patients   & Families	 [ @ 5 ] Healthcare    Professionals	 [ @  6 ] Research     & Clinical  Trials
-	     PEDIATRICS	[ @ 11 ] FIND A LOCATION
-	  [ 12 ]
-	     Comer		    Children's			 -    Merrillville
-	      [ @    13    ]    99       E.     86th	  Ave.
-	     Suite	    C
-	      Merrillville		 ,  IN      46410
-	      [ @  14  ] 773-702-6169
-	      [ 18 ] Services   and  Specialties    Offered  :
-																				University of Chicag
-	      [ @ 19 ] Hepatology     ( Liver Disease   ) [ 15 ] , [ @ 20 ] Liver Disease   [ 16 ]							      Specialty Clic
-	      [ @ 21 ] Liver  Transplant    [ 17 ] | [ @ 22 ] More
-	      [ 24 ] Insurance   Accepted    :
-	      [ 23 ] Aetna   POS  , Aetna   HMO    ( specialists  only ) , Aetna PPO    I
-	      [ @ 25 ] More
-			    [ @ 26  ] Get   Directions
-		     [ @ 27  ] Request      an  Appointment
-				 [ 28  ] UChicago	 Medicine       in  Merrillville     offers    comprehensive	    specialty      care    that's
-				 closer    to   home     .																	 1481    At   This     Location
-				 [ 29  ] Specialties       at  this   location     include     :
-																									    [ @ 49  ] 17  Doctors
-				 [ 30  ] Adult   :
-																									    [ @ 50  ] 14
-					 [ 31  ] Hepatology	, including      chronic     liver   disease											    Conditions      Treated
-				      •  [ 32  ] Liver    transplant      , including      pre-   and    post-    liver  transplantation	  care
-				 [ 33  ] Pediatric     :
-				      •  [ 34  ] Pediatric      allergy     and   immunology
-				      •  [ 35  ] Pediatric      cardiology
-				      •  [ 36  ] Pediatric      hematology	/ oncology
-				      •  [ 37  ] Pediatric      otolaryngology	  ( ENT   )
-					 [ 38  ] Pediatric      gastroenterology
-				      •  [ 39  ] Pediatric      infectious      Diseases
-				      •  [ 40  ] Pediatric      neurosurgery
-					 [ 41  ] Pediatric      rheumatology
-				      •  [ 42  ] Pediatric      surgery
-				      •  [ 43  ] Pediatric      neurology
-				       [ @  44  ]   Directions      &   Parking									    П
-				       [ @  45  ]  Adult     Services       and    Specialties							     П
-				       [ @  46  ]  Pediatric      Services       and    Specialties							 □
-				       [ @  47  ]   Insurance       Accepted										■
-													  Connecticut
-				nk  Tank   Networking
-				  Technology     Group
-										E 84th  Pl		    Members      Source	  Northwest    Indiana
-									       Frontage		   S St      Credit  Union	       REALTORS®       .
-														   Luxury  Kutz
-						     Horizon   Bank	   Rd
-												    CarePointe    Ear ,
-				     RGIS   Inventory		   Peoples    Bank	     Nose  , Throat  &  Sinus
-					  Specialists													   N
-								   Meyers   Glaros					  Pain  Physicians
-												      ticut		 of Indiana
-					   SUPERPSYCHED						  St
-						    SUPPORT		CHILDREN      & FAMILY							       4
-									       MEDICINE     CLINIC
-																   Virginia
-									Greater   Indiana
-					   Spring  Mill		 Title Company	     Methodist     Hospitals	  Pl
-				     Health   Campus					   Southlake    Emergency    ...
-									   [ @ 52  ] Pay    a Bill				   [ @  54 ]  Refer    a Patient			      [ @ 56  ] Contact      Us
-		 [ 51     ]  I'd      Like	  to
-									   [ @ 53  ] Get   Directions				[ @  55  ] Make    a  Donation			     [ @ 57  ] Make     an  Appointment
-			  AT  THE FOREFRONT    OF KIDS  MEDICINE	[ @ 61 ] Conditions    &  Services	  [ @ 68 ] About   Us			 [ @ 75 ] Biological  Sciences	      [ @ 78 ]  Privacy   Practices .
-			   UChicago	    Medicine		 [ @ 62 ] Patients   &  Visitors	     [ @ 69 ] News			      Division				    [ @ 79  ] Website    Privacy
-			   Comer	   Children's		   [ @ 63 ] Healthcare			 [ @ 70 ] Media			      [ @ 76 ] Pritzker  School   of	     Policy
-									Professionals									  Medicine
-														    [ @ 71 ] Careers								       [ @ 80 ] Legal   Disclaimer
-									[ @ 64 ] Research								      [ @  77 ] University   of Chicago	   [ @ 81  ] Employee     Login
-														    [ @ 72 ] Events
-	      [ 58 ] The  University   of Chicago    Medicine
-									[ @ 65 ] UChicago     Medicine	      [ @ 73 ] Contact   Us
-	     5841   S. Maryland    Avenue    Chicago   , IL
-	     60637   1 [ @ 59 ] 773-702-1000			    [ @ 66 ] Community			  [ @ 74 ] JCAHO     Public   Notice
-									Engagement
-									[ @ 67 ] International    Patients
-	      [ @   60   ]
-	     Appointments		  :
-	      1-888-824-0200
-						     [ @   86  ]
-	  [ 87 ]
-	     ©  2023  The  University  of Chicago   Medical  Center  . All rights reserved .
-   Comer    Footer   Background
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1348
+-------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 3 ]														   [ # 2 ]
+	      AT THE FOREFRONT OF KIDS MEDICINE
+	      UChicago   Medicine
+	      Comer    Children's
+       [ @ 4 ] Patients & Families [ @ 5 ] Healthcare Professionals [ @ 6 ] Research & Clinical Trials
+       PEDIATRICS ( @ 11 ] FIND A LOCATION
+     [ 12 ]
+       Comer	 Children's	 -  Merrillville
+       [ @  13 ]  99  E.  86th    Ave.												   ☐
+       Suite    C
+																	 0
+       Merrillville     , IN  46410
+	[ @ 14 ] 773-702-6169
+       [ 18 ] Services and Specialties Offered :
+       [ @ 19 ] Hepatology ( Liver Disease ) ( [ 15 ] , [ @ 20 ] Liver Disease [ 16 ]    Specialty Clin
+       [ @ 21 ] Liver Transplant [ 17 ] | [ @ 22 ] More
+       [ 24 ] Insurance Accepted :
+       [ 23 ] Aetna POS , Aetna HMO ( specialists only ) , Aetna PPO I
+       [ @ 25 ] More
+	       [ @ 26 ] Get Directions
+	   [ @ 27 ] Request an Appointment
+		  [ 28 ] UChicago Medicine in Merrillville offers comprehensive specialty care that's
+		  closer to home .									  [ 48 ] At This Location
+		  [ 29 ] Specialties at this location include :
+														 [ @ 49 ] 17 Doctors
+		  [ 30 ] Adult :
+														 [ @ 50 ] 14
+		    •  [ 31 ] Hepatology , including chronic liver disease				       Conditions Treated
+		       [ 32 ] Liver transplant , including pre- and post- liver transplantation care
+		  [ 33 ] Pediatric :
+		    •  [ 34 ] Pediatric allergy and immunology
+		       [ 35 ] Pediatric cardiology
+		    •  [ 36 ] Pediatric hematology / oncology
+		    •  [ 37 ] Pediatric otolaryngology ( ENT )
+		    .  [ 38 ] Pediatric gastroenterology
+		    .  [ 39 ] Pediatric infectious Diseases
+		    ●  [ 40 ] Pediatric neurosurgery
+		    •  [ 41 ] Pediatric rheumatology
+		    •  [ 42 ] Pediatric surgery
+		       [ 43 ] Pediatric neurology
+		      [ @ 44 ] Directions & Parking				   ☐
+		     [ @ 45 ] Adult Services and Specialties			  П
+		      [ @ 46 ] Pediatric Services and Specialties
+		      [ @ 47 ] Insurance Accepted				     |
+					 [ @ 52 ] Pay a Bill	      [ @ 54 ] Refer a Patient	[ @ 56 ] Contact Us
+	 [ 51 ] I'd  Like   to
+					 [ @ 53 ] Get Directions	  [ @ 55 ] Make a Donation	[ @ 57 ] Make an Appointment
+	       AT THE FOREFRONT OF KIDS MEDICINE [ @ 61 ] Conditions & Services [ @ 68 ] About Us [ @ 75 ] Biological Sciences [ @ 78 ] Privacy Practices
+	       UChicago   Medicine      @ 62 ] Patients & Visitors [ @ 69 ] News	Division
+					[									[ @ 79 ] Website Privacy
+					[ @ 63 ] Healthcare     [ @ 70 ] Media	  [ @ 76 ] Pritzker School of Policy
+	       Comer    Children's
+					Professionals				   Medicine		 [ @ 80 ] Legal Disclaimer
+								[ @ 71 ] Careers
+					[ @ 64 ] Research			       [ @ 77 ] University of Chicago [ @ 81 ] Employee Login
+       [ 58 ] The University of Chicago Medicine		[ @ 72 ] Events
+					[ @ 65 ] UChicago Medicine [ @ 73 ] Contact Us
+       5841 S. Maryland Avenue Chicago , IL
+       606371 [ @ 59 ] 773-702-1000     [ @ 66 ] Community      [ @ 74 ] JCAHO Public Notice
+					Engagement
+					[ @ 67 ] International Patients
+       [ @ 60 ]
+       Appointments    :
+       1-888-824-0200
+			     [ @ 86 ]
+     [ 87 ]
+       © 2023 The University of Chicago Medical Center . All rights reserved .
+ Comer Footer Background
+-------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 951

@@ -1,62 +1,65 @@
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @   5 ]
-											   [ @ 6 ]  Notice    of  Non						[ @  8 ]  Patient		   [ @  9 ] For	    [ @  10  ] Contact
-											       Discrimination		      [ @  7 ] Careers	       Portal   / Pay   my   Bill	     Providers			Us		  [ $ 67  ]      h   LCMC       Health
-	LCMC								       [ @   11  ]  About	      [ @   25   ] For		 [ @   34  ]  Our		   [ @  64   ]  Our		  [ @   65  ]  Find     a
-											    Us		       Patients			 Services			  Locations			     Provider
-	Health
-	    [ 68   ]
-		Our		Locations
-		 [ $ 70   ] ] Search       by    location	name				     [ $ 73   ] er   by   category								       [ $ 74  ]  Search	by    ZIP    cod    (  @  76   ]  Use     my    location
-		 [ # 71   ]																						   [ # 75  ]
-												 Q		 All  categories																			   Q
-		     Search      term																					    ZIP    code
-																																[ @   77   ]  Clear      filters
-																				      [ $ 1615 O ]										      E				Philad
-																												  61				Canton
-														   [ $ 1618																					  [ $ 1620
-      [ 78   ]  Amelia	Health       Center      : Cardiology	   and			       Hi	    20		 Ruston
-      Cardiovascular	     Surgery																	       Rayville      Delhi
-														B  [ $ 1619										      Tallulah  .				  Ridgeland
-      [ 79  ]   Touro																									Vicksburg						       Forest       Newt
-																											       20			  Jackson
-      3715     Prytania       St.										71								    Winnsboro								     Brandon
-      Suite    400																		      Columbia				   65					55
-      New     Orleans      , LA    70115									Coushatta 204																	    49		       Bay  Springs
-																	       Winnfield		 ( 165 )
-      [ @  83   ] 504.897.8276
-														    49		     84 )	    ( 84 )										 Hazlehurst		     Magee
-																									     65
- [ 0 ] More      information											     Natchitoches														 55
-																					 Jena																Lau
-																		      ( 167 )				   Ferriday	    ( 61								    84	   Ellisvill
-      [ @   85  ]  Get     directions									   iny			  71							Natchez				 Brookhaven
-																											 98				   84
-																														     51
-																																				  Hattiesburg
-	86   ]  Behavioral	  Health       Center												[ 1609    ]									      McComb		     Columbia	  ( 98
-      [
-      [ 87  ]   Children's       Hospital       New     Orleans						     Leesville					   Marksville
-																																					   49
-															     Fort  Johnson													 55
-      210    State     St.												   South																	[ $ 1616  ]
-      New     Orleans      ,  LA   10118																															 59
-														   DeRidder															 Franklinton	      O
-      [ @  90   ] 504.896.7200																  ( 167			       St  Francisville								 a
-																		 ( 165 )																Poplarville
-																					  49
-	@   91  ]   More       information									       ( 171 )			       Ville Platter	71							  [ $ 1617  ]
-       [																									   ( [ $ 1612 ]
-																	Kinder	     Eunice      Opelousas	( 190 )										   Picayune
-      [ @   92  ]  Get     directions											     190								      Batol
-														    [ $ 1614  ]					   [ $ 1613  ]							  Ponchatould     [ 1608    ] 1				 Gul
-																       165
-																 es	    Jennings								    Gonzales					    [ 1607    ]      [ 1611    ] 2⁹
-																			    Crowley		 Broussard				     10
-       [ 93  ]  Bienville	Health       Center      : Primary	Care      and
-      [ [ 94 ]  alue     your       privacy
-     We     use   cookies     to  enhance       your    browsing      experience       , serve    personalized	ads    or  content    , and   analyze      our  traffic  . By		 $ 2 ]		   ▾
-																								  [       Customize			[ $ 3 ] Reject    All		  [ $ 4 ] Accept     All
-      clicking   " Accept     All " , you  consent      to  our   use   of  cookies    .
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1098
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 5 ]
+								  [ @ 6 ] Notice of Non	 @ 7 ] Careers	   [ @ 8 ] Patient	   [ @ 9 ] For      [ @ 10 ] Contact			   Health
+								     Discrimination	    [						  Providers	       Us	    [ $ 67 ]   h  LCMC
+														     Portal / Pay my Bill
+     LCMC						   [ @ 11  ] About	[ @ 25  ] For	   [ @ 34  ] Our	    [ @ 64  ] Our	    [ @ 65  ] Find  a
+								   Us		Patients	       Services		 Locations		   Provider
+      Health
+	[ 68 ]
+	    Our	  Locations
+	    [ $ 70 ] Search    by  location    name			   $ 73 ] er by  category						 [ $ 74 ] Search   by   ZIP  cod  ( @ 76  ] Use   my  location
+									     [
+	    [ # 71 ]							       All categories						    [ # 75 ]
+								      a																	Q
+	       Search   term															    ZIP  code
+																							  [ @ 77  ] Clear   filters
+															 [ $ 1615 ] ,							  ( 51 )		   Philad
+																				   261		      Canton
+										   [ $ 1618				    O										     ( $ 1620
+    [ 78 ] Amelia     Health   Center   : Cardiology    and		      Ha	20	    Ruston .
+    Cardiovascular      Surgery												      Rayville  Delhi
+										 B [ $ 1619							    Tallulah			 Ridgeland
+    [ 79 ] Touro																		Vicksburg				      Forest D Newt
+																				 20		   Jackson			      O
+    3715   Prytania  St.							  71						 Winnsboro					       Brandon
+    Suite  400													    Columbia		       65			    55
+    New   Orleans   , LA 70115						   Coushattal												     49		Bay Springs
+     @  83 ] 504.897.8276									       Winnfield	 ( 165 )
+    [																					  Hazlehurst	     Magee
+														Son
+[ [ 0 ]
+    We   value    your    privacy
+    [ @ 85  ]
+    We  use  cookies  to enhance   your browsing   experience  , serve personalized   ads or content , and analyze   our traffic . By	 $ 2 ] Customize  ▾
+																	     [			     [ $ 3 ] Reject All	  [ $ 4 ] Accept All
+    clicking " Accept All " , you consent to our use of cookies .
+													     [ 1609  ]									    Columbia .   ( 98    O
+     [ 86 ] Behavioral    Health   Center																     McComb
+     [ 87 ] Children's  Hospital   New   Orleans				    Leesville			     Marksvillet
+																											 49
+											   Fort Johnson									 55
+    210  State  St.									South		     49									  [ $ 1616 ]
+    New   Orleans   , LA 10118						     DeRidder						    J						   O	     59
+    [ @ 90 ] 504.896.7200											   ( 167 )		   St Francisville		    Franklinton	     a
+													 165											       Poplarville
+															   49
+    [ @ 91  ] More    information						      ( 171 )				   ( 71 )				      ( $ 1617 ]
+														   Ville Platte			  ( $ 1612 ]
+											      190 ) Kinder      Eunice   Opelousas   ( 190 )							   Picayune
+    [ @ 92  ] Get   directions							       (						     Batol    O			    Co
+										    [ $ 1614 ]			     [ $ 1613 ]					Ponchatoula [ 1608 ] 1		       Gul
+												 ( 165 )
+											     Jes	Jennings					       Gonzales			      [ 1607 ]   [ 1611  ] 2⁹
+														      10
+    [ 93 ] Bienville    Health   Center   : Primary   Care   and						 Crowley	   Broussard			10
+    OB  / GYN															 Iberia				[ 1610 ] 4
+															Abbeville New						  New   Orleans
+    [ 94 ] Touro																				       [ 1606  ] Chasse
+																	      90		  Thibodaux
+    4000   Bienville  St.							  [ @ woogie 1621 ]
+    Suite  B																	 Morgan City
+											[ $ 1622 ] Keyboard shortcuts [ 1623 ] Map data © 2023 Google , INEGI ( $ 1624 ] [ 1625120 K [ @ 1626 ] Terms [ @ 1627 ] Report a map error
+    New   Orleans   , LA 70119
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1056

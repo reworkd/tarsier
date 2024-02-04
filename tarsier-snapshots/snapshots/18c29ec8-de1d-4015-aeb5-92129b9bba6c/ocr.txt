@@ -1,29 +1,28 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ $ 2 ] Choose  my	  [ @ 7 ] Log in to My IU Health →  [ @ 8 ] Search Q
-												     location ▾
-		   W
+[ $ 2 ] Choose  my	 [ @ 7 ] Log in to My IU Health →   [ @ 8 ] Search Q
+												     location
 		  HEALTH
- [ @ 1 ] Indiana University Health								      [ @ 121	     [ @ 13 ]				   [ @ 15 ]
-					 Providers												  [ @ 14 ]	  Find a
-				    Find	      [ @ 10 ] Medical Services    [ @ 11 ] Location    Get  Care	   Schedule  an		a Bill
-													Now		 Appointment	    Pay		 Career
-    [ @ 16 ] , Home / [ 17 ] Location Results	       [ 18 ] Location   Results
+ [ @ 1 ] Indiana University Health								      [ @ 121	     [ @ 13 ]				  [ @ 15 ]
+						       @ 10 ] Medical  Services			     Care	    Schedule  an	   [ @ 14 ]	   Find a
+				    Find Providers    [			    [ @ 11 ] Location    Get					    a Bill
+													Now		 Appointment	    Pay		Career
+    [ @ 16 ] . Home [ 17 ] Location Results		 [ 18 ] Location   Results
     [ 19 ] Filter results by
     [ 20 ] Location
       [ $ 21 ] Indianapolis
       ( 187 )
       [ $ 22 ] Bloomington   ( 58 )
-       [ $ 23 ] Lafayette ( 58 )
+      [ $ 23 ] Lafayette ( 58 )
       [ $ 24 ] Carmel  ( 51 )
-      [ $ 25 ] Munc    ( 48 )
+    L      5 ] Muncie  ( 48 )
     [ $ 26 ] Show more
     [ 27 ] Location Type
-      [ $ 28 ] Primary Care
+       [ $ 28 ] Primary Care
       ( 96 )
-       [ $ 29 ] Urgent Care ( 11 )
-      [ $ 30 ] Hospital ( 17 )
+      [ $ 29 ] Urgent Care  ( 11 )
+       [ $ 30 ] Hospital ( 17 )
       [ $ 31 ] Pharmacy   ( 14 )
-      [ $ 32 ] Behavioral
+       [ $ 32 ] Behavioral
       Health  ( 13 )
     [ $ 33 ] Show more
     [ 34 ] Specialty
@@ -34,104 +33,103 @@
        [ $ 37 ] Arthritis &
       Rheumatology      ( 10 )
        [ $ 38 ] Bariatric &
-      Medical   Weight   Loss  ( 9 )
-       [ $ 39 ] Behavioral
+      Medical   Weight  Loss  ( 9 )
+      [ $ 39 ] Behavioral
       Health  ( 16 )
     [ $ 40 ] Show more
-    [ [ $ 41 ] Clear All Filters
+    [ $ 41 ] Clear All Filters
      [ $ 42 ] View  locations near me
   [ # 43 ]
        Search   by condition  , location , or name														[ $ 44 ] Q
   [ 45 ]
      Showing   1-12   of 684  Locations
-					    [ @ 46 ]									      [ @ 61 ]
+					    [ @ 46 ]									     [ @ 61 ]
 					[ 47 ] Hospital								       [ 62 ] Hospital
-					    [ @ 48 ]									      [ @ 63 ]
+					    [ @ 48 ]									     [ @ 63 ]
 				IU  Health  Arnett   Hospital						    IU  Health   Ball Memorial     Hospital
 				   [ 49 ] 5165 McCarty   Ln							   [ 64 ] 2401 W  University  Ave
-				  [ 50 ] Lafayette , IN 47905							    [ [ 65 ] Muncie , IN 47303
-					✰✰✰✰✰										 ✰✰✰✰✰
+				  [ 50 ] Lafayette , IN 47905							    [ 65 ] Muncie , IN 47303
+					★★★★★										 ✰✰✰✰✰
 	   [ 53 ] 4.6 [ 51 ] out of [ 54 ] 5 [ 52 ] stars [ 55 ] ( [ 57 ] 45,073 [ 56 ] ratings ) [ 68 ] 4.6 [ 66 ] out of [ 69 ] 5 [ 67 ] stars [ 70 ] ( [ 72 ] 61,896 [ 71 ] ratings )
 				  [ @ 59 ] [ $ 58 ] 48.8000							     [ @ 74 ] [ $ 73 ] 47.3111
 				   [ @ 60 ] Location Details							     [ @ 75 ] Location Details
-					    [ @ 76 ] ]									    [ @ 91 ]
+					    [ @ 76 ]									     [ @ 91 ]
 					[ 77 ] Hospital								       [ 92 ] Hospital
-					    [ @ 78 ]									      [ @ 93 ]
-			       IU  Health  Bedford    Hospital						    IU  Health   Bloomington     Hospital
-				    [ 79 ] 2900 W  16th  St							  [ 94 ] 2651  E Discovery   Pkwy
-				   [ 80 ] Bedford , IN 47421							  [ 95 ] Bloomington  , IN 47408
+					    [ @ 78 ]									     [ @ 93 ]
+			       IU  Health  Bedford    Hospital						    IU Health   Bloomington      Hospital
+				    [ 79 ] 2900 W  16th  St							  [ 94 ] 2651 E  Discovery   Pkwy
+				  [ 80 ] Bedford , IN 47421							   [ 95 ] Bloomington , IN 47408
 					★★★★★										 ★★★★★
 	   [ 83 ] 4.6 [ 81 ] out of [ 84 ] 5 [ 82 ] stars [ 85 ] ( [ 87 ] 29,482 [ 86 ] ratings )   [ 98 ] 4.5 [ 96 ] out of [ 99 ] 5 [ 97 ] stars [ 100 ] ( [ 102 ] 45,637 [ 101 ]
-				  [ @ 89 ] [ $ 88 ] 05.1200							    [ @ 104  ] 81 [ $ 103 ] .6252
+				  [ @ 89 ] [ $ 88 ] 05.1200							   [ @  104 ] 81 [ $ 103 ] .6252
 				   [ @ 90 ] Location Details							    [ @ 105 ] Location  Details
 					   [ @ 106 ]									     [ @ 121 ]
-				       [ 107 ] Hospital								       [ 122 ] Hospital
+					   10
+					[ 107 ] Hospital								     [ 122 ] Hospital
 					   [ @ 108 ]									     [ @ 123 ]
-			      IU  Health   Frankfort   Hospital							 IU Health   Jay  Hospital
-				  [ 109 ] 1300 S Jackson   St							  [ 124 ] 500 West   Votaw   St
+			      IU  Health   Frankfort   Hospital							IU  Health   Jay  Hospital
+				 [ 109 ] 1300  S Jackson   St							  [ 124 ] 500 West  Votaw   St
 				 [ 110 ] Frankfort , IN 46041							  [ 125 ] Portland , IN 47371
-					   ★★★★
-	    [ 113 ] 4.6 [ 111 ] out of [ 114 ] 5 [ 112 ] stars [ 115 ] ( [ 117 ] 7,768 [ 116 ]    [ 128 ] 4.7 [ 126 ] out of [ 129 ] 5 [ 127 ] stars [ 130 ] ( [ 132 ] 6,699 [ 131 ]
-				 [ @ 119  ]  6 [ $ 118 ] .3000							 [ @ 134  ] 26 [ $ 133 ] . 131
+					   ✰✰✰✰
+	    [ 113 ] 4.6 [ 111 ] out of [ 114 ] 5 [ 112 ] stars [ 115 ] [ 117 ] 7,768 [ 116 ]      [ 128 ] 4.7 [ 126 ] out of [ 129 ] 5 [ 127 ] stars [ 130 ] ( [ 132 ] 6,699 [ 131 ]
+				 [ @ 119  ] 76 [ $ 118 ] 3000							 [ @  134 ] 26 [ $ 133 ] .0131
 				  [ @ 120 ] Location  Details							   [ @ 135 ] Location  Details
 					   [ @ 136 ]									     [ @ 151 ]
-																	LEDERE
-					[ 137 ] Hospital								      [ 152 ] Hospital
+					[ 137 ] Hospital								     [ 152 ] Hospital
 					   [ @ 138 ]									     [ @ 153 ]
-			      IU  Health  Methodist    Hospital							    IU Health   Morgan
+			      IU Health   Methodist    Hospital							       Health   Morgan
 				 [ 139 ] 1701 N  Senate   Blvd						      [ 154 ] 2209 John   R Wooden    Dr
-				[ 140 ] Indianapolis , IN 46202						       [ 155 ] Martinsville , IN 46151
-					★★★★★										 ★★★★★
-	   [ 143 ] 4.6 [ 141 ] out of [ 144 ] 5 [ 142 ] stars [ 145 ] [ 147 ] 87,345 [ 146 ]     [ 158 ] 4.7 [ 156 ] out of [ 159 ] 5 [ 157 ] stars [ 160 ] [ 162 ] 14,711 [ 161 ]
-				 [ @ 149  ]   1 [ $ 148 ] , 2000						       [ @ 164  ]  6 [ $ 163 ] 8441
+			       [ 140 ] Indianapolis , IN 46202							[ 155 ] Martinsville , IN 46151
+					✰✰✰✰✰										 ★★★★★
+	   [ 143 ] 4.6 [ 141 ] out of [ 144 ] 5 [ 142 ] stars [ 145 ] ( [ 147 ] 87,345 [ 146 ]   [ 158 ] 4.7 [ 156 ] out of [ 159 ] 5 [ 157 ] stars [ 160 ] [ 162 ] 14,711 [ 161 ]
+				 [ @ 149  ]  1 [ $ 148 ] .2000							[ @  164 ] 76 [ $ 163 ] .8441
 				  [ @ 150 ] Location  Details							   [ @ 165 ] Location  Details
 					   [ @ 166 ]									     [ @ 181 ]
-					[ 167 ] Hospital								      [ 182 ] Hospital
+					[ 167 ] Hospital								     [ 182 ] Hospital
 					   [ @ 168 ]									     [ @ 183 ]
-			    IU  Health   Neuroscience      Center						     IU  Health   North   Hospital
-				    [ 169 ] 355 W  15th  St							    [ 184 ] 11700 N  Meridian  St
-				[ 170 ] Indianapolis , IN 46202							 [ 185 ] Carmel , IN 46032
-																    ★★★
-	   [ 173 ] 4.7 [ 171 ] out of [ 174 ] 5 [ 172 ] stars [ 175 ] [ 177 ] 25,864 [ 176 ]     [ 188 ] 4.7 [ 186 ] out of [ 189 ] 5 [ 187 ] stars [ 190 ] [ 192 ] 90,139 [ 191 ]
-				 [ @ 179191    [ $ 178 ] .6450							 [ @ 194191    [ $ 193 ] 2000
+			    IU  Health   Neuroscience      Center						     IU  Health   North  Hospital
+				    [ 169 ] 355 W  15th  St							   [ 184 ] 11700  N Meridian   St
+			       [ 170 ] Indianapolis , IN 46202							  [ 185 ] Carmel , IN 46032
+	   [ 173 ] 4.7 [ 171 ] out of [ 174 ] 5 [ 172 ] stars [ 175 ] ( [ 177 ] 25,864 [ 176 ]   [ 188 ] 4.7 [ 186 ] out of [ 189 ] 5 [ 187 ] stars [ 190 ] [ 192 ] 90,139 [ 191 ]
+				 [ @ 179  ] 31 [ $ 178 ] 6450							 [ @  194 ] 91 [ $ 193 ] 2000
 				  [ @ 180 ] Location  Details							   [ @ 195 ] Location  Details
 					   [ @ 196 ]									     [ @ 211 ]
-					[ 197 ] Hospital								      [ 212 ] Hospital
+					[ 197 ] Hospital								     [ 212 ] Hospital
 					   [ @ 198 ]									     [ @ 213 ]
-				 IU Health   Paoli  Hospital							 IU  Health   Saxony    Hospital
-				 [ 199 ] 642 W   Hospital  Rd							   [ 214 ] 13000  E  136th  St
+				 IU Health   Paoli  Hospital							 IU  Health  Saxony     Hospital
+				 [ 199 ] 642 W   Hospital  Rd							   [ 214 ] 13000  E 136th  St
 				   [ 200 ] Paoli , IN 47454							     [ 215 ] Fishers , IN 46037
 					✰✰✰✰✰										 ✰✰✰✰✰
 	    [ 203 ] 4.6 [ 201 ] out of [ 204 ] 5 [ 202 ] stars [ 205 ] ( [ 207 ] 7,325 [ 206 ]   [ 218 ] 4.8 [ 216 ] out of [ 219 ] 5 [ 217 ] stars [ 220 ] ( [ 222 ] 40,491 [ 221 ]
-				  @  209  ] 81 [ $ 208 ] .2811							 [ @ 224  ]  1 [ $ 223 ] .2000
+				  @  209  ] 81 [ $ 208 ] .2811							  @ 224   ] 31 [ $ 223 ] 2000
 				  [ @ 210 ] Location  Details							   [ @ 225 ] Location  Details
-	     [ 227 ] Prev	[ @ 228 ]      [ @ 229  ] 2    [ @ 230  ] 3    [ @ 231  ] 4    [ @ 232  ] 5	[ @ 233 ] Next
-								    [ @ 238  ] About   Our		 [ @ 243  ] Patient		   [ @ 247 ] For
-		Indiana       University			    System				 Resources			   Researchers
-       HEALTH				   Health
+	     [ 227 ] Prev	[ @ 228 ] 1    [ @ 229  ] 2    [ @ 230  ] 3    [ @ 231  ] 4    [ @ 232  ] 5       [ @ 233 ] Next
+								    [ @ 238 ] About   Our		  [ @ 243 ] Patient		    [ @ 247 ] For
+								    System				 Resources			   Researchers
+       HEALTH   Indiana       University	Health
 								    [ @ 239 ] In The		       [ @ 244  ] Business		  [ @ 248 ] For  Providers
 								    Community			      Solutions
       [ 235 ] For General Information													   [ @ 249 ] Professional
-								    [ @ 240  ] Diversity  &		[ @ 245  ] IU Health		 Education
+								    [ @ 240 ] Diversity   &		[ @ 245  ] IU Health		Education
       [ @   236    ]  1.888.IUHEALTH				Inclusion			      Plans
       [ 237  ] ( 1.888.484.3258       )													 [ @ 250 ] For  Media
-								    [ @ 241  ] Careers		     [ @ 246  ] Thrive  by IU
+								    [ @ 241 ] Careers		      [ @ 246  ] Thrive  by IU
 													   Health
 								    [ @ 242 ] IU  Health
 								    Foundation
    [ 251 ]
-      Connect  With  IU Health
-      [ @    252      ]	 [  @    253      ]   x      [ @    254      ]	  [ @    255      ]   in    [  @    256     ]	  [ @    257      ]
-      [ @    258      ]	  [ @    259      ]
-      [ 260 ] © 2023  Indiana   University Health  , Inc. All Rights     [ @ 261 ] Sitemap    [ @ 262 ] Legal  Notices  and  HIPAA   Notice  of	    [ @ 263 ] Contact
+      Connect   With IU Health
+      [ @    252      ]	 [  @    253      ]   x      [ @    254     ]	   [ @    255     ]    in     [ @    256     ]   O      [ @    257      ]
+      [ @    258      ]	 [  @    259      ]
+      [ 260 ] © 2023  Indiana  University  Health  , Inc. All Rights     [ @ 261 ] Sitemap    [ @ 262 ] Legal  Notices  and  HIPAA   Notice  of	   [ @ 263 ] Contact
       Reserved   .									    Privacy  Practices					  Us
 										      [ $ 264 ]
       [ @ 265 ] Non - discrimination Notice
-      [ @ 266 ] English ( @ 267 ] Español [ @ 268 ] Français [ @ 269 ] Burmese
-													  [ @ 284 ] ]			  [ @ 285 ]
-      [ @ 270 ] Pennsilfaanisch Deitsch @ 271 ]   [ @ 272 ] Nederlands @ 273 ] Deutsch
-													    RC    Riley Children's Health	   INDIANA SCHOOL OF UNIVERSITY
-      [ @ 2741 Hakha  @ 275 ]       [ @ 276 ] Karen @ 27710      [ @ 278 ] Pyсский				Indiana University Health
-      [ @ 279 ] Tagalog [ @ 280 ] Tiếng Việt [ @ 281 ] ] l [ @ 282 ] हिंदी [ @ 2 8 3 ] ਪੰਜਾਬੀ
+      [ @ 266 ] English [ @ 267 ] Español [ @ 268 ] Français [ @ 269 ] Burmese
+													  [ @ 284 ]			    [ @ 285 ]
+      [ @ 270 ] Pennsilfaanisch Deitsch @ 271 ]   [ @ 272 ] Nederlands [ @ 273 ] Deutsch
+													    RC    Riley Children's Health      T    INDIANA   UNIVERSITY
+      [ @ 274 ] Hakha [ @ 275 ]     [ @ 276 ] Karen [ @ 277 ] O  [ @ 278 ] Pyсский				Indiana University Health	 SCHOOL OF MEDICINE
+      [ @ 279 ] Tagalog [ @ 280 ] Tiếng Việt [ @ 281 ] = l [ @ 282 ] [ @ 283 ] HE
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2711
+Token count: 2692

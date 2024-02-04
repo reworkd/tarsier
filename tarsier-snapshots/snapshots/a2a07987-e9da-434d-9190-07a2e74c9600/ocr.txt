@@ -1,53 +1,57 @@
------------------------------------------------------------------------------------------------------------------------------------
-[ @ 1 ] Patient [ @ 2 ] Bill     [ @ 4 ] Contact	   [ @ 6 ] 205-759
-				Portal		[ @ 3 ] ] Careers Us    [ @ 5 ] Recognition	      [ # 7 ] Site Search [ $ 8 ]
-					    Pay						  7111
+------------------------------------------------------------------------------------------------------------------------------------
+[ @ 1 ] Patient [ @ 2 ] Bill      [ @ 4 ] Contact	   [ @ 6 ] 205-759
+				 Portal	       [ @ 3 ] Careers Us       [ @ 5 ] Recognition	      [ # 7 ] Site Search [ $ 8 ]
+					     Pay						  7111
    [ @ ⁰ ]
-       Health System	     [ @ 9 ] About [ @ 16 ] Find a [ @ 17 ] Services [ @ 42 ] Locations [ @ 54 ] Patient & [ @ 69 ] News [ @ 81 ] The DCH
-				    Us	Doctor				 Visitor		 Foundation
+	Health System	    [ @ 9 ] About [ @ 16 ] Find a [ @ 17 ] Services [ @ 42 ] Locations [ @ 54 ] Patient & [ @ 69 ] News [ @ 81 ] The DCH
+				     Us	Doctor				 Visitor		 Foundation
      [ 89 ]
        Our      Locations
-       [ $ 90 ] Search Locations	      ategories			   $ 95 ] rch Services
-					   [ $ 93 ]			      [
-       [ # 91 ]					   All Locations			 All Services
-				       O
+       [ $ 90 ] Search Locations	    $ 93 tegories ]		       [ $ 95 ] rch Services
+					   [
+       [ # 91 ]					   All Locations			  All Services
+				       0
 	Search by location name
 												  [ @ 96 ] CLEAR FILTERS
-       [ @ 97 ]			      [ @ 98 ]			      [ @ 99 ] ]
-		  DCHE	    Contro
-       DCH Regional Medical Center	   Northport Medical Center	      Fayette Medical Center
-       General			       General			       General
-       809 University Blvd. E.	       2700 Hospital Drive		   1653 Temple Ave.
-       Tuscaloosa , AL 35401		 Northport , AL 35476		  Fayette , AL 35555
-       205-759-7111			  205-333-4500			  205-932-5966
-       MORE  INFORMATION		     MORE  INFORMATION		     MORE   INFORMATION
-       [ @ 100 ]			     [ @ 101 ]			     [ @ 102 ]
-							DCH
+       [ @ 97 ]			       [ @ 981			       [ @ 99 ]
+		  DCHINE
+				  ICCE
+				  DJENEO
+			       BERDINEE APIHALLE DJ
+       DCH Regional Medical Center	   Northport Medical Center	       Fayette Medical Center
+       General			       General				General
+       809 University Blvd. E.	       2700 Hospital Drive		    1653 Temple Ave.
+       Tuscaloosa , AL 35401		 Northport , AL 35476		   Fayette , AL 35555
+       205-759-7111			  205-333-4500			   205-932-5966
+       MORE  INFORMATION		     MORE   INFORMATION		     MORE  INFORMATION
+       [ @ 100 ]			     [ @ 101 ]			      [ @ 102 ]
+							 DCH
 						     DCH IMAGING
-						     SPINE CARE					     FMC Medical Clinic
-													    DCH
-													     E GOLDEN Millport
-														PHARMACY
-													      COLOR
-       Lewis and Faye Manderson Cancer Center SpineCare Center		     FMC  Medical Clinic - Millport
-       General			       General			       General
-       809 University Blvd. E.	       1050 Ruby Tyler Parkway	       13530 Hwy 96
-       Tuscaloosa , AL 35401		 Tuscaloosa , AL 35404		 Millport , AL 35576
-       205-759-7800			  205-759-7246			  205-662-3207
-       MORE  INFORMATION		     MORE  INFORMATION		     MORE   INFORMATION
-       [ @ 103 ]			     [ @ 104 ]			     [ @ 105 ]
-													BERRY MEDICAL
-													  CLINIC
-      West Alabama Urology Associates	FMC Medical Clinic - Fayette	  Berry Medical Clinic
-       General			       General			       General
+						     SPINECARE					       FMC Medical Clinic
+													     DCH
+													     DE GOLDEN Millport
+														 PHARMACY
+													       Coldar
+       Lewis and Faye Manderson Cancer Center SpineCare Center		      FMC Medical Clinic - Millport
+       General			       General				General
+       809 University Blvd. E.	       1050 Ruby Tyler Parkway		13530 Hwy 96
+       Tuscaloosa , AL 35401		 Tuscaloosa , AL 35404		  Millport , AL 35576
+       205-759-7800			  205-759-7246			   205-662-3207
+       MORE  INFORMATION		     MORE   INFORMATION		     MORE  INFORMATION
+       [ @ 103 ]			     [ @ 104 ]			      [ @ 105 ]
+													 BERRY MEDICAL
+													   CLINIC
+														      5
+      West Alabama Urology Associates	FMC  Medical Clinic - Fayette	  Berry Medical Clinic
+       General			       General				General
        DCH Medical Tower 1 , 701 University Blvd. E. , 1653 Temple Ave. N. , Suite 1 32 School Ave.
-       Suite 908			     Fayette , AL 35555		    Berry , AL 35546
-       Tuscaloosa , AL 35401		 205-932-1421			  205-689-0917
+       Suite 908			     Fayette , AL 35555		     Berry , AL 35546
+       Tuscaloosa , AL 35401		 205-932-1421			   205-689-0917
        205-759-7878
-					     MORE  INFORMATION		     MORE   INFORMATION
+					     MORE   INFORMATION		     MORE  INFORMATION
        MORE  INFORMATION
-       [ @ 106 ]			     [ @ 107 ]
-		  DCHE
+       [ @ 106 ]			      [ @ 107 ]
+		  DCHE	    COLL
 							     +
       West Alabama Vascular & Endovascular   West Alabama Surgical Associates
        Surgery
@@ -56,20 +60,20 @@
 					     Tuscaloosa , AL 35406
        701 University Blvd E , Suite 809     205-345-2212
        Tuscaloosa , AL 35401
-       205-750-5752			  MORE  INFORMATION
+       205-750-5752			  MORE   INFORMATION
        MORE  INFORMATION
-				 [ @ 114 ] Community      @ 115 ] Find a Doctor  [ @ 116 ] Services	  [ @ 124 ] f
+				 [ @ 114 ] Community      [ @ 115 ] Find a Doctor [ @ 116 ] Services	  [ @ 124 ] f
 				   olvement
       Health System
-				 [ @ 117 ] News	  [ @ 118 ] The DCH Foundation [ @ 119 ] Careers      [ @ 125 ] X
-      [ 109 ] 809 University Blvd. E. [ @ 120 ] DCH Employee @ 121 ] Education   [ @ 122 ] Events endar     BBB
-      [ 110 ] Tuscaloosa [ 108 ] , Resources								 [ @ 126 ] ►
-		 ] 35401									     [ @ 128 ] Rating : A +
-      [ 111 ] AL [ 112
+				 [ @ 117 ] News	   [ @ 118 ] The DCH Foundation [ @ 119 ] Careers      [ @ 125 ] X
+      [ 109 ] 809 University Blvd. E.		     [ @ 121 ] Educa	 [ @ 122 ] Events endar     ВВВ
+				 [ @ 120 ] DCH Employee
+      [ 110 ] Tuscaloosa [ 108 ] , Resources								  [ @ 126 ] ►
+      [ 111 ] AL [ 112 ] 35401									[ @ 128 ] Rating : A +
 				 [ @ 123 ] Privacy Practices
-      [ @ 113 ] 205-759-7111										 [ @ 127 ] O
-													 [ @ 132 ]
-    [ 129 ] Copyright © 2023 [ @ 130 ] Privacy Policy . [ @ 131 ] Site Map
-													 SCORPION
------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1016
+      [ @ 113 ] 205-759-7111										  [ @ 127 ] O
+													  [ @ 132 ]
+    [ 129 ] Copyright © 2023 [ @ 130 ] Privacy Policy [ @ 131 ] Site Map
+													  SCORPION
+------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1044

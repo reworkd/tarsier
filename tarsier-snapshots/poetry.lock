@@ -1385,7 +1385,7 @@ widechars = ["wcwidth"]
 
 [[package]]
 name = "tarsier"
-version = "0.5.84"
+version = "0.5.85"
 description = "Vision utilities for web interaction agents"
 optional = false
 python-versions = "^3.11"

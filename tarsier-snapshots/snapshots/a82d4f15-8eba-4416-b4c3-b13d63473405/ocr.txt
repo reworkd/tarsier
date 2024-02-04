@@ -1,13 +1,13 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 2 ]
-									[ @ 3 ] Home	[ @ 4 ] About Us       [ @ 5 ] Media	[ @ 6 ] Library     [ @ 7 ] Contact
+									[ @ 3 ] Home	[ @ 4 ] About Us       [ @ 5 ] Media       [ @ 6 ] Library      [ @ 7 ] Contact
 	       [ @ 0 ] Home / [ @ 1 ] Library
 	    [ 8 ] CATEGORY					   [ @ 89 ]
-	     [ @ 9 ]				   [ 101 ]
-	    Advertisements			     ( 36 )       Main Repository Page
-	     [ @ 11 ]				  [ 12 ]											 [ # 90 ]
+	     [ @ 9 ]				   [ 10 ]
+	    Advertisements			     ( 36 )       Main  Repository Page
+	     [ @ 111				   [ 12 ]											 [ # 90 ]
 	    Codes , Standards and Manuals	      ( 14 )	[ 91  ] NERC	  Decisions	     and      Rulings
-																			  Search for files
+																			  Search for files       a
 	     [ @ 13 ]				  [ 14 ]
 	    Consultation Papers			( 14 )	[ 92 ] Section 45 of the EPSR Act 2005 empowers the Commission to conduct proceedings , consultations and hearings
 								    at its headquarters or any other place in Nigeria following which the Commission issues final command , direction or
@@ -18,38 +18,39 @@
 	     [ @ 17 ]				  [ 18 ]       properly recorded in writing and are accessible to the public .
 	    Consumer   Forum			   ( 0 )
 	     [ @ 19 ]				  [ 20 ]	[ 93 ] Files
-	    Consumer   Protection		      ( 0 )	 [ 99 ] Order By : [ @ 100 ] D [ 94 ] [ @ 101 ] File Title [ 95 ] [ @ 102 ] Downloads [ 96 ] | Submit Date |
-	     [ @ 21 ]				  [ 22 ]	[ @ 103 ] Submitter [ 97 ] [ @ 104 ] Author [ 98 ] [ @ 105 ] Rating
-	    Dispute Resolution Panel		   ( 0 )	FON
+	    Consumer   Protection		      ( 0 )	 [ 99 ] Order By : [ @ 100 ] D [ 94 ] [ @ 101 ] File Title [ [ 95 ] [ @ 102 ] Downloads [ 96 ] | Submit Date |
+	     [ @ 21 ]				  [ 22 ]	[ @ 103 ] Submitter [ [ 97 ] [ @ 104 ] Author [ 98 ] [ @ 105 ] Rating
+	    Dispute Resolution Panel		   ( 0 )	PDF
 									   [ @ 106 ] NERC  Ruling  on  TCN's  Appilcation  for Review  of Supplementary
 	     [ @ 23 ]				  [ 24 ]	      TEM  Order
-	    Draft Documents			    ( 42 )	    [ 107 ] Uploaded [ 108 ] 21 Nov 2019
+									 [ 107 ] Uploaded [ 108 ] 21 Nov 2019
+	    Draft Documents			    ( 42 )
 										     On :
-	     [ @ 25 ]				  [ 26 ]       FAN
+	     [ @ 25 ]				  [ 26 ]       PRE
 									   [ @ 109 ] NERC   Decision  on the Case   Between   A & P Food  and  Exusia
 	    Factsheet				  ( 3 )
-	     [ @ 27 ]				  [ 28 ]	    [ 110 ] Uploaded [ 111 ] 21 Dec 2015
+									 [ 110 ] Uploaded [ 111 ] 21 Dec 2015
+	     [ @ 27 ]				  [ 28 ]
 										     On :
 	    FOI - Your Right to Information	    ( 13 )
-								    मिळते  [ @ 112 ] Abuja Electricity Distribution Company_Electrocution      Decision
+									   [ @ 112 ] Abuja Electricity Distribution Company_Electrocution      Decision
 	     [ @ 29 ]				  [ 30 ]
 	    Forum  Office			      ( 0 )	     [ 113 ] Uploaded [ 114 ] 10 Sep 2013
 										     On :
 	     [ @ 31 ]				  [ 32 ]
-	    Generator Application Documents	    ( 0 )	       [ @ 115 ] Petadis Enterprises  & HFP   Properties  Ltd_Decision
+	    Generator Application Documents	    ( 0 )	4      [ @ 115 ] Petadis Enterprises  & HFP   Properties  Ltd_Decision
 	     [ @ 33 ]				  [ 34 ]	    [ 116 ] Uploaded [ 117 ] 10 Sep 2013
 	    Hearings				   ( 6 )			 On :
-	     [ @ 35 ]				  [ 36 ]       FOT    [ @ 118 ] Ruling on NICON   Town   Management     Company    PLC
+	     [ @ 35 ]				  [ 36 ]       PDF    [ @ 118 ] Ruling on NICON   Town   Management     Company    PLC
 	    Industry Reports			   ( 9 )
 									 [ 119 ] Uploaded [ 120 ] 10 Sep 2013
 	     [ @ 37 ]				  [ 38 ]			On :
-	    Industry Statistics			( 4 )	Fo      @ 121 ] Ruling  On  Crown   Estate Petition
-									   [
+	    Industry Statistics			( 4 )	ਕਰਕੇ   [ @ 121 ] Ruling On  Crown  Estate  Petition
 	     [ @ 39 ]				  [ 40 ]
-	    Interim Market Rules		       ( 2 )	     [ 122 ] Uploaded [ 123 ] 10 Sep 2013
-										     On :
-	     [ @ 41 ]					       PRE
-						       [ 42 ]	      [ @ 124 ] LASG  vs PHCN    NERC   Ruling  on Respondents     Objection  to its
+									 [ 122 ] Uploaded [ 123 ] 10 Sep 2013
+	    Interim Market Rules		       ( 2 )			 On :
+	     [ @ 41 ]						BIDE
+						       [ 42 ]       1      [ @ 124 ] LASG  vs PHCN    NERC   Ruling  on Respondents     Objection  to its
 	    Licensees ' Performance Improvement			    Jurisdiction.pdf
 						       ( 3 )
 	    Plans							[ 125 ] Uploaded [ 126 ] 09 Sep 2013
@@ -69,7 +70,7 @@
 	     [ @ 55 ]				  [ 56 ]
 	    MYTO   2022				( 10 )
 	     [ @ 57 ]				  [ 58 ]
-	    NERC   Decisions and Rulings	       ( 7 )
+	    NERC   Decisions and Rulings
 	     [ @ 59 ]
 	    NERC   Forms			       ( 7 )
 	     [ @ 61 ]				  [ 62 ]
@@ -94,7 +95,7 @@
 	    Revised MYTO   2020			( 11 )
 	     [ @ 81 ]				  [ 82 ]
 	    Tariff , Charges & Market Rules	    ( 19 )
-	    [ @ 83 ]				   [ 84 ]
+	     [ @ 83 ]				  [ 84 ]
 	    Terms  of Reference			( 5 )
 	      @ 851				    [ 86 ]
 	    Weekly Energy  Watch		       ( 56 )
@@ -112,4 +113,4 @@
 												  [ @ 148 ] FAQs
 																		      [ @ 327 ]	[ @ 328  ]
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1818
+Token count: 1820

@@ -1,215 +1,218 @@
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Vercel	 Features      [ @ 8 ] Docs [ @ 9 ] Templates [ @ 10 ] Integrations [ @ 11 ] Customers [ @ 12 ] Enterprise [ @ 13 ] Pricing [ @ 14 ] Contact [ @ 15 ] Log In [ 17 ] Sign Up
-     [ @ 18 ] Back to Careers
-						[ 19    ]  Technical		   Consultant
-				      [ 20 ] Solution Engineering   [ 21 ] Remote [ 22 ] , ( [ 24 ] United States , [ 23 ] ) [ 25 ] Full Time
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Vercel	 Features ✓    [ @ 8 ] Docs  [ @ 9 ] Templates [ @ 10 ] Integrations [ @ 11 ] Customers [ @ 12 ] Enterprise [ @ 13 ] Pricing [ @ 14 ] Contact [ @ 15 ] Log In [ 17 ] Sign Up
+     [ @ 18 ] ] Back to Careers
+						 [ 19    ]  Technical		   Consultant
+				  Ō   [ 20 ] Solution Engineering    [ 21 ] Remote [ 22 ] , ( [ 24 ] United States , [ 23 ] ) [ 25 ] Full Time
 									     [ @ 26 ] Apply
-														   [ @ 72 ] Apply
-			       [ 27 ] About   Vercel  :
-			       [ 28 ] At Vercel , our mission is to enable developers to create at the moment of [ 73 ] Perks
+														    [ @ 72 ] Apply
+			       [ 27 ] About    Vercel  :
+			       [ 28 ] At Vercel , our mission is to enable developers to create at the moment of 73 ] Perks
+													    [
 			       inspiration . We are the platform for frontend developers , creating tools millions of
-			       developers use every day . By unlocking developer potential through the use of       Generous Gear
-								 , Svelte , and Turborepo , we enable	  [ 74 ]
-			      open - source tools such as Next.js , React					   Credit
-			      developers to go from idea to global application in seconds .
-													       [ 75 ] Unlimited PTO
-			       [ 29 ] As a globally distributed company , we take pride in our ability to work [ 76 ] Stock Options
+			       developers use every day . By unlocking developer potential through the use of	 Generous Gear
+														 [ 74 ]
+			       open - source tools such as Next.js , React , Svelte , and Turborepo , we enable      Credit
+			       developers to go from idea to global application in seconds .
+														 [ 75 ] Unlimited PTO
+			       [ 29 ] As a globally distributed company , we take pride in our ability to work   [ 76 ] Stock Options
 			       across time zones and continents , fostering collaboration and innovation . Our
-			       offices in San Francisco and New York City serve as hubs for our teams to come  [ 77 ] Work Remotely
-			      together and develop the tools that empower our users . By joining Vercel , you'll
+			       offices in San Francisco and New York City serve as hubs for our teams to come   [ 77 ] Work Remotely
+			       together and develop the tools that empower our users . By joining Vercel , you'll
 			       be part of a team that is deeply committed to open - source technologies and
 			       dedicated to shaping the future of web development .
-			       [ 30 ] About	Role   :
+			       [ 30 ] About    the  Role  :
 			       [ 31 ] Vercel is looking for a Technical Consultant to assist our Enterprise
-			      customers with technical problems and questions when using Vercel products
+			       customers with technical problems and questions when using Vercel products
 			       and services . Reporting to the Manager of Technical Consulting , the Technical
 			       Consultant will be responsible for informing and training clients in the product's
 			       proper use to enhance the customer experience and improve satisfaction .
-			       [ 32 ] Technical Consultants need to ear our customers ' trust and understand
-			      technical problems quickly . You will play a major part in the post - sales process
+			       [ 32 ] Technical Consultants need to eam our customers ' trust and understand
+			       technical problems quickly . You will play a major part in the post - sales process
 			       and Enterprise customer journey . Expertise in the technical elements of the
 			       product and clarity of instruction are important competencies in this position .
-			      Success in this role will be demonstrated through improvements in the retention
-			      of Enterprise customers by delivering key technical insights and evaluations to
-			      ensure success both at launch and scale .
+			       Success in this role will be demonstrated through improvements in the retention
+			       of Enterprise customers by delivering key technical insights and evaluations to
+			       ensure success both at launch and scale .
 			       [ 33 ] You have a background in frontend development , enjoy technical writing ,
 			       and have a passion for digging deep to find and resolve issues . You are excited
 			       about the opportunity to involve yourself with the technical evolution of both global
 			       brands and new start - ups .
 			       [ 34 ] The Technical Consultant will help establish our reputation as a company
-			      that is exceptional at helping its customers meet their goals throughout all parts of
-			      the customer journey while engineering solutions to constantly improve the
+			       that is exceptional at helping its customers meet their goals throughout all parts of
+			       the customer journey while engineering solutions to constantly improve the
 			       customer experience .
-			       [ 35 ] What   You   Will  Do :
-			       . [ 36 ] Ensure that Enterprise customers are receiving and understanding the
+			       [ [ 35 ] What You   Will  Do  :
+				  [ 36 ] Ensure that Enterprise customers are receiving and understanding the
 				 value of the platform .
-			       • [ 37 ] Provide product expertise and strategic consultation during the
+			       . [ 37 ] Provide product expertise and strategic consultation during the
 				 Enterprise customer journey .
-			       • [ 38 ] Provide training sessions to Enterprise customers .
-			       • [ 39 ] Attend onboarding and pre - production calls as a technical authority .
-			       • [ 40 ] Know the Vercel platform and Next.js framework inside and out , learning
+				  [ 38 ] Provide training sessions to Enterprise customers .
+				  [ 39 ] Attend onboarding and pre - production calls as a technical authority .
+				  [ 40 ] Know the Vercel platform and Next.js framework inside and out , learning
 				 daily .
 				 [ 41 ] Work with other members of CS to provide assistance both internally
 				 and externally .
-			       • [ 42 ] Develop close partnerships with the CSM team to understand
+				  [ 42 ] Develop close partnerships with the CSM team to understand
 				 customers ' goals .
-				 [ 43 ] Work with external engineering and infrastructure teams to convey
+			       • [ 43 ] Work with external engineering and infrastructure teams to convey
 				 product gaps and needs .
-				 [ 44 ] Ensure customers have immediate concerns resolved but with a long
+			       •  [ 44 ] Ensure customers have immediate concerns resolved but with a long
 				 term outlook .
-			       • [ 45 ] Specialize in a few product areas and own that within the team .
-			       • [ 46 ] Improving existing , and identifying new , internal documentation ,
+			       . [ 45 ] Specialize in a few product areas and own that within the team .
+				  [ 46 ] Improving existing , and identifying new , internal documentation ,
 				 processes and policies .
-				 [ 47 ] Assist and coordinate with Customer Success Managers with Enterprise
+				  [ 47 ] Assist and coordinate with Customer Success Managers with Enterprise
 				 requests .
-			       [ 48 ] About   You  :
-			       • [ 49 ] You lead by example and develop more junior members of the team .
-			       • [ [ 50 ] You understand modern web architecture , frontend development , and
+			       [ 48 ] About    You  :
+				  [ 49 ] You lead by example and develop more junior members of the team .
+				 [ 50 ] You understand modern web architecture , frontend development , and
 				 serverless computing .
-				 [ 51 ] You are experienced with incident management and procedure .
+				  [ 51 ] You are experienced with incident management and procedure .
 				 [ 52 ] You are comfortable working with a fully remote , globally distributed
 				 team .
-				 [ 53 ] You have a passion to deliver a customer experience second to none .
-			       . [ 54 ] Availability to work within a weekend and on - call rotation .
-			       • [ 55 ] 3+ years experience in a customer success , sales , or
+			       •  [ 53 ] You have a passion to deliver a customer experience second to none .
+				  [ 54 ] Availability to work within a weekend and on - call rotation .
+				  [ 55 ] 3+ years experience in a customer success , sales , or
 				 onboarding / implementation role at a SaaS company .
-			       • [ 56 ] 5+ years experience with front - end web development using React in a
+				  [ 56 ] 5+ years experience with front - end web development using React in a
 				 production setting .
-			       [ 57 ] Bonus    if You :
-			       • [ 58 ] Have experience using Next.js.
-				 [ 59 ] Have experience supporting backend runtime environments , especially
+			       [ 57 ] Bonus    if You  :
+				  [ 58 ] Have experience using Next.js.
+				  [ 59 ] Have experience supporting backend runtime environments , especially
 				 Node.js.
-			       • [ 60 ] Have experience with CDNs and a good understanding of caching
+				 [ 60 ] Have experience with CDNs and a good understanding of caching
 				 techniques .
-			       • [ 61 ] Work with monorepos and / or custom , complex CI / CD pipelines .
-			       • [ 62 ] Thoroughly understand DNS and can explain this clearly to others .
+			       •  [ 61 ] Work with monorepos and / or custom , complex CI / CD pipelines .
+				 [ 62 ] Thoroughly understand DNS and can explain this clearly to others .
 			       [ 63 ] Benefits
-			       • [ 64 ] Stock options
-			       • [ 65 ] Inclusive Healthcare Package
-				 [ 66 ] Flexible working style - 100 % remote , with teammates located
+				  [ 64 ] Stock options
+				  [ 65 ] Inclusive Healthcare Package
+				  [ 66 ] Flexible working style - 100 % remote , with teammates located
 				 throughout the globe
-				 [ 67 ] Learn and Grow - we provide mentorship and send you to events that
+				  [ 67 ] Learn and Grow - we provide mentorship and send you to events that
 				 help you build your network and skills
-			       • [ 68 ] Unlimited PTO - 4 weeks recommended per year . Take time when you
+			       •  [ 68 ] Unlimited PTO - 4 weeks recommended per year . Take time when you
 				 need it .
 			       • [ 69 ] We will provide you the gear you need to do your role , and a WFH
 				 budget for you to outfit your space as needed
 			       [ 70 ] The San Francisco , CA OTE pay range for this role is $ 135,000 - $ 186,000 .
 			       This salary range is an estimate . Actual salary will be based on job related skills ,
-			      experience and location . Pay ranges outside San Francisco may be adjusted
-			      based on employee location . The total compensation package also includes
+			       experience and location . Pay ranges outside San Francisco may be adjusted
+			       based on employee location . The total compensation package also includes
 			       benefits and equity - based compensation . Your recruiter can share more about
-			      the specific pay range for your location during the hiring process .
+			       the specific pay range for your location during the hiring process .
 			       [ 71 ] Vercel is committed to fostering and empowering an inclusive community
-			      within our organization . We do not discriminate on the basis of race , religion ,
+			       within our organization . We do not discriminate on the basis of race , religion ,
 			       color , gender expression or identity , sexual orientation , national origin , citizenship ,
 			       age , marital status , veteran status , disability status , or any other characteristic
 			       protected by law . Vercel encourages everyone to apply for our available positions ,
-			      even if they don't necessarily check every box on the job description .
-				  [ 78 ] Apply Now
+			       even if they don't necessarily check every box on the job description .
+				  [ 78 ] Apply  Now
 				  [ 79 ] Tell us why you'd be good fit for the Technical Consultant role .
-				  [ # 80 ] First Name			      [ [ # 81 ] Last Name
-				  [ # 82 ] janedoe@email.com		       [ # 83 ] +0 123 456 7890
-				   [ $ 84 ] 1 , Add Resume
+				  [ # 80 ] First Name				[ # 81 ] ] Last Name
+				  [ # 82 ] janedoe@email.com			 [ # 83 ] +0 123 456 7890
+				    [ $ 84 ] Add Resume
 				  [ 85 ] Resume should be a PDF under 3.5MB .
 				  [ # 86 ] Full Address ( including country )
 				  [ 87 ] Are you currently based in any of these countries :
-				     [ $ 89 ] States      [ $ 91 ]	 [ $ 93 ]	       [ $ 95 ]	[ $ 97 ]
-						    Germany    United Kingdom   Australia  Other
-				  [ 98 ] What timezone are located in ?
-				  O  [ $ 100 ] CST [ $ 102 ] PST  [ $ 104 ]      [ $ 106 ]     [ $ 108 ]
+				     [ [ $ 89 ] ]	 [ $ 91 ]	  [ $ 93 ]	       [ $ 95 ]	 [ $ 97 ]
+				  O	States   Germal      United Kingdom   Australia   Other
+				  [ 98 ] What timezone are you located in ?
+				     [ $ 100 ] CST  [ $ 102 ] PST [ [ $ 104 ]     [ $ 106 ]     [ $ 108 ]
 				  [ 109 ] Will you require Visa Sponsorship now , or in the future ?
-				  OY  [ $ 111 ] 0   [ $ 113 ]
-				  [ # 114 ] Desired Salary			 [ # 115 ] Potential Start Date
+				     Y [ $ 111 ] 0  [ $ 113 ]
+				  [ # 114 ] Desired Salary			  [ # 115 ] Potential Start Date
 				  [ 116 ] Do you have experience coding / programming ?
-				      [ $ 118 ] 10  [ $ 120 ]
+				      [ $ 118 ] 0   [ $ 120 ]
 				  [ 121 ] Do you have experience with Next.js or React ?
-				     Yes   No
-				      [ $ 123 ]     [ $ 125 ]
+				     Yes    No
+				       [ $ 123 ]     [ $ 125 ]
 				  [ 126 ] Where did you hear about us ?
-				  O  Facebook →  Twitter  LinkedIn   AfroTech    Render ATL   Latinas in Tech Hired Tech Ladies
-				    W [ $ 128 ]  Tech    [ $ 130 ]       [ $ 132 ]	 [ $ 134 ]	 [ $ 136 ]
-				  OwShpact
-				      [ $ 138 ]	      [ $ 140 ]		[ $ 14			144 ]
+				  O  Facebook    Twitter   LinkedIn   Afro Tech   Render ATL   Latinas in Tech  Hired Tech Ladies
+				      [ $ 128 ]	   [ $ 130 ]       [ $ 132 ]	 [ $ 134 ]	 [ $ 136 ]
+				  Owemempact      Techner
+				       [ $ 138 ]	      [ $ 140 ]		[ $ 142 ]		   [ $ 144 ]
 				  [ 145 ] By submitting my application , I acknowledge that I have read and understand Vercel's [ @ 146 ] Job Applicant
 				  Privacy Notice
-				  O Acknowledge / Confirm
-				  [ 149 [ $ 148 ] ould you describe your gender identity ? ( mark all that apply )
+				  O  Acknowledge / Confirm
+				  [ 149 [ $ 148 ] buld you describe your gender identity ? ( mark all that apply )
 				     Man
-				    No [ $ 151 ]
+				       $ 151 ]
 				     Woman
-				      [ $ 153 ]
+				       [ $ 153 ]
 				     I prefer to self - describe
-				 ON   [ $ 155 ] h to answer
-				      [ $ 157 ]			   background ? ( mark all that apply )
-				  [ 160 ] How would you describe your racial / ethnic
+				     Teemuh [ $ 155 ] to answer
+				       [ $ 157 ]
+				  [ 160 ] ow would you describe your racial / ethnic background ? ( mark all that apply )
+				      [ $ 159 ]
 				     Black or of African descent
-				     East Asian
-				       $ 1621 Latinx or of Spanish Origin
+				  [ ] East Asian
+				  O   [ $ 162 ] Latinx or of Spanish Origin
 				     Indigenous , American Indian or Alaska Native
-				      [ $ 164 ]
+				       [ $ 164 ]
 				     Middle Eastern or North African
-				     Nwaiian [ $ 166 ] or Pacific Islander
-				 O    [ $ 168 ] an
-				      [ $ 170 ] Asian
-				    W  $ 1721 uropean
-				      [
+				       [ $ 166 ]     Pacific Islander
+					  Mwaiian  or
+				     S [ $ 168 ] an
+				       [ $ 170 ] Asian
+				       [ $ 1721 uropean
 				     I prefer to self - describe
-				      [ $ 174 ]
+				       [ $ 174 ]
 				     I don't wish to answer
-				      [ $ 176 ]
+				       [ $ 176 ]
 				  [ 1831 How would you describe your sexual orientation ? ( mark all that apply )
 				      [ $ 178 ]
-				    Asexual
+				     Asexual
 				      [ $ 180 ]
 				     Bisexuar and / or pansexual
-				     c [ $ 182 ]
-				     Heterosexual
+				       [ $ 182 ]
+				  [ ] Heterosexual
 				     Lesbian
-				      [ $ 185 ]
-				  [ ] Q યના
-				      [ $ 187 ] self - describe
-				      [ $ 189 ] h to answer
-				  [ 200 [ $ 191 ] identify as transgender ?
-				     Y [ $ 193 ]
-				      [ $ 195 ]
-				      [ $ 197 ] Self - describe
+				       [ $ 185 ]
+				     Queer
+				  DI   [ $ 187 ] self - describe
+				       [ $ 189 ] h to answer
+				  [ 2001 [ $ $ 191 ] identify as transgender ?
+				  oooo
+				       [ $ 193 ]
+				       [ $ 195 ]
+				       [ $ 197 ] self - describe
 				     I don't wish to answer
 				      [ $ 199 ]
 				  [ 209 ] Do you have a disability or chronic condition ( physical , visual , auditory , cognitive , mental , emotional , or other ) that
 				  substantially limits one or more of your major life activities , including mobility , communication ( seeing , hearing , speaking ) ,
-				  and  $ 202 ]
+				  and [ $ 202 ]
 				      [ $ 204 ]
 				      [ $ 206 ]
 				     I prefer to self - describe
-				     I Gone [ $ 208 wish ] to answer
+				      [ $ 208 ]
+				     I Got wish to answer
 				  [ [ 218 ] Are you a veteran or active member of the United States Armed Forces ?
 				     Yes , I am a veteran or active member
-				  O  No Lam not a veteran or active member
-				      [ [ $ 211 ]
+				  O  No. [ $ Lem 211 not a veteran or active member
+					    ]
 				      prefer to self - describe
-				      [ $ 213 ] to answer
-				      Gone wish
+				      Common [ $ 213 ] to answer
 				      [ $ 215 ]
 				  [ 227 [ $ 217 ] ally , include links to your social media profiles .
-				  [ # 228 ] handle				 [ # 230 ] handle
-				      [ $ 220 ]
-				  [ # 23 [ $ 222 ] dle			     [ # 234 ] portfolio.com
+				  [ # 2281 handle				    [ # 230 ] handle
+				      [ [ $ 220 ]
+				  [ # 23 [ $ 222 ] dle			      [ # 234 ] portfolio.com
 				      [ $ 224 ]
 				      [ $ 226 ]
-														      [ $ 236 ] Apply
-			       [ $ 244 ]			     [ $ 2551			       [ $ 265 ]					      ]
-   [ @ 237 ]   [ 238 ] [ 239 ] 2023															   [ $ 279
-			       Product			       Resources			      Company
+															[ $ 236 ] Apply
+			       [ [ $ 244 ]			    [ $ 255 ]			       [ $ 265 ]					   279 ]
+   [ @ 237 ]   [ 238 ] [ 239 ] 2023															     [ $
+			       Product				Resources			      Company
    [ @ 240 ]
-  ●  [ 241 ] All systems normal . [ @ 245 ] Previews [ @ 246 ] Next.js [ @ 256 ] Docs  [ @ 257 ] Experts    [ @ 266 ] About   [ @ 267 ] Blog
-			       [ @ 247 ] Infrastructure [ [ @ 248 ] VO [ @ 258 ] Pricing [ @ 259 ] Guides   [ @ 268 ] Careers [ @ 269 ] Contact Us
-			       [ @ 249 ] Edge    [ @ 2501 Turbo       [ @ 260 ] Customers [ @ 261 ] Help    [ @ 270 ] Next.js [ @ 271 ] Open
-			       Functions									   Conf       Source
-								     [ @ 262 ] Integrations [ 263 ] K
-			       [ @ 251 ] Analytics [ @ 252 ] Enterprise				     [ @ 272 ] Partners [ @ 273 ] Security
+     [ 241 ] All systems normal . [ @ 245 ] Previews [ @ 246 ] Next.js [ @ 256 ] Docs   [ @ 257 ] Experts     [ @ 266 ] About   [ @ 267 ] Blog
+			       [ @ 247 ] Infrastructure [ @ 248 ] VO  [ @ 258 ] Pricing [ @ 259 ] Guides      [ @ 268 ] Careers . [ @ 269 ] Contact Us
+			       [ @ 249 ] Edge     [ @ 250 ] Turbo     [ @ 260 ] Customers [ @ 261 ] Help      [ @ 270 ] Next.js [ @ 271 ] Open
+			       Functions									     Conf      Source
+								      [ @ 262 ] Integrations [ 263 ] K
+			       [ @ 251 ] Analytics [ @ 252 ] Enterprise				       [ @ 272 ] Partners [ @ 273 ] Security
 								      [ @ 264 ] Templates
-	 ]	   ] X       [ @ 253 ] Changelog [ @ 254 ] CLI & API				      [ @ 274 ] Privacy [ 276 ] Legal ✔
-   ( @ 242     [ @ 243										      Policy
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2939
+	 ]	    ] X      [ @ 253 ] Changelog [ @ 254 ] CLI & API				       [ @ 274 ] Privacy [ 276 ] Legal ✓
+    [ @ 242     [ @ 243										      Policy
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 2955

@@ -1,16 +1,16 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ [ @ 0 ]					      BROKERS
-			  RAISE						 THE	     DISCOVER	 [ # 6 ]
-		    [ $ 1 ]	 [ $ 2 ] INVESTING  [ $ 3 ] &	[ $ 4 ]	    [ $ 5 ]						     [ @ 7 ] ,
-	 DFM	     CAPITAL    [					EXCHANGE	      DFM
-	 المالي دبي سوق				    MEMBERS						    Search by Symbol or Name	 عربي
-							   [ 12 ]
-						   111			[ 17 ]		 [ 19 ]		   [ 21 ]
-				       [ 10 ]	     ( [ 15 ] -9.03 [ 13 ] ]      [ 18 ]	       [ 20 ]		     [ 22 ]    ]      MARKET
-    [ 8 ] MARKET   [ 9 ] CLOSED					       TOTAL		  TOTAL		    TOTAL	 [ @ 23
-				       DFMGI      3969.17   [ 16 ] -0.227 %	    92,143,984	   229,873,470.88	     5.318	    WATCH
-									      VOLUME		 VALUE		    TRADES
-							   [ 14 ]
+[ @ 0 ]						BROKERS
+			  RAISE						 THE	     DISCOVER	 [ # 6 ]				@ 7 ]
+		    [ $ 1 ]	  $ 2 ] INVESTING   [ $ 3 ] &	 $ 4 ]	     [ $ 5 ]						      [
+	 DFM			[				   [			  DFM	   Q
+	 المالي دبي سوق  CAPITAL			   MEMBERS	   EXCHANGE				 Search by Symbol or Name	  عربي
+							   [ 12 ]	      17 ]
+						  [ 11 ]		      [		      [ 19 ] [ 20 ]	    [ 21 ]   [ 22 ]	   MARKET
+				       [ 10 ]	     ( [ 15 ] -9.03 [ 13 ] TOTAL  [ 18 ]       TOTAL
+    [ 8 ] MARKET   [ 9 ] CLOSED											      TOTAL	  [ @ 23 ]
+				       DFMGI      3969.17   [ 16 ] -0.227 %	    92,143,984	   229,873,470.88	     5,318	   WATCH
+									      VOLUME		VALUE		    TRADES
+							   [ 14 ] )
     [ 24 ]
 	  Market	      Rules
     [ 25 ]
@@ -22,44 +22,45 @@
     [ 27 ]
       Amendments    to market rules and guidance are disseminated through the Market Announcements    .
        [ 28 ] MARKET RULES    [ 29 ] INDEX RULES   [ 30 ] RSS ELIGIBLE SECURITIES LIST
-	   [ @ 31 ]								      [ @ 35 ]
-	    DFM									  O DFM	    38 ] Module  One
-			   [ 33 ] Glossary Rules							 [
-	    [ 32 ] Glossary Rules							Module One      [ 39 ] General  Rules
-											  [ 37 ] General Rules
-			   [ 34 ] DOWNLOAD✓							      [ 401 DOWNLOAD
+	   [ @ 31 ] ]								    [ @ 35 ] ]
+	    DFM									    DFM	    38 ]	 One
+			   [ 33 ] Glossary Rules							 [    Module
+	    [ 32 ] Glossary Rules							 [ 36 37 ] ] Module General One Rules [ 39 ] General Rules
+											  [
+			   [ 34 ] DOWNLOAD  ✓							    [ 40 ] DOWNLOAD  ✓
 	   [ @ 41 ]								      [ @ 47 ]
-	    DFM	    [ 44 ] Module Two					      DFM	    [ 50 ] Module Three
-	   Module Two      [ 45 ] Listing Rules					  Module Three
-	    [ 43 ] Listing Rules							  [ 49 ] Membership , [ 51 ] Membership , Trading , And Derivatives
-											  Trading , And Derivatives
-													 Rules
-			   [ 46 ] DOWNLOAD  ✓
-													 [ 52 ] DOWNLOAD
+	    DFM	    [ 44 ] Module Two					      DFM	     50 ] Module  Three
+													 [
+	    [ 42 ] Module Two [ 45 ] Listing Rules					[ 48 ] Module Three [ 51 ] Membership , Trading , And Derivatives
+	    [ 43 ] Listing Rules							  [ 43 ] Membership .
+											 Trading , And Derivatives
+											 Rules	   Rules
+			   [ 46 ] DOWNLOAD
+													 [ 52 ] DOWNLOAD  ✓
 	   [ @ 53 ]
-	    DFM	    [ 56 ] Module Four
-	   Module Four     [ 57 ] Penalty Rules
+	    DFM	     56 ] Module  Four
+			   [
+	    [ 54 ] Module Four [ 57 ] Penalty Rules
 	    [ 55 ] Penalty Rules
-			   [ 58 ] DOWNLOAD
+			   [ 58 ] DOWNLOAD  ✓
 		[ @ 59 ] VIEW ALL SCA'S RULES AND REGULATIONS
-							    [ 68 ] TELEPHONE		  [ 70 ] EMAIL		       [ 72 ] OFFICE HOURS
-	      DFM					   [ 69 ] +971 4 305 5555	    [ 71 ] customerservice@dfm.ae      [ 73 ] 8:00 AM-4:00PM / Mon - Fri
+							    [ 68 ] TELEPHONE		  [ 70 ] EMAIL		      [ 72 ] OFFICE HOURS
+	      DFM					   [ 69 ] +971 4 305 5555	    [ 71 ] customerservice@dfm.ae     [ 73 ] 8:00 AM-4:00PM / Mon - Fri
 	      المالي دبي سوق
        [ 60 ] Reception - Mezzanine Floor
        [ 61 ] World Trade Centre ( Rashid Tower )
-							    [ 74 ] QUICK ACCESS	     [ 79 ] QUICK LINKS		[ 83 ] RELATED COMPANIES
+							    [ 74 ] QUICK ACCESS	      [ 79 ] QUICK LINKS	      [ 83 ] RELATED COMPANIES
        [ 62 ] Sheikh Zayed Road
-       [ 63 ] P.O. Box : 9700			       [ @ 75 ] Market Watch	    [ @ 80 ] Listed Securities       [ @ 84 ] Nasdaq Dubai
-       [ 64 ] Dubai , United Arab Emirates		  [ @ 76 ] Mobile app	      [ @ 81 ] Foreign Ownership       [ @ 85 ] Borse Dubai Limited
-       [ 65 ] Makani Number : [ 66 ] 27608 91214							   Relations	  @ 86 ] Dubai CSD LLC
-							   [ @ 77 ] eServices		[ @ 82 ] ] Investor	      [
-							   [ @ 78 ] Contact Us						[ @ 87 ] Dubai Clear LLC
+       [ 63 ] P.O. Box : 9700			      [ @ 75 ] Market Watch	     [ @ 80 ] Listed Securities       [ @ 84 ] Nasdaq Dubai
+       [ 64 ] Dubai , United Arab Emirates		  [ @ 76 ] Mobile app	     [ @ 81 ] Foreign Ownership       [ @ 85 ] Borse Dubai Limited
+       [ 65 ] Makani Number : [ 66 ] 27608 91214	    @ 77 ] eServices		 @ 82 ] Investor Relations       [ @ 86 ] Dubai CSD LLC
+							   [				 [
+							   [ @ 78 ] Contact Us					       [ @ 87 ] Dubai Clear LLC
 	  [ @ 67 ] View Location
-										      [ @ 90 ]	[ @ 91 ]	 [ @ 92 ] [ @ 93 ] [ @ 94 ] [ @ 95 ] [ @ 96 ]
+										     [ @ 90 ]	 [ @ 91 ]	 [ @ 92 ] [ @ 93 ] [ @ 94 ] [ @ 95 ] [ @ 96 ]
        [ @ 88 ] Privacy Policy [ @ 89 ] Disclaimer					Download on the GET IT ON
-											  App Store       Google Play  [ 0 ]   in       X
-						  [ 97 ] COPYRIGHT © 2023 DUBAI FINANCIAL MARKET PJSC . ALL RIGHTS RESERVED
-								[ @ 98 ]
-									    SUGGESTIONS / COMPLAINTS
+											  App Store       Google Play	  in      X
+						 [ 97 ] COPYRIGHT © 2023 DUBAI FINANCIAL MARKET PJSC . ALL RIGHTS RESERVED
+								[ @ 98 ]    SUGGESTIONS / COMPLAINTS
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1090
+Token count: 1108

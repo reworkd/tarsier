@@ -1,23 +1,24 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-@ 31									    [ $ 6 ]
-   [ $ 0 ] =																	    Q
+[ @ 3 ]									  [ $ 6 ]
+   [ $ 0 ] =																	    a
 			    [ @ 1 ] FIND A PROVIDER							     [ @ 4 ] LOCATIONS
       MENU							   UL	Health							       FIND  HELP
-																		       NOW
-	  [ @ 7 ]		       [ 9 ]
+	  [ @ 7 ]		       [ 9 ]													  NOW
 				 [ @ 2 ] SERVICES						       [ @ 5 ] PATIENTS  AND   VISITORS
 									  UL  Health
 								       Outpatient Care Center
 	[ 10 ]
 	  GI     Motility	   Clinic
 	[ 11 ]
-	  Location       Information
-						 [ 12 ] GI   Motility     Clinic			    [ 21 ] Schedule       An
-						 [ 13 ] UofL Health - Jewish  Hospital Outpatient Care     Appointment
+	  Location       Information															   Sched
+																		   [ @ 148 ]   [ 149 ]
+						 [ 12 ] GI   Motility      Clinic			   [ 21 ] Schedule	An
+						 [ 13 ] UofL Health - Jewish  Hospital Outpatient Care      Appointment
 				    BUTCHERTO    Center
 		    DOWN       EAST MARKET								      @  22 ] APPOINTMENTS
-				  DISTRICT       [ 14 ] 225 Abraham  Flexner  Way , Suite 502		   [
-	       Louisvil	 PHOENIX HILL     [ 15 ] Louisville , [ 16 ] KY [ 17 ] 40202
+				  DISTRICT       [ 14 ] 225 Abraham   Flexner Way , Suite 502		   [
+	       Louisvil	 PHOENIX HILL
+						 [ 15 ] Louisville , [ 16 ] KY [ 17 ] 40202
 		 W Broadway		       18 ] Fax : 502-540-1414
 						 [
 						     [ @ 19 ] 502-588-7690
@@ -26,7 +27,7 @@
 						     [ @ 20 ] Get Directions
 	[ 25 ]
 	  Services       Offered
-	  [ @ 26 ] Colorectal Screening [ 23 ] [ @ 27 ] Gastroenterology . [ 24 ] [ @ 28 ] Digestive And Liver Health
+	  [ @ 26 ] Colorectal Screening [ 23 ] | [ @ 27 ] Gastroenterology [ 24 ] [ @ 28 ] Digestive And Liver Health
 	[ 29 ]
 	  Overview
 	  [ 30 ] Welcome to the University of Louisville GI Motility Clinic .
@@ -36,7 +37,7 @@
 	  gastroenterology  health .
 	[ 33 ]
 	  We  see  patients in our clinic at 225 Abraham Flexner , Suite 502 , in Louisville and virtually via MyChart or similar technology . To become a
-	  patient , we need as many  records from  other providers as possible so we  can review your medical  history .
+	  patient , we need as many  records from  other providers as possible so we  can review your  medical history .
 	  [ 34 ] We see patients for at least the 5 general types of problems :
 	    1. [ 35 ] Swallowing and esophageal  problems
 	   2. [ 36 ] Gastroparesis and related stomach  problems
@@ -45,11 +46,11 @@
 	   5. [ 39 ] Nutritional support and IV infusions
 	  [ 40 ] We want you to get the most out of your time in our office and interacting with staff
 	  [ 41 ] In this packet you will find [ 42 ] :
-	    . [ 43 ] Provider information
-	    • [ 44 ] Staff names and contact details
-	    • [ 45 ] General office information
-	    • [ 46 ] What to expect during initial and future appointments
-	    • [ 47 ] Information about your diagnosis
+	      [ [ 43 ] Provider information
+	      [ 44 ] Staff names and contact details
+	    ● [ 45 ] General office information
+	    ● [ 46 ] What to expect during initial and future appointments
+	    ● [ 47 ] Information about your diagnosis
 	  [ 48 ] General Information
 	      [ 49 ] MyChart ( [ 50 ] is a tool we use within the organization to communicate and connect with patients . If you are not currently signed up
 	      it is [ 51 ] strongly [ 52 ] encouraged that you do . Access to MyChart allows more opportunity to connect with the office or providers
@@ -59,8 +60,8 @@
 	      sometimes   include follow - up lab work or testing . All information regarding follow up care will be given and discussed with you before you
 	      leave .
 	    • [ 54 ] FMLA Disability paperwork will not be filled out until you have received care in our office for 3 months .
-	    • [ 55 ] Follow up visits are typically with the NP or PA .
-	    • [ 56 ] If you are experiencing any issues or have any questions regarding  your care , please reach out to the office .
+	      [ 55 ] Follow up visits are typically with the NP or PA .
+	      [ 56 ] If you are experiencing any issues or have any questions regarding  your care , please reach out to the office .
 	  [ 57 ] Office Providers
 	  [ 58 ] Dr. Thomas Abell
 	  [ 59 ] Dr. Abigail Stocker
@@ -68,14 +69,14 @@
 	  [ 61 ] Carmelita Moppins NP
 	  [ 62 ] Lindsay McElmurray  PA
 	  [ 63 ] Office staff and Contacts [ [ 64 ] :
-	  [ [ 65 ] Christina [ [ 66 ] ] [ @ 67 ] 502-588-8507
+	  [ 65 ] Christina [ 66 ] - [ @ 67 ] 502-588-8507
 	      [ 68 ] Dr. Abell
-	      [ 69 ] Permanent Stimulator scheduling / authorizations
+	    •  [ 69 ] Permanent Stimulator scheduling / authorizations
 	  [ 70 ] Derrika [ 71 ] - [ @ 72 ] 502-588-7696
-	      [ 73 ] Dr. Rogers and Carmelita
+	    . [ 73 ] Dr. Rogers and Carmelita
 	  [ 74 ] Jasmine [ 75 ] - [ @ 76 ] 502-588-0420
-	    • [ 77 ] Dr. Stocker and Lindsay
-	  [ 78 ] Nurse Line for general questions   , concerns , or problems
+	      [ 77 ] Dr. Stocker and Lindsay
+	  [ 78 ] Nurse Line for general questions  , concerns  , or problems
 	  [ 79 ] Cheryl [ 80 ] - [ @ 81 ] 502-588-8504
 	  [ 82 ] Medical Scheduler
 	  [ 83 ] Danessa [ 84 ] - [ @ 85 ] 502-588-7656
@@ -85,37 +86,39 @@
 	  [ 91 ] Nicole - [ @ 92 ] 502-588-7690
 	  [ 93 ] BaNae - [ @ 94 ] 502-588-7690
 	  [ 95 ] Practice Manager
-	  [ 96 ] Ashley Beams  [ 97 ] [ @ 98 ] 502-588-7693
+	  [ 96 ] Ashley Beams  [ 97 ] - [ @ 98 ] 502-588-7693
 	  [ 99 ] Research Department
 	  [ @ 100 ] 502-540-1400
 	  [ 101 ] Research  Nurse
 	  Bridget Cannon   - [ @ 103 ] 502-540-1428
 	[ 104 ]
-	  GI   Motility      Clinic      Providers
-	     [ @ 105 ]			    [ @ 111 ]			   [ @ 121 ]			   [ @ 127 ]
+	  GI   Motility       Clinic     Providers
+	      [ @ 105 ]			   [ @ 111 ]			   [ @ 121 ]			   [ @ 127 ]
 		       UL
 		    Health
-	      [ 106  ]  Carmelita		  [ 112 ]   Benjamin		    [ 122  ]  Abigail		   [ 128  ]  Lindsay
+	      [ 106  ]  Carmelita		  [ 112  ] Benjamin		     [ 122  ]  Abigail		   [ 128  ]  Lindsay
 	      Moppins	, APRN		  Rogers      , M.D.		  Stocker      , M.D.		  McElmurray	  ,
 	      [ 107 ] Digestive and Liver	  [ 113 ] Gastroenterology ,	  [ 123 ] Digestive and Liver		  PA   - C
-		       Health ,		    [ 114 ] Reflux , Swallowing		  Health ,		   [ 129 ] Digestive and Liver
+		       Health ,		    [ 114 ] Reflux , Swallowing		  Health ,		    129 ]	   and Liver
+															   [      Digestive
 	       [ 108 ] Gastroenterology	      and  Hernia Center ,	       [ 124 ] Gastroenterology		    Health ,
 						   [ 115 ] Digestive and Liver					      [ 130 ] Gastroenterology
 	       [ 109 ] Areas of Interest						[ 125 ] Areas of Interest
-							   Health ,
-		[ 110 ] Gastroenterology I					    [ 126 ] Gastrointestinal Motility     [ 131 ] Areas of Interest
-							 [ 116 ] Reflux ,		      Disorders I
-		 Gastrointestinal Motility
+							    Health ,
+		[ 110 ] Gastroenterology I					    [ 126 ] Gastrointestinal Motility      131 ] Areas of Interest
+							 [ 116 ] Reflux ,						   [
+		 Gastrointestinal Motility						     Disorders I
 						       [ 117 ] Swallowing						 [ 132 ] Gastrointestinal Motility
-		Disorders | Gastroparesis						 Gastroparesis / Gastric	    Disorders | Gastroparesis
+		Disorders | Gastroparesis						 Gastroparesis / Gastric	    Disorders |
+																       Gastroparesis
 							  Problems  ,		     Stimulation | General
 							 [ 118 ] Hernia		     Gastroenterology
 						   [ 119 ] Areas of Interest
 						  [ 120 ] Chronic Constipation I
-						  Chronic GERD  I Dysphagia I
+						   Chronic GERD  I Dysphagia I
 						     Gastrointestinal Motility
 							   Disorders
-						      [ @ 133 ] VIEW ALL GI  MOTILITY   CLINIC  PROVIDERS
+						      [ @ 133 ] VIEW ALL  GI MOTILITY   CLINIC  PROVIDERS
 	[ 134 ]
 	  Health       Library
 	  [ @ 135 ]								 [ @ 141 ]
@@ -125,20 +128,18 @@
 	      Story								     [ 143  ] A   New      Heart
 	      [ 138 ] UofL Health    [ 139 ]  [ 140 ] May  16 , 2023		    [ 144 ] UofL Health    [ 145 ]  [ 146 ] February  2 , 2023
 								  [ @ 147 ] VIEW ALL  ARTICLES
-																			       Sched
-																		  [ @ 148 ]    [ 149 ]
-	  [ @ 150 ]				  [ @ 158 ] Find A Provider	 [ @ 163 ] Appointments	       [ @ 168 ] For Health Care
+	  [ @ 150 ]				  [ @ 158 ] Find A Provider	  [ @ 163 ] Appointments	      [ @ 168 ] For Health Care
 															    Professionals
-	  UL       Health			    [ @ 159 ] Services		[ @ 164 ] About  UofL  Health
+	  UL	Health			   [ @ 159 ] Services		 [ @ 164 ] About UofL  Health
 															    [ @ 169 ] News
-						     [ @ 160 ] Locations	       [ @ 165 ] Health Library
+						     [ @ 160 ] Locations		[ @ 165 ] Health Library
 															    [ @ 170 ] Pay My Bill
 	  [ 151 ] Follow Us			  [ @ 161 ] Patients and	     [ @ 166 ] Careers
 						     Visitors							       [ @ 171 ] Ways to Give
 	  [ @ 152 ] [ @ 153 ] [ @ 154 ] [ @ 155 ] [ @ 156 ] [ @ 157 ]		  [ @ 167 ] Volunteer
-			     O       J	       [ @ 162 ] Patient Portal	  Information
+			     O       J	in     [ @ 162 ] Patient Portal	  Information
 															    [ @ 172 ] Contact
-	  [ 173 ] © 2023 UofL Health . All Rights Reserved [ @ 174 ] . Nondiscrimination Notice [ @ 175 ] Terms of Use [ @ 176 ] Notice of Privacy Practices
+	  [ 173 ] © 2023 UofL Health . All Rights Reserved [ @ 174 ] Nondiscrimination Notice [ @ 175 ] Terms of Use [ @ 176 ] Notice of Privacy Practices
 						      [ @ 177 ] Code of Conduct  [ @ 178 ] Privacy Policy .
 	[ 179 ]
 	     UofL Health complies with applicable Federal civil rights laws and does not discriminate on the basis of race , color , national origin , age , disability or sex
@@ -151,4 +152,4 @@
 	   partner with UofL Health , Inc. to maintain and enhance the University of Louisville's affiliated graduate medical education as well as its research in medicine ,
 								  dentistry , nursing and public health .
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2489
+Token count: 2494

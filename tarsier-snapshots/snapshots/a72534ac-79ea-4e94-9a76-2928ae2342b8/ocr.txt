@@ -1,16 +1,15 @@
 -----------------------------------------------------------------------------------------------------------------------------------
 [ @ 0 ] Start Here [ @ 1 ] Explore		 [ @ 2 ] IH INDIE HACKERS		   [ @ 3 ] [ @ 4 ] LOG IN [ @ 5 ] SIGN UP
 				[ 13  ]   Generating		$  200K	 monthly
-				 revenue	     with       an     online	  photo
+				  revenue	    with       an     online	  photo
 							    editor
 						       [ 14 ] by [ @ 15 ] Leo Askan
 			      [ 16 ] Ivan is the founder of Photopea - an online photo editor - generating
 			      $ 200K / month with 3 million unique visitors monthly in his 10th year .
 			      [ 17 ] He started his project as a hobby and then started to earn money .
 			      [ 18 ] --
-			      [ 19 ] Here is the short form of interview and for more details , check our
-			      website .
-			      [ @ 21 ] https://saastrappers.com/interviews/ivan-kutskir-photopea/
+				[ @ 6 ] A	       [ $ 9 ] 0 [ @ 10 ] 1		 [ $ 11 ]
+					 [ 7 ] 4 [ 8 ] Likes				 [ 12 ] Report
 			      [ 20 ]
 			      [ 22 ] Question : Can you give us some information about your background ?
 			      [ 23 ] Answer : I was born in Ukraine and moved to Czechia with my
@@ -22,7 +21,7 @@
 			      and other stuff , right ?
 			      [ 27 ] Answer : Yes , that's correct . I actually started making flash games
 			      even before going to university . I began playing with flash around when I
-			      was 15 .
+			      was  15 .
 			      [ 28 ] Question : Is it something related to your family , or was it your
 			      interest ?
 			      [ 29 ] Answer : It was more of a personal interest . My two cousins , who are
@@ -47,7 +46,7 @@
 			      games  without Flash , web GL , and other new web technologies . I saw that
 			      web - based applications could be much  more performant  than they were
 			      five years ago with Internet Explorer . So , I transitioned from making Flash
-			      games  to developing JavaScript games  and  monetized them  with ads .
+			      games  to developing JavaScript games  and  monetized  them with ads .
 			      [ 34 ] Question : You found the missing feature of Adobe and decided to
 			      create your own  Photoshop  service , right ?
 			      [ 35 ] Answer : Yes , exactly . As I was working on these games and other
@@ -87,22 +86,19 @@
 			      [ 44 ] --
 			      [ @ 46 ] - Leo Askan [ @ 47 ] on November 26 , 2023
 				[ $ 48 ] [ 49 ] 4 [ $ 50 ] 0   [ $ 51 ]
-				[ @ 52 ] Say something nice to leventaskan ...
+				[ @ 52 ] say something nice to leventaskan ...
 				[ @ 53 ] POST COMMENT
-			      ^  [ 55 ] Reassuring to see that it's totally alright if your product evolves from a basic
+				 [ 55 ] Reassuring to see that it's totally alright if your product evolves from a basic
 			      1
 				 MVP  over time .
 				 [ 56 ] I've definitely moved one step at a time to bring my current project together
 				 and it has shape - shifted significantly over the last 2 years .
 				 [ @ 57 ] OddNugget [ 58 ] [ @ 59 ] 8 hours ago [ 60 ] [ @ 61 ] REPLY
-				 @ 6 ] A		$ 9 ]  0   @ 10 ]  1		 [ $ 11 ]
-				[	[ 7 ] 4 [ 8 ] Likes [    [
-											 A   [ 12 ] Report
 						  [ 62 ] Trending on Indie Hackers
 			       [ @ 63 ]			      [ @ 66 ]
-				 [ 64 ] Showcase Your Black	    [ 67 ] How I got 21k + views on
+				 [ 64 ] Showcase Your Black	   [ 67 ] How I got 21k + views on
 				Friday Cyber Monday  Deals	    Reddit for my product launch
-				     [ 65 ] 70 comments →		  [ 68 ] 30 comments →
+				     [ 65 ] 70 comments →→		 [ 68 ] 30 comments
 			       [ @ 69 ]			      [ @ 72 ]
 				 [ 70 ] Building a $ 1M ARR	   [ 73 ] " The key is to invest little ,
 				portfolio of side hustles with a ...  launch fast , and kill fast . "
@@ -112,18 +108,18 @@
 							       business .
 								[ # 77 ]
 										       [ $ 79 ]
+											 →
 					  Enter email address
-	      [ @ 80 ] IH INDIE HACKERS [ 81 ] by [ @ 82 ] @csallen [ @ 99 ] COMMUNITY [ @ 106 ] PRODUCTS  [ @ 112 ] LEARN
+	      [ @ 80 ] IH INDIE HACKERS [ 81 ] by ( @ 82 ] @csallen [ @ 99 ] COMMUNITY [ @ 106 ] PRODUCTS  [ @ 112 ] LEARN
 							   [ @ 100 ] Groups	[ @ 107 ] All Products  [ @ 113 ] Explore
-	      [ 83 ] Learn from the founders behind hundreds of						       Here
-							   [ @ 101 ] Meetups       [ @ 108 ] Highest Revenue [ @ 114 ] Start
-	      profitable online businesses , and connect with others
+	      [ 83 ] Learn from the founders behind hundreds of
+	      profitable online businesses , and connect with others [ @ 101 ] Meetups [ @ 108 ] Highest Revenue [ @ 114 ] Start Here
 	      who are starting and growing their own companies . [ @ 102 ] Top Today [ @ 109 ] Side Projects [ @ 115 ] Podcasts
 							   [ @ 103 ] Top This Week [ @ 110 ] Self - Funded [ @ 116 ] Contribute →
-	      © Indie Hackers , Inc. [ @ 87 ] FAQ [ 88 ] .
-	      [ @ 89 ] Terms Privacy [ 92 ] .	      [ @ 104 ] Top This Month [ @ 111 ] Add Yours →
+	      [ @ 85 ] Ⓒ Indie Hackers , Inc. [ 86 ] [ @ 87 ] FAQ
+	       [ 88 ] [ @ 89 ] Terms [ 90 ] [ @ 91 ] Privacy [ 92 ] [ @ 104 ] Top This Month [ @ 111 ] Add Yours →
 	      [ @ 93 ] Manage Cookies [ 84 ] / [ @ 94 ] Policy [ 95 ] . [ @ 105 ] Join →
 	      f ✔  [ @ 98 ]
-		   O
+		   [ Ơ
 -----------------------------------------------------------------------------------------------------------------------------------
-Token count: 2094
+Token count: 2055

@@ -37,7 +37,7 @@ class OCRService(ABC):
                                 sum(len(token["text"]) + 1 for token in line)
                                 for line in line_cluster.values()
                             ),
-                            default=default_canvas_width
+                            default=default_canvas_width,
                         ),
                         max(
                             (
@@ -45,28 +45,32 @@ class OCRService(ABC):
                                 * (
                                     annotation["midpoint"][0]
                                     / annotation["midpoint_normalized"][0]
-                                    if annotation["midpoint_normalized"][0] != 0 else default_canvas_width
+                                    if annotation["midpoint_normalized"][0] != 0
+                                    else default_canvas_width
                                 )
                                 / (
                                     annotation["midpoint"][1]
                                     / annotation["midpoint_normalized"][1]
-                                    if annotation["midpoint_normalized"][1] != 0 else default_canvas_width
+                                    if annotation["midpoint_normalized"][1] != 0
+                                    else default_canvas_width
                                 )
-                                for line in line_cluster.values() for annotation in line
+                                for line in line_cluster.values()
+                                for annotation in line
                             ),
-                            default=default_canvas_width
+                            default=default_canvas_width,
                         ),
                         max(
                             (
                                 max(
                                     len(annotation["text"])
                                     / (1 - annotation["midpoint_normalized"][0])
-                                    if annotation["midpoint_normalized"][0] != 1 else len(annotation["text"])
+                                    if annotation["midpoint_normalized"][0] != 1
+                                    else len(annotation["text"])
                                     for annotation in line
                                 )
                                 for line in line_cluster.values()
                             ),
-                            default=default_canvas_width
+                            default=default_canvas_width,
                         ),
                     ]
                 )

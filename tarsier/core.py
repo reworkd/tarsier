@@ -22,7 +22,7 @@ class Tarsier(ITarsier):
         adapter = adapter_factory(driver)
         if not tagless:
             tag_to_xpath = await self._tag_page(adapter, tag_text_elements)
-        screenshot = await self._take_screenshot(adapter)
+        screenshot = await adapter.take_screenshot()
         if not tagless:
             await self._remove_tags(adapter)
         return screenshot, tag_to_xpath if not tagless else {}
@@ -35,17 +35,6 @@ class Tarsier(ITarsier):
         )
         page_text = self._run_ocr(image)
         return page_text, tag_to_xpath
-
-    @staticmethod
-    async def _take_screenshot(adapter: BrowserAdapter) -> bytes:
-        viewport = await adapter.get_viewport_size()
-        default_width = viewport["width"]
-
-        await adapter.set_viewport_size(default_width, viewport["content_height"])
-        screenshot = await adapter.take_screenshot()
-        await adapter.set_viewport_size(default_width, viewport["height"])
-
-        return screenshot
 
     def _run_ocr(self, image: bytes) -> str:
         ocr_text = self._ocr_service.annotate(image)

@@ -1,26 +1,26 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-( [ @ @ 0 ) ] WINSTON
+[ @ ]  WINSTON
 								   &   STRAWN		      [ $ 1 ]
 											LLP
 	   [ @ 2 ] Professionals
 															  [ 7 ] Let's     Connect
 															  [ @ 8 ] Email       [ @ 9 ] vCard
 																[ @ 10 ] Full Bio PDF   [ $ 11 ] Share
-	   John		P.      Alexander
+	  John		 P.      Alexander
 	   [ 4 ] Practice Attorney	    [ @ 5 ] Silicon Valley
 					      [ @ 6 ] +1 650-858-6443
-	   [ @ 12  ] Overview		    [ 15 ] John    focuses    his  practice     on  financial    services    , with  an   emphasis      on  the
+	    [ @ 12 ] Overview		    [ 15 ] John    focuses    his  practice     on  financial    services    , with  an   emphasis      on  the
 	    [ @ 13 ] Credentials		 formation      , structuring    , and   ongoing      management	 of  private   and    registered
 						 funds   .
 	   [ @ 14  ] Insights    &  News
 						    [ $ 16 ] Show More
-						  [ 17  ] Capabilities
+						 [ 17  ]  Capabilities
 						    [ @ 18 ] Transactions       [ @ 19 ] Private Investment  Funds
 						    [ @ 20 ] Financial Services Transactions   & Regulatory	[ @ 21 ] Private Equity
 						    [ @ 22 ] Financial Services       [ @ 23 ] Cryptocurrencies , Digital Assets & Blockchain  Technology
-												   [ @ 25 ]     [ @ 26 ]     [ @ 27 ]     [ @ 28 ]      [ @ 29 ]
+												  [ @ 25 ]     [ @ 26 ]      [ @ 27 ]     [ @ 28 ]     [ @ 29 ]
 	   [  @	24       ]
 	   [ 30 ] Copyright © 2023. Winston & Strawn LLP [ @ 31 ] Alumni [ @ 32 ] Bank Receiverships Task Force [ @ 33 ] Corporate Transparency Act
 	   [ @ 34 ] Equal Rights Amendment [ @ 35 ] Law Glossary [ @ 36 ] Privacy Policy [ @ 37 ] Cookie Policy [ @ 38 ] Notices [ @ 39 ] Subscribe [ 40 ] Attorney Advertising
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 424
+Token count: 420

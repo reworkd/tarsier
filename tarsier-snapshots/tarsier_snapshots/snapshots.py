@@ -74,7 +74,9 @@ async def snapshot_example(
             print(f"{prefix} Writing screenshot to {example_path / 'screenshot.png'}")
 
         with open(example_path / "ocr.txt", "w") as f:
-            page_text_with_token_count = page_text + f"\nToken count: {counter.count(page_text)}"
+            page_text_with_token_count = (
+                page_text + f"\nToken count: {counter.count(page_text)}"
+            )
             f.write(page_text_with_token_count)
             print(f"{prefix} Writing OCR text to {example_path / 'ocr.txt'}")
         print(f"{prefix} Finished snapshotting {example.id}")
@@ -114,7 +116,7 @@ def calculate_token_count_statistics(snapshots_dir: Path) -> None:
         "Median tokens": median(token_counts),
         "p50": percentile(token_counts, 50),
         "p90": percentile(token_counts, 90),
-        "p99": percentile(token_counts, 99)
+        "p99": percentile(token_counts, 99),
     }
 
     snapshots_dir = Path(__file__).parent.parent / "snapshots"

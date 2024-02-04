@@ -1,80 +1,85 @@
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ ⁰ ]																				[ # 1 ]   Search				   [ $ 2 ]	       [ 3 ]  MyHealth
-			     LEGACY
-			     HEALTH																										       [ @ 4 ]  Contact      Us
-	 [ @  5 ] Doctors     &  Locations		[ @  6 ] Services      &  Resources		 [ @  7 ] Patients     &  Visitors	     [ @ 8 ]  Giving    &  Support	      [ @  9 ] About	      [ @ 10  ] For   Health     Professionals
-	    [ $ 11  ]
-		Choose     one :											 [ $ 15 ] Name    or keyword    :
-		     [ $ 12 ]							      [ $ 14 ]		      [ # 16  ]
-								   [ 13 ]  OR
-		     Locations							     Doctors
-	    [ $ 18 ]   by :				    [ $ 19  ]									    [ $ 22 ]
-														       [ $ 20 ] Zip
-		   Location     Type				   Services					Code				5										  [ $ 23 ]  Search
-					    E									  [ # 21  ]
-																													    [ $ 24 ] Clear  Filters
-																						 Long   Beach
-																				  [ $ 303    ] Map	      [ $ 304   ]  Satellite		 Castle  Rock			      [ $ 305 ]
-	[ 26 ]   Showing      [ 25 ]  1-25   of  261   [ 27 ]  location     results													  Astoria
-	[ 28 ]  Check    with  your  insurance     to see  which    providers   are  included    in your  network   .  [ @ 29 ]	  [ @ 30  ] ?									    Longview
-	Learn   more   .																			       Warrenton
-																																		 [ $ 306 ]
-																							 Seaside
-																												       [ $ 30
-																						   Cannon    Beach    26									 [ $ 307 ]
-	       @  311				       @  32  ]																				      Ridgefield
-	     [					     [															      101
-							    [ 33  ]  Carl    Peterson	 Clinical      Education	  Center							Manzanita				       Battle  Ground
-																																		 Hood   Rive
-																						Rockaway						Vancouver
-								 [ @  34  ]  300     N.  Graham	Street	   [ @							 Beach					       P		    amas		       Mt
-															     36  ]  [ 37      ]						Garibaldi		Hillsboroo
-								 Legacy      Emanuel	Medical      Center		     More						   Tillamook
-								 Portland     , OR   , 97227																	Bea      [ 297    ]  17
-								 [ @  35  ] 503-413-2200																				      [ 298    ]  2
-																							      101		   McMinnville
-																						     Pacific  City
-																							  101
-																						   Lincoln  City			     Salem
-																													  [ 300    ] 2				   W.
-																						  Depoe  Bay											      R
-	     [ @  38  ]				    [ @ 39   ]																		     Albany
-							    [ 40  ]  Green       Gables	Guest       House       at   Legacy										 Corvallis      Lebanon
-							   Good       Samaritan	   Medical	Center								       [ 299    ]  2	   Philomath
-																														      ú
-																												      Sweet   Home
-								 [ @  41  ]   2183     N.W.    Northrup       St.       [ @  45  ]  [ 46					 Yachats												 ( 20
-								 Portland     , OR   , 97210						  ]
-																    More									   Junction  City							Si
-																											      [ $ 30
-							    0    [ @  42  ]  Campus	Map										      101
-	       Green Gables																						     Veneta    Eugene oo
-								 [ @  43  ]  Mapa      del  Campus									       Florence				   Springfield
-																											     Creswell
-								 [ @  44  ]  503-413-7848											 101				   Cottage   Grove
-																														   Oakridge
-																						Reedsport
-																																		 [ $ 308 ]
-																			     [ Google @ 309 ]
-																									[ $ 310 ] Keyboard  shortcuts   [ 311 ] Map data © 2023 Google    [ @ 312 ) Terms
-	      [ 287 ]  1	[ @ 288   ] 2	 [ @ 289   ] 3	[ @  290  ] 4	 [ @ 291   ] 5	 [ @ 292   ] 6	[ @ 293   ] 7
-							 [ @ 294   ] 8       [ 295  ] ...      [ @ 296   ] 11
-	       [ @ 313   ]										     ]  Our					  324      ]  For       Patients			    330      ] Connect		With
-												     [ 320						    [							[
-												    Organization												      Us
-			    LEGACY															    [ @ 325    ] Clinical    Trials
-			    HEALTH
-												     [ @ 321   ]  Careers				     [ @ 326    ] Financial      Assistance		   [ @  331   ] Join    Our    Newsletter
-	       [ 314  ]  Our   mission    is good    health   for  our			       [ @ 322   ]  Volunteering				[ @ 327   ]  Interpreter       Services		  [    332   ] Contact       Us
-	      people   , our  patients   , our  communities	and											[ @ 328    ] Medical      Records
-												    [ @  323   ]  Doing     Business       With     Us
-	      our  world   . Above    all , we  will do  the  right
-	      thing  .																	[ @ 329   ]  Pay    a  Bill
-			      +00
-	       [ @ 315   ]	      [ @  316   ]						 [ 333 ]  ©   2023   Legacy      Health    [ 334  ]  |  [ @ 335   ] Terms    of  Use    [ 336  ]  |  [ @ 337   ] Privacy    Policy    [ 338  ]  |
-												    [ @  339   ] Notice   of  Nondiscrimination	 [ 340  ]  |  [ @  341  ] No   Surprise     Billing  [ 342  ]  |   [ @ 343  ]  Capital   Reporting      [ 344  ]  |
-	       [ @ 317    ]     O       [ @  318   ]     in					  [ @ 345   ] Do  Not   Sell  or  Share    My   Personal     Information
-							      60
-	       [ @ 319    ]
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1491
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @  0 ]																						   [ # 1 ]     Search					[ $ 2 ]		 [ 3 ]   MyHealth
+				LEGACY
+				HEALTH																														    @   4 ]  Contact	Us
+																																			 [
+	  [ @  5  ] Doctors       &   Locations		   [ @  6 ] Services	&  Resources		     [ @  7 ]  Patients      &   Visitors		[ @  8 ] Giving      &   Support		[ @  9 ] About		 [ @  10  ]  For    Health     Professionals
+	      [ $ 11  ]
+		  Choose      one  :												    [ $ 15  ] Name     or  keyword     :
+			[ $ 12 ]								      [ $ 14 ]			  [ # 16   ]
+									   [ 13  ]  OR
+			Locations								     Doctors
+	     [ $ 18   ]   by :					 [ $ 19   ]										     [ $ 22   ]
+																     [ $ 20  ] Zip
+		      Location      Type				       Services					      Code				     5											     [ $ 23 ]  Search
+						 A										    [ # 21  ]
+																																	 [ $ 24 ]  Clear   Filters
+																								       Long   Beach
+																						       [ $ 303     ] Map	       [ $ 304     ]  Satellite		     Castle   Rock				 ( $ 305  )
+	 [ 26  ]   Showing	[ 25  ]  1-25    of  261   ( [ 27 ]  location      results																									✔
+																										    Astoria
+	 [ 28  ]  Check     with   your   insurance      to  see   which    providers     are   included     in your   network     . [ @  29  ]	   [ @ 30   ] ?										     Longview
+	 Learn    more   .																						    Warrenton
+																																						   [ $ 306 ]
+																										Seaside
+																																   [ $ 30
+																									 Cannon     Beach      26										  [ $ 307 ]
+	       [ @  31   ]					[ @  32   ]																							  Ridgefield  /
+																										 101
+								   [ 33   ]  Carl      Peterson	   Clinical	Education	    Center								Manzanita					    Battle   Ground
+																																     Vancouver				     Hood.Rive
+																								      Rockaway     .
+									 [ @   34  ]   300     N.   Graham	  Street	      [ @  36  ]							 Beach      Garibaldi			      26      P		       amas  .		      Mt
+																		    [  37       ]										 Hillsboroo
+									 Legacy	Emanuel	  Medical       Center										      Tillamook
+																		    More													 Bea      [ 297      ]  17
+									 Portland       , OR    , 97227
+									 [ @   35   ] 503-413-2200																							    [ 298     ]  2
+																										      101		     McMinnville
+																									   Pacific   City
+																																						     ✓
+																										  101
+																									 Lincoln   City				 Salem
+																															    O
+																																       [ 300     ]  2				      W
+																									Depoe    Bay													 R
+	       [ @  38  ]					 [ @  39   ]
+																														     Albany 0
+								   [ 40   ]  Green	 Gables	 Guest	 House	 at   Legacy											    Corvallis       Lebanon
+								   Good	Samaritan	     Medical	 Center										  [ 299     ]  2	    Philomath
+				 00m
+																																  Sweet    Home
+									 [ @   41   ]  2183      N.W.      Northrup	 St.	  @  45  ]   [  46					      Yachats													       20
+									 Portland       , OR    , 97210							]
+																		    More										     Junction    City							       Si
+																															 [ $ 30
+									 [ @   42   ] Campus	  Map												 101
+		 Green Gables																									     Veneta     Eugene 00
+		 Guest House																					   Florence				       Springfield
+									 [ @   43   ] Mapa       del    Campus																	  Creswell
+									 [ @   44  ]  503-413-7848												       101				       Cottage    Grove
+																																		 Oakridge
+																								      Reedsport
+																																						   [ $ 308 ]
+																						 [ Google @ 309 ]
+																												 [ $ 310 ] Keyboard    shortcuts    [ 311  ] Map  data  © 2023  Google      [ @ 312 ] Terms
+	       [ 287   ]  1	 [ @  288   ]  2	 [ @  289   ]  3	  [ @  290   ]	    [ @  291   ] 5	  [ @  292   ]  6	 [ @  293    ] 7
+								[ @  294   ]  8	[ 295   ]	   [ @  296   ]  11
+		[ @   313    ]											       ]  Our									 Patients			     [ 330       ]   Connect		  With
+														 [ 320							   [ 324       ]  For
+														Organization														     Us
+				LEGACY																	   [ @   325   ]  Clinical      Trials
+				HEALTH
+														 [ @  321    ]  Careers					  [ @  326     ] Financial	Assistance		      [ @   331    ]  Join    Our     Newsletter
+		[ 314   ]  Our    mission       is good     health    for  our				   [ @  322    ]  Volunteering				     [ @  327    ]  Interpreter	 Services		     [ @   332    ] Contact	Us
+		people    , our   patients     , our   communities	 and												   [ @  328     ] Medical	Records
+														 [ @  323    ]  Doing       Business	 With     Us
+		our   world   . Above      all , we   will  do  the   right
+																						 [ @  329    ]  Pay     a  Bill
+	       thing   .
+		[ @   315    ]	       [ @  316    ]						       [ 333   ]  ©   2023    Legacy       Health      [ 334  ]   |  [ @  335   ]  Terms     of  Use     [ 336   ]  |   [ @  337   ] Privacy      Policy     [ 338   ]  |
+														 [ @  339   ]  Notice    of   Nondiscrimination	    [ 340   ]  |   [ @  341   ] No    Surprise      Billing    [ 342  ]   |  [ @  343   ]  Capital     Reporting       [ 344   ]   |
+		[ @   317    ]     O	 [ @  318    ]      in					       [ @  345   ]  Do   Not    Sell  or  Share      My   Personal       Information
+		[ @   319    ]   +00
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1593
