@@ -5,6 +5,7 @@ from typing import Dict, Tuple
 from tarsier._utils import load_js
 from tarsier.adapter import AnyDriver, BrowserAdapter, adapter_factory
 from tarsier.ocr import OCRService
+from tarsier.text_format import format_text
 
 TagToXPath = Dict[int, str]
 
@@ -58,7 +59,7 @@ class Tarsier(ITarsier):
 
     def _run_ocr(self, image: bytes) -> str:
         ocr_text = self._ocr_service.annotate(image)
-        page_text = self._ocr_service.format_text(ocr_text)
+        page_text = format_text(ocr_text)
         return page_text
 
     async def _tag_page(

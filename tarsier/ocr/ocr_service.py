@@ -1,9 +1,15 @@
+from abc import ABC, abstractmethod
 from typing import Any, Dict
 
 from google.cloud import vision
 
-from tarsier.ocr._base import OCRService
 from tarsier.ocr.types import ImageAnnotatorResponse
+
+
+class OCRService(ABC):
+    @abstractmethod
+    def annotate(self, image_file: bytes) -> ImageAnnotatorResponse:
+        pass
 
 
 class GoogleVisionOCRService(OCRService):
