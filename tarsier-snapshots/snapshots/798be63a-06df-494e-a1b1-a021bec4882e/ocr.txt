@@ -1,8 +1,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-$ 1 ]   [ @ 2 ]                       [ @ 3 ] Documentation    [ @ 4 ] API reference                                             [ $ 5 ] Sign Up  [ $ 6 ] Log In [ $ 7 ] Q
-                    OpenAl
-  [ @ 8 ]   Topics
-                                       [ 30 ] Welcome to the OpenAl Developer Forum !                                                                    [ $ 29 ] X
+$ 1 ]   [ @ 2 ]     OpenAl           [ @ 3 ] Documentation    [ @ 4 ] API reference                                               [ $ 5 ] Sign Up [ $ 6 ] Log In [ $ 7 ] Q
+  [ @ 8 ]  Topics
+                                       [ 30 ] Welcome to the OpenAI Developer Forum !                                                                     [ $ 29 ] X
   [ $ 9 ] More
                                        [ 31 ] What to know before posting a new question :
   [ $ 10 ]  RESOURCES
@@ -10,90 +9,91 @@ $ 1 ]   [ @ 2 ]                       [ @ 3 ] Documentation    [ @ 4 ] API refer
   [ @ 11 ]   Documentation             2. [ 33 ] If the question relates account issues ( e.g. , billing and login issues ) , please contact us through our [ @ 35 ] Help Center [ 34 ]
   [ @ 12 ]   API reference             3. [ 36 ] Please be kind and helpful in conversations !
   [ @ 13 ]   Help center
-  [ $ 14 ]  CATEGORIES               [ @ 37 ] How     to  address       a  GPT     in  its  instructions        :
-                                     [ @ 38 ]  [ 39 ] Prompting [ @ 40 ] chatgpt , [ @ 41 ] gpts , @ 42 ] assistants
+   $ 14 ]   CATEGORIES               [ @ 37 ] How    to   address       a  GPT     in  its  instructions        :
+  [
+                                     [ @ 38 ]  [ 39 ] Prompting [ 40 ] chatgpt , [ @ 41 ] gpts , [ @ 42 ] assistants
   [ @ 15 ]   Announcements
   [ @ 16 ]   API                                                                                                                                 [ @ 43 ] Nov 19
-                                             [ @ 49 ] luona.dev                                                              [ @ 50 ] 8d
-  [ @ 17 ]   Plugins / Actions ...                                                                                                                 [ 44 ] 1/4
+                                     [ @ 48 ] [ @ 49 ] luona.dev                                                              [ @ 50 ] 8d
+  [ @ 17 ]   Plugins / Actions Dev                                                                                                                  [ 44 ] 1/4
                                              [ 51 ] conducted an experiment to figure out how to best address GPTs in their instructions . I gave it 5 [ 45 ]
   [ @ 18 ]   Prompting
                                             different instruction about the meaning of a made up word in a fantasy language and then asked it
   [ @ 19 ]   Documentation                  about it . I addressed it with
-  [ @ 20 ]   All categories                  [ 52 ] " You " , " I " , " The assistant " , " The GPT " and " { name of the GPT ) " . I tested each of the 120
+  [ @ 20 ]  All categories                   [ 52 ] " You " , " I " , " The assistant " , " The GPT " and " { name of the GPT } " . I tested each of the 120
                                             permutations 6 times . This is what I found out :
-  [ $ 21 ]  TAGS                               ●
+  [ $ 21 ]  TAGS
                                                   [ 54 ] You [ 53 ] is by far the strongest way of addressing a GPT . In over 50 % of the cases , the
   [ @ 22 ]   chatgpt                             GPT  answered with the knowledge associated to " you " .
-  [ @ 23 ]   gpt - 4                              [ 56 ] The last instruction [ 55 ] is by far the most convincing instruction , with the last info being
+                                               ●  [ 56 ] The last instruction [ 55 ] is by far the most convincing instruction , with the last info being
+  [ @ 23 ]   gpt - 4
                                                  returned 50 % of the time .
   [ @ 24 ] ► api
-  [ @ 25 ]   plugin - development            [ 57 ] Here you can find a [ @ 59 ] detailed write - up of the experiment 74 [ 58 ] .
-     lost - user
-     All tags                                                                                                  [ $ 60 ] 11    [ $ 61 ]           [ @ 46 ] ] [ 47 ] 7d
+                                             [ 57 ] Here you can find a [ @ 59 ] detailed write - up of the experiment 74 [ 58 ]
+  [ @ 25 ]   plugin - development
+  [ @ 26 ]   lost - user
+     All tags                                                                                                    [ $ 60 ] 11   [ $ 611           [ @ 46 ] [ 47 ] 7d
                                              [ @ 62 ] Custom  GPT Instructions : using 2nd vs. 3rd person
-                                              [ 64 ] created        [ @ 67 ]                [ 70 ] 3   [ 72 ] 449
-                                                                    last reply            [ 71 ] replies [ 73 ] views
-                                              [ @ 65 ]    [ 66 ] 8d
-                                                                    [ @ 68 ]    [ 69 ] 7d
-                                                                                                                            [ $ 63 ] ✓
-                                               [ 74 ] 4    [ 76 ] 12   [ 78 ] 1
-                                                                                 [ @ 80 ] L  [ @ 81 ] L   ( @ 82 ] V
-                                              [ 75 ] Jusers [ 77 ] likes [ 79 ] link
-                                             [ @ 84 ] anderskkehlet                                                          [ @ 85 ] 8d
+                                              [ 64 ] created       [ @ 67 ]               [ 70 ] 3    [ 72 ] 449
+                                               @ 65 ] 23 [ 66 ] 8d last reply            [ 71 ] replies [ 73 ] views
+                                              [
+                                                                   [ @ 68 ]   [ 69 ] 7d
+                                                                                                                             [ $ 63 ]
+                                               [ 74 ] 4   [ 76 ] 12   [ 78 ] 1
+                                              [ 75 ]      [ 77 ] likes [ 79 ]   [ @ 80 ] L  [ @ 81 ]    [ @ 82 ] V
+                                                   users                  link
+                                     [ @ 83 ] [ @ 84 ] anderskkehlet                                                          [ @ 85 ] 8d
                                              [ 86 ] Nice test . It would not have occurred to me to use contradicting info .
-                                                                                                                 [ $ 87 ]     [ $ 88 ]
-                                             [ @ 90 ] LingLover                                                              [ @ 91 ] 8d
-                                       L
-                                             [ 92 ] Very nice ! We need for evidence on prompt tuning ( at least there has been posted very few
+                                                                                                                  [ $ 87 ]     [ $ 88 ]
+                                     [ @ 89 ] [ @ 90 ] LingLover                                                              [ @ 91 ] 8d
+                                       L    [ 92 ] Very nice ! We need for evidence on prompt tuning ( at least there has been posted very few
                                             research on this in this forum ) .
-                                                                                                                 [ $ 93 ] ♥   [ $ 94 ]
-                                             [ @ 96 ] vspritola                                                  [ $ 97 ] 1  [ @ 98 ] 7d
-                                       V
-                                             [ 99 ] This is a fascinating experiment ! Interestingly this is also true of humans . We also recall best ( and
+                                                                                                                   [ $ 93 ]    [ $ 941
+                                     [ @ 95 ] [ @ 96 ] vspritola                                                  [ $ 97 ] 1  [ @ 98 ] 7d
+                                       V     [ 99 ] This is a fascinating experiment ! Interestingly this is also true of humans . We also recall best ( and
                                             therefore can act on ) information at the end and the beginning of a text passage . My take on this is that
                                             it may be a feature of the training data where it is simulating how people are writing ( i.e. processing )
                                             based on text that came before .
                                              [ 100 ] Also if you think how you yourself would give or receive instructions best . You and your name
                                             would be the most impactful . Granted here there may be some underlying schemas about the name
                                             that are not part of the training , but regardless this also aligns with human tendencies .
-                                             [ 101 ] EDIT : Now after looking deeper into the article , it seems that position 3/5 was still more
-                                            impactful than the beginning . This does not fit as well to the picture , but I see I may have thought about
-                                            this wrong . The experiment doesn't measure just simple recall , where recency and primacy effects
-                                            should dominate , but also has a component of solving contradiction . In many cases the last " revision "
-                                            could be the correct one in texts . But this is now pure speculation . Very interesting .
-                                                                                                              [ $ 102 ]     [ $ 103 ]
-                                                                                                                      [ $ 104 ]  Reply
-                                     [ 105 ] Related  Topics
-                                       [ 106 ] Topic                                                                 [ 107 ] Replies [ 108 ] Views [ 109 ] Activity
+                                             [ 101 ] EDIT : Now after looking deeper into the article , it seems that position 3/5 was still more impactful
+                                            than the beginning . This does not fit as well to the picture , but I see I may have thought about this
+                                            wrong . The experiment doesn't measure just simple recall , where recency and primacy effects should
+                                            dominate , but also has a component of solving contradiction . In many cases the last " revision " could be
+                                            the correct one in texts . But this is now pure speculation . Very interesting .
+                                                                                                               [ $ 102 ] ♥    [ $ 103 ]
+                                                                                                                       [ $ 104 ] Reply
+                                     [ 105 ] Related Topics
+                                       [ 106 ] Topic                                                                   [ 107 ] Replies [ 108 ] Views [ 109 ] Activity
                                        [ @ 110 ] Providing context to the Chat API before a conversation
-                                       [ @ 111 ] [ 112 ] Prompting                                                              7
-                                                                                                                       [ $ 118 ]    [ 119 ] 10.0k  [ @ 120 ] May 8
-                                      gpt - 4 , [ @ 114 ] gpt - 35 - turbo , [ @ 115 ] chatml , [ @ 116 ] chatml - system ,
-                                       [ @ 117 ] chatml - user
-                                      [ @ 121 ] Custom  GPT  Instructions : using 2nd vs. 3rd person
-                                       [ @ 122 ]  [ 123 ] Prompting                                                    [ $ 128 ] 18  [ 129 ] 1.0k   [ @ 130 ] 14h
-                                      [ @ 124 ] chatgpt , [ @ 125 ] custom - gpt , [ @ 126 ] custom - instructio .. [ @ 127 ] tp - 1
-                                       [ @ 131 ] How to provide context so gpt - 3 continues the conversation ?
-                                                                                                                       [ $ 134 ] 1   [ 135 ] 218   [ @ 136 ] Sep 23
-                                       [ @ 132 ]  [ 133 ] API
-                                       [ @ 137 ] GPT - 4 keeps lying instead of saying " I don't know " !
-                                                                                                                       [ $ 142 ] 5   [ 143 ] 2.7k  [ @ 144 ] Jun 21
-                                       [ @ 138 ]  [ 139 ] Prompting [ @ 140 ] gpt - 4 , [ @ 141 ] hallucinations
+                                       [ @ 111 ] [ 112 ] Prompting                                                       [ $ 118 ] 7  [ 119 ] 10.0k [ @ 120 ] May 8
+                                      gpt - 4 , [ @ 114 ] gpt - 35 - turbo , [ @ 115 ] chatml , [ @ 116 ] chatml - system , [ @ 117 ] chatml - user
+                                       [ @ 121 ] Custom GPT  Instructions : using 2nd vs. 3rd person
+                                       [ @ 122 ] [ 123 ] Prompting                                                      [ $ 128 ] 18  [ 129 ] 1.0k   [ @ 130 ] 14h
+                                       [ @ 124 ] chatgpt , [ @ 125 ] custom - gpt , [ @ 126 ] custom - instructio .. [ @ 127 ] tp - 1
+                                       [ @ 131 ] How to provide context so gpt - 3 continues the conversation ?          [ $ 134 ] 1
+                                       @  132 ]                                                                                       [ 135 ] 218  [ @ 136 ] Sep 23
+                                       [         [ 133 ] API
+                                       [ @ 137 ] GPT - 4 keeps lying instead of saying " I don't know " !                [ $ 142 ] 5  [ 143 ] 2.7k  @  144 ] Jun 21
+                                                                                                                                                    [
+                                       [ @ 138 ] [ 139 ] Prompting [ @ 140 ] gpt - 4 , [ @ 141 ] hallucinations
                                        [ @ 145 ] Wow in a few lines
-                                                                                                                       [ $ 148 ] 3   [ 149 ] 1.1k  [ @ 150 ] Jul ¹22
-                                       [ @ 146 ]  [ 147 ] API
+                                                                                                                         [ $ 148 ] 3  [ 149 ] 1.1k  [ @ 150 ] Jul '22
+                                       [ @ 146 ] [ 147 ] API
   [ $ 28 ]
- [ 151 ] OpenAl   ©  2015                       [ 153 ] Research      [ 156 ] Product              [ 161 ] Safety        [ 164 ] Help        [ 166 ] Developers
- 2023                                           [ @ 154 ] Overview    [ @ 157 ] Overview           [ @ 162 ] Overview    [ @ 165 ] Support   [ [ @ 167 ] Documentation
- [ 152 ] The OpenAl developer forum             [ @ 155 ] Index       [ @ 158 ] Customer stories   [ @ 163 ] Security                        [ @ 168 ] Service status
- is a place to connect with other                                     [ @ 159 ] Safety standards                                              [ @ 169 ] Examples
- people building with OpenAl models .                                 [ @ 160 ] Pricing
-                                                                                                                                                    [ 170 ] Company
+ [ 151 ] OpenAl   © 2015                           [ 153 ] Research     [ 156 ] Product              [ 161 ] Safety       [ 164 ] Help        [ 166 ] Developers
+ 2023                                              [ @ 154 ] Overview   [ @ 157 ] Overview           [ @ 162 ] Overview   [ @ 165 ] Support   [ @ 167 ] Documentation
+                                                   [ @ 155 ] Index      [ @ 158 ] Customer stories  [ @ 163 ] Security                        [ @ 168 ] Service status
+ [ 152 ] The OpenAl developer forum
+ is a place to connect with other                                       [ @ 159 ] Safety standards                                            [ @ 169 ] Examples
+ people building with OpenAl models .                                    @ 160 ] Pricing
+                                                                        [
+                                                                                                                                                     [ 170 ] Company
                                                                                                                                                     [ @ 171 ] About
                                                                                                                                                     [ @ 172 ] Blog
                                                                                                                                                     [ @ 173 ] Careers
                                                                                                                                                     [ @ 174 ] Charter
-  [ @ 175 ] Terms & policies [ @ 176 ] Privacy policy [ @ 177 ] Brand guidelines                              [ @ 178 ]     [ @ 179 ] ►    [ @ 180 ]     [ @ 181 ] ] in
+  [ @ 175 ] Terms policies [ 176 ] Privacy policy [ @ 177 ] Brand guidelines                                    [ @ 178 ]     [ @ 179 ] ►   [ @ 180 ]     [ @ 181 ] in
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2016
+Token count: 2028

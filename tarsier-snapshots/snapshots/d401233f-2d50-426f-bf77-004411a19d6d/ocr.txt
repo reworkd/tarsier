@@ -1,76 +1,77 @@
------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 12 ] Patients & Visitors [ @ 13 ] MyChart [ @ 14 ] Careers [ @ 15 ] Giving
-             [ @ 11 ]   THE  UNIVERSITY    OF  KANSAS   HEALTH   SYSTEM
-                                                                                                                  [ @ 16 ] 913-588-1227
-                 [ @ 17 ]          [ @ 18 ] Find a Doctor    [ @ 19 ] Conditions & Care     [ @ 20 ] Find a Location       [ @ 21 ] Search
-            Quick  Guide
-                                                                                                                                [ @ 25 ]
-             [ @ 22 ] Home  [ @ 23 ] Find a Location | [ 24 ] Center for Advanced Vascular Care in Overland Park , KS
-                                                                                                                              ☐ [ @ 26 ]
-            □  [ @ 27 ] BACK TO ALL LOCATIONS
-             ( 23 ) Center              for
-             Advanced                        Vascular
-             Care
-             [ 29 ] Contact   Us                       [ 32 ] Location                           [ 36 ] Hours
-               [ @ 30 ] 913-588-1227                   [ 33 ] 10700 Nall Avenue Level 3                              [ 38 ] 8:00 AM - 4:30
-                                                                                                 [ 37 ] Monday      PM
-                                                       [ 34 ] Overland Park , KS 66211
-             [ 31 ] In case of an emergency , call                                                                   [ 40 ] 8:00 AM - 4:30
-                                                                                                 [ 39 ] Tuesday     PM
-             911 immediately .                         [ @ 35 ] GET DIRECTIONS
-                                                                                                                     [ 42 ] 8:00 AM - 4:30
-                                                                                                 [ 41 ] Wednesday   PM
-                                                                                                                     [ 44 ] 8:00 AM - 4:30
-                                                                                                 [ 43 ] Thursday    PM
-                                                                                                                     [ 46 ] 8:00 AM - 4:30
-                                                                                                 [ 45 ] Friday      PM
-                                                                                                 [ 47 ] Saturday     [ 48 ] Closed
-                                                                                                 [ 49 ] Sunday       [ 50 ] Closed
-           [ 51 ]
-             Housed on our Indian Creek Campus , The University of Kansas Health System Center for Advanced Vascular Care has the only program in the
-             region offering comprehensive , complex vascular care with multiple specialties colocated in the same physical space .
-                [ @ 52 ] REQUEST AN  APPOINTMENT           [ @ 53 ] CALL 913-588-1227
-                                                                                                              [ @ 54 ] BACK TO TOP
-             [ @ 55 ] Pay a Bill      [ $ 66 ] MEDICAL         [ $ 84 ] HEALTH
-                                      PROFESSIONALS            RESOURCES                             THE   UNIVERSITY     OF
-             [ @ 56 ] Make a                                                                         KANSAS    HEALTH    SYSTEM
-             Contribution             [ @ 67 ] Refer a Patient [ @ 85 ] Health Resources
-             [ @ 57 ] Clinical Trials [ @ 68 ] For Professionals [ @ 86 ] Healthy Living Tips
-                                      [ @ 69 ] What Sets Us Apart [ @ 87 ] Healthy Recipes
-             [ $ 58 ] ABOUT US        [ @ 70 ] Careers         [ @ 88 ] Events
-                                                                                               [ @ 101 ] [ @ 102 ] [ @ 103 ] [ @ 104 ] [ 105 ]
-             [ @ 59 ] Contact Us      [ @ 71 ] Referring       [ @ 89 ] Turning Point
-                                      Physicians & Tools
-             [ @ 60 ] About Us
-                                      [ @ 72 ] Education ,
-             [ @ 61 ] Media Relations Programs & Services      [ $ 90 ] GIVING BACK            [ @ 106 ] Notice of Privacy Practices
-             [ @ 62 ] Careers         [ @ 73 ] Clinical Trials [ @ 91 ] Giving                 [ @ 107 ] Privacy Policy
-             [ @ 63 ] Academic Medical [ @ 74 ] Publications & [ @ 92 ] Make a                 [ @ 108 ] The Kansas Open Records Act
-             Center Advantage         Events                   Contribution
-                                                                                               [ @ 109 ] Medical Records
-             [ @ 64 ] News & Events   [ @ 75 ] Prospective Partner [ @ 93 ] Volunteer
-                                                                                               [ @ 110 ] Vendors
-             [ @ 65 ] Quality Care                             [ @ 94 ] Donate Life
-                                      [ $ 76 ] PATIENTS ,      [ @ 95 ] Your Impact
-                                      FAMILY & VISITORS                                          [ $ 111 ] SUBSCRIBE TO BEWELL
-                                                                                                 CONNECTION
-                                      [ @ 77 ] Patients , Family &
-                                      Visitor Guide             96 ]                           [ # 112 ] Email /                UP
-                                                               [    EDUCATION                                      [ $ 113 ] SIGN
-                                      [ @ 78 ] Patient Information
-                                                               [ @ 97 ] Education and
-                                      [ @ 79 ] Billing , Insurance & Training
-                                      Financial Support
-                                                               [ @ 98 ] University of          [ 114 ] © 2023 The University of Kansas Health System
-                                      [ @ 80 ] Visitor & Family Kansas Medical Center
-                                      Information
-                                      [ @ 81 ] Support &
-                                      Resource Services
-                                                               [ 99 ] CANCER
-                                      [ @ 82 ] Frequently Asked CENTER
-                                      Questions
-                                                               [ @ 100 ] The University of
-                                      [ @ 83 ] Welcome to the  Kansas Cancer Center
-                                      Neighborhood
------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1137
+              [ @ 11 ]   THE  UNIVERSITY     OF  KANSAS    HEALTH    SYSTEM
+                                                                                                                         [ @ 16 ] 913-588-1227
+                  [ @ 17 ]           [ @ 18 ] Find a Doctor     [ @ 19 ] Conditions & Care       [ @ 20 ] Find a Location     □  [ @ 21 ] Search
+             Quick   Guide
+                                                                                                                                      [ @ 25 ]
+              [ @ 22 ] Home [ @ 23 ] Find a Location [ 24 ] Center for Advanced Vascular Care in Overland Park , KS
+                                                                                                                                      [ @ 26 ]
+                [ @ 27 ] BACK TO ALL LOCATIONS
+             [ 2 ] Center                for
+             Advanced                           Vascular
+              Care
+              [ 29 ] Contact   Us                         [ 32 ] Location                             [ 36 ] Hours
+                [ @ 30 ] 913-588-1227                     [ 33 ] 10700 Nall Avenue Level 3                                 [ 38 ] 8:00 AM - 4:30
+                                                                               KS 66211               [ 37 ] Monday       PM
+                                                          [ 34 ] Overland Park ,
+              [ 31 ] In case of an emergency , call                                                                        [ 40 ] 8:00 AM - 4:30
+                                                                                                      [ 39 ] Tuesday      PM
+              911 immediately .                           [ @ 35 ] GET DIRECTIONS    □
+                                                                                                                           [ 42 ] 8:00 AM - 4:30
+                                                                                                      [ 41 ] Wednesday    PM
+                                                                                                      [ 43 ]               [ 44 ] 8:00 AM - 4:30
+                                                                                                           Thursday       PM
+                                                                                                                           [ 46 ] 8:00 AM - 4:30
+                                                                                                      [ 45 ] Friday       PM
+                                                                                                      [ 47 ] Saturday      [ 48 ] Closed
+                                                                                                      [ 49 ] Sunday        [ 50 ] Closed
+         [ 51 ] Housed on our Indian Creek Campus , The University of Kansas Health System Center for Advanced Vascular Care has the only program in the
+              region offering comprehensive , complex vascular care with multiple specialties colocated in the same physical space .
+                [ @ 52 ] REQUEST   AN  APPOINTMENT            [ @ 53 ] CALL 913-588-1227
+                                                                                                                    [ @ 54 ] BACK TO  TOP
+              [ @ 55 ] Pay a Bill       [ $ 66 ] MEDICAL          [ $ 84 ] HEALTH
+                                        PROFESSIONALS             RESOURCES                               THE   UNIVERSITY      OF
+              [ @ 56 ] Make a Contribution
+                                        [ @ 67 ] Refer a Patient   @ 85 ] Health Resources                KANSAS     HEALTH    SYSTEM
+              [ @ 57 ] Clinical Trials                            [
+                                        [ @ 68 ] For Professionals [ @ 86 ] Healthy Living Tips
+                                        [ @ 69 ] What Sets Us Apart [ @ 87 ] Healthy Recipes
+              [ $ 58 ] ABOUT US
+                                        [ @ 70 ] Careers          [ @ 88 ] Events
+              [ @ 59 ] Contact Us
+                                        [ @ 71 ] Referring        [ @ 89 ] Turning Point            [ @ 101 ] [ @ 102 ] [ @ 103 ] [ @ 104 ] [ @ 105 ]
+              [ @ 60 ] About Us         Physicians & Tools
+              [ @ 61 ] Media Relations  [ @ 72 ] Education ,
+                                        Programs & Services       [ $ 90 ] GIVING BACK
+              [ @ 62 ] Careers                                                                      [ @ 106 ] Notice of Privacy Practices
+                                        [ @ 73 ] Clinical Trials  [ @ 91 ] Giving                   [ @ 107 ] Privacy Policy
+              [ @ 63 ] Academic Medical
+              Center Advantage          [ @ 74 ] Publications &   [ @ 92 ] Make a Contribution                                   Act
+                                        Events                                                      [ @ 108 ] The Kansas Open Records
+              [ @ 64 ] News & Events                              [ @ 93 ] Volunteer                [ @ 109 ] Medical Records
+                                        [ @ 75 ] Prospective Partner
+              [ @ 65 ] Quality Care                               [ @ 94 ] Donate Life               @ 110 ] Vendors
+                                                                                                    [
+                                                                  [ @ 95 ] Your Impact
+                                        [ $ 76 ] PATIENTS ,
+                                        FAMILY & VISITORS                                             [ $ 111 ] SUBSCRIBE TO BEWELL CONNECTION
+                                        [ @ 77 ] Patients , Family & [ 96 ] EDUCATION               [ # 112 ]
+                                        Visitor Guide                                                        Email A     [ $ 113 ] SIGN UP O
+                                        [ @ 78 ] Patient Information [ @ 97 ] Education and
+                                                                  Training
+                                        [ @ 79 ] Billing , Insurance &           of Kansas
+                                        Financial Support         [ @ 98 ] University
+                                                                  Medical Center                    [ 114 ] © 2023 The University of Kansas Health System
+                                        [ @ 80 ] Visitor & Family
+                                        Information
+                                        [ @ 81 ] Support & Resource
+                                        Services                  [ 99 ] CANCER
+                                                                  CENTER
+                                        [ @ 82 ] Frequently Asked
+                                        Questions                 [ @ 100 ] The University of
+                                                                  Kansas Cancer Center
+                                        [ @ 83 ] Welcome to the
+                                        Neighborhood
+------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1142

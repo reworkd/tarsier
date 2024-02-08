@@ -1,86 +1,85 @@
------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------
 [ @ 1 ]
-       [ @ ⁰ ]
-                                                     ****
-       والسلع الماليـة الأوراق هيئة                                                                                            VLAD
-       SECURITIES & COMMODITIES AUTHORITY                                                                                      United Arab Emira
-                                    العربية لإمارات
-                                                                                               [ @ 7 ]   [ @ 8 ] Login \ [ @ 9 ] [ @ 10 ]
-            Services   Regulations   [ @ 4 ] Digital Participation [ @ 5 ] Open Data [ @ 6 ] About Us
-        [ @ 29 ]       [ @ 30 ]           [ @ 31 ]                                              عربي |   Register
-     [ 32 ]
-       Automatic            Exchange             of   Information            -  FATCA         and     CRS
-       [ 33 ] Related   Links             [ 45 ] What is Automatic Exchange of Information ( " AEOI " ) ?
-                                          [ 46 ] AEOI is the Automatic Exchange of Information between competent authorities of different
-          [ @ 34 ] Regulations SCA's      jurisdictions pursuant to international agreements as implemented into domestic law to cooperate
-                                          in the global effort towards tax transparency .
-          [ @ 35 ] Market Rules
-                                          [ 47 ] The UAE is committed to the Foreign Account Tax Compliance Act ( " FATCA " ) and the
-         Approved by SCA
-                                          Common   Reporting Standard ( " CRS " ) regimes as a form of AEOI in the UAE .
-          [ @ 36 ] Circulars , Rules and  [ 48 ] FATCA and CRS regimes require UAE Reporting Financial Institutions ( " UAE RFIs " ) to report
-         procedures                       information on certain financial accounts maintained by reportable account holders and / or
-                                          controlling persons to the UAE Ministry of Finance ( " UAE MOF " ) on an annual basis .
-          [ @ 37 ] Anti - Money
-                                          [ 49 ] UAE MoF then exchanges the data with the IRS and peer jurisdictions for FATCA and CRS ,
-         Laundering and Terrorist
-                                          respectively . The UAE MoF may also have adhoc  requests from time to time pursuant to the
-         Financing
-                                          FATCA  and CRS  regimes .
-       0  [ @ 38 ] Draft of Legislation
-          [ @ 39 ] Latest Regulations
-          [ @ 40 ] The Unified advisory   [ 50 ] First : Foreign Account Tax Compliance Act ( [ 51 ] FATCA )
-         rules for GCC
-                                           1    [ @ 52 ] Communication from SCA Regarding Implementation of Foreign Account Tax Compliance
-          [ @ 41 ] Automatic Exchange          Act ( FATCA )
-         of Information - FATCA and
-         CRS                               2    [ @ 53 ] Intergovernmental Agreement between the U.S and the UAE
-          [ @ 42 ] Economic Substance
-                                           3    [ @ 54 ] Cabinet of Minesters Reolution No. ( 63 ) of 2022
+       [ @ 0 ]
+                                                   ****
+             الماليـة الأوراق هيئة                                                                                        VLAD
+       والسلع
+       SECURITIES & COMMODITIES AUTHORITY                                                                                 United Arab Emira
+                                  العربية قارات
+                                                                                           [ @ 7 ]   [ @ 8 ] Login \ [ @ 9 ] [ @ 10 ]
+            Services  Regulations  [ @ 4 ] Digital Participation [ @ 5 ] Open Data [ @ 6 ] About Us
+       [ @ 29 ]      [ @ 30 ]           [ @ 31 ]                                            عربي     Register        ☐
+   [ 32 ] Automatic        Exchange            of   Information           -  FATCA        and      CRS
+       [ 33 ] Related  Links             [ 45 ] What is Automatic Exchange of Information ( " AEOI " ) ?
+                                         [ 46 ] AEOI is the Automatic Exchange of Information between competent authorities of different
+         [ @ 34 ] Regulations SCA's     jurisdictions pursuant to international agreements as implemented into domestic law to cooperate
+                                        in the global effort towards tax transparency .
+         [ @ 35 ] Market Rules
+                    SCA                  [ 47 ] The UAE is committed to the Foreign Account Tax Compliance Act ( " FATCA " ) and the
+         Approved by
+                                        Common   Reporting Standard ( " CRS " ) regimes as a form of AEOI in the UAE .
+         [ @ 36 ] Circulars , Rules and  [ 48 ] FATCA and CRS regimes require UAE Reporting Financial Institutions ( " UAE RFIs " ) to report
+         procedures                     information on certain financial accounts maintained by reportable account holders and / or
+                                        controlling persons to the UAE Ministry of Finance ( " UAE MOF " ) on an annual basis .
+       0 [ @ 37 ] Anti - Money Laundering
+                                         [ 49 ] UAE MoF then exchanges the data with the IRS and peer jurisdictions for FATCA and CRS ,
+         and Terrorist Financing
+                                        respectively . The UAE MoF may also have adhoc requests from time to time pursuant to the
+         [ @ 38 ] Draft of Legislation   FATCA and CRS regimes .
+         [ @ 39 ] Latest Regulations
+         [ @ 40 ] The Unified advisory
+         rules for GCC                   [ 50 ] First : Foreign Account Tax Compliance Act ( [ 51 ] FATCA )
+         [ @ 41 ] Automatic Exchange of   1   [ @ 52 ] Communication from SCA Regarding Implementation of Foreign Account Tax Compliance
+         Information - FATCA and CRS          Act ( FATCA )
+         [ @ 42 ] Economic Substance
+                                          2   [ @ 53 ] Intergovernmental Agreement between the U.S and the UAE
          Regulations
-          [ @ 43 ] Regulations Drafts      4    [ @ 55 ] Flowchart for identification of FATCA reporting financial institutions
-          [ @ 44 ] Minority Investor       5    [ @ 56 ] FATCA Frequently Asked Questions ( " FAQs " )
+          @ 43 ] Regulations Drafts       3   [ @ 54 ] Cabinet of Minesters Reolution No. ( 63 ) of 2022
+         [
+       0 [ @ 44 ] Minority Investor       4   [ @ 55 ] Flowchart for identification of FATCA reporting financial institutions
          Protection
-                                          [ 57 ] Second : [ 58 ] Common Reporting Standard ( CRS )
-                                           1    [ @ 59 ] Cabinet Resolution No.93 of 2021 Implementing Certain Provisions of the Multilateral
-                                               Administrative Agreement for Automatic Exchange of Information
-                                           2    [ @ 60 ] Circular on CRS Undocumented Accounts
-                                           3    [ @ 61 ] Circular on What Should be Included in CRS Reporting
-                                           4    [ @ 62 ] Circular on Residence by Investment and Citizenship by Investment Schemes
-                                           5    [ @ 63 ] Guidance Notes for the Common Reporting Standard CRS
-                                           6    [ @ 64 ] Flowchart for identification of CRS reporting financial institutions
-                                           7    [ @ 65 ] UAE CRS FAQS
-                                           8    [ @ 66 ] OECD CRS FAQs
-                                           9    [ @ 67 ] CRS List of Participating Jurisdictions
-                                          [ 68 ] Third : [ 69 ] Others
-                                           1    [ @ 70 ] Satisfactory Practices and Unsatisfactory Practices
-                                         [ 71 ] Do you find this content helpful ?                           [ 75 ] Share this page [ @ 76 ]
-                                                                                                                                  [ @ 77 ]
-                                                     [ @ 73 ] N
-                                          [ @ 72 ] Y            [ @ 74 ] S
-            [ @ 78 ] Back to  [ @ 79 ] 800                     @ 80 ] REACH    [ $ 81 ] NEWSLETTER SIGNUP [ $ 83 ]
-                                                              [
-       Top                                                                       Your Email         [ # 82 ] ] SUBMIT
-                         SCAUAE    ( 722823 )            SCA
-                                               [ @ 86 ] Help &          [ 96 ] Website is last updated : 12/10/2023 [ @ 100 ] Federal Authority |
-        [ @ 84 ] Careers   [ @ 85 ] FAQs      Accessibility             05:58:44
-                                                                        [ 97 ] Site is best viewed in a 1280x1024 ] @ 101 [ امارات ، والسلع المالية الأوراق هيئة
-       [ @ 87 ] Glossary   [ @ 88 ] Sitemap    [ @ 89 ] Vendors Portal  screen resolution . Browser Compatibility : IE [ @ 102 ]
-                                                @ 92 ] Media Center     10+ , Chrome 39+ , Safari 5.1+ and Firefox
-        [ @ 90 ] Employee Portal [ @ 91 ] Reach Us [                    35+
-       [ @ 93 ] UAE                                                                                                     TAINASUL تواصـل
-       Government Charter for                                           [ 98 ] Visitor       Counter :             [ [ @ 104 ]
-                                                                                                                171     047771777
-       Future Services     [ @ 94 ] PTEC       [ @ 95 ] Archive         [ 99 ] 29922
-                                                                                                تطبيق      Ox
-                 SHEIKH KHALFA                                                            الإمـارات في الـسري الـمـتسـوق [ @ 107 ]
-        [ @ 105 ] GOVERNMENT EXCELLENCE              MOHAMMED BIN RASHID
-                 PROGRAM                                                    [ @ 106 )             Shopper
-                                                                                               04777 1000
-       [ @ 108 ] Disclaimer [ 109 ] ] [ @ 110 ] Privacy Policy [ 111 ]
+                                         5    [ @ 56 ] FATCA Frequently Asked Questions ( " FAQs " )
+                                         [ 57 ] Second : [ 58 ] Common Reporting Standard ( CRS )
+                                          1   [ @ 59 ] Cabinet Resolution No.93 of 2021 Implementing Certain Provisions of the Multilateral
+                                              Administrative Agreement for Automatic Exchange of Information
+                                          2   [ @ 60 ] Circular on CRS Undocumented Accounts
+                                          3   [ @ 61 ] Circular on What Should be Included in CRS Reporting
+                                          4   [ @ 62 ] Circular on Residence by Investment and Citizenship by Investment Schemes
+                                          5   [ @ 63 ] Guidance Notes for the Common Reporting Standard CRS
+                                          6   [ @ 64 ] Flowchart for identification of CRS reporting financial institutions
+                                          7   [ @ 65 ] UAE CRS FAQS
+                                          8   [ @ 66 ] OECD CRS FAQs
+                                          9   [ @ 67 ] CRS List of Participating Jurisdictions
+                                         [ 68 ] Third : [ 69 ] Others
+                                          1   [ @ 70 ] Satisfactory Practices and Unsatisfactory Practices
+                                       [ 71 ] Do you find this content helpful ?                         [ 75 ] Share this page @ 76 ]
+                                                                                                                             [ @ 77 ]
+                                                   [ @ 73 ] N
+                                        [ @ 72 ] Y            [ @ 74 ] S
+                                                      0
+            [ @ 78 ] Back to  [ @ 79 ] 800                   [ @ 80 ] REACH    [ $ 81 ] NEWSLETTER SIGNUP
+       Top                                                                       Your Email         S [ $ 83 ]
+                         SCAUAE   ( 722823 )             SCA
+                                             [ @ 86 ] Help &         [ 96 ] Website is last updated : 12/10/2023 [ @ 100 ] Federal Authority
+       [ @ 84 ] Careers   [ @ 85 ] FAQs      Accessibility           05:58:44
+                                                                     [ 97 ] Site is best viewed in a 1280x1024 ] @ 101 [ امارات ، والسلع المالية الأوراق هيئة
+       [ @ 87 ] Glossary  [ @ 88 ] Sitemap   [ @ 89 ] Vendors Portal screen resolution . Browser Compatibility : IE
+                                                        Center       10+ , Chrome 39+ , Safari 5.1+ and Firefox [ @ 102 ]
+       [ @ 90 ] Employee Portal [ @ 91 ] Reach Us [ @ 92 ] Media     35+
+       [ @ 93 ] UAE                                                                                            17 | TAWASUL تواصـل
+       Government Charter for                                        [ 98 ] Visitor       Counter :
+                                                                                                                        1777
+       Future Services                           ] Archive           [ 99 ] 29922                         [ @ 103 ] [ @ 104 ]
+                          [ @ 94 ] PTEC      [ @ 95
+                                                                                            تطبيق      OF
+                 SHEIKH KHALIFA                                                       الإمـارات في الـسري الـمـتسـوق [ @ 107 ]
+        [ @ 105 ] GOVERNMENT EXCELLENCE            MOHAMMED BIN RASHID راشـد بن محمد حالة [ @ 106 ]                   UAE
+                 PROGRAM                                                              UAE Mystery Shopper
+                                                                                           04777 1000
+       [ @ 108 ] Disclaimer [ 109 ] [ 110 ] Privacy Policy [ 111 ]
        [ @ 112 ] Terms & Conditions
-                                                                              [ @ 114 ] [ @ 115 ] [ @ 116 ] [ @ 117 ] [ @ 118 ] [ @ 119 ]
-        [ 113 ] 2023 Securities and Commodities Authority . All Rights Reserved .
-                                                                                                                    [ @ 120 ] [ @ 121 ]
------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1493
+                                                                              [ @ 114 ] [ @ 115 ] @ 116 ] [ @ 117 ] [ @ 118 ] [ @ 119 ]
+       [ 113 ] © 2023 Securities and Commodities Authority . All Rights Reserved .
+                                                                                                                [ @ 120 ] [ @ 121 ]
+------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1500
