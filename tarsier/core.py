@@ -1,12 +1,20 @@
+from asyncio import Protocol
 from pathlib import Path
 from typing import Dict, Tuple
 
-from tarsier._base import ITarsier
 from tarsier._utils import load_js
 from tarsier.adapter import AnyDriver, BrowserAdapter, adapter_factory
 from tarsier.ocr import OCRService
 
 TagToXPath = Dict[int, str]
+
+
+class ITarsier(Protocol):
+    async def page_to_image(self, driver: AnyDriver) -> Tuple[bytes, Dict[int, str]]:
+        raise NotImplementedError()
+
+    async def page_to_text(self, driver: AnyDriver) -> Tuple[str, Dict[int, str]]:
+        raise NotImplementedError()
 
 
 class Tarsier(ITarsier):
@@ -20,8 +28,9 @@ class Tarsier(ITarsier):
         self, driver: AnyDriver, tag_text_elements: bool = False, tagless: bool = False
     ) -> Tuple[bytes, Dict[int, str]]:
         adapter = adapter_factory(driver)
-        if not tagless:
-            tag_to_xpath = await self._tag_page(adapter, tag_text_elements)
+        tag_to_xpath = (
+            await self._tag_page(adapter, tag_text_elements) if not tagless else {}
+        )
         screenshot = await self._take_screenshot(adapter)
         if not tagless:
             await self._remove_tags(adapter)
@@ -62,7 +71,8 @@ class Tarsier(ITarsier):
 
         return {int(key): value for key, value in tag_to_xpath.items()}
 
-    async def _remove_tags(self, adapter: BrowserAdapter) -> None:
+    @staticmethod
+    async def _remove_tags(adapter: BrowserAdapter) -> None:
         script = "return window.removeTags();"
 
         await adapter.run_js(script)
