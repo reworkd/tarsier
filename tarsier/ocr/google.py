@@ -56,6 +56,8 @@ class GoogleVisionOCRService(OCRService):
                         midpoint[0] / max_width,
                         midpoint[1] / max_height,
                     ),
+                    "width": box[0].x - box[1].x,
+                    "height": box[2].y - box[0].y,
                 }
             )
 

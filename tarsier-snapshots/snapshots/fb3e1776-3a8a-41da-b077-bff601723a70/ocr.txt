@@ -1,18 +1,22 @@
--------------------------------------------------------------------------------------------------------------------------
-[ $ 3 ]    [ 6 ] API     [ $ 7 ]    [ 10 ] Safety                       [ @ 16 ]
-  [ @ 1 ]              [ 4 ] Research ✓         [ 8 ] ChatGPT ✓                          [ $ 13 ]  [ 17 ] Log in
-      OpenAl                  [ $ 11 ]                                                [ 14 ] Search [ @ 18 ]
-                          [ 12 ] Company ✓                                                          [ 19 ] Try ChatGPT >
+------------------------------------------------------------------------------------------------------------------------
+[ @ 9 ]                             [ @ 16 ]
+                           [ $ 3 ]     [ $ 5 ]     [ $ 7 ]    [ 10 ] Safety
+  [ @ 1 ]                                                                               [ $ 13 ]  [ 17 ] Log in 7
+                       [ 4 ] Research ✓ [ 6 ] API✓ [ 8 ] ChatGPT✓
+     OpenAl                                                                           [ 14 ] Search [ @ 18 ]
+                              [ $ 11 ]
+                                                                                                   [ 19 ] Try ChatGPT >
+                         [ 12 ] Company ✓
   [ @ 20 ]
   [ 21 ] Careers
-                                                                 [ 23 ] San Francisco , California , United States
-  [ 22 ] Data                                                    Applied   Al Engineering
-  22
+                                                                 [ 23 ] San Francisco , California , United States -
+  [ 22 ] Data
+                                                                 Applied  Al Engineering
   Infrastructure
   Engineer
   [ @ 24 ]             [ 26 ] About the Team
   [ 25 ] Apply now >
-                       [ 27 ] You'll join the team that's behind OpenAI's data infrastructure that
+                       [ 27 ] You'll join the team that's behind OpenAl's data infrastructure that
                        powers critical engineering , product , alignment teams that are core to the
                        work we do at OpenAI . The systems we support include our data
                        warehouse , batch compute infrastructure , streaming infrastructure , data
@@ -34,26 +38,26 @@
                        ● [ 34 ] Design , build , and maintain data infrastructure systems such as
                          distributed compute , data orchestration , distributed storage , streaming
                          infrastructure while ensuring scalability , reliability , and security
-                       ● [ 35 ] Ensure our data platform can scale reliably to the next several
+                         [ 35 ] Ensure our data platform can scale reliably to the next several
                          orders of magnitude
                        ● [ 36 ] Accelerate company productivity by empowering your fellow
                          engineers & teammates with excellent data tooling and systems ,
                          providing a best in case experience
                        ● [ 37 ] Bring new features and capabilities to the world by partnering with
                          product engineers , trust & safety and other teams to build the technical
-                         foundations
+                        foundations
                        ● [ 38 ] Like all other teams , we are responsible for the reliability of the
                          systems we build . This includes an on - call rotation to respond to critical
                          incidents as needed
                        [ 39 ] You might thrive in this role if you :
-                       ● [ 40 ] Have 4+ years in data infrastructure engineering OR
+                         [ 40 ] Have 4+ years in data infrastructure engineering OR
                        ● [ 41 ] Have 4+ years in infrastructure engineering with a strong interest in
                          data
                        ● [ 42 ] Take pride in building and operating scalable , reliable , secure
                          systems
                        ● [ 43 ] Are comfortable with ambiguity and rapid change
-                       • [ 44 ] Have a voracious and intrinsic desire to learn and fill in missing skills
-                         -and an equally strong talent for sharing learnings clearly and concisely
+                       ● [ 44 ] Have a voracious and intrinsic desire to learn and fill in missing skills
+                         --and an equally strong talent for sharing learnings clearly and concisely
                          with others
                        [ 45 ] Some of the technologies you'll be working with include Apache
                        Spark , Python , Terraform , Kafka , Azure EventHub , Vector DBs .
@@ -65,17 +69,17 @@
                        [ 47 ] We are committed to providing reasonable accommodations to
                        applicants with disabilities , and requests can be made via this
                        [ @ 49 ] link [ 48 ] .
-                       [ @ 50 ] OpenAl US Applicant Privacy Policy
+                       [ @ 50 ] OpenAI US Applicant Privacy Policy
                        [ 51 ] Compensation , Benefits and Perks
                        [ 52 ] Total compensation also includes generous equity and benefits .
-                       ● [ 53 ] Medical , dental , and vision insurance for you and your family
-                       • [ 54 ] Mental health and wellness support
+                         [ 53 ] Medical , dental , and vision insurance for you and your family
+                       ● [ 54 ] Mental health and wellness support
                        ● [ 55 ] 401 ( k ) plan with 4 % matching
-                       • [ 56 ] Unlimited time off and 18+ company holidays per year
+                       ● [ 56 ] Unlimited time off and 18+ company holidays per year
                        ● [ 57 ] Paid parental leave ( 20 weeks ) and family - planning support
                          [ 58 ] Annual learning & development stipend ( $ 1,500 per year )
                        [ 59 ] Annual Salary Range
-                       [ 60 ] $ 200,000 [ 61 ] [ 62 ] $ 385,000 USD
+                       [ 60 ] $ 200,000 [ 61 ] - [ 62 ] $ 385,000 USD
                        [ 63 ] About OpenAl
                        [ 64 ] OpenAl is an Al research and deployment company dedicated to
                        ensuring that general - purpose artificial intelligence benefits all of humanity .
@@ -92,27 +96,27 @@
                        [ 67 ] Apply now >
   [ @ 68 ]                                  [ 69 ] Research      [ 78 ] API           [ 87 ] ChatGPT       [ 94 ] Company
                                             [ @ 70 ]             [ @ 79 ]             [ @ 88 ]             [ @ 95 ]
-     OpenAl
+      OpenAl
                                             [ 71 ] Overview      [ 80 ] Overview      [ 89 ] Overview      [ 96 ] About
                                             [ @ 72 ]             [ @ 81 ]             [ @ 90 ]             [ @ 97 ]
                                             [ 73 ] Index         [ 82 ] Data privacy  [ 91 ] Enterprise    [ 98 ] Blog
                                             [ @ 74 ]             [ @ 83 ]             [ @ 92 ]             [ @ 99 ]
-                                            [ 75 ] GPT - 4       [ 84 ] Pricing       [ 93 ] Try ChatGPT >  [ 100 ] Careers
+                                            [ 75 ] GPT - 4       [ 84 ] Pricing       [ 93 ] Try ChatGPT > [ 100 ] Careers
                                             [ @ 76 ]             [ @ 85 ]                                  [ @ 101 ]
                                             [ 77 ] DALL - E 3    [ 86 ] Docs >                             [ 102 ] Charter
                                                                                                            [ @ 103 ]
-                                         EFE                                                               [ 104 ] Security
+                                                                                                           [ 104 ] Security
                                                                                                            [ @ 105 ]
                                                                                                            [ 106 ] Customer
-                                                                                                           stories
+                                                                                                          stories
                                                                                                            [ @ 107 ]
                                                                                                            [ 108 ] Safety
-  [ 109 ] OpenAIO 2015-2023                 [ @ 116 ]    [ @ 118 ]      [ @ 120 ]    [ @ 122 ]         [ @ 124 ]
+  [ 109 ] OpenAIO 2015-2023                 [ @ 116 ]    [ @ 118 ]     [ @ 120 ]    [ @ 122 ]        [ @ 124 ]
   [ @ 110 ]                                 [ 117 ] Twitter [ 119 ] YouTube [ 121 ] GitHub [ 123 ] SoundCloud [ 125 ] LinkedIn
   [ 111 ] Terms & policies
   [ @ 112 ]
   [ 113 ] Privacy policy
   [ @ 114 ]                                      [ $ 126 ]
   [ 115 ] Brand guidelines                  [ 127 ] Back to top ↑
--------------------------------------------------------------------------------------------------------------------------
-Token count: 1667
+------------------------------------------------------------------------------------------------------------------------
+Token count: 1678

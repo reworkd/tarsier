@@ -7,6 +7,8 @@ class ImageAnnotation(TypedDict):
     midpoint_normalized: Tuple[
         float, float
     ]  # the normalized midpoint between 0 - 1  (X,Y)
+    width: int  # the width of the word
+    height: int  # the height of the word
 
 
 class ImageAnnotatorResponse(TypedDict):

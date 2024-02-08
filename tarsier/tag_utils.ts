@@ -136,10 +136,10 @@ function create_tagged_span(idNum: number, el: HTMLElement) {
   idSpan.style.display = "inline";
   idSpan.style.color = "white";
   idSpan.style.backgroundColor = "red";
-  idSpan.style.padding = "2px";
-  idSpan.style.borderRadius = "5px";
+  idSpan.style.padding = "1.5px";
+  idSpan.style.borderRadius = "3px";
   idSpan.style.fontWeight = "bold";
-  idSpan.style.fontSize = "16px";
+  idSpan.style.fontSize = "15px";
   idSpan.style.fontFamily = "Arial";
   idSpan.style.margin = "1px";
   idSpan.style.lineHeight = "1.25";
@@ -258,18 +258,18 @@ function absolutelyPositionMissingTags() {
   In this case, we absolutely position the tag to the parent element
   */
   const distanceThreshold = 500;
-  const distanceToParentPadding = 20;
 
   const tags: NodeListOf<HTMLElement> = document.querySelectorAll(tarsierSelector);
   tags.forEach((tag) => {
     const parent = tag.parentElement as HTMLElement;
     const parentRect = parent.getBoundingClientRect();
+    const tagRect = tag.getBoundingClientRect();
+
     const parentCenter = {
       x: (parentRect.left + parentRect.right) / 2,
       y: (parentRect.top + parentRect.bottom) / 2,
     };
 
-    const tagRect = tag.getBoundingClientRect();
     const tagCenter = {
       x: (tagRect.left + tagRect.right) / 2,
       y: (tagRect.top + tagRect.bottom) / 2,
@@ -279,8 +279,15 @@ function absolutelyPositionMissingTags() {
     const dy = Math.abs(parentCenter.y - tagCenter.y);
     if (dx > distanceThreshold || dy > distanceThreshold || !elIsClean(tag)) {
       tag.style.position = "absolute";
-      tag.style.left = `${parentRect.left - distanceToParentPadding}px`;
-      tag.style.top = `${parentRect.top - distanceToParentPadding}px`;
+
+      // Ensure the tag is positioned within the screen bounds
+      let leftPosition = Math.max(0, parentRect.left - (tagRect.right + 3 - tagRect.left));
+      leftPosition = Math.min(leftPosition, window.innerWidth - (tagRect.right - tagRect.left));
+      let topPosition = Math.max(0, parentRect.top + 3); // Add some top buffer to center align better
+      topPosition = Math.min(topPosition, Math.max(window.innerHeight, document.documentElement.scrollHeight) - (tagRect.bottom - tagRect.top));
+
+      tag.style.left = `${leftPosition}px`;
+      tag.style.top = `${topPosition}px`;
 
       parent.removeChild(tag);
       document.body.appendChild(tag);

@@ -1,77 +1,75 @@
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-pag
-                                                                                                              E    [ @ 3 ] Schedule                              [ @ 4 ] Contact
-            [ @ 0 ] Foundation                    [ @ 1 ] Articles                [ @ 2 ] Careers                  Appointment                                  Us
-     [ @ 5 ]
-                                                                                                                                                                   Patients
-                                                                [ @ 6 ] Services      [ @ 7 ] Locations        [ @ 8 ] Providers       [ @ 9 ] About      [ @ 10 ]     &          [ @ 11 ]
-                                                                                                                                                                   Visitors
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+]                                                                   2 ] Careers                  [ @ 3 ] Schedule                              [ @ 4 ] Contact
+            [ @ 0  Foundation                    [ @ 1 ] Articles                [ @                              Appointment                                   Uls
+    [ @ 5 ]
+                                                                                                                                                                Patients
+                                                               [ @ 6 ] Services       [ @ 7 ] Locations       [ @ 8 ] Providers      [ @ 9 ] About      [ @ 10 ]    &           [ @ 11 ]
+                                                                                                                                                                Visitors
                     Archbold
- [ 12 ]
+[ 12 ]
     Our             Locations
-    [ $ 14 ] Search   Locations                                Category                                                    Services
-                                                             [ $ 17 ]                                                   [ $ 19 ] ]
-    [ # 15 ]                                                     All Categories                                             All Services
+    [ $ 14 ] Search  Locations                                  [ $ 16 ] Category                                          [ $ 18 ] Services
+    [ # 15 ]                                                   [ $ 17 ] ategories                                          [ $ 19 ] ervices
       Search  Term
-                                                                                                                                                         [ @ 20 ] Clear   Filters
+                                                                                                                                                          [ @ 20 ] Clear Filters
+                                                                       Leary
                                                                    urg                                         Putney                                            Ty Ty
                                                               [ $ 32                                                                                                           Tifton
-      [ 21 ] Archbold        Ambulatory                                                                      Dewitt
+      [ 21 ] Archbold       Ambulatory                                                                       Dewitt
                                                               [ $ 32                                                         Bridgeboro
       Care     Center                                              Milford                                Baconton                 ( 133 )
-                                                                      ( 216 )                                                           Anderson City
+                                                                      ( 216                                                             Anderson City
       [ 22 ] Ambulatory  Care                                             Elmodel                                    ( 112 )                                                    Eldora
                                                                                                                            93 )                                       Omega
                                                                                                                            (        Doerun ( 270 )
                                                                                         Newton            Flint Greenough
       [ 23 ] 947 South   Broad   St
-      [ 24 ] Thomasville   , GA  31792                            Anna                                     Adelaide      Sale                             Norman Park
+      [ 24 ] Thomasville  , GA  31792                             Anna                                     Adelaide     Sale                              Norman Park               L
                                                                                                                             City
       [ @ 25 ] 229.228.3707                                                                                                                              ( 319 )
-                                                                                                     [ 323 ]                 Hartsfield
+                                                                                                     [ 323 ] 6               Hartsfield
                                                                                                                                         Funston
       [ @ 26 ] MORE    INFORMATION                                                                                     Hinsonton                 Moultrie             Ellenton
                                                              Bellview             Hopeful                            Cotton                                           ( 37 )
                                                                              ( 311       Branchville
-                                                                                                            [ 324 ]
+                                                                                                            [ 324 ] 2
                                                                                                                         ( 111 )                  319
                                                                                          ( 262                     Meigs                                           Berlin
-      [ 27 ] Archbold        Anti
-                                                            ndo                                                                                       ( 33 )
-                                                                                                          Spence
-      Coagulation           Clinic                                                                                                       Coolidge                             Barney
-      [ 28 ] Pharmacy   Clinician Services                                                                  Ochlockne
-                                                                                                                    Ochlocknee
-                                                                 [ $ 325                                       ( 188 )                                  Pavo
-      [ 29 ] 114 Mimosa    Dr                                                                             Woodland                    ( 319 )                                   Morvel
-      [ 30 ] Suite A - C                                                                                                         Fredonial      ( 122 )                 ( 333 )
-                                                              Bainbriage                         ( 84 )
-                                                                                         Whigham                                                      Barwick
-      [ 31 ] Thomasville   , GA  31792                                         Climax
-                                                                    27                               [ 322 ]                                                                Spain
-      [ @ 32 ] 229.228.8223                                                                                                                           ( 33 )                   ( 76
-                                                                                                                             [ 320 ] 3
-                                                                 Fowlstown                                                                                              [ 321 ] 3
-      [ @ 33 ] MORE    INFORMATION                                                                                                               Boston .      Dixie
+      [ 27 ] Archbold       Anti
+                                                            ndo                                                                                      ( 33 )
+                            Clinic                                                                        Spence
+      Coagulation                                                                                                                        Coolidge                             Barney
+      [ 28 ] Pharmacy   Clinician Services
+                                                                                                            Ochlockne Ochlocknee
+                                                                 [ $ 325 ]  ( 309                              ( 188 )                                  Pavo
+      [ 29 ] 114 Mimosa    Dr                                                                                                         ( 319 )                                  Morvel
+                                                                                                         Woodland
+      [ 30 ] Suite A - C                                                                                                        Fredonial       ( 122 )                 ( 333 )
+                                                              Bainbridge                         ( 84 )
+      [ 31 ] Thomasville  , GA  31792                                                    Whigham                                                      Barwick
+                                                                               Climax
+      [ @ 32 ] 229.228.8223                                         27                                [ 322 ] 6                                                             Spain )
+                                                                                                                                                      ( 33 )                   ( 76 )
+                                                                                                                             [ 320 ] 30
+       @ 33 ] MORE     INFORMATION                               Fowlstown                                                                                              [ 321
+      [                                                                                                                                          Boston .      Dixie          ] 3
                                                             ville       Attapulgus
                                                                                        Calvary                                                                       ( 221 )
-                                                                                                                            Metcalf
-                                                            ( 267 )                 27                    lamonial                                                      Empress
-      [ 34 ] Archbold        Brooks
-                                                                                Hinson       Meridian       319
-      [ 35 ] Hospital                                                           Havana                                      ( 142 )
-                                                           1                                                                          Alma                      Ashville
-                                                                                                                Felkel Miccosukee
-      [ 36 ] 903 North   Court  St                                            Scotland )
-                                                             [ @ 328 ]                                                                                                      Hamburg
-      [ 37 ] Quitman  , GA  31643                                                                  Bradfordville
-                                                                [ $ 3291 Kavhnard shortcuts [ 3301 Man data @ 2023 Google INEGI [ 332110 km Mont @ 3331 Tarms  @ 3341   Report a man armor
-    [ 335 ] Non  - Discrimination   Notice
-     [ @ 336 ] English    [ @ 337 ] Español     [ @ 338 ] Tiếng      [ @ 339  ] 한국어        [ @ 340 ] XH    + X   [ @ 341 ] ³8²¹₁  ]    [ @ 342 ] Français   ( @ 343  ] hº¶
-                          ( Spanish  )          Việt                 ( Korean   )          ( Chinese   )         ( Gujarati )         ( French   )          ( Amharic   )
-                                                ( Vietnamese    )
-     [ @ 344 ] ] हिंदी    [ @ 345 ] Kreyòl      [ @ 346 ] Pусский    [ @ 347  ]            [ @ 348 ] Portuguê    [ @ 349 ]             [ @ 350 ] Deutsch    ( @ 351 ]
-    ( Hindi )             Ayisyen              ( Russian   )         ( Arabic  )           ( Portuguese    )     ( Farsi )            ( German    )         ( Japanese    )
+                                                                                                                            Metcalf                                             ( 333 )
+      [ 34 ] Archbold        Brooks                         ( 267 )                 27                    lamonial                                                      Empress
+      [ 35 ] Hospital                                                           Hinson       Meridian      319
+                                                           1                    Havana                                      ( 142 )                             Ashville
+                                                                                                                                      Alma
+      [ 36 ] 903 North  Court   St                                                                              Felkel Miccosukee
+                                                             [ @ 328 ]        Scotland                                                     19 )
+      [ 37 ] Quitman  , GA  31643                                                                  Bradfordville                                                            Hamburg
+      Fo1220       262   1171                                [ $ 3291 Keyboard shortcuts [ 3301 Map data © 2023 Google , INEGI r $ 3311 Monticell@33.31 Terms [ @ 3341  Report a map error
+    [ 335 ] Non - Discrimination   Notice
+    [ @ 336 ] ] English   [ @ 337 ] Español    [ t @ 338 ] ] Tiếng   [ @ 339 ] 한국어         [ t @ 340 ] KH #  X   [ @ 341 ] J % 2Id ]  [ @ 342 ] Français    [ @ 343 ] hº
+                          ( Spanish  )         Việt                  ( Korean   )          ( Chinese  )          ( Gujarati )         ( French  )           ( Amharic   )
+                                               ( Vietnamese     )
+    [ @ 344 ] ] हिंदी     [ @ 345 ] Kreyòl      [ @ 346 ] Русский    [ @ 347 ]             [ @ 348 ] Portuguê    [ @ 349 ]             [ @ 350 ] Deutsch    ( @ 351 ]
+    ( Hindi )            Ayisyen               ( Russian   )         ( Arabic  )           ( Portuguese    )     ( Farsi )            ( German    )         ( Japanese   )
                           ( French   Creole  )
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1098
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1132

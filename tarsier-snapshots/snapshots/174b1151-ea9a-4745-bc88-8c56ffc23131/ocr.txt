@@ -1,51 +1,47 @@
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ 13 ]
-          Our         Locations
-          [ $ 14 ] Search Locations                                                                ch Ch Services
-                                                                                            [ $ 171
-          [ # 15 ]                                                                               All Services
-            Search    by  location   name
-                                                                                                                                                         [ @ 18 ] Clear  Filters
-          [ @ 19 ] ]                                               [ @ 20 ]                                                [ @ 21 ]
-                                        PANTH                                                                                                  E3
-          Houston      Healthcare      -  Perry                   Houston       Healthcare      -  Warner                  Roy   H.  " Sonny    " Watson      Health
-                                                                  Robins                                                   Pavilion
-          1120   Morningside      Drive
-          Perry , GA   31069                                      1601    Watson    Boulevard                              233   North  Houston     Road
-          ( 478 ) 987-3600                                        Warner     Robins   , GA  31093                          Warner    Robins   , GA   31093
-          More  Information                                       ( 478 ) 922-4281                                         More  Information
-                                                                  More  Information
-          [ @ 22 ]                                                 [ @ 23 ]                                                [ @ 24 ]
-                                                                                                             -
-                                                                                                           MED - STOP
-                        MED - STOP
-                                                                                 +
-                                   LITE
-          Bonaire     Med   - Stop   - an  Outpatient             Lake    Joy   Med   - Stop   - an  Outpatient            Pavilion     Med  - Stop   - an  Outpatient
-          Department       of  Houston       Healthcare           Department        of  Houston      Healthcare            Department       of  Houston       Healthcare
-          520   Georgia    Highway     247  South   , Suite        1118  Highway     96                                    233  North    Houston    Road   , Suite  140   A ,
-          501                                                     Kathleen    , GA  31047                                  E1  Entrance
-          Bonaire   , GA  31005                                   ( 478 ) 975-6890                                         Warner    Robins   , GA   31093
-          ( 478 ) 352-7110                                        More   Information                                       ( 478 ) 975-6720
-          More  Information                                                                                                More  Information
-          [ @ 25 ]                                                 [ @ 26 ]                                                [ @ 27 ]
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ 13 ] Our        Locations
+          [ $ 14 ] Search Locations                                                         [ $ 16 ] Search Services
+          [ # 15 ]                                                                          [ $ 17 ] Services
+            Search    by  location  name
+                                                                                                                                                      [ @ 18 ] Clear Filters
+          [ @ 19 ]                                               [ @ 20 ]                                                [ @ 21 ]
+                                       Fo                                                                                                  E3
+          Houston      Healthcare     -  Perry                   Houston      Healthcare      - Warner                  Roy    H. " Sonny    " Watson      Health
+                                                                 Robins                                                 Pavilion
+          1120  Morningside      Drive
+          Perry , GA  31069                                      1601   Watson    Boulevard                             233   North  Houston     Road
+          ( 478 ) 987-3600                                       Warner    Robins   , GA  31093                         Warner    Robins   , GA  31093
+          More  Information                                      ( 478 ) 922-4281                                       More  Information
+                                                                 More  Information
+          [ @ 22 ]                                               [ @ 23 ]                                               [ @ 24 ]
+                                                                                                         MED - STOP
+                     --MED - STOP
+                                                                                + -5²
+          Bonaire     Med  - Stop   - an  Outpatient             Lake    Joy   Med  - Stop   - an  Outpatient           Pavilion    Med   - Stop   - an  Outpatient
+          Department       of  Houston     Healthcare            Department       of  Houston      Healthcare           Department       of  Houston      Healthcare
+          520  Georgia    Highway     247  South   , Suite       1118   Highway    96                                   233   North  Houston     Road   , Suite  140  A ,
+         501                                                     Kathleen   , GA  31047                                 E1   Entrance
+          Bonaire  , GA   31005                                  ( 478 ) 975-6890                                       Warner    Robins   , GA  31093
+         ( 478 ) 352-7110                                        More  Information                                      ( 478 ) 975-6720
+          More  Information                                                                                             More  Information
+          [ @ 25 ]                                               [ @ 26 ]                                               [ @ 271
                      W3
-          Cary   W.   Martin    Conference       Center            Health    Connections        - Cardiac     and          Houston      Behavioral      Health
-                                                                  Pulmonary        Rehabilitation                          Associates
-          233   North   Houston    Road   , W3
-          Warner    Robins   , GA   31093                          1601   Watson    Boulevard                              233   North   Houston    Road   , E3  Entrance    ,
-          ( 478 ) 733-9507                                        Warner     Ro    ns , GA  31093                          Suite  103
-          More  Information                                       ( 478 ) 322-5143                                         Warner    Robins   , GA   31093
-                                                                  More   Information                                       ( 478 ) 352-7001
-                                                                                                                           More  Information
-          [ @ 28 ]                                                 [ @ 29 ]                                                [ @ 30 ]
-                     W3
-          Houston      ENT    Associates                           Houston      Family    Care    at Bonaire               Houston      Family     Care   at  Perry
-          233   North              Road   , W3  - Suite            127       Highway     96 , Suite  B                     1057   Morningside      Drive
-          171                                                     Bonaire   , GA   31005                                   Perry , GA   31069
-          Warner    Robins   , GA  31093                          ( 478 ) 352-7143                                         ( 478 ) 218-1801
-          ( 478 ) 352-7050                                        More  Information                                        More  Information
+          Cary   W.  Martin    Conference       Center           Health    Connections       - Cardiac     and          Houston      Behavioral      Health
+                                                                 Pulmonary       Rehabilitation                         Associates
+          233  North   Houston    Road   , W3
+         Warner     Robins   , GA  31093                         1601   Watson    Boulevard                             233   North  Houston     Road   , E3  Entrance   ,
+         ( 478 ) 733-9507                                        Warner    Robins   , GA  31093                         Suite  103
+          More  Information                                      ( 478 ) 322-5143                                       Warner    Robins   , GA  31093
+                                                                 More  Information                                      ( 478 ) 352-7001
+                                                                                                                        More  Information
+          [ @ 28 ]                                               [ @ 29 ]                                               [ @ 30 ]
+                     W3                          CORY MANTER
+          Houston      ENT   Associates                          Houston      Family    Care   at  Bonaire              Houston      Family    Care    at Perry
+          233  North   Houston    Road   , W3   - Suite          127  Old   Highway    96 , Suite  B                    1057   Morningside     Drive
+          171                                                    Bonaire  , GA   31005                                  Perry , GA   31069
+         Warner     Robins   , GA  31093                         ( 478 ) 352-7143                                       ( 478 ) 218-1801
+         ( 478 ) 352-7050                                        More  Information                                      More  Information
           More  Information
-                                                                                                       [ @ 31 ]       [ 32 ] Page [ # 34 ]  1    [ 33 ] of [ 35 ] 3    [ @ 36 ]
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 852
+                                                                                                        [ @ 31 ]      [ 32 ] Page [ # 34 ] 1   [ 33 ] of [ 35 ] 3   [ @ 36 ]
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 854
