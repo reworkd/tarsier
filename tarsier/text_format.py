@@ -79,9 +79,11 @@ def format_text(ocr_text: ImageAnnotatorResponse) -> str:
     for i, (y, line_annotations) in enumerate(line_cluster.items()):
         # Sort annotations in this line by x coordinate
         line_annotations.sort(key=lambda e: e["midpoint_normalized"][0])
+        # grouped_line_annotations = line_annotations
+        grouped_line_annotations = group_words_in_sentence(line_annotations)
 
         last_x = 0  # Keep track of the last position where text was inserted
-        for annotation in line_annotations:
+        for annotation in grouped_line_annotations:
             text = annotation["text"]
 
             x = math.floor(annotation["midpoint_normalized"][0] * canvas_width)
@@ -110,3 +112,75 @@ def format_text(ocr_text: ImageAnnotatorResponse) -> str:
     page_text = "-" * canvas_width + "\n" + page_text + "\n" + "-" * canvas_width
 
     return page_text
+
+
+def group_words_in_sentence(
+    line_annotations: List[ImageAnnotation],
+) -> List[ImageAnnotation]:
+    """
+    Issue: Large text will contain large spaces in between words after text formatting because of how we render them
+        into plaintext. This is because the rendered font size is much smaller than the actual font size in page space.
+        When we insert text, we calculate the insert position as the max between the last inserted character in text
+        space and the new characters midpoint.
+
+    This Solution: Preprocess the line to group large words together in the same line. This works by calculating the
+        width of a single character for the current font size. If the next word is of a similar font_size and is within
+         a space of the previous word, we assume they are a part of the same group and combine them together.
+    """
+
+    grouped_annotations: List[ImageAnnotation] = []
+    current_group: List[ImageAnnotation] = []
+
+    for annotation in line_annotations:
+        if len(current_group) == 0:
+            current_group.append(annotation)
+            continue
+
+        character_width = (
+            current_group[-1]["width"] / len(current_group[-1]["text"])
+        ) * 2  # Additional padding
+        is_single_character_away = annotation["midpoint"][0] <= (
+            (current_group[-1]["midpoint"][0] + current_group[-1]["width"])
+            + character_width
+        )
+
+        if (
+            abs(annotation["height"] - current_group[0]["height"]) < 3
+            and is_single_character_away
+        ):
+            current_group.append(annotation)
+        else:
+            if len(current_group) > 0:
+                grouped_annotation = create_grouped_annotation(current_group)
+                grouped_annotations.append(grouped_annotation)
+                current_group = [annotation]
+
+    # Append the last group if it exists
+    if current_group:
+        grouped_annotations.append(create_grouped_annotation(current_group))
+
+    return grouped_annotations
+
+
+def create_grouped_annotation(group: List[ImageAnnotation]) -> ImageAnnotation:
+    # For the text, don't put a space if it is a period or a comma or a quote
+    text = ""
+    for word in group:
+        if word["text"] in [".", ",", '"', "'", ":", ";", "!", "?", "{", "}", "’", "”"]:
+            text += word["text"]
+        else:
+            text += " " + word["text"]
+
+    return {
+        "text": text,
+        "midpoint": (
+            group[0]["midpoint"][0],
+            group[0]["midpoint"][1],
+        ),
+        "midpoint_normalized": (
+            group[0]["midpoint_normalized"][0],
+            group[0]["midpoint_normalized"][1],
+        ),
+        "width": sum(a["width"] for a in group),
+        "height": group[0]["height"],
+    }

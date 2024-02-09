@@ -1,66 +1,66 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 2 ]
-             UVAHealth
-                                                                  [ @ 3 ] APPOINTMENTS                 [ @ 4 ] BILLING         [ @ 5 ] CLINICAL      TRIALS          [ @ 6 ] CAREERS              [ @ 7 ] MYCHART
-                                                                                                                                                                    [ # 131
-      [ @ 8 ] Find                       [ @  9 ] Services                        [ @ 10 ]  Locations                        [ @  11 ] Patients
-      a  Doctor                                                                                                              &   Visitors                                        SEARCH                     [ $ 14 ]
-[ 15 ]
-  Location                Details
-  [ @  16 ] Home             [ @ 17 ] Find  A  Location            [ 18 ] UVA   Medical    Park   Zion   Crossroads
-                                                                                                                                                                                                  Ma
-                                                                                                                                        [ $ 38 ] Map        [ $ 391  Satellite
-  [ 19 ] UVA          Medical               Park         Zion          Crossroads                                                                                                             James              [ $ 41 ]
-                                                                                                                                                                                                      Walmart
-  [ 20 ] 1015   Spring    Creek   Parkway                                                                                                                                                             Distribution Cente
-                                                d   [ @ 22  ] Directions                                                                                                                                         [ $ 42
-  [ 21 ] Zion  Crossroads      , VA 22942                                                                                                                               Lowe's  Home
-                                                                                                                                                                        Improvement                              [ $ 43
-                                                                                                                                    [ @ 44  ]
-    e        @  23 ] 434.924.0000                                                                                                                            Walmart  Supercenter
-            [                                                                                                                      Kavboard shortcuts 461  Map data © 2023 Google 10471  Tarms    @ 481   Report a man error
-   [ @ 24 ] 434.924.5227
-  [ 25 ] Location     hours   :
-      [ 26 ] Monday    : 7:15  AM   - 5:00   PM
-   •  [ 27 ] Tuesday    : 7:15  AM   - 5:00  PM
-      [ 28 ] Wednesday      : 7:15  AM   - 5:00   PM
-      [ 29 ] Thursday    : 7:15  AM   - 5:00   PM
-   •  [ 30 ] Friday  : 7:15  AM   - 5:00   PM
-      [ 31 ] Saturday   : Closed
-      [ 32 ] Sunday    : Closed
-  [ 34 ] Lab   hours   [ 33 ] : Monday     - Friday  , 8 a.m.  - 5  p.m.
-  [ 36 ] Free   parking    : [ 35 ] Convenient    , on - site patient  parking   .
-  [ 49 ] Onsite             Conveniences
-  [ 50 ] UVA    Medical    Park  Zion   Crossroads      offers  varying   levels  of  care  , from  diagnostic    services   to  post
-  procedure     follow  - up and  prevention    . Services    that  were   once   available    only  at UVA   are   now   offered   right in
-  your   community     . This  building   is located   just off 1-64  at  exit 136  , with  ample   parking    and   easy   access   .
-  [ 51 ] Available    Services
-      [ @ 52  ] Imaging
-      [ @ 53  ] Pharmacy
-      [ @ 54  ] Labs
-  [ 55 ] UVA          Primary               and         Specialty                Care          Zion         Crossroads
-  [ 56 ] At our   Primary    and  Specialty    Care   clinic , our  [ 61 ] primary    care  [ 57 ]  services   will be  temporarily
-  closing   as  of July  31  , 2022  , but we'll  continue    to provide   specialty    care  at this  location  . To  receive
-  uninterrupted    , quality   healthcare   , call one   of our  other   practices   for  an  appointment     . These   clinics  are
-  accepting     new   patients  : [ @ 62  ] UVA   Medical    Associates     of Louisa   [ 58 ] , [ @ 63 ] UVA    Primary   and   Specialty  .
-  Care   Pantops    [ 59 ] , and   [ @ 64 ] UVA    Primary    Care   Riverside    [ 60 ] .
-  [ 65 ] Clinics            at    This         Location
-   [ @ 66 ] Primary    and   Specialty   Care   Zion   Crossroads          [ @ 68 ] UVA    Zion  Crossroads      Pharmacy
-   [ @ 67 ] UVA   Imaging    Zion   Crossroads
-           UVAHealth
-                    [ 69 ] 1215   Lee  Street                            [ 72 ] UVA     HEALTH                        [ 78 ] COMMUNITY                                  [ 84 ] PATIENTS          &  VISITORS
-                    [ 70 ] Charlottesville  , VA 22903                          ] About   Us                                         a Job  | Careers                                      a Patient
-                                                                         [ @ 73                                       [ @ 79  ] Find                                    [ @ 85  ] Contact
-                    d   [ @ 71  ] Map   & Directions                     [ @ 74  ] Clinical Trials                    [ @ 80  ] Donate                                  [ @ 86 ] Give  Feedback
-                                                                         [ @ 75 ] News                                [ @ 81  ] Volunteer                               [ @ 87 ] Medical   Records
-                                                                         [ @ 76  ] Services                           [ @ 82  ] Patient  Referrals                      [ @ 88 ]  Pay your  Bill
-                                                                         [ @ 77  ] Quality  & Safety                  [ @ 83  ] Request   Privileges                    [ @ 89  ] Getting  Financial  Assistance
-  cj1f
-   [ @ 98  ] Patient Rights   & Policies   [ 99 ]   [ @  100  ] Web  Privacy    [ 101 ]    [ @ 102  ] Report  Accessibility  Barrier   [ 103  ] |
-[ 104 ] 23 Rector   and  Visitors of the University  of  Virginia .
-  [ @  105  ]                                     [ @ 106  ]                                               [ @ 107  ]                                              [ @ 108  ]
-                      [ 111 ] We   use  cookies    and   similar   tools  to improve     your  web    experience    .
-  [ @ 109   ]                                             [ @ 110  ]                                                                                                      [ $ 113 ] ACCEPT
-                      [ $ 112 ] Read    our  privacy   policy .
+              UVAHealth
+                                                                   [ @ 3 ] APPOINTMENTS                 [ @ 4 ] BILLING         [ @ 5 ] CLINICAL TRIALS               [ @ 6 ] CAREERS              [ @ 7 ] MYCHART
+                                                                                                                                                                     [ # 131
+       [ @ 8 ] Find                       [ @ 9 ] Services                         [ @ 10 ] Locations                         [ @ 11 ] Patients
+       a Doctor                                                                                                               & Visitors                                          SEARCH                     [ $ 14 ]
+ [ 15 ]
+   Location Details
+   [ @ 16 ] Home              [ @ 17 ] Find A Location              [ 18 ] UVA Medical Park Zion Crossroads
+                                                                                                                                                                                                   Ma
+                                                                                                                                         [ $ 38 ] Map        [ $ 391 Satellite
+   [ 19 ] UVA Medical Park Zion Crossroads                                                                                                                                                     James              [ $ 41 ]
+                                                                                                                                                                                                       Walmart
+   [ 20 ] 1015 Spring Creek Parkway                                                                                                                                                                    Distribution Cente
+                                                 d [ @ 22 ] Directions                                                                                                                                            [ $ 42
+   [ 21 ] Zion Crossroads, VA 22942                                                                                                                                      Lowe's Home
+                                                                                                                                                                         Improvement                              [ $ 43
+                                                                                                                                     [ @ 44 ]
+     e        @ 23 ] 434.924.0000                                                                                                                             Walmart Supercenter
+             [                                                                                                                      Kavboard shortcuts  461 Map data © 2023 Google  10471 Terms    @ 481 Report a man error
+    [ @ 24 ] 434.924.5227
+   [ 25 ] Location hours:
+       [ 26 ] Monday: 7:15 AM - 5:00 PM
+   . [ 27 ] Tuesday: 7:15 AM - 5:00 PM
+       [ 28 ] Wednesday: 7:15 AM - 5:00 PM
+       [ 29 ] Thursday: 7:15 AM - 5:00 PM
+    • [ 30 ] Friday: 7:15 AM - 5:00 PM
+       [ 31 ] Saturday: Closed
+       [ 32 ] Sunday: Closed
+   [ 34 ] Lab hours [ 33 ]: Monday - Friday,           8 a.m. - 5 p.m.
+   [ 36 ] Free parking: [ 35 ] Convenient, on - site patient parking.
+   [ 49 ] Onsite             Conveniences
+   [ 50 ] UVA Medical Park Zion Crossroads offers varying levels of care, from diagnostic services to post
+   procedure follow - up and prevention. Services that were once available only at UVA are now offered right in
+   your community. This building is located just off 1-64 at exit 136, with ample parking and easy access.
+   [ 51 ] Available Services
+       [ @ 52 ] Imaging
+       [ @ 53 ] Pharmacy
+       [ @ 54 ] Labs
+   [ 55 ]  UVA Primary and Specialty Care Zion Crossroads
+   [ 56 ] At our Primary and Specialty Care clinic, our [ 61 ] primary care [ 57 ] services will be temporarily
+   closing as of July 31, 2022, but we'll continue to provide specialty care at this location. To receive
+   uninterrupted, quality healthcare, call one of our other practices for an appointment. These clinics are
+   accepting new patients: [ @ 62 ] UVA Medical Associates of Louisa [ 58 ],                     [ @ 63 ] UVA Primary and Specialty.
+   Care Pantops [ 59 ], and [ @ 64 ] UVA Primary Care Riverside [ 60 ].
+   [ 65 ] Clinics at This Location
+    [ @ 66 ] Primary and Specialty Care Zion Crossroads                     [ @ 68 ] UVA Zion Crossroads Pharmacy.
+    [ @ 67 ] UVA Imaging Zion Crossroads
+            UVAHealth
+                     [ 69 ] 1215 Lee Street                               [ 72 ] UVA HEALTH                            [ 78 ] COMMUNITY                                  [ 84 ] PATIENTS & VISITORS
+                     [ 70 ] Charlottesville, VA 22903                            ] About Us                                           a Job I Careers                                       a Patient
+                                                                          [ @ 73                                       [ @ 79 ] Find                                     [ @ 85 ] Contact
+                     d [ @ 71 ] Map & Directions                          [ @ 74 ] Clinical Trials                     [ @ 80 ] Donate                                   [ @ 86 ] Give Feedback
+                                                                          [ @ 75 ] News                                [ @ 81 ] Volunteer                                [ @ 87 ] Medical Records
+                                                                          [ @ 76 ] Services                            [ @ 82 ] Patient Referrals                        [ @ 88 ] Pay your Bill
+                                                                          [ @ 77 ] Quality & Safety                    [ @ 83 ] Request Privileges                       [ @ 89 ] Getting Financial Assistance
+   cj 1f
+    [ @ 98 ] Patient Rights & Policies      [ 99 ]   [ @ 100 ] Web Privacy [ 101 ]          [ @ 102 ] Report Accessibility Barrier [ 103 ] |
+ [ 104 ] 23 Rector and Visitors of the University of Virginia.
+   [ @ 105 ]                                       [ @ 106 ]                                                [ @ 107 ]                                               [ @ 108 ]
+                       [ 111 ] We use cookies and similar tools to improve your web experience.
+   [ @ 109 ]                                               [ @ 110 ]                                                                                                       [ $ 113 ] ACCEPT
+                       [ $ 112 ] Read our privacy policy.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1403
+Token count: 1150
