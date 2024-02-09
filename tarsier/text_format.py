@@ -114,7 +114,9 @@ def format_text(ocr_text: ImageAnnotatorResponse) -> str:
     return page_text
 
 
-def group_words_in_sentence(line_annotations: List[ImageAnnotation]) -> List[ImageAnnotation]:
+def group_words_in_sentence(
+    line_annotations: List[ImageAnnotation],
+) -> List[ImageAnnotation]:
     """
     Issue: Large text will contain large spaces in between words after text formatting because of how we render them
         into plaintext. This is because the rendered font size is much smaller than the actual font size in page space.
@@ -126,18 +128,26 @@ def group_words_in_sentence(line_annotations: List[ImageAnnotation]) -> List[Ima
          a space of the previous word, we assume they are a part of the same group and combine them together.
     """
 
-    grouped_annotations = []
-    current_group = []
+    grouped_annotations: List[ImageAnnotation] = []
+    current_group: List[ImageAnnotation] = []
 
     for annotation in line_annotations:
         if len(current_group) == 0:
             current_group.append(annotation)
             continue
 
-        character_width = (current_group[-1]["width"] / len(current_group[-1]["text"])) * 2  # Additional padding
-        is_single_character_away = annotation["midpoint"][0] <= ((current_group[-1]["midpoint"][0] + current_group[-1]["width"]) + character_width)
+        character_width = (
+            current_group[-1]["width"] / len(current_group[-1]["text"])
+        ) * 2  # Additional padding
+        is_single_character_away = annotation["midpoint"][0] <= (
+            (current_group[-1]["midpoint"][0] + current_group[-1]["width"])
+            + character_width
+        )
 
-        if abs(annotation['height'] - current_group[0]['height']) < 3 and is_single_character_away:
+        if (
+            abs(annotation["height"] - current_group[0]["height"]) < 3
+            and is_single_character_away
+        ):
             current_group.append(annotation)
         else:
             if len(current_group) > 0:
@@ -156,7 +166,7 @@ def create_grouped_annotation(group: List[ImageAnnotation]) -> ImageAnnotation:
     # For the text, don't put a space if it is a period or a comma or a quote
     text = ""
     for word in group:
-        if word["text"] in [".", ",", "\"", "'", ":", ";", "!", "?", "{", "}", "’", "”"]:
+        if word["text"] in [".", ",", '"', "'", ":", ";", "!", "?", "{", "}", "’", "”"]:
             text += word["text"]
         else:
             text += " " + word["text"]
