@@ -1,70 +1,70 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 83 ]      Back  to Careers
-    Front             -  End            Engineer                        -    Ul       Component                                 Library
-   GUADALAJARA         , MEXICO
-   C3.ai  , Inc. ( NYSE : Al ) is a leading provider of Enterprise Al software  for accelerating   digital transformation  . The  proven  C3
-   Al Platform   provides  comprehensive      services  to build enterprise  - scale Al applications  more   efficiently and cost - effectively
-   than  alternative  approaches    . The core  of the C3  Al offering is an open  , data - driven Al architecture  that dramatically
-   simplifies  data  science  and  application   development    . Learn more   at : C3 AI
-   We   are hiring front - end engineers  at all levels to lead and  maintain   the Ul component     library of the C3  AI Application
-   Platform  . Our  Ul component     library allows our  customers   to  rapidly deliver data - rich Al applications  and  scale them   to
-   handle   TBs  of data , and  we  want  to take  it to the next level .
-   Responsibilities    :
-     •  Lead  the development     of new   UI components     to be  used  by fellow  engineers  .
-     •  Maintain  an  ever - growing library of components     to be  used  across   different applications  and  industries .
-     •  Research   and  implement    internal tools to  increase  the productivity  of Engineering   , UX , and PMs  .
-     •  Provide  technical  guidance   and   support  for our  UX  and  PM  teams  .
-   Qualifications   :
-     •  Bachelor   of Science   in Computer   Science   , Computer   Engineering   , or related fields .
-     •  Experience   working   with  client - side technologies  including  Javascript  , Typescript , React / Redux .
-        Experience   with  version  control systems   , including Git .
-     •  Prior experience   designing   and  implementing    reusable   UI components    .
-     •  Experience   working   as  part of a cross - functional team  of PM  , UX , and  Engineering  .
-   Preferred    Qualifications   :
-     •  Prior experience   developing    a Ul component     library or design  system   for other engineers  .
-     •  Proven  experience    with pixel - perfect execution  of UI  components    .
-     •  Working   knowledge    of accessibility  best  practices .
-     •  Ability to effectively articulate complex    concepts   to technical  and  non - technical audiences   .
-     •  Excellent  analytical and  troubleshooting    skills .
-   C3  Al  provides  a competitive   compensation     package    and  excellent  benefits .
-                                                                                                                                Maggie
-                                                                                                                Senior Manager , Application Engineering
-                                                                                                                                       C3.ai
-             00:46
-   C3  Al is proud   to be an  Equal           unity and Affirmative  Action              We  do  not discriminate   on  the basis  of any
-   legally protected   characteristics  , including disabled   and  veteran  status .
-                     this   Job                                                                                                    * Required
-       Apply    for
-       First Name *                                                      Last Name
-       Email                                                             Phone
-                                                                          Resume / CV *
-                                                                                                   Attach , or enter manually
-                                                                               Dropbox             ( File types : pdf , doc , docx , txt , rtf )
-       Cover Letter
-                                Attach , or enter manually
-             Dropbox             ( File types : pdf , doc , docx , txt , rtf )
-       LinkedIn Profile
-       Do you now or will you in the future require immigration sponsorship to work at C3 AI ?
-       By clicking the " I Accept " button , you give your consents as described below : C3 Al collects your personal data for the purposes of managing C3 AI's recruitment related
-       activities as well as for organizational planning purposes globally . Consequently , C3 AI may use your personal data in relation to the evaluation and selection of applicants
-       including for example setting up and conducting interviews and tests , evaluating and assessing the results thereto and as is otherwise needed in the recruitment processes
-       including the final recruitment . C3 AI does not disclose your personal data to unauthorized third parties . However , as a global corporation consisting of multiple affiliated
-       companies  various countries , C3 AI has international sites and C3 Al uses resources located throughout the world . C3 Al may from time to time also use third parties to act
-       on C3 Al's behalf . You agree to the fact that to the extent necessary your personal data may be transferred and / or disclosed to any company within C3 Al group of
-       companies as well as to third parties acting on C3 Al's behalf , including also transfers to servers and databases outside the country where you provided C3 Al with your
-       personal data . Such transfers may include for example transfers and / or disclosures outside the European Economic Area ( " EEA " ) and in the United States of America ; in
-       such cases , the transfer is based on the Standard Contractual Clauses ( according to the EU Commission Decision 87 / 2010 / EC or any future replacement ) , adherence to the
-       Privacy Shield ( when applicable for transfers to the United States ) or other GDPR - compliant mechanisms . *
-            I Accept
-       How did you hear about C3 AI ?
-        Please select
-       Where are you currently based ?
-                                                                                                                 Submit  Application
-                                                                                                                                                                         Privacy Terms
-    [ @ 84 ]      [ @ 85 ]        [ @ 86 ] Privacy    [ @ 87 ] Terms of   [ @ 88 ] Site                                                                [ @ 89 ]   [ @ 90 ]   [ @ 91 ]
-   News           Contact                             Use                                                                                                                     0
-                                 Policy                                   Map
-                                                                                                                                                       in
-    [ 92 ] Ⓒ 2023 C3.ai , Inc. All Rights Reserved .
+[ @ 83 ]      Back to Careers
+     Front - End Engineer - UI Component Library
+    GUADALAJARA, MEXICO
+    C3.ai, Inc. ( NYSE: Al ) is a leading provider of Enterprise Al software for accelerating digital transformation. The proven C3
+    Al Platform provides comprehensive services to build enterprise - scale Al applications more efficiently and cost - effectively
+    than alternative approaches. The core of the C3 Al offering is an open, data - driven Al architecture that dramatically
+    simplifies data science and application development. Learn more at: C3 AI
+    We are hiring front - end engineers at all levels to lead and maintain the Ul component library of the C3 Al Application
+    Platform. Our UI component library allows our customers to rapidly deliver data - rich Al applications and scale them to
+    handle TBS of data, and we want to take it to the next level.
+    Responsibilities:
+      • Lead the development of new UI components to be used by fellow engineers.
+      • Maintain an ever - growing library of components to be used across different applications and industries.
+     . Research and implement internal tools to increase the productivity of Engineering,              UX, and PMs.
+      • Provide technical guidance and support for our UX and PM teams.
+    Qualifications:
+      • Bachelor of Science in Computer Science, Computer Engineering, or related fields.
+      • Experience working with client - side technologies including Javascript, Typescript, React / Redux.
+         Experience with version control systems,       including Git.
+      • Prior experience designing and implementing reusable Ul components.
+      • Experience working as part of a cross - functional team of PM,          UX, and Engineering.
+    Preferred Qualifications:
+      • Prior experience developing a UI component library or design system for other engineers.
+      • Proven experience with pixel - perfect execution of UI components.
+      • Working knowledge of accessibility best practices.
+      • Ability to effectively articulate complex concepts to technical and non - technical audiences.
+      • Excellent analytical and troubleshooting skills.
+    C3 Al provides a competitive compensation package and excellent benefits.
+                                                                                                                                 Maggie
+                                                                                                                 Senior Manager, Application Engineering
+                                                                                                                                        C3.ai
+              00:46
+    C3 Al is proud to be an Equal               unity and Affirmative Action               We do not discriminate on the basis of any
+    legally protected characteristics, including disabled and veteran status.
+                      this Job                                                                                                      * Required
+        Apply for
+        First Name  *                                                     Last Name
+        Email                                                             Phone
+                                                                           Resume / CV *
+                                                                                                    Attach, or enter manually
+                                                                                Dropbox             ( File types: pdf, doc, docx, txt, rtf )
+        Cover Letter
+                                 Attach, or enter manually
+              Dropbox             ( File types: pdf, doc, docx, txt, rtf )
+        LinkedIn Profile
+        Do you now or will you in the future require immigration sponsorship to work at C3 AI?
+        By clicking the" I Accept" button, you give your consents as described below: C3 Al collects your personal data for the purposes of managing C3 AI's recruitment related
+        activities as well as for organizational planning purposes globally. Consequently, C3 AI may use your personal data in relation to the evaluation and selection of applicants
+        including for example setting up and conducting interviews and tests, evaluating and assessing the results thereto and as is otherwise needed in the recruitment processes
+        including the final recruitment.  C3 AI does not disclose your personal data to unauthorized third parties. However, as a global corporation consisting of multiple affiliated
+        companies  various countries, C3 AI has international sites and C3 Al uses resources located throughout the world. C3 Al may from time to time also use third parties to act
+        on C3 Al's behalf. You agree to the fact that to the extent necessary your personal data may be transferred and / or disclosed to any company within C3 Al group of
+        companies as well as to third parties acting on C3 Al's behalf, including also transfers to servers and databases outside the country where you provided C3 Al with your
+        personal data. Such transfers may include for example transfers and / or disclosures outside the European Economic Area (" EEA" ) and in the United States of America; in
+        such cases, the transfer is based on the Standard Contractual Clauses ( according to the EU Commission Decision 87 / 2010 / EC or any future replacement ),  adherence to the
+        Privacy Shield ( when applicable for transfers to the United States ) or other GDPR - compliant mechanisms.  *
+             I Accept
+        How did you hear about C3 AI?
+         Please select
+        Where are you currently based?
+                                                                                                                  Submit Application
+                                                                                                                                                                          Privacy  Terms
+     [ @ 84 ]      [ @ 85 ]        [ @ 86 ] Privacy    [ @ 87 ] Terms of   [ @ 88 ] Site                                                                [ @ 89 ]   [ @ 90 ]   [ @ 91 ]
+    News           Contact                             Use                                                                                                                     0
+                                  Policy                                   Map
+                                                                                                                                                        in
+     [ 92 ] Ⓒ 2023 C3.ai, Inc. All Rights Reserved.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1256
+Token count: 1076
