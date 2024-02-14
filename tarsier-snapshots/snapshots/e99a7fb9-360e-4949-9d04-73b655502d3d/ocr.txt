@@ -5,7 +5,7 @@ About                                                SAVED           [ $ 10 ]
    accenture
           [ @ 11 ]
           Job Search
-         [ 12 ] T & D Grid Operations
+         ( 12 ) T & D Grid Operations
           Consultant
           [ 13 ] MULTIPLE LOCATIONS [ @ 14 ] + VIEW ALL          [ 15 ] JOB NO. R00185110       [ 16 ] FULL - TIME
             [ @ 17 ] APPLY NOW                [ @ 18 ] SAVE JOB                [ @ 19 ] REGISTER FOR JOB ALERTS
@@ -127,7 +127,7 @@ About                                                SAVED           [ $ 10 ]
              connected classrooms, online courses and
              learning boards.
              [ @ 115 ] LEARN MORE                                               [ @ 118 ] LEARN MORE                                               [ @ 121 ] LEARN MORE
-         [ 122 ] Learn more about Accenture
+         [ 122 ) Learn more about Accenture
           [ 123 ] Our more than 733,000 people in more than 120 countries, combine unmatched experience and
           specialized skills across more than 40 industries. We embrace the power of change to create value and
          shared success for our clients, people, shareholders, partners and communities.
@@ -145,7 +145,7 @@ About                                                SAVED           [ $ 10 ]
              driven team players.                                               who work here.                                                    exciting and rewarding opportunities await.
              [ @ 135 ] SEARCH ACCENTURE JOBS                                    [ @ 138 ] READ CAREERS BLOG                                       [ @ 141 ] REGISTER FOR JOB ALERTS
           [ @ 142 ]
-                            [   143 ] ABOUT US              [ @ 144 ] CONTACT US             [ @ 145 ] ALUMNI                [ @ 146 ] PRIVACY
+                            [ @ 143 ] ABOUT US              [ @ 144 ] CONTACT US             [ @ 145 ] ALUMNI                [ @ 146 ] PRIVACY
                                                                                                                                                                                                  @ 151 ]
                                                                                                                              STATEMENT
           [ @ 152 ] Recruiting and Hiring Privacy Statement  [ @ 153 ] Terms & Conditions  [ @ 154 ] Cookie Policy     [ @ 155 ] Accessibility Statement  [ @ 156 ] Sitemap

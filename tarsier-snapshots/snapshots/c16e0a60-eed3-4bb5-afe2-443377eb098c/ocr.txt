@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 142 ]          English ✓
-       [ @ 12 ] Mam nome                                                                                                                    [ @ 13 ] COVID - 19 |          [ @ 14 ] Staff Mail |           [ @ 15 ] Tenders |          [ @ 16 ] FAQs
+[ @ 142 ]          English
+       [ @ 12 ] Mam nome                                                                                                                    [ @ 13 ] COVID - 19 |          [ @ 14 ] Staff Mail             [ @ 15 ] Tenders |          [ @ 16 ] FAQs
    [ @ 17 ]                                                                                                                                                                                                                                                               [ @ 1 ]
                          The National Treasury
                          & Economic Planning
@@ -19,7 +19,7 @@
       [ @ 104 ] Bills
                                                                                                                               [ @ 74 ] Published PIM Regulations: Legal Notice No. 54/2022
       [ @ 105 ] Double Taxation Agreements                                   [ @ 67 ] Excise Duty
-                                                                                                                               [ @ 75 ] PFM- ( Financial Inclusion Fund ) Regulation, 2022
+                                                                                                                               [ @ 75 ] PFM - ( Financial Inclusion Fund ) Regulation, 2022
                                                                             Regulations
        [ @ 106 ] Legal and Gazette Notices                                                                                     [ @ 76 ] Amendments to PFM NG Regulations 2015
                                                                              [ @ 68 ] Public Procurement &
@@ -66,4 +66,4 @@
             [ @ 140 ]                            [ 141 ] © Copyright 2021. The National Treasury. All Rights Reserved.
                                                                                                                                                                                                                                                                         Privacy - Terms
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1312
+Token count: 1310

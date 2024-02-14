@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ $ 2 ] & Sign In
      [ @ 1 ]
-     Wachtell, Lipton, Rosen & Katz                                                                                                                                   [ $ 31 WLRK Careers               [ $ 41 Introduce Yourself
+     Wachtell, Lipton, Rosen & Katz                                                                                                                                   [ $ 31 WLRK Careers               [ $ 4 ] Introduce Yourself
                          Administrative Staff Careers
               [ 6 ] Senior Legal Billing and Data Analyst                                                                                                                 [ 44 ] Welcome
                                                                                                                                                                           [ 45 ] Welcome to our employment
@@ -66,4 +66,4 @@
                                                                                                                  workday
                                                                                                  [ 51 ] 2023 Workday, Inc. All rights reserved.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 985
+Token count: 986

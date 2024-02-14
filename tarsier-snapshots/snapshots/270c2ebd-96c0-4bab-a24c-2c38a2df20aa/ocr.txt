@@ -8,9 +8,9 @@
      M             UNIVERSITY OF MICHIGAN HEALTH
                                                                                                                                         My Chart
                                                                                                                         [ @ 8 ] LOG IN    [ @ 9 ] LEARN MORE
-        [ @ 10 ] CARE &            [ @ 11 ] FIND A DOCTOR           [ @ 12 ] LOCATIONS &             [ @ 13 ] PATIENTS &          [ $ 14 QUICKLINKS +
+        [ @ 10 ] CARE &            [ @ 11 ] FIND A DOCTOR           [ @ 12 ] LOCATIONS &             [ @ 13 ] PATIENTS &          [ $ 14 ] QUICKLINKS +
          TREATMENT                                                         PHONE                         VISITORS
-     [ @ 17 ] Home [ 15 ] > [ @ 18 ] Locations & Phone [ 16 ] > [ [ 19 ] Profile                                         [ 20 ] TEXT  A A A
+     [ @ 17 ] Home [ 15 ] > [ @ 18 ] Locations & Phone [ 16 ] > [ 19 ] Profile                                           [ 20 ] TEXT  A A A
                                                                                                                          SIZER
       [ @ 21 ] New Search
  [ 22 ] CT    Scanning

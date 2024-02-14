@@ -11,7 +11,7 @@ $ 1 ]   [ @ 2 ]     OpenAl           [ @ 3 ] Documentation    [ @ 4 ] API refere
    [ @ 13 ]   Help center
     $ 14 ]   CATEGORIES               [ @ 37 ] How to address a GPT in its instructions:
    [
-                                      [ @ 38 ]  [ 39 ] Prompting [  40 ] chatgpt, [ @ 41 ] gpts, [ @ 42 ] assistants
+                                      [ @ 38 ]  [ 39 ] Prompting [ @ 40 ] chatgpt, [ @ 41 ] gpts, [ @ 42 ] assistants
    [ @ 15 ]   Announcements
    [ @ 16 ]   API                                                                                                                                 [ @ 43 ] Nov 19
                                       [ @ 48 ] [ @ 49 ] luona.dev                                                              [ @ 50 ] 8d
@@ -37,7 +37,7 @@ $ 1 ]   [ @ 2 ]     OpenAl           [ @ 3 ] Documentation    [ @ 4 ] API refere
                                                [ 64 ] created       [ @ 67 ]               [ 70 ] 3    [ 72 ] 449
                                                 @ 65 ] 23  [ 66 ] 8d  last reply          [ 71 ] replies  [ 73 ] views
                                                [
-                                                                    [ @ 68 ] ✓ [ 69 ] 7d
+                                                                    [ @ 68 ]   [ 69 ] 7d
                                                                                                                               [ $ 63 ]
                                                 [ 74 ] 4   [ 76 ] 12   [ 78 ] 1
                                                [ 75 ]      [ 77 ] likes  [ 79 ]  [ @ 80 ] L [ @ 81 ]     [ @ 82 ] V
@@ -49,7 +49,7 @@ $ 1 ]   [ @ 2 ]     OpenAl           [ @ 3 ] Documentation    [ @ 4 ] API refere
                                         L [ 92 ] Very nice! We need for evidence on prompt tuning ( at least there has been posted very few
                                              research on this in this forum ).
                                                                                                                     [ $ 93 ]    [ $ 941
-                                      [ @ 95 ] [ @ 96 ] Vvspritola                                                 [ $ 97 ] 1  [ @ 98 ] 7d
+                                      [ @ 95 ] [ @ 96 ] vspritola                                                  [ $ 97 ] 1  [ @ 98 ] 7d
                                         V     [ 99 ] This is a fascinating experiment! Interestingly this is also true of humans. We also recall best ( and
                                              therefore can act on ) information at the end and the beginning of a text passage. My take on this is that
                                              it may be a feature of the training data where it is simulating how people are writing ( i.e. processing )
@@ -96,4 +96,4 @@ $ 1 ]   [ @ 2 ]     OpenAl           [ @ 3 ] Documentation    [ @ 4 ] API refere
                                                                                                                                                      [ @ 174 ] Charter
    [ @ 175 ] Terms  policies  [ @ 176 ] Privacy policy [ @ 177 ] Brand guidelines                                [ @ 178 ]     [ @ 179 ] ► [ @ 180 ]       [ @ 181 ] in
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2029
+Token count: 2028

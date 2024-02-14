@@ -39,6 +39,6 @@
            [ @ 61 ] Find a Service or Specialty       [ @ 65 ] About Us                         [ @ 69 ] Medical Education
                                                                                                                                         [ @ 71 ]   [ @ 72 ]    [ @ 73 ]   [ @ 74 ]
            [ @ 62 ] For Patients & Visitors           [ @ 66 ] Contact Us                       [ @ 70 ] Careers
-            [ @ 75 ] Terms of Use  . [ @ 76 ] Sitemap    . [ @ 77 ] Language Assistance                            [ 78 ] Copyright 2023 Ⓒ Baptist Health. [ 79 ] All Rights Reserved.
+            [ @ 75 ] Terms of Use  . [ @ 76 ] Sitemap    . [ @ 77 ] Language Assistance                            [ 78 ] Copyright 2023 © Baptist Health. [ 79 ] All Rights Reserved.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 842
+Token count: 840

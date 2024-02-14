@@ -19,7 +19,7 @@ About Us
                                                                                                                                                                                  PDF
                                                                                                                  [ 62 ] PRACTICE FOCUS                                         [ @ 27 ]
                                                                                                                                                                                 EMAIL
-          [ 30 ] David Azcue is a Partner in the Firm's Tokyo office,                                             [ @ 63 ] Corporate [  64 ] Investment Funds
+          [ 30 ] David Azcue is a Partner in the Firm's Tokyo office,                                             [ @ 63 ] Corporate [ @ 64 ] Investment Funds
          where he co - heads our Private Funds Practice in                                                        [ @ 65 ] Private Funds  [ @ 66 ] Fund Transactions
                                                                                                                   [ @ 67 ] Corporate Governance  [ @ 68 ] Private Equity Lifecycle
          Japan. He has spent over 30 years in Japan as a
@@ -41,9 +41,9 @@ About Us
           [ @ 35 ] Read Full Biography ...
          [ 36 ] Work Highlights
           • [ 37 ] Advantage Partners Funds IV, IV - S, V and VI
-         . [ 38 ] Advantage Partners Inflexion Funds
+          • [ 38 ] Advantage Partners Inflexion Funds
             [ 39 ] Affinity Asia Pacific Fund V
-         . [ 40 ] Aspirant Group III
+          • [ 40 ] Aspirant Group III
             [ 41 ] CLSA Sunrise IV
                                                [ @ 42 ] See More
           [ 43 ] Accolades
@@ -57,10 +57,10 @@ About Us
             [ 52 ] University of Pennsylvania, 1993 B.A.
             [ 53 ] With Distinction
           [ 54 ]  Associations
-          • [ 55 ] American Bar Association
+          • [ [ 55 ] American Bar Association
          . [ 56 ] Dai - ichi Tokyo Bar Association
           [ 57 ] Admissions
-            [ 58 ] Japan ( [ 60 ] Gaikokuho Jimu Bengoshi [ 59 ] ) 2020
+          • [ 58 ] Japan ( [ 60 ] Gaikokuho Jimu Bengoshi [ 59 ] ) 2020
           • [ 61 ] New York 2005
     [ 76 ]
           Simpson Thacher & Bartlett LLP
@@ -70,4 +70,4 @@ About Us
           [ @ 81 ] Disclaimers  [ @ 82 ] Privacy  [ @ 83 ] LLP Info  [ @ 84 ] Directory
                                                                                               [ @ 89 ] Portuguese [ @ 90 ] Spanish
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1024
+Token count: 1026

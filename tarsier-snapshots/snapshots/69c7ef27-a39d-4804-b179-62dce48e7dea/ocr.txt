@@ -4,7 +4,7 @@
                                                              [ $ 6 ]                        [ $ 7 ]
                                                                in  Fach
                              [ @ 8 ]
-                                                                                      [ @ 9 ]  PRACTICES                   [ @ 10 ] PEOPLE                [ 11 ] INSIGHTS
+                                                                                      [ @ 9 ]  PRACTICES                   [ @ 10 ] PEOPLE                [ @ 11 ] INSIGHTS
                             Paul Weiss
                                                                                       [ @ 12 ] CAREERS
                             [ @ 13 ] Professionals > [ 14 ] Brian Bolin
@@ -53,11 +53,11 @@
                             ➤ [ 75 ] SPARC Group [ 71 ] ], a retail operator owned by Authentic Brands Group and [ 77 ] Simon Property Group [ 73 ], in its
                                  going concern acquisition of the assets of [ 78 ] Brooks Brothers [ 74 ], a New York - based apparel company, in the company's chapter
                                  11 case
-                             ➤ [ 83 ] SPARC Group [ 79 ] ], a retail operator owned by Authentic Brands Group and [ 85 ] Simon Property Group [ 81 ] ], in its
+                             ➤ [ 83 ] SPARC Group [ 79 ], a retail operator owned by Authentic Brands Group and [ 85 ] Simon Property Group [ 81 ], in its
                                  going concern acquisition of the assets of [ 86 ] Lucky Brand Dungarees [ 82 ], a California - based designer and retailer of denim and
                                  apparel, in the company's chapter 11 case
                              ➤ [ 88 ] Apollo Global Management as a secured noteholder and plan sponsor in the chapter 11 cases of Houston - based oil - and - gas
-                                 exploration and production company [ 89 ] ] EP Energy
+                                 exploration and production company [ 89 ] EP Energy
                             ➤ [ 91 ] Pioneer Energy Services Corp. [ 90 ] ], a land - based drilling and production services provider operating in the U.S. and
                                  Colombia, in its prepackaged chapter 11 cases in the Southern District of Texas. The company's prepackaged plan reduced Pioneer's
                                  funded debt and injected approximately $ 120 million of new capital into the company, enabling the company's emergence from chapter 11
@@ -91,7 +91,7 @@
                                  investment in Ligado's $ 2.85 billion of 15.5 % PIK Senior Secured First Lien Notes due 2023, $ 130 million 1.5 lien term loan facility, and
                                  $ 1 billion of 17.5 % PIK Senior Secured Notes due 2024, in connection with Ligado's successful out - of - court restructuring of approximately
                                  $ 14 billion of liabilities
-                            ➤ [ 132 ] The Collected Group [ 131 ], an international fashion group headquartered in California which is recognized globally as a
+                            ➤ [ 132 ] The Collected Group [ 131 ] ], an international fashion group headquartered in California which is recognized globally as a
                                  leading designer, distributor and retailer of the Joie, Equipment and Current / Elliot brands, and its debtor subsidiaries, in their delayed
                                  draw debtor - in - possession facility and exit facility
                             ➤ [ 134 ] Revlon [ 133 ], a leading global beauty company, in its subsidiary's successful out - of - court exchange offer for its approximately
@@ -159,4 +159,4 @@
                            [ 237 ] © 2023 PAUL, WEISS, RIFKIND, WHARTON & GARRISON                [ 238 ] This web site contains attorney advertising. Prior results do not guarantee a similar outcome.
                           LLP
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 3795
+Token count: 3794

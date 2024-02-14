@@ -5,7 +5,7 @@
             [ @ 16 ]              الماليـة الأوراق هيئة
                        RECURITIES  JORDAN SECURITIES COMMISSION                                                                                             100
                                                                                                                                                         المسيرة وتستمر
-             [ @ 17 ] About      [ @ 18 ] Services ▾  [ @ 19 ] Legislations    [ @ 20 ] Board of commissioners'        [ @ 21 ] Media           [ @ 22 ] Investor
+             [ @ 17 ] About      [ @ 18 ] Services -  [ @ 19 ] Legislations    [ @ 20 ] Board of commissioners'        [ @ 21 ] Media           [ @ 22 ] Investor
                   JSC                                                                     Decisions                       Center                  Education
                                                                                                                                                          [ @ 23 ]
            [ @ 30 ] Home   [ @ 31 ] Links
@@ -42,4 +42,4 @@
                                                                                                                         [ @ 80 ]      [ @ 81 ]      [ @ 82 ]
                                                                                                                                                       Leave  a  message
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 806
+Token count: 805

@@ -100,9 +100,9 @@
                [ 63 ] Engineering & Technology          [ 67 ] Engineering & Technology         [ 71 ] Engineering & Technology          [ 75 ] Engineering & Technology
                [ 64 ] DevOps and SRE                    [ 68 ] Enterprise Java                  [ 72 ] JavaScript and React              [ 76 ] iOS Developer
                Engineer                                Developer                                Developer
-               [ 65 ] #AWS #Azure #GoogleCloud          [ 69 ] # Enterprise Java #Spring        [ 73 ] #JavaScript #TypeScript           [ 77 ] #Enterprise Mobility #Swift
-               #DevOps #CloudOps #CloudNative          #Microservices #Containers               #MicroFrontend #ProgressiveWebApps      #SwiftUI #CoreML #ARKIt #HomeKit
-               # Containers #Scalability               #CloudNative                             #Responsive Web                         #Wearables
+               [ 65 ] #AWS #Azure #GoogleCloud          [ 69 ] #Enterprise Java #Spring         [ 73 ] #JavaScript #TypeScript           [ 77 ] #Enterprise Mobility #Swift
+               #DevOps #CloudOps #CloudNative          #Microservices #Containers               #MicroFrontend #ProgressiveWebApps      #SwiftUI #CoreML #ARKit #HomeKit
+               #Containers #Scalability                #CloudNative                             #Responsive Web                         #Wearables
             Join the powerhouse that never stops
             [ 78 ]  b
                      [ $ 79 ] Apply
@@ -118,10 +118,10 @@
             [ @ 84 ] Cloud Engineering                        , India                         [ 95 ] Our customers believe we are an agile innovation partner with a strong sense
                                                      [ 92 ] Pune
                                                                                               of craftsmanship - that may explain our exceptional customer retention and far
-            [ @ 85 ] ] UX Design
+            [ @ 85 ] UX Design
                                                                                               reaching impact across industries such as eCommerce, Luxury Retail, SaaS,
             [ @ 86 ] Company                                                                  Consumer Tech, Health Tech, and Hospitality.
             [ @ 87 ] Join Us
             mindstix                                                                          [ 96 ] Bolder Future. Designed & Engineered.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1757
+Token count: 1756

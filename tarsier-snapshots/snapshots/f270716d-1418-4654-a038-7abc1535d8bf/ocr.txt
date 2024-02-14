@@ -15,13 +15,13 @@
             [ 100 ] * Important Note: [ 101 ] Document Republished for Continued Implementation under Abu Dhabi Public Health Center.
         USEFUL LINKS
  [ 102 ]
-        [ @ 103 ] Explore ADPHC      [ @ 104 ] Legislation   [ @ 105 ] ] Public Health Programs   [ @ 106 ] Media Center    [ @ 107 ] Contact Us
+        [ @ 103 ] Explore ADPHC      [ @ 104 ] Legislation   [ @ 105 ] Public Health Programs     [ @ 106 ] Media Center    [ @ 107 ] Contact Us
         [ 108 ] CONTRAST SETTING                [ 111 ] TEXT SETTING                 [ 115 ] FOLLOW US
                                                                                      [ @ 116 ]       [ @ 117 ]       [ @ 118 ]
-             109 ] Color    [ @        High     [ 112 ] A [ 113 ] A [ 114 ] A *
+             109 ] Color    [ @        High     [ 112 ] A [ 113 ] A [ 114 ] A
          [ @                    110 ] Contrast                                       O
                                             [ 119 ]
                                                                                                                                   [ 120 ]
                     [ 122 ] Cookies help us improve your website experience. By using our website, you agree to our use of cookies.         [ @ 123 ] Confirm         [ @ 121 ] X
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 583
+Token count: 582

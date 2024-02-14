@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 1 ]                                                                                                              [ $ 9 ]      $ 10 ] =
-                      [ [ @ 2 ] Home [ 3 ] [ @ 4 ] Careers [ 5 ] / [ @ 6 ] Attorneys [ 7 ] [ 8 ] Opportunities                     [
+                      [ [ @ 2 ] Home [ 3 ] [ @ 4 ] Careers [ 5 ]  [ @ 6 ] Attorneys [ 7 ] [ 8 ] Opportunities                      [
                                                                                                                     SEARCH          MENU
   Skadden
   [ 11 ] [ 14 ] UAVE YOUR PATH     [ @ 13 ] [ 14 ] LAW STUDENTS AND GRADUATES    [ @ 15 ] [ 16 ] EXPERIENCED ATTORNEYS    [ @ 17 ] [ 18 ] APPLY & CC
@@ -54,7 +54,7 @@
                                                                                               Sustainability
                [ @ 44 ] CONTACT [ @ 45 ] LEGAL  [ @ 46 ] DISCLAIMERS [ @ 47 ] PRIVACY  [ @ 48 ] COOKIES  [ @ 49 ] ATTORNEY
                US             NOTICES                             STATEMENT           POLICY            ADVERTISING
-               [ @ 50 ] ALUMNI LOGIN □       [ @ 51 ] SKADDEN FOUNDATION □                            [ @ 52 ]  [ @ 53 ]  [ @ 54 ]
+               [ @ 50 ] ALUMNI LOGIN         [ @ 51 ] SKADDEN FOUNDATION □                            [ @ 52 ]  [ 53 ]    [ @ 54 ]
                [ @ 55 ] Skadden.com  Ⓒ [ 56 ] 2023 Skadden, Arps, Slate, Meagher & Flom LLP and Affiliates
 ----------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 974
+Token count: 971

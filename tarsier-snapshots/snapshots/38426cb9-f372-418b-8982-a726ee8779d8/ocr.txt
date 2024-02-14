@@ -7,7 +7,7 @@
   content                  NACIONAL
                            DEL MERCADO
                            DE VALORES
-     [ @ 8 ] About CNMV □                  [ @ 19 ] Home [ 18 ] > [ @ 21 ] Legislation [ 20 ] > [ @ 23 ] Spanish legislation [ 22 ] > [ 24 ] Latest developments
+     [ @ 8 ] About CNMV                    [ @ 19 ] Home [ 18 ] > [ @ 21 ] Legislation [ 20 ] > [ @ 23 ] Spanish legislation [ 22 ] > [ 24 ] Latest developments
      [ @ 9 ] Press room
       [ @ 10 ] Registration files
       [ @ 11 ] Inside information        [ 25 ]
@@ -30,7 +30,7 @@
                                              infraestructuras de mercado. ( [ 37 ] Este Real Decreto entrará en vigor a los veinte días de su publicación en el BOE. El artículo 111 entrará en vigor el día siguiente de la publicación de
                                              este Real Decreto en el BOE )
                                              [ @ 39 ] Real Decreto 813/2023 [ 38 ], de 8 de noviembre, sobre el régimen jurídico de las empresas de servicios de inversión y de las demás entidades que
-                                             prestan servicios de inversión. [ 40 ] Este Real Decreto entrará en vigor a los 20 días de su publicación en el BOE ).
+                                             prestan servicios de inversión. [ 40 ] ( Este Real Decreto entrará en vigor a los 20 días de su publicación en el BOE ).
                                              [ @ 42 ] Resolución de 8 de noviembre de 2023 [ 41 ], de la Secretaría General del Tesoro y Financiación Internacional,  por la que se actualiza el Anexo 1
                                              incluido en la Resolución de 4 de julio de 2017, de la Secretaría General del Tesoro y Política Financiera, por la que se define el principio de prudencia financiera
                                              aplicable a las operaciones de endeudamiento y derivados de las comunidades autónomas y entidades locales.
@@ -75,7 +75,7 @@
                                              [ @ 80 ] Resolución de 23 de noviembre de 2022 [ 79 ],  de la Secretaría de Estado de Economía y Apoyo a la Empresa, por la que se publica el Acuerdo del
                                             Consejo de Ministros de 22 de noviembre de 2022, por el que se aprueba el Código de Buenas Prácticas de medidas urgentes para deudores hipotecarios en riesgo
                                              de vulnerabilidad.
-                                             [ @ 82 ] ] Real Decreto - ley 19/2022 [ 81 ] ], de 22 de noviembre, por el que se establece un Código de Buenas Prácticas para aliviar la subida de los tipos de
+                                             [ @ 82 ] Real Decreto - ley 19/2022 [ 81 ], de 22 de noviembre, por el que se establece un Código de Buenas Prácticas para aliviar la subida de los tipos de
                                              interés en préstamos hipotecarios sobre vivienda habitual,  se modifica el Real Decreto - ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores
                                              hipotecarios sin recursos,  y se adoptan otras medidas estructurales para la mejora del mercado de préstamos hipotecarios.
                                              [ @ 84 ] Real Decreto - ley 18/2022 [ 83 ], de 18 de octubre, por el que se aprueban medidas de refuerzo de la protección de los consumidores de energía y de
@@ -99,4 +99,4 @@
               [ @ 103 ] Accesibility                                                                                          [ @ 106 ] @CNMV_IP                 [ @ 110 ] [ @ 112 ] [ @ 114 ]
                                                                                                                               [ @ 108 ] @CNMV_IFI
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 3493
+Token count: 3490

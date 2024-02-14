@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 1 ] SIGN IN   [ @ 2 ]  REGISTER  [ @ 390 ]
            [ @ 0 ]
-                    StartupNationⓇ
+                    StartupNation
                                          COMMUNITY
                [ @ 3 ] HOW TO      [ @ 4 ] EXPERTS      [ @ 5 ] RADIO / PODCAST     [ @ 6 ] COMMUNITY       [ @ 7 ] LOCAL CHAPTERS        [ @ 8 ] REACH OUT
                [ @ 9 ] SAVE ON DELL
@@ -67,15 +67,15 @@
                            [ 85 ] maybe family or friends ... If not, then maybe going to networking events in your business                       TOPICS
                                                                                                                                [ 261 ] DISCUSSION
                            industry to find a angel investor?
-                           [ 86 ] [ @ 87 ]    [ @ 88 ]   [ @ 89 ]
+                           [ 86 ] [ @ 87 ]    [ 88 ]     [ @ 89 ]
                                                                                                                                 [ @ 262 ] All Forum Categories
                                                                                                                                 [ @ 263 ] Announcements            [ 264 ] 54
-                           [ @ 91 ] johnwhitfield1712 [ 92 ] subscriber  [ 93 ] Posts:  [ 94 ] 3  [ 95 ] Member
+                           [ @ 91 ] johnwhitfield1712 [ 92 ] subscriber  [ 93 ] Posts: [ [ 94 ] 3  [ 95 ] Member
             [ @ 90 ]                                                                              [ @ 96 ] January 2019         [ @ 265 ] Recent StartupNation   [ [ 266 ] 138
                            [ 97 ] I think, you have good friend, that can help you, but if you want to more money and your friends  Articles
                            can't help you. You can take part in the business conference and find new friends who will be interested
                            in your idea. The main thing is to properly present information about your project.                  [ @ 267 ] StartupNation Support  [ [ 268 ] 197
-                           [ 98 ] [ @ 99 ]    [ @ 100 ]   [ @ 101 ]                                                            Forum
+                           [ 98 ] [ @ 99 ]    [ @ 100 ]   [  101 ]                                                             Forum
                                                                                                                                 [ 269 ] Startup Business Basics   [ 270 ] 3.3K
                            [ @ 103 ] saravanan [ 104 ] subscriber  [ 105 ] Posts: [ 106 ] 389  [ 107 ] Silver Level               [ @ 271 ] Business Planning    [ [ 272 ] 1.8K
             [ @ 102 ]         mber
@@ -108,9 +108,9 @@
                                                                                                                                   [ @ 301 ] Inspiration and      [ [ 302 ] 176
              @ 133 ]   The Internet Presence                                                                                      Motivation
             [
-                           [ @ 134 ] TheInternet Presence [ [ 135 ] subscriber  [ 136 ] Posts: [ 137 ] 7  [ 138 ] Member
+                           [ @ 134 ] The Internet Presence [ [ 135 ] subscriber  [ 136 ] Posts: [ 137 ] 7  [ 138 ] Member
                                                                                                                                   [ @ 303 ] Thought Leadership    [ 304 ] 247
-                                                                                                [ 139 ] February 2019
+                                                                                                [ @ 139 ] February 2019
                            [ 140 ] I have found that the book" Lost and Founder" by Rand Fishkin was an excellent source on       [ @ 305 ] Well - Being           [ 306 ] 25
                            what to look for in venture capitalists.
                                                                                                                                   [ @ 307 ] Success Stories        [ 308 ] 17
@@ -178,7 +178,7 @@
                            [ 212 ] [ @ 213 ]    [ @ 214 ]    [ @ 215 ]                                                            [ @ 361 ] Commercializing Your   [ 362 ] 99
                                                                                                                                   Invention
             [ @ 216 ]  Billius
-                           [ @ 217 ] Billius [ [ 218 ] subscriber  [ 219 ] Posts: [ 220 ] 5  [ 221 ] Member                     [ 363 ] Managing Your Business    [ 364 ] 1.5K
+                           [ @ 217 ] Billius [ 218 ] subscriber  [ 219 ] Posts: [ 220 ] 5  [ 221 ] Member                       [ 363 ] Managing Your Business    [ 364 ] 1.5K
                                                                                                   [ @ 222 ] March 2021
                                                                                                                                   [ @ 365 ] People: Hiring,       [ 366 ] 740
                            [ 223 ] Crowdfunding is still a valid way to get money for the start
@@ -227,4 +227,4 @@
            [ @ 381 ] Home   [ @ 382 ] About  [ @ 383 ] Contribute  [ @ 384 ] Contact  [ @ 385 ] Privacy  [ @ 386 ] Rules
                                                                                                [ 387 ] Copyright © 2023. Copyright 2005 - 2016 StartupNation Media Group Inc. All rights reserved ..
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 4340
+Token count: 4336

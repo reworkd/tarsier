@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ $ 1 ]                                                                                           [ @ 4 ]
-        [ @ 0 ]         Adobe Community                                                                   Search this community                                                     [ $ 3 ]                      [ 5 ] Sign In
+        [ @ 0 ] A Adobe Community                                                                         Search this community                                                     [ $ 3 ]                      [ 5 ] Sign In
                  [ @ 6 ] Home > [ @ 7 ] Photoshop Ele ...             > [ @ 8 ] Discussions > [ 9 ] restore catalog fro ...                                     [ 165 ] Related conversations
                                  [ 11 ] restore catalog from sd cards                                                                                            [ 166 ] Updated Nov 11, 2022 [ 167 ]           [ @ 168 ]
                                                                                                                                                                 Lightroom ecosystem ( Cloud - based ) Discussions
@@ -13,7 +13,7 @@
                                                      [ 20 ] Import and export                                                                                   catalog. Of cour ...
                                   [ 19 ] TOPICS
                                                                                                                                                                  [ 171 ] Updated Nov 11, 2022 [ 172 ]          [ @ 173 ]
-                                 O    [ 22 ] 520      A [ 24 ] Translate           [ @ 26 ] Report                                                              Lightroom ecosystem ( Cloud - based ) Discussions
+                                 O    [ 22 ] 520 XA [ 24 ] Translate               [ @ 26 ] Report                                                              Lightroom ecosystem ( Cloud - based ) Discussions
                                                                                                                                       [ $ 27 ] Reply
                                                                                                                                                                       [ @ 174 ] Restore Presets
                                                                                                                                                                  [ @ 175 ] Hi! I got a new phone and
@@ -31,13 +31,13 @@
                                                                                                                                                                 Lightroom Classic Discussions
                                                   [ 38 ] Try a test with one card and see what                                                                  ✓ [ @ 184 ] Importing From SD Card
                                                   [ 35 ] ...                                                                                                     [ @ 185 ] When importing photos from an SD
-                                                         [ 40 ] Upvote         A [ 42 ] Translate                 [ @ 43 ]      Jump to answer                  card I only get the Copy as DNG and Copy
+                                                         [ 40 ] Upvote        XA [ 42 ] Translate                 [ @ 43 ]      Jump to answer                  card I only get the Copy as DNG and Copy
                                                                                                                                                                 options at the top and I c ...
                                                                                                                                                                   [ $ 186 ] 1        [ $ 187 ] 2
-                 ➡ [ 44 ] 7 Replies                                                                             [ @ 45 ]       Jump to latest reply              [ 188 ] Resources
+                       [ 44 ] 7 Replies                                                                         [ @ 45 ]       Jump to latest reply              [ 188 ] Resources
                                                                                                                                                                  [ 189 ] Get Started ✓
                                                                                                                                                                  [ 190 ] Troubleshooting ✓
-                                       Greg S.
+                                       Greg_S.
                                         [ 48 ] Community Expert, Feb 27, 2023                                                                                    [ 191 ] New features & Updates ✓
                  [ @ 46 ]
                  [ 52 ] Hi Jim.    Can you please explain your question in more detail.
@@ -69,8 +69,7 @@
                       "? not found".
                        ▲ [ 100 ] Upvote            XA [ 102 ] Translate            [ @ 104 ] Report                              [ $ 105 ] Reply
                                          Greg_S.
-                                          [ 108 ] Community Expert, Mar 02, 2023
-                 [ @ 106 ]
+                 [ @ 106 ]                [ 108 ] Community Expert, Mar 02, 2023
                  [ @ 113 ] @ Jim28618690ppdu [ 112 ] said: [ 114 ] now need to delete all the unfound / edited thumb
                 nails from my catalog. I cant figure out how to do that ??
                  [ 115 ] Select [ 118 ] Find > All Missing Files [ 116 ] from the menu and all of the missing files will be
@@ -95,6 +94,6 @@
                 ▲ [ 159 ] Upvote            XA [ 161 ] Translate            [ @ 163 ] Report                                       [ $ 164 ] Reply
        [ 192 ] Copyright © 2023 Adobe. All rights reserved.
        [ @ 193 ] Using the Community           [ @ 194 ] Experience League          [ @ 195 ] Terms of Use          [ @ 196 ] Privacy        [ @ 197 ] Cookie preferences
-       [ @ 198 ] Do not sell or share my personal information          [ @ 199 ] DAdChoices
+       [ @ 198 ] Do not sell or share my personal information          [ @ 199 ] AdChoices
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1922
+Token count: 1920

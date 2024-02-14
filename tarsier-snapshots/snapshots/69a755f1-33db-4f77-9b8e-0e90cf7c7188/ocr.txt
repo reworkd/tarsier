@@ -25,7 +25,7 @@ Vercel        Features ✓    [ @ 8 ] Docs  [ @ 9 ] Templates  [ @ 10 ] Integrat
                                and services. Reporting to the Manager of Technical Consulting, the Technical
                                Consultant will be responsible for informing and training clients in the product's
                                proper use to enhance the customer experience and improve satisfaction.
-                              [ [ 32 ] Technical Consultants need to earn our customers' trust and understand
+                               [ 32 ] Technical Consultants need to earn our customers' trust and understand
                                technical problems quickly. You will play a major part in the post - sales process
                                and Enterprise customer journey. Expertise in the technical elements of the
                                product and clarity of instruction are important competencies in this position.
@@ -57,8 +57,8 @@ Vercel        Features ✓    [ @ 8 ] Docs  [ @ 9 ] Templates  [ @ 10 ] Integrat
                                  product gaps and needs.
                                  [ 44 ] Ensure customers have immediate concerns resolved but with a long
                                  term outlook.
-                              . [ 45 ] Specialize in a few product areas and own that within the team.
-                              . [ 46 ] Improving existing, and identifying new, internal documentation,
+                               • [ 45 ] Specialize in a few product areas and own that within the team.
+                               • [ 46 ] Improving existing, and identifying new, internal documentation,
                                  processes and policies.
                                  [ 47 ] Assist and coordinate with Customer Success Managers with Enterprise
                                  requests.
@@ -117,12 +117,12 @@ Vercel        Features ✓    [ @ 8 ] Docs  [ @ 9 ] Templates  [ @ 10 ] Integrat
                                      United States  Germany   United Kingdom   Australia  Other
                                         [ $ 89 ]             [ $ 91 ]         [ $ 93 ]               [ $ 95 ]         [ $ 97 ]
                                   [ 98 ] What timezone are you located in?
-                                  O ESTO CSTO MTN          PST Q Other
+                                  O ESTO CST        MTN    PST O Other
                                         [ $ 100 ]      [ $ 102 ]      [ $ 104 ]      [ $ 106 ]      [ $ 108 ]
                                   [ 109 ] Will you require Visa Sponsorship now, or in the future?
                                      Yes   No
                                   [ # 114 ] [ $ 111 ]  [ $ 113 ]                   # 115 ]  Potential Start Date
-                                          Bired Salary                            [
+                                          Bed Salary                              [
                                   [ 116 ] Do you have experience coding / programming?
                                      Yes   No
                                   [ 121 ] [ $ 118 ] ve experi [ $ 120 ] Next.js or React?
@@ -183,9 +183,9 @@ Vercel        Features ✓    [ @ 8 ] Docs  [ @ 9 ] Templates  [ @ 10 ] Integrat
                                          [ $ 202 ]
                                   [ 218 ] Are you a veteran or active member of the United States Armed Forces?
                                          [ $ 204 ]
-                                     Yes, lama veleran or active member
+                                     Yes, lama veteran or active member
                                      No, I [ $ 206 ] veteran or active member
-                                  ⒸI pref [ $ 208 ] describe
+                                     I pref [ $ 208 ] describe
                                      I don't wish to answer
                                   [ 227 ] Optionally, include links to your social media profiles.
                                   [ # 228 ] [ $ 211 ]                             [ # 230 ]  handle
@@ -198,12 +198,12 @@ Vercel        Features ✓    [ @ 8 ] Docs  [ @ 9 ] Templates  [ @ 10 ] Integrat
                                          [ $ 222 ]
                                          [ $ 224 ]
                                          [ $ 226 ]
-                               [ $ 244 ]                             [ $ 255 ]                            [ $ 265 ]                                       [ $ 279 ]
-    [ @ 237 ]    [ 238 ]  [ 239 ] 2U23                                                                                                                 -
+                               [ $ 244 ]                             [ $ 255 ]                            [ $ 265 ]                                        [ $ 279 ]
+    [ @ 237 ]    [ 238 ]  [ 239 ] 2023                                                                                                                 -
                                Product                               Resources.                           Company
     [ @ 240 ]
       [ 241 ] All systems nor ...  [ @ 245 ] Previews  [ @ 246 ] Next.js  [ @ 256 ] Docs  [ @ 257 ] Experts  [ @ 266 ] About  [ @ 267 ] Blog
-                               [ @ 247 ] Infrastructure [ @ 248 ] V0  @ 258 ] Pricing  [ @ 259 ] Guides   [ @ 268 ] Careers  [ @ 269 ] Contact Us
+                               [ @ 247 ] Infrastructure [ @ 248 ] VO  @ 258 ] Pricing  [ @ 259 ] Guides    [ @ 268 ] Careers  [ @ 269 ] Contact Us
                                [ @ 249 ] Edge    [ @ 250 ] Turbo     [ @ 260 ] Customers [ @ 261 ] Help           Next.js  G  [ @ 271 ] Open
                                                                                                           [ @ 270 ]  Conf  Source
                                Functions
@@ -213,4 +213,4 @@ Vercel        Features ✓    [ @ 8 ] Docs  [ @ 9 ] Templates  [ @ 10 ] Integrat
     [ @ 242 ]   [ @ 243 ]      [ @ 253 ] Changelog  [ @ 254 ] CLI & API                                   [ @ 274 ] Privacy   [ $ 275 ]
     Q                                                                                                     Policy           [ 276 ] Legal
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2954
+Token count: 2945

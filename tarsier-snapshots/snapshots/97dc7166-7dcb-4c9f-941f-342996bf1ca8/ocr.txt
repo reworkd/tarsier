@@ -28,7 +28,7 @@
                   [                                                     [ @ 46 ] View
                                                                                                                                 [ 176 ] Let us help you find the right
                   [ 38 ] Phone: [ [ 39 ] 212-420                        [ 48 ] Phone: [ [ 49 ] 718-252                         kind of care
-                  2000 [ 37 ] or [ 40 ] 212-857-9980                    3000 [ 47 ] or [ 50 ] 718-312-7300
+                  2000 [ 37 ] or [ 40 ] 212-857-9980                    3000 [ 47 ] or [ 501718-312-7300
                      [ @ 41 ] Leam More                                    [ @ 51 ] Leam More                                     [ @ 177 ] Check Symptoms & Get
                                                                                                                                Care
                                  [ @ 52 ]                                              [ @ 62 ]
@@ -40,7 +40,7 @@
                    [ @ 56 ] View Map                                    [ @ 66 ] View Map                                      [ 178 ] MyMountSinaiⓇApp
                                                                                                                                 [ 179 ] Manage your health care on the
                   [ 58 ] Phone: [ [ 59 ] 212-241                        [ 68 ] Phone: [ [ 69 ] 212-523                         go
-                  6500 57 ] or [ 601212-590-3300                        4000 [ 67 ] or [ 701212-857-9990
+                  6500 [ 57 ] or [ 601212-590-3300                      4000 [ 67 ] or [ 701212-857-9990
                      [ @ 61 ] Leam More                                    [ @ 71 ] Leam More                                     [ @ 180 ] Download
                                   [ @ 72 ]                                             [ @ 82 ]
                                                                                                                               [ 181 ] Other Locations
@@ -53,9 +53,9 @@
                                                                         [ @ 86 ] View Map
                   [ 78 ] Phone: [ [ 79 ] 718-932
                   1000 [ 77 ] or [ 80 ] 718-289-3100                    [ 88 ] Phone: [ 87 ] 877-768-8462
-                     [ @ 81 ] Leam More                                    [ @ 89 ] Leam More
+                     [ @ 81 ] Learn More                                   [ @ 89 ] Learn More
                                  [ @ 90 ]                                             [ @ 100 ]
-                                    school                                      New York Eye and Bar Indory of Meck S
+                                    school                                      New York Eye and Bar Indemory of Meck S
                                   Si
                   [ @ 93 ] Mount Sinai West                             [ @ 103 ] New York Eye and Ear
                   [ 91 ] 1000 Tenth Avenue                              Infirmary of Mount Sinai
@@ -67,7 +67,7 @@
                                                                            [ @ 107 ] New York Eye and Ear
                      [ @ 99 ] Leam More                                 Infirmary of Mount Sinai
                                  [ @ 108 ]                                             [ @ 112 ]
-                             DUNT SINDIDOCTORS
+                             DUNT SINAIDOCTORS
                                                                                          Mount
                                                                                          Sinai
                                                                                         Spine
@@ -89,7 +89,7 @@
                   is undertaking a sweeping transformation              [ 128 ] New York,  NY 10029
                   of Mount Sinai Beth Israel, by investing              [ @ 130 ] View Map
                   over $ 500 million to create the new
-                  Mount Sinal Downtown network.                         [ 131 ] Phone: [ 132 ] 212-241-9500
+                  Mount Sinai Downtown network.                         [ 131 ] Phone: [ 132 ] 212-241-9500
                      [ @ 125 ] Learn More                                  [ @ 133 ] Learn More
                                  [ @ 134 ]                                            [ [ @ 138 ]
                    [ @ 136 ] The Mount Sinai                            [ @ 140 ] Urgent Care
@@ -156,4 +156,4 @@
      †
      [ $ 237 ]
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2642
+Token count: 2638

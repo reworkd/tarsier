@@ -16,12 +16,12 @@
   [ 13 ] F: [ 12 ] 212.403.2312
   [ @ 14 ] JEBarton@wirk.com
   [ 15 ] Education
-  [ @ 17 ] Princeton University [ 16 ], A.B. 2016, [ [ 18 ] magna
+  [ @ 17 ] Princeton University [ 16 ], A.B. 2016, [ 18 ] magna
   cum laude
   [ @ 21 ] University of Pennsylvania Law School [ 19 ], J.D.
   2021, [ 22 ] magna cum laude [ 20 ],  Order of the Coif
-                                               WACHTELL, LIPTOn,    Rosen & KATZ
+                                               WACHTELL, LIPTON,    Rosen & Katz
                                                   [ 32 ] 51 West 52nd Street,  New York, NY 10019
                                      [ 33 ] t. 212.403.1000 or 800.848.0301 / [ @ 34 ] Attorney Advertising and Other Notices
 -------------------------------------------------------------------------------------------------------------------------------
-Token count: 451
+Token count: 448

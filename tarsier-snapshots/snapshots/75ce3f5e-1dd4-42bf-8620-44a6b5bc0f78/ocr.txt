@@ -1,11 +1,11 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 0 ] Hacker News new [ 1 ]        [ @ 9 ] past [ 2 ]  [ @ 10 ] comments [ 3 ] | [ @ 11 ] ask [ 4 ]  [ @ 12 ] show [ 5 ] | [ @ 13 ] jobs [ 6 ]
+[ @ 0 ] Hacker News new [ 1 ]        [ @ 9 ] past [ 2 ]  [ @ 10 ] comments [ 3 ]  [ @ 11 ] ask [ 4 ]  [ @ 12 ] show [ 5 ] | [ @ 13 ] jobs [ 6 ]
                   Y      [ @ 14 ] submit                                                                                                                                    [ @ 15 ] login
                   [ @ 16 ]
-                           [ @ 17 ] Learnings from fine - tuning LLM on my Telegram messages [ [ 18 ] [ @ 20 ] asmirnov.xyz [ 19 ]
+                           [ @ 17 ] Learnings from fine - tuning LLM on my Telegram messages [ 18 ] [ @ 20 ] asmirnov.xyz [ 19 ]
                             [ 26 ] 150 points [ 21 ] by [ @ 27 ] furiousteabag [ @ 28 ] 10 hours ago [ 22 ]  @ 29 ] hide [ 23 ]  [ @ 30 ] past [ 24 ]  @ 31 ] favorite [ 25 ]  [ @ 32 ] 43 comments
                             [ # 33 ]
-                           [ $ 34 ] Comment
+                           [ $ 34 ] comment
                    [ @ 35 ] [ @ 36 ] jstrieb [ @ 37 ] 1 hour ago [ 38 ]  [ @ 39 ] next [ @ 40 ] [
                             [ 41 ] This post and its findings are really interesting!
                             [ 42 ] Back when the" I forced a bot to watch 1000 hours ..." memes were popular ( [ @ 44 ] https://knowyourmeme.com/memes/i-forced-a-bot [ 43 ] ), ages ago
@@ -36,27 +36,27 @@
                                          [ 82 ] I've used vast.ai to do some fine - tuning just a few days ago. It is indeed pretty great, though some servers fail to start up properly, or have
                                         some weird performance issues. I also wish they had more templates to try.
                                          [ @ 83 ] reply
-                                      [ @ 84 ] [ @ 85 ] icelancer [  86 ] 2 hours ago [ 87 ]  [ @ 90 ] root [ 88 ]  [ @ 91 ] parent [ 89 ] | [ @ 92 ] next [ @ 93 ] [ - ]
+                                      [ @ 84 ] [ @ 85 ] icelancer [ @ 86 ] 2 hours ago [ 87 ]  [ @ 90 ] root [ 88 ]  [ @ 91 ] parent [ 89 ]  [ @ 92 ] next [ @ 93 ] [ - ]
                                                [ 94 ] Yeah it works pretty well for the price - just need to be comfortable with running code and putting data on random peoples' computers
                                                ( which I am for certain things ). Someone on HN posted a script or snippet of output on mass - testing vast.ai servers for connectivity and
                                                configuration, and auto - labeling them using their API. Wish I could find it now ... maybe with the search?
                                                [ @ 95 ] reply
-                         [ @ 96 ] [ @ 97 ] isight [ @ 98 ] 5 hours ago [ 99 ]  [ @ 102 ] parent [ 100 ]  [ @ 103 ] prev [ 101 ]  [ @ 104 ] next [ @ 105 ] [ - ]
+                         [ @ 96 ] [ @ 97 ] jsight [ @ 98 ] 5 hours ago [ 99 ]  [ @ 102 ] parent [ 100 ]  [ @ 103 ] prev [ 101 ]  [ @ 104 ] next [ @ 105 ] [ - ]
                                   [ 106 ] I think Tensordock and vast.ai are cheaper than AWS.  Lambda labs can be as well, but they seem to only have reserved instances now.
                                   [ @ 107 ] reply
                                [ @ 108 ] [ @ 109 ] cosmojg [ @ 110 ] 4 hours ago [ 111 ]   [ @ 114 ] root [ 112 ]  [ @ 115 ] parent [ 113 ]  [ @ 116 ] next [ @ 117 ] [ - ]
                                           [ 118 ] runpod.io is another good - and - cheap option
                                           [ @ 119 ] reply
-                         [ @ 120 ] [ @ 121 ] bllchmbrs [ @ 122 ] 2 hours ago [ 123 ] | [ @ 126 ] parent [ 124 ]  [ @ 127 ] prev [ 125 ]  [ @ 128 ] next @ 129 ] [ - ]
+                         [ @ 120 ] [ @ 121 ] bllchmbrs [ @ 122 ] 2 hours ago [ 123 ]  [ @ 126 ] parent [ 124 ]  [ @ 127 ] prev [ 125 ]  [ @ 128 ] next @ 129 ] [ - ]
                                     [ 130 ] Check out other prices on [ @ 131 ] https://gpumonger.com/
                                     [ 132 ] Disclosure: I collected the data and built the site, but it has a ton of comparison data for GPU clouds.
                                     [ @ 133 ] reply
-                         [ @ 134 ] [ @ 135 ] siquick [ @ 136 ] 5 hours ago [ 137 ]  [ @ 140 ] parent [ 138 ]  [ @ 141 ] prev [ 139 ]  [ @ 142 ] next [ @ 143 ] [ -1
+                         [ @ 134 ] [ @ 135 ] siquick [ @ 136 ] 5 hours ago [ 137 ]  [ @ 140 ] parent [ 138 ]  [ @ 141 ] prev [ 139 ]  [ @ 142 ] next [ @ 143 ] [ - ]
                              A
                                     [ 144 ] Excuse the ignorance but are you using these instances to fine tune a" fresh install" of a model, and then when you've finished fine tuning it do you
                                     download the whole model from the instance for use somewhere else?
                                     [ @ 145 ] reply
-                   [ @ 146 ] [ @ 147 ] gwern [ @ 148 ] 5 hours ago [ 149 ]   [ @ 151 ] prev [ 150 ] | [ @ 152 ] next [ @ 153 ] [
+                   [ @ 146 ] [ @ 147 ] gwern [ @ 148 ] 5 hours ago [ 149 ]   [ @ 151 ] prev [ 150 ]  [ @ 152 ] next [ @ 153 ] [
                        ▲
                               [ 154 ] > My data collator ensures that the loss is only calculated based on someone's response. Predicting who will speak next is relatively straightforward, and
                              we don't want the model to focus on learning that. Therefore, parts of the conversation where the loss is calculated are highlighted in bold.
@@ -71,12 +71,12 @@
                              effective to focus solely on a single person and calculate the loss based only on my responses ( or someone else's ), instead of trying to learn about each and every
                              conversational partner.
                               [ @ 159 ] reply
-                  [ @ 160 ] [ @ 161 ] goda90 [ @ 162 ] 8 hours ago [ 163 ]    [ @ 165 ] prev [ 164 ] ] | [ @ 166 ] next [ @ 167 ] [ - ]
+                  [ @ 160 ] [ @ 161 ] goda90 [ @ 162 ] 8 hours ago [ 163 ]    [ @ 165 ] prev [ 164 ] | [ @ 166 ] next [ @ 167 ] [ - ]
                               [ 168 ] We're probably quite some time off from the bio - mimetic android part, but we're feeling closer and closer to the AI replacement avatar from the Black
                              Mirror episode" Be Right Back" [ 0 ]
                               [ 169 ] [ 0 ] [ @ 170 ] https://en.wikipedia.org/wiki/Be Right Back
                               [ @ 171 ] reply
-                  [ @ 172 ] [ @ 173 ] NoraCodes [ @ 174 ] 9 hours ago [ 175 ]    [ @ 177 ] prev [ 176 ] | [ @ 178 ] next [ @ 179 ] [
+                  [ @ 172 ] [ @ 173 ] NoraCodes [ @ 174 ] 9 hours ago [ 175 ]    [ @ 177 ] prev [ 176 ]  [ @ 178 ] next [ @ 179 ] [
                               [ 180 ] A meta - comment, but, what is the difference between" learnings" and" lessons"? Why use the former when we have the latter?
                              [ @ 181 ] reply
                          [ @ 182 ] [ @ 183 ] furyofantares [ @ 184 ] 8 hours ago [ 185 ]  [ @ 187 ] parent [ 186 ]  [ @ 188 ] next [ @ 189 ] [ - ]
@@ -90,10 +90,10 @@
                                [ @ 204 ] kagol [ @ 206 ] 5 hours ago [ 207 ]  [ @ 211 ] root [ 208 ]  [ @ 212 ] parent [ 209 ]  [ @ 213 ] prev [ 210 ]  [ @ 214 ] next [ @ 215 ] [ - ]
                                           [ 216 ] Perhaps" findings" over" learnings", based on your description?
                                           [ @ 217 ] reply.
-                         [ @ 218 ] [ @ 219 ] amccollum [ @ 220 ] 6 hours ago [ 221 ]   [ @ 224 ] parent [ 222 ] | [ @ 225 ] prev [ 223 ] | [ @ 226 ] next [ @ 227 ] [ - ]
+                         [ @ 218 ] [ @ 219 ] amccollum [ @ 220 ] 6 hours ago [ 221 ]   [ @ 224 ] parent [ 222 ]  [ @ 225 ] prev [ 223 ]  [ @ 226 ] next [ @ 227 ] [ - ]
                              A
                                     [ 228 ] This usage of" learnings", while certainly more common in" business jargon" today, was used by Shakespeare:
-                                    [ @ 229 ] https://www.opensourceshakespeare.org/views/plays/play view ....
+                                    [ @ 229 ] https: //www.opensourceshakespeare.org/views/plays/play_view ....
                                     [ @ 230 ] reply.
                                [ @ 231 ] [ @ 232 ] nescioquid [ @ 233 ] 4 hours ago [ 234 ]  [ @ 237 ]      [ 235 ]  [ @ 238 ] parent [ 236 ]  [ @ 239 ] next [ @ 240 ] [ - ]
                                           [ 241 ] Some words in Shakespeare have different meanings today or have simply left standard usage. I don't think the presence of a word in
@@ -101,7 +101,7 @@
                                           [ 242 ] From a correctness stand - point, I think a descriptionist would be satisfied with an attested usage, especially from such  source.  From a
                                           style point of view, I still find myself feeling embarrassed for the author when I encounter this usage ( which is my own problem ).
                                           [ @ 243 ] reply
-                         [ @ 244 ] [ @ 245 ] swatcoder [ @ 246 ] 8 hours ago [ [ 247 ]  [ @ 250 ] parent [ 248 ]  [ @ 251 ] prev [ 249 ]  [ @ 252 ] next [ @ 253 ] [ - ]
+                         [ @ 244 ] [ @ 245 ] swatcoder [ @ 246 ] 8 hours ago [ 247 ]   [ @ 250 ] parent [ 248 ]  [ @ 251 ] prev [ 249 ]  [ @ 252 ] next [ @ 253 ] [ - ]
                                     [ @ 254 ] https://en.m.wiktionary.org/wiki/learnings
                                     [ 255 ] Beyond what's noted there ( contemporary business jargon ), English is diffused across the globe and has many regional variations that are different
                                     than class - signalling / formal American and British usage.  As we all encounter each other online, it's not always worth over - analyzing word choice when you
@@ -118,11 +118,11 @@
                          [ @ 271 ] [ @ 272 ] klooney [ @ 273 ] 8 hours ago [ 274 ]   [ @ 277 ] parent [ 275 ]  [ @ 278 ] prev [ 276 ]  [ @ 279 ] next [ @ 280 ] [ - ]
                                     [ 281 ] I've always associated it with Indian English, possibly it's a dialect thing that's spread from that community.
                                     [ @ 282 ] reply
-                               [ @ 283 ] [ @ 284 ] xanderlewis [ @ 285 ] 7 hours ago [ 286 ]  [ @ 289 ] root [ 287 ] | [ @ 290 ] parent [ 288 ]  [ @ 291 ] next [ @ 292 ] [ - ]
+                               [ @ 283 ] [ @ 284 ] xanderlewis [ @ 285 ] 7 hours ago [ 286 ]  [ @ 289 ] root [ 287 ]  [ @ 290 ] parent [ 288 ]  [ @ 291 ] next [ @ 292 ] [ - ]
                                           [ 293 ] Maybe it's Kazakh. [ @ 294 ] https://en.m.wikipedia.org/wiki/Borat
                                           [ 295 ] ;-)
                                           [ @ 296 ] reply.
-                         [ @ 297 ] [ @ 298 ] cOpium [ @ 299 ] 8 hours ago [ 300 ]   [ @ 303 ] parent [ 301 ]  [ @ 304 ] prev [ 302 ]  [ @ 305 ] next [ @ 306 ] [ - ]
+                         [ @ 297 ] [ @ 298 ] copium [ @ 299 ] 8 hours ago [ 300 ]   [ @ 303 ] parent [ 301 ]  [ @ 304 ] prev [ 302 ]  [ @ 305 ] next [ @ 306 ] [ - ]
                                     [ 307 ] Gotta earn those fat management consultant fees somehow. I'm sure there's a whole team at McKinsey doing nothing but inventing new ways to
                                     say the same things.
                                     [ @  308  ] reply
@@ -137,10 +137,10 @@
                          [ @ 334 ] [ @ 335 ] bigdict [ @ 336 ] 9 hours ago [ 337 ]  [ @ 340 ] parent [ 338 ]  [ @ 341 ] prev [ 339 ]  [ @ 342 ] next [ @ 343 ] [ - ]
                                     [ 344 ] learnings = lessons learned
                                     [ @ 345 ] reply
-                         [ @ 346 ] [ @ 347 ] AlexCoventry [ @ 348 ] 7 hours ago [ 349 ]  [ @ 352 ] parent [ 350 ] | [ @ 353 ] prev [ 351 ]  [ @ 354 ] next [ @ 355 ] [ - ]
+                         [ @ 346 ] [ @ 347 ] AlexCoventry [ @ 348 ] 7 hours ago [ 349 ]  [ @ 352 ] parent [ 350 ]  [ @ 353 ] prev [ 351 ]   [ @ 354 ] next [ @ 355 ] [ - ]
                                     [ 356 ] I think it's new. I've only heard it in the last few years.
                                     [ @ 357 ] reply
-                         [ @ 358 ] [ @ 359 ] catlover76 [ @ 360 ] 6 hours ago [ 361 ]  [ @ 364 ] parent [ 362 ] | [ @ 365 ] prev [ 363 ] | [ @ 366 ] next  [ @ 367 ] [ - ]
+                         [ @ 358 ] [ @ 359 ] catlover76 [ @ 360 ] 6 hours ago [ 361 ]  [ @ 364 ] parent [ 362 ]  [ @ 365 ] prev [ 363 ]  [ @ 366 ] next  [ @ 367 ] [ - ]
                              A
                                     [ 368 ] I assumed the author was a non - native English speaker
                                     [ @ 369 ] reply
@@ -164,10 +164,10 @@
                               [ 410 ] Great example of immortal digital avatars. This is just a simple personal avatar but it is possible to make technological gods with the same techniques. All
                              that's needed is scale and $ 80B.
                               [ @ 411 ] reply
-                  [ @ 412 ] [ @ 413 ] lloydatkinson [ @ 414 ] 7 hours ago [ 415 ]  [ @ 417 ] prev [ 416 ]  [ @ 418 ] next [ @ 419 ] [ - ]
+                  [ @ 412 ] [ @ 413 ] lloydatkinson [ @ 414 ] 7 hours ago [ 415 ] | [ @ 417 ] prev [ 416 ]  [ @ 418 ] next [ @ 419 ] [ - ]
                               [ 420 ]" Learnings" is such a horrible word
                                @ 421 ] reply
-                  [ @ 422 ] [ @ 423 ] 123sereusername [ @ 424 ] 7 hours ago [ 425 ]    [ @ 426 ] prev [ @ 427 ] [ -1
+                  [ @ 422 ] [ @ 423 ] 123sereusername [ @ 424 ] 7 hours ago [ 425 ]    [ @ 426 ] prev [ @ 427 ] [ - ]
                               [ 428 ]" Learnings" While it might be legal, Learnings is a terrible abuse of the English language.
                              [ @ 429 ] reply
                          [ @ 430 ] [ @ 431 ] sfink [ @ 432 ] 6 hours ago [ 433 ]  [ @ 435 ] parent [ 434 ]  [ @ 436 ] next [ @ 437 ] [ - ]
@@ -176,7 +176,7 @@
                                    " useful information gleaned" can be shoved right back up the tightly puckered ass it came out of.
                                     [ 439 ] What's the problem? That title is exactly the way I would have written it.
                                     [ @ 440 ] reply
-                               [ @ 441 ] [ @ 442 ] korhojoa [ @ 443 ] 5 hours ago [ 444 ]   [ @ 447 ] root [ 445 ]  [ @ 448 ] parent [ 446 ]  [ @ 449 ] next [ @ 450 ] [ - ]
+                               [ @ 441 ] [ @ 442 ] korhojoa [ @ 443 ] 5 hours ago [ 444 ]   [ @ 447 ] root [ 445 ]  [ @ 448 ] parent [ 446 ] | [ @ 449 ] next [ @ 450 ] [ - ]
                                    A
                                           [ 451 ] Out of curiosity, what's your take on how to write" this item requires repair"?
                                           [ 452 ]" It needs repaired" is something I've seen, which to me is confusing, because it seems like" to be" is missing. When did" needs" run away
@@ -211,7 +211,7 @@
                                    A
                                           [ 526 ] I always thought of" learning" as an uncountable noun.
                                           [ @ 527 ] reply
-                         [ @ 528 ] [ @ 529 ] ryanklee [ @ 530 ] 7 hours ago [ 531 ]  [ @ 534 ] parent [ 532 ]  [ @ 535 ] prev [ 533 ] | [ @ 536 ] next [ @ 537 ] [
+                         [ @ 528 ] [ @ 529 ] ryanklee [ @ 530 ] 7 hours ago [ [ 531 ]  [ @ 534 ] parent [ 532 ]  [ @ 535 ] prev [ 533 ] | [ @ 536 ] next [ @ 537 ] [ ] -
                                     [ 538 ] This is a ridiculous, arbitrary judgment that has nothing to do with anything even remotely related to this post. This type of pedantry is low - brow
                                     and annoying.
                                     [ @ 539 ] reply.
@@ -220,10 +220,10 @@
                                           [ @ 551 ] reply
                          [ @ 552 ] [ @ 553 ] amccollum [ @ 554 ] 6 hours ago [ 555 ]   [ @ 557 ] parent [ 556 ]  [ @ 558 ] prev [ @ 559 ] [ - ]
                                     [ 560 ] Take it up with Shakespeare?
-                                    [ @ 561 ] https://www.opensourceshakespeare.org/views/plays/play view ....
+                                    [ @ 561 ] https: //www.opensourceshakespeare.org/views/plays/play_view ....
                                     [ @ 562 ] reply
                         [ @ 570 ] Guidelines [ 563 ]  [ @ 571 ] FAQ [ 564 ]  [ @ 572 ] Lists | API  [ @ 574 ] Security [ 567 ]  [ @ 575 ] Legal [ 568 ]  @ 576 ] Apply to YC [ 569 ]
                                                                                               [ @ 577 ] Contact
                                                                              [ 578 ] Search: [ # 579 ]
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 6426
+Token count: 6425

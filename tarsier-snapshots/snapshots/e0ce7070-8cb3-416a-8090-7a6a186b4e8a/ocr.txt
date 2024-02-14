@@ -24,7 +24,7 @@
                                                                                                                                                                            [ @ 49 ] 17 Doctors      0
                              [ 30 ] Adult:
                                                                                                                                                                            [ @ 50 ] 14
-                               . [ 31 ] Hepatology,       including chronic liver disease                                                                                 Conditions Treated
+                                • [ 31 ] Hepatology,      including chronic liver disease                                                                                 Conditions Treated
                                    [ 32 ] Liver transplant,     including pre- and post- liver transplantation care
                              [ 33 ] Pediatric:
                                 • [ 34 ] Pediatric allergy and immunology
@@ -32,10 +32,10 @@
                                    [ 36 ] Pediatric hematology / oncology
                                 • [ 37 ] Pediatric otolaryngology ( ENT )
                                 • [ 38 ] Pediatric gastroenterology
-                               . [ 39 ] Pediatric infectious Diseases
+                                   [ 39 ] Pediatric infectious Diseases
                                . [ 40 ] Pediatric     neurosurgery
-                               . [ 41 ] Pediatric rheumatology
-                               . [ 42 ] Pediatric surgery
+                                • [ [ 41 ] Pediatric rheumatology
+                                • [ 42 ] Pediatric surgery
                                    [ 43 ] Pediatric neurology
                                  [ @ 44 ] Directions & Parking                                                                     ☐
                                  [ @ 45 ] Adult Services and Specialties                                                          ☐

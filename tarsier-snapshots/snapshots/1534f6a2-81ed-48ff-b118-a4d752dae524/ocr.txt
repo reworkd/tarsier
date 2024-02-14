@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------------------------
 [ @ 9 ]                     [ @ 16 ]
                       [ $ 3 ]  [ $ 5 ]   [ $ 7 ]  [ 10 ] Safety
-  [ @ 1 ]                                                            [ $ 13 ]  [ 17 ] Log in 7
+  [ @ 1 ]                                                            [ $ 13 ]  [ 17 ] Log in
                    [ 4 ] Research  [ 6 ] API  [ 8 ] ChatGPT✓
      OpenAl                                                         [ 14 ] Search  [ @ 18 ]
                         [ $ 11 ]
@@ -48,7 +48,7 @@
                    ●  [ 40 ] Strong background in technology policy, including Al.
                    ●  [ 41 ] Experience creating clear and concise writing, distilling complex
                     concepts into simple, explainable,  and persuasive ideas.
-                 . [ 42 ] Experience analyzing complex legislation.
+                  • [ 42 ] Experience analyzing complex legislation.
                    ●  [ 43 ] Experience engaging with regulators and / or policymakers.
                    ●  [ 44 ] International policy experience, particularly in the EU and UK.
                    [ 45 ] About the Interview Process
@@ -66,7 +66,7 @@
                     [ 54 ] Paid parental leave ( 20 weeks ) and family - planning support
                     [ 55 ] Annual learning & development stipend ( $ 1,500 per year )
                    [ 56 ] Annual Salary Range
-                   [ 57 ] $ 250,000 [ [ 58 ] - [ 59 ] $ 250,000 USD
+                   [ 57 ] $ 250,000 [ [ 58 ]  [ 59 ] $ 250,000 USD
                    [ 60 ] About OpenAl
                    [ 61 ] OpenAl is an Al research and deployment company dedicated to
                    ensuring that general - purpose artificial intelligence benefits all of humanity.
@@ -105,4 +105,4 @@
   [ @ 111 ]                            [ $ 123 ]
    [ 112 ] Brand guidelines        [ 124 ] Back to top ↑
 -------------------------------------------------------------------------------------------------
-Token count: 1556
+Token count: 1554

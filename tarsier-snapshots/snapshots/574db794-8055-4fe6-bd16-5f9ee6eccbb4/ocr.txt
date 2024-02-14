@@ -6,7 +6,7 @@
                  [ $ 9 ] Distance or Location             ▼            [ $ 10 ] Time Type                        [ $ 11 ] Country                       [ $ 12 ] More
             [ 14180 JOBS FOUND                                                                                                                                                                                                           [ $ 142 ] X
                                                                                                                                                                                                            2
-                                                                                                                    [ 144 ] Territory Account Manager ( @ 145 ]
+                                                                                                                    [ 144 ] Territory Account Manager [ @ 145 ]
             [ @ 16 ] BlackBerry QNX - Senior Technical Product Manager
                                                                                                                         [ @ 146 ] Apply
                   [ 18 ] 2 Locations
@@ -20,15 +20,15 @@
             [ 27 ] 20231180
                                                                                                                      [ 159 ] Worker Sub - Type:
             [ @ 28 ] External Reporting and Technical Accounting Manager                                            Regular
-             O    [ [ 30 ] Waterloo, Ontario
+             O    [ 30 ] Waterloo, Ontario
              L    [ 32 ] Posted 15 Days Ago
                                                                                                                      [ 160 ] Job Description:
             [ 33 ] 20231144
               @ 34 ] Territory Account Manager                                                                       [ 161 ] Location: US - Pacific Northwest, Rocky Mountain Region or Bay Area
                                                                                                                     candidates will be considered
-             O    [ [ 36 ] Seattle, Washington
+             O     [ 36 ] Seattle, Washington
              C     [ 38 ] Posted 29 Days Ago
-            [ 39 ] 20231252                                                                                          [ 163 ] BlackBerryⓇ [ 162 ] is a transformed company. Today, BlackBerry provides
+            [ 39 ] 20231252                                                                                          [ 163 ] BlackBerry® [ 162 ] is a transformed company. Today, BlackBerry provides
                                                                                                                     intelligent security software and services to enterprises and governments around the
                                                                                                                     world. The company secures more than 500M endpoints including over 235M vehicles.
             [ @ 40 ] BlackBerry QNX - Senior Technical Project Manager                                              Based in Waterloo, Ontario with offices around the globe, we use Al and machine
@@ -125,12 +125,12 @@
                                                                                                                      [ 194 ] Compensation Base Range:
             [ 111 ] 20230795                                                                                        $ 113,750 - $ 162,500 USD
             [ @ 112 ] Senior Software Developer in Test                                                              [ 195 ] Bonus:
-                                                                                                                    The BlackBerry Sales Incentive Pay ( SiP ) program is a bonus incentive program
+                                                                                                                    The BlackBerry Sales Incentive Pay ( SIP ) program is a bonus incentive program
                   [ 114 ] Bengaluru, India
                                                                                                                     designed to reward eligible employees for their contributions towards BlackBerry's
                   [ 116 ] Posted 9 Days Ago                                                                         sales success. SiP payments are based on an employee's sales performance against
             [ 117 ] 20231199                                                                                        quarterly or full - year quotas for the fiscal year.
-            [ @ 118 ] Cyber Security           Principal Systems Software                                            [ 196 ] Benefits:
+            [ @ 118 ] Cyber Security - Principal Systems Software                                                    [ 196 ] Benefits:
             Developer - Linux Kernel                                                                                 [ 197 ] The BlackBerry Employee Benefits programs offer a wide range of benefits that
                                                                                                                     support your physical, financial and personal well - being.                        BlackBerry remains
              O    [ 120 ] Bengaluru, India
@@ -143,7 +143,7 @@
             B     [ 128 ] Posted 21 Days Ago
             [ 129 ] 20231265
             [ @ 130 ] Senior Motion Designer Specialist
-            O [ 132 ] Waterloo, Ontario
+                  [ 132 ] Waterloo, Ontario
                   [ 134 ] Posted 22 Days Ago
             [ 135 ] 20231149
                                              2      3      4     [ $ 140 ] >
@@ -155,4 +155,4 @@
                                                                                                                             workday
                                                                                                           [ 204 ] 2023 Workday, Inc. All rights reserved.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2520
+Token count: 2514

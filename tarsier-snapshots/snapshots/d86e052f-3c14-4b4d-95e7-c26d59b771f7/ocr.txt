@@ -76,7 +76,7 @@
            Opportunity notice [ @ 77 ] here. [ 73 ] We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. We may use your
            information to maintain the safety and security of Meta, its employees, and others as required or permitted by law. You may view [ @ 78 ] Meta's Pay Transparency Policy.
            [ @ 79 ] Equal Employment Opportunity is the Law [ 74 ] notice, and [ @ 80 ] Notice to Applicants for Employment and Employees [ 75 ] by clicking on their corresponding
-           links. Additionally, Meta participates in the [ @ 81 ] E - Verify program [ [ 76 ] in certain locations, as required by law.
+           links. Additionally, Meta participates in the [ @ 81 ] E - Verify program [ 76 ] in certain locations, as required by law.
      [ 82 ] Meta is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need
            assistance or an accommodation due to a disability, you may contact us at [ @ 84 ] accommodations-ext@fb.com [ 83 ]
            [ 87 ] About us        [ 92 ] On social      [ 97 ] Our            [ 101 ] More                                                                      [ @ 86 ] Report a bug
@@ -92,4 +92,4 @@
            [ @ 91 ] Looking for                         policy                developers
            contractor roles?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1629
+Token count: 1628

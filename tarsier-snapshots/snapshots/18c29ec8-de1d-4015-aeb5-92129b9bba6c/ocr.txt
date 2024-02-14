@@ -17,7 +17,7 @@
       [ $ 22 ] Bloomington ( 58 )
       [ $ 23 ] Lafayette ( 58 )
       [ $ 24 ] Carmel ( 51 )
-      [ $ 25 ] Muncie ( 48 )         [ 45 ] Showing 1 - 12 of 684 Locations
+      [ $ 25 ] Muncie ( 48 )         [ 45 ] Showing 1-12 of 684 Locations
     [ $ 26 ] Show more
     [ 27 ] Location Type
       [ $ 28 ] Primary Care                                    @ 46 ]                                                 [ @ 61 ]
@@ -34,7 +34,7 @@
       ( 3 )                                                ★★★★★                                                   ★★★★★
       [ $ 36 ] Anesthesiology                 [ 53 ] 4.6 [ 51 ] out of [ 54 ] 5 [ 52 ] stars [ 55 ]   [ 68 ] 4.6 [ 66 ] out of [ 69 ] 5 [ 67 ] stars [ 70 ]
       ( 8 )
-      [ $ 37 ] Arthritis &                          ( 4 @ 59 ] 615448. [ $ 58 ]                             ( 6 @ 74 ] 11357457. [ $ 73 ] Ⓒ
+      [ $ 37 ] Arthritis &                          ( 4 @ 59 ] 615448. [ $ 58 ]                             ( 6 @ 74 ] 11557457. [ $ 73 ] Ⓒ
       Rheumatology ( 10 )
       [ $ 38 ] Bariatric &
                                                        [ @ 60 ] Location Details                               [ @ 75 ] Location Details
@@ -51,7 +51,7 @@
                                                       [ 80 ] Bedford,  IN 47421                             [ 95 ] Bloomington, IN 47408
                                                                       ★
                                               [ 83 ] 4.6 [ 81 ] out of [ 84 ] 5 [ 82 ] stars [ 85 ]  [ 98 ] 4.5 [ 96 ] out of [ 99 ] 5 [ 97 ] stars [ 100 ] ( 45,637
-                                                    ( 21 @ 89 ) 61 2ap75. [ $ 88 ] Ⓒ                          [ @ 104 ]  [ $ 103 ] 5252
+                                                    ( 21 @ 89 ) 61 275. [ $ 88 ] Ⓒ                            [ @ 104 ]   $ 103 ] 5252
                                                        [ @ 90 ] Location Details                              [ @ 105 ] Location Details
                                                               [ @ 106 ]                                               [ @ 121 ]
                                                            [ 107 ] Hospital                                        [ 122 ] Hospital
@@ -79,7 +79,7 @@
                                                         [ 169 ] 355 W 15th St                                [ 184 ] 11700 N Meridian St
                                                     [ 170 ] Indianapolis, IN 46202                            [ 185 ] Carmel,  IN 46032
                                                            ✰✰✰✰✰                                                   ✰✰✰✰✰
-                                           [ 173 ] 4.7 [ 171 ] out of [ 174 ] 5 [ 172 ] stars [ [ 175 ]  [ 188 ] 4.7 [ 186 ] out of [ 189 ] 5 [ 187 ] stars [ 190 ] ]
+                                           [ 173 ] 4.7 [ 171 ] out of [ [ 174 ] 5 [ 172 ] stars [ 175 ]  [ 188 ] 4.7 [ 186 ] out of [ 189 ] 5 [ 187 ] stars [ 190 ] ]
                                                       [ @ 179 ] 3tings9 [ $ 178 ] 50                          [ @ 194 ] 36 [ $ 193 ] )
                                                       [ @ 180 ] Location Details                              [ @ 195 ] Location Details
                                                               [ @ 196 ]                                               [ @ 211 ]
@@ -118,6 +118,6 @@
       [ @ 273 ] Deutsch [ @ 274 ] Hakha [ @ 275 ] B  [ @ 276 ] Karen                       Riley  Riley Children's Health     INDIANA  SCHOOL OF  UNIVERSITY
                                                                                                  Indiana University Health
       [ @ 277 ] 한국어 [ @ 278 ] Pycckuï [ @ 279 ] Tagalog [ @ 280 ] Tiếng Việt
-      [ @ 281 ]    [ @ 282 ]  [ @ 283 ] HEÎ
+      [ @ 281 ]    [ @ 282 ]  [ @ 283 ] HEI
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2334
+Token count: 2330

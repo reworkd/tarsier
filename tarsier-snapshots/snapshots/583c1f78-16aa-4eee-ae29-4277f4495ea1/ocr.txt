@@ -1,6 +1,6 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ $ 1 ]  Search               [ @ 2 ]  Pay My Bill   [ @ 3 ]  Careers    [ @ 4 ]  Give Now     [ @ 5 ]  VCU Health MyChart     [ @ 6 ]  Contact
-         [ @ 7 ]    VCUHealth                            [ @ 8 ]  ad a Provider   [ @ 9 ] Our Services  [ @ 10 ] Locations   [ $ 11 ]     [ $ 12 ] = Explore
+         [ @ 7 ]    VCUHealth                            [ @ 8 ]  ad a Provider   [ @ 9 ] Our Services  [ @ 10 ] Locations   [ $ 11 ]     [ $ 12 ]  Explore
           [ @ 14 ] Home ☐ [ @ 15 ] Locations  [ 16 ] Location Details
           [ 17 ]                        Medical
               Mayland
@@ -14,10 +14,10 @@
          [ 24 ]  Services
            . [ 25 ] Adolescent Medicine
            . [ 26 ] Endocrinology
-           . [ 27 ] Family Medicine
+            • [ 27 ] Family Medicine
               [ 28 ] Genetics.
            . [ 29 ] Infectious Disease
-           . [ 30 ] Internal Medicine
+              [ 30 ] Internal Medicine
            . [ 31 ] Nephrology
            . [ 32 ] Pulmonary
            . [ 33 ] Surgical Oncology
@@ -55,7 +55,7 @@
                                                                               [ @ 41 ] For  Employees  [ @ 49 ] Web
            [ @ 35 ] [ @ 36 ] [ @ 37 ]                                                                        Privacy Statement
                                                                               [ @ 42 ] Contact Us
-             f     X       O      [ 38 ]  2023 VCU Health. All rights                             [ @ 50 ] Social Media Guidelines
+             f     X       O      [ 38 ] © 2023 VCU Health. All rights                            [ @ 50 ] Social Media Guidelines
            reserved .                                                         [ @ 43 ] Giving
                                                                                                   [ @ 51 ] VCU Health System Virginia FOIA Requests
                                                                               [ @ 44 ] News Center
@@ -63,4 +63,4 @@
                                                                                                                                                      [ 13 ] Need
                                                                                                                                                         help
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 745
+Token count: 744

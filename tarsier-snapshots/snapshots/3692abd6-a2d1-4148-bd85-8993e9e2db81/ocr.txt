@@ -48,7 +48,7 @@
                                                       Wildlife  28
                                 @ 56 ]                Refuge                                            [ $ 55
                                 [
-                                                  $ 571 Keyboard shortcuts  [ 581 Map data © 2023 Google  [ @ 591 Terms  @ 601 Report a mad error
+                                                  $ 571 Keyboard shortcuts  [ 581 Map data © 2023 Google  @ 591 Terms  @ 601 Report a mad error
                                [ @ 61 ] Get Driving Directions
           [ 62 ] Our [ 63 ]  Services
    • [ @ 64 ] Surgical Services
@@ -57,8 +57,8 @@
       [ @ 76 ] Patient Help Center
       [ 77 ] Subscribe to Our eNewsletter
       [ # 79 ] Enter your email address  [ $ 80 ] Subscribe
-                                                                                 [ @ 82 ] Google Translate Disclaimer [ pdf ]  G [ @ 81 ] Select Langua [ @ 65 ]
+                                                                                 [ @ 82 ] Google Translate Disclaimer [ pdf ]  G [ @ 81 ] Select Languag [ @ 65 ]
                                                                        [ 83 ] Copyright 2023 Cape Cod Healthcare Inc. All rights reserved. |  [ @ 84 ] Privacy
                                                                                                                                   [ 66 ] Top
 -----------------------------------------------------------------------------------------------------------------------------------------
-Token count: 915
+Token count: 914

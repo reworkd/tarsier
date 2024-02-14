@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------------------------------------------------------
 [ @ 9 ]                             [ @ 16 ]
                             [ $ 3 ]     [ $ 5 ]     [ $ 7 ]    [ 10 ] Safety
-   [ @ 1 ]                                                                               [ $ 13 ]  [ 17 ] Log in 7
+   [ @ 1 ]                                                                               [ $ 13 ]  [ 17 ] Log in
                         [ 4 ] Research ✓  [ 6 ] API  [ 8 ] ChatGPT✓
       OpenAl                                                                           [ 14 ] Search  [ @ 18 ]
                                [ $ 11 ]
@@ -80,7 +80,7 @@
                           [ 58 ] Annual learning & development stipend ( $ 1,500 per year )
                         [ 59 ] Annual Salary Range
                         [ 60 ] $ 200,000 [ 61 ]  [ 62 ] $ 385,000 USD
-                        [ [ 63 ] About OpenAl
+                        [ 63 ] About OpenAl
                         [ 64 ] OpenAl is an Al research and deployment company dedicated to
                         ensuring that general - purpose artificial intelligence benefits all of humanity.
                         We push the boundaries of the capabilities of Al systems and seek to safely
@@ -119,4 +119,4 @@
    [ @ 114 ]                                      [ $ 126 ]
    [ 115 ] Brand guidelines                  [ 127 ] Back to top ↑
 ------------------------------------------------------------------------------------------------------------------------
-Token count: 1702
+Token count: 1699

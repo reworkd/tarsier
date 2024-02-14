@@ -37,7 +37,7 @@
          [ 21 ] 417.347.1111                              [ 24 ] 417.347.1111                              [ 27 ] 417.451.1234
         [ @ 22 ] Learn more →                             [ @ 25 ] Learn more →                            [ @ 28 ] Learn more →
                                                                     Neighborhood Care
-                    3202 MCINTOSH 300MINTOSH                         1500 S. Case                                      3202 MCINTOSH M2 MFINTOSH
+                    3202 MCINTOSH 30 MINTOSH                         1500 S. Case                                      3202 MCINTOSH 12 MINTOSH
          [ 29 ] Browning Internal Medicine                [ 32 ] Carthage Neighborhood Care                [ 35 ] Freeman Academic Internal
                                                                                                            Medicine
          [ 30 ] 417.781.9200                              [ 33 ] 417.359.5948
@@ -89,7 +89,7 @@
         Cancer Institute                                  Skin Cancer Center                               Institute
          [ 66 ] 417.347.4000                              [ 69 ] 417.347.8066                              [ 72 ] 417.347.8740
          [ @ 67 ] Learn more →                            [ @ 70 ] Learn more →                             [ @ 73 ] Learn more →
-                                                                                                                       3202 MCINTOSH 200 MINTOSH
+                                                                                                                       3202 MCINTOSH 1202 MINTOSH
          [ 74 ] Freeman Ear, Nose & Throat                [ 77 ] Freeman Family Medicine                   [ 80 ] Freeman Family Practice
         Center                                            Associates
                                                                                                            [ 81 ] 417.347.8525
@@ -119,7 +119,7 @@
         [ 110 ] Freeman Heart & Vascular                  [ 113 ] Freeman Infectious Diseases              [ 116 ] Freeman Institute for Pain
         Institute  -  Pittsburg                                                                            Management
                                                           [ 114 ] 417.347.8322
-         [ 111 ] 620.231.0958                                                                              [ 117 ] 417.347.8055
+         [ 111 ] 620.231.0958                                                                              [ 1171417.347.8055
                                                           [ @ 115 ] Learn more →
          [ @ 112 ] Learn more →                                                                            [ @ 118 ] Learn more →
        Freeman Internal Medicine &  Practic                                                               Freeman Lamar     Care
@@ -172,7 +172,7 @@
                                                           [ @ 178 ] Learn more →                           [ @ 181 ] Learn more →
        Freeman Sleep Medicine                                                                             Freeman Specialty Clinic of Pittsburg
                                                                                               PRIMARY ME
-                                                                      3202 MCINTOSH 202MINTOSH
+                                                                      3202 MCINTOSH 1202 MINTOSH
         [ 182 ] Freeman Sleep Medicine                    [ 185 ] Freeman Southwest Internal               [ 188 ] Freeman Specialty Clinic of
                                                          Medicine                                          Pittsburg
         [ 183 ] 417.347.8688
@@ -212,4 +212,4 @@
                                                                                                                   [ 237 ] © 2023 [ 238 ] Freeman Health System
                                                                                                                    [ @ 239 ] Privacy  [ @ 240 ] Terms of Use
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 3254
+Token count: 3255

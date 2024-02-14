@@ -6,7 +6,7 @@
                                 المقاتنات
                         ] @ 5 [   والتأمينات                                                                                                                                 [ @ 4 ]
                                                      ****
-                                GENERAL PENSION                                                                                                                                      United Arab Emirates
+                                GENERAL PENSIONS                                                                                                                                     United Arab Emirates
                         [ @ 6 ]   [ @ 7 ] [ @ 8 ] ] [ @ 9 ] [ @ 10 ] [ @ 11 ]  [ # 14 ]                       I @      [ @ 15 ] Advanced               [ @ 16 ]             [ @ 17 ]
                                                                                           Sear      12 n
                        U                         0 0 العربية                                                                  Search                  Register              [ 18 ] Login
@@ -26,12 +26,15 @@
  [ $ 133 ]
  Reconnecting
  Start New Conversation
- E
+ =
  Type your message ...
-                                                                                                                                                                                                            [ @ 70  F  ]
-                                                                                                                                                                                                            [ @ 71  F  ]
-                                                                                                                                                                                                                 F
-                                                                                                                                                                                                            [ @ 73 F ]
+                                                                                                                                                                                                                  F
+                                                                                                                                                                                                            [ @ 70 ]
+                                                                                                                                                                                                                  F
+                                                                                                                                                                                                            [ @ 71 ]
+                                                                                                                                                                                                                  F
+                                                                                                                                                                                                                  F
+                                                                                                                                                                                                            [ @ 73 ]
                                                                                                                                                                                                             [ @ 74 ]  ✔
                                                                                                                                                                                                              @ 76 ]
                                                                                                                                                                                                             [ @ 77 ]
@@ -42,4 +45,4 @@
  Are you sure you want to end this conversation?
  NoYes
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 543
+Token count: 547

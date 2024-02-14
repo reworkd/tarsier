@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ ⁰ ]                                                                                                                                                                   [ # 1 ]
-                                                        [ @ 2 ] PEOPLE       [ @ 3 ] PRACTICES        [ @ 4 ] INSIGHTS □        [ @ 5 ] CAREERS □         [ @ 6 ] ABOUT O
+                                                        [ @ 2 ] PEOPLE       [ @ 3 ] PRACTICES        [ @ 4 ] INSIGHTS          [ @ 5 ] CAREERS           [ @ 6 ] ABOUT O
    GIBSON DUNN
                                                  [ @ 7 ] Biography         [ @ 8 ] Education        [ @ 9 ] Recent Publications
                                                                [ 12 ] CONTACT INFO                                          [ 25 ] PRACTICE
@@ -66,7 +66,7 @@
    [ @ 71 ]
               Client Alert - February 22, 2021 | M & A Report - 2020 Year - End Activism Update
    [ @ 72 ]
-              Client Alert- October 9, 2020 | M & A Report - 2020 Mid - Year Activism Update
+              Client Alert - October 9, 2020 | M & A Report - 2020 Mid - Year Activism Update
    [ @ 73 ]
               Client Alert - May 11, 2020 | M & A Report - 2019 Year - End Activism Update
    [ @ 74 ]
@@ -78,7 +78,7 @@
    [ @ 77 ]
               Article - November 8, 2018 | Akorn v. Fresenius: Delaware Chancery Court Upholds MAE - Based Termination
    [ @ 78 ]
-              Client Alert- October 2, 2018 | M & A Report - Fresenius Marks a Watershed Development in the Analysis of" Material A ...
+              Client Alert - October 2, 2018 | M & A Report - Fresenius Marks a Watershed Development in the Analysis of" Material A ...
    @ 79 ]
               Client Alert - April 5, 2018 | M & A Report - AOL and Aruba Networks Continue Trend of Delaware Courts Deferring to ...
   [ @ 80 ]
@@ -103,10 +103,10 @@
                                                                                   [ @ 94 ] CONTACT US
      [ 100 ] Gibson Dunn uses cookies which are [ 95 ] al for our website to function. With your consent, we and [ @ 103 ] third parties [ 101 ] may also
      use non - essential cookies to collect information about your browsing activities, and improve the content, functionality and performance of our website. By
-     clicking" Accept All", you consent to the use of all cookies on our website as set out in our [ @ 104 ] [ @ 9Notice [ 102 ]. You can reject all non
+     clicking" Accept All", you consent to the use of all cookies on our website as set out in our [ @ 104 ] c [ @ 9Notice [ 102 ]. You can reject all non
      essential cookies by clicking" Reject All". Choose" Manage Cookies" to view and customize your  ie settings
                                                                                 [ @ 9       T @ ⁹ [ @ 9
      [ @ 105 ] Manage Cookies       [ @ 106 ] ACCEPT ALL        [ @ 107 ] REJECT ALL
                                                                                6 ]          8 ]   9 ]
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2218
+Token count: 2215

@@ -1,7 +1,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 0 ] Set Your Location
          [ @ 1 ] Blog   [ @ 2 ] About   [ @ 3 ] Careers   [ @ 4 ] Give   [ @ 5 ] Contact     [ @ 6 ] PAY MY BILL        [ @ 7 ] PATIENT PORTAL
-            Adventist ( @ 8 ]
+            Adventist [ @ 8 ]
             HealthCare
          [ @ 10 ] FIND A DOCTOR        [ @ 11 ] HEALTH SERVICES        [ @ 12 ] LOCATIONS        [ @ 13 ] CLASSES & EVENTS         [ @ 14 ] PATIENTS & VISITORS
                                                                                                                                                                  [ # 16 ]
@@ -18,7 +18,7 @@
                                                                                 Associates                                           Associates
               [ $ 29 ] Location Category                                                                              L
                                                                                 [ 43 ] 301-670-3000                                  [ 54 ] 301-634-4800
-              [ $ 301  Location Category
+              [ $ 30 ]  Location Category
                                                                                 [ 45 ] 15225 Shady                                    [ 56 ] 12501 Prosperity
                                                                                 Grove Road                                           Drive
               [ $ 31 ] Radius                                                   Suite 201                                            Suite 300
@@ -37,7 +37,7 @@
                                                                                 Germantown Road                                      Way
                                                                                 Suite 190                                            Suite B
                                                                                 Germantown [ 66 ],                                   Silver Spring [ 77 ],
-                                                                                [ 70 ] MD [ 71 ] 20874                                [ 81 ] MD [ 82 ] 20904
+                                                                                [ 70 ] MD. [ 71 ] 20874                               [ 81 ] MD [ 82 ] 20904
                                                                                 [ @ 72 ] Get Driving                                 [ @ 83 ] Get Driving
                                                                                 Directions                                           Directions
                                                                                 [ @ 73 ] Doctors at this
@@ -73,7 +73,7 @@
                                                                                 [ 130 ] 12008 Cherry Hill                             [ 140 ] 9711 Medical
                                                                                 Road                                                 Center Drive
                                                                                 [ 131 ] Silver Spring,                               Suite 101
-                                                                                [ 132 ] MD [ 133 ] 20904                             Rockville, [ 143 ] MD.
+                                                                                [ 132 ] MD [ 133 ] 20904                             Rockville, [ [ 143 ] MD.
                                                               [ @ 126 ] CALL                                        [ @ 136 ] CALL    [ 144 ] 20850
                                                               TO SCHEDULE       [ @ 134 ] Get Driving               TO SCHEDULE
                                                                                 Directions                                            [ @ 145 ] Get Driving
@@ -98,9 +98,9 @@
                                                                [ @ 169 ] Patient Nondiscrimination
                [ @ 165 ] Contact Us
                                                               [ @ 170 ] Price Transparency
-                                                                                                                 [ 183 ] in
+                                                                                                                 [ @ 183 ] in
                                                               [ 171 ] Website: [ @ 174 ] Terms of
-                                                              Service [ 172 ]  [ @ 175 ] Privacy [ 173 ] |                              ?
+                                                              Service [ 172 ] | [ @ 175 ] Privacy [ 173 ] |                             ?
                                                                                                                  [ 184 ] ¿ HABLA ESPAÑOL
                                                               [ @ 176 ] Accessibility
                                                                                                                  Select Language  [ 185 ] Powered by [ @ 187 ] Google Translate
@@ -116,4 +116,4 @@
   OReset Conversation  Download Transcript
  Hello! I'm Elle, Adventist Health Care's chatbot. How can I help you?
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1823
+Token count: 1827

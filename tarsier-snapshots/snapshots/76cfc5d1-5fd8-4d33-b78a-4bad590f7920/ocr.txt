@@ -31,7 +31,7 @@
                         [ @ 37 ] Systèmes et moyens de
                         paiement
                         [ @ 38 ] Banque Participative
-                      > @ 39 ] Institution de Microfinance
+                      > [ @ 39 ] Institution de Microfinance
                         ( IMF )
                     [ @ 40 ] Fonds de soutien financier aux
                     TPME
@@ -75,4 +75,4 @@
                      [ 70 ] Copyright © Bank Al - Maghrib 2023                         [ @ 71 ] Plan de site  [ @ 72 ] Mentions légales  [ @ 73 ] Contactez nous  [ @ 74 ] Liens utiles
                      [ 76 ] En poursuivant votre visite sur ce site, vous acceptez l'utilisation de cookies. Pour plus d'informations [ @ 77 ] Cliquez ici            [ @ 75 ]
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1265
+Token count: 1266

@@ -50,14 +50,14 @@
             [ 22 ] Seattle, WA, USA
                                                                                                                              DynamoDB Request Router
                                                                                                                              Location: USA, WA, Seattle
-                                                                                                                             Posted: [ 64 ] September 25, 2023
+                                                                                                                             Posted: [ [ 64 ] September 25, 2023
             [ 23 ] BASIC QUALIFICATIONS                                                                                       [ 66 ] ( Updated about 23 hours ago )
             [ 24 ] - 3+ years of non - internship professional software development experience
-            [ 25 ] 2+ years of non - internship design or architecture ( design patterns, reliability and scaling ) of new and existing
+            [ 25 ] - 2+ years of non - internship design or architecture ( design patterns, reliability and scaling ) of new and existing
             systems experience                                                                                                [ 67 ] Share this job
-            [ 26 ] - Experience programming with at least one software programming language                                   b      d             l [ @ 71 ] 0 [ @ 72 ]
+            [ 26 ] - Experience programming with at least one software programming language                                   b      d              [ @ 71 ] 0 [ @ 72 ]
             [ 27 ] PREFERRED QUALIFICATIONS
-            [ 28 ] -3+ years of full software development life cycle, including coding standards, code reviews, source control
+            [ 28 ] - 3+ years of full software development life cycle, including coding standards, code reviews, source control
             management, build processes, testing,  and operations experience
             [ 29 ] - Bachelor's degree in computer science or equivalent
             [ 30 ] Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and
@@ -84,4 +84,4 @@
             [ 97 ] identity, sexual orientation, protected veteran status, disability, age, or other legally protected  and Data  [ @ 99 ] Impressum  [ 100 ]  affiliates
                  status.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1686
+Token count: 1688

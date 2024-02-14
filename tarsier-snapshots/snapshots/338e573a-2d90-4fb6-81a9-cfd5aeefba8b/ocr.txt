@@ -3,7 +3,7 @@ Fried
                                       Frank                                                                                               [ @ 0 ] Apply Now
                                      [ 1 ] Real Estate Associate / Special
                                      Counsel
-                                      [ 2 ] at Attorney Opportunities [ @ 3 ] ] ( View all jobs )
+                                      [ 2 ] at Attorney Opportunities [ @ 3 ] ( View all jobs )
                                       [ 4 ] United States
                                       [ 5 ] We are looking for special counsel or associates between classes of 2019 - 2014 to join our Real
                                      Estate Department in either NY or DC.             Candidate must have significant lender - side financing
@@ -11,7 +11,7 @@ Fried
                                      least 60 % of their time on lender - side work.
                                       [ 6 ] The Firm pays market salaries to our attorneys.             As such, below is the current associate base
                                      salary scale:
-                                      [ 7 ] 1st year:    $ 215,000
+                                      [ 7 ] * 1st year:  $ 215,000
                                       [ 8 ] * 2nd year: $ 225,000
                                       [ 9 ] * 3rd year:   $ 250,000
                                       [ 10 ] 4th year: $ 295,000
@@ -58,7 +58,7 @@ Fried
                                                            ( Year * )
                                                 [ @ 65 ] + Add another education
                                             Please upload your transcript.
-                                            Attach File, [ @ 68 ] Dropbox, [             69 ] Google Drive
+                                            Attach File, [ @ 68 ] Dropbox, [ @ 69 ] Google Drive
                                             [ 70 ] ( File types: pdf, doc, docx, txt, rtf )
                                             Please upload additional transcript.
                                             Attach File, [ @ 73 ] Dropbox, [ @ 74 ] Google Drive
@@ -155,7 +155,7 @@ Fried
                                             [ $ 153 ]         No
                                             [ $ 154 ]         I don't wish to answer
                                             [ 155 ] Indicate the race / ethnicity with which you primarily identify with": [ 156 ] ( Select
-                                            one ) [ 157 ] *
+                                            one ) [ 157 ]
                                             [ $ 158 ]         Asian
                                             [ $ 159 ]         Black or African American
                                             [ $ 160 ]         Hispanic or Latino
@@ -193,4 +193,4 @@ Fried
                                                                                                                                                                                                                                                                         Privacy  Terms
  [ $ 203 ]
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2820
+Token count: 2819

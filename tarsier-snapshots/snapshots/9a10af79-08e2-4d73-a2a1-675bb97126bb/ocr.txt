@@ -48,7 +48,7 @@
                                        accommodation due to a disability, please contact us at [ @ 33 ]
                                        [ 34 ] ApplicationAssistance@Reddit.com [ 35 ].
                                               [ 36 ] Apply for this Job                                                                   [ 38 ] [ 37 ] Required
-                                                  in Apply With Linkedin
+                                                  in Apply With LinkedIn
                                                      [ $ 39 ] First     [ # 40 ]
                                                             Name *
                                                      [ $ 41 ] Last      [ # 42 ]
@@ -58,7 +58,7 @@
                                                            [ $ 47 ]      [ $ 48 ] Attach,      [ @ 49 ] Dropbox, [ @ 50 ] Google Drive,
                                                      Resume / CV * or enter manually
                                                                          [ 52 ] ( File types: pdf, doc, docx, txt, rtf )
-                                                   [ $ 53 ] Cover        [ $ 54 ] Attach, [ @ 55 ] Dropbox, [                 56 ] Google Drive,
+                                                   [ $ 53 ] Cover        [ $ 54 ] Attach, [ @ 55 ] Dropbox, [ @ 56 ] Google Drive,
                                                                Letter    or enter manually
                                                                          [ 58 ] ( File types: pdf,      doc, docx, txt, rtf )
                                               [ $ 59 ] LinkedIn Profile
@@ -100,11 +100,11 @@
                                               [ $ 89 ]        Non - binary
                                               [ $ 90 ]        Not listed
                                               [ $ 91 ]        I don't wish to answer
-                                              [ 92 ] Are you a person of transgender experience? [ [ 93 ] ( Select one ) [ 94 ]
+                                              [ 92 ] Are you a person of transgender experience? [ 93 ] ( Select one ) [ 94 ]
                                               [ $ 95 ]        Yes
                                               [ $ 96 ]        No
                                               [ $ 97 ]        I don't wish to answer
-                                              [ 98 ] ] What sexual orientation do you most closely identify with? [ [ 99 ] *
+                                              [ 98 ] What sexual orientation do you most closely identify with? [ [ 99 ] *
                                               [ $ 100 ]          Asexual
                                               [ $ 101 ]          Bisexual
                                               [ $ 102 ]          Gay
@@ -122,4 +122,4 @@
                                                                                                                                                                                                                                                                                      Privacy  Terms
  [ $ 115 ]
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1665
+Token count: 1663

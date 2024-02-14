@@ -29,10 +29,10 @@
         [ 23 ] 919-350-7093                                           Bywood Ct           $ 421 Keyboard shortcuts  [ 431 Map data © 2023  1441 Terms  451 Report a map error
         [ $ 24 ] HOURS
              [ 25 ] Monday 8:00 AM - 5: 00 PM
-         . [ 26 ] Tuesday 8:00 AM - 5: 00 PM
+          • [ 26 ] Tuesday 8:00 AM - 5: 00 PM
           • [ 27 ] Wednesday 8:00 AM - 5: 00 PM
              [ 28 ] Thursday 8:00 AM - 5: 00 PM
-         . [ 29 ] Friday 8:00 AM - 12: 00 PM
+          • [ 29 ] Friday 8:00 AM - 12: 00 PM
         [ $ 46 ] DESCRIPTION
    [ 47 ] The physicians at WakeMed Gastroenterology excel in diagnosing and treating a variety of digestive diseases and disorders with sophisticated
        procedures addressing everything from acid reflux, swallowing difficulties and polyps to Crohn's, and more.
@@ -40,7 +40,7 @@
        patients can return to a normal, healthy life as quickly as possible. We treat a wide variety of conditions with the most advanced treatment options
        available.
            [ @ 49 ]  SCHEDULE AN APPOINTMENT
-  [ 50 ] Common Gl Conditions We Treat
+  [ 50 ] Common GI Conditions We Treat
        [ 51 ] Abdominal pain
         [ 52 ] Anorectal disorders
         [ 53 ] Colon polyps

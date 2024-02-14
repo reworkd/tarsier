@@ -2,7 +2,7 @@
 [ 5 ] Governo italiano  |  [ @ 6 ] Presidenza del Consiglio dei Ministri
                        Ministero                                                 [ 10 ] Seguici   [ @ 11 ]  [ @ 12 ].  [ @ 13 ]  [ @ 14 ]   [ @ 15 ]  [ @ 16 ]  [ @ 17 ]   [ @ 18 ]
    [ @ 8 ] MEF )        dell'Economia e delle Finanze [ @ ⁹ ]                    su                                                         ☐
- [ @ 20 ]     [ @ 22 ] Ministero ▾    [ @ 23 ] Ministro e staff     [ @ 24 ] Documenti e pubblicazioni      [ @ 25 ] Servizi.                                                [ @ 31 ]
+ [ @ 20 ]     [ @ 22 ] Ministero ▾    [ @ 23 ] Ministro e staff.    [ @ 24 ] Documenti e pubblicazioni      [ @ 25 ] Servizi.                                                [ @ 31 ]
                                                                                                                                                  [ @ 29 ]       [ @ 30 ]
    MEF        [ @ 26 ] Comunica con noi                                 @ 28 ] PNRR                                                                                           EN
                                               [ @ 27 ] Trasparenza     [
@@ -19,25 +19,25 @@
                    [ @ 50 ] Decreto ministeriale del 21 marzo 2022 [ 49 ] - Approvazione degli indici sintetici di affidabilità fiscale relativi ad
                attività economiche nei comparti delle manifatture, dei servizi, del commercio e delle attività professionali e di approvazione
                delle territorialità specifiche. Periodo d'imposta 2021;
-          [ 51 ]   [ @ 52 ] Decreto interministeriale del 18 marzo 2022
+          [ 51 ]   [ 52 ] Decreto interministeriale del 18 marzo 2022
                Riduzione delle aliquote di accisa applicate alla benzina, al gasolio e ai GPL usati come carburanti;
           [ 53 ]   [ @ 54 ] Decreto del Ragioniere Generale dello Stato del 14 marzo 2022
                Aggiornamento del decreto 11 marzo 2004, concernente le caratteristiche tecniche della Tessera sanitaria su supporto;
-          [ 55 ]   [ @ 56 ] Decreto ministeriale dell' 11 febbraio 2022
+          [ 55 ]   [ 56 ] Decreto ministeriale dell' 11 febbraio 2022
                Modifica del programma complementare di azione e coesione per la governance dei sistemi di gestione e controllo
                2014/2020 e assegnazione di risorse aggiuntive;
-          [ 57 ]   [ @ 58 ] Decreto direttoriale del 9 febbraio 2022
+          [ 57 ]   [ 58 ] Decreto direttoriale del 9 febbraio 2022
                Fondazioni Bancarie. Misure dell'accantonamento alla riserva obbligatoria e dell'accantonamento patrimoniale facoltativo
                per l'esercizio 2021;
-          [ 59 ]   [ @ 60 ] Decreto interministeriale n. 1 del 13 gennaio 2022 – sostegno al reddito in favore dei dipendenti delle imprese
-               adibite alla pesca marittima – annualità 2021
+          [ 59 ]   [ @ 60 ] Decreto interministeriale n. 1 del 13 gennaio 2022 - sostegno al reddito in favore dei dipendenti delle imprese
+               adibite alla pesca marittima - annualità 2021
                Quadro normativo per fruire delle indennità riconosciute ai lavoratori delle imprese di pesca interessati da misure di arresto
                temporaneo obbligatorio o di fermo pesca non obbligatorio
         [ 61 ]
               2021
-          [ 62 ]   [ @ 63 ] Decreto ministeriale del 23 novembre 2021
+          [ 62 ]   [ 63 ] Decreto ministeriale del 23 novembre 2021
                Istituzione del Comitato scientifico per la valutazione dell'impatto economico degli interventi del" Piano Transizione 4.0";
-          [ 64 ]   [ @ 65 ] Decreto ministeriale del 30 settembre 2021
+          [ 64 ]   [ 65 ] Decreto ministeriale del 30 settembre 2021
                Individuazione e attribuzioni degli Uffici di livello dirigenziale non generale dei Dipartimenti del Ministero dell'Economia e
                delle Finanze;
           [ 66 ]   [ @ 67 ] Decreto del Direttore Generale del Tesoro del 2 marzo 2021
@@ -66,14 +66,14 @@
                Dematerializzazione delle ricette mediche per la prescrizione di farmaci non a carico del Servizio sanitario nazionale e
                modalità di rilascio del promemoria della ricetta elettronica attraverso ulteriori canali, sia a regime che nel corso della fase
                emergenziale da Covid - 19;
-          [ 85 ]   [ @ 86 ] Decreto ministeriale del 22 dicembre 2020
+          [ 85 ]   [   86 ] Decreto ministeriale del 22 dicembre 2020
                Disciplina dei siti web per il confronto tra le offerte relative ai conti di pagamento;
           [ 87 ]   [ @ 88 ] Decreto ministeriale del 23 dicembre 2020
                Ripartizione del Fondo preordinato alla promozione di misure di sviluppo economico e all'attivazione di una social card per i
                residenti nelle regioni interessate dalle estrazioni di idrocarburi liquidi e gassosi nell'anno 2019;
           [ 89 ]   [ @ 90 ] Decreto ministeriale del 31 dicembre 2020
                Adozione della stima della capacità fiscale per singolo Comune delle regioni a statuto ordinario;
-          [ 91 ]   [ @ 92 ] Decreto ministeriale del 28 dicembre 2020
+          [ 91 ]   [ 92 ] Decreto ministeriale del 28 dicembre 2020
                Proroga del periodo di autorizzazione alla concessione della garanzia dello Stato su passività di nuova emissione di banche
                italiane;
           [ 93 ]   [ @ 94 ] Decreto ministeriale del 30 dicembre 2020
@@ -83,6 +83,6 @@
                Modifiche al decreto 27 giugno 2017, in materia di modalità di versamento del contributo unificato per i                        ricorsi dinanzi al
                giudice amministrativo, per i ricorsi straordinari al Presidente della Repubblica e per i                 ricorsi straordinari al Presidente della
                Regione siciliana;
-          [ 97 ]   [ @ 98 ] Decreto ministeriale del 28 agosto 2020
+          [ 97 ]   [ 98 ] Decreto ministeriale del 28 agosto 2020
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2182
+Token count: 2176

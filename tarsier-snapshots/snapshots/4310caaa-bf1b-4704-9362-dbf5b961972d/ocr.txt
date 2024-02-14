@@ -2,17 +2,17 @@
 [ @ 83 ]      Back to Careers
      Front - End Engineer - UI Component Library
     GUADALAJARA, MEXICO
-    C3.ai, Inc. ( NYSE: Al ) is a leading provider of Enterprise Al software for accelerating digital transformation. The proven C3
+    C3.ai, Inc. ( NYSE: AI ) is a leading provider of Enterprise Al software for accelerating digital transformation. The proven C3
     Al Platform provides comprehensive services to build enterprise - scale Al applications more efficiently and cost - effectively
     than alternative approaches. The core of the C3 Al offering is an open, data - driven Al architecture that dramatically
     simplifies data science and application development. Learn more at: C3 AI
     We are hiring front - end engineers at all levels to lead and maintain the Ul component library of the C3 Al Application
     Platform. Our UI component library allows our customers to rapidly deliver data - rich Al applications and scale them to
-    handle TBS of data, and we want to take it to the next level.
+    handle TBs of data, and we want to take it to the next level.
     Responsibilities:
       • Lead the development of new UI components to be used by fellow engineers.
       • Maintain an ever - growing library of components to be used across different applications and industries.
-     . Research and implement internal tools to increase the productivity of Engineering,              UX, and PMs.
+      • Research and implement internal tools to increase the productivity of Engineering,             UX, and PMs.
       • Provide technical guidance and support for our UX and PM teams.
     Qualifications:
       • Bachelor of Science in Computer Science, Computer Engineering, or related fields.
@@ -45,11 +45,11 @@
               Dropbox             ( File types: pdf, doc, docx, txt, rtf )
         LinkedIn Profile
         Do you now or will you in the future require immigration sponsorship to work at C3 AI?
-        By clicking the" I Accept" button, you give your consents as described below: C3 Al collects your personal data for the purposes of managing C3 AI's recruitment related
-        activities as well as for organizational planning purposes globally. Consequently, C3 AI may use your personal data in relation to the evaluation and selection of applicants
+        By clicking the" I Accept" button, you give your consents as described below: C3 Al collects your personal data for the purposes of managing C3 Al's recruitment related
+        activities as well as for organizational planning purposes globally. Consequently, C3 Al may use your personal data in relation to the evaluation and selection of applicants
         including for example setting up and conducting interviews and tests, evaluating and assessing the results thereto and as is otherwise needed in the recruitment processes
-        including the final recruitment.  C3 AI does not disclose your personal data to unauthorized third parties. However, as a global corporation consisting of multiple affiliated
-        companies  various countries, C3 AI has international sites and C3 Al uses resources located throughout the world. C3 Al may from time to time also use third parties to act
+        including the final recruitment.  C3 Al does not disclose your personal data to unauthorized third parties. However, as a global corporation consisting of multiple affiliated
+        companies  various countries, C3 Al has international sites and C3 Al uses resources located throughout the world. C3 Al may from time to time also use third parties to act
         on C3 Al's behalf. You agree to the fact that to the extent necessary your personal data may be transferred and / or disclosed to any company within C3 Al group of
         companies as well as to third parties acting on C3 Al's behalf, including also transfers to servers and databases outside the country where you provided C3 Al with your
         personal data. Such transfers may include for example transfers and / or disclosures outside the European Economic Area (" EEA" ) and in the United States of America; in
@@ -65,6 +65,6 @@
     News           Contact                             Use                                                                                                                     0
                                   Policy                                   Map
                                                                                                                                                         in
-     [ 92 ] Ⓒ 2023 C3.ai, Inc. All Rights Reserved.
+     [ 92 ] © 2023 C3.ai, Inc. All Rights Reserved.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1076
+Token count: 1074

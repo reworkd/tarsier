@@ -44,7 +44,7 @@
                                            [ @ 98 ] Memberships
                                                                                                                              [ @ 57 ] Japan Team Recognized in The                                            [ @ 59 ] Orrick Japan Team Recognized
                                            [ @ 102 ] Speeches                                                                Legal 500                  Pacific, 2023 Edition                                in 2022 Edition of The Legal 500: Asia
-                                                                                                                               [ 58 ] 1 minute read I January.17.2023                                         Pacific
+                                                                                                                               [ 58 ] 1 minute read | January.17.2023                                         Pacific
                                           [ @ 121 ] Publications                                                                                                                                              [ 60 ] January.19.2022
                                                                                                                                                                                                                                              The
                                                                                                                                                                                                                                    LEGAL
@@ -54,15 +54,15 @@
                                                                                                                                                                                                                Search entire site
                                          [ @ 148 ] Legal Notices I               [ @ 149 ] Privacy Notice |               [ @ 150 ] Cookie Notice I                  @ 151 ] Modern Slavery I                  [ @ 152 ] Attorney Advertising I
                                         [ @ 153 ] Secure Login
-                                        [ 154 ]        2023 Orrick Herrington & Sutcliffe LLP. All rights reserved.
-                                        [ @ 155 ] Austin |             [ @ 156 ] Beijing I             [ @ 157 ] Boston I             [ @ 158 ] Brussels               [ @ 159 ] Chicago                 [ @ 160 ] Düsseldorf |               [ @ 161 ] Geneva I
-                                        [ @ 162 ] Houston I               [ @ 163 ] London |              [ @ 164 ] Los Angeles I                [ @ 165 ] Milan I            [ @ 166 ] Munich |              [ @ 167 ] New York I              [ @ 168 ] Orange County I
-                                         [ @ 169 ] Paris | [ @ 170 ] Portland |                        [ @ 171 ] Rome |              [ @ 172 ] Sacramento I                 [ @ 173 ] San Francisco I                [ @ 174 ] Santa Monica |                [ @ 175 ] Seattle I
-                                         [ @ 176 ] Shanghai                [ @ 177 ] Silicon Valley                [ @ 178 ] Singapore I               [ @ 179 ] Taipei              [ @ 180 ] Tokyo I             [ @ 181 ] Washington, D.C. I
+                                        [ 154 ] © 2023 Orrick Herrington & Sutcliffe LLP. All rights reserved.
+                                        [ @ 155 ] Austin |             [ @ 156 ] Beijing I             [ @ 157 ] Boston I             [ @ 158 ] Brussels               [ @ 159 ] Chicago                 [ @ 160 ] Düsseldorf                 [ @ 161 ] Geneva I
+                                        [ @ 162 ] Houston I               [ @ 163 ] London |              [ @ 164 ] Los Angeles I                [ @ 165 ] Milan I            [ @ 166 ] Munich I              [ @ 167 ] New York I              [ @ 168 ] Orange County I
+                                         [ @ 169 ] Paris             [ @ 170 ] Portland 1              [ @ 171 ] Rome |             [ [ @ 172 ] Sacramento I                [ @ 173 ] San Francisco I                [ @ 174 ] Santa Monica I                [ @ 175 ] Seattle I
+                                         [ @ 176 ] Shanghai                [ @ 177 ] Silicon Valley                [ @ 178 ] Singapore I               [ @ 179 ] Taipei |            [ @ 180 ] Tokyo I             [ @ 181 ] Washington, D.C. I
          [ 183 ] We and our third party partners use cookies and similar technologies to run the website. Some cookies are                                                                [ $ 188 ] Cookie Settings                         [ $ 189 ] Reject All
         strictly necessary. We also use optional cookies to provide a more personalized experience, improve the way our
         websites work, and support our marketing operations. Optional cookies will only be set with your consent. You can                                                                                                                                                                                          [ $ 191 ]
         manage your cookie preferences through the" Cookie Settings" button. For more information, see our
          [ @ 186 ] Privacy Notice [ 184 ] and [ @ 187 ] Cookie Notice [ 185 ].                                                                                                            [ $ 190 ] Accept All
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1299
+Token count: 1301

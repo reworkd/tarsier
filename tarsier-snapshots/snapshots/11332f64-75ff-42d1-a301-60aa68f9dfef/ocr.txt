@@ -3,13 +3,13 @@
     mome        [ @ 2 ] About SARS        [ @ 3 ] Types of Tax     [ @ 4 ] Legal Counsel      [ @ 5 ]. Contact Us
                                                                                                                          [ # 91 Search ...                        [ $ 10 ]             [ @ 1. [ @ 1 [ @ 1. [ @ 1 ]
                                                                                                                                                                                          1 ]    2 ]    3 ]   4 ].
-    [ @ 6 ]. Tax Rates     [ @ 7 ] Tax Season
+    [ @ 6 ] Tax Rates      [ @ 7 ] Tax Season
                    YSARS                                                                                                                                                 [ @ 539 ] e FILING
     [ @ 15 ]
               South African Revenue Service                                                                                                                                       [ 541 ] Login
                                                                                                                                                                                   [ 543 ] Register
              [ 17 ]. Individuals                            [ @ 18 ].                                 [ @ 20 ]                                   [ @ 22 ].
-                                                     [ 19 ]. Businesses and                    [ 21 ]. Tax Practitioners                [ 23 ]. Customs and Excise
+                                                     [ 19 ] Businesses and                     [ 21 ]. Tax Practitioners                [ 23 ]. Customs and Excise
                                                            Employers                                                                                                                         Forgot
                                                                                                                                                                               [ @ 544 ]
                                                                                                                                                                                             Username
@@ -19,7 +19,7 @@
                                                                                                                                                                                             Password
    31 ] Public Notices                                                                                                                                                                      Manage Tax
   [
-                                                                                                                                                                              [ @ 546 ]     Iype
+                                                                                                                                                                              [ @ 546 ]     Type
                                                                                                                                                                                             Transfer
                 [ @ 33 ] Carbon Tax Notices                   [ @ 34 ] COVID - 19 Notices                                             [ 534 ] Table of Contents
                                                                                                                                                                                  [ 547 ] Share this page on:
@@ -90,7 +90,7 @@
                                                             appeal referred
                                                             to in section
                                                             104 ( 2 )
-                                                         • [ [ 81 ] procedures
+                                                         • [ 81 ] procedures
                                                             for alternative
                                                             dispute
                                                             resolution
@@ -143,7 +143,7 @@
                                  Numbers
        [ 110 ] 24 June           [ 111 ] GG           [ 113 ] Public notice in      [ 121 ] 1 July 2022
       2022                       46598               terms of section
-                                 [ 112 ] Notice      23 ( [ 115 ] f [ 114 ] )
+                                 [ 112 ] Notice      23 ( [ 115 ] [ 114 ] )
                                  2200                with regard to changes
                                                      in particulars
                                                          • [ @ 116 ] Notice
@@ -468,7 +468,7 @@
                                                             income tax returns
                                                                   [ @ 279 ] Notice
                                                                   547
-       [ 281 ] 7 April 2017      [ 282 ] GG 40772           [ 284 ] Income Tax              [ 290 ] 7 April 2017
+       [ 281 ] 7 April 2017      [ 282 ] GG 40772           [ 284 ] Income Tax              [ 29017 April 2017
                                  [ 283 ] Notice 340         Act, 1962,
                                                             [ 285 ] Unemployment
                                                             Insurance
@@ -833,4 +833,4 @@
                                                                                           South African Revenue Service
                                                                                            [ 568 ] © 2023 All rights reserved
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 8961
+Token count: 8956

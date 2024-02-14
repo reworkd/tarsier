@@ -9,7 +9,7 @@
            [ @ 9 ] FACULTIES
                                                     [ 17 ] Please note:
             [ @ 10 ] ACADEMIC PROGRAMS
-                                                    [ 18 ] To view the Fall 2023 Academic Calendar, go to [ @ 20 ] www.sfu.ca/students/calendar/2023/fall.html[19 ].
+                                                    [ 18 ] To view the Fall 2023 Academic Calendar, go to [ [ @ 20 ] www.sfu.ca/students/calendar/2023/fall.html[19 ].
            [ @ 11 ] COURSES
            [ @ 12 ] FEES, REGULATIONS AND
            MORE                                   [ @ 22 ] School of Computing Science [ 21 ]  [ @ 23 ] Faculty of Applied Sciences
@@ -70,7 +70,7 @@
                                                   [ 65 ] Students complete all of
                                                   [ @ 66 ] CMPT 105W - Social Issues and Communication Strategies in Computing Science ( 3 )
                                                   [ @ 67 ] CMPT 120 - Introduction to Computing Science and Programming I ( 3 )
-                                                  [ @ 68 ] CMPT 125- Introduction to Computing Science and Programming II ( 3 )
+                                                  [ @ 68 ] CMPT 125 - Introduction to Computing Science and Programming II ( 3 )
                                                   [ @ 69 ] CMPT 210 - Probability and Computing ( 3 )
                                                   [ @ 70 ] CMPT 225 - Data Structures and Programming ( 3 )
                                                   [ @ 71 ] CMPT 276 - Introduction to Software Engineering ( 3 )
@@ -88,19 +88,19 @@
                                                   [ @ 86 ] MATH 158 - Calculus II for the Social Sciences ( 3 ) [ 87 ] **
                                                   [ 88 ] and one of
                                                   [ @ 89 ] MATH 232 - Applied Linear Algebra ( 3 )
-                                                  [ @ 90 ] ] MATH 240 - Algebra I: Linear Algebra ( 3 )
+                                                  [ @ 90 ] MATH 240 - Algebra I: Linear Algebra ( 3 )
                                                   [ 91 ] ** with a grade of at least B +, and with school permission.
                                                   [ 92 ] Upper Division Requirements
                                                   [ 93 ] Students complete at least 45 upper division units including
                                                   [ @ 94 ] CMPT 376W - Professional Responsibility and Technical Writing ( 3 )
                                                   [ 95 ] Students should consult an [ @ 97 ] academic advisor [ 96 ] before commencing upper division requirements.
                                                   [ 98 ] Elective Courses
-                                                  [ 99 ] ] In addition to the courses listed above, students should consult an [ @ 101 ] academic advisor [ 100 ] to plan the
+                                                  [ 99 ] In addition to the courses listed above, students should consult an [ @ 101 ] academic advisor [ 100 ] to plan the
                                                   remaining required elective courses.
                                                   [ 102 ] Breadth Requirement
                                                   [ 103 ] Five courses from five of the six Table I areas of concentration ( see below ) must be completed including both
                                                   of
-                                                  [ @ 104 ] CMPT 300- Operating Systems I ( 3 )
+                                                  [ @ 104 ] CMPT 300 - Operating Systems I ( 3 )
                                                   [ @ 105 ] CMPT 307 - Data Structures and Algorithms ( 3 )
                                                   [ 106 ] CMPT 354 is also recommended.
                                                   [ 107 ] Depth Requirement
@@ -109,7 +109,7 @@
                                                   [ 109 ] BSc Credential
                                                   [ 110 ] For a BSc computing science degree, the following additional requirements must be met.
                                                   ▪ [ 111 ] two additional courses chosen from Table I, Table II or Table III
-                                                  [ @ 112 ] MACM 316- Numerical Analysis I ( 3 )
+                                                  [ @ 112 ] MACM 316 - Numerical Analysis I ( 3 )
                                                   [ 113 ] BEd Credential
                                                   [ 114 ] For a major in computing science in conjunction with a BEd program as offered by the Faculty of Education,
                                                   one additional CMPT course chosen from Table I or Table II must be completed, to total at least 30 upper division
@@ -128,7 +128,7 @@
                                                   listed in Table I. To complete a concentration, students complete the major requirements, including four courses in
                                                  the corresponding Area as listed in Table I, two of which must be at the 400 division. Courses used to meet the
                                                   requirements of a concentration may also be used to meet other program requirements.
-                                                  [ 122 ] Table I - Computing Science Concentrations
+                                                  [ 122 ] Table - Computing Science Concentrations
                                                   [ 123 ] ARTIFICIAL INTELLIGENCE
                                                   [ @ 124 ] CMPT 310 - Introduction to Artificial Intelligence ( 3 )
                                                   [ @ 125 ] CMPT 340 - Biomedical Computing ( 3 )
@@ -142,12 +142,12 @@
                                                   [ @ 133 ] CMPT 361 - Introduction to Visual Computing ( 3 )
                                                   [ @ 134 ] CMPT 363 - User Interface Design ( 3 )
                                                   [ @ 135 ] CMPT 365 - Multimedia Systems ( 3 )
-                                                  [ @ 136 ] CMPT 412- Computer Vision ( 3 )
+                                                  [ @ 136 ] CMPT 412 - Computer Vision ( 3 )
                                                   [ @ 137 ] CMPT 461 - Computational Photography and Image Manipulation ( 3 )
                                                   [ @ 138 ] CMPT 464 - Geometric Modelling in Computer Graphics ( 3 )
                                                   [ @ 139 ] CMPT 466 - Animation ( 3 )
                                                   [ @ 140 ] CMPT 467 - Visualization ( 3 )
-                                                  [ @ 141 ] CMPT 469- Special Topics in Computer Graphics ( 3 )
+                                                  [ @ 141 ] CMPT 469 - Special Topics in Computer Graphics ( 3 )
                                                   [ 142 ] COMPUTING SYSTEMS
                                                   [ @ 143 ] CMPT 300 - Operating Systems I ( 3 )
                                                   [ @ 144 ] CMPT 305- Computer Simulation and Modelling ( 3 )
@@ -156,7 +156,7 @@
                                                   [ @ 147 ] CMPT 403 - System Security and Privacy ( 3 )
                                                   [ @ 148 ] CMPT 431 - Distributed Systems ( 3 )
                                                   [ @ 149 ] CMPT 433 - Embedded Systems ( 3 )
-                                                  [ @ 150 ] CMPT 450- Computer Architecture ( 3 )
+                                                  [ @ 150 ] CMPT 450 - Computer Architecture ( 3 )
                                                   [ @ 151 ] CMPT 471 - Networking II ( 3 )
                                                   [ @ 152 ] CMPT 479 - Special Topics in Computing Systems ( 3 )
                                                   [ @ 153 ] CMPT 499 - Special Topics in Computer Hardware ( 3 )
@@ -168,13 +168,13 @@
                                                   [ @ 159 ] CMPT 441 - Computational Biology ( 3 )
                                                   [ @ 160 ] CMPT 454 - Database Systems II ( 3 )
                                                   [ @ 161 ] CMPT 456 - Information Retrieval and Web Search ( 3 )
-                                                  [ @ 162 ] CMPT 459- Special Topics in Database Systems ( 3 )
+                                                  [ @ 162 ] CMPT 459 - Special Topics in Database Systems ( 3 )
                                                   [ @ 163 ] CMPT 474 - Web Systems Architecture ( 3 )
                                                   [ 164 ] PROGRAMMING LANGUAGES AND SOFTWARE
-                                                  [ @ 165 ] CMPT 373 -Software Development Methods ( 3 )
+                                                  [ @ 165 ] CMPT 373 - Software Development Methods ( 3 )
                                                   [ @ 166 ] CMPT 383 - Comparative Programming Languages ( 3 )
                                                   [ @ 167 ] CMPT 384 - Symbolic Computing ( 3 )
-                                                  [ @ 168 ] CMPT 473 -Software Testing, Reliability and Security ( 3 )
+                                                  [ @ 168 ] CMPT 473 - Software Testing, Reliability and Security ( 3 )
                                                   [ @ 169 ] CMPT 475 - Requirements Engineering ( 3 )
                                                   [ @ 170 ] CMPT 477 - Introduction to Formal Verification ( 3 )
                                                   [ @ 171 ] CMPT 489 - Special Topics in Programming Languages ( 3 )
@@ -182,7 +182,7 @@
                                                   [ @ 173 ] CMPT 307 - Data Structures and Algorithms ( 3 )
                                                   [ @ 174 ] CMPT 308 - Computability and Complexity ( 3 )
                                                   [ @ 175 ] CMPT 404 - Cryptography and Cryptographic Protocols ( 3 )
-                                                  [ @ 176 ] CMPT 405- Design and Analysis of Computing Algorithms ( 3 )
+                                                  [ @ 176 ] CMPT 405 - Design and Analysis of Computing Algorithms ( 3 )
                                                   [ @ 177 ] CMPT 406 - Computational Geometry ( 3 )
                                                   [ @ 178 ] CMPT 407 - Computational Complexity ( 3 )
                                                   [ @ 179 ] CMPT 409 - Special Topics in Theoretical Computing Science ( 3 )
@@ -199,7 +199,7 @@
                                                   [ @ 190 ] MATH 343 - Applied Discrete Mathematics ( 3 )
                                                   [ 191 ] Other Courses Per Department Approval
                                                   [ 192 ] The following courses may be counted in one of the above tables with permission of the school.
-                                                  [ @ 193 ] CMPT 318- Special Topics in Computing Science ( 3 )
+                                                  [ @ 193 ] CMPT 318 - Special Topics in Computing Science ( 3 )
                                                   [ @ 194 ] CMPT 415 - Special Research Projects ( 3 )
                                                   [ @ 195 ] CMPT 416 - Special Research Projects ( 3 )
                                                   [ @ 196 ] CMPT 496 - Directed Studies ( 3 )
@@ -213,9 +213,9 @@
                                                   [ 204 ] A GRADE OF C- OR BETTER IS REQUIRED TO EARN W, Q OR B CREDIT
                                                     [ 205 ] Requirement      [ 206 ] Units    [ 207 ] Notes
                                                                                               [ 210 ] Must include at least one upper division course, taken at Simon
-                                                    [ 208 ] W - Writing      [ 209 ] 6
+                                                    [ 208 ] W- Writing       [ 209 ] 6
                                                                                              Fraser University within the student's major subject
-                                                    [ 211 ] 0
+                                                    [ 211 ] Q
                                                                              [ 212 ] 6        [ 213 ] Q courses may be lower or upper division
                                                    Quantitative
                                                                                                                     [ 217 ] Must be outside the student's major
@@ -256,7 +256,7 @@
                            [ @ 240 ] Community        [ @ 246 ] Give to SFU               [ @ 256 ] CALENDAR CHANGES AND CORRECTIONS
                            [ @ 241 ] About            [ @ 247 ] Emergency Information     [ @ 257 ] Terms and conditions
                                                                                           [ @ 258 ] Privacy policy                                                           [ @ 16 ]
-                                                                                          [ 259 ]  Simon Fraser                                                                0
+                                                                                          [ 259 ] © Simon Fraser                                                               0
                                                                                                             University
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 4553
+Token count: 4550

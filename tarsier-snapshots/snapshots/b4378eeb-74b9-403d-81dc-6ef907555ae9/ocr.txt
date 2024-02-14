@@ -3,7 +3,7 @@
            CLIFFORD
            CHANCE
                                   [ @ 2 ] Client Portal  [ @ 3 ] People & Places  [ @ 4 ] Expertise  [ @ 5 ] Insights  [ @ 6 ] Briefings  [ @ 7 ] Innovation  [ @ 8 ] About Us  [ @ 9 ] Careers  O
-     ( ¹ ) Julian        Acratopulo
+     [ ¹ ] Julian        Acratopulo
            [ 12 ] Partner
            [ 13 ] Julian Acratopulo is the Head of the International Commercial Litigation Group.
                                                                                                                 [ 34 ] Contact details
@@ -66,6 +66,6 @@
      ensure that you get the most out of them. We also use cookies for analysis of how people use and interact with our
      websites, as well to enable social media features. You can accept or reject these other cookies using the appropriate
      button, or you can manage which cookies you wish to allow. Please note that by rejecting some cookies you may not
-     be able to access the complete functionality of our websites.  [  109 ] Cookie policy          [ $ 112 ] Accept All Cookies
+     be able to access the complete functionality of our websites.  [ @ 109 ] Cookie policy         [ $ 112 ] Accept All Cookies
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Token count: 1336

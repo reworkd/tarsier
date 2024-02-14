@@ -25,7 +25,7 @@
                                                                                                  government agencies operating in secure environments.
                                                                                              ✓ [ 24 ] Participate actively in customer engagements, working closely with
                                                                                                  stakeholders to understand requirements and deliver innovative solutions.
-                                                                                             ✔ [ 25 ] Contribute to the platform roadmap and product strategy for Scale
+                                                                                                 [ 25 ] Contribute to the platform roadmap and product strategy for Scale
                                                                                                  Al's Federal business,  playing a key role in shaping the future direction of
                                                                                                  our offerings.
                                                                                              [ 26 ] Ideally you'd have:
@@ -95,7 +95,7 @@
                                                                                              accommodations@scale.com. Please see the United States Department of
                                                                                              Labor's [ @ 40 ] Know Your Rights poster [ 41 ] for additional information.
                                                                                              [ 42 ] We comply with the United States Department of Labor's [ @ 43 ] Pay
-                                                                                             Transparency provision [ 44 ].
+                                                                                             Transparency provision [ 44 ]
                                                                                              [ 46 ] PLEASE NOTE: [ 45 ] We collect, retain and use personal data for our
                                                                                              professional business purposes, including notifying you of job opportunities
                                                                                              that may be of interest and sharing with our affiliates. We limit the personal
@@ -130,4 +130,4 @@
     X f                 in
      [ 101 ] Copyright © [ 102 ] 2023 [ 103 ] Scale Al, Inc. All rights reserved.                                         [ @ 105 ] Terms of Use [ 104 ] & [ @ 106 ] Privacy Policy
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2151
+Token count: 2149

@@ -25,7 +25,7 @@ K & L GATES
            [ 11 ] Search firm submissions will not be accepted for this position.
            [ 12 ] Please   contact    Emily    Falconer,    Senior     Legal    Recruiting    Regional     Manager,     at
            emily.falconer@klgates.com with any questions.
-           [ 13 ] Base Compensatio [ 14 ] n [ 15 ] $ 115.00 - $ 140.00 / hour
+           [ 13 ] Base Compensatio [ 14 ]  [ 15 ] $ 115.00 - $ 140.00 / hour
            [ 16 ] The compensation for this position will be determined during the interview process and will vary based
            on multiple factors,  including but not limited to prior experience,  relevant expertise,  current business needs,
            and market factors.
@@ -48,13 +48,13 @@ K & L GATES
            [ 24 ] BENEFITS
            [ 25 ] K & L Gates offers our personnel a comprehensive suite of benefits to help meet your needs now and in
            the future. Depending on your eligibility, options for full - time personnel include:
-             . [ 26 ] Medical / Prescription Drug Coverage ( including       [ 27 ] Back - up Child / Elder Care and access
+              • [ 26 ] Medical / Prescription Drug Coverage ( including      [ 27 ] Back - up Child / Elder Care and access
                  a Health Savings Account feature )                         to a caregiving concierge
                  [ 28 ] Dental Insurance                                    [ 29 ] Wellness Program
-             . [ 30 ] Vision Insurance                                       [ 31 ] Pre - tax Commuting Benefits
+              • [ 30 ] Vision Insurance                                      [ 31 ] Pre - tax Commuting Benefits
                  [ 32 ] 401 ( k ) Retirement Plan and Profit Sharing         [ 33 ] Business Travel Accident Insurance
                  [ 34 ] Short- and Long - term Disability Protection         [ 35 ] Pet Insurance
-                 [ [ 36 ] Life Insurance ( including Basic, Supplemental,
+                 [ 36 ] Life Insurance ( including Basic, Supplemental,
                  Spouse, Child, and Accidental Death and                    [ 37 ] Health Advocacy Services
                  Dismemberment   )
                  [ 38 ] Paid Time Off ( 20 days / year through first 4
@@ -68,7 +68,7 @@ K & L GATES
                  off )
                  [ 42 ] Paid Holidays ( 12 )                                 [ 43 ] Addiction Resources
                                                                             [ 45 ] Breast Milk Delivery and Lactation
-             . [ 44 ] Family Building Benefits
+              • [ 44 ] Family Building Benefits
                                                                             Support Services
                                                                              [ 47 ] Employees also may be eligible to
                  [ 46 ] Flexible Spending Accounts                          receive bonuses and certain expense
@@ -100,4 +100,4 @@ K & L GATES
            [ @ 63 ] askHR@klgates.com [ 62 ]
                                                                                                                                                               [  5  75 ] Powered by  yello
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1601
+Token count: 1600

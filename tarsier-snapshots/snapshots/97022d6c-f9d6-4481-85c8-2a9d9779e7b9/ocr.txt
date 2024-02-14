@@ -9,7 +9,7 @@
                         Locations                                                                       Doctors
                     Filter by:
                   [ $ 18 ] tion                                            [ $ 19                                                      [ $ 20 ] Zip                        [ $ 22 ]
-                                    Type                                             ] ces                                            Code                                                                                                                                  [ $ 23 ] Search
+                                    Type                                             ] .ces                                           Code                                                                                                                                  [ $ 23 ] Search
                                                  8                                                         0                           [ # 21 ]
                                                                                                                                                                                                                                                                          [ $ 24 ] Clear Filters
                                                                                                                                                                                                         Long Beach
@@ -44,7 +44,7 @@
                                                                     [ 40 ] Green Gables Guest House at Legacy                                                                                                                                 Corvallis       Lebanon
                                                                     Good Samaritan Medical Center                                                                                                             [ 299 ] 2                 Philomath
                                                                                                                                                                                                                                                                    Sweet Home
-                                                                          [ @ 41 ] 2183 N.W. Northrup St.                                [ @ 45 ]                +                                      Yachat                                                                                                                20
+                                                                          [ @ 41 ] 2183 N.W. Northrup St.                                [ @ 45 ]                +                                      Yachats                                                                                                               20
                                                                                                                                                        [ 46 ]
                                                                           Portland, OR, 97210                                                         More                                                                                    Junction City                                                                  Si
                                                                                                                                                                                                                                                           [ $ 3
@@ -72,9 +72,9 @@
                                                                                                                   [ @ 323 ] Doing Business With Us                                [ @ 328
                  our world. Above all, we will do the right
                 thing.                                                                                                                                                            [ @ 329 ] Pay a Bill
-                 [ @ 315 ]                     [ @ 316 ]                                                          [ 333 ] © 2023 Legacy Health [ 334 ] | [ @ 335 ] Terms of Use [ 336 ]                                                  [ @ 337 ] Privacy Policy [ 338 ] |
+                 [ @ 315 ]                     [ @ 316 ]                                                          [ 333 ] © 2023 Legacy Health [ 334 ] | [ @ 335 ] Terms of Use [ 336 ]                                                  [ @ 337 ] Privacy Policy [ 338 ]
                                    OO                                                                             [ @ 339 ] Notice of Nondiscrimination [ 340 ] |                             [ @ 341 ] No Surprise Billing [ 342 ] | [ @ 343 ] Capital Reporting
                  [ @ 317 ]           O [ @ 318 ]                   in                                             [ 344 ]         [ @ 345 ] Do Not Sell or Share My Personal Information
                  [ @ 319 ]
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1224
+Token count: 1225

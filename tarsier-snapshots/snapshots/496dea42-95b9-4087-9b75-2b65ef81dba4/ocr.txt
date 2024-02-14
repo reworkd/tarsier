@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ADVERTISEMENT
-                                         [ 2 ] TOPICS ✓        [ 3 ] TREATMENT ✓            [ 4 ] RESOURCES ✓            [ 5 ] PROFESSIONAL ✓             [ @ 6 ] COMMUNITY [ @ 7 ] NEWSLETTER Q
+                                         [ 2 ] TOPICS -        [ 3 ] TREATMENT ✓            [ 4 ] RESOURCES ✓            [ 5 ] PROFESSIONAL ✓             [ @ 6 ] COMMUNITY [ @ 7 ] NEWSLETTER Q
      [ @ 1 ]
                Patient
                                          [ @ 8 ] LOGIN [ 9 ]        [ @ 10 ] REGISTER
@@ -10,7 +10,7 @@ ADVERTISEMENT
                  cheeks with a sore throat and red
                  dots on roof of mouth and sores
                  on cheeks
-                 [ 16 ] Posted [ 18 ] 3 years ago [ 17 ], [ 19 ] 2 users are following.
+                 [ 16 ] Posted [ 18 ] 3 years ago [ 17 ] [ 19 ] 2 users are following.
                                       [ @ 21 ] john48478
                  [ @ 20 ]
                  [ 22 ] this has all lasted 11 weeks with a cough anyone have any ideas ??
@@ -20,7 +20,7 @@ ADVERTISEMENT
                                                                                                                                                              [ 66 ] ADVERTISEMENT
             [ 29 ] 2 [ 28 ] Replies                                                           [ $ 30 ] Sort by [ $ 31 ] st          ◆                      [ @ 67 ]
                                                                                                                                                                            V visbiome  HIGH POTENCY PROBIOTIC  vet  FOR PETS .
-                                @ 33 ] maciej 12002 ▸           @ 34 ] john48478                        [ 35 ] Posted [ [ 36 ] 3 years ago                                       CONSTIPATION CARE
+                                @ 33 ] maciej12002 ▸            @ 34 ] john48478                        [ 35 ] Posted [ [ 36 ] 3 years ago                                       CONSTIPATION CARE
                                [                               [                                                                                                                  RELIEVES  CO
           [ @ 32 ]                                                                                                                                                                SUPPORTS
                                                                                                                                                                                   SUPPORTS    and
@@ -32,7 +32,7 @@ ADVERTISEMENT
                       [ @ 39 ]     Report / Delete                                                   [ @ 40 ]       [ @ 41 ]      Reply
                                                                                                                                                           ALZaunch of
                                                                                                                                                           [ $ 71sbiome Vet
-                         [ @ 42 ]          [ @ 43 ] john48478 ▸          [ @ 44 ] maciej 12002 [ 45 ] Posted [ 46 ] 3 years ago
+                         [ @ 42 ]          [ @ 43 ] john48478 ▸          [ @ 44 ] maciej12002       [ 45 ] Posted [ 46 ] 3 years ago
                                                                                                                                                             Constipation Care:
                                 [ 47 ] i shall take a look thankyou!
                                                                                                                                                             A     Breakthrough ...
@@ -77,4 +77,4 @@ ADVERTISEMENT
          registered trade mark.
    [ @ 0 ]    Privacy
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1369
+Token count: 1368

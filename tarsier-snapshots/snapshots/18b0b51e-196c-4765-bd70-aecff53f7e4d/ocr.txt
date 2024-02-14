@@ -55,7 +55,7 @@
                                                                                               Tannersville          Recreation.    Newton                                                                     Stam $ 69
  [ @ 190 ]                                                                   [ @ 693 ]                                          ( 94                                                           White Plains.
                        [ 191 ] View more info                                                        Stroudsburg                                                                              AULE
-                                                                                                                       $ 6941 Keyboard shortcuts  [ 6951 Map data © 2023 Google  [ @ 6961 Terms   @ 6971 Report a man error
+                                                                                                                       $ 6941 Keyboard shortcuts  [ 6951 Map data © 2023 Google  @ 6961 Terms     @ 6971 Report a man error
    [ @ 698 ]        Garnet Health                         [ @ 699 ] Pay My Bill             [ @ 700 ] MyChart Login               [ @ 701 ] Donate            [ @ 702 ] Medical Records
                                                                 [ @ 7031           [ @ 704 ]           [ @ 7051
      [ 706 ] Patients & Visitors                                                                                    [ 717 ] Physicians &                                   [ 722 ] Garnet Health
@@ -72,4 +72,4 @@
      Copyright © 2023 Garnet Health, All Rights Reserved.
  [ @ 594 ]
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1102
+Token count: 1101

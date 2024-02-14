@@ -20,7 +20,7 @@
                   [ $ 41 ]      compliance, and corporate governance.
                                                                                                       [ @ 48 ] jessica.accurso@morganlewis.com
                                                                                                      Philadelphia
-                                ‣ [ 42 ] EXTENDED PROFILE                                            2222 Market St.
+                                > [ 42 ] EXTENDED PROFILE                                            2222 Market St.
                                                                                                      Philadelphia, PA 19103-3007
                                                                                                       [ 52 ] United States
                                 > [ 43 ] EDUCATION                                                   Phone
@@ -43,4 +43,4 @@
                       [ @ 66 ] COOKIE POLICY   @ 67 ] CLIENT ACCESS
                       [ @ 73 ] Sitemap                                                   [ 74 ] Copyright © 2023 Morgan, Lewis & Bockius LLP. All rights reserved.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 557
+Token count: 556

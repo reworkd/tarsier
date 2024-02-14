@@ -8,7 +8,7 @@
                [ @ 22 ] Home  [ @ 23 ] Find a Location  [ 24 ] Center for Advanced Vascular Care in Overland Park, KS
                                                                                                                                        [ @ 26 ]
                  [ @ 27 ] BACK TO ALL LOCATIONS
-              12Center for
+              [ 2 ] Center for
               Advanced Vascular
                Care
                [ 29 ] Contact Us                           [ 32 ] Location                             [ 36 ] Hours
@@ -57,7 +57,7 @@
                                          [ $ 76 ] PATIENTS,
                                          FAMILY & VISITORS                                             [ $ 111 ] SUBSCRIBE TO BEWELL CONNECTION
                                          [ @ 77 ] Patients, Family &  [ 96 ] EDUCATION               [ # 112 ]
-                                         Visitor Guide                                                        Email A     [ $ 113 ] SIGN UP □
+                                         Visitor Guide                                                        Email A     [ $ 113 ] SIGN UP
                                          [ @ 78 ] Patient Information  [ @ 97 ] Education and
                                                                    Training
                                          [ @ 79 ] Billing, Insurance &            of Kansas

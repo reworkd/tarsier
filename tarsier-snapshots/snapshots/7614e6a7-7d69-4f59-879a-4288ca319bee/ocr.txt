@@ -1,8 +1,8 @@
 --------------------------------------------------------------------------------------------------------------------------
 [ @ 9 ]                              [ @ 16 ]
                             [ $ 3 ]      [ $ 5 ]     [ $ 7 ]    [ 10 ] Safety
-   [ @ 1 ]                                                                                 [ $ 13 ]  [ 17 ] Log in 7
-                         [ 4 ] Research ✓  [ 6 ] API✓  [ 8 ] ChatGPT✓
+   [ @ 1 ]                                                                                 [ $ 13 ]  [ 17 ] Log in
+                         [ 4 ] Research ✓  [ 6 ] API  [ 8 ] ChatGPT✓
        OpenAl                                                                           [ 14 ] Search  [ @ 18 ]
                                [ $ 11 ]
                                                                                                       [ 19 ] Try ChatGPT >
@@ -53,9 +53,9 @@
                           language models, especially in production environments.
                           [ 39 ] Have familiarity with the latest Al research and working knowledge
                           of how these systems are efficiently implemented
-                       . [ 40 ] Own problems end - to - end, and are willing to pick up whatever
+                        • [ 40 ] Own problems end - to - end, and are willing to pick up whatever
                           knowledge you're missing to get the job done
-                       . [ 41 ] Have the ability to move fast in an environment where things are
+                        • [ 41 ] Have the ability to move fast in an environment where things are
                           sometimes loosely defined and may have competing priorities or
                           deadlines
                         [ 42 ] We are an equal opportunity employer and do not discriminate on the
@@ -76,7 +76,7 @@
                         ●  [ 53 ] Paid parental leave ( 20 weeks ) and family - planning support
                         ●  [ 54 ] Annual learning & development stipend ( $ 1,500 per year )
                         [ 55 ] Annual Salary Range
-                        [ 56 ] $ 300,000 [ 57 ] - [ 58 ] $ 450,000 USD
+                        [ 56 ] $ 300,000 [ 57 ]  [ 58 ] $ 450,000 USD
                         [ 59 ] About OpenAl
                         [ 60 ] OpenAl is an Al research and deployment company dedicated to
                         ensuring that general - purpose artificial intelligence benefits all of humanity.
@@ -115,4 +115,4 @@
    [ @ 110 ]                                       [ $ 122 ]
    [ 111 ] Brand guidelines                   [ 123 ] Back to top ↑
 --------------------------------------------------------------------------------------------------------------------------
-Token count: 1718
+Token count: 1714

@@ -2,8 +2,8 @@
 [ @ 0 ]                                                                   [ @ 1 ] PRACTICES       [ @ 2 ] PEOPLE      [ @ 3 ] CAREERS       [ @ 4 ] NEWS           [ $ 5 ] [ $ 6 ]
     CRAVATH
                        [ 10 ] Four Decades for Justice                                                                         [ @ 11 ] READ MORE         0
-                                                                                                     [ @ 12 ] □ PEOPLE
-                                                                                                     [ 13 ]  Michael                  L.
+                                                                                                     [ @ 12 ]   PEOPLE
+                                                                                                     ( 13 )  Michael                  L.
                                                                                                           Arnold
                                                                                                      [ 16 ] PARTNER [ 15 ]   [ @ 17 ] CORPORATE
                                                                                                      [ @ 18 ] marnold@cravath.com
@@ -35,4 +35,4 @@
                                                                                                                          [ @ 41 ] OUR STORY
                        [ 42 ] Attorney Advertising.        [ 43 ] 2023 [ 44 ] Cravath,   Swaine & Moore LLP.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 581
+Token count: 580

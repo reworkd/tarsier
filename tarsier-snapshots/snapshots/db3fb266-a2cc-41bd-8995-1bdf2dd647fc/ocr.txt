@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ $ 1 ] Health Partners ✓                                                                                                      [ @ 2 ] Pay bill   [ @ 3 ] @ Sign in
            [ @ 4 ]                                                                                                                        [ $ 11 ]
-                          HealthPartner: [ $ 5 ] ] [ 6 ] What we do ✓      [ $ 7 ] [ 8 ] Our doctors ✓     [ [ $ 9 ] ] [ 10 ] Our locations ✓           [ @ 12 ] Make an appointment
+                          HealthPartner: [ $ 5 ] ] [ 6 ] What we do ✓      [ $ 7 ] [ 8 ] Our doctors ✓     [ [ $ 9 ] [ 10 ] Our locations ✓             [ @ 12 ] Make an appointment
                           Park Nicollet
                                                                           Our locations
            [ $ 14 ] City, state or ZIP                              [ $ 17 ] Distance
@@ -24,7 +24,7 @@
                                                                                                                                                                              [ $ 3
                                                                                                                                                                             ( 52
             [ @ 33 ] box
-                                                                                                                 [ @ 34 ] Ⓒ Mapbox [ @ 35 ] Ⓒ OpenStreetMap [ @ 36 ] Improve this map
+                                                                                                                 [ @ 34 ]  Mapbox [ @ 35 ] © OpenStreetMap [ @ 36 ] Improve this map
                                                                  [ @ 56 ] Amery Clinic, Amery Hospital &                                          [ @ 62 ] Make an
                                                                                                                                                     appointment
                                                                  Clinic
@@ -96,7 +96,7 @@
                                                                  [ 126 ] 1631.6 miles away
                                                                   [ @ 127 ] Directions L
                                                                   [ 129 ] Open [ 128 ] until 4:30 p.m.
-                                                                 [ @ 132 ] HealthPartners Cancer Care at                                          [ @ 138 ] Make an
+                                                                 [ @ 132 ] Health Partners Cancer Care at                                         [ @ 138 ] Make an
                                                                                                                                                     appointment
                                                                  Park Nicollet Maple Grove
                                                                  [ 133 ] 9555 Upland Ln N,     Maple Grove,     MN 55369-4485                  [ @ 139 ] 612-341-4800
@@ -109,7 +109,7 @@
                                                                  [ 142 ] 1574.1 miles away
                                                                  [ @ 143 ] Directions L
                                                                  [ 145 ] Open [ 144 ] until 4:30 p.m.
-                                                                 [ @ 147 ] Health Partners Cancer Center                                          [ @ 153 ] Make an
+                                                                 [ @ 147 ] HealthPartners Cancer Center                                           [ @ 153 ] Make an
                                                                                                                                                     appointment
                                                                  at Regions Hospital
                                                                  [ 148 ] 640 Jackson St, Saint Paul, MN 55101-2502                             [ @ 154 ] 612-341-4800
@@ -137,14 +137,14 @@
                                                                  [ 173 ] 1615.7 miles away
                                                                   [ @ 174 ] Directions L
                                                                  [ 176 ] Closed [ 175 ].  Reopens on Friday at 7 a.m.
-                                                                 [ @ 179⁹ ] Health Partners Clinic                                                [ @ 185 ] Make an
+                                                                 [ @ 179 ] Health Partners Clinic                                                 [ @ 185 ] Make an
                                                                                                                                                     appointment
                                                                  Bloomington
                                                                  [ 180 ] 8600 Nicollet Ave S, Bloomington,       MN 55420-2824                 [ @ 186 ] 952-967-7375
                                                                  [ 181 ] 1624.6 miles away
                                                                  [ @ 182 ] Directions L
                                                                   [ 184 ] Closed [ 183 ]. Reopens on Friday at 7 a.m.
-                                                                 [ @ 187 ] Health Partners Clinic Brooklyn                                        [ @ 193 ] Make an
+                                                                 [ @ 187 ] HealthPartners Clinic Brooklyn                                         [ @ 193 ] Make an
                                                                                                                                                     appointment
                                                                  Center
                                                                  [ 188 ] 6845 Lee Ave N,     Brooklyn Center,    MN 55429-1717                 [ @ 194 ] 952-967-6818
@@ -161,7 +161,7 @@
                                                                  [ 200 ] Closed [ 199 ]. Reopens on Friday at 7:20 a.m.
                                                                              [ $ 203 ] Page 1 of 17 ✓                 [ @ 204 ]  >
                 [ @ 205 ] Download search instructions                       [ @ 206 ] Print search results
-           [ 207 ] Health Partners & Park Nicollet                  [ 213 ] Clinics & hospitals               [ 220 ] Our Foundations                    [ 230 ] Resources
+           [ 207 ] HealthPartners & Park Nicollet                   [ 213 ] Clinics & hospitals               [ 220 ] Our Foundations                    [ 230 ] Resources
            [ @ 208 ] 8170 33rd Ave S, Bloomington, MN               [ @ 214 ] HealthPartners Clinics          [ @ 221 ] Foundations overview             [ @ 231 ] Blog
            55425                                                    [ @ 215 ] Park Nicollet Clinics           [ @ 222 ] Park Nicollet Foundation          @ 232 ] Classes and
                                                                                                                                                          [
@@ -185,17 +185,17 @@
                                                                                                                                                          reader ¹2
                                                                                                                                                          [ @ 239 ] HealthPartners
                                                                                                                                                          mobile app for
-                                                                                                                                                        Android L2
+                                                                                                                                                        Android ¹2
                                                                                                                                                          [ @ 240 ] HealthPartners
-                                                                                                                                                         mobile app for iOS 2
+                                                                                                                                                         mobile app for iOS
     [ 241 ] Language assistance
            [ @ 242 ] Español           [ @ 248 ] Adamawa            [ @ 254 ] Tagalog           [ @ 260 ] Deutsch            [  @ 266 ] ગુજરાતી          [ @ 272 ] Diné Bizaad
-           [ @ 243 ] Hmoob              [ @ 249 ] ພາ ສາ ລາວ         [ @  255 ] Украïнська       [ @ 261 ] Polski             ] @ 267 [ اردو              [ @ 273 ] lkirundi
+           [ @ 243 ] Hmoob              [ @ 249 ] ພາ ສາ ລາວ         [ @  255 ] Украïнська       [ @ 261 ] Polski             ] @ 267 [ اردو              [ @ 2731 Ikirundi
            [ @ 244 ] Tiếng Việt        [ @ 250 ] Deitsch            [ @ 256 ] Oromiffa          [ @ 262 ]                    [ @ 268 ] Italiano          [ @ 274 ] Kiswahili
            [ @ 245 ] XNX                ] @ 251 [ العربية           [ @ 257 ] h ማርኛ             [ [ [ @ 263 ]  हिंदी         [ @ 269 ] नेपाली            [ @ 275 ] Norsk
            [ @ 246 ] Русский           [ @ 252 ] Français          [ @ 258 ] unD                [ @ 264 ] Shqip              [ @ 270 ] ภาษา ไทย          [ @ 276 ] Ojibwe
-           [ @ 247 ] Af Soomaali       [ @ 253 ] 한국어                [ @ 259 ] ies               [ @ 265 ] Srpsko - hrvatski  [ @ 271 ] ελληνικά          [ @ 2771 + 7 ( 5
-              [ 278 ] © 2023 HealthPartners  [ @ 279 ]. About  [ @ 280 ] Accessibility  [ @ 281 ] Good faith estimate  [ @ 282 ]. Nondiscrimination statement  [ @ 283 ] Notice of privacy practices
-                                                          [ @ 284 ] Privacy policy  [ @ 285 ] Surprise billing  [ @ 286 ] Terms & conditions
+           [ @ 247 ] Af Soomaali       [ @ 253 ] 한국어                [ @ 259 ] ខ្មែរ             [ @ 265 ] Srpsko - hrvatski  [ @ 271 ] ελληνικά          [ @ 2771 + 7 ( 5
+              [ 278 ] © 2023 HealthPartners  [ @ 279 ] About  [ @ 280 ] Accessibility  [ @ 281 ]. Good faith estimate  [ @ 282 ]. Nondiscrimination statement  [ @ 283 ] Notice of privacy practices
+                                                          [ @ 284 ]. Privacy policy  [ @ 285 ] Surprise billing  [ @ 286 ] Terms & conditions
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 3319
+Token count: 3320

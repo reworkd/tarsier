@@ -9,7 +9,7 @@
     [ @ 10 ] HOME          [ @ 11 ] ABOUT US          [ @ 12 ] ACTS AND RULES            [ @ 13 ] PERFORMANCE             [ @ 14 ] WANTED          [ @ 15 ] MEDIA          [ @ 16 ] INT. COOPERATION
     [ @ 17 ] VERIFY YOUR SUMMONS               [ @ 18 ] OTHERS          [ @ 19 ] CONTACTO
                [ 20 ] FEOA
-               [ @ 22 ] Home » > [ 23 ] Acts And Rules >> [ 24 ] FEOA
+               [ @ 22 ] Home » [ 23 ] Acts And Rules >> [ 24 ] FEOA
                  [ 25 ] Sr.No.      [ 26 ] Title                                                                                                                                  [ 27 ] Download
                  [ 28 ] 1           [ 29 ] Fugitive Economic Offenders Act, 2018                                                                                                  [ @ 30 ]
                  [ 31 ] 2           [ 32 ] Declaration of Fugitive Economic Offenders ( Forms and Manner of Filing Application ) Rules, 2018                                      [ @ 33 ]
@@ -22,4 +22,4 @@
                                                                                                                                  [ 56 ] Page last updated on: [ 57 ] 06-12-2023  [ 58 ] Total Visitor:
    [ 52 ] Copyright © 2023. Directorate of Enforcement, Department of Revenue. All rights reserved.                                                                                               [ 59 ] 3,128,296
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 669
+Token count: 668

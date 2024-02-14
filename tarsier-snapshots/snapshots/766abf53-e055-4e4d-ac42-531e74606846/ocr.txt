@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------------------------------------------------------------
-ANTHROP \ C
+ANTHROPIC
                                    [ @ 0 ]
                                       Prompt Engineering Manager                                        [ @ 6 ] APPLY FOR THIS JOB
                                    [ 2 ] San Francisco, CA
@@ -79,7 +79,7 @@ ANTHROP \ C
                                    [ 56 ] How we're different
                                    [ 57 ] We believe that the highest - impact AI research will be big science. At Anthropic we work as a single cohesive
                                    team on just a few large - scale research efforts. And we value impact - advancing our long - term goals of steerable,
-                                   trustworthy AI – rather than work on smaller and more specific puzzles. We view AI research as an empirical
+                                   trustworthy AI - rather than work on smaller and more specific puzzles. We view AI research as an empirical
                                    science, which has as much in common with physics and biology as with traditional efforts in computer science. We're
                                    an extremely collaborative group, and we host frequent research discussions to ensure that we are pursuing the
                                    highest - impact work at any given time. As such, we greatly value communication skills.  We're trying to build a core
@@ -98,4 +98,4 @@ ANTHROP \ C
                                                                       [ @ 77 ] APPLY FOR THIS JOB
                                                                     [ @ 78 ] Jobs powered by   LEVER
 --------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1943
+Token count: 1942

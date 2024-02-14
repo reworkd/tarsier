@@ -13,11 +13,11 @@
              [ 29 ] 3     [ @ 30 ] [ 31 ] Regulations for Technical Implementation of Mobile Banking, 2016
              [ 32 ] 4     [ @ 33 ] [ 34 ] Class Licensing & Registration ( Amendment ) Regulations, 2016
              [ 35 ] 5     [ 36 ] Broadband Quality of Service Regulations, 2014
-             [ 37 ] 6     [ @ 38 ] ] [ 39 ] Telecom Consumers Protection ( Amendment ) Regulations, 2012
+             [ 37 ] 6     [ @ 38 ] [ 39 ] Telecom Consumers Protection ( Amendment ) Regulations, 2012
              [ 40 ] 7     [ @ 41 ] [ 42 ] Subscriber Antecedents Verification ( 2nd Amendment ) Regulations, 2012
              [ 43 ] 8     [ @ 44 ] [ 45 ] Cellular Mobile Network Quality           Service ( Amendment ) Regulations, 2012
-             [ 46 ] 9     [ @ 47 ] [ 48 ] Pakistan Telecommunication Authority ( Functions & Powers ) ( Amendment ) Regulations, 2012
-            [ 49 ] 10     [ @ 50 ] ] [ 51 ] Telecommunication and Terminal Equipment Installer Regulations, 2012
+             [ 46 ] 9     [ @ 47 ] [ 48 ] Pakistan Telecommunication Authority_ ( Functions & Powers ) ( Amendment ) Regulations, 2012
+            [ 49 ] 10     [ @ 50 ] [ 51 ] Telecommunication and Terminal Equipment Installer Regulations, 2012
             [ 52 ] 11     [ @ 53 ] [ 54 ] Subscribers Antecedents Verification ( Amendment ) Regulations, 2012
             [ 55 ] 12     [ @ 56 ] [ 57 ] Mobile Virtual Network Operation ( MVNO ) Regulations, 2012
             [ 58 ] 13     [ @ 59 ] [ 60 ] Telecom Consumer Protection ( Amendment ) Regulations, 2011
@@ -40,7 +40,7 @@
             [ 95 ] 30     [ 96 ] Amendments - Class Licensing and Registration Regulations 2007
         [ 97 ] Quick Links                                                      [ 105 ] Find Us                                                         [ 106 ] Get in Touch
          [ @ 98 ]    Official Email Login                                                                                                                [ # 107 ]
-         [ @ 99 ] □ National Job Portal ( NJP )                                                                                                            Enter Name
+         [ @ 99 ]    National Job Portal ( NJP )                                                                                                           Enter Name
                                                                                 House
          [ @ 100 ]     Electronic Certification Accreditation Council ( ECAC )  ہاؤ پنجاب                              PAEC Headquarters (
                                                                                                                            ہیڈکوارٹرز سی ای اے پی        [ # 108 ]
@@ -58,4 +58,4 @@
                                                                                                                                                                                                      [ $ 111 ] SUBMIT
         [ 112 ] Copyright © 2023, Ministry of IT and Telecom. All Rights Reserved
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1315
+Token count: 1313

@@ -25,7 +25,7 @@
                       [ 39 ] Skilled Nursing / Rehabilitation                       [ 47 ] Skilled Nursing / Rehabilitation                      [ 55 ] Skilled Nursing / Rehabilitation
                       [ 40 ] Palliative Care  [ 41 ] Hospice                        [ 48 ] Palliative Care  [ 49 ] Hospice                       [ 56 ] Palliative Care  [ 57 ] Hospice
                      [ 42 ] 11855 Quail Roost Drive                               [ 50 ] 3075 NW 35th Ave                                       [ 58 ] 1050 NE 125th Street
-                     [ 43 ] Miami FI, 33177                                       [ 51 ] Lauderdale Lakes FI, 33311                             [ 59 ] North Miami FI, 33161
+                     [ 43 ] Miami Fl, 33177                                       [ 51 ] Lauderdale Lakes FI, 33311                             [ 59 ] North Miami FI, 33161
                      [ 44 ] ( 305 ) 252-4000                                      [ 52 ] ( 954 ) 739-6233                                       [ 60 ] ( 305 ) 891-8850
                               [ @ 45 ] VISIT LOCATION                                       [ @ 53 ] VISIT LOCATION                                      [ @ 61 ] VISIT LOCATION
                             S
@@ -35,7 +35,7 @@
                      Nursing Facility                                             Living Facility
                       [ 63 ] Skilled Nursing / Rehabilitation                       [ 69 ] Assisted Living  [ 70 ] Palliative Care               [ 76 ] Assisted Living   [ 77 ] Palliative Care
                      [ 64 ] 8850 NW 122nd Street                                  [ 71 ] 3485 NW 30th St                                        [ 78 ] 11855 Quail Roost Dr
-                     [ 65 ] Hialeah Gardens FI, 33018                             [ 72 ] Lauderdale Lakes FI, 33311                             [ 79 ] Miami FI, 33317
+                     [ 65 ] Hialeah Gardens FI, 33018                             [ 72 ] Lauderdale Lakes FI, 33311                             [ 79 ] Miami Fl, 33317
                      [ 66 ] (305)351-7181                                         [ 73 ] (954)739-1483                                          [ 80 ] ( 305 ) 252-4000
                               [ @ 67 ] VISIT LOCATION                                       [ @ 74 ] VISIT LOCATION                                      [ @ 81 ] VISIT LOCATION
                                                                                                                                                                          Holy Cross  Health
@@ -96,8 +96,8 @@
                                                                               [ @ 124 ] Careers                  [ @ 129 ] Guía de Asistencia
                                                                               [ @ 125 ] Foundation               Financiera                                       [ 135 ] For any billing
                                                                                                                  [ @ 130 ] Patients Bill of Rights                information, please email
-                                                                                                                 [ @ 131 ] Medical Records                        [ @ 139 ] Chs.ap@chsfla.com [ 136 ].
+                                                                                                                 [ @ 131 ] Medical Records                        [ @ 139 ] chs.ap@chsfla.com [ 136 ].
                                                                         [ @ 140 ] in      [ @ 141 ] ► [ @ 142 ]               [ @ 143 ]
-                                               [ 144 ] Ⓒ 2023 Catholic Health Services is the official health care ministry of the Archdiocese of Miami.
+                                               [ 144 ] © 2023 Catholic Health Services is the official health care ministry of the Archdiocese of Miami.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1937
+Token count: 1935

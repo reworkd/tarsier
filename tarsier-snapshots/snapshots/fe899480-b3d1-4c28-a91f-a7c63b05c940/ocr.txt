@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 0 ]
       Excela Health
-                                                             [ @ 1 ] Pay Bill       [ @ 21 Contact Us           [ @ 3 ] Careers         [ @ 4 ] About Us        [ $ 6 ] arch                           [ @ 7 ] 877-771-1234
+                                                             [ @ 1 ] Pay Bill       [ @ 2 ] Contact Us          [ @ 3 ] Careers         [ @ 4 ] About Us        [ $ 6 ] arch                           [ @ 7 ] 877-771-1234
                                            [ @ 8 ] Find a Doctor           [ @ 9 ] Locations          [ @ 10 ] Services          [ @ 38 ] Patients & Visitors             [ @ 59 ] Patient Portal           [ @ 60 ] Giving
       [ 61 ] Our             Locations
               [ $ 63 ] Search Locations                                            [ $ 65 ] Category                                                     [ $ 67 ] Services
@@ -30,7 +30,7 @@
                                                                               Park                                             Jeannette                                   Derry                                         Johnstown
       [ 76 ] Excela Advanced Pain Center -                                                                          [ 834 ] 1                                  Latrobe                                                       V
                                                                             ( 88 )                                              30
-     Excela Square at Frick                                                                                                         66 [ 835 ] 3 rg                                                                       Elim
+     Excela Square at Frick                                                                                                         66 [ 835 ] 33rg                                                                       Elim
       [ 77 ] Specialty Office or Clinic                                                                                                                     [ 833 ] 29                                               ( 985 )
                                                                                                                                                                                 30
                                                                                                                                            ( 819 )             ( 982 )
@@ -57,6 +57,6 @@
                                                                                                                                                                             ( 653 )                          ( 219 )
       [ 86 ] Suite 103                                                        [ @ 844 ]
                                                                                                                      ( 119 )                                                                                            Berlin
-      [ 87 ] Latrobe, PA 15650                                                         r $ 8451 Keyboard shortcuts  [ 8461Map data © 2023 Google [ $ 8471 184815                       @ 8491 Terms       @ 8501 Reporta mag error
+      [ 87 ] Latrobe, PA 15650                                                         r $ 8451 Keyboard shortcuts  [ 8461 Map data © 2023 Google [ $ 8471 184815                      @ 8491 Terms       @ 8501 Report a mag error
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 974
+Token count: 975

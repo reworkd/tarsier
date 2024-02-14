@@ -3,21 +3,21 @@
                 [ @ 63 ] PAY MY BILL      [ @ 64 ] INFECTIOUS VIRUSES
    [ @ 65 ]                                                       [ @ 66 ] FIND A                 [ @ 67 ] FIND A                 [ @ 68 ] FIND A                 [ @ 69 ] PATIENTS &
                   ECUHEALTH                                       PROVIDER                        LOCATION                        SERVICE                         FAMILIES
-               [ @ 70 ] K RETURN TO SEARCH
+               [ @ 70 ] < RETURN TO SEARCH
       [ 71 ]
             ECU Health Family Medicine - Chocowinity
                 [ 72 ] ECU Health Family Medicine -                                                                                                                                              [ $ 83
                 Chocowinity                                                                                                                                                          Jones
                 [ 73 ] Family Medicine & Primary Care                                               [ 91 ] Open today until 5:30 pm
                                                                                                                                                                    Bojangles          Cir
-                740 Bragaw Lane                                                       [ 92 ] Monday         [ 94 ] 7:30 am [ 93 ] - [ 95 ] 5:30 pm
+                740 Bragaw Lane                                                       [ 92 ] Monday         [ 94 ] 7:30 am [ 93 ]  [ 95 ] 5:30 pm
                 [ 76 ] Chocowinity [ 75 ], [ 77 ] NC [ 78 ] 27817                                                                                                ECU Health Family
-                                                                                      [ 96 ] Tuesday        [ 98 ] 7:30 am [ 97 ] - [ 99 ] 5:30 pm          Medicine Choc [ $ 826
-                     [ @ 79 ] ( 252 ) 946-9562                                        [ 100 ]             [ 102 ] 7:30 am [ 101 ]                     ty
+                                                                                      [ 96 ] Tuesday        [ 98 ] 7:30 am [ 97 ]  [ 99 ] 5:30 pm           Medicine Choc [ $ 826
+                     [ @ 79 ] ( 252 ) 946-9562                                        [ 100 ]             [ 102 ] 7:30 am [ 101 ] -                   ty
                                                                                                                                                       ex
                                                                                       Wednesday           [ 103 ] 5:30 pm
                                                                                                                                                                                                     Rd
-                                                                                      [ 104 ]            [ 106 ] 7:30 am [ 105 ]
+                                                                                      [ 104 ]            [ 106 ] 7:30 am [ 105 ] -
                                                                                                                                                                                                     Farm  e
                                                                                       Thursday           [ 107 ] 5:30 pm                                            The Learning Center
                                                                                       [ 108 ] Friday [ 110 ] 7:30 am [ 109 ] - [ 111 ] 5:00 pm                                                   [ $ 84
@@ -25,7 +25,7 @@
                                                                                                                                                                           Care - O - World    Gray  [ $ 85
                  [ @ 80 ] DIRECTIONS           [ @ 81 ] PAY BILL ONLIN                                                                                 [ @ 86 ]
                                                                                                                                                                  Early Learning Center ..
-                                                                                                                                                        Map Data   @ 891 Terms    @ 901 Report a mad error
+                                                                                                                                                        Map Data   @ 891 Terms    @ 901 Report a map error
               [ @ 112 ] Sign Up or Login to MyChart                                            [ @ 113 ] Virtual Care                                               [ @ 114 ] Health Library
             [ 115 ] Services Provided                                                                                                             [ 117 ] Important Links
                  [ 116 ] Family Medicine and                                                                                                         [ @ 118 ] Pay Bill Online
@@ -53,7 +53,7 @@
    [ 135 ] PROUD TO PROVIDE PATIENT - FAMILY CENTERED CARE
     [ 136 ] [ 137 ] A partnership that drives primary care excellence
             As a patient - centered medical home, we put you first and we value your input in making decisions and developing a personalized plan to reach your health
-            and wellness goals. We work with you to coordinate all of your health care needs - including preventive check - ups, sick care, specialty referrals and more.
+            and wellness goals. We work with you to coordinate all of your health care needs                   including preventive check - ups, sick care, specialty referrals and more.
     [ 138 ] If you have an ongoing health issue, we will provide education and support so you can maintain your health. We provide care based on proven medical
             practices. ( If you are pregnant, or think you may be pregnant,          please contact your women's care provider. )
     [ 139 ] [ 140 ] Be an active member of your care team
@@ -91,4 +91,4 @@
                  [ @ 188 ] ACA Nondiscrimination Notice | [ @ 189 ] Accessibility Statement | [ @ 190 ] Notice of Privacy Practices | [ @ 191 ] Sitemap |  [ @ 192 ] Disclaimer | [ @ 193 ] No Surprise Act
                                                                                                                                                                                                              [ @ 54 ]
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1788
+Token count: 1790

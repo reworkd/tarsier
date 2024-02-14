@@ -3,7 +3,7 @@
   [ @ 1 ] UW Medicine [ @ 2 ] MyChart Patient                [ @ 3 ] For       [ @ 4 ] Research  [ @ 5 ] School of     [ @ 6 ] Careers  [ @ 7 ] Contact
                                     Portal                   Providers                          Medicine                              Us
     [ @ 9 ] Find care ✓  [ @ 10 ] Make an appointment >   [ @ 11 ] Find health & patient resources ✓  [ @ 12 ] I want to ... v                                [ @ 13 ] MAKE A GIFT >
-   [ @ 15 ] .COVID - 19 Visitor Policy. [ 14 ]: Vaccine verification or proof of a negative test is no longer required for hospital visitors. COVID symptom, exposure and masking "
+   [ @ 15 ] COVID - 19 Visitor Policy [ 14 ]: Vaccine verification or proof of a negative test is no longer required for hospital visitors. COVID symptom, exposure and masking "
                                                                                                                                                                                  [ X  $ 16 ]
    policies remain.
                                                                          UW Medical Center -
@@ -52,7 +52,7 @@
        [ 71 ]
              Services available at this location include:
                  [ 72 ] Anticoagulation therapy                       [ 73 ] Cancer care                                   [ 74 ] Childbirth
-              ✔ [ 75 ] Diagnostic imaging                             [ 76 ] Diagnostic radiology                          [ 77 ] Emergency services
+                 [ 75 ] Diagnostic imaging                            [ 76 ] Diagnostic radiology                          [ 77 ] Emergency services
                  [ 78 ] Gastroenterology ( digestive )                [ 79 ] Hepatology ( liver )                          [ 80 ] Hernia repair
                   [ 81 ] Hospital medicine                            [ 82 ] Hyperbaric oxygen therapy                     [ 83 ] Laboratory medicine
                   [ 84 ] Lung care                                    [ 85 ] Medical oncology                              [ 86 ] Nephrology ( kidney )
@@ -60,7 +60,7 @@
                  [ 90 ] Radiation oncology                            [ 91 ] Radiology and imaging                         [ 92 ] Rheumatology ( connective tissue
                                                                                                                            disease )
                  [ 93 ] Senior care ( geriatrics )                    [ 94 ] Senior psychiatry ( geriatrics )              [ 95 ] Travel medicine
-              ✔ [ 96 ] Urology                                     ✔ [ 97 ] Vascular surgery                               [ 98 ] Women's health
+              ✔ [ 96 ] Urology                                        [ 97 ] Vascular surgery                              [ 98 ] Women's health
                  [ 99 ] Wound care
                 [ 100 ] PATIENT RESOURCES                             [ 106 ] INTRODUCING MYCHART PATIENT                   [ 109 ] CAREERS AT NORTHWEST
                                                                      PORTAL
@@ -103,4 +103,4 @@
    [ 160 ]                                                         @ 161 ] ] Website Policy   [ @ 162 ]                                          [ @ 164 ] 167 ] Accept
              assist in marketing efforts. For more information, sel
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1989
+Token count: 1985

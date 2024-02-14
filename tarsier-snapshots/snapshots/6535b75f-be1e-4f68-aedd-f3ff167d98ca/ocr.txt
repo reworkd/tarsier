@@ -86,7 +86,7 @@
                    [ $ 97 ] English ( United States )  [ @ 116 ] Billing                [ @ 141 ] Enterprises               [ @ 163 ] Customer Stories
                                                     [ @ 117 ] Capital                   [ @ 142 ] SaaS                      [ @ 164 ] Blog
                                                     [ @ 118 ] Checkout                  [ @ 143 ] Platforms                 [ @ 165 ] Annual Conference
-                                                    [ @ 119 ] Climate                   [ @ 144 ] Ecommerce                 [ @ 166 ] Privacy & Terms.
+                                                    [ @ 119 ] Climate                   [ @ 144 ] Ecommerce                 [ @ 166 ] Privacy & Terms
                                                     [ @ 120 ] Connect                   [ @ 145 ] Marketplaces              [ @ 167 ] Licenses
                                                     [ @ 121 ] Corporate Card            [ @ 146 ] Crypto                    [ @ 168 ] Sitemap
                                                     [ @ 122 ] Data Pipeline             [ @ 147 ] Creator Economy           [ @ 169 ] Cookie Settings
@@ -116,6 +116,6 @@
                                                                                         [ @ 159 ] API Changelog
          J                                          [ @ 137 ] Terminal
                                                                                         [ @ 160 ] Build a Stripe App
-                [ 113 ]  2023 Stripe, Inc.          [ @ 138 ] Treasury
+                [ 113 ] © 2023 Stripe, Inc.         [ @ 138 ] Treasury
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 Token count: 1869

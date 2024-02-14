@@ -47,22 +47,22 @@
                               [ 30 ] Search firms: Per the terms of our agreement, all candidates must be submitted through
                               the firm's agency portal for consideration. If you have an agreement with the firm, please request
                               an invitation to submit candidates to the portal from [ @ 31 ] legalrecruiting
-                              bos@dlapiper.com [ 32 ]. If you do not have an agreement with us and would like us to consider
+                              bos@dlapiper.com [ [ 32 ]. If you do not have an agreement with us and would like us to consider
                               candidates, please send a blind candidate profile to [ [ @ 33 ] legalrecruiting
                               bos@dlapiper.com [ 34 ]
                               [ 35 ] General & Essential Job Expectations
                               [ 36 ] While the specific job requirements of a DLA Piper position may vary depending upon
                               scope of the job and area of specialty, there are certain universal requirements that are
                               expected of all DLA Piper employees, which include but are not limited to:
-                              . [ 37 ] Effectively communicate, verbally and in writing, with clients, lawyers, business
+                               • [ 37 ] Effectively communicate, verbally and in writing, with clients, lawyers, business
                                   professionals,  and third parties;
                                • [ 38 ] Produce deliverables, answer phone calls, and reply to correspondence in an efficient
                                   and responsive manner;
                                • [ 39 ] Provide timely, accurate, and quality work product;
                                   [ 40 ] Successfully meet deadlines, expectations, and perform work duties as required;
                                   [ 41 ] Foster positive work relationships;
-                              . [ 42 ] Comply with all firm policies and practices;
-                              . [ 43 ] Engage in both physical and sedentary activity, such as ( a ) working at a computer for
+                               • [ 42 ] Comply with all firm policies and practices;
+                               • [ 43 ] Engage in both physical and sedentary activity, such as ( a ) working at a computer for
                                   extended periods of time, including on - screen reading and typing; ( b ) participating in
                                   digital / virtual conference calls; ( c ) participating in meetings as needed;
                                   [ 44 ] Perform all other duties, tasks or projects as assigned.
@@ -86,4 +86,4 @@
                                                                                                                                             DLA PIPER
                         [ 87 ] © 2023 DLA Piper Talent Acquisition. All rights reserved.
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1389
+Token count: 1390

@@ -35,7 +35,7 @@
           court and the UK CAT.
                                                                                                                            London
            [ 29 ]
-                                                                                                                           [ @ 54 ] T + 44 20 7936 4000
+                                                                                                                           [ @ 54 ] T +44 20 7936 4000
                                               [ $ 38 ] Expand to read all
           [ 39 ]  Qualifications
            [ 40 ] Professional qualifications
@@ -59,7 +59,7 @@
                                                                                               [ @ 73 ] F +44 20 7832 7001
             @ 74 ] [ 75 ] Our professionals                        @ 87 ] [ 88 ] Accessibility                            [ 103 ] Follow us
            [                                                       [
-            @ 76 ] [ 77 ] Capabilities                            [ @ 89 ] [ 90 ] Legal notices                                  ir [ @ 107 ]
+            @ 76 ] [ 77 ] Capabilities                            [ @ 89 ] [ 90 ] Legal notices                                  irl @ 107 ]
            [
            [ @ 78 ] [ 79 ] Insights                                [ @ 91 ] [ 92 ]  Complaints
            [ @ 80 ]  [ 81 ]  Careers                              [ @ 93 ] [ 94 ] Privacy
@@ -74,4 +74,4 @@
      of cookies on our website please view our [ @ 110 ] Cookie Notice.
                                                                                                           [ $ 113 ] Accept All Cookies
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1167
+Token count: 1166

@@ -24,7 +24,7 @@
                              [ 33 ] Glossary
                                                                                              Module One
              [ 32 ] Glossary                                                                 [ 37 ] General  [ 39 ] General Rules
-                             [ 34 ] DOWNLOAD✓                                                                [ 40 ] DOWNLOAD✓
+                             [ 34 ] DOWNLOAD                                                                 [ 40 ] DOWNLOAD
             [ @ 41 ]                                                                        [ @ 47 ]
               DFM            [ 44 ] Module Two                                                DFM            [ 50 ] Module Three
              Module Two                                                                      [ 48 ]  Module
@@ -47,7 +47,7 @@
         [ 61 ] World Trade Centre ( Rashid Tower )
                           Road                                [ 74 ] QUICK ACCESS               [ 79 ] QUICK LINKS                [ 83 ] RELATED COMPANIES
         [ 62 ] Sheikh Zayed
-        [ 63 ] P.O. Box: 9700                                 [ @ 75 ] Market Watch             [ @ 80 ] Listed Securities        [ @ 84 ] Nasdaq Dubai
+        [ 63 ] P.O.Box: 9700                                  [ @ 75 ] Market Watch             [ @ 80 ] Listed Securities        [ @ 84 ] Nasdaq Dubai
         [ 64 ] Dubai, United Arab Emirates                    [ @ 76 ] Mobile app               [ @ 81 ] Foreign Ownership        [ @ 85 ] Borse Dubai Limited
         [ 65 ] Makani Number:  [ 66 ] 27608 91214                                                                                                   LLC
                                                               [ @ 77 ] eServices                [ @ 82 ] Investor Relations       [ @ 86 ] Dubai CSD
@@ -60,4 +60,4 @@
                                                     [ 97 ] COPYRIGHT © 2023 DUBAI FINANCIAL MARKET PJSC. ALL RIGHTS RESERVED
                                                                   [ @ 98 ]      SUGGESTIONS  /  COMPLAINTS
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1086
+Token count: 1081

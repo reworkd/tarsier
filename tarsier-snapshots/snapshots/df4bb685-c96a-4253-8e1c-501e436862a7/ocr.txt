@@ -71,9 +71,9 @@
                                     [ 105 ]
                                       WERED BY
                                                                               ABU  أبوظبي  DHABI  حكومة  CONTACT  اتصال  CENTRE  مركز
-          [ @      الامـارات        [ @ 106 ]        TAMM            [ @ 107 ]   CONTACT ABUDHARI
+          [ @      الامـارات        [ @ 106 ]        TAMM            [ @ 107 ]   CONTACT. ABUDHARI
              104 ] THE EMIRATES
-          [ @ 108 ] Copyright [ @ 109 ] Privacy Policy [ @ 110 ] Terms & Conditions                                 [ 111 ]  2023 Abu Dhabi Government. All rights
+          [ @ 108 ] Copyright [ @ 109 ] Privacy Policy [ @ 110 ] Terms & Conditions                                 [ 111 ] © 2023 Abu Dhabi Government. All rights
                                                                                                                                                         reserved
  [ 112 ] xt
  [ 113 ] ranslation
@@ -81,4 +81,4 @@
  115 ]  BI     [ $ 116 ]  4
  [ # 117 ]           [ # 118 ]                      [ # 119 ]                      [ # 120 ]                      [ # 121 ]
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1482
+Token count: 1483

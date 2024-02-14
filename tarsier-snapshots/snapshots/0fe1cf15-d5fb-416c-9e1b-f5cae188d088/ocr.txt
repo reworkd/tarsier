@@ -11,7 +11,7 @@
                                                                                                         Center
                                                                                           Outpatient
       [ 10 ] UofL Health - Hep C Center
-                                                                                                                                                          Pharmacy       Pharmacy  U Health
+                                                                                                                                                          Pharmacy       Pharmacy  LR Health
        [ 11 ] Location Information
                                                                                                                             [ 20 ] Schedule An
                                                          [ 12 ] UofL Health - Hep C Center
@@ -48,7 +48,7 @@
                                                                                                                                              [ @ 57 ] Ways to Give
              [ @ 38 ] [ @ 39 ] [ @ 40 ] [ @ 41 ] [ @ 42 ] ► [ @ 48 ] Patient Portal                 [ @ 53 ] Volunteer
               f               ( ơ )   d in                                                          Information                              [ @ 58 ] Contact
-             [ 59 ] Ⓒ 2023 UofL Health. All Rights Reserved [ @ 60 ]. Nondiscrimination Notice      [ @ 61 ]. Terms of Use   [ @ 62 ] Notice of Privacy Practices
+             [ 59 ] © 2023 UofL Health. All Rights Reserved [ @ 60 ] Nondiscrimination Notice       [ @ 61 ] Terms of Use    [ @ 62 ] Notice of Privacy Practices
                                                               [ @ 63 ] Code of Conduct     [ @ 64 ] Privacy Policy.
        [ 65 ]   UofL Health complies with applicable Federal civil rights laws and does not discriminate on the basis of race, color, national origin, age, disability or sex
              ( including discrimination based on pregnancy, gender identity and sex stereotyping ) when providing or administering health - related insurance or other health
@@ -59,4 +59,4 @@
              partner with UofL Health, Inc. to maintain and enhance the University of Louisville's affiliated graduate medical education as well as its research in medicine,
                                                                             dentistry, nursing and public health.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 934
+Token count: 932

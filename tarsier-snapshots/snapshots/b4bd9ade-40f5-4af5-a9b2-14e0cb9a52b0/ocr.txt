@@ -32,7 +32,7 @@ Fried
                                      certifications or other professional licenses held, and if applicable, the location in which the
                                      applicant lives and / or from which they will be performing the job.
                                      Salary Range
-                                      [ 21 ] $ 295,000 [ 22 ] - [ 23 ] $ 415,000 USD
+                                      [ 21 ] $ 295,000 [ 22 ]         [ 23 ] $ 415,000 USD
                                             [ 24 ] Apply for this Job                                                               [ 26 ] [ 25 ] Required
                                                    [ $ 27 ] First [ # 28 ]
                                                           Name *
@@ -58,7 +58,7 @@ Fried
                                                            ( Year * )
                                                 [ @ 65 ] + Add another education
                                             Please upload your transcript.
-                                            Attach File. [ @ 68 ] Dropbox, [ @ 69 ] Google Drive
+                                            Attach File, [ @ 68 ] Dropbox, [ @ 69 ] Google Drive
                                             [ 70 ] ( File types: pdf, doc, docx, txt, rtf )
                                             Please upload additional transcript.
                                             Attach File, [ @ 73 ] Dropbox, [ @ 74 ] Google Drive
@@ -155,7 +155,7 @@ Fried
                                             [ $ 153 ]         No
                                             [ $ 154 ]         I don't wish to answer
                                             [ 155 ] Indicate the race / ethnicity with which you primarily identify with": [ 156 ] ( Select
-                                            one ) [ 157 ] *
+                                            one ) [ 157 ]
                                             [ $ 158 ]         Asian
                                             [ $ 159 ]         Black or African American
                                             [ $ 160 ]         Hispanic or Latino
@@ -172,7 +172,7 @@ Fried
                                             [ $ 173 ]         Non - binary
                                             [ $ 174 ]         Other, please self - describe:
                                             [ $ 175 ]         I don't wish to answer
-                                            [ 176 ] Do you identify asLGBTQ +? [ 177 ] ( Select one ) [ 178 ]
+                                            [ 176 ] Do you identify as LGBTQ +? [ 177 ] ( Select one ) [ 178 ]
                                             [ $ 179 ]         Yes
                                             [ $ 180 ]         No
                                             [ $ 181 ]         I don't wish to answer
@@ -193,4 +193,4 @@ Fried
                                                                                                                                                                                                                                                                         Privacy  Terms
  [ $ 203 ]
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2822
+Token count: 2819

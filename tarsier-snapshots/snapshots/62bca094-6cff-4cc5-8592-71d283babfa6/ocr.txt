@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------------------------------------------------
 [ @ 0 ]
-                                       [ @ 1 ] About Us  [ @ 21  Careers  [ @ 3 ] Living Well  [ @ 41  Volunteer  [ @ 5 ]  Donate  [ @ 6 ]  Patient Portal
+                                       [ @ 1 ] About Us  [ @ 21  Careers  [ @ 3 ] Living Well  [ @ 4 ]  Volunteer  [ @ 5 ]  Donate  [ @ 6 ]  Patient Portal
     FAITH  FAITH BE  REGIONAL
        HEALTH SERVICES
      @ 7 ] Medical         @ 10 ] Find a  [ $ +  13 ] Find a            @ 17 ] Patients &                  & [ $ 23 ]
@@ -18,7 +18,7 @@
     [ 38 ] Page     [
                          [ @ 42 ] Skyview Villa Assisted Living
                Fallw     [ 45 ] 210 Harris Drive                                                      [ @ 43 ] 402-371-5269
-                         [ 46 ] Norfolk [ 44 ], [ [ 47 ] NE [ 48 ] ] 68701                      [ @ 49 ] Get Driving Directions
+                         [ 46 ] Norfolk [ 44 ],  [ 47 ] NE [ 48 ] ] 68701                       [ @ 49 ] Get Driving Directions
                          [ @ 50 ] Faith Regional Surgery Center
                          [ 53 ] 2701 W. Norfolk Ave.                                                  [ @ 51 ] 402-644-7262
                          [ 54 ] Floor 1                                                         [ @ 58 ] Get Driving Directions
@@ -62,7 +62,7 @@
     [ 136 ] 2700 W. Norfolk Ave.  [ @ 142 ] Privacy Practices Policy
              , NE 68701                                                                            f           in [ @ 150 ] Ⓒ
     [ 137 ] Norfolk           [ @ 143 ] Nondiscrimination Notice
-    [ 138 ] Call [ @ 139 ] ( 402 ) 371-4880 [ @ 144 ] Accessibility Statement          [ 151 ] Ⓒ 2023 Faith Regional Health Services.
+    [ 138 ] Call [ @ 139 ] ( 402 ) 371-4880 [ @ 144 ] Accessibility Statement          [ 151 ] © 2023 Faith Regional Health Services.
                               [ @ 145 ] No Surprise Billing                                          [ 152 ] All rights reserved.
 --------------------------------------------------------------------------------------------------------------------------
-Token count: 1300
+Token count: 1299

@@ -34,14 +34,14 @@
                 [ 41 ] Horseheads, NY 14845                         [ 50 ] Painted Post, NY 14870                       [ 59 ] Elmira, NY 14901
                 [ 46 ] Mon - Thurs [ 42 ]: 9 a.m. - 2 p.m.,         [ 55 ] Mon - Thurs [ 51 ]: 9 a.m. - 2 p.m.,         [ 62 ] Mon - Fri [ [ 60 ]: 8 a.m. 12:30 p.m.,
                 [ 43 ] 2:30 - 6:45 p.m.                             [ 52 ] 2:30 - 6:45 p.m.                             [ 61 ] 1: 30-4: 45 p.m.
-                [ 47 ] Fri - Sun [ 44 ]: 9 a.m. - 2 p.m.,           [ 56 ] Fri  Sun [ 53 ]: 9 a.m. - 2 p.m.
-                [ 45 ] 2:30 - 5:45 p.m.                             [ 54 ] 2:30 - 5:45 p.m.
+                [ 47 ] Fri - Sun [ 44 ]: 9 a.m. - 2 p.m.,           [ 56 ] Fri - Sun [ 53 ]: 9 a.m. - 2 p.m.
+                [ 45 ] 2: 30-5: 45 p.m.                             [ 54 ] 2: 30-5: 45 p.m.
                                                          [ 63 ] Health on Demand
-                                                         [ 64 ] Call center and physician referral service [ @ 65 ]. 607-737-4499
+                                                         [ 64 ] Call center and physician referral service [ @ 65 ] 607-737-4499
                      [ @ 66 ]                                                                                                                               [ # 71 ]
                         Arnot Health                                [ @ 67 ] Patient Portal Login              [ @ 69 ] Privacy
                              It's what we do                                                                                                                  [ @ 74 ]
                                                                     [ @ 68 ] Social Media Guidelines           [ @ 70 ] Corporate Compliance
                                                                                                                                         [ 75 ] 2023 © Arnot Health
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1027
+Token count: 1029

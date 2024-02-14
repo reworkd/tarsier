@@ -173,9 +173,9 @@
         for improvement.
          [ 80 ] Our goal is to deliver an equality of opportunity, an equality of aspiration and an
         equality of experience to everyone who works in our firm.
-        [ 81 ] ] Find out more about our inclusive culture [ @ 83 ] here [ 82 ].
+        [ 81 ] Find out more about our inclusive culture [ @ 83 ] here [ 82 ].
         [ 84 ] # IND1 # LI - JS1
-             [ @ 85 ] Apply            [ @ 86 ] Shortlist O
+             [ @ 85 ] Apply            [ @ 86 ] Shortlist
          [ $ 87 ] SHARE  [ @ 89 ]   [ @ 88 ]    [ @ 90 ]     [ @ 91 ]
          [ 98 ] Join our community of
          bright minds                                                   BE  PROUD  .
@@ -183,7 +183,7 @@
          [ 99 ] Can't find the role you are looking for? Sign up to our
          talent community today
               [ @ 100 ] REGISTER
-       [ @ 104 ] About [ @ 105 ] Accessibility  [ @ 106 ] Legal     [ @ 107 ] Contact [ @ 108 ] Privacy                    Start your job search here.
+       [ @ 104 ] About [ @ 105 ] Accessibility  [ @ 106 ] Legal     [ @ 107 ] Contact [ @ 108 ] Privacy                    Start your job search here
        Us            Statement                 Statements           us              policy                                                        ] [ @ 110 ]
                                                                                                                      [ # 109 ]
          [ 130 ] We use cookies on our websites and other online services to enable them to function correctly, and
@@ -193,4 +193,4 @@
         some cookies you may not be able to access the complete functionality of our websites.  [ @ 131 ] Cookie  [ $ 134 ] Accept All Cookies
         policy
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2882
+Token count: 2880

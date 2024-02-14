@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ # 4 ]
-     [ @ 0 ]          stack overflow                    [ @ 1 ] About              [ @ 2 ] Products             [ [ @ 3 ] For Teams              Q     Search ...                                                                                         [ @ 5 ] Log in            [ @ 6 ] Sign up
+     [ @ 0 ]          stackoverflow                     [ @ 1 ] About              [ @ 2 ] Products             [ [ @ 3 ] For Teams              Q     Search ...                                                                                         [ @ 5 ] Log in            [ @ 6 ] Sign up
      [ @ 7 ]         Home                                                                                                                                                                                                                                             [ @ 22 ] Ask Question
                                                [ @ 21 ] Custom Jscript Event ALWAY returns" undefined" in GA4 / GTM / Debug
      [ @ 8 ] Q Questions                           any ideas
@@ -18,11 +18,11 @@
                                                   [ @ 33 ]                  function ( ){                                                                                                                                                  Launched
                                                                    [ 64 ]
                                                                             if ( window [ 40 ] .performance && [ 69 ] window.performance.getEntriesByType ){                                                                                [ @ 183 ] We're rolling back the
-     [ @ 14 ] LABS                                                                  var entries = window. performance [ 47 ]. [ 75 ] getEntriesByType ( [ 76 ]" navig                                                                      changes to the Acceptable Use Policy
+     [ @ 14 ] LABS                                                                  var entries = window.performance [ 47 ]. [ 75 ] getEntriesByType ( [ 76 ]" navig                                                                       changes to the Acceptable Use Policy
                                                                                     if ( entries. [ 78 ] length [ 51 ] > 0 ){                                                                                                              ( AUP )
                                                                                            var navTiming = entries [ [ 81 ] 0 ];
-     [ @ 15 ]          Discussions                                                                                                                                                                                                         [ 184 ] Temporary policy:
-                                                                                           var pageLoadTime = navTiming. [ 83 ] loadEvent End - navTiming.startTim
+     [ @ 15 ]          Discussions                                                                                                                                                                                                         [ @ 184 ] Temporary policy:
+                                                                                           var pageLoadTime = navTiming. [ 83 ] loadEventEnd - navTiming.startTim
                                                                                     [ 85 ] return [ 86 ] Math [ 58 ]. [ 87 ] round [ 59 ] ( ( ( pageLoadTime / [ 88 ] 1000 [ 6                                                             Generative Al ( e.g., ChatGPT ) is banned
      [ 16 ] TEAMS                                                                 }                                                                                                                                                        [ @ 185 ] Beta test for short survey in
                                                                            }                                                                                                                                                               banner ad slots starting on the week
@@ -43,7 +43,7 @@
                 free Team                                                                                                                                                                                                            and not when                            frontend bind www load balancer elasti
                                                                           [ 97 ] ps .. ive also used about 5 different scripts so i'm sure its not the script but                                                                                                                default_backend nginx pee
                                                                                                                                                                                                                                      you don't.
-        [ @ 20 ] Why Teams?                                              something either blocked or not switched on but console works fine with                                                                                                                             backend nginx pool
+        [ @ 20 ] Why Teams?                                              something either blocked or not switched on but console works fine with                                                                                                                             backend nginx_pool
                                                                                                                                                                                                                                                                                  balance roundrobin
                                                                         " window.performance.timing.load EventEnd -                                                                                                                                                              node server tep web1 192.168.1.10:
                                                                                                                                                                                                                                          Equinix Metal                           server web2 192.168.1.11.
@@ -67,10 +67,10 @@
                                                                                                                                                                                     Reece
                                                                                                                                                                                      [ 113 ] 1                                          [ @ 190 ] Are All French Liaisons Optional?
                                                                                                                                                                                 [ 114 ] New contributor                                [ @ 191 ] Halachicly sound ways to
-                                                                                                                                                                                                                                       bookmark on Shabbat.
+                                                                                                                                                                                                                                       bookmark on Shabbat
                                                                                                                                                                                                                                        [ @ 192 ] What happens if an MCU boosts its
                                                                                [ 115 ] The only reason this does not work is that [ 118 ] entries.length [ 116 ] is no                                                                 own supply voltage while running?
-                                                                               bigger than 0. I believe this may be an issue with support for the given entry type, could you                                                     ( [ @ 193 ] How to center a cell in the aligned
+                                                                               bigger than 0. I believe this may be an issue with support for the given entry type, could you                                                          [ @ 193 ] How to center a cell in the aligned
                                                                                provide the result of running                                                                                                                           environment?
                                                                                  [ 119 ] PerformanceObserver.supported EntryTypes [ 117 ] for us? some browsers
                                                                                have removed the support for Performance Observers, please look into                                                                                     [ @ 194 ] How Many Paint Tins Do I Need?
@@ -105,7 +105,7 @@
                                                                                                                                                                                                                                        Continuum Hypothesis that you can think of?
                                                [ 146 ] Your Answer
                                                                                                                                                                                                                                   ( [ @ 207 ] How to set up a sequence of clips
-                                                                                                                                                                                                                                       in TikZ with a loop?
+                                                                                                                                                                                                                                       in TiKZ with a loop?
                                                    BI &                                   M            13 1
                                                                                                                                                                                                                                        [ @ 208 ] Alternative to polling interrupt flag
                                                                                                                                                                                                                                        from main loop?
@@ -132,7 +132,7 @@
                                                      Post Your           have read and understand our [ @ 168 ] privacy policy [ 165 ] and [ @ 169 ] code of
                                                       Answer             conduct [ 166 ]
                                                [ 170 ] Browse other questions tagged [ @ 173 ] javascript                                                [ @ 174 ] google - analytics
-                                                 [ @ 175 ] google - tag - manager                 [ @ 176 ] google - analytics - 4              [ @ 177 ] cis         [ 171 ] or [ @ 178 ] ask your
+                                                 [ @ 175 ] google - tag - manager                 [ @ 176 ] google - analytics - 4              [ @ 177 ] cjs         [ 171 ] or [ @ 178 ] ask your
                                                own question [ 172 ].
       [ @ 215 ]
                      [ @ 216 ] STACK OVERFLOW                                              [ @ 219 ] PRODUCTS                                        [ @ 224 ] COMPANY                                                [ @ 234 ] STACK EXCHANGE NETWORK
@@ -148,6 +148,6 @@
                                                                                                                                                                                                                       [ @ 242 ] Data
                                                                                                                                                      [ @ 233 ] Cookie Policy
       [ @ 243 ] Blog          [ @ 244 ] Facebook             [ @ 245 ] Twitter          [ @ 246 ] LinkedIn           [ @ 247 ] Instagram
- [ 248 ] esign / logo © 2023 Stack Exchange Inc; user contributions licensed under [ @ 250 ] .CC BY - SA [ 249 ]. [ 251 ] rev 2023.11.27.1504
+ [ 248 ] esign / logo © 2023 Stack Exchange Inc; user contributions licensed under [ @ 250 ] CC BY - SA [ 249 ] [ 251 ] rev 2023.11.27.1504
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Token count: 2936

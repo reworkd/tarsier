@@ -4,7 +4,7 @@
                                                                                                                                                                      Esc
                                                           Project Assistant ( Boston )
                                                                                 [ 6 ] Boston, United States
-                                                                                   □ [ 7 ] TRENDING
+                                                                                   O [ 7 ] TRENDING
                                                                                 181 JOB DESCRIPTION
                                  [ 9 ] Proskauer is an exciting place to be right now. With over 800 lawyers in 12 offices around the globe, we are the law firm that
                                  clients turn to when a matter is complex, innovative and game - changing in the world of sports, health care, life sciences, media &
@@ -26,7 +26,7 @@
                                    [ 21 ] Facilitating communication between clients and third parties.
                                                                                 [ 22 ] QUALIFICATIONS
                                  • Recent college graduate with a B.A. or B.S. degree from a 4 - year college.
-                                . Academically accomplished with excellent organizational skills.
+                                 • Academically accomplished with excellent organizational skills.
                                    [ 25 ] Willing to make a two - year commitment.
                                 . [ 26 ] Available to work overtime when required, including evenings and weekends.
                                    [ 27 ] Ability to work well under pressure in a collaborative environment and handle multiple tasks efficiently.
@@ -45,6 +45,7 @@
                                  [ 41 ] Degree Level              [ 42 ] Bachelor's Degree
                                  [ 43 ] Job Schedule              [ 44 ] Full time
                                  [ 45 ] Locations                   [ 46 ] Boston
+                                                                                                                                                       194
                                   [ 128 ] New York, United States  [ 129 ] Posted on [ 130 ] 02/08/2023    [ 131 ] BE THE FIRST TO APPLY
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 780
+Token count: 784

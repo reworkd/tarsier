@@ -48,7 +48,7 @@
             [ 40 ] Nice To Have
                     [ 41 ] Experience in the development on Linux based systems
                     [ 42 ] Knowledge of one of the scripting languages, e.g.,                        Python, Go, shell script, or PHP
-                    [ 43 ] Experience in developing with RDBMs, e.g., MySQL
+                    [ 43 ] Experience in developing with RDBMS, e.g., MySQL
                     [ 44 ] Experience in cloud service, e.g., AWS
                     [ 45 ] Experience in Agile / Scrum development process or cloud computing
             [ 46 ] The Good Stuff
@@ -73,7 +73,7 @@
             Yahoo is dedicated to providing an accessible environment for all candidates during the application process
             and for employees during their employment. If you need accessibility assistance and / or a reasonable
             accommodation due to a disability, please submit a request via the Accommodation Request Form (
-             [ @ 62 ] [ 63 ] www.yahooinc.com/careers/contact-us.html [ [ 61 ] ) or call 408-336-1409. Requests and calls
+             [ @ 62 ] [ 63 ] www.yahooinc.com/careers/contact-us.html [ 61 ] ) or call 408-336-1409. Requests and calls
             received for non - disability related issues, such as following up on an application, will not receive a response.
             [ 64 ] Yahoo has a high degree of flexibility around employee location and hybrid working. In fact, our flexible
             hybrid approach to work is one of the things our employees rave about. Most roles don't require specific
@@ -88,4 +88,4 @@
                                                                                                                             workday
                                                                                                            [ 74 ]   2023 Workday, Inc. All rights reserved.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1536
+Token count: 1535

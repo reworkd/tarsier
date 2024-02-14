@@ -6,7 +6,7 @@
                       REPUBBLICA ITALIANA
            [ @ 3 ] Il Ministero  [ @ 24 ] Temi o [ @ 44 ] Destinatari     [ @ 98 ] Normativa e Studi     [ @ 107 ] Area Stampa
            [ @ 117 ] Amministrazione trasparente     [ @ 215 ] Contatti
-                                [ 2.19 ) Normativa del Ministero
+                                1219 ) Normativa del Ministero
                                 [ 220 ] Atti di istituzione del Ministero del turismo e attribuzioni degli
                                 Uffici
                                                                                                              [ 221 ] Anno 2023
@@ -60,7 +60,7 @@
                                 [ @ 262 ] Direttiva generale per l'azione amministrativa - anno 2023 emanata dal Ministro
                                 del Turismo il 22 febbraio 2023 ( prot.    n.  3582/23 )   [ 260 ] nelle more della
                                 registrazione della Corte dei Conti
-                                [ 261 ]  Allegato 1 - [ @ 263 ] Decreto di gestione unificata,  prot.  n.  1562 del
+                                [ 261 ] - Allegato 1 - [ @ 263 ] Decreto di gestione unificata,  prot.  n.  1562 del
                                 26/01/2023
                                                                                                               [ 264 ] Anno 2022
                                 [ @ 265 ] Direttiva generale per l'azione amministrativa - anno 2022 emanata dal Ministro
@@ -90,14 +90,14 @@
                                 settembre 2021, n. 1568;
                                 [ @ 282 ] Istituzione e compiti del Comitato permanente per la promozione del turismo
                                 [ 281 ] ai sensi del Decreto del Ministro del Turismo del 23 giugno 2021, n. 962;
-                                [ @ 284 ] [ 285 ]" Direttiva recante i criteri e le modalità per il conferimento degli incarichi
+                                [ @ 284 ] ] [ 285 ]" Direttiva recante i criteri e le modalità per il conferimento degli incarichi
                                 dirigenziali del Ministero del turismo"       [ 283 ] emanata con decreto del Ministro del
                                 turismo del 11 giugno 2021, n. 743
                                 [ @ 286 ] Linee guida editoriali per la gestione del portale istituzionale
                                 [ 287 ] Richiesta e concessione di patrocini
                                 [ 288 ]  Ministero del Turismo concede il         Patrocinio a titolo gratuito per eventi,
                                 manifestazioni, progetti e iniziative inerenti al tema turistico.
-                                [ 289 ] l requisiti per la concessione e le modalità di presentazione delle richieste sono
+                                [ 289 ] requisiti per la concessione e le modalità di presentazione delle richieste sono
                                 chiariti nel dettaglio nel vademecum della [ @ 291 ] procedura per patrocini       [ 290 ].
                                 [ 292 ] La richiesta di concessione di patrocinio può essere inviata
                                 [ 293 ] - Tramite email a: [ @ 297 ] segreteria.capogabinetto@ministeroturismo.gov.it
@@ -149,4 +149,4 @@
   [ $ 369 ]
    CO [ @ 368 ] Contatti
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 3359
+Token count: 3357

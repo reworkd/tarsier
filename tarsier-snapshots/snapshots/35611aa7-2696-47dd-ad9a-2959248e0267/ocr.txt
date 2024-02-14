@@ -11,7 +11,7 @@
             [ @ 19 ] Taxe sur la  [ @ 20 ] Impôt   [ @ 21 ] Impôt fédéral  [ @ 22 ] Contributions  [ @ 23 ] Droit fiscal  [ @ 24 ] L'AFC
             valeur ajoutée     anticipé            direct              fédérales          international
                     0                  0                   0                   0                                   0
-          [ @ 26 ] Administration fédérale des contributions AFC ☐ [ @ 27 ] Impôt fédéral direct IFD O [ @ 28 ] Informations spécialisées  [ 29 ] Circulaires
+          [ @ 26 ] Administration fédérale des contributions AFC  [ @ 27 ] Impôt fédéral direct IFD O [ @ 28 ] Informations spécialisées  [ 29 ] Circulaires
              [ @ 30 ] Impôt fédéral direct IFD                                                                                @ 229 ] Contact
                                                [ 40 ] Circulaires sur l'impôt fédéral                                        [
           [ @ 31 ] Informations spécialisées   direct IFD
@@ -92,7 +92,7 @@
                                                  [ @ 76 ] Circulaire no 37: Imposition des participations de collaborateur ( PDF,
                                                413 kB, 10.10.2023 )
                                                [ 77 ] Version actualisée de la circulaire << Imposition des participations de
-                                               collaborateur >> du 30.10.2020 ( Impôt fédéral direct )
+                                               collaborateur » du 30.10.2020 ( Impôt fédéral direct )
                                                  [ @ 78 ] Circulaire no 37 Annexe V: Modèles d'attestation électroniques ( PDF,
                                                847 kB, 10.10.2023 )
                                                [ 79 ] Modèles d'attestation électroniques ( Impôts fédéral direct )
@@ -101,10 +101,10 @@
                                                [ 81 ] Traitement fiscal des participations de collaborateur auprès de l'employeur
                                                du 04.05.2018 ( Impôt fédéral direct )
                                                  [ @ 82 ] Circulaire no 37: Imposition des participations de collaborateur ( PDF,
-                                               316 KB, 10.10.2023 )
+                                               316 kB, 10.10.2023 )
                                                [ 83 ] Imposition des participations de collaborateur du 22.07.2013 ( Impôt fédéral
                                                direct )
-                                                 [ @ 84 ] Circulaire no 37 Annexe 1: Vue d'ensemble des participations de
+                                                 [ @ 84 ] Circulaire no 37 Annexe I: Vue d'ensemble des participations de
                                                collaborateur ( PDF, 25 kB, 04.10.2022 )
                                                 [ 85 ] Vue d'ensemble des participations de collaborateur du 22.07.2013 ( Impôt
                                                fédéral direct )
@@ -154,9 +154,9 @@
                                                ( Impôt fédéral direct, impôt anticipé et droit de timbre )
                                                  [ @ 111 ] Circulaire no 29: KEP ancien droit comptable ( PDF, 355 kB,
                                                10.10.2023 )
-                                               [ 112 ] Principe de l'apport de capitall - ancien droit comptable du 09.12.2010
+                                               [ 112 ] Principe de l'apport de capitall- ancien droit comptable du 09.12.2010
                                                ( Impôt fédéral direct et impôt anticipé )
-                                                 [ @ 113 ] ] Circulaire no 28: Imposition des bénéfices de liquidation ( PDF, 522
+                                                 [ @ 113 ] Circulaire no 28: Imposition des bénéfices de liquidation ( PDF, 522
                                                kB, 10.10.2023 )
                                                 [ 114 ] Imposition des bénéfices de liquidation en cas de cessation définitive de
                                                l'activité lucrative indépendante du 03.11.2010 ( Impôt fédéral direct )
@@ -222,13 +222,13 @@
                                                 [ 147 ] Obligations et instruments financiers dérivés en tant qu'objets de l'impôt
                                                fédéral direct, de l'impôt anticipé et des droits de timbre du 03.10.2017 ( Impôt
                                                fédéral direct, impôt anticipé et droit de timbre )
-                                                [ 148 ] -Annexe I: Aperçu des différents genres d'obligations, des instruments
+                                                [ 148 ] - Annexe I: Aperçu des différents genres d'obligations, des instruments
                                                financiers dérivés les plus courants et des produits combinés traités dans la
                                                circulaire
                                                [ 149 ] - Annexe II: Exemples
                                                 [ 150 ] - Annexe III: Cas spéciaux et évolution des produits; état au 11.02.2009
                                                [ 151 ] - Annexe IV: Avis de la Commission Fiscalité et Questions financières de
-                                               I'Association suisse des banquiers de novembre 2006
+                                               l'Association suisse des banquiers de novembre 2006
                                                  [ @ 152 ] Circulaire no 14: Liquidation partielle indirecte ( PDF, 239 kB,
                                                10.10.2023 )
                                                [ 153 ] Vente de droits de participation de la fortune privée à la fortune
@@ -263,7 +263,7 @@
                                                10.10.2023 )
                                                 [ 169 ] Imposition des sociétés de services du 19.03.2004 ( Impôt fédéral direct et
                                                impôt anticipé )
-                                                [ 170 ] -Texte anglais voir au verso
+                                                [ 170 ] - Texte anglais voir au verso
                                                   [ @ 171 ] W03-001F du 03.10.2002 ( PDF, 169 kB, 10.10.2023 )
                                                [ 172 ] Les indemnités de départ et les versements de capitaux de l'employeur
                                                 [ 173 ] - Annexe exemples 1 - 6
@@ -277,11 +277,11 @@
                                                modification du 23 mars 2001
                                                [ 180 ] ( S'applique uniquement aux situations jusqu'au 31.12.2019 )
                                                   [ @ 181 ] W99-005F du 19.08.1999 ( PDF, 414 kB, 10.10.2023 )
-                                                [ 182 ] Réforme 1997 de l'imposition des sociétés -Nouvelle réglementation de
+                                                [ 182 ] Réforme 1997 de l'imposition des sociétés - Nouvelle réglementation de
                                                l'acquisition des propres droits de participation
                                                 [ 183 ] - Représentation schématique de la solution de la problématique de
                                                l'effet rétroactif de l'art. 70a LIA en relation avec l'art. 4a LIA
-                                               [ 184 ]  Form. 103/110
+                                               [ 184 ] - Form. 103/110
                                                   [ @ 185 ] W97-006F du 06.06.1997 ( PDF, 142 kB, 10.10.2023 )
                                                [ 186 ] Capital propre dissimulé de sociétés de capitaux et de sociétés
                                                coopératives ( art. 65 et 75 LIFD )
@@ -289,7 +289,7 @@
                                                [ 188 ] La perception de l'impôt fédéral direct
                                                 [ 189 ] - Ordonnance du 10 décembre 1992 sur l'échéance et les intérêts en
                                                matière d'impôt fédéral direct ( RS 642.124; RO 1993, 717 )
-                                               [ 190 ] -Appendices des 29.11.1994 et 7.12.1995 à l'ordonnance
+                                               [ 190 ] - Appendices des 29.11.1994 et 7.12.1995 à l'ordonnance
                                                susmentionnée, avec les taux d'intérêt pour les années civiles 1995 ( RO 1994,
                                                2786 ) et 1996 ( RO 1995,  5460 )
                                                  [ @ 191 ] W95-026F du 22.09.1995 ( PDF, 20 kB, 10.10.2023 )
@@ -298,7 +298,7 @@
                                                [ 193 ] - Ordonnance du 10.2.1993 sur la déduction des frais professionnels des
                                                personnes exerçant une activité lucrative dépendante en matière d'impôt fédéral
                                                direct ( RS 642.118.1; RO 1993, 1363 )
-                                                [ 194 ] -Appendice du 29.6.1994 à l'ordonnance ci - dessus, avec déductions
+                                                [ 194 ] - Appendice du 29.6.1994 à l'ordonnance ci - dessus, avec déductions
                                                forfaitaires pour les années de calcul 1993 à 96 ( RO 1994, 1673 )
                                                  [ @ 195 ] W95-024F du 30.06.1995 ( PDF, 26 kB, 10.10.2023 )
                                                [ 196 ] Assurances de capitaux à primes uniques
@@ -320,7 +320,7 @@
                                                  [ @ 207 ] W95-003F du 25.11.1992 ( PDF, 213 kB, 10.10.2023 )
                                                [ 208 ] Innovations apportés dans le traitement fiscal de l'agriculture et de la
                                                sylviculture par la LIFD
-                                               [ 209 ] - Notice A / 1993
+                                               [ 209 ]  Notice A / 1993
                                                 [ 210 ] - Notice B / 1993
                                                  [ @ 211 ] W95-002F du 12.11.1992 ( PDF, 25 kB, 10.10.2023 )
                                                [ 212 ] Revenus provenant de l'activité lucrative indépendante selon l'article 18
@@ -339,7 +339,7 @@
                                                 [ @ 221 ] Division Droit
                                                 [ 222 ] Administration fédérale des contributions AFC
                                                [ 223 ] Division principale DAT
-                                                [ 224 ] ] Eigerstrasse 65
+                                                [ 224 ] Eigerstrasse 65
                                                [ 225 ] 3003 Berne
                                                [ 226 ] Dernière modification 05.12.2023          [ @ 227 ] Début de la page
             [ 242 ] Taxe sur la valeur ajoutée TVA  [ 247 ] Impôt anticipé           [ 252 ] Impôt fédéral direct         [ 257 ] Droit fiscal international
@@ -352,7 +352,7 @@
                                                                                                                           CbCR
                                                                                                                           [ @ 261 ] Assistance admin. et entraide
                                                                                                                           judiciaire
-            [ 262 ] Contributions fédérales      [ 266 ] Politique fiscale           [ 271 ] ] Statistiques fiscales      [ 276 ] L'AFC
+            [ 262 ] Contributions fédérales      [ 266 ] Politique fiscale           [ 271 ] Statistiques fiscales        [ 276 ] L'AFC
             [ @ 263 ] Taxe d'exemption de l'obligation  [ @ 267 ] Projets législatifs en cours  @ 272 ] Statistiques fiscales générales  @ 277 ] Notre profil
            de servir                             [ @ 268 ] Thèmes politique fiscale  [ @ 273 ] Charges fiscales en Suisse  [ @ 278 ] Offres d'emploi à l'AFC
             [ @ 264 ] Droits de timbre          [ @ 269 ] Publications politique fiscale  [ @ 274 ] Coefficients, déductions et  [ @ 279 ] Médias et actualités
@@ -363,4 +363,4 @@
             [ @ 283 ] LinkedIn
           [ 284 ] Administration fédérale des contributions AFC                                             [ @ 285 ] Conditions d'utilisation  @ 286 ] Impressum
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 7918
+Token count: 7912

@@ -121,7 +121,7 @@ About                                                SAVED           [ $ 10 ]
              connected classrooms, online courses and
              learning boards.
               [ @ 106 ] LEARN MORE                                              [ @ 109 ] LEARN MORE                                               [ @ 112 ] LEARN MORE
-         [ 113 ] Learn more about Accenture
+         ( 113 ) Learn more about Accenture
           [ 114 ] Our more than 733,000 people in more than 120 countries, combine unmatched experience and
          specialized skills across more than 40 industries. We embrace the power of change to create value and
          shared success for our clients, people, shareholders, partners and communities.
@@ -139,9 +139,9 @@ About                                                SAVED           [ $ 10 ]
              driven team players.                                              who work here.                                                     exciting and rewarding opportunities await.
               [ @ 126 ] SEARCH ACCENTURE JOBS                                   [ @ 129 ] READ CAREERS BLOG                                        [ @ 132 ] REGISTER FOR JOB ALERTS
           [ @ 133 ]
-                            [ @ 134 ] ABOUT US              [   135 ] CONTACT US             [ @ 136 ] ALUMNI                [ @ 137 ] PRIVACY
+                            [ @ 134 ] ABOUT US              [ @ 135 ] CONTACT US             [ @ 136 ] ALUMNI                [ @ 137 ] PRIVACY
                                                                                                                             STATEMENT                                                           [ @ 142 ]
-          [ @ 143 ] Recruiting and Hiring Privacy Statement  [ @ 144 ]. Terms & Conditions  [ @ 145 ] Cookie Policy    [ @ 146 ] Accessibility Statement  [ @ 147 ] Sitemap
+          [ @ 143 ] Recruiting and Hiring Privacy Statement  [ @ 144 ] Terms & Conditions  [ @ 145 ] Cookie Policy     [ @ 146 ] Accessibility Statement  [ @ 147 ] Sitemap
       [ 153 ] Welcome to accenture.com! In order to provide a more relevant experience for you, we use cookies to enable some website functionality. Cookies help
       us see which articles most interest you; allow you to easily share articles on social media; permit us to deliver content, jobs and ads tailored to your interests  > [ $ 158 ] Cookies Settings       [ $ 159 ]
       and locations; and provide many other site benefits. For more information, please review our [ @ 156 ] Cookies Policy [ 154 ] and [ @ 157 ] Privacy

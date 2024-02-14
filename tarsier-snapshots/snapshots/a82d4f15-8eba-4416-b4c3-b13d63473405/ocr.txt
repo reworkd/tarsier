@@ -110,7 +110,7 @@
          [ @ 133 ] info@nerc.gov.ng        [ @ 140 ] Petitions, Hearings & Dispute  [ @ 146 ] Report an accident
                                            Resolution                         [ @ 147 ] Energy Saving tips
          [ 134 ] Mail: [ @ 135 ]
-                                                                              [ @ 148 ] FAQS
+                                                                              [ @ 148 ] FAQs
                                                                                                                         [ @ 327 ]    [ @ 328 ]
 ---------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1756
+Token count: 1755

@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ ⁰ ]                                                                                                                                                                   [ # 1 ]
-                                                        [ @ 2 ] PEOPLE       [ @ 3 ] PRACTICES        [ @ 4 ] INSIGHTS          [ @ 5 ] CAREERS □         [ @ 6 ] ABOUT O
+                                                        [ @ 2 ] PEOPLE       [ @ 3 ] PRACTICES        [ @ 4 ] INSIGHTS          [ @ 5 ] CAREERS           [ @ 6 ] ABOUT O
    GIBSON DUNN
                                                                                  [ @ 7 ] Biography
                                                                [ 10 ] CONTACT INFO                                          [ 23 ] PRACTICE
@@ -34,7 +34,7 @@
            [ 32 ] * Nicholas is not an attorney and is not admitted to practice law.
                 [ @ 33 ] SITEMAP     [ @ 34 ] CLIENT EXTRANET      [ @ 35 ] TERMS OF USE AND LEGAL NOTICES       [ @ 36 ] PRIVACY STATEMENT      [ @ 37 ] COOKIE NOTICE
                                                                                   [ @ 38 ] CONTACT US
-                                          [ 39 ] Ⓒ 2023 Gibson, Dunn & Crutcher LLP. All rights reserved. For contact and other information, please visit us at gibsondunn.com.
+                                          [ 39 ] © 2023 Gibson, Dunn & Crutcher LLP. All rights reserved. For contact and other information, please visit us at gibsondunn.com.
       [ 44 ] Gibson Dunn uses cookies which are essential for our website to function. With your consent, we  [ @ 4 @ 47 ] third parties [ 45 ] may also use
      non - essential cookies to collect information about your browsing activities, and improve the contractionality  ce  of our website .  By
            "        "           to the    all                 as set out                 Not  [ @ 4ª¹1  @  @ 4pce
@@ -42,4 +42,4 @@
      cookies by clicking" Reject All". Choose" Manage Cookies" to view and customize your cookie  ings.  21  3 ]
      [ @ 49 ] Manage Cookies      [ @ 50 ] ACCEPT ALL        [ @ 51 ] REJECT ALL
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1023
+Token count: 1019

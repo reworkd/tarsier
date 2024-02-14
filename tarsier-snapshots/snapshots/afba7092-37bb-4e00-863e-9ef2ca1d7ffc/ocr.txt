@@ -1,20 +1,20 @@
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 1 ] WHITE & CASE                      [ @ 2 ] People             [ @ 3 ] Services             [ @ 4 ] Our Thinking             [ @ 5 ] About Us             [ @ 6 ] Join Us
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 1 ] WHITE & CASE                      [ @ 2 ] People             [ @ 3 ] Services            [ @ 4 ] Our Thinking             [ @ 5 ] About Us             [ @ 6 ] Join Us
      [ @ 7 ] Home    [ 8 ] Careers
   [ 9 ] Welcome. You are not signed in.
  [ @ 10 ] ount Options
-  Ivy Job Cart [ 12 ] ] [ @ 13 ] Sign In
+  Ivy Job Cart [ 12 ] [ @ 13 ] Sign In
       [ 14 ] Job Search         [ @ 15 ] My Jobpage
     [ 16 ] Basic Search [ 17 ]
-    [ @ 19 ] Return to the home page                                                                                                                        [ @ 20 ] Printable Format
+    [ @ 19 ] Return to the home page                                                                                                                       [ @ 20 ] Printable Format
    [ $ 21 ] Online   [ $ 22 ] D My Job Cart
-    [ 24 ] Associate: International Trade - Americas                                                                                                  [ 91 ] Refer a friend for this
-                                                                                                                                                     job
-    [ 25 ] Firm Summary                                                                                                                               [ 92 ] Tell us about a friend who
-                                                                                                                                                      might be interested in this job. All
-                                                                                                                                                      privacy rights will be protected.
+    [ 24 ] Associate: International Trade - Americas                                                                                                [ 91 ] Refer a friend for this
+                                                                                                                                                    job
+    [ 25 ] Firm Summary                                                                                                                             [ 92 ] Tell us about a friend who
+                                                                                                                                                    might be interested in this job. All
+                                                                                                                                                    privacy rights will be protected.
     [ 26 ] White & Case is an elite global law firm serving leading companies, financial institutions and governments worldwide. Our long history as an
-    international firm means we are perfectly placed to help our clients resolve their most complex legal challenges wherever they may be.            [ @ 93 ] Refer a friend
+    international firm means we are perfectly placed to help our clients resolve their most complex legal challenges wherever they may be.          [ @ 93 ] Refer a friend
     [ 27 ] With lawyers and staff operating from more than 47 locations, working in virtually every country of the world, we have invested heavily in building a
     high - quality full - service practice competing at the top of the market. We are distinguished by our on - the - ground presence in the world's key financial markets
     and our strengths in handling complex cross - border work.
@@ -39,7 +39,7 @@
    globally, bringing specialist knowledge to high - stakes matters concerning the full spectrum of goods and services. Recognized as one of the leading firms in
    this field, we are trusted by sovereign governments, major multinationals and leading corporations to handle their most challenging and high - stakes
     regulatory, litigation, investigative,  and advisory matters.
-    [ 36 ] From the moment you join us, you will be working with  and learning from leading practitioners within our group, and interacting directly with our
+    [ 36 ] From the moment you join us, you will be working with  and learning from - leading practitioners within our group, and interacting directly with our
     international clients, often at the client site. Our International Trade Group has a respectful and professional working environment, and the partners and senior
    lawyers place a strong emphasis on professional development through a hands - on approach.
     [ 37 ] Typical tasks for associates range from drafting and editing documents, legal and factual research, and preparing client information for presentation to
@@ -47,7 +47,7 @@
     niche specialisms, which can lead to more advanced responsibilities, even at an early stage. The work can be demanding, but is always rewarding - both in
    terms of the learning opportunities and the excitement of working on large - scale,  high - stakes matters in jurisdictions across the world.
     [ 38 ] Duties and Accountabilities [ 39 ] 1
-   . [ 40 ] Advise clients on a variety of regulatory matters, including compliance with export controls administered by the US Department of Commerce's
+    • [ 40 ] Advise clients on a variety of regulatory matters, including compliance with export controls administered by the US Department of Commerce's
        Bureau of Industry and Security ( BIS ) and the US State Department's Directorate of Defense Trade Controls ( DDTC ).
     • Advise on export classifications.
        Obtain CCATS and / or Commodity Jurisdictions ( CJs ).
@@ -81,7 +81,7 @@
        Strong judgment
        Proactive, resourceful, takes initiative
        Long - term interest in business law
-   . Fluency in English
+    • Fluency in English
     • International experience a plus
        [ 72 ] Good understanding of the key risks and issues involved in cross - border transactions
     [ 73 ] Location & Reporting
@@ -95,13 +95,13 @@
     [ 79 ] The Firm may modify and amend any job description at any time in its sole discretion. Nothing herein creates a contract of employment or otherwise modifies the at - will nature of
     employment.
     [ 81 ] ¹ [ 80 ] The above is only a general description of the essential duties associated with this position and does not represent an exhaustive or comprehensive list of all duties.
-    [ 82 ] Primary Location [ 83 ]: [ 84 ] United States - Washington D.C.
-    [ 85 ] Expected Workplace [ 86 ]: [ 87 ] Hybrid
-    [ 88 ] Job Posting [ 89 ]: [ 90 ] Dec 6, 2023, 6:45:36 AM
-     Apply Online      Add to My Job Cart
+    [ 82 ] Primary Location [ 83 ] [ 84 ] United States - Washington D.C.
+    [ 85 ] Expected Workplace [ 86 ]  [ 87 ] Hybrid
+    [ 88 ] Job Posting [ 89 ]  [ 90 ] Dec 6, 2023, 6:45:36 AM
+     Apply Online     Add to My Job Cart
    [ $ 94 ]          [ $ 95 ]
-     [ @ 96 ] Contact   [ @ 97 ] Subscribe  [ @ 98 ] Legal   [ @ 99 ] Remote Access  [ 100 ] White & Case LLP 1996-2015 | [ 101 ] Attorney Advertising. Prior results do not guarantee a similar outcome.
-                                                                                                                                                                         f in                g +
-                                                                                                                                                                                        [ @ 106 ]
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1968
+     [ @ 96 ] Contact   [ @ 97 ] Subscribe  [ @ 98 ] Legal   [ @ 99 ] Remote Access  [ 100 ] White & Case LLP 1996-2015  [ 101 ] Attorney Advertising. Prior results do not guarantee a similar outcome.
+                                                                                                                                                                        f in               g +
+                                                                                                                                                                                      [ @ 106 ]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1966

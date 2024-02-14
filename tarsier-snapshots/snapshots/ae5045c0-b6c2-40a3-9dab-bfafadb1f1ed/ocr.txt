@@ -22,7 +22,7 @@
     [ @ 24 ] 434.924.5227
    [ 25 ] Location hours:
        [ 26 ] Monday: 7:15 AM - 5:00 PM
-   . [ 27 ] Tuesday: 7:15 AM - 5:00 PM
+    • [ 27 ] Tuesday: 7:15 AM - 5:00 PM
        [ 28 ] Wednesday: 7:15 AM - 5:00 PM
        [ 29 ] Thursday: 7:15 AM - 5:00 PM
     • [ 30 ] Friday: 7:15 AM - 5:00 PM
@@ -45,17 +45,17 @@
    accepting new patients: [ @ 62 ] UVA Medical Associates of Louisa [ 58 ],                     [ @ 63 ] UVA Primary and Specialty.
    Care Pantops [ 59 ], and [ @ 64 ] UVA Primary Care Riverside [ 60 ].
    [ 65 ] Clinics at This Location
-    [ @ 66 ] Primary and Specialty Care Zion Crossroads                     [ @ 68 ] UVA Zion Crossroads Pharmacy.
+    [ @ 66 ] Primary and Specialty Care Zion Crossroads                     [ @ 68 ] UVA Zion Crossroads Pharmacy
     [ @ 67 ] UVA Imaging Zion Crossroads
             UVAHealth
                      [ 69 ] 1215 Lee Street                               [ 72 ] UVA HEALTH                            [ 78 ] COMMUNITY                                  [ 84 ] PATIENTS & VISITORS
-                     [ 70 ] Charlottesville, VA 22903                            ] About Us                                           a Job I Careers                                       a Patient
+                     [ 70 ] Charlottesville, VA 22903                            ] About Us                                           a Job | Careers                                       a Patient
                                                                           [ @ 73                                       [ @ 79 ] Find                                     [ @ 85 ] Contact
                      d [ @ 71 ] Map & Directions                          [ @ 74 ] Clinical Trials                     [ @ 80 ] Donate                                   [ @ 86 ] Give Feedback
                                                                           [ @ 75 ] News                                [ @ 81 ] Volunteer                                [ @ 87 ] Medical Records
                                                                           [ @ 76 ] Services                            [ @ 82 ] Patient Referrals                        [ @ 88 ] Pay your Bill
                                                                           [ @ 77 ] Quality & Safety                    [ @ 83 ] Request Privileges                       [ @ 89 ] Getting Financial Assistance
-   cj 1f
+   cj1f
     [ @ 98 ] Patient Rights & Policies      [ 99 ]   [ @ 100 ] Web Privacy [ 101 ]          [ @ 102 ] Report Accessibility Barrier [ 103 ] |
  [ 104 ] 23 Rector and Visitors of the University of Virginia.
    [ @ 105 ]                                       [ @ 106 ]                                                [ @ 107 ]                                               [ @ 108 ]
@@ -63,4 +63,4 @@
    [ @ 109 ]                                               [ @ 110 ]                                                                                                       [ $ 113 ] ACCEPT
                        [ $ 112 ] Read our privacy policy.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1150
+Token count: 1149

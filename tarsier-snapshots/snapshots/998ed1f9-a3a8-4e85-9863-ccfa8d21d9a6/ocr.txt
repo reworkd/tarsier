@@ -47,7 +47,7 @@
                                                             COC TSCA                    Others
                                                             CoC CEPA                     Capacitors
                                                             [ @ 85 ] Recommended        - Inductors
-                                                            Solder Profiles             [ @ 96 ] -Varistors
+                                                            Solder Profiles             [ @ 96 ] - Varistors
                                                             [ @ 86 ] Terms of Use
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Token count: 941

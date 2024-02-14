@@ -7,7 +7,7 @@
             Search by Name
              Practice                                [ $ 13 ]        [ 14 ] Industry                         [ $ 15 ]       [ 16 ] Office                           [ $ 17 ]
              Title                                   [ $ 19 ]        [ 20 ] School                           [ $ 21 ]
-     [ 22 ] RESULTS [ 25 ] 1 [ 23 ]  [ 26 ] 20 [ 24 ] OF [ 27 ] 3,705
+     [ 22 ] RESULTS [ 25 ]   [ 23 ]  [ 26 ] 20 [ 24 ] OF [ 27 ] 3,705
        Manuel ( Manny ) A. Abascal                                                                Douglas Abernethy
                                                      [ @ 28 ] [ 29 ] Manuel                                                                     [ @ 34 ] [ 35 ] Douglas
                                                     ( Manny ) A. Abascal                                                                       Abernethy
@@ -41,7 +41,7 @@
                                                      [ 68 ] salman.al-sudairi@lw.com                                                            [ 74 ] mary.rose.alexander@lw.com
                                                      [ 69 ] +966.11.207.2515                                                                    [ 75 ] +1.312.876.7672
        Owen J.D. Alexander                                                                        Joe Alexander
-                                                     [ @ 76 ] ] [ 77 ] Owen J.D.
+                                                     [ @ 76 ] [ 77 ] Owen J.D.
                                                                                                                                                 [ @ 82 ] [ 83 ] Joe Alexander
                                                     Alexander
                                                                                                                                                 [ 84 ] Partner
@@ -51,14 +51,14 @@
                                                      [ 80 ] owen.alexander@lw.com                                                               [ 87 ] +1.212.906.1261
                                                      [ 81 ] +1.312.876.7654
        Stuart Alford KC                                                                           Nineveh Alkhas
-                                                     [ @ 88 ] [ 89 ] Stuart Alford                                                              [ @ 94 ] ] [ 95 ] Nineveh
+                                                     [ @ 88 ] [ 89 ] Stuart Alford                                                              [ @ 94 ] [ 95 ] Nineveh
                                                      KC                                                                                        Alkhas
                                                      [ 90 ] Partner                                                                             [ 96 ] Partner
                                                      [ 91 ] London                                                                              [ 97 ]  Chicago
                                                      [ 92 ]  stuart.alford.kc@lw.com                                                            [ 98 ]  nineveh.alkhas@lw.com
                                                      [ 93 ] +44.20.7710.4502                                                                    [ 99 ] +1.312.876.7724
        David S. Allinson                                                                          José María Alonso
-                                                     [ @ 100 ] [ 101 ] David S.                                                                 [ @ 106 ] ] [ 107 ] José María
+                                                     [ @ 100 ] [ 101 ] David S.                                                                 [ @ 106 ] [ 107 ] José María
                                                     Allinson                                                                                   Alonso
                                                      [ 102 ] Partner                                                                            [ 108 ] Partner
                                                      [ 103 ] New York                                                                           [ 109 ] Madrid
@@ -66,7 +66,7 @@
                                                      [ 105 ] +1.212.906.1749                                                                    [ 111 ] +34.91.791.5113
        Marissa Alter - Nelson                                                                     Carlos Alvarez
                                                      [ @ 112 ] [ 113 ] Marissa
-                                                                                                                                                [ @ 118 ] ] [ 119 ] Carlos
+                                                                                                                                                [ @ 118 ] [ 119 ] Carlos
                                                     Alter - Nelson
                                                                                                                                                Alvarez
                                                      [ 114 ] Partner
@@ -91,7 +91,7 @@
                                                      [ 129 ] +1.212.906.1706
                                                                                                                                                 [ 135 ] +1.213.891.7809
        Nathaniel Amory                                                                            Michael V. Anastasio
-                                                     [ @ 136 ] [ 137 ] Nathaniel                                                                [ @ 142 ] ] [ 143 ] Michael V.
+                                                     [ @ 136 ] [ 137 ] Nathaniel                                                                [ @ 142 ] [ 143 ] Michael V.
                                                     Amory                                                                                      Anastasio
                                                      [ 138 ] Partner                                                                            [ 144 ] Partner
                                                      [ 1391 Boston                                                                              [ 145 ] New York
@@ -101,18 +101,18 @@
                       [ $ 149 ] 2   [ $ 150 ] 3   [              [ $ 152 ] 5
         [ @ 155 ] SUBSCRIBE
           [ @ 156 ] NEWSROOM            [ @ 157 ] OFFICES        [ @ 158 ] MEDIA CONTACTS              [ @ 159 ] ABOUT US          [ @ 160 ] ALUMNI        [ @ 161 ] CAREERS
-     [ @ 1621     @ 1631      @ 164 ]    [ @ 165 ]   @ 1661
+     [ @ 1621     @ 1631      @ 164 ]    [ @ 165 ]  [ @ 1661
        [ 204 ] The Cookies We Use
  [ 1   [ 205 ] Latham & Watkins uses cookies which are essential for the operation of our website. We would
        also like to use analytics cookies to help us understand how visitors use our site so we can continue to  73 ] Chicago,  [ @ 174 ] Dubai,  [ @ 175 ] Düsseldorf,  [ @ 176 ] Frankfurt,
        improve it, but we will only do so with your consent. We use a cookie to remember your preferences.  es, [ @ 182 ] Los Angeles GSO,  [ @ 183 ] Madrid,  [ @ 184 ] Manchester GSO,
        You can access and change your preferences at any time by clicking on the gear icon.
         [ @ 206 ] Cookie                                                                                 190 ] Riyadh,  [ @ 191 ] San Diego,  [ @ 192 ] San Francisco,  [ @ 193 ] Seoul,
-                         Policy
+                         Policy.
                                                                                                          ngton, D.C.
        [ $ 209 ] Cookies Settings
                                                               [ $ 208 ] ACCEPT ALL COOKIES
                                                                                                          rivacy   [ @ 202 ] Scam Warning    [ @ 203 ] Attorney Advertising & Terms of Use
                                                                [ $ 207 ] REJECT ALL COOKIES
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1948
+Token count: 1943

@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 71                               MASAAR                      COMMUNITY
-   [ @ ⁰ ]          الطبيـة دبـي مدينة               [ @ 1 ] PATIENT      [ @ 2 ] BUSINESS       [ @ 3 ] PROFESSIONAL         [ @ 4 ] REGULATIONS  MANO   [ @ 5 ] ABOUT        [ @ 6 ] AR              [ $ 8 ]          [ @ ]      LOGIN        [ @ 10 ]      DIRECTORY          [ @ 11 ]
+   [ @ ⁰ ]          الطبيـة دبـي مدينة               [ @ 1 ] PATIENT      [ @ 2 ] BUSINESS       [ @ 3 ] PROFESSIONAL         [ @ 4 ] REGULATIONS  MANO   [ @ 5 ] ABOUT        [ @ 6 ] AR              [ $ 8 ]          [ @ ⁹ ]    LOGIN        [ @ 10 ]      DIRECTORY          [ @ 11 ]
                     Dubai Healthcare City
                                                                                             MEPLNE
                [ 12 ]  Regulations
@@ -24,7 +24,7 @@
                                                                   ▶  [ @ 33 ] DHCA - Regulations Visa Policy - Business ...
                                                                   ▶   [ @ 34 ] Labor Dispute Process Map
                                                                       [ @ 35 ] Anti - Money Laundering and ...
-                                                                      [ @ 36 ] DHCA - Regulations Commercial Permit ...
+                                                                      [ @ 36 ] DHCA- Regulations Commercial Permit ...
                                                                   ▶    @ 37 ] DHCA - Regulations HSE Contractors Policy ...
                                                                       [ @ 38 ] DHCA - Regulations HSE Food Safety Policy
                                                                   ▶   [ @ 39 ] Healtd, Safety & ...
@@ -68,7 +68,7 @@
                                                                   ▶   [ @ 77 ] Licensure Requirements for Nursing Guidance for Applicants
                                                                   ▶   [ @ 78 ] Standards for Procedural Sedation and Analgesia
                                                                   ▶    @ 79 ] DHCA - Regulations Requirements for Short - Term Physician Licensure
-                                                                  ▶   [ @ 80 ] DHCA- Regulations Pharmacy Standards
+                                                                  ▶   [ @ 80 ] DHCA - Regulations Pharmacy Standards
                                                                       [ @ 81 ] DHCA - Regulations Standards for Non - Surgical Cosmetic Procedures
                                                                   ▶   [ @ 82 ] Standards for Licensed Home Healthcare Services
                                                                       [ @ 83 ] Standards for Outpatient Surgical Clinics
@@ -121,7 +121,7 @@
                                                                      طبية لوسيلة -السلامة
                                                                   ▶   [ @ 127 ] IMBRUVICA1 -1 -
                                                                   ▶   [ @ 128 ] Salburamol - Medpharma 6952
-                                                                  ▶   [ @ 129 ]      - Saizen® 8 mg ml
+                                                                  ▶   [ @ 129 ]      -Saizen® 8 mg ml
                                                                   ▶   ] @ 130 [ الطبي المنتج من تشغيله سحب - الطبية  للوسائل السلامة تقارير Vertebroplasty -  needle - kit 1
                                                                       [ @ 131 ] Baxter Renal Care Products Lots Recall -
                                                                       [ @ 132 ]                         Omiz Plus 20 40mg Capsule
@@ -172,7 +172,7 @@
                                                                   ▶    @ 176 ] Circular 1222
                                                                       [ @ 177 ] SCD TO POM LIST 20-01-2020
                                                                       ] @ 178 [ المراقبة شبه الأدوية  تصنيف اعادة 2019 لسنة 1019 رقم و ق
-                                                                      [ @ 179 ] ] Dubai Municipality_Provisional Guidelines related to Food Safety Management in Dubai_Arabic
+                                                                      [ @ 179 ] Dubai Municipality_Provisional Guidelines related to Food Safety Management in Dubai_Arabic
                                                                   ▶   [ @ 180 ] National Guidelines for Clinical Management and Treatment of COVID - 19_English
                                                                       [ @ 181 ] Dubai Municipality_Temporarily Closure of Restaurants and Cafes in Dubai_billingual
                                                                       [ @ 182 ] Dubai Municipality_Provisional Guidelines related to Food Safety Management in Dubai_English
@@ -251,7 +251,7 @@
                                                                   ▶    @ 255 ] dolutegravir
                                                                       [ @ 256 ] JM103 andJM105 Jaundice Meters Draeger Medical Systems
                                                                   ▶   [ @ 257 ] Accu - Check Aviva, Accu - Check Performa and Accu - Check Inform II Test Strips - Roche Diabetes Care
-                                                                  ▶   [ @ 258 ] EIF - 000256- Various Arrow Products - Arrow International CO Telefelx Medical
+                                                                  ▶   [ @ 258 ] EIF - 000256 - Various Arrow Products - Arrow International CO Telefelx Medical
                                                                   ▶   [ @ 259 ] Co - Tritace 5-12.5 mg Tablet - Sanofi
                                                                   ▶   [ @ 260 ] Coral AMT Neck Trials Sugrical Instruments - DePuv Synthes
                                                                   ▶   [ @ 261 ] Claradone Ointment - Modern Pharmaceutical
@@ -272,7 +272,7 @@
                                                                       [ @ 275 ] HSE Adverse Weather
                                                                        @ 276 ] MAJESTIC HERBAL
                                                                   ▶   [ @ 277 ] Golden Bull Don Viga
-                                                                      [ @ 278 ] Yalan Cream- Slimming Body Capsule Plus - Hao Meng Specific Wipe off Flec
+                                                                      [ @ 278 ] Yalan Cream- Slimming Body Capsule Plus- Hao Meng Specific Wipe off Flec
                                                                   ▶   [ @ 279 ] Philips Volcano1
                                                                   ▶    @ 280 ] Rawinnip1
                                                                       [ @ 281 ] Becton.pd1
@@ -295,7 +295,7 @@
                                                                   ▶   [ @ 298 ] Amgen2
                                                                       [ @ 299 ] Amgen
                                                                   ▶   [ @ 300 ] Requirement of Contractor Pre - Qualification Certificate
-                                                                  ▶   [ @ 301 ] DHCA- Regulations - Notice - MOH - Circulars - Recall - of - Nine - Products
+                                                                  ▶   [ @ 301 ] DHCA - Regulations - Notice - MOH - Circulars - Recall - of - Nine - Products
                                                                   ▶   [ @ 302 ] Lactlis International
                                                                        @ 303 ] Updated Building Code for Guardrails for Accessible elevated areas and Openable Windows
                                                                   ▶   [ @ 304 ] RERA NOC Submission
@@ -400,7 +400,7 @@
       [ 403 ] LATEST NEWS
                                   REHAB Awareness & WELLNESS Semin SEASON                                                                                           WEL ONE
                                                                                                                                                 now no
-                                                                                       Dubal Healthau Cy Eszkzīg_skip
+                                                                                       Dubal Healthcare Cky Eszteīn_skip
        [ $ 444 ]                                                                                                                                                                                           [ $ 445 ]
                [ 418 ] Friday, Oct 13, 2023                                   [ 420 ] Tuesday, Oct 10, 2023                                  [ 422 ] Thursday, Aug 31, 2023
                [ 419 ] DUBAI HEALTHCARE CITY                                  [ 421 ] DUBAI HEALTHCARE CITY LAUNCHES                         [ 423 ] DUBAI HEALTHCARE CITY BRINGS
@@ -418,6 +418,6 @@
                                                         [ @ 465 ] C37
                                                         [ @ 466 ] DHCX
                                                         [ @ 467 ] Society
-      [ @ 481 ]                                       [ 477 ] Ⓒ Dubai Healthcare City 2023   |   [ @ 478 ] Terms & Conditions      |   [ @ 479 ] Privacy Policy                                  [ $ 480 ]
+      [ @ 481 ]                                       [ 477 ] © Dubai Healthcare City 2023   |   [ @ 478 ] Terms & Conditions      |   [ @ 479 ] Privacy Policy                                  [ $ 480 ]
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 8536
+Token count: 8535

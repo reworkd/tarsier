@@ -48,7 +48,7 @@
                               Clark Wright
                  [ @ 50 ]
                  [ 51 ] Data Quality Score: The next chapter of data quality at Airbnb
-                 [ 52 ] Nov 28 [ [ 53 ]  [ 54 ] 9 min read
+                 [ 52 ] Nov 28 [ 53 ]  [ 54 ] 9 min read
         [ 55 ]   [ @ 56 ]                   [ 58 ] in [ @ 59 ]
                                [ @ 57 ]              The Taoist Online
                               Luka Bönisch
@@ -184,7 +184,7 @@
        What We're Reading: Are you busy or are you productive?
                                                                      [ @ 247 ]
                                                     [ @ 246 ]
-        [ 243 ] Nov 25 [ 244 ]   [ [ 245 ] 4 min read What Were Reading
+        [ 243 ] Nov 25 [ 244 ]    [ 245 ] 4 min read What Were Reading
                                         Holly Pettit                               [ @ 260 ]
         [ @ 249 ]                        [ 251 ] in [ @ 252 ]
           Age of Empathy                                                             Why Non - Traditional Thanksgivings Can
@@ -219,4 +219,4 @@
         [ 287 ] Nov 15 [ 288 ]    [ 289 ] 9 min read                 +            [ @ 292 ]
                                                      Technology
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2847
+Token count: 2845

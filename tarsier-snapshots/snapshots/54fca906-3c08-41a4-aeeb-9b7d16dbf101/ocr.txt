@@ -9,7 +9,7 @@
                                        [ 12 ] - [ 13 ] Jeff Bezos
                                        [ 14 ]" Intelligence is the efficiency in which you turn a sampling of experie  sinto
                                        generalized programs."
-                                       [ 15 ] [ 16 ] François Chollet
+                                       [ 15 ] - [ 16 ] François Chollet
                                     [ @ 17 ] Back
 ----------------------------------------------------------------------------------------------------------
-Token count: 189
+Token count: 190

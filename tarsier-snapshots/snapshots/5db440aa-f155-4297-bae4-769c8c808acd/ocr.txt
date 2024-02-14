@@ -105,10 +105,10 @@
                                                                                                                             [ @ 166 ] Shop for Veterans
                                                                                                                             and Military                     [ @ 182 ] Contact Apple
                           [ 183 ] More ways to shop: [ @ 186 ] Find an Apple Store [ 184 ] or [ @ 187 ] other retailer [ 185 ] near you. [ [ 188 ] Or call 1-800 - MY - APPLE.
-                                                                                 Privacy Policy                                                                       [ @ 189 ] United States
-                          [ 190 ] ] Copyright © 2023 Apple Inc. All rights reserved.  Terms of Use
+                          [ 190 ] Copyright © 2023 Apple Inc. All rights reserved.  Privacy Policy                                                                    [ @ 189 ] United States
+                                                                                  Terms of Use
                                                                                  Sales and Refunds
                                                                                   Legal
                                                                                   [ @ 195 ] Site Map
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2278
+Token count: 2277
