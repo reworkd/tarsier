@@ -1,7 +1,7 @@
 Min tokens: 3
-Max tokens: 15164
-Average tokens: 1833.7115384615386
-Median tokens: 1324.5
-p50: 1324.5
-p90: 3297.5
-p99: 8707.61000000001
+Max tokens: 15023
+Average tokens: 1814.6754716981131
+Median tokens: 1311
+p50: 1311.0
+p90: 3205.2
+p99: 8659.400000000007

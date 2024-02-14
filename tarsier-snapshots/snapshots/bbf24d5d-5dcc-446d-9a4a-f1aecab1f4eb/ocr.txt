@@ -1,17 +1,17 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-[ 0 ]  Ministry          of Defence
-                        يعلمهم الله تعلمونهم لا دونهم من وآخرين وعدوكم الله عدو به ترهبون الخيل رباط ومن قوة من استطعتم ما لهم وأعدوا
-       [ @ 1 ] Home  [ @ 2 ] About Us  [ @ 3 ] Legislation  [ @ 4 ] Projects  [ @ 5 ] Media Center  [ @ 6 ] Careers  [ @ 7 ] Public Notice
-       [ @ 8 ] Maps of Pakistan  [ @ 9 ] Contact Us  [ @ 10 ] Employees Welfare
-                                                                       [ 11 ] ACTS
-          [ 12 ] S #             [ 13 ] NAME                                                 [ 14 ] CLICK TO DOWNLOAD
-                 [ 15 ] 1       [ 16 ] Cantonement Act                                                            [ @ 17 ] Download
-                 [ 18 ] 2       [ 19 ] PAF Act 1953                                                               [ @ 20 ] Download
-                 [ 21 ] 3       [ 22 ] PAF Act Amendment 2017                                                      [ @ 23 ] Download
-                 [ 24 ] 4       [ 25 ] Pak Army Act 1952                                                          [ @ 26 ] Download
-                 [ 27 ] 5       [ 28 ] Pak Navy Act 1961                                                          [ @ 29 ] Download
-                 [ 30 ] 6       [ 31 ] PMSA Act 1994                                                              [ @ 32 ] Download
-                 [ 33 ]         [ 34 ] Survey & Mapping Act                                                       [ @ 35 ] Download
-                                            [ 36 ] © 2023, Designed & Developed by National Information Technology Board. All Rights Reserved
+**[ 0 ] Ministry of Defence**
+                       **يعلمهم الله تعلمونهم لا دونهم من وآخرين وعدوكم الله عدو به ترهبون الخيل رباط ومن قوة من استطعتم ما لهم وأعدوا**
+      [ @ 1 ] Home [ @ 2 ] About Us  [ @ 3 ] Legislation [ @ 4 ] Projects [ @ 5 ] Media Center [ @ 6 ] Careers [ @ 7 ] Public Notice
+      [ @ 8 ] Maps of Pakistan [ @ 9 ] Contact Us [ @ 10 ] Employees Welfare
+                                                                      [ 11 ] ACTS
+         [ 12 ] S #             [ 13 ] NAME                                                 [ 14 ] CLICK TO DOWNLOAD
+                [ 15 ] 1       [ 16 ] Cantonement Act                                                            [ @ 17 ] Download
+                [ 18 ] 2       [ 19 ] PAF Act 1953                                                               [ @ 20 ] Download
+                [ 21 ] 3       [ 22 ] PAF Act Amendment 2017                                                      [ @ 23 ] Download
+                [ 24 ] 4       [ 25 ] Pak Army Act 1952                                                          [ @ 26 ] Download
+                [ 27 ] 5       [ 28 ] Pak Navy Act 1961                                                          [ @ 29 ] Download
+                [ 30 ] 6       [ 31 ] PMSA Act 1994                                                              [ @ 32 ] Download
+                [ 33 ]         [ 34 ] Survey & Mapping Act                                                       [ @ 35 ] Download
+                                           [ 36 ] © 2023, Designed & Developed by National Information Technology Board. All Rights Reserved
 ----------------------------------------------------------------------------------------------------------------------------------
-Token count: 408
+Token count: 401

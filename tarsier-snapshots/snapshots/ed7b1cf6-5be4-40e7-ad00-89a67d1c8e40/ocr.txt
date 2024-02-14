@@ -1,91 +1,91 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 0 ]
-                                                                                                                                                                                      MENU          [ $ 1 ] =
-             Health
-    [ 21 ]   Montgomery
-    Building
-    [ @ 22 ] 9275 Montgomery Road
-    Cincinnati, OH 45242
-    [ @ 23 ]  513-936-4510
-       [ 24 ] UC Health Montgomery Building is centrally located on Montgomery
-       Road, with easy access to providers and parking. Home to a wide range of
-       healthcare services, our providers offer evidence - based care that's tailored to
-       you.
-    Montgomery Building Map
-          [ 26 ] Montgomery Building                                           Sam's Club
-                                                                         Springdale                                                        Highpoint         Loveland Castle Museum                   145
-          [ 27 ] 9275 Montgomery Road                                                                                                                  71           COMMERCE
-                                                                                                                                                                      PARK
-          [ 28 ] Cincinnati, OH 45242                                                                          Sharon Woods                275                                              255
-                                                                                   Glendale                                                            Sixteen
-                                                                                                                                                      Mile Stand                     Loveland
-          [ @ 29 ] 513-936-4510                                                                             Sharonville
-                                                                            Glenwood Gardens                                                                                STONY BROOK
-          [ @ 30 ] Get Directions                                                                          Evendale
-                                                                                 Woodlawn                               Summit Park                                            Epworth
-                                                                                         Lincoln                                                                               Heights
-                                                                                         Heights                                                ( 22 )
-                                                                                               75                                                               Lake                  Kroger
-                                                                                   Wyoming                                    Blue Ash                               Isabella
-                                                                                                                                        Momery Remington
-                                                                                                Reading                      ( 126         [ $ 32
-                                                                                          75                                               ( 22 )               ( 126
-                                                                                                                                   Kenwood                         Miamivillet
-                                                                                 ( 126 )                              Deer Park
-                                                                                            ( 42      Amberley
-                                                                                                                                                                                                        Mt Repos
-                                                                                                      French Park                                                  Scene75 Entertainment.
-                                                                                                                   Silverton          Madeira                           Center | Cincinnati     Mulberry
-                                                                         Elmwood                                                                                                              ( 28 )  Miami Mea
-                                                                           Place                     Kenwood Country Club
-                                                                                            561
-                                                                             75                                                               Indian Hill
-                                                                                                                                                                        Milford Lila Ave    ( 131 )       [ $ 33
-                                                                                                 ( 22 )                                                                                               Day
-                                                                          pard                                                                                                                             $ 34
-                                                                          [ @ 35 ]       Norwood       71                                                                                   50           [
-                                                                                                                     MADISONVILLE                              Terrace Park
-                                                                                                       OAKLEY     [ $ 361 Keyboard shortcuts  [ 371 Map data © 2023 Google  [ @ 381 Terms  @ 391 Report a mad error
-                                                                                                                                                                                 @ 40 ] See All Locations >
- [ 41 ] RACTICES
-       [ 42 ] Chiropractic                                [ 44 ] Digestive Diseases                          [ 47 ] Endocrinology, Diabetes &                    [ 49 ] General Internal Medicine
-      [ 43 ] Suite 250                                    [ 45 ] Suite 100                                   Metabolism                                          [ 50 ] Suite 200
-                                                          [ @ 46 ] 513-475-7505                              [ 48 ] Suite 100                                    [ @ 51 ] 513-936-4510
-      [ 52 ] Heart Care                                   [ 55 ] Lab Services                                [ 58 ] Nephrology                                   [ @ 61 ] Orthopaedics & Sports
-       [ 53 ] Suite 100                                   [ 56 ] Suite 150                                   [ 59 ] Suite 100                                   Medicine
-       [ @ 54 ] 513-475-8521                              [ @ 57 ] 513-936-4568                              [ @ 60 ] 513-475-8525                               [ 62 ] Suite 100
-                                                                                                                                                                 [ @ 63 ] 513-475-8690
-       [ @ 64 ] Orthopaedics & Sports                     [ 67 ] Primary Care                                [ 70 ] Pulmonary
-      Medicine                                            [ [ 68 ] Suite 200                                 [ 71 ] Suite 100
-      [ 65 ] Suite 300                                    [ @ 69 ] 513-936-4510
-      [ @ 66 ] 513-475-8690
-                                                                          [ 72 ] <<      [ 73 ]        [ 74 ] 1      [ 75 ]       [ 76 ]
-                                                                                          [ 77 ] CONTACT US
-  [ 78 ] At UC Health, we lead the region in scientific discoveries and embrace a spirit of purpose – offering our patients and their families something beyond everyday
-                                                                                 healthcare. At UC Health, we offer hope.
-                                                                                                      [ @ 79 ]
-                                                                                        For more information, call:
-                                                                                                  513-936-4510
-                                                                                               [ $ 80 ] Back to Top
-      UC Health                                                                                                                                 [ @ 87 ]      [ @ 88 ]      [ @ 89 ]      [ @ 90 ]      [ @ 91 ]
-                                                                                                                                                Faceb         Instag        Linkec        Twitte        You Tu
-    [ @ 81 ] Employees & Staff
-    [ @ 82 ] Joint Commission Accreditation
-    [ @ 83 ] Leadership
-    [ @ 84 ] Supplier Diversity & Community Engagement
-    [ @ 85 ] UC Health Code of Conduct
-    [ @ 86 ] UC Health Foundation
-    [ 97 ] © 2023 UC Health.        All rights reserved.                 [ @ 92 ] Privacy        [ @ 93 ] Terms &          [ @ 94 ] Notice of              [ @ 95 ] Non                   [ @ 96 ] Advertising
-                                                                         Policy                  Conditions                Privacy Practices               Discrimination                 Disclosure
-                                                                                                                                                          Policy
- Welcome to UC Health
- How can we help you?
-    • Hi there! I'm UC Health's virtual assistant, and I can help answer your questions. Ask me anything in the text box, or you can choose from one of the options below to
-       get started.UC Health
- If you think you have a medical emergency, please call 911 immediately or go to your nearest ER facility.
- Ask your question
- here ...
-  OReset Conversation       Download Transcript
- Welcome to UC Health.         Can I help answer something for you?
+                                                                                                                                                                                     MENU [ $ 1 ] =
+            **Health**
+   [ 21 ]   **Montgomery**
+   **Building**
+   [ @ 22 ] 9275 Montgomery Road
+   Cincinnati, OH 45242
+   [ @ 23 ] 513-936-4510
+      [ 24 ] UC Health Montgomery Building is centrally located on Montgomery
+      Road, with easy access to providers and parking. Home to a wide range of
+      healthcare services, our providers offer evidence - based care that's tailored to
+      you.
+   **Montgomery Building Map**
+         [ 26 ] Montgomery Building                                           Sam's Club
+                                                                        Springdale                                                        Highpoint         Loveland Castle Museum                   145
+         [ 27 ] 9275 Montgomery Road                                                                                                                  71           COMMERCE
+                                                                                                                                                                     PARK
+         [ 28 ] Cincinnati, OH 45242                                                                          Sharon Woods                275                                              255
+                                                                                  Glendale                                                            Sixteen
+                                                                                                                                                     Mile Stand                     Loveland
+         [ @ 29 ] 513-936-4510                                                                             Sharonville
+                                                                           Glenwood Gardens                                                                                STONY BROOK
+         [ @ 30 ] Get Directions                                                                          Evendale
+                                                                                Woodlawn                               Summit Park                                            Epworth
+                                                                                        Lincoln                                                                               Heights
+                                                                                        Heights                                                ( 22 )
+                                                                                              75                                                               Lake                  Kroger
+                                                                                  Wyoming                                    Blue Ash                               Isabella
+                                                                                                                                       Momery Remington
+                                                                                               Reading                      ( 126         [ $ 32
+                                                                                         75                                               ( 22 )               ( 126
+                                                                                                                                  Kenwood                         Miamivillet
+                                                                                ( 126 )                              Deer Park
+                                                                                           ( 42      Amberley
+                                                                                                                                                                                                       Mt Repos
+                                                                                                     French Park                                                  Scene75 Entertainment.
+                                                                                                                  Silverton          Madeira                           Center | Cincinnati     Mulberry
+                                                                        Elmwood                                                                                                              ( 28 )  Miami Mea
+                                                                          Place                     Kenwood Country Club
+                                                                                           561
+                                                                            75                                                               Indian Hill
+                                                                                                                                                                       Milford Lila Ave    ( 131 )       [ $ 33
+                                                                                                ( 22 )                                                                                               Day
+                                                                         pard                                                                                                                             $ 34
+                                                                         [ @ 35 ]       Norwood       71                                                                                   50           [
+                                                                                                                    MADISONVILLE                              Terrace Park
+                                                                                                      OAKLEY     [ $ 361 Keyboard shortcuts [ 371 Map data © 2023 Google [ @ 381 Terms  @ 391 Report a mad error
+                                                                                                                                                                                @ 40 ] See All Locations >
+[ 41 ] RACTICES
+      [ 42 ] Chiropractic                                [ 44 ] Digestive Diseases                          [ 47 ] Endocrinology, Diabetes &                    [ 49 ] General Internal Medicine
+     [ 43 ] Suite 250                                    [ 45 ] Suite 100                                   Metabolism                                          [ 50 ] Suite 200
+                                                         [ @ 46 ] 513-475-7505                              [ 48 ] Suite 100                                    [ @ 51 ] 513-936-4510
+     [ 52 ] Heart Care                                   [ 55 ] Lab Services                                [ 58 ] Nephrology                                   [ @ 61 ] Orthopaedics & Sports
+      [ 53 ] Suite 100                                   [ 56 ] Suite 150                                   [ 59 ] Suite 100                                   Medicine
+      [ @ 54 ] 513-475-8521                              [ @ 57 ] 513-936-4568                              [ @ 60 ] 513-475-8525                               [ 62 ] Suite 100
+                                                                                                                                                                [ @ 63 ] 513-475-8690
+      [ @ 64 ] Orthopaedics & Sports                     [ 67 ] Primary Care                                [ 70 ] Pulmonary
+     Medicine                                            [ [ 68 ] Suite 200                                 [ 71 ] Suite 100
+     [ 65 ] Suite 300                                    [ @ 69 ] 513-936-4510
+     [ @ 66 ] 513-475-8690
+                                                                         [ 72 ] <<      [ 73 ]        [ 74 ] 1      [ 75 ]       [ 76 ]
+                                                                                         [ 77 ] CONTACT US
+ [ 78 ] At UC Health, we lead the region in scientific discoveries and embrace a spirit of purpose – offering our patients and their families something beyond everyday
+                                                                                healthcare. At UC Health, we offer hope.
+                                                                                                     [ @ 79 ]
+                                                                                       For more information, call:
+                                                                                                 513-936-4510
+                                                                                              [ $ 80 ] Back to Top
+     UC Health                                                                                                                                 [ @ 87 ]      [ @ 88 ]      [ @ 89 ]      [ @ 90 ]      [ @ 91 ]
+                                                                                                                                               Faceb         Instag        Linkec        Twitte        You Tu
+   [ @ 81 ] Employees & Staff
+   [ @ 82 ] Joint Commission Accreditation
+   [ @ 83 ] Leadership
+   [ @ 84 ] Supplier Diversity & Community Engagement
+   [ @ 85 ] UC Health Code of Conduct
+   [ @ 86 ] UC Health Foundation
+   [ 97 ] © 2023 UC Health.        All rights reserved.                 [ @ 92 ] Privacy        [ @ 93 ] Terms &          [ @ 94 ] Notice of              [ @ 95 ] Non                   [ @ 96 ] Advertising
+                                                                        Policy                  Conditions                Privacy Practices               Discrimination                 Disclosure
+                                                                                                                                                         Policy
+Welcome to UC Health
+How can we help you?
+   • Hi there! I'm UC Health's virtual assistant, and I can help answer your questions. Ask me anything in the text box, or you can choose from one of the options below to
+      get started.UC Health
+If you think you have a medical emergency, please call 911 immediately or go to your nearest ER facility.
+Ask your question
+here ...
+ OReset Conversation       Download Transcript
+Welcome to UC Health.         Can I help answer something for you?
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1259
+Token count: 1258

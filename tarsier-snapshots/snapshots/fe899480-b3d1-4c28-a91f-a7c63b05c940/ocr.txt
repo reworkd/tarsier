@@ -1,62 +1,62 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 0 ]
-      Excela Health
-                                                             [ @ 1 ] Pay Bill       [ @ 2 ] Contact Us          [ @ 3 ] Careers         [ @ 4 ] About Us        [ $ 6 ] arch                           [ @ 7 ] 877-771-1234
-                                           [ @ 8 ] Find a Doctor           [ @ 9 ] Locations          [ @ 10 ] Services          [ @ 38 ] Patients & Visitors             [ @ 59 ] Patient Portal           [ @ 60 ] Giving
-      [ 61 ] Our             Locations
-              [ $ 63 ] Search Locations                                            [ $ 65 ] Category                                                     [ $ 67 ] Services
-             [ # 64 ]                                                             [ $ 66 ]                All Categories                                [ $ 68 ]                 All Services
-                                                                         Q
-                Search Term
-                                                                                                                                                                                            [ @ 69 ] Clear Filters
-                                                                                                             Tarentum                Vandergrift                                       ( 422 )
-                                                                                                                                                                                                      ( 422 )
-                                                                               [ $ 84                         New                      Apollo           ( 156 )
-      [ 70 ] Blairsville Medical Park                                                                      Kensington
-      [ 71 ] Outpatient Facilities, Laboratory & Imaging,                      [ $ 84                                                                [ $ 840 ]           ( 286 )          Homer City ( 56 )
-     Primary Care
-                                                                            279                                 Plum                                                                       Graceton
-      [ 72 ] 56 Club Lane                                                             ( 28 )                                                         Saltsburg
-                                                                            ocks                    Penn Hills       [ $ 8411                                                           Black Lick    ( 259 )
-      [ 73 ] Blairsville, PA 15717
-       @ 74 ]                                                                                                                                                                                 ( 22 )    ( 22 ) Armagh
-      [        877-771-1234                                                 ittsburgh                   376                                             [ $ 839 ]             Blair  [ 831 ] 7                  56
-                                                                                                        Monroeville Murrysville                                     ( 119 )   300                              Seward.
-      [ @ 75 ] More information                                                         Homestead                                  [ 837 ]                                                   Bolivar
-                                                                                                                                                        Alexandria
-                                                                                                                                                             ( 981 )                                New Florence
-                                                                                             West Mifflin                                                                                   ( 259     ( 711
-                                                                                              McKeesport
-                                                                              Park                                             Jeannette                                   Derry                                         Johnstown
-      [ 76 ] Excela Advanced Pain Center -                                                                          [ 834 ] 1                                  Latrobe                                                       V
-                                                                            ( 88 )                                              30
-     Excela Square at Frick                                                                                                         66 [ 835 ] 33rg                                                                       Elim
-      [ 77 ] Specialty Office or Clinic                                                                                                                     [ 833 ] 29                                               ( 985 )
-                                                                                                                                                                                30
-                                                                                                                                           ( 819 )             ( 982 )
-       78 ] 508 South Church Street                                                                                                                                              [ 838 ]
-      [                                                                                                                        New Stanton           ( 981                                                              Davidsville
-      [ 79 ] Suite 200                                                                                                          Hunker                                                                                   Hollsopple
-      [ 80 ] Mount Pleasant,      PA 15666                                                                                                                      ( 130
-     [ @ 81 ] 724-542-1937                                                                     ( 837 )                          Ruffs Dale          76                     ( 711 )
-                                                                                                               Smithton                                                       ( 381 )                        Boswell
-                                                                                      ( 481 )  Monessen  70                        981 [ 832 ] 1st                                                                        Hooversvil
-     [ @ 82 ] More information                                                               Belle Vernon                                                                                               ( 985 )
-                                                                             entleyville                                                                                                                        ( 219 )  30
-                                                                                                                                                               Donegal                                                Stoystown
-                                                                                             ( 43 )                                Scottdale
-                                                                                                             Perryopolis
-                                                                                           California                                                             Champion
-                                                                                                                                                         ( 1009 )            Hidden Valley
-      [ 83 ] Excela Advanced Pain Center -                                                                                                                                                                       Friedens
-                                                                                           Brownsville                             [ 836 ] e                            Seven Springs                           Listie      Shanksvil
-     Excela Square at Latrobe                                                 Vestaburg                                                                                                               Somerset
-      [ 84 ] Specialty Office or Clinic                                      redericktown                                                            Normalville
-                                                                                                                                 Dunbar
-      [ 85 ] 100 Excela Health Drive                                                                                                                 Mill Run                                                                  ( 31 )
-                                                                                                                                                                            ( 653 )                          ( 219 )
-      [ 86 ] Suite 103                                                        [ @ 844 ]
-                                                                                                                     ( 119 )                                                                                            Berlin
-      [ 87 ] Latrobe, PA 15650                                                         r $ 8451 Keyboard shortcuts  [ 8461 Map data © 2023 Google [ $ 8471 184815                      @ 8491 Terms       @ 8501 Report a mag error
+     **Excela Health**
+                                                            [ @ 1 ] Pay Bill       [ @ 2 ] Contact Us          [ @ 3 ] Careers         [ @ 4 ] About Us        [ $ 6 ] arch                           [ @ 7 ] 877-771-1234
+                                          [ @ 8 ] Find a Doctor           [ @ 9 ] Locations          [ @ 10 ] Services          [ @ 38 ] Patients & Visitors             [ @ 59 ] Patient Portal           [ @ 60 ] Giving
+     **[ 61 ] Our Locations**
+             [ $ 63 ] Search Locations                                            [ $ 65 ] Category                                                     [ $ 67 ] Services
+            [ # 64 ]                                                             [ $ 66 ]                All Categories                                [ $ 68 ]                 All Services
+                                                                        Q
+               Search Term
+                                                                                                                                                                                           [ @ 69 ] Clear Filters
+                                                                                                            Tarentum                Vandergrift                                       ( 422 )
+                                                                                                                                                                                                     ( 422 )
+                                                                              [ $ 84                         New                      Apollo           ( 156 )
+     [ 70 ] Blairsville Medical Park                                                                      Kensington
+     [ 71 ] Outpatient Facilities, Laboratory & Imaging,                      [ $ 84                                                                [ $ 840 ]           ( 286 )          Homer City ( 56 )
+    Primary Care
+                                                                           279                                 Plum                                                                       Graceton
+     [ 72 ] 56 Club Lane                                                             ( 28 )                                                         Saltsburg
+                                                                           ocks                    Penn Hills       [ $ 8411                                                           Black Lick    ( 259 )
+     [ 73 ] Blairsville, PA 15717
+      @ 74 ]                                                                                                                                                                                 ( 22 )    ( 22 ) Armagh
+     [        877-771-1234                                                 ittsburgh                   376                                             [ $ 839 ]             Blair [ 831 ] 7                   56
+                                                                                                       Monroeville Murrysville                                     ( 119 )   300                              Seward.
+     [ @ 75 ] More information                                                         Homestead                                  [ 837 ]                                                   Bolivar
+                                                                                                                                                       Alexandria
+                                                                                                                                                            ( 981 )                                New Florence
+                                                                                            West Mifflin                                                                                   ( 259     ( 711
+                                                                                             McKeesport
+                                                                             Park                                             Jeannette                                   Derry                                         Johnstown
+     [ 76 ] Excela Advanced Pain Center -                                                                          [ 834 ] 1                                  Latrobe                                                       V
+                                                                           ( 88 )                                              30
+    Excela Square at Frick                                                                                                         66 [ 835 ] 33rg                                                                       Elim
+     [ 77 ] Specialty Office or Clinic                                                                                                                     [ 833 ] 29                                               ( 985 )
+                                                                                                                                                                               30
+                                                                                                                                          ( 819 )             ( 982 )
+      78 ] 508 South Church Street                                                                                                                                              [ 838 ]
+     [                                                                                                                        New Stanton           ( 981                                                              Davidsville
+     [ 79 ] Suite 200                                                                                                          Hunker                                                                                   Hollsopple
+     [ 80 ] Mount Pleasant,      PA 15666                                                                                                                      ( 130
+    [ @ 81 ] 724-542-1937                                                                     ( 837 )                          Ruffs Dale          76                     ( 711 )
+                                                                                                              Smithton                                                       ( 381 )                        Boswell
+                                                                                     ( 481 ) Monessen   70                        981 [ 832 ] 1st                                                                        Hooversvil
+    [ @ 82 ] More information                                                               Belle Vernon                                                                                               ( 985 )
+                                                                            entleyville                                                                                                                        ( 219 ) 30
+                                                                                                                                                              Donegal                                                Stoystown
+                                                                                            ( 43 )                                Scottdale
+                                                                                                            Perryopolis
+                                                                                          California                                                             Champion
+                                                                                                                                                        ( 1009 )            Hidden Valley
+     [ 83 ] Excela Advanced Pain Center -                                                                                                                                                                       Friedens
+                                                                                          Brownsville                             [ 836 ] e                            Seven Springs                           Listie      Shanksvil
+    Excela Square at Latrobe                                                 Vestaburg                                                                                                               Somerset
+     [ 84 ] Specialty Office or Clinic                                      redericktown                                                            Normalville
+                                                                                                                                Dunbar
+     [ 85 ] 100 Excela Health Drive                                                                                                                 Mill Run                                                                  ( 31 )
+                                                                                                                                                                           ( 653 )                          ( 219 )
+     [ 86 ] Suite 103                                                        [ @ 844 ]
+                                                                                                                    ( 119 )                                                                                            Berlin
+     [ 87 ] Latrobe, PA 15650                                                         r $ 8451 Keyboard shortcuts [ 8461 Map data © 2023 Google [ $ 8471 184815                       @ 8491 Terms       @ 8501 Report a mag error
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 975
+Token count: 971

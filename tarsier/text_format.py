@@ -1,6 +1,8 @@
-import math
+import statistics
 from collections import defaultdict
 from typing import Dict, List
+
+import math
 
 from tarsier.ocr import ImageAnnotatorResponse
 from tarsier.ocr.types import ImageAnnotation
@@ -137,17 +139,17 @@ def group_words_in_sentence(
         if len(current_group) == 0:
             current_group.append(annotation)
             continue
-
+        padding = 2
         character_width = (
             current_group[-1]["width"] / len(current_group[-1]["text"])
-        ) * 2  # Additional padding
+        ) * padding  # Additional padding
         is_single_character_away = annotation["midpoint"][0] <= (
             (current_group[-1]["midpoint"][0] + current_group[-1]["width"])
             + character_width
         )
 
         if (
-            abs(annotation["height"] - current_group[0]["height"]) < 3
+            abs(annotation["height"] - current_group[0]["height"]) <= 4
             and is_single_character_away
         ):
             current_group.append(annotation)
@@ -167,11 +169,17 @@ def group_words_in_sentence(
 def create_grouped_annotation(group: List[ImageAnnotation]) -> ImageAnnotation:
     # For the text, don't put a space if it is a period or a comma or a quote
     text = ""
+
     for word in group:
         if word["text"] in [".", ",", '"', "'", ":", ";", "!", "?", "{", "}", "’", "”"]:
             text += word["text"]
         else:
-            text += " " + word["text"]
+            text += " " + word["text"] if text != "" else word["text"]
+
+    # Test that the 'word' is longer than 1 character and contains alphabetical or numerical characters
+    is_word = any(char.isalnum() for char in text)
+    if is_word and statistics.median([word["height"] for word in group]) > 25:
+        text = "**" + text + "**"
 
     return {
         "text": text,
