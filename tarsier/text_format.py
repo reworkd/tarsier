@@ -56,10 +56,12 @@ def format_text(ocr_text: ImageAnnotatorResponse) -> str:
                     max(
                         (
                             max(
-                                len(annotation["text"])
-                                / (1 - annotation["midpoint_normalized"][0])
-                                if annotation["midpoint_normalized"][0] != 1
-                                else len(annotation["text"])
+                                (
+                                    len(annotation["text"])
+                                    / (1 - annotation["midpoint_normalized"][0])
+                                    if annotation["midpoint_normalized"][0] != 1
+                                    else len(annotation["text"])
+                                )
                                 for annotation in line
                             )
                             for line in line_cluster.values()
