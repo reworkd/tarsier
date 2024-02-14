@@ -187,10 +187,10 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
     }
   }
 
-  // ignore all children of interactable elements
+  // ignore all descendants of interactable elements
   allElements.map((el) => {
     if (isInteractable(el)) {
-      el.childNodes.forEach((child) => {
+      el.querySelectorAll("*").forEach((child) => {
         const index = allElements.indexOf(child as HTMLElement);
         if (index > -1) {
           allElements.splice(index, 1);

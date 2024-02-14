@@ -12,6 +12,7 @@ playwright = "^1.41.1"
 python-dotenv = "^1.0.1"
 tarsier = { path = "../", develop = true }
 numpy = "^1.26.3"
+tiktoken = "^0.6.0"
 
 
 [build-system]
