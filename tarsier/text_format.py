@@ -1,8 +1,7 @@
+import math
 import statistics
 from collections import defaultdict
 from typing import Dict, List
-
-import math
 
 from tarsier.ocr import ImageAnnotatorResponse
 from tarsier.ocr.types import ImageAnnotation
