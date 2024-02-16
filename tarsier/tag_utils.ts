@@ -190,9 +190,18 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
   // ignore all descendants of interactable elements
   allElements.map((el) => {
     if (isInteractable(el)) {
-      el.querySelectorAll("*").forEach((child) => {
+      // Remove all direct children
+      el.childNodes.forEach((child) => {
         const index = allElements.indexOf(child as HTMLElement);
         if (index > -1) {
+          allElements.splice(index, 1);
+        }
+      });
+
+      // Remove all interactable sub children
+      el.querySelectorAll("*").forEach((child) => {
+        const index = allElements.indexOf(child as HTMLElement);
+        if (index > -1 && isInteractable(child as HTMLElement)) {
           allElements.splice(index, 1);
         }
       });
@@ -247,7 +256,6 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
   }
 
   absolutelyPositionMissingTags();
-  removeCollidingTags()
   return idToXpath;
 };
 
@@ -293,41 +301,6 @@ function absolutelyPositionMissingTags() {
       document.body.appendChild(tag);
     }
   });
-}
-
-function removeCollidingTags() {
-  const tags = Array.from(document.querySelectorAll(tarsierSelector));
-  const tagsToDelete: Set<Element> = new Set();
-
-  // Iterate through each tag. Compare with all other tags to see if there is an overlap and should be deleted
-  tags.forEach((tag, index) => {
-    if (tagsToDelete.has(tag)) {
-      return;
-    }
-
-    const tagRect = tag.getBoundingClientRect();
-
-    for(let i = 0; i < tags.length; i++) {
-      if (i === index || tagsToDelete.has(tags[i])) {
-        continue;
-      }
-
-      const otherTag = tags[i];
-      const otherTagRect = otherTag.getBoundingClientRect();
-
-      const isOverlapping = !(otherTagRect.right < tagRect.left ||
-        otherTagRect.left > tagRect.right ||
-        otherTagRect.bottom < tagRect.top ||
-        otherTagRect.top > tagRect.bottom);
-
-      if (isOverlapping) {
-        tagsToDelete.add(tag);
-        break;
-      }
-    }
-  });
-
-  tagsToDelete.forEach(tag => tag.remove());
 }
 
 window.removeTags = () => {
