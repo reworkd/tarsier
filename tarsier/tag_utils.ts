@@ -104,8 +104,12 @@ function getElementXPath(element: HTMLElement | null) {
 
     if (element.id) {
       prefix += `[@id="${element.id}"]`;
-      path_parts.unshift(prefix);
-      return "//" + path_parts.join("/");
+
+      // If the id is unique and we have enough path parts, we can stop
+      if (path_parts.length > 3) {
+        path_parts.unshift(prefix);
+        return "//" + path_parts.join("/");
+      }
     } else if (element.className) {
       const classList = Array.from(element.classList);
       prefix += `[@class="${element.className}"]`;
