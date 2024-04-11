@@ -2,15 +2,21 @@
 [ @ 0 ] ]
                                                          [ @ 1 ] About [ @ 2 ] Companies [ @ 3 ] Startup Jobs                                                                                  [ 4 ] Find a Co - Founder                                            [ 8 ] Apply for [ 10 ] W2024 [ 9 ] batch.                                                         [ @ 11 ] Apply
                                   **Y**                   [ @ 5 ] Library                     [ @ 6 ] SAFE                      [ @ 7 ] Resources
+
                 **[ 12 ] Careers at Y Combinator**
+
+
                               [ 13 ] Working at Y Combinator is a unique opportunity to help founders build their companies at all stages, and offers
                              unprecedented insight into the greater startup ecosystem. See open positions below across our software, investment and
                              operations teams.
                               [ 14 ] If you'd prefer to work at a startup, you can find thousands of roles at YC startups in engineering, design, recruiting and
                              more at [ @ 16 ] ycombinator.com/jobs [ 15 ] ].
+
                                               ← All Jobs
                                                   Product Engineer, Post Batch
+
                                                                                                                                                    Overview                                                               Application
+
                                                    Location                                                                                       About the role
                                                    San Francisco
                                                                                                                                                   Y Combinator is best known for our accelerator batch program, which has helped companies
@@ -43,6 +49,7 @@
                                                                                                                                                   The software team has a lot of individual responsibility and access to sensitive information, so
                                                                                                                                                   we need to hire people we can trust. Your ability to make good trade - offs and exercise good
                                                                                                                                                   judgement is particularly important to us.
+
                                                                                                                                                   Location: YC is headquartered in the SF Bay Area with employees working from home or from
                                                                                                                                                    our offices in San Francisco and Mountain View, CA. Candidates must live in the SF Bay Area or
                                                                                                                                                    be willing to relocate.
@@ -57,9 +64,15 @@
                                                                                                                                                   complying with the California Consumer Privacy Act. The privacy policy of Ashby, Inc., the
                                                                                                                                                   hiring platform used by Y Combinator, governs the collection of such data and can be found
                                                                                                                                                    here.
+
                                                                                                                                                                                                                                            Apply for this Job
+
+
                                                                                                                                 This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
                                                                                                                                                                                                   Powered by Ashby
+
+
+
                               [ @ 18 ]                                 [ 19 ] Programs                                                                        [ 24 ] ] Company                                                                 [ 34 ] Resources                                            [ 42 ] Make something people want.
                                                                        [ @ 20 ] YC Program                                                                   [ @ 25 ] YC Blog                                                                  [ @ 35 ] Startup Directory                                                                                             [ @ 43 ] Apply
                                   **Y**
@@ -76,4 +89,4 @@
                               [ 49 ]            2023 Y Combinator
                                                                                                                                                                                                                                                                                                          +                                                     in
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1383
+Token count: 1384

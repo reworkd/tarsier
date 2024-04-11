@@ -4,6 +4,7 @@
                                                                   &                                                                                          [ @ 7 ]
          DFM        [ $ 1 ] CAPITAL  [ $ 2 ] INVESTING   [ $ 3 ]           [ $ 4 ] EXCHANGE    [ $ 5 ] DFM
          المالي حبي سوق                                      MEMBERS                                                       Search by Symbol or Name          عربي
+
                                                              [ 12 ]               17 ]                                             [ 21 ]
                                                                                   [                      [ 19 ]                              22 ]             MARKET
                                          [ 10 ]     [ [ 11 ] ] ( [ 15 ] -9.03 [ 13 ] TOTAL [ 18 ]        TOTAL [ 20 ]              TOTAL    [          ] ]
@@ -11,14 +12,31 @@
                                                     3969.17   [ 16 ] -0.227 %    VOLUME                  VALUE                              5,318
                                                                                                                                    TRADES
                                                              [ 14 ] )
+
+
+
+
+
+
+
+
  [ 24 ]
            **Market Rules**
+
+
+
+
+
  [ 25 ] We are committed to providing issuers, brokers and investors an attractive, efficient and well - regulated market to raise capital and fulfill investment and
        trading requirements.
  [ 26 ] We comply with all requirements of the Securities and Commodities Authority's ( SCA ) Rules and Regulations. These rules are closely linked to the
        operation of the trading system and should be read together with the SCA Rules and Regulations.
  [ 27 ] Amendments to market rules and guidance are disseminated through the Market Announcements.
+
        [ 28 ] MARKET RULES     [ 29 ] INDEX RULES    [ 30 ] RSS ELIGIBLE SECURITIES LIST
+
+
+
            [ @ 31 ]                                                                        [ @ 35 ]
              DEM                                                                             DFM            [ 38 ] Module One
                             [ 33 ] Glossary Rules
@@ -27,6 +45,9 @@
             Rules                                                                           [ 37 ] General
                                                                                             Rules
                             [ 34 ] DOWNLOAD ✓                                                               [ 40 ] DOWNLOAD ✓
+
+
+
            [ @ 41 ]                                                                        [ @ 47 ]
              DFM                                                                             DFM             50 ] Module Three
                             [ 44 ] Module Two                                                               [
@@ -36,6 +57,9 @@
                                                                                             Trading Rules, And Derivatives Rules
                             [ 46 ] DOWNLOAD ↓
                                                                                                             [ 52 ] DOWNLOAD ↓
+
+
+
            [ @ 53 ]
              DFM                          Four
                             [ 56 ] Module
@@ -44,10 +68,23 @@
                ] Penalty
             Rules
                             [ 58 ] DOWNLOAD ↓
+
+
+
                 [ @ 59 ] VIEW ALL SCA'S RULES AND REGULATIONS
+
+
+
+
+
+
+
+
+
                                                              [ 68 ] TELEPHONE                    [ 70 ] EMAIL                       [ 72 ] OFFICE HOURS
               DFM                                            [ 69 ] +971 4 305 5555              [ 71 ] customerservice@dfm.ae      [ 73 ] 8:00 AM-4:00PM / Mon - Fri
               المالي دبي سوق
+
        [ 60 ] Reception - Mezzanine Floor
        [ 61 ] World Trade Centre ( Rashid Tower )
         62 ] Sheikh Zayed Road                               [ 74 ] QUICK ACCESS               [ 79 ] QUICK LINKS                [ 83 ] RELATED COMPANIES
@@ -58,10 +95,14 @@
                                                              [ @ 77 ] eServices                [ @ 82 ] Investor                 [ @ 86 ] Dubai
                                                              [ @ 78 ] Contact Us                                                 [ @ 87 ] Dubai Clear LLC
           [ @ 67 ] View Location
+
+
+
                                                                                      [ @ 90 ]        [ @ 91 ]          [ @ 92 ] [ @ 93 ] [  94 ]   [ @ 95 ] [ @ 96 ]
        [ @ 88 ] Privacy Policy  [ @ 89 ] Disclaimer                                      Download on the  GET IT ON
                                                                                          App Store        Google Play           lin       ☑        f
+
                                                    [ 97 ] COPYRIGHT © 2023 DUBAI FINANCIAL MARKET PJSC. ALL RIGHTS RESERVED
                                                                   [ @ 98 ]     SUGGESTIONS / COMPLAINTS
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1087
+Token count: 1089

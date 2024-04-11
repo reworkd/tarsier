@@ -1,12 +1,14 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ # 4 ]
     [ @ 0 ]          stackoverflow                      [ @ 1 ] About              [ @ 2 ] Products               [ @ 3 ] For Teams               Q Search ...                                                                                               [ @ 5 ] Log in             [ @ 6 ] Sign up
+
     [ @ 7 ]         Home                                                                                                                                                                                                                                                 [ @ 22 ] Ask Question
                                                [ @ 21 ] Custom Jscript Event ALWAY returns" undefined" in GA4 / GTM / Debug
      [ @ 8 ]   Q Questions                     -              ideas
                                                    any
      @ 9 ]          Tags                       [ 23 ] Asked [ 24 ] 5 days ago                    [ 25 ] Modified [ @ 26 ] 5 days ago                      [ 28 ] Viewed [ 27 ] 18 times
     [
+
                                                   [ $ 29 ]                [ 34 ] ] I have tried multiple different scripts ranging from simply" hello world" prints to                                                                                                   Blog
     [ @ 10 ]          Users                                                                                                                                                                                                              [ 179 ] The Overflow
                                                                          more complex ones in GA4 / GTM Custom Javascript Events.
@@ -52,8 +54,10 @@
                                                                           " window.performance.timing.loadEventEnd -                                                                                                                                                                 nade tcp
                                                                                                                                                                                                                                             Equinix Metal                            server server web1 web2 192.168.1.18 192.168.1.11.
                                                                          window.performance.timing.navigationStart"
+
                                                                           [ 98 ] multiple different scripts ranging from" hello world" prints to the pageload one                                                                                                            [ $ 187 ] Report this ad
                                                                          included above ...
+
                                                                           [ 99 ] Ive looked at console and tested ( it works ) ..... looked at GTM preview                                                                                                          .EQUINIX
                                                                           (" undefined" response" ) ....
                                                                           [ 100 ] ] Network collect looks fine .... no obvious 404 or failures in network console                                                                                      Infrastructure
@@ -123,6 +127,7 @@
                                                                                                                                                                                                                                           the cabinet?
                                                                                                                                                                                                                                      {} [ @ 213 ] xelatex does not respect \ ifpdf?
                                                                                                                                                                                                                                      [ @ 214 ]             Question feed
+
                                                [ 151 ] Sign up or [ @ 152 ] log in                                                       [ 156 ] Post as a guest
                                                                                                                                           [ $ 157 ] Name
                                                                   G [ 153 ] Sign up using Google
@@ -130,12 +135,15 @@
                                                                  f [ 154 ] Sign up using Facebook                                         [ $ 159 ] Email
                                                                                                                                           [ 160 ] Required, but never shown
                                                              [ 155 ] Sign up using Email and Password                                    [ # 161 ]
+
                                                     [ $ 162 ]           [ 163 ] By clicking" Post Your Answer", you agree to our [ @ 167 ] terms of service [ 164 ] and
                                                     Post Your           acknowledge that you have read and understand our [ @ 168 ] privacy policy [ 165 ] and
                                                      Answer             [ @ 169 ] code of conduct [ 166 ].
+
                                                [ 170 ] ] Browse other questions tagged [ @ 173 ] javascript                                                [ @ 174 ] google - analytics
                                                  [ @ 175 ] google - tag - manager                 [ @ 176 ] google - analytics - 4                [ @ 177 ] cjs          [ 171 ] or [ @ 178 ] ask your
                                                own question [ 172 ].
+
      [ @ 215 ]
                      [ @ 216 ] STACK OVERFLOW                                               [ @ 219 ] PRODUCTS                                         [ @ 224 ] COMPANY                                                 [ @ 234 ] STACK EXCHANGE NETWORK
                      [ @ 217 ] Questions                                                    [ @ 220 ] Teams                                            [ @ 225 ] About                                                   [ @ 235 ] Technology
@@ -149,6 +157,7 @@
                                                                                                                                                        [ @ 232 ] Cookie Settings
                                                                                                                                                                                                                          [ @ 242 ] Data
                                                                                                                                                        [ @ 233 ] Cookie Policy
+
      [ @ 243 ] Blog           [ @ 244 ] Facebook             [ @ 245 ] Twitter           [ @ 246 ] LinkedIn           [ @ 247 ] Instagram
 [ 248 ] esign / logo © 2023 Stack Exchange Inc; user contributions licensed under [ @ 250 ] CC BY - SA [ 249 ]                                        [ 251 ] rev 2023.11.27.1504
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

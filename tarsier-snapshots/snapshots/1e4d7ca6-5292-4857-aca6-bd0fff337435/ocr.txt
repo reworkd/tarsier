@@ -6,8 +6,18 @@
      [ @ 12 ] My UNC Chart [ @ 13 ] Contact
                      LO
                                                                                                                                   U
+
+
+
+
+
              [ 18 ] Medical Offices | Appalachian Regional Medical Associates
+
                                                                  [ @ 27 ] ]                            [ @ 36 ]
+
+
+
+
              [ @ 19 ] Appalachian Regional Internal
              Medicine Specialists                   [ @ 28 ] Appalachian Regional         [ @ 37 ] Appalachian Regional
                                                    Pulmonology                            Rheumatology
@@ -19,9 +29,15 @@
              [ @ 26 ] Appalachian Regional Internal Medicine [ @ 35 ] Appalachian Regional [ @ 44 ] Appalachian Regional
                                                                         Pulmonology                            Rheumatology
              website                               website                                website
+
+
+
+
                            [ @ 45 ]                              [ @ 54 ]
+
                                                                                                               AppOrtho
                                                                                                               Paul Wellness H. Broyhill Center
+
                                                                                           [ 63 ] AppOrtho
              [ @ 46 ] AppFamily Medicine           [ @ 55 ] AppGastro
                                                                                           [ 64 ] 232 Boone Heights Drive, Suite A
@@ -30,14 +46,24 @@
              [ 51 ] Phone: [ 49 ] ( 828 ) 386-2222  [ 60 ] Phone: ( [ 58 ] 828 ) 264-0029 [ 69 ] Fax: [ 67 ] ( 828 ) 386-2664
              [ 52 ] Fax: [ 50 ] ] ( 828 ) 386-2223 [ [ 61 ] Fax: [ 59 ] ] ( 828 ) 265-3305 [ @ 70 ] AppOrtho Website
              [ @ 53 ] AppFamily Medicine website    [ @ 62 ] AppGastro website
+
                            [ @ 71 ]                              [ @ 78 ] ]                            [ @ 87 ]
+
+
+
+
              [ @ 72 ] Baker Center for Primary Care [ @ 79 ] Boone Urology                [ @ 88 ] Davant Medical Clinic
              [ 73 ] 436 Hospital Drive, Suite 230   [ 80 ] 870 State Farm Road, Suite 100 [ 89 ] 623 Chestnut Ridge Parkway
              [ 74 ] Linville, NC 28646              [ 81 ] Boone, NC 28607                [ 90 ] Blowing Rock, NC 28605
              [ 76 ] Phone: [ 75 ] ( 828 ) 737-7711  [ 84 ] Phone: [ 82 ] ( 828 ) 264-5150 [ [ 93 ] Phone: [ [ 91 ] ( 828 ) 386-3350
              [ @ 77 ] Baker Center website          [ 85 ] Fax: [ 83 ] ( 828 ) 265-3611   [ 94 ] Fax: [ 92 ] ( 828 ) 386-3352
                                                     [ @ 86 ] Boone Urology Website        [ @ 95 ] Davant Clinic website
+
                            [ @ 96 ]
+
+
+
+
                                                     [ 105 ] Grandfather Specialty Clinic  [ 111 ] Harmony Center for Women
              [ @ 97 ] Elk River Medical Associates
                                                     [ 106 ] 436 Hospital Drive            [ 112 ] 381 Deerfield Road
@@ -46,7 +72,12 @@
              [ 102 ] Phone: [ 100 ] ( 828 ) 898-5177 [ @ 110 ] ] Grandfather Specialty Clinic website [ 117 ] Fax: [ 115 ] ( 828 ) 262-1587
              [ 103 ] Fax: [ 101 ] ( 828 ) 898-8306                                        [ @ 118 ] Harmony Website
              [ @ 104 ] Elk River Medical Associates website
+
                           [ @ 119 ]
+
+
+
+
                                                     [ 124 ] Tate Clinic                   [ 132 ] Watauga Surgical Group
              [ @ 120 ] Jefferson Specialty Clinic                                         [ 133 ] 965 State Farm Road
                                                     [ 125 ] 436 Hospital Drive, Suite 200
@@ -54,8 +85,17 @@
              [ 122 ] West Jefferson, NC 28694       [ 129 ] Phone: [ 127 ] ( 828 ) 737-7917 [ 137 ] Phone: [ 135 ] ( 828 ) 264-2340
              [ @ 123 ] Jefferson Specialty Clinic Website [ 130 ] Fax: [ 128 ] ( 828 ) 737-6869 [ 138 ] Fax: [ 136 ] ( 828 ) 262-0731
                                                     [ @ 131 ] Tate Clinic website         [ @ 139 ] Watauga Surgical Group website >
+
+
+
+
              [ 140 ] Watauga Medical Center Locations
+
                           [ @ 141 ]                             [ @ 148 ]                              [ @ 158 ]
+
+
+
+
              [ @ 142 ] Watauga Medical Center       [ @ 149 ] Heart & Vascular Center     [ @ 159 ] ARHS Heart & Vascular
              [ 143 ] 336 Deerfield Road                                                   Center - Ashe
                                                     [ 150 ] Inside Watauga Medical Center
@@ -65,7 +105,12 @@
                                                     [ 156 ] Fax: [ 154 ] ( 828 ) 264-8144 [ 165 ] Phone: [ 163 ] ( 828 ) 264-9664
                                                     [ @ 157 ] Heart & Vascular Center Website [ 166 ] Fax: [ 164 ] ( 828 ) 264-8144
                                                                                           [ @ 167 ] Heart & Vascular Center Website
+
                           [ @ 168 ]                             [ @ 177 ]                             [ @ 186 ]
+
+
+
+
              [ @ 169 ] The Rehabilitation Center    [ @ 178 ] The Sleep Center            [ @ 187 ] Broyhill Wellness Center
              Boone
                                                     [ 179 ] 336 Deerfield Road            [ 188 ] 232 Boone Heights Drive, Suite A
@@ -77,6 +122,11 @@
                                                                                           [ 193 ] Fax: [ 191 ] ( 828
              [ 175 ] Fax [ 173 ] ( 828 ) 268-9045   [ @ 185 ] Sleep Center website        [ @ 194 ] Wellness Center Website
               [ @ 176 ] Rehabilitation Center website
+
+
+
+
+
              [ 195 ] Seby B. Jones Regional
              Cancer Center                          [ 202 ] Wilma Redmond Breast Center
              [ 196 ] Monday - Friday 8:00 am - 5:00 pm [ 203 ] 336 Deerfield Road
@@ -84,8 +134,19 @@
              [ 198 ] Boone, NC 28607                [ 207 ] Phone: [ 205 ] ( 828 ) 268-9037
              [ 200 ] Phone: [ 199 ] ( 828 ) 262-4332 [ 208 ] Fax: [ 206 ] ( 828 ) 268-9484
              [ @ 201 ] Cancer Center Website        [ @ 209 ] Breast Center website
+
+
+
+
+
+
              [ 210 ] Cannon Memorial Hospital Locations
+
                           [ @ 211 ]
+
+
+
+
                                                     [ 220 ] The Rehabilitation Center
              [ @ 212 ] Cannon Memorial Hospital    Linville
              [ 213 ] 434 Hospital Drive             [ 221 ] 434 Hospital Drive
@@ -93,9 +154,19 @@
              [ 217 ] Phone: [ 215 ] ] ( 828 ) 737-7000 [ 223 ] Phone [ @ 224 ] ( 828 ) 737-7520
              [ 218 ] Fax: [ 216 ] ( 828 ) 737-7401  [ 225 ] Fax [ @ 226 ] ( 828 ) 737-7509
              [ @ 219 ] Cannon Memorial Hospital website [ @ 227 ] Rehabilitation Center website
+
+
+
+
+
+
              [ 228 ] Appalachian Regional Behavioral Health Locations
+
                           [ @ 2291                              [ @ 239 ]
+
+
                       SLOOP OFFICE MEDICAL PLAZA
+
              [ @ 230 ] Outpatient Behavioral Health
              [ 231 ] Located inside Sloop Medical Office [ @ 240 ] Appalachian Regional
              Plaza                                 Behavioral Health Hospital
@@ -105,6 +176,10 @@
              [ [ 237 ] Fax: [ 235 ] ( 828 ) 737-7606 [ 246 ] Fax: [ 244 ] ( 828 ) 737-7072
              [ @ 238 ] Appalachian Regional Behavioral [ @ 247 ] Appalachian Regional Behavioral
              Health Website                        Health website
+
+
+
+
              [ 248 ] Appalachian Regional [ 251 ] ARHS complies with   [ 253 ] You have privacy rights [ 256 ] Through
              Healthcare System | PO Box 2600 applicable Federal civil rights laws under a federal law that protects UnitedHealthcare, UMR and
              | 336 Deerfield Road | Boone, NC and does not discriminate on the your health information. HealthSCOPE Benefits creates
@@ -129,7 +204,9 @@
                                                                                                    ⚫ [ 261 ] Click to view your right
                                                                                                      to receive a" [ @ 263 ] Good
                                                                                                      Faith Estimate [ 262 ]"
+
+
                                                                                                         [ @ 264 ]  [ @ 265 ]
              [ 266 ] Powered by: [ @ 267 ] Big Boom Design                                     [ 268 ] © 2023 UNC Health Appalachian
 ------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2956
+Token count: 2964

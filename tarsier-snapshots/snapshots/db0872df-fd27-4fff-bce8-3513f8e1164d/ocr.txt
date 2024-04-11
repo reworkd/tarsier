@@ -3,6 +3,8 @@
     [ @ 0 ]                        [ $ 1 ] Products   [ $ 2 ] Government    [ $ 3 ] Solutions   [ $ 4 ] Customers    [ @ 5 ] Pricing   [ $ 6 ] Resources                 [ @ 9 ] Log In
                                                                                                                                                 Book a Demo [ 8 ] →
     scale
+
+
         [ 10 ] EPD                                                                             [ 16 ] Scale Al is seeking a highly skilled and motivated
                                                                                                [ 18 ] Infrastructure Software Engineer [ 17 ] to join our dynamic
                                                                                                Federal Engineering team. As a part of this team, you will play
@@ -14,6 +16,7 @@
                                                                                                solutions, and your expertise will be instrumental in designing
     [ @ 12 ]                                                                                   and implementing systems that can handle billions of data
       Apply Now [ 13 ] →                                                                       points with exceptional performance.
+
                                                                                                [ 19 ] You will:
          [ 14 ] Washington, DC         [ 15 ] Full Time
                                                                                                     [ 20 ] Design and implement secure scalable backend systems for Federal
@@ -60,6 +63,8 @@
                                                                                                    emerging trends in software engineering.
                                                                                                     [ 34 ] Must be able to support work 2-3 days a week at client sites within
                                                                                                    the St. Louis, MO or DC Metro area.
+
+
                                                                                                [ 35 ] The base salary range for this full - time position in Washington, DC is
                                                                                                $ 153,600 - $ 215,040. Compensation packages at Scale include base salary,
                                                                                                equity, and benefits. The range displayed on each job posting reflects the
@@ -73,6 +78,10 @@
                                                                                                health, dental and vision coverage, retirement benefits, a learning and
                                                                                                development stipend, and generous PTO. Additionally, this role may be
                                                                                                eligible for additional benefits such as a commuter stipend.
+
+
+
+
                                                                                                 [ 36 ] About Us:
                                                                                                 [ 37 ] At Scale, we believe that the transition from traditional software to Al is
                                                                                                one of the most important shifts of our time. Our mission is to make that
@@ -105,13 +114,26 @@
                                                                                                laws. Any information we collect in connection with your application will be
                                                                                                treated in accordance with our internal policies and programs designed to
                                                                                                protect personal data.
+
+
+
+
+
+
                                           **The future**
                                                                                                         **of your**
                                                                        **industry**
                                                          **.., starts here.**
+
                                                                       [ @ 48 ]
                                                                                                    [ @ 50 ] Build Al →
                                                                        Book a demo [ 49 ] →
+
+
+
+
+
+
     [ 51 ] PRODUCTS                            [ 60 ] SOLUTIONS                   [ 69 ] COMPANY         [ 76 ] RESOURCES                        [ 86 ] GUIDES
      [ @ 52 ] Scale Data Engine                [ @ 61 ] Retail & eCommerce        [ @ 70 ] About         [ @ 77 ] Blog                           [ @ 87 ] Data Labeling
     [ @ 53 ] Scale Custom LLMS Engine          [ @ 62 ] Defense                   [ @ 71 ] Pricing       [ @ 78 ] Customers                      [ @ 88 ] ML Model Training
@@ -128,8 +150,11 @@
     [ @ 95 ] support@scale.com
     [ @ 96 ] careers@scale.com
     [ @ 97 ] press@scale.com
+
     [ @ 98 ] [ @ 99 ]   [ @ 100 ]
     X                   in
+
+
     [ 101 ] Copyright © [ 102 ] 2023 [ 103 ] Scale Al, Inc. All rights reserved.                                              [ @ 105 ] Terms of Use [ 104 ] & [ @ 106 ] Privacy Policy
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2148
+Token count: 2149

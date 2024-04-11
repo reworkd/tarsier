@@ -4,11 +4,16 @@
              UChicago Medicine
              Comer Children's
        [ @ 4 ] Patients & Families [ @ 5 ] Healthcare Professionals [ @ 6 ] Research & Clinical Trials
+
+
        [ @ 10 ] PEDIATRICS [ @ 11 ] FIND A LOCATION
   **[ 12 ] Comer Children's - Merrillville**
+
+
        [ @ 13 ] 99 E. 86th Ave.                                                                                                 ☐
        Suite C                                                                                                                ☐
        **Merrillville, IN 46410**
+
        [ @ 14 ] 773-702-6169
        [ 18 ] Services and Specialties Offered:
        [ @ 19 ] Hepatology ( Liver Disease ) [ 15 ]. [ @ 20 ] Liver Disease [ 16 ],
@@ -16,17 +21,25 @@
        [ 24 ] Insurance Accepted:
        [ 23 ] Aetna POS, Aetna HMO ( specialists only ), Aetna PPO I
        [ @ 25 ] More
+
               [ @ 26 ] Get Directions
+
           [ @ 27 ] Request an Appointment
+
+
+
                  [ 28 ] UChicago Medicine in Merrillville offers comprehensive specialty care that's
                  closer to home.                                                                   [ 48 ] At This Location
                  [ 29 ] Specialties at this location include:
                                                                                                         [ @ 49 ] 17 Doctors ㅁ
                  [ 30 ] Adult:
+
                                                                                                         [ @ 50 ] 14    ㅁ
                      [ 31 ] Hepatology, including chronic liver disease                                 Conditions Treated
                      [ 32 ] Liver transplant, including pre- and post- liver transplantation care
+
                  [ 33 ] Pediatric:
+
                    ⚫ [ 34 ] Pediatric allergy and immunology
                      [ 35 ] ] Pediatric cardiology
                      [ 36 ] Pediatric hematology / oncology
@@ -37,10 +50,15 @@
                      [ 41 ] Pediatric rheumatology
                      [ 42 ] Pediatric surgery
                      [ 43 ] Pediatric neurology
+
+
                                                                                ☐
                     [ @ 44 ] Directions & Parking
+
                     [ @ 45 ] Adult Services and Specialties
+
                     [ @ 46 ] Pediatric Services and Specialties
+
                                                                                ☐
                     [ @ 47 ] Insurance Accepted
                                                       **Connecticut**
@@ -63,9 +81,15 @@
                                      Greater Indiana
                      Spring Mill     Title Company Methodist Hospitals Pl
                    Health Campus                Southlake Emergency ...
+
+
+
                                       [ @ 52 ] Pay a Bill           [ @ 54 ] Refer a Patient      [ @ 56 ] Contact Us
         **[ 51 ] I'd Like to**
                                       [ @ 53 ] Get Directions       [ @ 55 ] Make a Donation      [ @ 57 ] Make an Appointment
+
+
+
              AT THE FOREFRONT OF KIDS MEDICINE @ 61 ] Conditions & [ @ 68 ] About Us [ @ 75 ] Biological Sciences [ @ 78 ] Privacy Practices
              UChicago Medicine      Services               [ @ 69 ] News         Division
                                                                                                         [ @ 79 ] Website Privacy
@@ -84,8 +108,14 @@
                                      [ @ 67 ] International Patients
        Appointments:
        1-888-824-0200
+
        [ @ 82 ] [ @ 83 ] [ @ 84 ] [ @ 85 ] [ @ 86 ]
+
+
+
+
+
    [ 87 ] © 2023 The University of Chicago Medical Center. All rights reserved.
  Comer Footer Background
 --------------------------------------------------------------------------------------------------------------------------------
-Token count: 1091
+Token count: 1093

@@ -1,21 +1,33 @@
 --------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 10 ] ☐ [ 11 ] My Nexperia [ $ 12 [ @ 13 ] X
   **[ @nexperia**
+
   [ @ 1 ] Products [ @ 2 ] Applications [ @ 3 ] Quality [ @ 4 ] Support [ @ 5 ] Shop [ @ 6 ] Careers [ @ 7 ] About  [ @ 8 ] News
+
     [ @ 9 ] Blogs
                               [ # 15 ]
          [ @ 14 ] SEARCH □
                                                                                                                                        ☐
                                I'm searching for ...
+
         [ @ 16 ] Home ㅁ [ @ 17 ] Diodes [ @ 18 ] Automotive diodes [ @ 19 ] Automotive Zener diodes [ @ 20 ] BZX585 - C6V8 - Q
+
+
                                          [ 23 ] BZX585 - C6V8 - Q
+
                    ང་ X.                 [ 24 ] Voltage regulator diodes
+
                        SOD523
                                          [ $ 25 ] AUTOMOTIVE QUALIFIED
                                          [ 26 ] General - purpose Zener diodes in an SOD523 ( SC - 79 ) ultra small flat lead Surface - Mounted Device ( SMD ) plastic
                                          package.
+
                                               [ @ 27 ] Download datasheet  ㅁ [ @ 28 ] Order product
+
+
         [ @ 29 ] Product details [ @ 30 ] Documentation [ @ 31 ] Support [ @ 32 ] Ordering
+
+
         [ 33 ] Features and benefits                                      [ 40 ] Applications
           ⚫ [ 34 ] Non - repetitive peak reverse power dissipation: < 40 W  •  [ 41 ] General regulation functions
             [ 35 ] Total power dissipation: < 300 mW
@@ -24,12 +36,14 @@
           ⚫ [ 38 ] Low differential resistance
             [ 39 ] Qualified according to AEC - Q101 and recommended for use in
             automotive applications
+
    [ 42 ] Parametrics
                             [ 44 ] Package [ 45 ] Package [ 46 ] Size [ 47 ] V [ 49 ] z [ 48 ] [ 50 ] [ 52 ] [ 51 ] [ 53 ] Tolerance [ 54 ] V [ 56 ] [ 55 ] [ 57 ] [ 59
          [ 43 ] Type number version     name         ( mm )    [ nom ] ( V )    ( mA )           +/-          [ max ] ( V )    [ max ] ( mA )
          [ 76 ] BZX585 - C6V8 - Q [ 77 ] SOD523 [ 78 ] SC - 79 [ 79 ] 1.2 [ 80 ] 6.8 [ 81 ] 5    [ 82 ] 5 %   [ 83 ] 7.14       [ 84 ] 200
                                                      x 0.8 x
                                                      0.6
+
    [ 90 ] Package
                             [ 92 ] Orderable
                            part number,
@@ -41,15 +55,23 @@
                            9346 674 29115 )                         [ @ 104 ] SC-
                                                                    79
                                                                    ( SOD523 )
+
   [ 108 ] Environmental information
          [ 109 ] Type number     [ 110 ] Orderable part number [ 111 ] Chemical content  [ 112 ] RoHS              [ 113 ] RHF - indicator
+
          [ 114 ] BZX585 - C6V8 - Q [ 115 ] BZX585 - C6V8 - QX [ @ 116 ] BZX585 - C6V8 - Q [ @ 1171 EU COMPLIANT / CN ROHS [ @ 118 ] Pb D
+
         [ @ 119 ] Quality and reliability disclaimer
+
   [ 120 ] Series
        ㅁ [ @ 121 ] BZX585 - Q series - Voltage regulator diodes
           [ @ 122 ] BZX585 - Q series -
        ㅁ [ @ 123 ] BZX585 - Q Series - Voltage regulator diodes
+
+
+
         **[ 124 ] Efficiency wins.**                                                                   [ @ 125 ] [ @ 126 ] [ 127 ] [ @ 128 ] [ @ 129 ]
+
         [ 130 ] Products                            [ 140 ] Tools & Support                     [ 146 ] About Nexperia
        [ @ 131 ] Bipolar transistors                [ @ 141 ] Packages                          [ @ 147 ] Distributor locations
        [ @ 132 ] Diodes                             [ @ 142 ] Quality portal                    [ @ 148 ] Careers
@@ -61,6 +83,8 @@
         [ @ 137 ] IGBTs
         [ @ 138 ] Analog & Logic ICs
        [ @ 139 ] Automotive
+
+
                          [ @ 151 ] Privacy notice | [ @ 152 ] Terms of use | [ @ 153 ] Terms and Conditions | [ @ 154 ] About | [ @ 155 ] Contact us
 --------------------------------------------------------------------------------------------------------------------------------------------
 Token count: 1319

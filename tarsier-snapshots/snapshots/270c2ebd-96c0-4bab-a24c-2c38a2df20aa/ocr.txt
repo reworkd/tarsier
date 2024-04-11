@@ -8,13 +8,16 @@
      **MMy**      UNIVERSITY OF MICHIGAN HEALTH
                                                                                                                                        **My Chart**
                                                                                                                        [ @ 8 ] LOG IN   [ @ 9 ] LEARN MORE
+
        [ @ 10 ] CARE &            [ @ 11 ] FIND A DOCTOR           [ @ 12 ] LOCATIONS &             [ @ 13 ] PATIENTS &          [ $ 14 ] QUICKLINKS +
         TREATMENT                                                         PHONE                         VISITORS
+
     [ @ 17 ] Home [ 15 ] > [ @ 18 ] Locations & Phone [ 16 ] > [ 19 ] Profile                                           [ 20 ] TEXT A A A
                                                                                                                         SIZER
      [ @ 21 ] New Search
 [ 22 ]
 **22 CT**   **Scanning**
+
                                                [ @ 23 ] ( 989 ) 633-5252
                                                                                                 [ 47 ] Hours of Operation
                                               [ 24 ] Alternate: [ @ 25 ] ] ( 888 ) 367-2778      $ 48 ]
@@ -24,6 +27,17 @@
                                                [ 29 ] 703 N. McEwan Street                      [ 51 ] CT Scans are by available by Appointment Only, Monday -
                                                [ 30 ] Clare [ 28 ], [ 31 ] MI [ 32 ] 48617      Saturday.
                                                  [ @ 33 ] Get Driving Directions
+
+
+
+
+
+
+
+
+
+
+
 [ 52 ] About
 [ 53 ] A computerized tomography scan ( CT or CAT scan ) uses computers and and combinations of X - rays to create images of the bodies organs, bones and
     other tissues. These images provide more detailed information than normal X - ray images. They can show the soft tissues, blood vessels, and bones in
@@ -35,10 +49,13 @@
    [ 58 ] knee
    [ 59 ] spine
    [ 60 ] etc.
+
+
+
    [ 61 ] MyMichigan Health                                  [ 69 ] Follow Us Online                                   [ 77 ] Stay Connected
    [ 62 ] 4000 Wellness Drive
-                , MI 48670                                   [ @ 70 ]  [ @ 71 ]  [ @ 72 ]  [ @ 73 ]  [ @ 74 ]          [ @ 78 ] Access MyMichigan
-   [ 63 ] Midland
+    63 ] Midland, MI 48670                                   [ @ 70 ]  [ @ 71 ]  [ @ 72 ]  [ @ 73 ]  [ @ 74 ]          [ @ 78 ] Access MyMichigan
+   [
                                                                                             You
                                                                                             Tube      **in**
                                                               **f**                                                    [ @ 79 ] E - Newsletter Sign - Up
@@ -49,4 +66,4 @@
    [ 68 ] Tax - exempt status: 501 ( c ) ( 3 )
 [ 80 ] 2023 MyMichigan Health. [ 81 ] All rights reserved
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 735
+Token count: 734

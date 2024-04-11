@@ -78,14 +78,31 @@ def format_text(ocr_text: ImageAnnotatorResponse) -> str:
     # Create an empty canvas (list of lists filled with spaces)
     canvas = [[" " for _ in range(canvas_width)] for _ in range(canvas_height)]
 
+    letter_height = 30
+    empty_space_height = letter_height + 5
+    max_previous_line_height = empty_space_height
+
     # Place the annotations on the canvas
-    for i, (y, line_annotations) in enumerate(line_cluster.items()):
+    i = 0
+    for y, line_annotations in line_cluster.items():
         # Sort annotations in this line by x coordinate
         line_annotations.sort(key=lambda e: e["midpoint_normalized"][0])
         # grouped_line_annotations = line_annotations
         grouped_line_annotations = group_words_in_sentence(line_annotations)
 
-        last_x = 0  # Keep track of the last position where text was inserted
+        # Use the TOP height of the letter
+        max_line_height = max(annotation["midpoint"][1] - annotation["height"] for annotation in grouped_line_annotations)
+        height_to_add = math.floor((max_line_height - max_previous_line_height) // empty_space_height)
+        if height_to_add > 0:
+            for _ in range(height_to_add):
+                canvas.append([" " for _ in range(canvas_width)])
+                i += 1
+
+        # Store the BOTTOM height of the letter. In doing this, we can compare the bottom of the previous line
+        # with the top of the current line. This is to avoid issues with larger font
+        max_previous_line_height = max(annotation["midpoint"][1] for annotation in grouped_line_annotations)
+
+        last_x = 0
         for annotation in grouped_line_annotations:
             text = annotation["text"]
 
@@ -104,6 +121,8 @@ def format_text(ocr_text: ImageAnnotatorResponse) -> str:
 
             # Update the last inserted position
             last_x = x + len(text) + 1  # +1 for a space between words
+
+        i += 1
 
     # Delete all whitespace characters after the last non-whitespace character in each row
     canvas = [list("".join(row).rstrip()) for row in canvas]

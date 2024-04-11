@@ -1,6 +1,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Bundesministerium Bundesamt
               der Justiz       für Justiz
+
+
      [ @ 0 ] Startseite               [ 12 ] Aktualitätendienst
      [ @ 1 ] Gesetze /                [ 13 ] Die meist tagesaktuell hier eingetragenen Hinweise auf neu im Bundesgesetzblatt verkündete Dokumente können als RSS - Feed abonniert werden. Klicken Sie
      Verordnungen                    hierzu auf das RSS - Symbol   [ 14 ] in der Navigationsleiste bzw. Adresszeile Ihres Browsers oder auf den folgenden Link:
@@ -523,6 +525,7 @@ Bundesministerium Bundesamt
                                       [ 440 ] Gesetz zu dem Übereinkommen vom 27. Januar 2021 über die Internationale Organisation für Navigationshilfen in der Schifffahrt vom 26. Juli 2023
                                       [ 441 ] BGBI. 2023 II Nr. 163
                                       [ 442 ] Gesetz zur Änderung des Übereinkommens über die Internationale Seeschifffahrts - Organisation vom 14. Juni 2023
+
                                      [ @ 443 ] zum               [ @ 444 ] Impressum [ @ 445 ] Datenschutz [ @ 446 ] Barrierefreiheitserklärung [ @ 447 ] Feedback-                         [ @ 448 ] Seite
                                     Seitenanfang                                                                                                   Formular                                     ausdrucken
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

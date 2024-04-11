@@ -5,6 +5,14 @@ K & L GATES
             [ 2 ] Lawyers
             [ 3 ] Energy, Infrastructure & Resources
             [ 4 ] Ft. Worth
+
+
+
+
+
+
+
+
             [ 6 ] Job Description                                                                                                                             [ 64 ] Share:
                                                                                                                                                                               [ @ 65 ]     [ @ 66 ]     [ @ 67 ]      [ @ 68 ]
             [ 7 ] At K & L Gates, we are looking for smart, imaginative and hard - working people with diverse backgrounds,
@@ -47,42 +55,60 @@ K & L GATES
             [ 24 ] BENEFITS
             [ 25 ] ] K & L Gates offers our personnel a comprehensive suite of benefits to help meet your needs now and in
            the future. Depending on your eligibility, options for full - time personnel include:
+
                    [ 26 ] Medical / Prescription Drug Coverage ( including               [ 27 ] Back - up Child / Elder Care and access
                   a Health Savings Account feature )                                    to a caregiving concierge
+
                    [ 28 ] Dental Insurance                                               [ 29 ] Wellness Program
+
                    [ 30 ] Vision Insurance                                               [ 31 ] Pre - tax Commuting Benefits
+
                    [ 32 ] 401 ( k ) Retirement Plan and Profit Sharing                   [ 33 ] Business Travel Accident Insurance
+
                    [ 34 ] Short- and Long - term Disability Protection                   [ 35 ] Pet Insurance
+
                    [ 36 ] Life Insurance ( including Basic, Supplemental,
                   Spouse, Child, and Accidental Death and                                [ 37 ] ] Health Advocacy Services
                   Dismemberment )
+
                    [ 38 ] Paid Time Off ( 20 days / year through first 4
                                                                                         [ 39 ] Identity Protection / Restoration and
                   years of employment; 25 days / year after 5 years of                  Fraud Insurance
                   employment )
+
                    [ 40 ] Parental Leave ( 18 weeks of which 6 are paid;
                                                                                          [ 41 ] Student loan refinancing options and
                   short - term disability may provide additional paid time
                                                                                         access to a student loan concierge service
                   off )
+
                    [ 42 ] Paid Holidays ( 12 )                                           [ 43 ] Addiction Resources
+
                                                                                          [ 45 ] Breast Milk Delivery and Lactation
                    [ 44 ] Family Building Benefits
                                                                                         Support Services
+
                                                                                          [ 47 ] Employees also may be eligible to
                    [ 46 ] Flexible Spending Accounts                                    receive bonuses and certain expense
                                                                                         reimbursements
+
                 .                                                                        [ 49 ] Professional Development and CLE
                    [ 48 ] Employee Assistance Program                                   Credit Opportunities
+
                    [ 50 ] 529 Deductions                                                 [ 51 ] Relocation
+
                    [ 52 ] Accident Insurance                                             [ 53 ] Employee Referral Program
+
                    [ 54 ] Critical Illness Insurance                                     [ 55 ] Hybrid / Remote Work Opportunities
+
                                                                                         [ 57 ] Perks including: Technology,
                    [ 56 ] Hospital Indemnity Insurance                                  Entertainment, and Travel Discount
                                                                                         Programs
+
                                                                                          [ 59 ] All other benefits ( such as leaves of
                    [ 58 ] Bereavement Leave
                                                                                         absence ) required by law
+
             [ 60 ] EQUAL EMPLOYMENT OPPORTUNITY
             [ 61 ] The Firm is an equal opportunity employer. All employment decisions will be based on merit,
            qualifications, competence, and business need. Employment practices will not be influenced or affected by a
@@ -96,7 +122,12 @@ K & L GATES
            employees with disabilities. If you require reasonable accommodation in completing this application,
            interviewing, or otherwise participating in the employee selection process, please contact
             [ @ 63 ] askHR@klgates.com [ 62 ] ]
+
+
+
+
+
                                                                                                                                                                                         [ 75 ] Powered by
                                                                                                                                                                                                           **yello**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1607
+Token count: 1608

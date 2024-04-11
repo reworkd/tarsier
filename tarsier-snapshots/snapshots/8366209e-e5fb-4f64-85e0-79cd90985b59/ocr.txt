@@ -5,9 +5,12 @@
                       amazonjobs
           [ @ 7 ] Your Job
              application
+
                 **[ 8 ] Software Development Engineer, Amazon**
                 Access                                                                                                                                                                               [ @ 10 ] Apply now
                  [ 9 ] Job ID: 2482000 | Amazon.com Services LLC
+
+
                 [ 11 ] DESCRIPTION                                                                                                                                                       [ 32 ] Job details
                  [ 12 ] At Amazon Access, we are committed to innovation, striving to create solutions that enhance the lives of                                                                    33 ] USA, WA, Seattle
                                                                                                                                                                                                    [
@@ -73,16 +76,32 @@
                 package, in addition to a full range of medical, financial, and / or other benefits. For more information, please visit
                 https://www.aboutamazon.com/workplace/employee-benefits. Applicants should apply via our internal or external
                 career site.
+
+
+
+
+
+
+
+
+
+
+
+
+
                 [ 73 ] JOIN US ON b [ @ 74 ] [ @ 75 ] [ @ 76 [ @ 77 ]
+
+
                  [ 78 ] Find Careers                                     [ 84 ] Working At Amazon                                [ 90 ] Help
                  [ @ 79 ] Job Categories                                 [ @ 85 ] Culture                                        [ @ 91 ] FAQ                                                  [ @ 96 ]       English▾
                  [ @ 80 ] Teams                                          [ @ 86 ] Benefits                                       [ @ 92 ] Interview tips
                 [ @ 81 ] Locations                                       [ @ 87 ] Amazon Newsletter                              [ @ 93 ] Review application status
                  [ @ 82 ] US and EU Military recruiting                  [ @ 88 ] Diversity at Amazon                            [ @ 94 ] Disability accommodations
                  [ @ 83 ] Warehouse and Hourly Jobs                      [ @ 89 ] Our leadership principles                      [ @ 95 ] EU background checks
+
                         Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity
                                                                                                                                  [ @ 98 ] Privacy         [ @ 99 ]                                 © 1996-2023, Amazon.com, Inc. or its
                  [ 97 ] employer identity, sexual and does orientation not discriminate , protected on veteran the basis status of , race disability , national , age origin , or other , gender legally , gender protected and Data Impressum [ 100 ] affiliates
                         status.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1781
+Token count: 1782

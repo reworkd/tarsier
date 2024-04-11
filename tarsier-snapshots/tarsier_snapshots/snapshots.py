@@ -95,7 +95,7 @@ async def generate_snapshots() -> None:
             snapshot_example(i, semaphore, browser, example, snapshots_path, tarsier)
             for i, example in enumerate(examples)
             if example.source == "mhtml"
-            # if example.source == "mhtml" and example.id == 'a33c17c6-b2cd-433f-8972-09b969667866'
+            # if example.source == "mhtml" and example.id == '0f8d967e-07a9-450a-b6b9-c60ad4c07ec7'
         ]
         await asyncio.gather(*tasks)
 

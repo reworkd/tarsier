@@ -1,8 +1,13 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ $ 2 ] & Sign In
     [ @ 1 ]
-   Wachtell, Lipton, Rosen & Katz                                                                                                                      [ $ 3 ] WLRK Careers           [ $ 41 Introduce Yourself
+   Wachtell, Lipton, Rosen & Katz                                                                                                                      [ $ 3 ] WLRK Careers           [ $ 4 ] Introduce Yourself
+
                       Administrative Staff Careers
+
+
+
+
             [ 6 ] Senior Legal Billing and Data Analyst                                                                                                    [ 44 ] Welcome
                                                                                                                                                            [ 45 ] Welcome to our employment
                [ @ 7 ] Apply                                                                                                                               section.   Here you can view our current
@@ -18,6 +23,7 @@
          The Senior Legal Billing and Data Analyst is highly skilled and experienced in billing management, expertise in
          E - billing processes, advanced knowledge of the Thomson Reuters 3E product suite as well as experience in                                                      [ $ 49 ] Get Started
          conflict resolution, collections, and managing unbilled accounts.
+
          [ 18 ] Essential Duties and Responsibilities:
              •  [ 19 ] Assist with day - to - day operations of the billing team, ensuring accuracy, timeliness, and
                 compliance with policies and regulations, working closely with the Billing Manager.
@@ -36,6 +42,7 @@
                 efficiency, and reduce errors.
                 [ 27 ] Monitor unbilled accounts to ensure timely billing and resolution of outstanding matters.
              •  [ 28 ] Assist with the Conflict Search and New Matter Intake Process.
+
          [ 29 ] Knowledge, Skills, and Abilities Required:
                 [ 30 ] Strong expertise in E - billing systems, electronic invoicing, and compliance with client billing
                 guidelines.
@@ -62,8 +69,13 @@
          to qualifications, education and experience.
          [ 43 ] The above is intended to describe the general content of and requirements for the performance of this
         job. It is not to be construed as an exhaustive statement of essential functions, responsibilities or requirements.
+
+
+
+
                                                                                              [ @ 50 ] Privacy Policy
+
                                                                                                       workday
                                                                                         [ 51 ] 2023 Workday, Inc. All rights reserved.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 992
+Token count: 993

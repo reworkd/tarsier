@@ -8,6 +8,7 @@
                           Virtua           [ @ 14 ]                   [ @ 15 ] LOCATIONS            [ @ 29 ] SERVICES           [ @ 751                    [ 93 ] WANT f          t
                                                    DOCTOR                                                                                TOOLS
                                Health                                                                                                                            TO ...
+
 [ @ 103 ]
  @ 104 ]                                                 **[ 194 ] COVID UPDATE:**
 [
@@ -37,14 +38,23 @@
                                                                       40 STIRLING ROAD                                          [ 208 ] Procedures are performed in many surgical
                                                                                                                                 specialties as well as gastroenterology and pain
                                                                                                                                 management.
+
                                                                                                                                 [ 209 ] For more information, visit
                                                                                                                                 [ @ 211 ] www.surgicarecj.com [ 210 ]
+
+
+
                          [ 212 ] Hours
+
                          [ 215 ] Services                                                                                                                                          ☐
+
                          [ 230 ] Recognition                                                                                                                                       ☐
+
                      [ 236 ] Prior to scheduling an appointment at the Surgery Center, please contact your health insurance company to confirm your coverage, including
                      any co - payments and referral requirements, that may be your responsibility. You may also contact the Surgery Center directly at the phone number
                      listed above for information about your upcoming service and what your financial responsibility might be.
+
+
                              [ @ 240 ]
                                                                  [ 248 ] PATIENT TOOLS                [ 257 ] ABOUT VIRTUA                 [ 269 ] EMPLOYEES &
                                    Virtua                                                                                                  PHYSICIANS
@@ -68,4 +78,4 @@
                                       [ 274 ]                                                 [ @ 239 ] Act                                [ 276 ]   [ @ 279 ]
                                                                                    [ @ 277 ]               [ 275 ]  [ @ 278 ]
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1075
+Token count: 1076

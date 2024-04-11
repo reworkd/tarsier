@@ -1,0 +1,70 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 0 ]                                                                                                            [ @ 1 ] State Agencies
+
+                              OKLAHOMA
+              [ @ 2 ]        Office of Management
+                             & Enterprise Services
+
+                 [ @ 4 ] Home [ 3 ] / Solicitation Search
+
+               [ @ 5 ] Home             **[ 16 ] Solicitation Search**
+               [ @ 6 ] Open / Pending                                                                             [ $ 17 ] nced Search
+               Solicitations Search
+                                          [ $ 18 ] Enter Solicitation Number:
+               [ @ 7 ] Awarded            [ # 19 ]
+               Solicitations Search
+
+               [ @ 8 ] Cancelled          [ $ 20 ] Enter Keyword:
+               Solicitations Search
+                                          [ # 21 ]
+               [ @ 9 ] Statewide
+               Contract Search
+                                          [ $ 22 ] [ $ 23 ]
+                @ 10 ] Agency Login                            @ 27 ]           @ 28 ]
+                                           [ @ 25 ] [ @ 26 ]. [                 [         [ @ 29 ] [ @ 30 ] [ @ 31 ]  [ @ 32 ]
+                                          SW       Solicitation Description  Amendments Status     Closing  Closing  Awarded
+               [ @ 11 ] Central           Number Number                                             Date      Date     Date
+               Purchasing
+                                                                                                             Status
+                                           [ 33 ]  [ @ 34 ]   [ 351            [ 36 ] 3    [ 37 ]   [ 38 ]   [ 39 ]   [ 40 ] -
+               [ @ 12 ] Helpful Hints
+                                          SW0139 0900000551                               Pending 08/22/2022 Changed
+                                                                                          Award
+               [ @ 13 ] Contact Us
+                                           [ 41 ]  [ @ 42 ]   [ 43 ]           [ 44 ] 0    [ 45 ]   [ 46 ]    [ 47 ] ] [ 48 ] -
+                                          SW0140 0900000584                               Pending 03/22/2024 Original
+               [ @ 14 ] State of
+               Oklahoma Website                                                           Award
+                                           [ 49 ]  [ @ 50 ]   [ 51 ] DHS       [ 52 ] 0    [ 53 ]   [ 54 ]   [ 55 ]   [ 56 ] -
+                                          Not      21000268                               Open   06/02/2020 Original
+                                          found
+                                           [ 57 ]  [ @ 58 ]   [ 59 ] The intent [ 60 ] 0   [ 61 ]   [ 62 ]   [ 63 ]   [ 64 ]
+                                          Not      2650000386                             Open   04/08/2021 Original
+                                          found
+                                           [ 65 ]  [ @ 66 ]   [ 67 ] ALL       [ 68 ] 1    [ 69 ]   [ 70 ]   [ 71 ]   [ 72 ]
+                                          Not      4520011467                             Pending 12/31/2023 Original
+                                          found                                           Award
+                                           [ 73 ]  [ @ 74 ]   [ 75 ]           [ 76 ] 2    [ 77 ] ] [ 78 ]   [ 79 ]   [ 80 ] -
+                                          SW0818 OK - MA-                                 Pending 05/18/2023 Original
+                                                   818                                    Award
+                                           [ 81 ]  [ @ 82 ]   [ 83 ] Electronic [ 84 ] 0   [ 85 ]   [ 86 ]   [ 87 ]   [ 88 ] -
+                                          SW0173 SW0173                                   Pending 03/16/2023 Original
+                                                                                          Award
+                                           [ 89 ]  [ @ 90 ]   [ 91 ] Sharp     [ 92 ] 0    [ 93 ]   [ 94 ]   [ 95 ]   [ 96 ] -
+                                          SW1034S SW1034S                                 Open   02/09/2021 Original
+
+                                          [ 24 ] List of Solicitations
+
+                                                                              [ $ 97 ] n to Home
+
+
+
+
+              [ @ 98 ]                                                                                                            [ @ 99 ] Back to top ^
+                       OKLAHOMA
+                       Office of Management
+                       & Enterprise Services
+
+              [ @ 100 ] Oklahoma.gov  [ @ 101 ] Policies  [ @ 102 ] Accessibility [ @ 103 ] Feedback [ 104 ] Copyright @ [ 106 ] 2024 [ 105 ] State of Oklahoma
+----------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 949

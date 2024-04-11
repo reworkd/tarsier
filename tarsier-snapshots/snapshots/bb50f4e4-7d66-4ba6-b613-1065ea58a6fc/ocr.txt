@@ -1,15 +1,22 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 0 ] Set Your Location
         [ @ 1 ] Blog   [ @ 2 ] About   [ @ 3 ] Careers   [ @ 4 ] Give   [ @ 5 ] Contact    [ @ 6 ] PAY MY BILL        [ @ 7 ] PATIENT PORTAL
+
            Adventist [ @ 8 ]
            HealthCare
         [ @ 10 ] FIND A DOCTOR        [ @ 11 ] HEALTH SERVICES        [ @ 12 ] LOCATIONS        [ @ 13 ] CLASSES & EVENTS        [ @ 14 ] PATIENTS & VISITORS
+
                                                                                                                                                                [ # 16 ]
                                                                                                                                             Search                [ $ 17 ]
+
                                                 [ @ 19 ] Home [ 20 ] [ @ 21 ] Locations [ 22 ] [ 23 ] Search Results
+
+
       [ 24 ]
          **" Locations**
+
       [ 25 ] Find an Adventist HealthCare hospital, clinic or other type of location near you in the Maryland and Washington D.C. area.
+
              [ 26 ] Refine Search
                                                                                [ @ 37 ] Adventist                                   [ @ 48 ] Adventist
              [ $ 27 ] Location Name [ # 28 ]                                  HealthCare Cardiac                                   HealthCare Cardiac
@@ -25,6 +32,7 @@
              [ $ 32 ] Address, City or ZIP Code                                [ @ 46 ] Doctors at this                             [ @ 57 ] Doctors at this
              [ # 33 ]                                                         Location                                             Location
               Address, City or ZIP Code
+
              [ $ 34 ] YOUR CURRENT LOCATION                                    [ @ 59 ] Adventist                    9 ]            [ @ 70 ] Adventist
                                                                               HealthCare Cardiac                  Agxincare        HealthCare Choice
                                                                               Associates                         NITRITITY
@@ -39,6 +47,8 @@
                                                                               Directions                                           Directions
                                                                                [ @ 68 ] Doctors at this
                                                                               Location
+
+
                                                               191              [ @ 81 ] Adventist                    9 ]            [ @ 90 ] Adventist
                                                                               HealthCare Fort                                      HealthCare
                                                                               Washington Medical                                   Germantown
@@ -53,6 +63,8 @@
                                                                                                                                     [ @ 97 ] Get Driving
                                                                                [ @ 88 ] Get Driving                                Directions
                                                                               Directions
+
+
                                                                                [ @ 100 ] Adventist                  109 ]           [ @ 111 ] Adventist
                                                                               HealthCare Home                                      HealthCare Home
                                                             Assistance        Assistance                                           Health
@@ -66,6 +78,7 @@
                                                                                [ 106 ] MD [ 107 ] 20904                             [ 118 ] 20904
                                                                                [ @ 108 ] Get Driving                                [ @ 119 ] Get Driving
                                                                               Directions                                           Directions
+
                                                                120 ]           [ @ 122 ] Adventist                  130 ]           [ @ 132 ] Adventist
                                                                               HealthCare Imaging                                   HealthCare Imaging
                                                                                [ 123 ] 240-780-4000                                 [ 133 ] 301-762-8155
@@ -79,10 +92,20 @@
                                                                               Directions                                           Directions
                                                                                                                                     [ @ 141 ] Doctors at this
                                                                                                                                    Location
+
+
+
+
+
       ☑ [ 143 ] Sign up for updates [ 142 ] about Adventist                         [ # 145 ] Enter email address                                 [ $ 148 ]; CRIBE
              HealthCare and get health tips and news articles in
              your inbox.
+
+
+
                                      [ 149 ] We extend God's care through the ministry of physical, mental and spiritual healing.
+
+
               [ 150 ] Adventist HealthCare                   [ @ 156 ] Newsroom                                 [ 168 ] CONNECT WITH US
               [ 151 ] 820 West Diamond Ave.
               [ 152 ] Suite 600                              [ @ 157 ] High - Quality Care
@@ -102,14 +125,21 @@
                                                              [ @ 166 ] Accessibility
                                                                                                                [ $ 176 ] nguage  [ 175 ] Powered by [ @ 177 ] Google Translate
                                                              [ @ 167 ] For Healthcare Professionals
+
+
+
+
                                                                        [ 178 ] Adventist HealthCare 2023
+
 How can we help you?
 Our health bot can help with common questions and tasks
+
   • Hello! I'm Elle, the Adventist HealthCare Bot and I can help answer your questions. Here are a few things I can do or ask me anything in the text box below.Adventist
      HealthCare
 By using this chatbot, you agree to the real - time collection, storage, use, and sharing of chat communications and information usage by Adventist HealthCare and its
 trusted third - party providers, as explained in our Privacy Policy.
 Or ask us anything ...
+
   Reset Conversation  Download Transcript
 Hello! I'm Elle, Adventist HealthCare's chatbot. How can I help you?
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------

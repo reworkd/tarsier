@@ -1,7 +1,9 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ 1 ] Banque Centrale du Maroc [ @ [ @ [ @ 4 ]
+
                       [ @ 0 ] ]
                               **المغرب** BANK AL **بنك** - MAGHRIB
+
                    [ @ 5 ]              [ @ 7 ]        [ @ 8 ]          [ @ 9 ]        [ @ 10 ]
                           [ @ 6 ] A                 SUPERVISION      SYSTÈMES ET      STABILITÉ     [ @ 11 ]   [ 12 ] BILLETS ET [ 13 ] PUBLICATIONS ET
                            PROPOS     POLITIQUE                      MOYENS DE                      MARCHÉS      MONNAIES           RECHERCHE         [ 14 ] STATISTIQUES
@@ -33,6 +35,7 @@
                        [ @ 38 ] Banque Participative
                        [ @ 39 ] Institution de Microfinance
                        ( IMF )
+
                     [ @ 40 ] Fonds de soutien financier aux
                    TPME
                     [ @ 41 ] Coopération internationale et >
@@ -49,13 +52,17 @@
                     [ @ 49 ] Monnaie virtuelle
                    [ @ 50 ] ] Droit d'accès à l'information >
                    ( loi n ° 31-13 )
+
                     [ 51 ] Rechercher
                     [ # 52 ]                     [ $ 53 ]
                      Mot clé
+
                         [ 54 ] Accès rapides
                        [ @ 55 ]           [ @ 56 ]
+
                         Médias        Services rendus au
                        [ @ 57 ]           [ @ 58 ]
+
                     Achats / Appels       Carrières
                         d'offres
                          [ 59 ] Dernières publications
@@ -65,11 +72,38 @@
                     STATISTIQUES  2023
                     MONETAIRES
                                             [ [ @ 66 ]
+
+
+
                     [ @ 67 ] Dar As - Sikkah
+
+
+
                     [ @ 68 ] Musée de Bank Al-
                     Maghrib
+
+
+
                     [ @ 69 ] Espace pédagogique
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                     [ 70 ] Copyright © Bank Al - Maghrib 2023                         [ @ 71 ] Plan de site [ @ 72 ] Mentions légales [ @ 73 ] Contactez nous [ @ 74 ] Liens utiles
+
                     [ 76 ] En poursuivant votre visite sur ce site, vous acceptez l'utilisation de cookies. Pour plus d'informations [ @ 77 ] Cliquez ici            [ @ 75 ]
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1258
+Token count: 1260

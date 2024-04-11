@@ -2,29 +2,46 @@
 [ 12 ]                       Bill    @ 2 ] Patient Portal                      @ 4 ] Careers  @ 5 ] Contact Us
          [ @ 0 ] About  [ @ 1 ] Pay My  [                 [ @ 3 ] Medical Professionals [        [                   [ $ 6 ]
                                                                                                                   Search ☐
+
   [ @ 20 ] ]
   NORTHSIDE [ @ 21 ]          Locations    [ @ 22 ] ] Providers [ @ 23 ] Services [ 24 ] Patients & Visitors ✓ [ 25 ] Wellness ✓
      HOSPITAL
+
+
     [ @ 26 ] Northside Hospital Home / [ @ 27 ] Locations [ 28 ] Atlanta Ophthalmology Associates [ @ 29 ] SHARE @ 30 ] PRINT
+
+
     [ 31 ] SPECIALTY CARE
    **[ 32 ] Atlanta Ophthalmology**
    Associates
+
     [ 33 ] 5730 Glenridge Drive
     [ 34 ] Suite 120
     [ 35 ] Atlanta, GA 30328
     [ @ 36 ] Directions →
+
        [ @ 37 ] 404-252-1194
+
     [ 38 ] ADDITIONAL CONTACT INFORMATION
      [ 40 ] Fax   [ 39 ]   404-252-1196
      [ 42 ] Toll - Free [ 41 ] 877-353-1280
     [ 43 ] Location Website
     [ 44 ] Please visit [ @ 46 ] Atlanta Ophthalmology Associates [ 45 ] for
    additional information.
+
+
+
+
+
+
    **[ 47 ] Meet Our Team**
                                                                                         [ 68 ] At This Location
+
              [ @ 48 ]                   [ @ 53 ]                                             @ 69 ] FIND A PROVIDER
                                                                                             [
+
                                                                                                [ @ 70 ] PAY A BILL
+
                                                                                         [ 71 ] Hours
                                                                                           [ 73 ] Monday [ 72 ] 8:00 a.m. - 4:00
                                                                                                        p.m.
@@ -39,10 +56,18 @@
         [ 52 ] 4.9 out of 5 ( 256      ratings )
                                                                                           [ [ 81 ] Friday [ 80 ] 8:00 a.m. - 3:00 p.m.
             ratings )    Θ
+
                                                                                                     [ @ 82 ]
                                                                                               Need another location?
                                                                                             SEARCH LOCATIONS →
              [ @ 58 ]                   [ @ 63 ]
+
+
+
+
+
+
+
       [ @ 59 ] Ira Perszyk, MD      [ @ 64 ] Heather
                                     Weissman, MD
           [ 60 ] Specialty:
@@ -52,10 +77,19 @@
         [ 62 ] 4.6 out of 5 ( 671 Θ
             ratings )              [ 67 ] 4.7 out of 5 ( 768 Θ
                                        ratings )
+
+
+
+
+
+
       [ @ 83 ]
                                                  [ @ 96 ]  [ @ 97 ]  [ @ 98 ] MD [ @ 99 ]  [ @ 100 ]  [ @ 101 ]  [ @ 102 ]
       NORTHSIDE
          HOSPITAL
+
+
+
        [ @ 84 ] For Employees    [ @ 90 ] Pricing Transparency  [ 103 ] Northside News        [ 106 ] Northside
                                  Information                                                 Partnerships
        [ @ 85 ] For Providers                                   [ 104 ] Stay healthy and informed with
@@ -69,6 +103,8 @@
                                  [
        [ @ 89 ] Foundation
                                  [ @ 95 ] Recalls
+
+
       [ 109 ] Northside Hospital 2023 All Rights Reserved [ @ 110 ] Hospital Transparency Information
 --------------------------------------------------------------------------------------------------------------------------
-Token count: 1042
+Token count: 1044

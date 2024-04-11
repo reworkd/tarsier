@@ -1,8 +1,16 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 1 ]                                                                                                                                                                                                      [ $ 3 ]    Sign In
                   [ 2 ] Career Opportunities                                                                                                                      [ $ 4 ] Careers Homepage                [ $ 5 ] Search for Jobs
+
+
+
+
+
           [ # 6 ]       Search for jobs or keywords                                                            [ $ 7 ] Search
+
                [ $ 9 ] Distance or Location                     [ $ 10 ] Time Type                    [ $ 11 ] Country                   [ $ 12 ] More
+
+
           [ 14 ] 80 JOBS FOUND                                                                                                                                                                                     [ $ 142 ] X
                                                                                                                                                                                         [ ☑
                                                                                                          [ 144 ] Territory Account Manager [ @ 145 ]
@@ -23,6 +31,7 @@
            L [ 32 ]    Posted 15 Days Ago
                                                                                                          [ 160 ] ] Job Description:
           [ 33 ] 20231144
+
            [ @ 34 ] Territory Account Manager                                                            [ 161 ] Location: US - Pacific Northwest, Rocky Mountain Region or Bay Area
                                                                                                          candidates will be considered
                 [ 36 ] Seattle, Washington
@@ -59,6 +68,7 @@
                                                                                                          successful Territory Account Manager drives a superior customer experience by
           ( L ) [ 62 ] Posted 2 Days Ago                                                                 delivering technology solutions tailored to customer needs, while exceeding their
           [ 63 ] 20231337                                                                                assigned quota.
+
           [ @ 64 ] Cyber Security - Principal Systems Software Developer                                 [ 170 ] WHAT YOU WILL DO
           - Mac / iOS Kernel
                                                                                                              ⚫ [ 171 ] ] Manage and expand new business in enterprise and mid - level
@@ -118,40 +128,68 @@
           ( L [ 104 ] Posted 8 Days Ago                                                                  individually.
                                                                                                          [ 192 ] # LI - DA1
           [ 105 ] 20231217
+
           [ @ 106 ] Cyber Security - Senior Backend Cloud Developer ( C #                                 193 ] Scheduled Weekly Hours:
           & AWS )                                                                                        [
                                                                                                          40
                 [ 108 ] Bengaluru, India
                 [ 110 ] Posted 9 Days Ago                                                                [ 194 ] Compensation Base Range:
           [ 111 ] 20230795                                                                               $ 113,750 $ 162,500 USD
+
           [ @ 112 ] Senior Software Developer in Test                                                    [ 195 ] Bonus:
            O                                                                                             The BlackBerry Sales Incentive Pay ( SIP ) program is a bonus incentive program
                 [ 114 ] Bengaluru, India
                                                                                                          designed to reward eligible employees for their contributions towards BlackBerry's
            L    [ 116 ] Posted 9 Days Ago                                                                sales success. SiP payments are based on an employee's sales performance against
           [ 117 ] 20231199                                                                               quarterly or full - year quotas for the fiscal year.
+
           [ @ 118 ] Cyber Security - Principal Systems Software                                          [ 196 ] Benefits:
           Developer - Linux Kernel                                                                       [ 197 ] The BlackBerry Employee Benefits programs offer a wide range of benefits that
-                                                                                                         support your physical, financial and personal well - being.                BlackBerry remains
+                                                                                                         support your physical, financial and personal well - being.               BlackBerry remains
                 [ 120 ] Bengaluru, India                                                                 committed to offering affordable benefits including coverage for medical, dental, vision,
                 [ 122 ] Posted 10 Days Ago                                                               life, disability insurance, 401 ( k ), employee share purchase program and paid - time - off.
           [ 123 ] 20231186
+
           [ @ 124 ] BlackBerry QNX - Senior Functional Safety Manager
           ( Hyderabad )
                 [ 126 ] Hyderabad, Telangana, India
                 [ 128 ] Posted 21 Days Ago
           [ 129 ] 20231265
+
           [ @ 130 ] Senior Motion Designer Specialist
                 [ 132 ] Waterloo, Ontario
                 [ 134 ] Posted 22 Days Ago
           [ 135 ] 20231149
+
                                 136 137 138 139 [ $ 140 ] >
                                     [ 141 ] 1-20 of 80 jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                                                                                                          [ 198 ] Follow Us
                                                                                                        [ @ 199 ] [ @ 200 ] [ @ 201 ] [ @ 202 ]
                                                                                                         in
                                                                                       [ @ 203 ] BlackBerry Applicant Privacy Notice
+
                                                                                                                 workday
                                                                                                [ 204 ]    2023 Workday, Inc. All rights reserved.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2491
+Token count: 2492

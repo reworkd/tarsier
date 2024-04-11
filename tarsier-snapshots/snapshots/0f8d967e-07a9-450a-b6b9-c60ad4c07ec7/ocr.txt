@@ -7,11 +7,16 @@
                        [ $ 11 ]
                                                                              [ 19 ] Try ChatGPT >
                     [ 12 ] Company ✓
+
+
   [ @ 20 ]
   [ 21 ] Careers
                                                   [ 23 ] San Francisco, California, United States - Legal
      **Head of**
  **Commercial Legal**
+
+
+
   [ @ 24 ]        [ 26 ] About the Team
   [ 25 ] Apply now >
                   [ 27 ] OpenAl's Legal team plays a crucial role in furthering OpenAl's
@@ -20,6 +25,7 @@
                   this team is for you. The team comprises professionals from diverse fields,
                   including technology, Al, privacy, IP, corporate, employment, tax law,
                   regulatory, and litigation.
+
                   [ 28 ] About the Role
                   [ 29 ] OpenAl's Commercial and Go To Market initiatives have experienced
                   significant growth, and we are now looking to expand our team with a
@@ -31,7 +37,9 @@
                   [ 30 ] This role is based in San Francisco, CA. We use a hybrid work model
                   of 3 days in the office per week and offer relocation assistance to new
                   employees.
+
                   [ 31 ] In this role, you will:
+
                   • [ 33 ] Lead & Scale [ 32 ]: Build, manage, and motivate our commercial
                    legal team to meet GTM growth, vendor, and procurement goals.
                   • [ 35 ] Identify Strategic Partnerships [ 34 ]: Enhance our ability to
@@ -41,6 +49,7 @@
                   • [ 39 ] Define Success Metrics [ 38 ]: Craft and fine - tune metrics to gauge
                    team success, reporting, and adapting to shifts in the commercial
                    landscape.
+
                   [ 40 ] We expect candidates to bring a blend of experience:
                    [ 41 ] 15+ years of legal experience in in - house and law firm roles
                    [ 42 ] A reputation for being a motivational and supportive leader of high-
@@ -52,7 +61,11 @@
                    Market, Finance, Product, Security and more.
                   • [ 46 ] JD degree from an accredited law school and membership in at
                    least one state bar.
+
                   [ 47 ] # LI - RA1
+
+
+
                   [ 48 ] We are an equal opportunity employer and do not discriminate on the
                   basis of race, religion, national origin, gender, sexual orientation, age,
                   veteran status, disability or any other legally protected status. Pursuant to
@@ -62,8 +75,10 @@
                   applicants with disabilities, and requests can be made via
                   this [ @ 51 ] link [ 50 ].
                   [ @ 52 ] OpenAl US Applicant Privacy Policy
+
                   [ 53 ] Compensation, Benefits and Perks
                   [ 54 ] Total compensation also includes generous equity and benefits.
+
                   • [ 55 ] Medical, dental, and vision insurance for you and your family
                   • [ 56 ] Mental health and wellness support
                   • [ 57 ] 401 ( k ) plan with 4 % matching
@@ -72,6 +87,7 @@
                    [ 60 ] Annual learning & development stipend ( $ 1,500 per year )
                   [ 61 ] Annual Salary Range
                   [ 62 ] $ 365,000 [ 63 ] - [ 64 ] $ 365,000 USD
+
                   [ 65 ] About OpenAl
                   [ 66 ] OpenAl is an Al research and deployment company dedicated to
                   ensuring that general - purpose artificial intelligence benefits all of humanity.
@@ -84,8 +100,15 @@
                   [ 67 ] At OpenAl, we believe artificial intelligence has the potential to help
                   people solve immense global challenges, and we want the upside of Al to
                   be widely shared. Join us in shaping the future of technology.
+
+
                   [ @ 68 ]
                   [ 69 ] Apply now >
+
+
+
+
+
   [ @ 70 ]                        [ 71 ] Research [ 80 ] API       [ 89 ] ChatGPT  [ 96 ] Company
     OpenAl                        [ @ 72 ]        [ @ 81 ]        [ @ 90 ]         [ @ 97 ]
                                   [ 73 ] Overview [ 82 ] Overview  [ 91 ] Overview [ 98 ] About
@@ -102,6 +125,11 @@
                                                                                    stories
                                                                                    [ @ 109 ]
                                                                                    [ 110 ] Safety
+
+
+
+
+
   [ 111 ] OpenAl 2015-2023        [ @ 118 ] [ @ 120 ]  [ @ 122 ] [ @ 124 ]     [ @ 126 ]
  [ @ 112 ]                        [ 119 ] Twitter [ 121 ] YouTube [ 123 ] GitHub [ 125 ] SoundCloud [ 127 ] LinkedIn
   [ 113 ] Terms & policies
@@ -110,4 +138,4 @@
  [ @ 116 ]                            [ $ 128 ]
   [ 117 ] Brand guidelines        [ 129 ] Back to top ↑
 -------------------------------------------------------------------------------------------------
-Token count: 1612
+Token count: 1614

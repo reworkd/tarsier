@@ -1,8 +1,14 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 1 ]                                                                                                                                                                                                                           [ $ 2 ] & Sign In
         yahoo!                                                                                                                                                                      [ $ 3 ] Search for Jobs                [ $ 4 ] Introduce Yourself
+
+
                                                                          **Yahoo Careers**
+
+
+
               [ 6 ] ( Senior ) Backend Engineer, Media                                                                                                                                     [ 67 ] About Us
+
                   [ @ 7 ] Apply
                                                                                                                                                                                                     **yahoo!**
                   [ 9 ] Taiwan - Remote                               [ 11 ] Full time
@@ -15,6 +21,7 @@
            Whether you're looking to write mobile app code, engineer the servers behind our massive ad tech stacks, or                                                                    sports, to shopping, gaming and news
            develop algorithms to help us process trillions of data points a day, what you do here will have a huge impact                                                                     with                                  contant
            on our business - and the world. Want in?                                                                                                                                         [ $ 69 ] Read More ▾
+
            [ 17 ] A Little About Us
            [ 18 ] Taiwan Media team develops and operates 30+ websites and mobile apps, including Yahoo News,
            Finance, Entertainment, TV, Homepage, and Commerce, providing premium digital content to millions of users
@@ -66,6 +73,7 @@
                    [ 58 ] Phone & Tech [ 57 ] - We will provide all the Apple goods to do your job well.
            [ 59 ] Join us to immerse yourself in an energetic environment, closely access yourself to cutting edge
            technology and participate yourself in the exciting and dynamic Internet Industry! Apply Now!
+
            [ 60 ] Yahoo is proud to be an equal opportunity workplace. All qualified applicants will receive consideration for
            employment without regard to, and will not be discriminated against based on age, race, gender, color, religion,
            national origin, sexual orientation, gender identity, veteran status, disability or any other protected category.
@@ -74,17 +82,23 @@
            accommodation due to a disability, please submit a request via the Accommodation Request Form (
             [ @ 62 ] ] [ 63 ] www.yahooinc.com/careers/contact-us.html [ 61 ] ) or call 408-336-1409. Requests and calls
            received for non - disability related issues, such as following up on an application, will not receive a response.
+
            [ 64 ] Yahoo has a high degree of flexibility around employee location and hybrid working. In fact, our flexible-
            hybrid approach to work is one of the things our employees rave about. Most roles don't require specific
            regular patterns of in - person office attendance. If you join Yahoo, you may be asked to attend ( or travel to
            attend ) on - site work sessions, team - building, or other in - person events. When these occur, you'll be given
            notice to make arrangements.
            [ 65 ] If you're curious about how this factors into this role, please discuss with the recruiter.
+
            [ 66 ] Currently work for Yahoo? Please apply on our internal career site.
+
+
+
                                                                                                                      [ 70 ] Follow Us
                                                                                                                       [ @ 71 ] | [ @ 72 ] | [ @ 73 ]
                                                                                                                                              in
+
                                                                                                                            workday.
                                                                                                           [ 74 ]   2023 Workday, Inc. All rights reserved.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1566
+Token count: 1567

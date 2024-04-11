@@ -1,23 +1,30 @@
 -----------------------------------------------------------------------------------------------------------------------------------------
 ANTHROPIC
                                    [ @ 0 ] ]
+
                                       **Prompt Engineering Manager**                                     [ @ 6 ] APPLY FOR THIS JOB
+
                                    [ 2 ] San Francisco, CA
                                    [ 3 ] Prompt Engineering [ 4 ] Full - Time [ 5 ] / Hybrid
+
+
                                    [ 7 ] Anthropic's AI technology is amongst the most capable and safe in the world. However, large language models
                                   are a new type of intelligence, and the art of instructing them in a way that delivers the best results is still in its
                                   infancy - it's a hybrid between programming, instructing, and teaching. You will figure out the best methods of
                                   prompting our AI to accomplish a wide range of tasks, then document these methods to build up a library of tools and
                                   a set of tutorials that allows others to learn prompt engineering, as well as work with high value partners to directly
                                   solve their challenges.
+
                                    [ 8 ] Given that the field of prompt - engineering is arguably less than 2 years old, this position is a bit hard to hire for!
                                   As a result, we ask that you share with us a specific prompt engineering project on LLMs that you're proud of in your
                                   application! Ideally this project should show off a complex and clever prompting architecture or a systematic
                                   evaluation of an LLM's behavior.
+
                                    [ 9 ] About Anthropic
                                    [ 10 ] Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI
                                   systems. We want AI to be safe and beneficial for our customers and for society as a whole. Our interdisciplinary team
                                   has experience across ML, physics, policy, business and product.
+
                                    [ 11 ] Responsibilities:
                                      [ 12 ] Manage and mentor prompt engineers, providing both technical guidance and career development
                                      [ 13 ] Set goals and reviews for your team, promoting growth and output
@@ -28,6 +35,8 @@ ANTHROPIC
                                      [ 17 ] Act as editor for a set of tutorials and interactive tools that teach the art of prompt engineering to our
                                      customers.
                                      [ 18 ] Work with large enterprise customers on their prompting strategies.
+
+
                                    [ 19 ] You may be a good fit if you:
                                   ⚫ [ 20 ] Have experience managing high performance teams of engineers or scientists
                                      [ 21 ] Have an organizational mindset and enjoy building teams from the ground up.
@@ -42,25 +51,33 @@ ANTHROPIC
                                   ⚫ [ 30 ] Think creatively about the risks and benefits of new technologies, and think beyond past checklists and
                                      playbooks.
                                      [ 31 ] Stay up - to - date and informed by taking an active interest in emerging research and industry trends.
+
+
                                    [ 32 ] Annual Salary
                                      [ 33 ] $ 320,000- $ 520,000
+
                                    [ 35 ] Hybrid policy & US visa sponsorship: [ [ 34 ] Currently, we expect all staff to be in our office at least 25 % of
                                   the time. We do sponsor visas! However, we aren't able to successfully sponsor visas for every role and every
                                   candidate; operations roles are especially difficult to support. But if we make you an offer, we will make every effort
                                   to get you into the United States, and we retain an immigration lawyer to help with this.
+
                                    [ 36 ] LinkedIn tracking: # LI - DNI
+
                                    [ 38 ] We encourage you to apply even if you do not believe you meet every single qualification. [ 37 ] Not all
                                   strong candidates will meet every single qualification as listed. Research shows that people who identify as being
                                   from underrepresented groups are more prone to experiencing imposter syndrome and doubting the strength of their
                                   candidacy, so we urge you not to exclude yourself prematurely and to submit an application if you're interested in this
                                   work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this
                                   makes representation even more important, and we strive to include a range of diverse perspectives on our team.
+
                                    [ 39 ] Compensation and Benefits [ 40 ] *
                                    [ 41 ] Anthropic's compensation package consists of three elements: salary, equity, and benefits. We are committed to
                                   pay fairness and aim for these three elements collectively to be highly competitive with market rates.
+
                                    [ 43 ] Equity [ 42 ] - On top of this position's salary ( listed above ), equity will be a major component of the total
                                   compensation. We aim to offer higher - than - average equity compensation for a company of our size, and communicate
                                   equity amounts at the time of offer issuance.
+
                                    [ 45 ] Benefits [ 44 ] ] - Benefits we offer include:
                                    [ 46 ] - Optional equity donation matching at a 3: 1 ratio, up to 50 % of your equity grant.
                                    [ 47 ] - Comprehensive health, dental, and vision insurance for you and all your dependents.
@@ -71,11 +88,13 @@ ANTHROPIC
                                    [ 52 ] - Fertility benefits via Carrot.
                                    [ 53 ] - Daily lunches and snacks in our office.
                                    [ 54 ] - Relocation support for those moving to the Bay Area.
+
                                    [ 55 ] * This compensation and benefits information is based on Anthropic's good faith estimate for this position, in
                                   San Francisco, CA, as of the date of publication and may be modified in the future. The level of pay within the range
                                   will depend on a variety of job - related factors, including where you place on our internal performance ladders, which
                                   is based on factors including past work experience, relevant education, and performance on our interviews or in a
                                   work trial.
+
                                    [ 56 ] How we're different
                                    [ 57 ] We believe that the highest - impact AI research will be big science. At Anthropic we work as a single cohesive
                                   team on just a few large - scale research efforts. And we value impact advancing our long - term goals of steerable,
@@ -86,16 +105,26 @@ ANTHROPIC
                                   of knowledge and intuition about the most robustly effective innovations in AI, and so thoroughly - documented null
                                   results are almost as valuable as positive discoveries. We do not have boundaries between engineering and research,
                                   and we expect all of our technical staff to contribute to both as needed.
+
                                    [ 58 ] The easiest way to understand our research directions is to read our [ @ 67 ] recent research [ 59 ]. This
                                   research continues many of the directions our team worked on prior to Anthropic, including: [ @ 68 ] GPT - 3 [ 60 ] ],
                                    [ @ 69 ] Circuit - Based Interpretability [ 61 ], [ @ 70 ] Multimodal Neurons [ 62 ], [ @ 71 ] Scaling Laws [ 63 ],
                                    [ @ 72 ] AI & Compute [ 64 ], [ @ 73 ] Concrete Problems in AI Safety [ 65 ], and [ @ 74 ] Learning from Human
                                   Preferences [ 66 ]
+
                                    [ 75 ] Come work with us!
                                    [ 76 ] Anthropic is a public benefit corporation based in San Francisco. We offer competitive compensation and
                                   benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a
                                   lovely office space in which to collaborate with colleagues.
+
+
                                                                       [ @ 77 ] APPLY FOR THIS JOB
+
+
+
+
+
+
                                                                     [ @ 78 ] Jobs powered by    LEVER
 -----------------------------------------------------------------------------------------------------------------------------------------
 Token count: 1954

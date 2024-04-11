@@ -2,6 +2,22 @@
 [ $ 2 ]    English     [ $ 3 ] 8 Sign In
     [ @ 1 ]
     NORTON ROSE FULBRIGHT                                                                                                                [ $ 4 ] About Us           [ $ 5 ] Search for Jobs            [ $ 6 ] Introduce Yourself
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
              [ 8 ] Senior Analyst, HRIS
                                                                                                                                                                          NORTON ROSE FULBRIGHT
                  [ @ 9 ] Apply                                                                                                                                            [ 191 ] Norton Rose Fulbright provides a
@@ -86,7 +102,12 @@
           uses E - Verify in its hiring practices to achieve a lawful workforce.
            [ @ 188 ] Equal Employment Opportunity. [ 186 ]                  [ @ 189 ] EEO is the Law - Supplement [ 187 ]
            [ @ 190 ] Pay Transparency.
+
+
+
+
+
                                                                                                                 workday
                                                                                                [ 195 ] 2023 Workday, Inc. All rights reserved.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1937
+Token count: 1938

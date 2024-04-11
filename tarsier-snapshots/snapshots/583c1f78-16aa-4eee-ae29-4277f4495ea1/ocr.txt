@@ -1,8 +1,14 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ $ 1 ] Search                [ @ 2 ] Pay My Bill     [ @ 3 ] Careers      [ @ 4 ] Give Now      [ @ 5 ] VCU Health MyChart      [ @ 6 ] Contact
+
+
         **@ 7 ]**   **VCU Health.**                       [ @ 8 ] nd a Provider    [ @ 9 ] Our Services   [ @ 10 ] Locations    [ $ 11 ]     [ $ 12 ] = Explore
         [
+
+
          [ @ 14 ] Home   [ @ 15 ] Locations [ 16 ] Location Details
+
+
          [ 17 ] **Mayland Medical**
         **Center**
          [ 18 ] Address:
@@ -11,7 +17,9 @@
          [ 21 ] ( 804 ) 527-4540
         **[ 22 ] Parking Information**
          [ 23 ] Free parking is available
+
         [ 24 ] Services
+
               [ 25 ] Adolescent Medicine
               [ 26 ] Endocrinology
            ⚫ [ 27 ] Family Medicine
@@ -34,8 +42,10 @@
         64                     .              Medical Center
                               Rd                        **Mayland**
                                                 Dr           Dr
+
                            Gaskins          Bryson                Spendthrift
                Run                                           Copper Mill Apartments
+
             Deep                      Bohollow Dr Meadowview Avana Copper Spring
                 Holiday                                Rd
                Dogwood Terrace
@@ -44,6 +54,8 @@
                              Discovery Village
                on             At the West EiGoogle
                                    Keyboard shortcuts Map data © 2023 Google Terms Report a map error
+
+
                 **VCU Health**
                                                                                [ @ 39 ] About VCU   [ @ 46 ] Notice of Non - discrimination
                                                                                Health
@@ -61,4 +73,4 @@
                                                                                                                                                         [ 13 ] Need
                                                                                                                                                           help
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 726
+Token count: 727

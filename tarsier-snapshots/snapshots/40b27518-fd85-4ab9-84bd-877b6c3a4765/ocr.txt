@@ -1,0 +1,104 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 1 ]
+         [ 4 ] STAFF DIRECTORY
+
+          [ $ 5 ] Name:                 [ $ 7 ] Title:                [ $ 9 ] Location:
+         [ # 6 ]                       [ # 8 ]                          [ 10 ] All Locations                                              [ @ 11 ] Search
+
+                        13 ] Olivia Bennett                                                    ☐ [ @ 15 ] obennett@columbus.k12.oh.us
+                       [
+          [ 12 ] OB
+                        [ 14 ] Speech
+
+                       [ 17 ] Ann Berkow
+          [ 16 ] AB
+                        [ 18 ] Second Grade
+
+                                                                                               ☐ [ @ 22 ] cbouttry@columbus.k12.oh.us
+                        [ 20 ] Carolyn Bouttry
+          [ 19 ] CB
+                        [ 21 ] Head Custodian
+
+                                                                                                  [ @ 26 ] mbrace@columbus.k12.oh.us
+                       [ 24 ] Michaelyn Brace
+          [ 23 ] MB
+                        [ 25 ] Pre - Kindergaten
+
+                                                                                               ☐ [ @ 29 ] abrown18@columbus.k12.oh.us
+                       [ 27 ] Amy Brown
+                        [ 28 ] Kindergarten
+
+                                                                                                  [ @ 33 ] bbrown5@columbus.k12.oh.us
+                        [ 31 ] Briona Brown
+          [ 30 ] BB
+                        [ 32 ] MD I.A.
+
+                                                                                               ☐ [ @ 36 ] bbuckley@columbus.k12.oh.us
+                       [ 34 ] Barbara Buckley
+                       [ 35 ] School Nurse
+
+                                                                                               ☐ [ @ 40 ] tcarson@columbus.k12.oh.us
+                       [ 38 ] Tiffany Carson
+          [ 37 ] TC
+                        [ 39 ] Pre - K Instructional Assistant
+
+                                                                                               ☐ [ @ 44 ] mcaudill@columbus.k12.oh.usm
+                       [ 42 ] Mark Caudill
+          [ 41 ] MC
+                        [ 43 ] Principal
+
+                                                                                               ☐ [ @ 48 ] aowens1@columbus.k12.oh.us
+                       [ 46 ] Ann Dietra Owens
+          [ 45 ] AD
+                        [ 47 ] Night Custodian
+
+                                                                                               ☐ [ @ 52 ] edietschknauss@columbus.k12.oh.us
+                       [ 50 ] Emily Dietsch - Knaus
+          [ 49 ] ED
+                        [ 51 ] Intermediate High Incidence
+
+                                                                                                  [ @ 55 ] meberlyn7744@columbus.k12.oh.us
+                       [ 53 ] Mary Eberlyn
+                        [ 54 ] Librarian
+
+                                                                                               ☐ [ @ 59 ] mfitzgerald8293@columbus.k12.oh.us
+                        [ 57 ] Monica Fitzgerald
+         [ 56 ] MF
+                        [ 58 ] Kindergarten Instructional Assistant
+
+                                                                                               ☐ [ @ 63 ] bgerdes@columbus.k12.oh.us
+                       [ 61 ] Blaine Gerdes
+         [ 60 ] BG
+                        [ 62 ] Fifth Grade
+
+                                                                                               ☐ [ @ 67 ] agruenberg@columbus.k12.oh.us
+                        [ 65 ] Adam Gruenberg
+          [ 64 ] AG
+                        [ 66 ] First Grade
+
+                                     Harris                                                    ☐  [ @ 71 ] rharris2112@columbus.k12.oh.us
+                       [ 69 ] Ritchie
+         [ 68 ] RH
+                        [ 70 ] Fourth Grade
+
+                        73 ] Vanessa Howell                                                    ☐ [ @ 75 ] vhowell1@columbus.k12.oh.us
+                        [
+          [ 72 ] VH
+                        [ 74 ] Secretary
+
+                                    Johns                                                      ☐  [ @ 79 ] jjohns1@columbus.k12.oh.us
+                       [ 77 ] Jessica
+          [ 76 ] JJ
+                       [ 78 ] Primary High Incidence
+
+                                                                                                  [ @ 83 ] ljohnson3@columbus.k12.oh.us
+                       [ 81 ] Lindsay Johnson
+         [ 80 ] LJ
+                        [ 82 ] 5th Grade
+
+                                                                                               ☐  [ @ 87 ] jking3@columbus.k12.oh.us
+                       [ 85 ] Jocelyn King
+          [ 84 ] JK
+                        [ 86 ] Building Substitute
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 956

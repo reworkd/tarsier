@@ -1,18 +1,23 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 142 ]           English
       [ @ 12 ] Man Home                                                                                                                           [ @ 13 ] COVID - 19 |            [ @ 14 ] Staff Mail |           [ @ 15 ] Tenders |             [ @ 16 ] FAQs
+
   [ @ 17 ]                                                                                                                                                                                                                                                                            [ @ 1 ]
                          The National Treasury
                          & Economic Planning                                                                                                                                                                                                                                         &
                          The National Treasury
    REPUBLIC OF KENYA
+
       [ @ 18 ] Home                 [ @ 19 ] About Us                        [ @ 27 ] Information & Services
                                                                                                                                                                                   [ # 61 ]                                                                                     [ $ 62 ]
       [ @ 51 ] Resource Centre                             [ @ 55 ] Media Centre                          [ @ 59 ] Contact Us
                                                                                                                                                                                      Search ...
       [ @ 60 ] A - to - Z Search
+
   [ @ 63 ] HOME                [ 64 ] REGULATIONS
                                                                                                                                                                                                                                              **[ 65 ] Regulations**
+
+
       [ @ 103 ] Acts                                                            [ @ 66 ] Public Finance                                                                          [ 72 ] REGULATION DOCUMENTS
                                                                                Management Regulations                               [ @ 73 ] National Government & County Governments ( Amendments ) 2023
       [ @ 104 ] Bills
@@ -52,6 +57,12 @@
                                                                                                                                     [ @ 100 ] PFM COVID - 19 Regulations 2020 Final Regulations
                                                                                                                                     [ @ 101 ] Draft_Public_Finance Management Biashara Kenya Fund Regulations 2018
                                                                                                                                     [ @ 102 ] Revised National Government Affirmative Action Fund Regulations, 2016
+
+
+
+
+
+
            [ 113 ] OUR STATE CORPORATIONS
            [ @ 114 ] Central Bank of Kenya                                                            [ @ 123 ] Capital Markets Authority                                                        [ @ 132 ] Competition Authority of Kenya
            [ @ 115 ] Competition Tribunal                                                             [ @ 124 ] Consolidated Bank of Kenya                                                       [ @ 133 ] Deposit Protection Fund Board
@@ -62,7 +73,10 @@
            [ @ 120 ] Public Procurement Regulatory Authority                                          [ @ 129 ] PFMR Secretariat                                                                 [ @ 138 ] Government Clearing Agency
            [ @ 121 ] Public Sector Accounting Standard Board                                          [ @ 130 ] Privatisation Commission                                                         [ @ 139 ] Kenya Development Corporation
            [ @ 122 ] Unclaimed Financial Assets Authority                                             [ @ 131 ] Retirement Benefits Authority
+
+
+
            [ @ 140 ]                              [ 141 ] © Copyright 2021. The National Treasury. All Rights Reserved.
                                                                                                                                                                                                                                                                                     Privacy - Terms
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1312
+Token count: 1313

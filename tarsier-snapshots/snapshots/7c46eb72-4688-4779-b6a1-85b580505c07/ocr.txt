@@ -1,13 +1,20 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 0 ] Webmail [ @ 1 ] Jobs [ @ 2 ] Contact
+
                                                                                           Pakistan Electronic Media Regulatory Authority
                                                                                                                             Government of Pakistan
                                                   PEMRA
+
                                                 [ @ 3 ] HOME         [ @ 4 ] ABOUT PEMRA           [ @ 10 ] LEGISLATION          [ @ 19 ] LICENSING          [ @ 30 ] COC          [ @ 33 ] TAM / RATING SERVICES
-                                                                                               [ @ 34 ] COMPLAINTS CALL CENTER              [ @ 36 ] DECISIONS NEW
+                                                                                               [ @ 34 ] COMPLAINTS CALL CENTER             [ @ 36 ] DECISIONS NEW
+
                                                                         **PEMRA**
+
+
+
                                       IMPROVING THE STANDARDS OF
                                       INFORMATION, EDUCATION, ENTERTAINMENT
+
                                                                                                                                                                                        [ 38 ] NEWS & PRESS RELEASE
                                      [ 37 ] NEWS & PRESS RELEASE
                                                                                                                                                                                [ 45 ] Posted: Sep 05, 2022
@@ -79,4 +86,4 @@
                                        [ @ 136 ] HOME [ 133 ]         [ @ 137 ] ABOUT PEMRA [ 134 ]                                         [ 142 ] COPYRIGHTS © 2020 ALL RIGHTS RESERVED BY PEMRA
                                        [ @ 138 ] CONTACT US [ 135 ] [ @ 139 ] FAQ
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1505
+Token count: 1506

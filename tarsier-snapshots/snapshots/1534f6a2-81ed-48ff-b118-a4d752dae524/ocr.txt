@@ -7,10 +7,15 @@
                       [ $ 11 ]
                                                                           [ 19 ] Try ChatGPT >
                    [ 12 ] Company ✓
+
+
   [ @ 20 ]
   [ 21 ] Careers
                                                  [ 23 ] San Francisco, California, United States - Legal
     **Al Policy**       **Counsel**
+
+
+
  [ @ 24 ]        [ 26 ] About the Team
   [ 25 ] Apply now >
                  [ 27 ] OpenAl's Legal team plays a crucial role in furthering OpenAl's
@@ -19,6 +24,7 @@
                  this team is for you. The team comprises professionals from diverse fields,
                  including technology, Al, privacy, IP, corporate, employment, tax law,
                  regulatory, and litigation.
+
                  [ 28 ] About the Role
                  [ 29 ] We're seeking an Al Policy Counsel to help navigate the increasing Al
                  legislative and regulatory landscape in the US and abroad. We're looking
@@ -30,7 +36,9 @@
                  Washington, DC. For San Francisco HQ, we use a hybrid work model of 3
                  days in the office per week and offer relocation assistance to new
                  employees.
+
                  [ 31 ] In this role, you will:
+
                  • [ 32 ] Analyze legislative and regulatory proposals concerning Al to
                   understand their impact on OpenAl and the broader Al community.
                  • [ 33 ] Draft white papers, comments, and other materials to articulate
@@ -41,7 +49,10 @@
                   and industry groups, to advocate for favorable policy frameworks.
                  • [ 36 ] Monitor and keep the team updated on emerging policy issues
                   related to Al.
+
+
                  [ 37 ] You might thrive in this role if you have:
+
                  • [ 38 ] 5-9 years of legal and policy experience.
                  • [ 39 ] A combination of an in - house technology company, government, or
                   law firm experience.
@@ -51,14 +62,17 @@
                  • [ 42 ] Experience analyzing complex legislation.
                    [ 43 ] Experience engaging with regulators and / or policymakers.
                  . [ 44 ] International policy experience, particularly in the EU and UK.
+
                  [ 45 ] About the Interview Process
                  [ 46 ] We will accept applications and conduct interviews through
                  December, targeting onboarding by early January. The interview process
                  may include a written assessment and several values, skills, and behavioral
                  interviews with our team, virtually or in person.
                  [ 47 ] # LI - RA1
+
                  [ 48 ] Compensation, Benefits and Perks
                  [ 49 ] Total compensation also includes generous equity and benefits.
+
                  • [ 50 ] Medical, dental, and vision insurance for you and your family
                  • [ 51 ] Mental health and wellness support
                  • [ 52 ] 401 ( k ) plan with 4 % matching
@@ -67,6 +81,7 @@
                    [ 55 ] Annual learning & development stipend ( $ 1,500 per year )
                  [ 56 ] Annual Salary Range
                  [ 57 ] $ 250,000 [ 58 ] - [ 59 ] $ 250,000 USD
+
                  [ 60 ] About OpenAl
                  [ 61 ] OpenAl is an Al research and deployment company dedicated to
                  ensuring that general - purpose artificial intelligence benefits all of humanity.
@@ -79,8 +94,14 @@
                  [ 62 ] At OpenAl, we believe artificial intelligence has the potential to help
                  people solve immense global challenges, and we want the upside of Al to
                  be widely shared. Join us in shaping the future of technology.
+
                  [ @ 63 ]
                  [ 64 ] Apply now >
+
+
+
+
+
  [ @ 65 ]                        [ 66 ] Research [ 75 ] API      [ 84 ] ChatGPT [ 91 ] Company
     OpenAl                       [ @ 67 ]        [ @ 76 ]       [ @ 85 ]        [ @ 92 ]
                                  [ 68 ] Overview [ 77 ] Overview [ 86 ] Overview [ 93 ] About
@@ -97,6 +118,11 @@
                                                                                 stories
                                                                                 [ @ 104 ]
                                                                                 [ 105 ] Safety
+
+
+
+
+
  [ 106 ] OpenAl 2015-2023        [ @ 113 ] [ @ 115 ] [ @ 117 ] [ @ 119 ]    [ @ 121 ]
  [ @ 107 ]                       [ 114 ] Twitter [ 116 ] YouTube [ 118 ] GitHub [ 120 ] SoundCloud [ 122 ] LinkedIn
  [ 108 ] Terms & policies
@@ -105,4 +131,4 @@
   [ @ 111 ]                          [ $ 123 ]
   [ 112 ] Brand guidelines       [ 124 ] Back to top ↑
 ----------------------------------------------------------------------------------------------
-Token count: 1522
+Token count: 1524

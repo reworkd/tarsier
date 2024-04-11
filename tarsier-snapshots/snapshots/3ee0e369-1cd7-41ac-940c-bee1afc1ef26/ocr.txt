@@ -10,6 +10,7 @@
                                                                                        [ @ 8 ]                                                   [ @ 9 ]                                                    [ @ 11 ] ]
               [ 15 ] **Hospitals**                                                                                                                                                                         Classes &
                                                                                                                                                                                                             [ @ 12 ]
+
                                                                                                                                                                                                             [ @ 13 ]
                                                                                                                                                                                                                @
                                                                                                                                                                                                             Undates Get
@@ -17,6 +18,9 @@
                        [ 16 ] Atlantic Health System hospitals provide compassionate,                                              patient - centered care to northern                                         ☐
                                                                           New Jersey and surrounding areas                                                                                                   Donate
                                                                                                                                         .
+
+
+
               **[ 17 ] Morristown Medical Center**
               [ 18 ] Morristown Medical Center was ranked the number two
               hospital in New Jersey by [ 21 ] U.S. News & World Report [ 19 ] in its
@@ -26,7 +30,10 @@
               & Gynecology Orthopedics, and Pulmonology & Lung Surgery. It
              was also recognized in 20 common adult procedures and
               conditions.
+
                     [ @ 23 ] LEARN MORE
+
+
               **[ 24 ] Overlook Medical Center**
               [ 25 ] Named one of [ @ 29 ] America's 50 Best Hospitals [ 26 ] ] by
               Healthgrades and recognized as a [ @ 30 ] Best Regional
@@ -34,7 +41,11 @@
               Report [ 28 ] for the thirteenth consecutive year, Overlook Medical
               Center is home to the Atlantic Neuroscience Institute, which serves
               as a hub for the New Jersey Stroke Network.
+
                     [ @ 32 ] LEARN MORE
+
+
+
               **[ 33 ] Newton Medical Center**                                                                                                          Center
                                                                                                                                             Newton Medical
               [ 34 ] Newton Medical Center was recognized in the top 10 % in the
@@ -43,7 +54,10 @@
               pneumonia, respiratory failure, sepsis, total knee replacement and
               upper gastrointestinal surgeries, according to
               [ @ 36 ] Healthgrades [ 35 ].
+
                     [ @ 37 ] LEARN MORE
+
+
               [ 38 ] **Chilton Medical Center**                                                                                                            Chilton
                                                                                                                                                                     Medical
                                                                                                                                                                            Center
@@ -52,7 +66,11 @@
               Castle Connolly Medical, Ltd., and the Chilton Breast Center has
               been designated a Breast Imaging Center of Excellence by the
               American College of Radiology.
+
                     [ @ 42 ] LEARN MORE
+
+
+
               **[ 43 ] Hackettstown Medical Center**                                                                             How
               [ 44 ] Hackettstown Medical Center has achieved Get With the
               GuidelinesⓇ Stroke Gold Plus Quality Achievement Award with
@@ -60,7 +78,10 @@
               Association and American Stroke Association, and is designated a
               Primary Stroke Center by the NJ Department of Health and Senior
               Services and by The Joint Commission.
+
                     [ @ 45 ] LEARN MORE
+
+
               **[ 46 ] Goryeb Children's Hospital**
                                                                                                                                                                           N'S HOSPITAL
               [ 47 ] Goryeb Children's Hospital is a state - designated" Children's
@@ -68,13 +89,20 @@
               Children's Hospital Association. We have more than 250 community
               pediatricians on staff and more than 100 board - certified pediatric
               specialists.
+
                      @ 48 ] LEARN MORE
+
+
               **[ 49 ] Atlantic Rehabilitation Institute**
               [ 50 ] Atlantic Rehabilitation Institute - a joint venture between
               Kindred Healthcare and Atlantic Health System - provides
               personalized inpatient rehabilitation services designed to restore
               physical function and improve quality of life.
+
                     [ @ 51 ] LEARN MORE
+
+
+
               [ @ 52 ] About Atlantic Health System                                                                 **☐ ] [ [ @ @ 59 ]** **☐ [ @ 60 ]** **☐ [ @ 61 ]**  **☐ [ @ 62 ]**       **[ 63 ]**
               [ @ 53 ] Who We Are                            [ @ 56 ] Foundations &                                [ @ 64 ] For Professionals & Medical Education
                                                              Auxiliaries
@@ -84,7 +112,9 @@
               [ @ 55 ] Stay Connected                        [ @ 58 ] Research & Clinical
                                                              Trials                                                                                                    @ 68 ] Ver en Español
                                                                                                                                                                       [
+
+
               [ 69 ] © 2023 Atlantic Health                  [ @ 70 ] Notice of Privacy Practices           [ @ 71 ] Code of Ethics          [ @ 72 ] Disclaimer         [ @ 73 ] Language
               System                                         Assistance         [ @ 74 ] Accessibility        [ @ 75 ] Terms of Use
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1209
+Token count: 1210

@@ -1,27 +1,48 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 0 ] = [ @ 66 ] ABU DHABI PUBLIC                         jbo
                           HEALTH CENTRE          العامة للصحة
+
                                           [ @ 67 ] EXPLORE ADPHC           [ @ 68 ] COVID - 19    [ @ 69 ] LEGISLATION        [ @ 70 ] PUBLIC HEALTH PROGRA                 [ @ 71 ]     [ @ 72 ]      [ @ 73 ]
                                       ...... WWW.ADPHC.GOV.AE
+
+
+
+
+
 **[ 82 ] Glossary of Terms**
         [ @ 83 ] Home       [ @ 84 ] Legislation     [ @ 85 ] Glossary of Terms
+
+
  [ 86 ] Within Occupational Safety and Health worldwide there is a huge amount of terms and definitions that are used and not all are standard in different locations or even in
         different companies within the same location. As an example the definition of a Lost Time Injury ( LTI ) is different across the world and in Abu Dhabi evidence has
         shown different terms being used in neighboring companies.
  [ 87 ] The OSHAD - SF - Glossary of terms is a mandatory document and entities must ensure that they consider this during the development of their systems.
+
+
          [ 88 ] S.No             [ 89 ] Title            [ 90 ] Version     [ 91 ] Effective Date       [ 92 ] Download English Attachments                 [ 93 ] Download Arabic Attachments
           [ 94 ] 1.0     [ 95 ] Glossary of Terms          [ 96 ] V 3.1       [ 97 ] March 2019                                                                                  ☆
+
       [ 99 ] Document under translation
+
+
              [ 100 ] * Important Note: [ 101 ] Document Republished for Continued Implementation under Abu Dhabi Public Health Center.
+
+
+
         USEFUL LINKS
 [ 102 ]
         [ @ 103 ] Explore ADPHC           [ @ 104 ] Legislation       [ @ 105 ] Public Health Programs           [ @ 106 ] Media Center          [ @ 107 ] Contact Us
+
+
+
         [ 108 ] CONTRAST SETTING                       [ 111 ] TEXT SETTING                       [ 115 ] FOLLOW US
                                                                                                   [ @ 116 ]          [ @ 117 ]           @ 1181
               109 ] Color           110 ] High         [ 112 ] A [ 113 ] A [ 114 ] A *            O
           [ @                   [ @         Contrast
+
+
                                                    [ 119 ]
                                                                                                                                                        [ 120 ]
-                      **[ 122 ] Cookies help us improve your website experience.**          **By using our website,** **you agree to our use of cook! ??**         [ @ 123 ] Confirm             [ @ 121 ] X
+                       [ 122 ] Cookies help us improve your website experience. By using our website, you agree to our use of cookies.                             [ @ 123 ] Confirm             [ @ 121 ] X
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 575
+Token count: 568

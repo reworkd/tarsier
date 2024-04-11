@@ -2,9 +2,22 @@
 [ @ 7 ]                              MASAAR                      COMMUNITY
   [ @ 0 ]         * الطبية دبي مدينة                 [ @ 1 ] PATIENT     [ @ 2 ] BUSINESS       [ @ 3 ] PROFESSIONAL [ @ 4 ] REGULATIONS [ @ 5 ] ABOUT                       [ @ 6 ] AR               [ $ 8 ]          [ @ 9 ]    LOGIN        [ @ 10 ]      DIRECTORY         [ @ 11 ]
                    Dubai Healthcare City                                                                                                                                                     O
+
+
+
+
+
+
+
+
               **[ 12 ] Regulations**
+
               [ @ 13 ] Home        [ @ 14 ] Regulations
+
+
+
               [ 15 ] All                                                                        [ $ 23 ] Document Name: [ [ # 24 ] ]
+
               [ 16 ] Laws
                                                                      [ @ 25 ] Cabinet Resolution No 53 of 2021 Concerning the Administration Penalties ( English )
               [ 17 ] Rules                                       ་
@@ -478,19 +491,45 @@
                                                                      [ @ 401 ] Declaration of Absconder Form.pdf
                                                                  <
                                                                      [ @ 402 ] ] DHCA - Regulations HSE Incident Form.pdf
+
+
      [ 403 ] LATEST NEWS
+
                                  REHAB Awareness & WELLNESS Semin SEASON                                                                                              ELSO E
+
+
+
                                                                                       Dubal Hasitha Chy Elly
       [ $ 444 ]                                                                                                                                                                                           [ $ 445 ]
+
+
               [ 418 ] Friday, Oct 13, 2023                                   [ 420 ] Tuesday, Oct 10, 2023                                  [ 422 ] Thursday, Aug 31, 2023
               [ 419 ] DUBAI HEALTHCARE CITY                                  [ 421 ] DUBAI HEALTHCARE CITY LAUNCHES                         [ 423 ] DUBAI HEALTHCARE CITY BRINGS
               ORGANISES SUBSTANCE ABUSE                                      NEW COMMUNITY - FOCUSED MENTAL                                TOGETHER MORE THAN 100 DELIVERY
               AWARENESS SEMINAR                                              HEALTH INITIATIVE                                             RIDERS FOR ACTION - PACKED SPORTS DAY
+
+
+
+
+
+
+
+
+
+
+
+
+
               [ 446 ] Keep in touch                                                                                                    [ 452 ] Our Locations:
+
               [ @ 447 ]          [ @ 448 ]           [ @ 449 ]          [ @ 450 ]         [ @ 451 ]                                    [ 454 ] Phase 1       [ 453 ] Oud Metha Road, Bur Dubai
                                                      in                **2+**            **මත**
                                                                                                                                        [ 456 ] Phase 2      [ 455 ] Al Jaddaf
+
+
+
               [ $ 457 ] Patient                        [ $ 461 ] Business                              [ $ 468 ] Professional                    [ $ 471 ] Media           [ $ 475 ] Contact
+
               [ @ 458 ] Find the Doctor / Services     [ @ 462 ] Setting Up Business                    [ @ 469 ] DHCA Excellence Awards         [ @ 472 ] News            [ @ 476 ] Complaints
               [ @ 459 ] Community Directory            [ @ 463 ] Partner                               [ @ 470 ] Careers                         [ @ 473 ] Newsletter
               [ @ 460 ] Medical Complaints             [ @ 464 ] Masaar - DHCC Customer                                                          [ @ 474 ] Gallery
@@ -498,6 +537,8 @@
                                                        [ @ 465 ] C37
                                                        [ @ 466 ] DHCX
                                                        [ @ 467 ] Society
+
+
      [ @ 481 ]                                       [ 477 ]   Dubai Healthcare City 2023   | [ @ 478 ] Terms & Conditions        |   [ @ 479 ] Privacy Policy                                   [ $ 480 ]
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Token count: 8122

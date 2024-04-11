@@ -2,9 +2,17 @@
 [ # 105 ]                                                              [ @ 3 ] Areas                   [ @ 5 ] Career   [ @ 6 ] How                               [ $ 9 ]
                [ @ 1 ]   Meta                              [ @ 2 ] Jobs of Work       [ @ 4 ] Locations                We Work         [ @ 7 ] Blog [ $ 8 ] Q     [ 10 ] Log
                                                                                                       Programs                                                    in
+
+
            **11 ]**                     **Scientist - Generative Al**                                                                                 [ $ 12 ]        [ @ 13 ] Apply to Job
          [     **Research**
+
+
                [ 15 ] Zurich, Switzerland
+
+
+
+
                                         [ 16 ] Meta is seeking a Research Scientist to join our Generative Al organization. In this role, you will have the
                                         opportunity to make a significant impact on the field of image generation by developing novel models and
                                         algorithms that improve the speed and efficiency of generative Al systems. These models will have direct impact
@@ -12,18 +20,23 @@
                                         publish high quality papers in top - tier computer vision conferences. At Meta, you work alongside and learn from
                                         top minds in the field and have access to uniquely available large scale resources. Join us for this exciting and
                                         rewarding role.
+
+
+
                                         [ 17 ] Research Scientist            Generative Al Responsibilities
                                         •  [ 18 ] Research and develop novel computer vision models in Generative Al, with a focus on efficiency
                                         •  [ 19 ] Deliver models to production with collaboration across Meta's family of apps
                                            [ 20 ] Collaborate with other researchers and engineers across Meta to develop and deploy new models to
                                            production
                                         •  [ 21 ] Contribute to research publications and publish at top - tier venues
+
                                         [ 22 ] Minimum Qualifications
                                         •  [ 23 ] A PhD in Computer Vision or a relevant technical field
                                         •  [ 24 ] Understanding of modern computer vision concepts like diffusion models, GANS, and LLMs
                                         •  [ 25 ] First author publications in top - tier computer vision venues ( CVPR, NeurIPS, ECCV, ICCV, SIGGRAPH,
                                            ICML ... )
                                         •  [ 26 ] Fluency in Python and PyTorch
+
                                         [ 27 ] Preferred Qualifications
                                         ⚫ [ 28 ] Demonstrated research experience via an internship, work experience, coding competitions, or widely
                                            used contributions in open source repositories ( e.g. GitHub )
@@ -31,17 +44,29 @@
                                         •  [ 30 ] Experience with optimizing model architectures and algorithms for CPU / GPU, mobile, and other types of
                                            specialized hardware
                                            [ 31 ] Top - tier publications in Generative Al topics ( diffusion models, LLMS ... )
+
+
                                            [ 32 ] Start preparing
                                            [ 33 ] Learn about how to prepare for your interview with our
                                            interview guide, tips, and interactive experiences.
                                            [ @ 34 ] ]
                                                  [ 35 ] Visit interview prep
+
+
                                         [ 36 ] Locations
+
                                             [ $ 3
                                             [ $ 4
                                             [ $ 4
+
                                                             **[ 37 ] Use * + scroll to zoom the map**
+
+
+
+
                                                [ 45 ] Data Center                                                                           [ @ 44 ]
+
+
                                         [ 46 ] About Meta
                                         [ 47 ] Meta builds technologies that help people connect, find communities, and grow businesses. When
                                         Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp
@@ -54,21 +79,30 @@
                                         candidates with disabilities, long term conditions, mental health conditions or sincerely held religious beliefs, or
                                         who are neurodivergent or require pregnancy - related support. If you need support, please reach out to
                                         [ @ 50 ] accommodations-ext@fb.com [ 49 ]
+
+
+
                                         [ 51 ] Related Job Openings
                                         [ @ 52 ] ]                                             [ @ 55 ]
                                         [ 53 ] Engineering Manager, Computer Vision            [ 56 ] Engineering Manager, Computer Vision -
                                         ( XR People Tracking ) - Zurich                        Zurich
                                         [ 54 ] Zurich, Switzerland                             [ 57 ] Zurich, Switzerland
+
                                         [ @ 58 ]                                               [ @ 61 ]
                                         [ 59 ] Research Scientist Intern, Machine              [ 62 ] Research Scientist - Mixed Reality
                                         Perception for Input and Interaction ( PhD )           [ 63 ] Facebook | Zurich, Switzerland +1 More
                                         [ 60 ] Zurich, Switzerland
+
                                         [ @ 64 ]                                               [ @ 67 ]
                                         [ 65 ] Software Engineer - Unreal Tools                [ 68 ] Software Engineer, Computer Vision -
                                         [ 66 ] Zurich, Switzerland + 1 More                    Reality Labs
                                                                                                [ 69 ] Zurich, Switzerland
+
                                         [ @ 70 ]
                                          → [ 71 ] View All Related Jobs
+
+
+
     [ 72 ] Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex ( including
           pregnancy, childbirth, reproductive health decisions, or related medical conditions ), sexual orientation, gender identity, gender expression, age, status as a protected veteran,
           status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. You may view our Equal Employment
@@ -76,8 +110,10 @@
           information to maintain the safety and security of Meta, its employees, and others as required or permitted by law. You may view [ @ 78 ] Meta's Pay Transparency Policy,
           [ @ 79 ] Equal Employment Opportunity is the Law [ 74 ] notice, and [ @ 80 ] Notice to Applicants for Employment and Employees [ 75 ] by clicking on their corresponding
           links. Additionally, Meta participates in the [ @ 81 ] E - Verify program [ 76 ] in certain locations, as required by law.
+
     [ 82 ] Meta is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need
           assistance or an accommodation due to a disability, you may contact us at [ @ 84 ] accommodations-ext@fb.com [ 83 ].
+
           [ 87 ] About us        [ 92 ] On social      [ 97 ] Our            [ 101 ] More                                                                      [ @ 86 ] Report a bug
                                                        policies              resources
           [ @ 88 ] Company      [ @ 93 ] Facebook                                                                                                         [ 85 ]
@@ -91,4 +127,4 @@
           [ @ 91 ] Looking for                         policy                developers
           contractor roles?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1644
+Token count: 1647

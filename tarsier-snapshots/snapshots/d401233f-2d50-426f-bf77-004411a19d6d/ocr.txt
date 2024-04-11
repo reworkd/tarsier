@@ -2,9 +2,12 @@
 [ @ 12 ] Patients & Visitors [ @ 13 ] MyChart [ @ 14 ] Careers [ @ 15 ] Giving
               [ @ 11 ]  THE UNIVERSITY OF KANSAS HEALTH SYSTEM
                                                                                                                          [ @ 16 ] 913-588-1227
+
+
                   [ @ 17 ]                                                                        @ 20 ] Find a Location
                                      [ @ 18 ] Find a Doctor     [ @ 19 ] Conditions & Care       [                               [ @ 21 ] Search
              Quick Guide
+
                                                                                                                                         @ 25 ]
               [ @ 22 ] Home [ @ 23 ] Find a Location [ 24 ] Center for Advanced Vascular Care in Overland Park, KS
                                                                                                                                         @ 26 ]
@@ -12,6 +15,13 @@
                    **Center for**
              **Advanced Vascular**
               **Care**
+
+
+
+
+
+
+
               [ 29 ] Contact Us                           [ 32 ] Location                             [ 36 ] Hours
                 [ @ 30 ] 913-588-1227                     [ 33 ] 10700 Nall Avenue Level 3                                 [ 38 ] 8:00 AM - 4:30
                                                                              , KS 66211               [ 37 ] Monday       PM
@@ -27,11 +37,17 @@
                                                                                                       [ 45 ] Friday       PM
                                                                                                       [ 47 ] Saturday      [ 48 ] Closed
                                                                                                       [ 49 ] Sunday        [ 50 ] Closed
+
+
          [ 51 ] Housed on our Indian Creek Campus, The University of Kansas Health System Center for Advanced Vascular Care has the only program in the
               region offering comprehensive, complex vascular care with multiple specialties colocated in the same physical space.
+
+
                                                                                                                                ☐
                 [ @ 52 ] REQUEST AN APPOINTMENT               [ @ 53 ] CALL 913-588-1227
                                                                                                                     [ @ 54 ] BACK TO TOP
+
+
               [ @ 55 ] Pay a Bill       [ $ 66 ] MEDICAL           [ $ 84 ] HEALTH
                                         PROFESSIONALS             RESOURCES                                THE UNIVERSITY OF
               [ @ 56 ] Make a Contribution                                                                KANSAS HEALTH SYSTEM
@@ -77,4 +93,4 @@
                                         [ @ 83 ] Welcome to the
                                         Neighborhood
 ------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1128
+Token count: 1129

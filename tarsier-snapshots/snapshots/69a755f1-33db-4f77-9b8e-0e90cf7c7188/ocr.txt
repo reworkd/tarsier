@@ -1,11 +1,19 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Vercel         [ $ 1 ] Features  [ @ 8 ] Docs  [ @ 9 ] Templates [ @ 10 ] Integrations [ @ 11 ] Customers [ @ 12 ] Enterprise [ @ 13 ] Pricing [ @ 14 ] Contact [ @ 15 ] Log In [ @ 16 ] Sign Up
+
      [ @ 18 ] Back to Careers
+
                                                  **( 19 ) Technical Consultant**
+
                                 01  [ 20 ] Solution Engineering  [ 21 ] Remote [ 22 ], ( [ 24 ] United States, [ 23 ] ) [ 25 ] Full Time
+
                                                                           [ @ 26 ] Apply
+
+
                                                                                                               [ @ 72 ] Apply
+
                               [ 27 ] About Vercel:
+
                               [ 28 ] At Vercel, our mission is to enable developers to create at the moment of [ 73 ] Perks
                              inspiration. We are the platform for frontend developers, creating tools millions of
                              developers use every day. By unlocking developer potential through the use of      Generous Gear
@@ -19,12 +27,15 @@ Vercel         [ $ 1 ] Features  [ @ 8 ] Docs  [ @ 9 ] Templates [ @ 10 ] Integr
                              together and develop the tools that empower our users. By joining Vercel, you'll
                              be part of a team that is deeply committed to open - source technologies and
                              dedicated to shaping the future of web development.
+
+
                               [ 30 ] About the Role:
                               [ 31 ] Vercel is looking for a Technical Consultant to assist our Enterprise
                              customers with technical problems and questions when using Vercel products
                              and services. Reporting to the Manager of Technical Consulting, the Technical
                              Consultant will be responsible for informing and training clients in the product's
                              proper use to enhance the customer experience and improve satisfaction.
+
                               [ 32 ] Technical Consultants need to earn our customers' trust and understand
                              technical problems quickly. You will play a major part in the post - sales process
                              and Enterprise customer journey. Expertise in the technical elements of the
@@ -32,14 +43,18 @@ Vercel         [ $ 1 ] Features  [ @ 8 ] Docs  [ @ 9 ] Templates [ @ 10 ] Integr
                              Success in this role will be demonstrated through improvements in the retention
                              of Enterprise customers by delivering key technical insights and evaluations to
                              ensure success both at launch and scale.
+
                               [ 33 ] You have a background in frontend development, enjoy technical writing,
                              and have a passion for digging deep to find and resolve issues. You are excited
                              about the opportunity to involve yourself with the technical evolution of both global
                              brands and new start - ups.
+
                               [ 34 ] The Technical Consultant will help establish our reputation as a company
                              that is exceptional at helping its customers meet their goals throughout all parts of
                              the customer journey while engineering solutions to constantly improve the
                              customer experience.
+
+
                               [ 35 ] What You Will Do:
                                 [ 36 ] Ensure that Enterprise customers are receiving and understanding the
                                 value of the platform.
@@ -62,6 +77,8 @@ Vercel         [ $ 1 ] Features  [ @ 8 ] Docs  [ @ 9 ] Templates [ @ 10 ] Integr
                                 processes and policies.
                                 [ 47 ] Assist and coordinate with Customer Success Managers with Enterprise
                                 requests.
+
+
                               [ 48 ] About You:
                                 [ 49 ] You lead by example and develop more junior members of the team.
                                 [ 50 ] You understand modern web architecture, frontend development, and
@@ -75,6 +92,8 @@ Vercel         [ $ 1 ] Features  [ @ 8 ] Docs  [ @ 9 ] Templates [ @ 10 ] Integr
                                 onboarding / implementation role at a SaaS company.
                                 [ 56 ] 5+ years experience with front - end web development using React in a
                                 production setting.
+
+
                               [ 57 ] Bonus if You:
                               • [ 58 ] Have experience using Next.js.
                                 [ 59 ] Have experience supporting backend runtime environments, especially
@@ -83,6 +102,8 @@ Vercel         [ $ 1 ] Features  [ @ 8 ] Docs  [ @ 9 ] Templates [ @ 10 ] Integr
                                 techniques.
                               • [ 61 ] Work with monorepos and / or custom, complex CI / CD pipelines.
                                 [ 62 ] ] Thoroughly understand DNS and can explain this clearly to others.
+
+
                               [ 63 ] Benefits
                                 [ [ 64 ] Stock options
                               • [ 65 ] Inclusive Healthcare Package
@@ -94,25 +115,34 @@ Vercel         [ $ 1 ] Features  [ @ 8 ] Docs  [ @ 9 ] Templates [ @ 10 ] Integr
                                 need it.
                                 [ 69 ] We will provide you the gear you need to do your role, and a WFH
                                 budget for you to outfit your space as needed
+
                               [ 70 ] The San Francisco, CA OTE pay range for this role is $ 135,000 -
                              $ 186,000. This salary range is an estimate. Actual salary will be based on job
                              related skills, experience and location. Pay ranges outside San Francisco may be
                              adjusted based on employee location. The total compensation package also
                              includes benefits and equity - based compensation. Your recruiter can share more
                              about the specific pay range for your location during the hiring process.
+
                               [ 71 ] Vercel is committed to fostering and empowering an inclusive community
                              within our organization. We do not discriminate on the basis of race, religion,
                              color, gender expression or identity, sexual orientation, national origin, citizenship,
                              age, marital status, veteran status, disability status, or any other characteristic
                              protected by law. Vercel encourages everyone to apply for our available positions,
                              even if they don't necessarily check every box on the job description.
+
+
+
                                  [ 78 ] Apply Now
                                  [ 79 ] Tell us why you'd be good fit for the Technical Consultant role.
                                  [ # 80 ] First Name                            [ # 81 ] Last Name
+
                                  [ # 82 ] janedoe@email.com                     [ # 83 ] +0 123 456 7890
+
                                   [ $ 84 ] Add Resume
                                  [ 85 ] Resume should be a PDF under 3.5MB.
+
                                  [ # 86 ] Full Address ( including country )
+
                                  [ 87 ] Are you currently based in any of these countries:
                                  [ $ 88 ] United States [ $ 89 ] Germany [ $ 90 ] United Kingdom [ $ 91 ] Australia [ $ 92 ] Other
                                  [ 93 ] What timezone are you located in?
@@ -120,6 +150,7 @@ Vercel         [ $ 1 ] Features  [ @ 8 ] Docs  [ @ 9 ] Templates [ @ 10 ] Integr
                                  [ 99 ] Will you require Visa Sponsorship now, or in the future?
                                  [ $ 100 ] Yes [ $ 101 ] No
                                  [ # 102 ] Desired Salary                       [ # 103 ] Potential Start Date
+
                                  [ 104 ] Do you have experience coding / programming?
                                  [ $ 105 ] Yes [ $ 106 ] No
                                  [ 107 ] Do you have experience with Next.js or React?
@@ -174,10 +205,27 @@ Vercel         [ $ 1 ] Features  [ @ 8 ] Docs  [ @ 9 ] Templates [ @ 10 ] Integr
                                  [ $ 162 ] No, I am not a veteran or active member
                                  [ $ 163 ] I prefer to self - describe
                                  [ $ 164 ] I don't wish to answer
+
                                  [ 165 ] Optionally, include links to your social media profiles.
                                  [ # 166 ] handle                               [ # 168 ] 167 ] dle
+
                                  [ # 170 ] handle                               [ # 172 ] 171 ] folio.com
+
                                                                                                                  [ $ 174 ] Apply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                               [ $ 182 ] ]                          [ $ 193 ]                            [ $ 203 ]                                [ $ 2 [ $ 2 [ $ 217 ]
    [ @ 175 ]   [ 176 ] [ 177 ] 2023
                              Product                               Resources                            Company                                  ㅇ 모
@@ -193,4 +241,4 @@ Vercel         [ $ 1 ] Features  [ @ 8 ] Docs  [ @ 9 ] Templates [ @ 10 ] Integr
    [ @ 180 ]   [ @ 181 ]      [ @ 191 ] Changelog [ @ 192 ] CLI & API                                    [ @ 212 ] Privacy  [ $ 213 ]
                                                                                                         Policy            [ 214 ] Legal
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2933
+Token count: 2934

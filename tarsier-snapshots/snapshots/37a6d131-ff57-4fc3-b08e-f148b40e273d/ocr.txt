@@ -1,12 +1,18 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 214 ]
                 Ministero del turismo
+
                         MINISTERO                                                                                                                                  [ # 1 ]
                         DEL TURISMO             [ @ 0 ]                                                                                                            [ $ 2 ]
                         REPUBBLICA ITALIANA
+
            [ @ 3 ] Il Ministero     [ @ 24 ] Temi O      [ @ 44 ] Destinatari       [ @ 98 ] Normativa e Studi         [ @ 107 ] Area Stampa □
+
            [ @ 117 ] Amministrazione trasparente           [ @ 215 ] Contatti
+
+
                                     [ 219 ] **Normativa del Ministero**
+
                                     [ 220 ] Atti di istituzione del Ministero del turismo e attribuzioni degli
                                     Uffici
                                                                                                                             [ 221 ] Anno 2023
@@ -22,6 +28,7 @@
                                     complementari al PNRR ( PNC ), nonché per l'attuazione delle politiche di coesione e della
                                     politica agricola comune" [ 228 ] convertito con modificazioni dalla legge 21 aprile 2023,
                                     n. 41
+
                                                                                                                             [ 231 ] Anno 2022
                                     [ @ 232 ] Regolamento interno per l'adozione del lavoro agile adottato il 5 agosto 2022
                                     ( prot. 10185/22 ) dal Segretario Generale
@@ -39,6 +46,7 @@
                                     uffici di livello dirigenziale non generale del Ministero del turismo,                      in attuazione
                                     dell'articolo 19,     comma 1, del decreto del Presidente del Consiglio dei Ministri 20
                                     maggio 2021" [ 242 ] del 28 aprile 2022 ( prot. 5735 )
+
                                                                                                                             [ 245 ] Anno 2021
                                     [ @ 247 ] Istituzione dell'Unità di missione per il PNRR del Ministero del Turismo                 [ 246 ] ai
                                     sensi    del   decreto     interministeriale     del   Ministero del Turismo e del                Ministero
@@ -55,6 +63,8 @@
                                     decreto - legge 1 marzo 2021, n. 22,           [ 257 ]" Disposizioni urgenti in materia di riordino
                                     delle attribuzioni dei Ministeri" [ 255 ] ]    convertito con modificazioni dalla L. 22 aprile
                                     2021, n. 55;
+
+
                                     [ 258 ] Atti di indirizzo e di organizzazione
                                                                                                                             [ 259 ] Anno 2023
                                     [ @ 262 ] Direttiva generale per l'azione amministrativa - anno 2023 emanata dal Ministro
@@ -94,6 +104,8 @@
                                     dirigenziali del Ministero del turismo"             [ 283 ] emanata con decreto del Ministro del
                                     turismo del 11 giugno 2021, n. 743
                                     [ @ 286 ] Linee guida editoriali per la gestione del portale istituzionale
+
+
                                     [ 287 ] Richiesta e concessione di patrocini
                                     [ 288 ] || Ministero del Turismo concede il             Patrocinio a titolo gratuito per eventi,
                                     manifestazioni, progetti e iniziative inerenti al tema turistico.
@@ -104,8 +116,15 @@
                                     [ 294 ] -        Tramite          posta          elettronica           certificata          ( PEC )        a:
                                     [ @ 298 ] ufficiogabinetto@pec.ministeroturismo.gov.it
                                     [ 295 ] Qui di seguito il  [ @ 299 ] format per la richiesta di concessione del Patrocinio [ 296 ].
+
+
                                     [ 300 ] Tutti i  riferimenti sull'organizzazione e le attività del Ministero sono disponibili
                                     nella pagina" [ @ 302 ] Atti generali [ 301 ]".
+
+
+
+
+
          [ 303 ] IL MINISTERO                     [ 316 ] TEMI                              [ 329 ] NORMATIVA E STUDI                [ 336 ] AMM. TRASPARENTE
          [ @ 304 ] Ministro                       [ @ 317 ] Banca Dati Strutture           [ @ 330 ] Normativa                       [ @ 337 ] Disposizioni generali
          [ @ 305 ] Organizzazione del             Ricettive                                 [ @ 331 ] Dati e statistiche             [ @ 338 ] Organizzazione
@@ -142,9 +161,22 @@
                                                                                                                                      [ @ 355 ] Interventi straordinari e di
                                                                                                                                      emergenza
                                                                                                                                      [ @ 356 ] Altri contenuti
+
+
+
+
                   [ @ 357 ]                [ @ 358 ]                [ @ 359 ]                [ @ 360 ]                [ @ 361 ]                  [ @ 362 ]
+
+
+
+
+
+
+
+
+
        [ @ 363 ] Amministrazione trasparente       [ @ 364 ] Privacy    [ @ 365 ] Note legali    [ @ 366 ] Social media policy    [ @ 367 ] Dichiarazione di accessibilità
  [ $ 369 ]
   CO [ @ 368 ] Contatti
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 3343
+Token count: 3345

@@ -9,12 +9,15 @@
                     [ 16 ] ASR1JA330R                                 [ 23 ] Location                        [ 24 ] Available Stock               [ 25 ] Unit Price        [ 26 ] MOQ
               [ 17 ] RES, SURGE, 1W, 330 ohm, 5 %
                                                        [ 27 ] STACKPOLE ( EL PASO TX )                        [ 28 ] No Stock [ @ 29 ] ]     [ 30 ] Contact Factory        [ 31 ] 500
+
               [ @ 18 ]     [ @ 19 ] Specification
                           Sheet
               [ @ 20 ]
                            [ @ 21 ] STP Cad Files
               [ @ 22 ] ]
                3D 3D Model
+
+
                                   [ 32 ] Characteristics                         [ 41 ] Additional Characteristics                               [ 62 ] Documents
                          [ 33 ] Power Rating ( watts ) [ 34 ] 1         [ 42 ] Operating Temperature [ 43 ] -55 to             [ @ 63 ] ASR / ASRM Anti Surge Axial Leaded Step
                                                                                            Range                 +155          Files
@@ -33,6 +36,7 @@
                                                                                    [ @ 66 ] Parametric Search
       [ 67 ] Stackpole Electronics, Inc. stock check shows stock available for sale as of the moment you check stock. The franchised distributor inventory age is noted on each line and does
                                      not necessarily represent current available stock. Click on the' Site Stock Check' link to see current available stock and pricing.
+
       [ 68 ]  © 2020 Stackpole Electronics, Inc.
                    [ 69 ] Site Links                       [ 76 ] Documents            [ 87 ] Products             [ 97 ] Tools                             [ 104 ] Connect
                    [ @ 70 ] Stackpole Web Portal           [ @ 77 ] Quality            [ @ 88 ] Resistors          [ @ 98 ] Parametric Search              with us

@@ -7,10 +7,14 @@
                                                                                                                                                                                                                      [ $ 15 ]
              [ @ 7 ]                      [ @ 8 ]          [ @ 9 ] Locations       [ @ 10 ] Professions        [ $ 11 ] Programs           [ $ 12 ] Life at Microsoft        [ @ 13 ] Hiring tips [ $ 14 ] ☐                      Sign in
                   Microsoft               Careers
+
                        [ # 17 ]                                                                                         [ # 19 ] ]                                                                                 [ $ 20 ]
                   [ 16          Search by job title, ID, or keyword                                                [ 18 ]        City, state, or country / region
                                                                                                                                                                                                                [ 21 ] Find jobs
+
                  [ 22 ] Experie [ 23 ]          [ 24 ] Work [ 25 ]           [ 26 ] Profes [ 27 ]          [ 28 ] Discip [ 29 ]         [ 30 ] Role [ 31 ]           [ 32 ] Employment [ 33 ]
+
+
                                                                                                                         [ $ 34 ]
       [ 35 ]     [ 36 ] Show similar iobs
 [ 37 ] Software Engineering II
@@ -18,12 +22,17 @@
               [ $ 39 ]                            [ 42 ] Save                                                                                                                                                        [ 44 ] Share job
                                    [ $ 41 ]                                                                                                                                                          [ $ 43 ]
            [ 40 ]
+
         [ 45 ]                    [ 46 ]                                            [ 47 ]                    [ 48 ]                                           [ 49 ]                     [ 50 ]
        Date posted                Nov 03, 2023                                     Job number                 1658879                                          Work site                  Up to 50 % work from home
+
         [ 51 ]                    [ 52 ]                                            [ 53 ]                    [ 54 ]                                           [ 55 ]                     [ 56 ]
         Travel                    0-25 %                                           Role type                  Individual Contributor                           Profession                 Software Engineering
+
         [ 57 ]                     [ 58 ]                                           [ 59 ]                    [ 60 ]
         Discipline                Software Engineering                             Employment type            Full - Time
+
+
         [ 61 ] Overview                                                                                                                                                  [ 68 ] Qualifications
         [ 62 ] We are [ 63 ] seeking [ 64 ] a highly motivated and skilled Software Engineer II to join our Microsoft Intune                                            [ 69 ] Required / Minimum Qualifications
        Engineering Team. As a Software Engineer II on the Intune Engineering team, you will be at the forefront of developing
@@ -74,6 +83,7 @@
                                                                                                                                                                                 culture.
                                                                                                                                                                             ⚫ [ 93 ] Track record [ 94 ] of learning and
                                                                                                                                                                                 growing [ 95 ].
+
                                                                                                                                                                         [ 96 ] Software Engineering IC3 - The typical base
                                                                                                                                                                         pay range for this role across the U.S. is USD
                                                                                                                                                                         $ 94,300     $ 182,600 per year.
@@ -95,11 +105,16 @@
                                                                                                                                                                         and pay information here:
                                                                                                                                                                          [ @ 101 ] https://careers.microsoft.com/us/en/us-
                                                                                                                                                                         corporate - pay
+
                                                                                                                                                                          [ 102 ] #MSFTSECURITY
+
+
 [ 112 ] enefits / perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+
         [ 1 [ 113 ] Industry leading healthcare                                     [ 1 [ 115 ] Educational resources                                          [ 1 [ 117 ] Discounts on products and services
         [ 1 [ 119 ] Savings and investments                                         [ 1: [ 121 ] Maternity and paternity leave                                 [ 1 [ 123 ] Generous time away
         [ 1: [ 125 ] Giving programs                                                [ 1: [ 127 ] Opportunities to network and connect
+
 [ 129 ] Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or
          xpression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion,
        sex ( including pregnancy ), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance and / or a reasonable accommodation due to a
@@ -107,10 +122,13 @@
                [ $ 132 ]
            ■ [ 133 ] *
 [ $ 134 ]
+
+
                                                                              [ $ 140 ] Support      [ @ 141 ] Accessibility                                                [ @ 144 ]        [ @ 145 ]       [ @ 146 ]        [ @ 147 ]
            [ 137 ]     English [ 138 ]        [ $ 139 ] FR - Canada
                                                                                                                               @ 143 ] Legal policies                                        in               σ
                                                                              [ @ 142 ] Microsoft Data Privacy Notice         [
+
                                                  [ @ 148 ] Your privacy choices           @ 149 ] Privacy        [ $ 150 ] Manage cookies         [ @ 151 ] Trademarks          [ @ 152 ] Terms of use        [ 153 ]     Microsoft 2023
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Token count: 2191

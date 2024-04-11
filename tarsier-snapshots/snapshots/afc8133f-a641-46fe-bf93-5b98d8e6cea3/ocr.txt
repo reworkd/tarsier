@@ -4,6 +4,7 @@
         [ @ 13 ]
                                                   **[ 24 ] Children's Therapy Center**
                  **W**
+
                                                   [ @ 25 ]
      [ @ 14 ]      Care & Treatment   ◉                                                                                                         [ 72 ] Washington Health
                                                                                                                                                 System
@@ -11,10 +12,12 @@
                                                                                                                                                 [ 73 ] We take great pride in the
                                                                                                                                                 care that we provide to patients and
      [ @ 16 ]      Locations & Practices                                                                                                        families in our community
+
      [ @ 17 ]      Physician Finder
                                                                                                                                                   [ @ 74 ] Outpatient Locations
                                       ㅁ
      [ @ 18 ]      Giving                                                                                                                         [ @ 75 ] Washington Hospital
+
                            Media      ◉                                                                                                           [ @ 76 ] Greene
      [ @ 19 ]      News &
                                                                                                                                                   [ @ 77 ] Wilfred R. Cameron.
@@ -37,13 +40,17 @@
                TELL US                            Loss and Cochlear Implant Rehabilitation, articulation deficits and many others.
          YOUR STORY                               [ 29 ] For more information about services visit page under" [ @ 31 ] Care and
                                                   Treatment [ 30 ] ]".
+
                                                   [ 32 ] Services
                                                      [ 33 ] Physical Therapy                       [ 36 ] Speech - Language Therapy
                                                      [ 34 ] Aquatics Therapy                       [ 37 ] Behavioral Health Services
                        WHS                           [ 35 ] Occupational Therapy
            [ @ 23 ]    Team
                        Portal
+
+
                                                      [ 38 ] Contact                                      [ 47 ] Office Hours
+
                                                      [ 39 ] Address  [ 40 ] 289 North Avenue,            [ 48 ] Monday
                                                                      Washington, PA 15301                [ 49 ] 9:00 am - 7:00 pm
                                                      [ 41 ] Phone    [ 42 ] ( 724 ) 942-6100             [ 50 ] Tuesday
@@ -54,17 +61,31 @@
                                                                                                          [ 55 ] 9:00 am - 7:00 pm
                                                                                                          [ 56 ] Friday
                                                                                                          [ 57 ] 9:00 am - 7:00 pm
+
+
+
                                                   [ 58 ] Additional Location ( s )
+
                                                      [ 59 ] McMurray Office                              [ 62 ] Office Hours
                                                      [ [ 60 ] Address [ 61 ] ] 1000 Waterdam Plaza       [ 63 ] By appointment only.
                                                                      Drive, Suite 120, McMurray,
                                                                      PA 15317
+
+
                                                   [ 64 ] Forms and Policies
+
                                                   PDF [ @ 65 ] Case History                         [ @ 69 ] Child_Intake Form
                                                   PDF  [ @ 66 ] Intake Instructions             PDF [ @ 70 ] Medical Records Release
                                                   PDF  [ @ 67 ] Registration Sheet              PDF [ @ 71 ] Consent to Treat
                                                   PDF  [ @ 68 ] Health Insurance Benefits
                                                       Worksheet
+
+
+
+
+
+
+
                                                   [ 79 ] About                     [ 85 ] Site & Legal              [ 91 ] Connect with Us           [ 97 ] Stay Connected
                                                                                    Information
                                                     [ @ 80 ] Washington Health                                           [ @ 92 ] 155 Wilson
@@ -87,7 +108,10 @@
                                                                                      asistencia lingüística
                                                                                      语言 协助 服务 信息 ( 148.57
                                                                                      kB )
+
+
+
     [ 105 ] This website uses cookies and third party services to help us understand the way visitors use our website. We can't identify you with @ 106 ] ACCEPT
     them and we don't share data with anyone else. If you click Reject we will set a single cookie to remember your preference. [                          [ @ 107 ] REJECT
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1319
+Token count: 1320

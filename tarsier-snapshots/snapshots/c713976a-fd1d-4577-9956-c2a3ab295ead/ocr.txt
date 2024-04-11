@@ -7,11 +7,14 @@
                                                             [ @ 11 ] About         [                                                 [ @ 64 ] Our             [
                                                                    Us                Patients                Services                Locations                   Provider
      **Health**
+
+
     **[ 6 ] Our Locations**
              [ $ 70 ] Search by location name                                    [ $ 72 ] Filter by category                                         [ $ 74 ] Search by ZIP cod [ @ 76 ] Use my location
              [ # 71 ] ]                                                         [ $ 73 ] ategories                                                   [ # 75 ]
                Search term                                                                                                                              ZIP code
                                                                                                                                                                                           [ @ 77 ] Clear filters
+
      [ 78 ] Amelia Health Center: Cardiology and
     Cardiovascular Surgery
      [ 79 ] Touro
@@ -22,6 +25,7 @@
      [ @ 84 ] More information
 [ 0 ]
     [ @ 85 ] Get directions
+
     [ 86 ] Behavioral Health Center
     [ 87 ] Children's Hospital New Orleans
      [ 88 ] 210 State St.
@@ -29,6 +33,7 @@
     [ @ 90 ] 504.896.7200
     [ @ 91 ] More information
     [ @ 92 ] Get directions
+
     [ 93 ] Bienville Health Center: Primary Care and
     [ 94 ] alue your privacy
      [ 95 ] We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic.                                   ▾
@@ -36,4 +41,4 @@
     [ 96 ] king" Accept All", you consent to our use of cookies.
      [ 97 ]
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 503
+Token count: 504

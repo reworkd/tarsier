@@ -2,8 +2,13 @@
 [ @ 1 ] JOBS
                [ @ 0 ] ]                           [ @ 2 ] Our opportunity    [ @ 3 ] Life at Stripe  [ @ 4 ] University            [ @ 5 ] See open roles >
                stripe
+
                [ @ 6 ] Roles at Stripe / [ @ 7 ] Role details
+
+
                    **Account Executive, Mid Market**
+
+
                [ 9 ] ] **Who we are**                                                                                            [ 39 ] Office locations
                                                                                                                                  [ 40 ] Chicago, or New York
                                                                                                                                 [ 41 ] Team
@@ -16,6 +21,8 @@
                mission is to increase the GDP of the internet, and we have a staggering amount of
                work ahead. That means you have an unprecedented opportunity to put the global
                economy within everyone's reach while doing the most important work of your career.
+
+
                [ 12 ] About the team
                [ 13 ] The Commercial Sales team is a new business team that is responsible for the
                acquisition, growth and retention of underpenetrated mid - market customers. As an
@@ -23,10 +30,13 @@
                or existing customers to get the most out of Stripe, execute scaled sales strategies to
                grow revenue in your territory, and drive end - to - end campaigns to increase adoption of
                Stripe's offering.
+
+
                **[ 14 ] What you'll do**
                [ 15 ] As a Mid Market, Account Executive, you will play an instrumental role in fueling
                Stripe's growth through acquiring, growing and expanding under - penetrated mid - market
                accounts. In this role, you will help build out a new team and GTM motion at Stripe.
+
                [ 16 ] Responsibilities
                    [ 17 ] Identify high - potential prospective users and use effective prospecting
                   strategies to generate leads that drive revenue growth in your territory
@@ -38,10 +48,15 @@
                   existing customer revenue and Stripe market share.
                    [ 21 ] Work cross - functionally to solve user pain paints and improve our product
                    [ 22 ] You will be required to work from the Chicago office three ( 3 ) days per week
+
+
                **[ 23 ] Who you are**
+
                [ 24 ] We're looking for someone who meets the minimum requirements to be
                considered for the role. If you meet these requirements, you are encouraged to apply.
                The preferred qualifications are a bonus, not a requirement.
+
+
                [ 25 ] Minimum requirements
                    [ 26 ] Minimum of 3+ years full sales cycle / closing experience
                    [ 27 ] Ability to understand technical requirements and craft solutions across multiple
@@ -52,9 +67,13 @@
                   environment
                    [ 30 ] Superior verbal and written communication skills
                    [ 31 ] You will be required to work from the Chicago office three ( 3 ) days per week
+
                [ 32 ] Preferred qualifications
                    [ 33 ] Prior experience in a sales and / or customer - facing role at a high growth
                   technology company
+
+
+
                [ 34 ] Hybrid work at Stripe
                [ 35 ] Our Chicago, Dublin, and Singapore teams spend at least 50 % of their time in
                their local offices. We believe that more in - person interactions will contribute to better
@@ -62,6 +81,8 @@
                collaboration, efficiency, and informal learning opportunities, fostering a stronger
                community and building our culture. We will apply the insights gained from these initial
                three locations to continue refining our hybrid approach.
+
+
                [ 36 ] Pay and benefits
                [ 37 ] ] The annual US base salary range for this role is $ 146,000 - $ 197,600. For sales
                roles, the range provided is the role's On Target Earnings (" OTE" ) range, meaning that
@@ -74,13 +95,26 @@
                [ 38 ] Additional benefits for this role may include: equity, company bonus or sales
                commissions / bonuses;   401 ( k ) plan; medical, dental, and vision benefits; and wellness
                stipends.
+
+
+
                 [ 46 ] We look forward to hearing from you
+
                  [ 47 ] At Stripe, we're looking for people with passion, grit, and integrity. You're
                 encouraged to apply even if your experience doesn't precisely match the job description.
                 Your skills and passion will stand out - and set you apart - especially if your career has
                 taken some extraordinary twists and turns. At Stripe, we welcome diverse perspectives
                 and people who think rigorously and aren't afraid to challenge assumptions. Join us.
+
                    [ @ 48 ] Apply Now >
+
+
+
+
+
+
+
+
                 [ @ 49 ]                            [ 114 ] Products                    [ 139 ] Solutions                   [ 161 ] Resources
                   ring
                **Stri0 ] United States**            [ @ 115 ] Atlas                     [ @ 140 ] Startups                  [ @ 162 ] Guides
@@ -115,4 +149,4 @@
         **THE**                                                                         [ @ 160 ] Build a Stripe App
                [ 113 ]  2023 Stripe, Inc.           [ @ 138 ] Treasury
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1874
+Token count: 1876

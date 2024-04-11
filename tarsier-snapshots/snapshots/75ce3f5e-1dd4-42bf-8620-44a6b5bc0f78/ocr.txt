@@ -5,8 +5,12 @@
                  [ @ 16 ]
                            [ @ 17 ] Learnings from fine - tuning LLM on my Telegram messages [ 18 ]      [ @ 20 ] asmirnov.xyz [ 19 ]
                            [ 26 ] 150 points [ 21 ] by [ @ 27 ] furiousteabag [ @ 28 ] 10 hours ago [ 22 ] [ @ 29 ] [ 23 ] [ @ 30 ] past [ 24 ] | [ @ 31 ] favorite [ 25 ] [ @ 32 ] 43 comments
+
+
+
                            [ # 33 ]
                           [ $ 34 ] comment
+
                   [ @ 35 ] [ @ 36 ] jstrieb [ @ 37 ] 1 hour ago [ 38 ] [ 39 ] next [ @ 40 ] [ - ]
                            [ 41 ] This post and its findings are really interesting!
                            [ 42 ] Back when the" I forced a bot to watch 1000 hours ..." memes were popular ( [ @ 44 ] https://knowyourmeme.com/memes/i-forced-a-bot [ 43 ] ), ages ago
@@ -224,6 +228,8 @@
                                    [ 560 ] Take it up with Shakespeare?
                                    [ @ 561 ] https://www.opensourceshakespeare.org/views/plays/play view ....
                                    [ @ 562 ] reply
+
+
                  [ @ 570 ] Guidelines [ 563 ] [ @ 571 ] FAQ [ 564 ]   [ @ 572 ] Lists [ 565 ] [ @ 573 ] API [ 566 ]  [ @ 574 ] Security [ 567 ]  [ @ 575 ] Legal [ 568 ] | [ @ 576 ] Apply
                                                                                      to YC [ 569 ] ] [ @ 577 ] Contact
                                                                             [ 578 ] Search:  [ # 579 ]

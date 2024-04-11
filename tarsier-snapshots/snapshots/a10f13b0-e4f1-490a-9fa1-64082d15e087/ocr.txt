@@ -1,9 +1,12 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 **Find a Location**
+
                             [ $ 40 ] Search Locations        [ $ 42 ] Search by Zip Code     [ $ 44 ] Category               [ $ 46 ] Services
                              [ # 41 ]                Q       [ # 43 ]                 Q     [ $ 45 ]                        [ $ 47 ] ervices
                               Search Term                     Zip Code
+
                                                                                                                                     [ @ 48 ] Clear Filters
+
    [ 49 ] Cardiac Rehab - Operation Bounceback
    | Mobile Infirmary
     [ 50 ] Rehabilitation Center
@@ -11,6 +14,7 @@
     [ 52 ] Mobile, AL 36607
     [ @ 53 ] ( 251 ) 435-2010
    [ @ 54 ] More information
+
    [ 55 ] Cardiac Rehabilitation | North Baldwin
    Infirmary
     [ 56 ] Rehabilitation Center
@@ -18,6 +22,7 @@
    [ 58 ] Bay Minette, AL 36507
    [ @ 59 ] ( 251 ) 239-2573
    [ @ 60 ] More information
+
    [ 61 ] Cardiac Rehabilitation | Thomas
    Hospital
    [ 62 ] Rehabilitation Center

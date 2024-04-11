@@ -2,8 +2,14 @@
 [ @ 0 ]                               [ @ 1 ] Mission &       [ @ 2 ] Working at                                                                                   [ @ 8 ] University          [ @ 9 ] Search
                                                Values                 DoorDash             [ @ 3 ] Belonging     [ @ 4 ] Blog    [ $ 5 ] ] [ 6 ] Career Areas [ 7 ] ]       Careers                     Jobs
             DOORDASH
+
+
                 **[ 10 ] Electrical Engineer**                                                                                                                        [ @ 11 ] [ 12 ] Apply To Job
+
                  [ 13 ] at [ 14 ] DoorDash                                                                                                                                    [ 15 ] San Francisco, CA
+
+
+
                  **[ 16 ] About the Team**
                                   [ 17 ] DoorDash Labs is an independent team within DoorDash. We are working on building autonomous delivery robots from the ground-
                                   up and other automation solutions as part of DoorDash's core delivery platform. If you have a passion for applying Al and robotics
@@ -19,6 +25,7 @@
                                    •  [ 23 ] Ship tangible product concepts that make a meaningful impact on a billion dollar business.
                                       [ 24 ] Play a key role in architecting and designing a wide range of electrical systems on our next generation delivery robots.
                                    •  [ 25 ] Have a large impact in a small team, collaborating with every other team on the project with many disciplines and stakeholders.
+
                  **[ 26 ] We're excited about you because you have ...**
                                   ⚫ [ 27 ] A B.S., M.S., or PhD. in Electrical Engineering.
                                       [ 28 ] 5+ years of industry experience working in a similar role.
@@ -30,6 +37,7 @@
                                       multi - voltage power systems
                                    •  [ 34 ] Designed circuits in Altium Designer.
                                       [ 35 ] A passion for building robots and autonomous vehicles.
+
                  **[ 36 ] About DoorDash**
                                   [ 37 ] At DoorDash, our mission to empower local economies shapes how our team members move quickly, learn, and reiterate in order to
                                   make impactful decisions that display empathy for our range of users - from Dashers to merchant partners to consumers. We are a
@@ -66,25 +74,50 @@
                                   [ 49 ] In addition to base salary, the compensation package for this role also includes opportunities for equity grants.
           [ 50 ] California Pay Range:
                  [ 51 ] $ 185,500 [ 52 ] - [ 53 ] $ 250,500 USD
+
+
                     [ @ 54 ] [ 55 ] Apply To This Job
+
+
+
+
                  **[ 56 ] Flexible Work**
                                                                                                                                                [ @ 58 ] [ 59 ] Learn More About Flexible Work
                  [ 57 ] Discover how we're evolving & leading the way
                  for the future of work
+
+
+
+
+
+
+
+
                                                                                [ @ 60 ] ( Rejoignez notre French Talent Network Ici )
+
+
+
+
+
+
                                                                                                     [ @ 61 ]               [ @ 62 ]                 [ @ 63 ]                      [ @ 64 ]          [ @ 65 ]
                                                                                                     Careers Home          Mission & Values          Working at DoorDash           Belonging        Career Areas
                                                                                                                                   [ @ 66 ]                   [ @ 67 ]         [ @ 68 ]              [ @ 69 ]
                                                                                                                                   University Careers         Blog            Talent Network         Search Jobs
+
+
 [ 70 ] atement of Non - Discrimination: In keeping with our beliefs and goals, no employee or applicant will face discrimination or harassment based on: race, color, ancestry, national origin, religion, age,
    gender, marital / domestic partner status, sexual orientation, gender identity or expression, disability status, or veteran status. Above and beyond discrimination and harassment based on" protected
    categories," we also strive to prevent other subtler forms of inappropriate behavior ( i.e., stereotyping ) from ever gaining a foothold in our office. Whether blatant or hidden, barriers to success have no
    place at DoorDash. We value a diverse workforce - people who identify as women, nonbinary or gender non - conforming, LGBTQIA +, American Indian or Native Alaskan, Black or African American,
     Hispanic or Latinx, Native Hawaiian or Other Pacific Islander, differently - abled, caretakers and parents, and veterans are strongly encouraged to apply. Thank you to the Level Playing Field Institute
    for this statement of non - discrimination.
+
+
+
     [ @ 71 ]                         [ @ 72 ]                           [ @ 73 ]
                                      Consumer Privacy                                      Notice                [ 74 ]   2022 DoorDash                   **[ 75 ] [ 76 ] [ 77 ] [ 78 ] [ 79 ]**
                                                                         Applicant Privacy
      [ @ 80 ]       EN
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1958
+Token count: 1959

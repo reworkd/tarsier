@@ -5,10 +5,18 @@
       MENU                                                             **UL Health**                                                                   FIND HELP
                                                                                                                                                            NOW
            [ @ 7 ]
+
                                   [ @ 2 ] SERVICES                                                         [ @ 5 ] PATIENTS AND VISITORS
+
                                                                             UL Health
+
+
+
                                                                          Outpatient Care Center
+
      **[ 10 ] Gl Motility Clinic**
+
+
      [ 11 ] Location Information
                                                    [ 12 ] Gl Motility Clinic                                  [ 21 ] Schedule An
                                                    [ 13 ] ] UofL Health - Jewish Hospital Outpatient Care     Appointment
@@ -16,10 +24,16 @@
                                                    [ 14 ] ] 225 Abraham Flexner Way, Suite 502                    [ @ 22 ] APPOINTMENTS
                                                    [ 15 ] Louisville, [ 16 ] KY [ 17 ] 40202
                                                    [ 18 ] Fax: 502-540-1414
+
                                                       [ @ 19 ] 502-588-7690
+
                                                       [ @ 20 ] Get Directions
+
      [ 25 ] Services Offered
            [ @ 26 ] Colorectal Screening [ 23 ] ] [ @ 27 ] Gastroenterology [ 24 ] [ @ 28 ] Digestive And Liver Health
+
+
+
      [ 29 ] Overview
           [ 30 ] Welcome to the University of Louisville GI Motility Clinic.
            [ 31 ] Thank you for choosing us to provide excellent patient care for your Gastroenterology Motility needs.
@@ -72,7 +86,7 @@
            [ 86 ] Surgery Scheduler / Temporary Stimulator scheduling only
            [ 87 ] JaCoreya [ 88 ] - [ @ 89 ] 502-588-7688
            [ 90 ] Front Desk / Appointment scheduling
-          [ 91 ] Nicole - [ @ 92 ] 502-588-7690
+           [ 91 ] Nicole - [ @ 92 ] 502-588-7690
            [ 93 ] BaNae  [ @ 94 ] 502-588-7690
            [ 95 ] Practice Manager
            [ 96 ] Ashley Beams [ 97 ] - [ @ 98 ] 502-588-7693
@@ -81,9 +95,13 @@
            [ 101 ] Research Nurse
           [ 102 ] Bridget Cannon - [ @ 103 ] 502-540-1428
     **[ 104 ] Gl Motility Clinic Providers**
+
+
               [ @ 105 ]                            [ @ 111 ]                            [ @ 121 ]                            [ @ 127 ]
+
                         **UL**
                     **Health**
+
                 [ 106 ] Carmelita                    [ 112 ] Benjamin                       [ 122 ] Abigail                      [ 128 ] Lindsay
               **Moppins, APRN**                       Rogers, M.D.                         Stocker, M.D.                         McElmurray,
                [ 107 ] Digestive and Liver           [ 113 ] Gastroenterology,           [ 123 ] Digestive and Liver                   PA - C
@@ -107,17 +125,31 @@
                                                     Chronic GERD | Dysphagia |
                                                       Gastrointestinal Motility
                                                              Disorders
+
+
+
                                                        [ @ 133 ] VIEW ALL GI MOTILITY CLINIC PROVIDERS
+
+
+
     **[ 134 ] Health Library**
+
           [ @ 135 ]                                                                   [ @ 141 ]
+
+
                   [ 136 ] Brain & Spine
                                                                                              [ 142 ] Patient Stories
                **[ 137 ] Elvis Golja Stroke Patient**
               Story                                                                       [ 143 ] A New Heart
                [ 138 ] UofL Health [ 139 ]    [ 140 ] May 16, 2023                        [ 144 ] UofL Health [ 145 ]     [ 146 ] February 2, 2023
+
+
                                                                     [ @ 147 ] VIEW ALL ARTICLES
+
                                                                                                                                                                     Sche
                                                                                                                                                       [ @ 148 ]     [ 149 ]
+
+
            [ @ 150 ]                                  [ @ 158 ] Find A Provider          [ @ 163 ] Appointments               [ @ 168 ] For Health Care
                                                                                                                               Professionals
           **UFL Health**                              [ @ 159 ] Services                 [ @ 164 ] About UofL Health
@@ -130,15 +162,19 @@
            [ @ 152 ] [ @ 153 ] [ @ 154 ] [ @ 155 ] [ @ 156 ] [ @ 157 ]                   [ @ 167
                              [ 0 ]    مل      in      [ @ 162 ] Patient Portal           Information
            f                                                                                                                  [ @ 172 ] Contact
+
+
            [ 173 ] © 2023 UofL Health. All Rights Reserved [ @ 174 ] Nondiscrimination Notice [ @ 175 ] Terms of Use [ @ 176 ] Notice of Privacy Practices
                                                         [ @ 177 ] Code of Conduct   [ @ 178 ] Privacy Policy
+
     [ 179 ]   UofL Health complies with applicable Federal civil rights laws and does not discriminate on the basis of race, color, national origin, age, disability or sex
            ( including discrimination based on pregnancy, gender identity and sex stereotyping ) when providing or administering health - related insurance or other health-
                                                                            related coverage.
+
     [ 180 ]  UofL Health, Inc. is 501 ( c ) ( 3 ) a nonprofit corporation is governed by an independent Board of Directors and is a related organization ( as defined under 42
            CFR 413.17 ) with the University of Louisville's School of Medicine. UofL Health, Inc., on behalf of its teaching hospitals and providers, entered into academic
               affiliation agreement with the University of Louisville in which the University of Louisville agreed that its Health Sciences Center would be the academic
            partner with UofL Health, Inc. to maintain and enhance the University of Louisville's affiliated graduate medical education as well as its research in medicine,
                                                                    dentistry, nursing and public health.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2375
+Token count: 2377

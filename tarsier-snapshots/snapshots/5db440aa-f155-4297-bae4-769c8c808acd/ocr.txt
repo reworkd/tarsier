@@ -1,12 +1,19 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ ]       [ @ 1 ] st [ $ 3 ] [ @ 4 ]' [ $ 6 ] [ @ 7 ] [ $ 9 ] [ @ 10 ] iPh [ $ 12 ] @ 13 ] W [ $ 15 ] @ 16 ] Vision [ @ 18 ] Air! [ $ 20 ] @ 21 ] TV & H [ $ 23 ] @ 24 ] Entertainr [ $ 26 ] @ 27 ] A [ $ 29 ] @ 30 ] [ $ 32 ] @ 33 ]    [ @ 34 ]
+
                          [ @ 35 ] Careers at Apple                        [ @ 36 ] Work at Apple    [ @ 37 ] Life at Apple  [ @ 38 ] Profile   [ @ 39 ] Sign In       [ @ 40 ] Search
+
+
+
                              [ 41 ] **Engineering Manager, Camera Foundation**
                                                   [ 42 ] Santa Clara Valley ( Cupertino ) [ 43 ],           [ 44 ] California [ 45 ], [ 46 ] United States
                                                                                        [ 47 ] Software and Services
                                                                                                      [ $ 48 ]
+
                                                                                              [ @ 50 ] Submit Resume
+
                                                                                        [ @ 51 ]    Back to search results
+
                          [ 52 ] Summary                     [ 59 ] iPhone is the most popular camera in the world. The seamless integration of software and hardware has
                                                             enabled us to create features like Portrait with Focus Control and Night mode, which deliver experiences that
                          [ 53 ] Posted: [ 54 ] Nov 2,       are magical! The Camera & Photos team focuses on user experience, utilizing computer vision and image
@@ -16,6 +23,8 @@
                          [ 57 ] Role Number:                camera infrastructure for all of Apple's innovative devices. We aim to deliver an unsurpassed media
                          [ 58 ] 200517170
                                                             experience by combining forward - leaning software techniques with the latest innovations in hardware.
+
+
                         [ 60 ] Key                             [ 61 ] You have 2+ years of experience leading / managing software engineering projects, and have full-
                         Qualifications                        cycle project planning and resource management experience.
                                                            •   [ 62 ] You thrive in a collaborative environment and can clearly communicate while confidently driving
@@ -24,6 +33,9 @@
                                                            •   [ 64 ] You have 5+ years of multithreading software development experience.
                                                                [ 65 ] ] You are proficient in Objective - C, or C / C ++.
                                                            •   [ 66 ] You own API design and maintenance.
+
+
+
                          [ 67 ] Description                 [ 68 ] If you consider yourself an engaging and highly - collaborative engineering lead with excellent
                                                             communication skills, and are comfortable in a dynamic environment, we feel we have a rewarding
                                                            opportunity for you. We need a strong engineering manager to drive the development and innovation of
@@ -32,17 +44,25 @@
                                                             media formats. In this role you will have the unique opportunity to drive high - impact customer - facing
                                                            features as well as influence the direction of Apple's custom silicon designs - and to build the vertically-
                                                             integrated software stack that connects them.
+
+
                          [ 69 ] Education &                 [ 70 ] ] MS / BS degree in Computer Science or equivalent experience.
                          Experience
+
+
                          [ 71 ] Additional                     [ 72 ] - Development and debug experience on embedded mobile platforms.
                          Requirements                         [ 73 ] - Experience with Unix / Linux highly desired. Experience in OS X / Darwin is a major plus.
                                                                [ 74 ] - Familiarity with modern processor and SoC architectures.
                                                                [ 75 ] - Familiarity with H264 / JVT, MPEG 4 as well as common media container formats.
                                                                [ 76 ] - Familiarity with A / V compression / decompression & synchronization technology.
+
+
+
                         [ 77 ] Pay &                        [ 78 ] At Apple, base pay is one part of our total compensation package and is determined within a range.
                          Benefits                           This provides the opportunity to progress as you grow and develop within a role. The base pay range for
                                                             this role is between $ 183,400 and $ 316,900, and your base pay will depend on your skills, qualifications,
                                                             experience, and location.
+
                                                             [ 79 ] Apple employees also have the opportunity to become an Apple shareholder through participation in
                                                             Apple's discretionary employee stock programs. Apple employees are eligible for discretionary restricted
                                                             stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple's
@@ -51,12 +71,20 @@
                                                             related to advancing your career at Apple, reimbursement for certain educational expenses - including
                                                             tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as
                                                             relocation. [ @ 82 ] Learn more [ 80 ] about Apple Benefits.
+
                                                             [ 81 ] Note: Apple benefit, compensation and employee stock programs are subject to eligibility
                                                             requirements and other terms of the applicable plan or program.
+
+
+
                                                                                              [ @ 83 ] Submit Resume
+
                                                                                       [ @ 84 ]     Back to search results
+
                                                                                                      [ $ 85 ]
                                                                          [ @ 87 ] See all roles in Santa Clara Valley ( Cupertino )
+
+
                          [ 89 ] Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race,
                         color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. [ @ 91 ] Learn more about your EEO rights as
                         an applicant [ 90 ]
@@ -66,7 +94,9 @@
                          [ 98 ] Apple participates in the E - Verify program in certain locations as required by law. [ @ 100 ] Learn more about the E - Verify program [ 99 ]
                          [ 101 ] Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. [ @ 103 ] Learn more [ 102 ]
                          [ 104 ] Apple is a drug - free workplace. [ @ 106 ] Learn more [ 105 ]
+
                          [ @ 107 ] 108 ] Careers at Apple      [ 109 ] Careers at Apple
+
                          [ 110 ] Shop and Learn          [ 127 ] AccountAccount +         [ 141 ] Apple Store              [ 153 ] For Business             [ 167 ] Apple Values
                         Shop and Learn +                                                  Apple Store +                   For Business +                   Apple Values +
                                                          [ @ 128 ] Manage Your
@@ -105,6 +135,7 @@
                                                                                                                                                             [ @ 181 ] Events
                                                                                                                            [ @ 166 ] Shop for Veterans
                                                                                                                           and Military                       @ 182 ] Contact Apple
+
                          [ 183 ] More ways to shop: [ @ 186 ] Find an Apple Store [ 184 ] ] or [ @ 187 ] other retailer [ 185 ] near you. [ 188 ] Or call 1-800 - MY - APPLE.
                          [ 190 ] Copyright © 2023 Apple Inc. All rights reserved. [ @ 191 ] Privacy Policy                                                           [ @ 189 ] United States
                                                                                  [ @ 192 ] Terms of Use
