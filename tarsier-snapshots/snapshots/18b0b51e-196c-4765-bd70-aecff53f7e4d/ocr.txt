@@ -1,75 +1,50 @@
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 82 ]          Garnet Health
-             Find a                                                                                 Patients &
-    [ @ 93 ]                    [ @ 101 ] Locations          [ @ 110 ] Services           @ 120 ]                          [ @ 130 ] Giving         [ @ 139 ] Careers        [ @ 146 ] MyChart
-             Doctor                                                                                Visitors
-                                                                             [ 162 ]  **Find a Location**
-              MY ADDRESS                                    [ 167 ]
-       [ $ 163 ]                                                 [ 166 ]: S AWAY                    [ $ 168 ] FACILITY TYPE                               [ $ 171 ] SERVICE
-       [ # 164 ]                                                                                       [ $ 169 ] [ 170 ] Facility Type                       [ $ 172 ] [ 173 ] Service
-       My Address
-    0            Use my location
-          [ 165 ]                                                                                                                                                                             huusom
-                                                                                  Afton                                                                             Hunter                Catskill
-                                                                           arpursville                    Walton                                          42                                                      [ $ 69
-                                                                                                                                      Margaretville 28
-17     [ 175 ]         Specialty Care                                                                                                                                                          رقا
-                                                                                 17                              Downsville    30                           Phoenicia             Saugerties
-            [ @ 176 ] Alcohol & Substance Abuse                                        Deposit                                                                          Woodstock
-                                                                                                                                                          Slide
-            Treatment at Garnet Health Medical                                                                                                         Mountain                         Red Hook
-                                                                                                                   17                                 Wilderness
-            Center                                                         usquehanna           Hancock
-                                                                                                                             [ $ 662                                             Kingston
-                                                                                                                                av pu                                                                            44
-            75 Crystal Run Road                                            ord                                                                                                  ( 32 )
-            [ 178 ] Middletown, New York 10941
-                                                                                                                                   Liberty                                      87                 Millbrook
-            [ 179 ] Phone: [ @ 180 ] ( 845 ) 333-7818                                                          [ $ 680                                      Kerhonkson              Hyde Park
-                                                                                                                                  [ $ 689                                 New Paltz
-                                                                                                                                         23                                        Poughkeepsie               22
-[ @ 181 ]                                                                                                                                                                            ( 9W
-                      [ 182 ] View more info                               81                                                        Mon                                                            ( 55
-                                                                                 ( 247 )                                                                                       32                                   7
-                                                                                             ( 6 )          Narrowsburg                                                             Wappingers
-                                                                                 Carbondale      Honesdale                           ( 42 )                                             Falls                       New M
-                                                                                                                                                                              [ $ 677 Fishkill
-                                                                                                         6                                                      Montgomery
-                                                                                                                                                                                     urgh
- 8     [ 184 ]         Specialty Care                                      ckson City                  Hawley                                             [ $ 688
-                                                                                         Lake Ariel                                         ( 209    Mida
-                                                                           anton                                                                        84 [ $ 669                 9w
-            [ @ 185 ] Ambulatory Surgery &                                                                                                                                                           { 6}          Danbury
-                                                                                                                                    Port Jervis
-            Procedure Center at Garnet Health                                                                                                                        [ $ 664dbury
-                                                                                                                               Milford
-            Medical Center                                                                                                                                                           Peekskill
-                                                                                                          Delaware
-            707 East Main Street                                                                         State Forest           ( 206                                    Harriman        9                              7
-                                                10940                                 380                                                                                State Park
-            [ 187 ] Middletown,     New York                                                       191                      209
-                                                                                       Tobyhanna
-                                                                                          Mt Pocono                 Delaware                                                                                      [ $ 69
-            [ 188 ] Phone: [ @ 189 ] ( 845 ) 333-3499                                                              Water Gap                     ( 23 )
-                                                                                                                     National
-                                                                                             Tannersville          Recreation.    Newton                                                                     Stam $ 69
-[ @ 190 ]                                                                   [ @ 693 ]                                          ( 94                                                           White Plains.
-                      [ 191 ] View more info                                                        Stroudsburg                                                                              AULE
-                                                                                                                      $ 6941 Keyboard shortcuts [ 6951 Map data © 2023 Google  @ 6961 Terms      @ 6971 Report a man error
-  [ @ 698 ]        Garnet Health                         [ @ 699 ] Pay My Bill             [ @ 700 ] MyChart Login               [ @ 701 ] Donate            [ @ 702 ] Medical Records
-                                                               [ @ 7031           [ @ 704 ]           [ @ 7051
-    [ 706 ] Patients & Visitors                                                                                    [ 717 ] Physicians &                                   [ 722 ] Garnet Health
-                                                                                                                   Employees
-    [ @ 707 ] Find a Doctor                           [ @ 708 ] Locations                                                                                                  [ @ 723 ] About Us
-[ @ 199 ],                                                                                                         [ @ 718 ] Physician Jobs
-           ces                                        [ @ 710 ] Patient Support                                                                                           [ @ 724 ] Contact Us
-                                                                                                                   [ @ 719 ] For Employees
-    [ @ 711 ] Billing & Insurance                     [ @ 712 ] Pay My Bill                                                                                                [ @ 725 ] Careers / Jobs
-                                                                                                                   [ @ 720 ] Medical Education
-    [ @ 713 ] Patient Stories                         [ @ 714 ] Medical Records                                                                                            [ @ 726 ] Disclaimer
-                                                                                                                   [ @ 721 ] Nursing Excellence
-    [ @ 715 ] Classes & Events                        [ @ 716 ] Telehealth                                                                                                 [ @ 727 ] Privacy Policy
-    Copyright © 2023 Garnet Health, All Rights Reserved.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 82 ] _              Garnet Health
+                  Find a                                                                                                           Patients &
+     [ @ 93 ]                             [ @ 101 ] Locations                   [ @ 110 ] Services                   [ @ 120 ]                                    [ @ 130 ] Giving                 [ @ 139 ] Careers                 [ @ 146 ] MyChart                    | ☐☐
+                  Doctor                                                                                                           Visitors
+                                                                                                      [ 162 ]    **Find a Location**
+                   MY ADDRESS                                                  [ 167 ]
+         [ $ 163 ]                                                                   [ 166 ] S AWAY                                 [ $ 168 ] FACILITY TYPE                                                [ $ 171 ] SERVICE
+         [ # 164 ]                                                                                                                      [ $ 169 ] [ 170 ] Facility Type                     ☐                  [ $ 172 ] [ 173 ] Service                            ☐
+         My Address
+       ☐              Use my location
+              [ 165 ]
+                                                                                                                                                                                                                                                                                     [ $ 69
+17       [ 175 ]              Specialty Care
+                [ @ 176 ] Alcohol & Substance Abuse
+                Treatment at Garnet Health Medical
+                Center
+                [ 177 ] 75 Crystal Run Road
+                 [ 178 ] Middletown, New York 10941
+                [ 179 ] Phone: [ @ 180 ] ( 845 ) 333-7818
+[ @ 181 ]
+                             [ 182 ] View more info
+18       [ 184 ]              Specialty Care
+                [ @ 185 ] Ambulatory Surgery &
+                Procedure Center at Garnet Health
+                Medical Center
+                [ 186 ] 707 East Main Street
+                [ 187 ] Middletown, New York 10940
+                 [ 188 ] Phone: [ @ 189 ] ( 845 ) 333-3499                                                                                                                                                                                                                           [ $ 69
+                                                                                                       @ 693 ]                                                                                                                                                                       [ $ 69
+[ @ 190 ]                                                                                            [
+                             [ 191 ] View more info
+                                                                                                                                                           $ 6941 Keyboard shortcuts          [ 6951 Map data © 2023 Google          [ @ 6961 Terms          L @ 6971 Report a map error
+  [ @ 698 ]               Garnet Health                                    [ @ 699 ] Pay My Bill                        [ @ 700 ] MyChart Login                           [ @ 701 ] Donate                      [ @ 702 ] Medical Records
+                                                                                   [ @ 703 ]                 [ @ 704 ]                  [ @ 705 ]
+     [ 706 ] Patients & Visitors                                                                                                                        [ 717 ] Physicians &                                                     [ 722 ] Garnet Health
+                                                                                                                                                        Employees
+     [ @ 707 ] Find a Doctor                                            [ @ 708 ] Locations                                                                                                                                      [ @ 723 ] About Us
+[ @ 199 ]                                                                                                                                               [ @ 718 ] Physician Jobs
+                9 ] Services                                            [ @ 710 ] Patient Support                                                                                                                                [ @ 724 ] Contact Us
+                                                                                                                                                        [ @ 719 ] For Employees
+     [ @ 711 ] Billing & Insurance                                      [ @ 712 ] Pay My Bill                                                                                                                                    [ @ 725 ] Careers / Jobs
+                                                                                                                                                        [ @ 720 ] Medical Education
+      [ @ 713 ] Patient Stories                                         [ @ 714 ] Medical Records                                                                                                                                [ @ 726 ] Disclaimer
+                                                                                                                                                        [ @ 721 ] Nursing Excellence
+      [ @ 715 ] Classes & Events                                        [ @ 716 ] Telehealth                                                                                                                                     [ @ 727 ] Privacy Policy
+      [ 728 ] Copyright © 2023 Garnet Health, All Rights Reserved.
 [ @ 594 ]
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1097
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 744

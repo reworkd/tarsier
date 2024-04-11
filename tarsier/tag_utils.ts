@@ -165,6 +165,7 @@ function create_tagged_span(idNum: number, el: HTMLElement) {
 
 window.tagifyWebpage = (tagLeafTexts = false) => {
   window.removeTags();
+  hideMapElements();
 
   let idNum = 0;
   let idToXpath: Record<number, string> = {};
@@ -310,4 +311,52 @@ function absolutelyPositionMissingTags() {
 window.removeTags = () => {
   const tags = document.querySelectorAll(tarsierSelector);
   tags.forEach((tag) => tag.remove());
+  showMapElements();
 };
+
+const GOOGLE_MAPS_OPACITY_CONTROL = '__reworkd_google_maps_opacity';
+
+const hideMapElements = (): void => {
+  // Also any element with aria-label="Map" aria-roledescription="map"
+  const selectors = [
+    'iframe[src*="google.com/maps"]',
+    'iframe[id*="gmap_canvas"]',
+    '.maplibregl-map',
+    '.mapboxgl-map',
+    '.leaflet-container',
+    'img[src*="maps.googleapis.com"]',
+    '[aria-label="Map"]',
+    '.cmp-location-map__map',
+    '.map-view[data-role="mapView"]',
+    '.google_Map-wrapper',
+    '.google_map-wrapper',
+    '.googleMap-wrapper',
+    '.googlemap-wrapper',
+    '.ls-map-canvas',
+    '.gmapcluster',
+    '#googleMap',
+    '#googleMaps',
+    '#googlemaps',
+    '#googlemap',
+    '#google_map',
+    '#google_maps',
+    '#MapId',
+    '.geolocation-map-wrapper',
+    '.locatorMap',
+  ];
+
+  document.querySelectorAll(selectors.join(', ')).forEach(element => {
+    const currentOpacity = window.getComputedStyle(element).opacity;
+    // Store current opacity
+    element.setAttribute('data-original-opacity', currentOpacity);
+
+    (element as HTMLElement).style.opacity = '0';
+  });
+}
+
+const showMapElements = () => {
+  const elements = document.querySelectorAll(`[${GOOGLE_MAPS_OPACITY_CONTROL}]`);
+  elements.forEach(element => {
+    (element as HTMLElement).style.opacity = element.getAttribute('data-original-opacity') || '1';
+  });
+}

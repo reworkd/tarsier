@@ -1,24 +1,23 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 1 ]   [ @ 2 ]   [ @ 3 ]  [ @ 4 ]                                       [ $ 5 ]
-      [ 0 ] Reworkd                                         Home                Github    Docs                                                   >
-                                                                    AgentGPT                                                    [ 6 ] Join the Waitlist
+[ @ 1 ]   [ @ 2 ]   [ @ 3 ]   [ @ 4 ]                                      [ $ 5 ]
+       [ 0 ] Reworkd                                        Home    AgentGPT    Github    Docs                                   [ 6 ] Join the Waitlist >
             [ @ 7 ] [ 8 ] Reworkd raises a $ 1.25M pre - seed >
              **Web**
           **Extraction.**
-              **At Scale.**
+          [ 10 ] **At Scale.**
           [ 11 ] 100x your data extraction with Al that
           generates & repairs web scrapers on the fly.
           Extract structured data from thousands of sites - no
           developers needed.
                                                       [ 15 ] E - commerce
-       $ 12 ]     [ 13 ] Manufacturing  ☆
-       [                                              [ 16 ] Get com [ $ 25 ]
+                  [ 13 ] Manufacturing
+       [ $ 12 ]                                   ☑ [ 16 ] Get com [ $ 25 ]
                   [ 14 ] Collect product data
                                                       prices
                      [ $ 26 ]
                 [ 27 ] Join the Waitlist >
-  [ 39 ] © 2023 Reworkd Al, [ @ 29 ] [ 30 ] Backed   Y                [ @ 33 ] Panache
-  Inc.                                        [ @ 31 ] Combinator [ 32 ] and Ventures  [ @ 34 ] Careers [ 36 ] Status   [ @ 37 ] Privacy [ @ 38 ] Terms
-                                       By
+   [ 39 ] 2023 Reworkd [ @ 28 ] @ 29 ] [ 30 ] Backed             32 ] and [ @ 33 ] Panache [ @ 34 ] Careers [ @ 35 ]    [ @ 37 ] Privacy [ @ 38 ] Terms
+                        Y                       [ @ 31 ] Combinator [   Ventures
+  Al, Inc.                               By                                                             [ 36 ] Status
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 295
+Token count: 305

@@ -1,16 +1,16 @@
---------------------------------------------------------------------------------------------------------------------------
-[ @ 9 ]                              [ @ 16 ]
-                           [ $ 3 ]      [ $ 5 ]     [ $ 7 ]    [ 10 ] Safety
-  [ @ 1 ]                                                                                 [ $ 13 ]  [ 17 ] Log in
-                        [ 4 ] Research ✓ [ 6 ] API [ 8 ] ChatGPT✓
-      OpenAl                                                                           [ 14 ] Search [ @ 18 ]
+-------------------------------------------------------------------------------------------------------------------------
+[ @ 9 ]                             [ @ 16 ]
+                           [ $ 3 ]      [ $ 5 ]     [ [ $ 7 ]  [ 10 ] Safety
+  [ @ 1 ]                                                 ✓                              [ $ 13 ]  [ 17 ] Log in
+                       [ 4 ] Research [ 6 ] API ✓ [ 8 ] ChatGPT
+     OpenAl                                                                            [ 14 ] Search [ @ 18 ]
                               [ $ 11 ]
-                                                                                                     [ 19 ] Try ChatGPT >
+                                                                                                    [ 19 ] Try ChatGPT >
                           [ 12 ] Company ✓
   [ @ 20 ]
   [ 21 ] Careers
-                                                                  [ 23 ] San Francisco, California, United States -
-  [ 22 ] **Engineering**                                          Applied Al Engineering
+                                                                 [ 23 ] San Francisco, California, United States -
+  [ 22 ] ] **Engineering**                                       Applied Al Engineering
   **Manager - Fine**
   **Tuning API**
   [ @ 24 ]             [ 26 ] About the Team
@@ -24,7 +24,7 @@
                        responsibly. This is a key part of OpenAl's path towards safely deploying
                        broadly beneficial Artificial General Intelligence ( AGI ). Safety is more
                        important to us than unfettered growth.
-                        [ 29 ] About the Role
+                       [ 29 ] About the Role
                        [ 30 ] We are looking for an experienced engineering manager to support
                        our Fine Tuning API team - the team that enables our API developers to
                        customize their models via fine - tuning. This is a unique team that spans
@@ -35,23 +35,23 @@
                        our API developers. Above all, you will be responsible for ensuring the safe
                        deployment of a product that can push the performance of our models to
                        new heights.
-                       [ [ 31 ] In this role, you will:
-                       ● [ 32 ] Manage, build out, and mentor a team of high performing software
+                       [ 31 ] In this role, you will:
+                         [ 32 ] Manage, build out, and mentor a team of high performing software
                          and research engineers.
-                       ● [ 33 ] Work with our product team to craft both the technical and product
+                       • [ 33 ] Work with our product team to craft both the technical and product
                          vision for the future of our fine tuning API.
-                         [ 34 ] Collaborate closely with research teams to push to the boundaries
+                       • [ 34 ] Collaborate closely with research teams to push to the boundaries
                          of what is possible with large language model customization.
-                       ● [ 35 ] Create a diverse, equitable, and inclusive culture that makes all feel
+                         [ 35 ] Create a diverse, equitable, and inclusive culture that makes all feel
                          welcome while enabling radical candor and the challenging of group
                          think
                        [ 36 ] You might thrive in this role if you:
                        • [ 37 ] Have 3+ years of experience managing high performing and diverse
                          software engineering teams, and 6+ years of experience working with
                          production software systems.
-                       ● [ 38 ] Have prior experience working with training and inference of large
+                         [ 38 ] Have prior experience working with training and inference of large
                          language models, especially in production environments.
-                         [ 39 ] Have familiarity with the latest Al research and working knowledge
+                       • [ 39 ] Have familiarity with the latest Al research and working knowledge
                          of how these systems are efficiently implemented
                        • [ 40 ] Own problems end - to - end, and are willing to pick up whatever
                          knowledge you're missing to get the job done
@@ -66,17 +66,17 @@
                        [ 43 ] We are committed to providing reasonable accommodations to
                        applicants with disabilities, and requests can be made via this
                        [ @ 45 ] link [ 44 ].
-                       [ @ 46 ] OpenAI US Applicant Privacy Policy
+                       [ @ 46 ] OpenAl US Applicant Privacy Policy
                        [ 47 ] Compensation, Benefits and Perks
                        [ 48 ] Total compensation also includes generous equity and benefits.
-                       ● [ 49 ] Medical, dental, and vision insurance for you and your family
-                       ● [ 50 ] Mental health and wellness support
-                       ● [ 51 ] 401 ( k ) plan with 4 % matching
-                       . [ 52 ] Unlimited time off and 18+ company holidays per year
-                       ● [ 53 ] Paid parental leave ( 20 weeks ) and family - planning support
-                       ● [ 54 ] Annual learning & development stipend ( $ 1,500 per year )
+                       • [ 49 ] Medical, dental, and vision insurance for you and your family
+                       • [ 50 ] Mental health and wellness support
+                       • [ 51 ] 401 ( k ) plan with 4 % ma
+                       • [ 52 ] Unlimited time off and 18+ company holidays per year
+                         [ 53 ] Paid parental leave ( 20 weeks ) and family - planning support
+                         [ 54 ] Annual learning & development stipend ( $ 1,500 per year )
                        [ 55 ] Annual Salary Range
-                       [ 56 ] $ 300,000 [ 57 ] [ 58 ] $ 450,000 USD
+                       [ 56 ] $ 300,000 [ 57 ] - [ 58 ] $ 450,000 USD
                        [ 59 ] About OpenAl
                        [ 60 ] OpenAl is an Al research and deployment company dedicated to
                        ensuring that general - purpose artificial intelligence benefits all of humanity.
@@ -91,28 +91,28 @@
                        be widely shared. Join us in shaping the future of technology.
                        [ @ 62 ]
                        [ 63 ] Apply now >
-  [ @ 64 ]                                   [ 65 ] Research      [ 74 ] API           [ 83 ] ChatGPT        [ 90 ] Company
-      OpenAl                                 [ @ 66 ]             [ @ 75 ]             [ @ 84 ]              [ @ 91 ]
-                                             [ 67 ] Overview      [ 76 ] Overview      [ 85 ] Overview       [ 92 ] About
-                                             [ @ 68 ]             [ @ 77 ]             [ @ 86 ]              [ @ 93 ]
-                                             [ 69 ] Index         [ 78 ] Data privacy  [ 87 ] Enterprise    [ 94 ] Blog
-                                             [ @ 70 ]             [ @ 79 ]             [ @ 88 ]              [ @ 95 ]
-                                             [ 71 ] GPT - 4       [ 80 ] Pricing       [ 89 ] Try ChatGPT >  [ 96 ] Careers
-                                             [ @ 72 ]             [ @ 81 ]                                  [ @ 97 ]
-                                             [ 73 ] DALL - E 3    [ 82 ] Docs >                              [ 98 ] Charter
+  [ @ 64 ]                                  [ 65 ] Research       [ 74 ] API           [ 83 ] ChatGPT       [ 90 ] Company
+     **OpenAl**                             [ @ 66 ]              [ @ 75 ]             [ @ 84 ]             [ @ 91 ]
+                                            [ 67 ] Overview       [ 76 ] Overview      [ 85 ] Overview      [ 92 ] About
+                                            [ @ 68 ]              [ @ 77 ]             [ @ 86 ]             [ @ 93 ]
+                                            [ 69 ] Index          [ 78 ] Data privacy  [ 87 ] Enterprise    [ 94 ] Blog
+                                            [ @ 70 ]             [ @ 79 ]              [ @ 88 ]             [ @ 95 ]
+                                             [ 71 ] GPT - 4       [ 80 ] Pricing       [ 89 ] Try ChatGPT > [ 96 ] Careers
+                                            [ @ 72 ]              [ @ 81 ]                                  [ @ 97 ]
+                                            [ 73 ] DALL - E 3     [ 82 ] Docs 7                             [ 98 ] Charter
                                                                                                             [ @ 99 ]
-                                                                                                             [ 100 ] Security
+                                                                                                            [ 100 ] Security
                                                                                                             [ @ 101 ]
-                                                                                                             [ 102 ] Customer
+                                                                                                            [ 102 ] Customer
                                                                                                             stories
                                                                                                             [ @ 103 ]
-                                                                                                             [ 104 ] Safety
-  [ 105 ] OpenAIO 2015-2023                  [ @ 112 ]    [ @ 114 ]     [ @ 116 ]    [ @ 118 ]         [ @ 120 ]
+                                                                                                            [ 104 ] Safety
+  [ 105 ] OpenAI © 2015–2023                [ @ 112 ]    [ @ 114 ]      [ @ 116 ]    [ @ 118 ]        [ @ 120 ]
   [ @ 106 ]                                  [ 113 ] Twitter [ 115 ] YouTube [ 117 ] GitHub [ 119 ] SoundCloud [ 121 ] LinkedIn
   [ 107 ] Terms & policies
   [ @ 108 ]
   [ 109 ] Privacy policy
-  [ @ 110 ]                                       [ $ 122 ]
+  [ @ 110 ]                                      [ $ 122 ]
   [ 111 ] Brand guidelines                   [ 123 ] Back to top ↑
---------------------------------------------------------------------------------------------------------------------------
-Token count: 1697
+-------------------------------------------------------------------------------------------------------------------------
+Token count: 1698

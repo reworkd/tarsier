@@ -1,23 +1,23 @@
 -------------------------------------------------------------------------------------------------
 [ @ 9 ]                     [ @ 16 ]
-                     [ $ 3 ]  [ $ 5 ]   [ $ 7 ] [ 10 ] Safety
- [ @ 1 ]                                                            [ $ 13 ] [ 17 ] Log in
-                  [ 4 ] Research [ 6 ] API [ 8 ] ChatGPT✓
+                     [ $ 3 ]   [ $ 5 ]  [ [ $ 7 ] [ 10 ] Safety
+ [ @ 1 ]                                     ✓                      [ $ 13 ] [ 17 ] Log in
+                  [ 4 ] Research [ 6 ] API ✓ [ 8 ] ChatGPT
     OpenAl                                                         [ 14 ] Search [ @ 18 ]
                        [ $ 11 ]
                                                                              [ 19 ] Try ChatGPT >
                     [ 12 ] Company ✓
   [ @ 20 ]
   [ 21 ] Careers
-                                                  **[ 23 ] San Francisco, California, United States - Legal**
+                                                  [ 23 ] San Francisco, California, United States - Legal
      **Head of**
  **Commercial Legal**
- [ @ 24 ]         [ 26 ] About the Team
- [ 25 ] Apply now >
+  [ @ 24 ]        [ 26 ] About the Team
+  [ 25 ] Apply now >
                   [ 27 ] OpenAl's Legal team plays a crucial role in furthering OpenAl's
                   mission by tackling innovative, fundamental legal issues in Al. If you're
                   passionate about doing significant and unique work as a technology lawyer,
-                 this team is for you. The team comprises professionals from diverse fields,
+                  this team is for you. The team comprises professionals from diverse fields,
                   including technology, Al, privacy, IP, corporate, employment, tax law,
                   regulatory, and litigation.
                   [ 28 ] About the Role
@@ -32,69 +32,69 @@
                   of 3 days in the office per week and offer relocation assistance to new
                   employees.
                   [ 31 ] In this role, you will:
-                   [ 33 ] Lead & Scale [ 32 ]: Build, manage, and motivate our commercial
+                  • [ 33 ] Lead & Scale [ 32 ]: Build, manage, and motivate our commercial
                    legal team to meet GTM growth, vendor, and procurement goals.
-                  ● [ 35 ] Identify Strategic Partnerships [ 34 ]: Enhance our ability to
+                  • [ 35 ] Identify Strategic Partnerships [ 34 ]: Enhance our ability to
                    negotiate and form pivotal strategic partnerships.
-                 • [ 37 ] Be Hands - on [ 36 ]: Engage personally in intricate deals, working
+                  • [ 37 ] Be Hands - on [ 36 ]: Engage personally in intricate deals, working
                    collaboratively with various company functions.
-                   [ 39 ] Define Success Metrics [ 38 ]: Craft and fine - tune metrics to gauge
+                  • [ 39 ] Define Success Metrics [ 38 ]: Craft and fine - tune metrics to gauge
                    team success, reporting, and adapting to shifts in the commercial
                    landscape.
                   [ 40 ] We expect candidates to bring a blend of experience:
                    [ 41 ] 15+ years of legal experience in in - house and law firm roles
-                  ● [ 42 ] A reputation for being a motivational and supportive leader of high
+                   [ 42 ] A reputation for being a motivational and supportive leader of high-
                    impact teams
-                   [ 43 ] Successfully scaling tech enterprise / B2B focused Legal teams
-                  ● [ 44 ] History of growing and leading teams managing strategic
+                  • [ 43 ] Successfully scaling tech enterprise / B2B focused Legal teams
+                  . [ 44 ] History of growing and leading teams managing strategic
                    partnership / licensing negotiations
-                   [ 45 ] Partnered closely with cross - functional teams, including Go To
+                 ⚫ [ 45 ] Partnered closely with cross - functional teams, including Go To
                    Market, Finance, Product, Security and more.
-                  ● [ 46 ] JD degree from an accredited law school and membership in at
+                  • [ 46 ] JD degree from an accredited law school and membership in at
                    least one state bar.
                   [ 47 ] # LI - RA1
                   [ 48 ] We are an equal opportunity employer and do not discriminate on the
                   basis of race, religion, national origin, gender, sexual orientation, age,
                   veteran status, disability or any other legally protected status. Pursuant to
-                 the San Francisco Fair Chance Ordinance, we will consider qualified
+                  the San Francisco Fair Chance Ordinance, we will consider qualified
                   applicants with arrest and conviction records.
                   [ 49 ] We are committed to providing reasonable accommodations to
                   applicants with disabilities, and requests can be made via
                   this [ @ 51 ] link [ 50 ].
-                  [ @ 52 ] OpenAI US Applicant Privacy Policy
+                  [ @ 52 ] OpenAl US Applicant Privacy Policy
                   [ 53 ] Compensation, Benefits and Perks
                   [ 54 ] Total compensation also includes generous equity and benefits.
-                   [ 55 ] Medical, dental, and vision insurance for you and your family
-                  . [ 56 ] Mental health and wellness support
-                  ● [ 57 ] 401 ( k ) plan with 4 % matching
-                  ● [ 58 ] Unlimited time off and 18+ company holidays per year
+                  • [ 55 ] Medical, dental, and vision insurance for you and your family
+                  • [ 56 ] Mental health and wellness support
+                  • [ 57 ] 401 ( k ) plan with 4 % matching
+                   [ 58 ] Unlimited time off and 18+ company holidays per year
                    [ 59 ] Paid parental leave ( 20 weeks ) and family - planning support
-                  ● [ 60 ] Annual learning & development stipend ( $ 1,500 per year )
+                   [ 60 ] Annual learning & development stipend ( $ 1,500 per year )
                   [ 61 ] Annual Salary Range
-                  [ 62 ] $ 365,000 [ 63 ] [ 64 ] $ 365,000 USD
+                  [ 62 ] $ 365,000 [ 63 ] - [ 64 ] $ 365,000 USD
                   [ 65 ] About OpenAl
                   [ 66 ] OpenAl is an Al research and deployment company dedicated to
                   ensuring that general - purpose artificial intelligence benefits all of humanity.
                   We push the boundaries of the capabilities of Al systems and seek to safely
                   deploy them to the world through our products. Al is an extremely powerful
-                 tool that must be created with safety and human needs at its core, and to
+                  tool that must be created with safety and human needs at its core, and to
                   achieve our mission, we must encompass and value the many different
                   perspectives, voices, and experiences that form the full spectrum of
                   humanity.
                   [ 67 ] At OpenAl, we believe artificial intelligence has the potential to help
                   people solve immense global challenges, and we want the upside of Al to
                   be widely shared. Join us in shaping the future of technology.
-                  [ @ 681
+                  [ @ 68 ]
                   [ 69 ] Apply now >
- [ @ 70 ]                         [ 71 ] Research [ 80 ] API       [ 89 ] ChatGPT  [ 96 ] Company
-    OpenAl                        [ @ 72 ]        [ @ 81 ]         [ @ 90 ]        [ @ 97 ]
-                                  [ 73 ] Overview [ 82 ] Overview [ 91 ] Overview  [ 98 ] About
+  [ @ 70 ]                        [ 71 ] Research [ 80 ] API       [ 89 ] ChatGPT  [ 96 ] Company
+    OpenAl                        [ @ 72 ]        [ @ 81 ]        [ @ 90 ]         [ @ 97 ]
+                                  [ 73 ] Overview [ 82 ] Overview  [ 91 ] Overview [ 98 ] About
                                   [ @ 74 ]        [ @ 83 ]         [ @ 92 ]        [ @ 99 ]
                                   [ 75 ] Index    [ 84 ] Data privacy [ 93 ] Enterprise [ 100 ] Blog
                                   [ @ 76 ]        [ @ 85 ]         [ @ 94 ]        [ @ 101 ]
                                   [ 77 ] GPT - 4  [ 86 ] Pricing   [ 95 ] Try ChatGPT > [ 102 ] Careers
                                   [ @ 78 ]        [ @ 87 ]                         [ @ 103 ]
-                                  [ 79 ] DALL - E 3 [ 88 ] Docs >                  [ 104 ] Charter
+                                  [ 79 ] DALL - E 3 [ 88 ] Docs 7                  [ 104 ] Charter
                                                                                    [ @ 105 ]
                                                                                    [ 106 ] Security
                                                                                    [ @ 107 ]
@@ -102,12 +102,12 @@
                                                                                    stories
                                                                                    [ @ 109 ]
                                                                                    [ 110 ] Safety
-  [ 111 ] OpenAI © 2015–2023      [ @ 118 ] [ @ 120 ]  [ @ 122 ] [ @ 124 ]     [ @ 126 ]
-  [ @ 112 ]                       [ 119 ] Twitter [ 121 ] YouTube [ 123 ] GitHub [ 125 ] SoundCloud [ 127 ] LinkedIn
+  [ 111 ] OpenAl 2015-2023        [ @ 118 ] [ @ 120 ]  [ @ 122 ] [ @ 124 ]     [ @ 126 ]
+ [ @ 112 ]                        [ 119 ] Twitter [ 121 ] YouTube [ 123 ] GitHub [ 125 ] SoundCloud [ 127 ] LinkedIn
   [ 113 ] Terms & policies
- [ @ 114 ]
- [ 115 ] Privacy policy
-  [ @ 116 ]                           [ $ 128 ]
+  [ @ 114 ]
+  [ 115 ] Privacy policy
+ [ @ 116 ]                            [ $ 128 ]
   [ 117 ] Brand guidelines        [ 129 ] Back to top ↑
 -------------------------------------------------------------------------------------------------
-Token count: 1603
+Token count: 1612

@@ -1,41 +1,40 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 2 ]
-                                                                                                     [ @ 3 ] About Us     [ @ 4 ] Locations & Tours    [ @ 5 ] News & Blog     [ @ 6 ] Careers
-          **Select**                        [ @ 7 ] Conditions and Services        @ 8 ] Why Choose Us         [ @ 9 ] Patients and                 [ @ 10 ] Professionals          [ @ 11 ]
-          SPECIALTY HOSPITAL                                                      [                                                Caregivers
-     [ @ 12 ] Home         [ @ 13 ] Locations and Tours         [ @ 14 ] Select Specialty Hospitals - Wheeling
-           **Select Specialty**
+[ @ 2 ] ]
+                                                                                                      [ @ 3 ] About Us     [ @ 4 ] Locations & Tours    [ @ 5 ] News & Blog    [ @ 6 ] Careers
+          **Select**                         @ 7 ] Conditions and Services                            Us                                             @ 10 ] Professionals            [ @ 11 ]
+          SPECIALTY HOSPITAL                 [                                    [ @ 8 ] Why Choose           [ @ 9 ] Patients and Caregivers      [
+     [ @ 12 ] Home ☐ [ @ 13 ] Locations and Tours ☐ [ @ 14 ] Select Specialty Hospitals - Wheeling
+     **15Select Specialty**
                                                                                                                                                         [ @ 16 ] Take a virtual
                                                                                                                                                                   tour
-     **Hospital - Wheeling**
-          [ @ 17 ] 500 Medical Park, 2nd            [ 27 ] HOSPITAL ACCESS                                [ 32 ] VISITING HOURS                   [ 35 ] CONDITIONS
-          Floor                                     [ 29 ] Directions to the hospital:                    [ [ 33 ] 11:00 a.m. - 8 p.m. daily.     [ @ 36 ] Brain Injury
-          Wheeling, WV 26003                        [ 28 ] 500 Medical Park, second floor,                [ 34 ] Please contact our hospital      [ @ 37 ] Cardiac Conditions
+     **Hospitals - Wheeling**
+          [ @ 17 ] 500 Medical Park, 2nd            [ 27 ] HOSPITAL ACCESS                                [ 32 ] VISITING HOURS                    [ 35 ] CONDITIONS
+          Floor                                     [ 29 ] Directions to the hospital:                    [ 33 ] 11:00 a.m. - 8 p.m. daily.        [ @ 36 ] Brain Injury
+          Wheeling, WV 26003                        [ 28 ] 500 Medical Park, second floor,                [ 34 ] Please contact our hospital       [ @ 37 ] Cardiac Conditions
                                                     Wheeling, WV 26003. It is the first                   about any additional visitation          [ @ 38 ] Infectious Disease
-          [ 18 ] Phone: [ @ 19 ] ( 304 ) 238                                                              requirements or restrictions that       [ @ 39 ] Medically Complex Care
-                                                    building on the right when approaching
+          [ 18 ] Phone: [ @ 19 ] ( 304 ) 238-       building on the right when approaching                requirements or restrictions that        [ @ 39 ] ] Medically Complex Care
           5750                                      the main campus
-                                                                       .                                  may be in effect ( e.g., masking,       [ @ 40 ] Neurologic Conditions
-          [ 21 ] Fax: [ 20 ] ( 304 ) 797-6186                                      location               number and age of visitors ).
-                                                    [ 31 ] Parking: [ 30 ] Free on                                                                [ @ 41 ] Pulmonary / Ventilator
+                                                                       .                                  may be in effect ( e.g., masking,        [ @ 40 ] ] Neurologic Conditions
+          [ 21 ] Fax: [ 20 ] ( 304 ) 797-6186                      : [ 30 ] Free on location              number and age of visitors ).             @ 41 ]              / Ventilator
+                                                    [ 31 ] Parking                                                                                 [       Pulmonary
                                                                                                                                                   Liberation
           [ 22 ] Referral Phone: [ @ 23 ]
                                                                                                                                                   [ @ 42 ] Renal Disorders
           ( 855 ) 281-5728
-                                                                                                                                                   [ @ 43 ] Wound Care
+                                                                                                                                                  [ @ 43 ] Wound Care
           [ 25 ] Referral Fax: [ 24 ] ( 888 )
           412-4994
          [ @ 26 ] Maps & Directions
-       [ @ 44 ] About Us          [ @ 58 ] Our Team              [ @ 59 ] News
+      [ @ 44 ] About Us           [ @ 58 ] Our Team               [ @ 59 ] News
 [ 45 ] About our hospital
-[ 46 ] Select Specialty Hospital - Wheeling is a 29 - bed critical illness recovery hospital located on the second floor of Wheeling Hospital in the Wheeling Medical Park. We
+[ 46 ] Select Specialty Hospitals - Wheeling is a 29 - bed critical illness recovery hospital located on the second floor of Wheeling Hospital in the Wheeling Medical Park. We
      specialize in helping medically complex patients breathe, eat, speak, think and walk as independently as possible. Select Specialty Hospital - Wheeling is a hospital that
      is owned, or invested in, by physicians.
 [ 47 ] ACCREDITATIONS
 [ 48 ] State, Medicare, The Joint Commission
 [ 49 ] DINING OPTIONS
 [ 52 ] The cafeteria is located in the main Wheeling Hospital campus.
-     Hours: 6 a.m. -7 p.m. daily
+     Hours: 6 a.m. - 7 p.m. daily
      Vending machines are located on campus in the main foyer on the first floor
 [ 53 ] Pricing transparency
 [ 54 ] Effective January 1, 2021, the Centers for Medicare and Medicaid Services is requiring hospitals to make standard charges public. CMS issued a final rule on November
@@ -75,4 +74,4 @@
                                                                                                                                          Requirements
         [ 82 ]  [ 83 ] 2023 [ 84 ] Select Medical Corporation. All Rights Reserved.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1304
+Token count: 1316

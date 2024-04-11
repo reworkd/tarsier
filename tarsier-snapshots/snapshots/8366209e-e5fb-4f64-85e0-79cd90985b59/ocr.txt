@@ -1,87 +1,88 @@
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 1 ]      [ @ 2 ]        [ # 4 ]                                                                 [ # 5 ]
-                                                                                                                                             [ $ 6 ]
-                               Search for jobs by title or keyword                                          Location
-               amazonjobs
-       [ @ 7 ] Your Job
-        application
-           **[ 8 ] Software Development Engineer, Amazon**
-           Access                                                                                                                    [ @ 10 ] Apply now
-           [ 9 ] Job ID: 2482000 | Amazon.com Services LLC
-           [ 11 ] DESCRIPTION                                                                                                [ 32 ] Job details
-           [ 12 ] At Amazon Access, we are committed to innovation, striving to create solutions that enhance the lives of         [ 33 ] USA, WA, Seattle
-           underserved customer
-           [ 13 ] segments. Currently, we are in the process of assembling a dedicated team to conceptualize, design, and          [ @ 34 ] Retail Category
-           implement a new benefits acceptance workflow solution. Integrated across Amazon Retail, this initiative will offer      Management: Home,
-           our customers greater flexibility in utilizing their benefits across Amazon businesses. For the initiative, we are      Sports, Toys, Consumer
-           looking for a Software Development Engineers ( SDES ) who are passionate to solve complex, cross - functional           Electronics and more
-           problems and build a customer experience that improves and simplifies our customers' lives.
-                                                                                                                                   [ @ 35 ] Software
-           [ 14 ] You will have the opportunity to impact the design, architecture, and implementation of our programs and         Development
-           work with and learn from teams across the company. You will strive for simplicity and flexibility in what you create.
-           You will be the voice of the customer throughout your work. Customer experience, usability, and operational
-           excellence will be your top priorities as you deliver quality solutions.                                          [ 36 ] Related jobs
-           [ 15 ] Key job responsibilities                                                                                   [ @ 37 ] Software Development
-           [ 16 ] As Software Development Engineer, you will work in a high quality, creative, visionary software development Engineer, Amazon
-           team to build and innovate the technology platform that powers the program. You are great at designing, building, Location: USA, WA, Seattle
-                                                                                                                            Posted: [ 40 ] November 16, 2023
-           and innovating solutions that are simple and easy to maintain and scale. You will deliver components / features   [ 42 ] ( Updated about 1 hour ago )
-           spanning the full software lifecycle including working backwards from customers, software design, implementation,
-           testing, and deployment, operations, and documentation. You bring in a continuous design thought process of       [ @ 43 ] Front - End Engineer, High
-           operational excellence.                                                                                          Volume Hiring Tech - Job Discovery
-                                                                                                                            Location: USA, VA, Arlington
-           [ 17 ] Previous experience in collaborating with remote teams is a big plus. From website and mobile apps based  Posted: [ 46 ] November 13, 2023
-           front - end to AWS based back - end, we provide great opportunities for talented software engineers to apply cutting [ 48 ] ( Updated about 6 hours ago )
-           edge technologies while solving challenging real world issues.
-                                                                                                                             [ @ 49 ] Sr Engineering Manager,
-            18 ] About the team                                                                                             Twitch, Audio, Podcasts, Amazon
-           [
-                                                                                                                            Location: USA, WA, Seattle
-           [ 19 ] The Amazon Access ( AA ) team vision is to evolve the perception of the Amazon online store from the      Posted: [ 52 ] November 18, 2023
-           Everything Store to the" Everyone Store," establishing Amazon as a leader in convenience equity for underserved   [ 54 ] ( Updated about 21 hours ago )
-           communities. We define convenience equity as equal access to Amazon's online shopping, affordable and vast
-           selection, and convenience of home delivery.                                                                      [ @ 55 ] Sr Software Dev Engineer,
-                                                                                                                            AWS DynamoDB Request Router
-           [ 20 ] Learn more: https://www.amazon.com/access                                                                 Location: USA, WA, Seattle
-                                                                                                                            Posted: [ 58 ] September 25, 2023
-                                                                                                                             [ 60 ] ( Updated about 22 hours ago )
-           [ 21 ] We are open to hiring candidates to work out of one of the following locations:
-                                                                                                                             [ @ 61 ] Software Engineer II, AWS
-           [ 22 ] Seattle, WA, USA
-                                                                                                                            DynamoDB Request Router
-                                                                                                                            Location: USA, WA, Seattle
-                                                                                                                            Posted: [ [ 64 ] September 25, 2023
-           [ 23 ] BASIC QUALIFICATIONS                                                                                       [ 66 ] ( Updated about 23 hours ago )
-           [ 24 ] - 3+ years of non - internship professional software development experience
-           [ 25 ] - 2+ years of non - internship design or architecture ( design patterns, reliability and scaling ) of new and existing
-           systems experience                                                                                                [ 67 ] Share this job
-           [ 26 ] - Experience programming with at least one software programming language                                   b      d              [ @ 71 ] 0 [ @ 72 ]
-           [ 27 ] PREFERRED QUALIFICATIONS
-           [ 28 ] - 3+ years of full software development life cycle, including coding standards, code reviews, source control
-           management, build processes, testing, and operations experience
-           [ 29 ] - Bachelor's degree in computer science or equivalent
-           [ 30 ] Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and
-           does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected
-           veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to
-           request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
-           [ 31 ] Our compensation reflects the cost of labor across several US geographic markets. The base pay for this
-           position ranges from $ 115,000 / year in our lowest geographic market up to $ 223,600 / year in our highest geographic
-           market. Pay is based on a number of factors including market location and may vary depending on job - related
-           knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered,
-           equity, sign - on payments, and other forms of compensation may be provided as part of a total compensation
-           package, in addition to a full range of medical, financial, and / or other benefits. For more information, please visit
-           https://www.aboutamazon.com/workplace/employee-benefits. Applicants should apply via our internal or external
-           career site.
-           [ 73 ] JOIN US ON b        d      с     J [ @ 77 ]
-           [ 78 ] Find Careers                   [ 84 ] Working At Amazon              [ 90 ] Help
-           [ @ 79 ] Job Categories               [ @ 85 ] Culture                      [ @ 91 ] FAQ                             [ @ 96 ]   English -
-           [ @ 80 ] Teams                        [ @ 86 ] Benefits                     [ @ 92 ] Interview tips
-           [ @ 81 ] Locations                    [ @ 87 ] Amazon Newsletter            [ @ 93 ] Review application status
-           [ @ 82 ] US and EU Military recruiting [ @ 88 ] Diversity at Amazon         [ @ 94 ] Disability accommodations
-           [ @ 83 ] Warehouse and Hourly Jobs    [ @ 89 ] Our leadership principles    [ @ 95 ] EU background checks
-                Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity
-                employer and does not discriminate on the basis of race, national origin, gender, gender [ @ 98 ] Privacy          © 1996-2023. Amazon.com, Inc. or its
-           [ 97 ] identity, sexual orientation, protected veteran status, disability, age, or other legally protected and Data [ @ 99 ] Impressum [ 100 ] affiliates
-                status.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1679
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 1 ]            [ @ 2 ]               [ # 4 ]                                                                                                    [ # 5 ]
+                                                                                                                                                           11                                                    [ $ 6 ]
+                                              Search for jobs by title or keyword                                                                                Location
+                      amazonjobs
+          [ @ 7 ] Your Job
+             application
+                **[ 8 ] Software Development Engineer, Amazon**
+                Access                                                                                                                                                                               [ @ 10 ] Apply now
+                 [ 9 ] Job ID: 2482000 | Amazon.com Services LLC
+                [ 11 ] DESCRIPTION                                                                                                                                                       [ 32 ] Job details
+                 [ 12 ] At Amazon Access, we are committed to innovation, striving to create solutions that enhance the lives of                                                                    33 ] USA, WA, Seattle
+                                                                                                                                                                                                   [
+                underserved customer
+                 [ 13 ] segments. Currently, we are in the process of assembling a dedicated team to conceptualize, design, and                                                                    [ @ 34 ] Retail Category
+                implement a new benefits acceptance workflow solution. Integrated across Amazon Retail, this initiative will offer                                                                 Management: Home,
+                our customers greater flexibility in utilizing their benefits across Amazon businesses. For the initiative, we are                                                                          , Toys, Consumer
+                                                                                                                                                                                                   Sports
+                looking for a Software Development Engineers ( SDEs ) who are passionate to solve complex, cross - functional                                                                      Electronics and more
+                problems and build a customer experience that improves and simplifies our customers' lives.
+                                                                                                                                                                                                   [ @ 35 ] Software
+                 [ 14 ] You will have the opportunity to impact the design, architecture, and implementation of our programs and                                                                   Development
+                work with and learn from teams across the company. You will strive for simplicity and flexibility in what you create.
+                You will be the voice of the customer throughout your work. Customer experience, usability, and operational
+                excellence will be your top priorities as you deliver quality solutions.                                                                                                 [ 36 ] Related jobs
+                 [ 15 ] Key job responsibilities                                                                                                                                         [ @ 37 ] Software Development
+                 [ 16 ] As Software Development Engineer, you will work in a high quality, creative, visionary software development                                                      Engineer, Amazon
+                team to build and innovate the technology platform that powers the program. You are great at designing, building,                                                        [ 39 ] Location: [ 38 ] USA, WA, Seattle
+                                                                                                                                                                                         [ 41 ] Posted: [ 40 ] November 16, 2023
+                and innovating solutions that are simple and easy to maintain and scale. You will deliver components / features                                                          [ 42 ] ( Updated about 1 hour ago )
+                spanning the full software lifecycle including working backwards from customers, software design, implementation,
+                testing, and deployment, operations, and documentation. You bring in a continuous design thought process of                                                              [ @ 43 ] Front - End Engineer, High
+                operational excellence.
+                                                                                                                                                                                         Volume Hiring Tech Job Discovery
+                                                                                                                                                                                         [ 45 ] Location: [ 44 ] USA, VA, Arlington
+                 [ 17 ] Previous experience in collaborating with remote teams is a big plus. From website and mobile apps based                                                         [ 47 ] Posted: [ 46 ] November 13, 2023
+                front - end to AWS based back - end, we provide great opportunities for talented software engineers to apply cutting                                                     [ 48 ] ( Updated about 6 hours ago )
+                edge technologies while solving challenging real world issues.
+                                                                                                                                                                                         [ @ 49 ] Sr Engineering Manager,
+                 [ 18 ] About the team                                                                                                                                                   Twitch, Audio, Podcasts, Amazon
+                 [ 19 ] The Amazon Access ( AA ) team vision is to evolve the perception of the Amazon online store from the                                                             [ 51 ] Location: [ 50 ] USA, WA, Seattle
+                                                                                                                                                                                         [ 53 ] Posted: [ 52 ] November 18, 2023
+                Everything Store to the" Everyone Store," establishing Amazon as a leader in convenience equity for underserved                                                          [ 54 ] ( Updated about 21 hours ago )
+                communities. We define convenience equity as equal access to Amazon's online shopping, affordable and vast
+                selection, and convenience of home delivery.                                                                                                                             [ @ 55 ] Sr Software Dev Engineer,
+                                                                                                                                                                                         AWS DynamoDB Request Router
+                 [ 20 ] Learn more: https://www.amazon.com/access                                                                                                                        [ 57 ] Location: [ 56 ] USA, WA, Seattle
+                                                                                                                                                                                         [ 59 ] Posted: [ 58 ] September 25, 2023
+                 [ 21 ] We are open to hiring candidates to work out of one of the following locations:                                                                                  [ 60 ] ( Updated about 22 hours ago )
+                 [ 22 ] Seattle, WA, USA                                                                                                                                                 [ @ 61 ] Software Engineer II, AWS
+                                                                                                                                                                                         DynamoDB Request Router
+                                                                                                                                                                                         [ 63 ] Location: [ 62 ] USA, WA, Seattle
+                                                                                                                                                                                         [ 65 ] Posted: [ 64 ] September 25, 2023
+                [ 23 ] BASIC QUALIFICATIONS                                                                                                                                              [ 66 ] ( Updated about 23 hours ago )
+                [ 24 ] -3+ years of non - internship professional software development experience
+                 [ 25 ] - 2+ years of non - internship design or architecture ( design patterns, reliability and scaling ) of new and existing
+                systems experience                                                                                                                                                       [ 67 ] Share this job
+                 [ 26 ] - Experience programming with at least one software programming language
+                                                                                                                                                                                          b [ @ 68 ] [ @ 69 [ @ 70 ] [ @ 71 ] n [ @ 72 ]
+                [ 27 ] PREFERRED QUALIFICATIONS
+                 [ 28 ] - 3+ years of full software development life cycle, including coding standards, code reviews, source control
+                management, build processes, testing, and operations experience
+                [ [ 29 ] ] - Bachelor's degree in computer science or equivalent
+                 [ 30 ] Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and
+                does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected
+                veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to
+                request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+                 [ 31 ] Our compensation reflects the cost of labor across several US geographic markets. The base pay for this
+                position ranges from $ 115,000 / year in our lowest geographic market up to $ 223,600 / year in our highest geographic
+                market. Pay is based on a number of factors including market location and may vary depending on job - related
+                knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered,
+                equity, sign - on payments, and other forms of compensation may be provided as part of a total compensation
+                package, in addition to a full range of medical, financial, and / or other benefits. For more information, please visit
+                https://www.aboutamazon.com/workplace/employee-benefits. Applicants should apply via our internal or external
+                career site.
+                [ 73 ] JOIN US ON b [ @ 74 ] [ @ 75 ] [ @ 76 [ @ 77 ]
+                 [ 78 ] Find Careers                                     [ 84 ] Working At Amazon                                [ 90 ] Help
+                 [ @ 79 ] Job Categories                                 [ @ 85 ] Culture                                        [ @ 91 ] FAQ                                                  [ @ 96 ]       English▾
+                 [ @ 80 ] Teams                                          [ @ 86 ] Benefits                                       [ @ 92 ] Interview tips
+                [ @ 81 ] Locations                                       [ @ 87 ] Amazon Newsletter                              [ @ 93 ] Review application status
+                 [ @ 82 ] US and EU Military recruiting                  [ @ 88 ] Diversity at Amazon                            [ @ 94 ] Disability accommodations
+                 [ @ 83 ] Warehouse and Hourly Jobs                      [ @ 89 ] Our leadership principles                      [ @ 95 ] EU background checks
+                        Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity
+                                                                                                                                 [ @ 98 ] Privacy         [ @ 99 ]                                 © 1996-2023, Amazon.com, Inc. or its
+                 [ 97 ] employer identity, sexual and does orientation not discriminate , protected on veteran the basis status of , race disability , national , age origin , or other , gender legally , gender protected and Data Impressum [ 100 ] affiliates
+                        status.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1781

@@ -1,44 +1,44 @@
--------------------------------------------------------------------------------------------------------------------------
-[ @ 2 ] Médiathèque [ @ 1 ] Presse [ @ 0 ] Recherche
-                                                                                                 Royaume du Maroc
-                            [ 3 ] DIRECTION GÉNÉRALE DES IMPÔTS
-                                                               العامة المديرية IMPOTE
-                                                                   DES
-                                                          للعالمي TION GENERALE
-                                                                                   couse | + CoX4 + [ @ 5 ] Français
-                                                                                    [ @ 6 ]
-                  [ @ 9 ] Nous connaître [ @ 10 ] Nous contacter [ @ 11 ] Vos suggestions | [ @ 13 ] Annuaire [ @ 12 ] Non à la corruption
-                                                                                          [ @ 14 ] Rendez - vous en ligne
-              [ 15 ] Vos démarches & impôts en [ 34 ] Notes circulaires
-             bref
-             [ 16 ] Législation & réglementation [ 35 ] Notes circulaires relatives aux dispositions fiscales des lois de finances
-             fiscales
-                                         [ 36 ] Note circulaire n ° 717 relative au Code Général des Impôts
-                [ @ 17 ] Conventions internationales
-               [ @ 18 ] Taux de change  [ 37 ] Autres notes circulaires
-               [ @ 19 ] Code général des impôts
-               [ @ 20 ] Taxes locales
-               [ @ 21 ] Taxe sur les contrats
-               d'assurances
-                [ @ 22 ] Décrets et arrêtés
-               [ @ 23 ] Notes circulaires
-               [ @ 24 ] Conventions et partenariats
-               [ @ 25 ] Questions de principe
-               [ @ 26 ] Charte des contribuables
-               [ @ 27 ] Accords Préalables en matière
-               des Prix de Transfert
-             [ @ 28 ] Rapport sur les dépenses fiscales
-              [ 29 ] Nous connaître
-                   [ @ 30 ] MÉDIATHÈQUO
-               [ @ 31 ] JE M'ABONNE
-              newsletter
-             [ @ 32 ] VOS ÉCHÉANCES
-                         fiscales
-               CENTRE [ @ 33 ]
-                               0537027
-               d'appel
-        [ 38 ]
-             [ 39 ] Copyright © 2016 [ 40 ] Direction Générale des Impôts                                             ••
-                                            [ @ 41 ] Appels d'offres [ @ 42 ] Conditions générales d'utilisation [ @ 43 ] Plan du site [ @ 44 ] Liens utiles
--------------------------------------------------------------------------------------------------------------------------
-Token count: 577
+-----------------------------------------------------------------------------------------------------------------------------------
+[ @ 2 ] Médiathèque [ @ 1 ] Presse [ @ 0 ] Recherche |
+                                                                                                         Royaume du Maroc
+                               [ 3 ] DIRECTION GÉNÉRALE DES IMPÔTS      المديرية
+                                                                للصراف العامة DES IMPOTS
+                                                                 TION GENERALE
+                                                                                               عربی | + 。Cox < 4+ | [ @ 5 ] Français
+                                                                                          [ @ 6 ] En FI @ 71'
+                [ @ 8! @ 9 ] Nous connaître | [ @ 10 ] Nous contacter | [ @ 11 ] Vos suggestions | [ @ 13 ] Annuaire [ @ 12 ] Non à la corruption
+                                                                                                  [ @ 14 ] Rendez - vous en ligne
+               [ 15 ] Vos démarches & impôts en [ 34 ] Notes circulaires
+              bref
+               [ 16 ] Législation & réglementation [ 35 ] Notes circulaires relatives aux dispositions fiscales des lois de finances
+              fiscales
+                                            [ 36 ] Note circulaire n ° 717 relative au Code Général des Impôts
+                 [ @ 17 ] Conventions internationales
+                 [ @ 18 ] Taux de change    [ 37 ] Autres notes circulaires
+                 [ @ 19 ] Code général des impôts
+                 [ @ 20 ] Taxes locales
+                 [ @ 21 ] Taxe sur les contrats
+                d'assurances
+                 [ @ 22 ] Décrets et arrêtés
+                 [ @ 23 ] Notes circulaires
+               ... [ @ 24 ] Conventions et partenariats
+               • [ @ 25 ] Questions de principe
+                 [ @ 26 ] Charte des contribuables
+                 [ @ 27 ] Accords Préalables en matière
+                des Prix de Transfert
+              [ @ 28 ] Rapport sur les dépenses fiscales
+               [ 29 ] Nous connaître
+                     [ @ 30 ] MÉDIATHÈQUEO
+                [ @ 31 ] JE M'ABONNE À
+                newsletter
+              [ 32 ] VOS ÉCHÉANCES
+                           fiscales
+                CENTRE @ 33 ]
+                                 0537027
+                d'appel
+                                 37 27
+         [ 38 ]                                                                                                                 8
+              [ 39 ] Copyright © 2016 [ 40 ] Direction Générale des Impôts
+                                                [ @ 41 ] Appels d'offres [ @ 42 ] Conditions générales d'utilisation [ @ 43 ] Plan du site [ @ 44 ] Liens utiles
+-----------------------------------------------------------------------------------------------------------------------------------
+Token count: 603

@@ -1,282 +1,321 @@
---------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 22 ]
-                                                                     Morgan Lewis 150                        [ @ 23 ] Choose Language
-                    [ @ 24 ] Home [ 25 ] [ 26 ] Our People
-                    **127 ) OUR PEOPLE**
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+☐
+                                                               [ @ 22 ]                                       [ @ 23 ] Choose
+                                                                      Morgan Lewis 150                                      Language ☐
+                    [ @ 24 ] Home [ 25 ] > [ 26 ] Our People
+                    **( 27 ) OUR PEOPLE**
+                                                                                    **INA**
                        [ 28 ] Browse our people alphabetically by last name:
-                       A B C D E F G H I J K L M N O P Q R S T U V W X Y [ @ 5
-                                                                                                                               Z
+                       [ @ 2 [ @ 3 [ @ 3 [ @ 3 [ @ 3 [ @ 3 [ @ 3 [ @ 3 [ @ 3 [ @ 3 [ @ 3 [ @ 4 [ @ 4 [ @ 4 [ @ 4 [ @ 4 [ @ 4 [ @ 4 [ @ 4 [ @ 4 [ @ 4 [ @ 5 [ @ 5 [ @ 5 [ @ 5 [ @ 5
+                       ABCDEFGHIJ K L M N O P Q R S T U V W X Y Z
                       [ # 55 ]
                               Search by name
-                      + [ 56 ] MORE SEARCH OPTIONS           [ 57 ] Reset Search                 [ $ 58 ] SEARCH
-                    Your search results ( 2051 )                                                     Sort by:
-                                                                                                       [ 372 ] Last Name
-                                   [ @ 60 ]
-                                   GRIFFIN J. ABBOTT                                                 [ 373 ] Results per page:
-                                   ASSOCIATE                              [ @ 64 ] Email
-                                    [ @ 62 ] New York [ 63 ] +1.212.309.6025 [ @ 65 ] Download         [ 374 ] 50
+                       + [ 56 ] MORE SEARCH OPTIONS          [ 57 ] Reset Search                  [ $ 58 ] SEARCH
+                    [ 59 ] Your search results ( 2051 )                                               [ 371 ] ] Sort by:
+                                                                                                        [ 372 ] Last Name
+                                    [ @ 60 ]
+                                    GRIFFIN J. ABBOTT                                                 [ 373 ] Results per page:
+                                                                           [ @ 64 ] Email
+                                    [ 61 ] ASSOCIATE
+                                    [ @ 62 ] New York [ 63 ] +1.212.309.6025 [ @ 65 ] Download          [ 374 ] ] 50
+                                                                           VCard
+                                                                                                      [ 375 ] Filter results by:
+                                    [ @ 66 ]
+                                    KATYA ABELSKY                                                     [ @ 376 ]  OFFICE
+                                                                            @ 70 ] Email
+                                    [ 67 ] ASSOCIATE
+                                     @ 68 ] San Francisco                  [ @ 71 ] Download          [ @ 377 ] + REGION
+                                    [
+                                    [ 69 ] +1.415.442.1286                 VCard
+                                                                                                      [ @ 378 ] + SECTOR
+                                    [ @ 72 ]                                                          [ @ 379 ] + SERVICE
+                                    MICHAEL J. ABERNATHY
+                                                                           [ @ 76 ] Email
+                                    [ 73 ] PARTNER
+                                    [ @ 74 ] Chicago [ 75 ] +1.312.324.1447 [ @ 77 ] Download
+                                                                           VCard
+                                    [ @ 78 ]
+                                    KAREN A. ABESAMIS
+                                    [ 79 ] PARTNER
+                                    [ @ 80 ] Silicon Valley                [ @ 84 ] Email
+                                    [ 81 ] +1.650.843.7277
+                                    [ @ 82 ] San Francisco                 [ @ 85 ] Download
+                                    [ 83 ] +1.415.442.1317                 VCard
+                                    [ @ 86 ]
+                                    MICHAEL JAMES ABLESON                   @ 90 ] Email
+                                                                           [
+                                    [ 87 ] ASSOCIATE
+                                    [ @ 88 ] New York [ 89 ] +1.212.309.6113 [ @ 91 ] Download
+                                                                           VCard
+                                    [ @ 92 ] ]
+                                    NABIL ABOU - CHARAF                         ] Email
+                                                                           [ @ 96
+                                    [ 93 ] ASSOCIATE
+                                    [ @ 94 ] Abu Dhabi [ 95 ] +971.2.697.8825 [ @ 97 ] Download
+                                                                           VCard
+                                    [ @ 98 ]
+                                    ADAM C. ABRAHMS                        @ 102 ] Email
+                                                                          [
+                                    [ 99 ] PARTNER
+                                    [ @ 100 ] Century City                [ @ 103 ] Download
+                                    [ 101 ] +1.310.907.1066               VCard
+                                    [ @ 104 ]
+                                    CAROLYN J.D. ABRAM
+                                                                          [ @ 108 ] Email
+                                    [ 105 ] PARTNER
+                                    [ @ 106 ] Dubai [ 107 ] +971.4.312.1970 [ @ 109 ] Download
                                                                           VCard
-                                                                                                     [ 375 ] Filter results by:
-                                   [ @ 66 ]
-                                   KATYA ABELSKY                                                     [ @ 376 ] + OFFICE
-                                   ASSOCIATE                              [ @ 70 ] Email
-                                   San Francisco [ 69 ] +1.415.442.1286   [ @ 71 ] Download          [ @ 377 ] + REGION
-                                                                          VCard
-                                                                                                     [ @ 378 ] + SECTOR
-                                   [ @ 72 ]                                                          [ @ 379 ] + SERVICE
-                                   MICHAEL J. ABERNATHY                   [ @ 76 ] Email
-                                   PARTNER                            ^
-                                   [ @ 74 ] Chicago [ [ 75 ] +1.312.324.1447 [ @ 77 ] Download
-                                                                          VCard
-                                   [ @ 78 ]
-                                   KAREN A. ABESAMIS                           ] Email
-                                   PARTNER                                [ @ 84
-                                   Silicon Valley +1.650.843.7277         [ @ 85 ] Download
-                                   San Francisco [ 83 ] +1.415.442.1317   VCard
-                                   [ @ 86 ]
-                                   MICHAEL JAMES ABLESON
-                                   ASSOCIATE                              [ @ 90 ] Email
-                                   [ @ 88 ] New York [ 89 ] +1.212.309.6113 [ @ 91 ] Download
-                                                                          VCard
-                                   [ @ 92 ]
-                                   NABIL ABOU - CHARAF                     @ 96 ] Email
-                                   ASSOCIATE                              [
-                                   [ @ 94 ] Abu Dhabi [ 95 ] +971.2.697.8825 K [ @ 97 ] Download
-                                                                          VCard
-                                   [ @ 98 ]
-                                   ADAM C. ABRAHMS                        @ 102 ] Email
-                                                                         [
-                                   PARTNER
-                                   Century City [ 101 ] +1.310.907.1066  [ @ 103 ] Download
-                                                                         VCard
-                                   [ @ 104 ]
-                                   CAROLYN J.D. ABRAM                           ] Email
-                                   PARTNER                               [ @ 108
-                                   [ @ 106 ] Dubai [ 107 ] +971.4.312.1970 [ @ 109 ] Download
-                                                                         VCard
-                                   [ @ 110 ]
-                                   ROBERT L. ABRAMOWITZ                         ] Email
-                                   PARTNER                               [ @ 114
-                                   Philadelphia [ 113 ] +1.215.963.4811  [ @ 115 ] Download
-                                                                         VCard
+                                    [ @ 110 ] ]
+                                    ROBERT L. ABRAMOWITZ
+                                                                          [ @ 114 ] Email
+                                    [ 111 ] PARTNER
+                                    [ @ 112 ] Philadelphia                [ @ 115 ] Download
+                                    [ 113 ] +1.215.963.4811               VCard
                                     [ @ 116 ]
-                                   JANE ACCOMANDO
-                                   PARTNER                               [ @ 120 ] Email
-                                   Washington, DC [ 119 ] +1.202.739.5815 [ @ 121 ] Download
-                                                                         VCard
-                                   [ @ 122 ]
-                                   JESSICA L. ACCURSO                x    @ 126 ] Email
-                                   ASSOCIATE                             [
-                                   Philadelphia [ 125 ] +1.215.963.5266  [ @ 127 ] Download
-                                                                         VCard
-                                   [ @ 128 ]
-                                   ETHAN K. ACKERMAN                 x    @ 132 ] Email
-                                   OF COUNSEL                            [
-                                   Washington, DC [ 131 ] +1.202.739.5616 [ @ 133 ] Download
-                                                                         VCard
-                                   [ @ 134 ]
-                                   SYDNEY N. ACQUAYE                 x          ] Email
-                                   ASSOCIATE                             [ @ 138
-                                   Philadelphia [ 137 ] +1.215.963.4979 V [ @ 139 ] Download
-                                                                         VCard
-                                   [ @ 140 ]
-                                   TERRESA ADAMS                          @ 144 ] Email
-                                   ASSOCIATE                             [
-                                   Washington, DC [ 143 ] +1.202.739.5844 K [ @ 145 ] Download
-                                                                         VCard
-                                   [ @ 146 ]
-                                   OYINADE ADEBAYO                        @ 150 ] Email
-                                                                         [
-                                   ASSOCIATE
-                                   Washington, DC [ 149 ] +1.202.739.5845 [ @ 151 ] Download
-                                                                         VCard
+                                    JANE ACCOMANDO
+                                                                          [ @ 120 ] Email
+                                    [ 117 ] PARTNER
+                                    [ @ 118 ] Washington, DC            K [ @ 121 ] Download
+                                    [ 119 ] +1.202.739.5815               VCard
+                                    [ @ 122 ]
+                                    JESSICA L. ACCURSO                           ] Email
+                                                                          [ @ 126
+                                    [ 123 ] ASSOCIATE
+                                    [ @ 124 ] Philadelphia                [ @ 127 ] Download
+                                    [ 125 ] +1.215.963.5266               VCard
+                                    [ @ 128 ]
+                                    ETHAN K. ACKERMAN                      @ 132 ] Email
+                                                                          [
+                                    [ 129 ] OF COUNSEL
+                                    [ @ 130 ] Washington, DC              [ @ 133 ] Download
+                                    [ 131 ] +1.202.739.5616               VCard
+                                    [ @ 134 ]
+                                    SYDNEY N. ACQUAYE                      @ 138 ] Email
+                                                                          [
+                                    [ 135 ] ASSOCIATE
+                                    [ @ 136 ] Philadelphia                [ @ 139 ] ] Download
+                                    [ 137 ] +1.215.963.4979               VCard
+                                    [ @ 140 ] ]
+                                    TERRESA ADAMS                          @ 144 ] Email
+                                                                          [
+                                    [ 141 ] ASSOCIATE
+                                    [ @ 142 ] Washington, DC              [ @ 145 ] Download
+                                    [ 143 ] +1.202.739.5844               VCard
+                                    [ @ 146 ]
+                                    OYINADE ADEBAYO
+                                                                          [ @ 150 ] Email
+                                    [ 147 ] ASSOCIATE
+                                    [ @ 148 ] Washington, DC              [ @ 151 ] Download
+                                    [ 149 ] +1.202.739.5845               VCard
                                     [ @ 152 ]
-                                   JOSHUA M. ADLER                        @ 156 ] Email
-                                   ASSOCIATE                             [
-                                   [ @ 154 ] Boston [ 155 ] +1.617.341.7567 [ @ 157 ] Download
-                                                                         VCard
+                                    JOSHUA M. ADLER
+                                                                          [ @ 156 ] Email
+                                    [ 153 ] ASSOCIATE
+                                    [ @ 154 ] Boston [ 155 ] ] +1.617.341.7567 [ @ 157 ] Download
+                                                                          VCard
                                     [ @ 158 ]
-                                   C. CRÉSENCE AGBATTOU                         ] Email
-                                   ASSOCIATE                             [ @ 162
-                                   [ @ 160 ] Paris [ 161 ] +33.1.53.30.43.65 [ @ 163 ] Download
-                                                                         VCard
-                                   [ @ 164 ]
-                                   REGINA AGOPIAN                         @ 168 ] Email
-                                   ASSOCIATE                             [
-                                   Silicon Valley [ 167 ] +1.650.843.7234 [ @ 169 ] Download
-                                                                         VCard
-                                   [ @ 170 ]
-                                   JACQUELINE C. AGUILERA                 @ 174 ] Email
-                                   PARTNER                               [
-                                   Los Angeles [ 173 ] +1.213.229.8439   [ @ 175 ] Download
-                                                                         VCard
+                                    C. CRÉSENCE AGBATTOU                         ]
+                                                                          [ @ 162 Email
+                                    [ 159 ] ASSOCIATE
+                                    [ @ 160 ] Paris [ 161 ] +33.1.53.30.43.65 [ @ 163 ] Download
+                                                                          VCard
+                                    [ @ 164 ]
+                                    REGINA AGOPIAN                               ] Email
+                                                                          [ @ 168
+                                    [ 165 ] ASSOCIATE
+                                    [ @ 166 ] Silicon Valley              [ @ 169 ] Download
+                                    [ 167 ] +1.650.843.7234               VCard
+                                    [ @ 170 ]
+                                    JACQUELINE C. AGUILERA                 @ 174 ] Email
+                                                                          [
+                                    [ 171 ] PARTNER
+                                    [ @ 172 ] Los Angeles                 [ @ 175 ] Download
+                                    [ 173 ] +1.213.229.8439               VCard
                                     [ @ 176 ]
-                                   EMILY AHDIEH                      x          ]
-                                                                         [ @ 180 Email
-                                   ASSOCIATE
-                                   Washington, DC [ 179 ] +1.202.739.5401 [ @ 181 ] Download
-                                                                         VCard
-                                   [ @ 182 ]
-                                   ANDREW J. AHN                                ] Email
-                                   ASSOCIATE                             [ @ 186
-                                   Century City [ 185 ] +1.310.907.1061 Ⓒ [ @ 187 ] Download
-                                                                         VCard
-                                   [ @ 188 ]
-                                   DR. WALTER AHRENS
-                                                                         [ @ 192 ] Email
-                                   PARTNER
-                                   Frankfurt [ 191 ] +49.69.714.00.766 K [ @ 193 ] Download
-                                                                         VCard
-                                   [ @ 194 ]
-                                   AIDA AKHMETOVA
-                                                                         [ @ 198 ] Email
-                                   ASSOCIATE
-                                   [ @ 196 ] Almaty [ 197 ] +7.727.250.7575 [ @ 199 ] Download
-                                                                         VCard
-                                   [ @ 200 ]
-                                   SARI M. ALAMUDDIN
-                                   PARTNER                               [ @ 204 ] Email
-                                   Chicago [ 203 ] +1.312.324.1158       [ @ 205 ] Download
-                                                                         VCard
-                                   [ @ 206 ]
-                                   JONATHAN M. ALBANO                     @ 2101 Email
-                                   PARTNER                               [
-                                   [ @ 208 ] Boston [ 209 ] +1.617.951.8360 [ @ 211 ] Download
-                                                                         VCard
-                                   [ @ 212 ]
-                                   ERIC ALBERS - FIEDLER                        ] Email
-                                   ASSOCIATE                             [ @ 216
-                                   Washington, DC [ 215 ] +1.202.739.5169 [ @ 217 ] Download
-                                                                         VCard
-                                   [ @ 218 ]
-                                   GRACE ALBURGER
-                                   ASSOCIATE                             [ @ 222 ] Email
-                                   Philadelphia [ 221 ] +1.215.963.4951  [ @ 223 ] Download
-                                                                         VCard
-                                    [ @ 224 ]
-                                   JASON R. ALDERSON                 x   [ @ 2281 Email
-                                   OF COUNSEL
-                                   New York [ 227 ] +1.212.309.6758      [ @ 229 ] Download
-                                                                         VCard
-                                   [ @ 230 ]
-                                   RICHARD B. ALDRIDGE
-                                   PARTNER                           ➤ [ @ 234 ] Email
-                                   Philadelphia [ 233 ] +1.215.963.4829  [ @ 235 ] Download
-                                                                         VCard
-                                   [ @ 236 ]
-                                   FELICIA M. ALEXANDER                         ] Email
-                                   ASSOCIATE                             [ @ 240
-                                   Houston [ 239 ] +1.713.890.5431    ✓  [ @ 241 ] Download
-                                                                         VCard
-                                   [ @ 242 ]
-                                   ELIZABETH KHOURY ALI                         ] Email
-                                                                         [ @ 248
-                                   PARTNER
-                                   Houston +1.713.890.5402               [ @ 249 ] Download
-                                   New York [ 247 ] +1.212.309.6926      VCard
-                                   [ @ 250 ]
-                                   FELIPE ALICE                           @ 254 ] Email
-                                   PARTNER                               [
-                                   Houston [ 253 ] +1.713.890.5763   ✓ [ @ 255 ] Download
-                                                                         VCard
-                                   [ @ 256 ]
-                                   NICOLE M. ALKIRE
-                                   ASSOCIATE                             [ @ 260 ] Email
-                                   Washington, DC [ 259 ] +1.202.739.5765 [ @ 261 ] Download
-                                                                         VCard
-                                   [ @ 262 ]
-                                   MARK W. ALLEN                          @ 266 ] Email
-                                   ASSOCIATE                             [
-                                   San Francisco [ 265 ] +1.415.442.1278 K [ @ 267 ] Download
-                                                                         VCard
-                                   [ @ 268 ]
-                                   TYLER F. ALLEN                               ]
-                                                                         [ @ 272 Email
-                                   ASSOCIATE
-                                   Houston [ 271 ] +1.713.890.5448       [ @ 273 ] Download
-                                                                         VCard
-                                   [ @ 274 ]
-                                   YVETTE ALLEN                           @ 278 ] Email
-                                   ASSOCIATE                             [
-                                   London [ 277 ] +44.20.3201.5595     K [ @ 279 ] Download
-                                                                         VCard
+                                    EMILY AHDIEH
+                                                                          [ @ 180 ] Email
+                                    [ 177 ] ASSOCIATE
+                                    [ @ 178 ] Washington, DC              [ @ 181 ] Download
+                                    [ 179 ] +1.202.739.5401               VCard
+                                    [ @ 182 ]
+                                    ANDREW J. AHN
+                                                                          [ @ 186 ] Email
+                                    [ 183 ] ASSOCIATE
+                                    [ @ 184 ] Century City                [ @ 187 ] Download
+                                    [ 185 ] +1.310.907.1061               VCard
+                                    [ @ 188 ]
+                                    DR. WALTER AHRENS
+                                                                          [ @ 192 ] Email
+                                    [ 189 ] PARTNER
+                                    [ @ 190 ] Frankfurt                   [ @ 193 ] Download
+                                    [ 191 ] +49.69.714.00.766             VCard
+                                    [ @ 194 ]
+                                    AIDA AKHMETOVA                               ] Email
+                                                                          [ @ 198
+                                    [ 195 ] ASSOCIATE
+                                    [ @ 196 ] Almaty [ 197 ] +7.727.250.7575 [ @ 199 ] Download
+                                                                          VCard
+                                    [ @ 200 ]
+                                    SARI M. ALAMUDDIN
+                                                                          [ @ 204 ] Email
+                                    [ 201 ] PARTNER
+                                    [ @ 202 ] Chicago                     [ @ 205 ] Download
+                                    [ 203 ] +1.312.324.1158               VCard
+                                    [ @ 206 ]
+                                    JONATHAN M. ALBANO
+                                                                           [ @ 210 ] Email
+                                    [ 207 ] PARTNER
+                                    [ @ 208 ] Boston [ 209 ] +1.617.951.8360 [ @ 211 ] Download
+                                                                          VCard
+                                    [ @ 212 ]
+                                    ERIC ALBERS - FIEDLER                  @ 216 ] Email
+                                                                          [
+                                    [ 213 ] ASSOCIATE
+                                    [ @ 214 ] Washington, DC              [ @ 217 ] Download
+                                    [ 215 ] +1.202.739.5169               VCard
+                                    [ @ 218 ]
+                                    GRACE ALBURGER
+                                                                          [ @ 222 ] Email
+                                    [ 219 ] ASSOCIATE
+                                    [ @ 220 ] Philadelphia                [ @ 223 ] Download
+                                    [ 221 ] +1.215.963.4951               VCard
+                                    [ @ 224 ] ]
+                                    JASON R. ALDERSON                            ] Email
+                                                                          [ @ 228
+                                    [ 225 ] OF COUNSEL
+                                    [ @ 226 ] New York                    [ @ 229 ] Download
+                                    [ 227 ] +1.212.309.6758               VCard
+                                    [ @ 230 ]
+                                    RICHARD B. ALDRIDGE
+                                                                          [ @ 234 ] Email
+                                    [ 231 ] PARTNER
+                                    [ @ 232 ] Philadelphia                [ @ 235 ] Download
+                                    [ 233 ] +1.215.963.4829               VCard
+                                    [ @ 236 ]
+                                    FELICIA M. ALEXANDER                         ]
+                                                                          [ @ 240 Email
+                                    [ 237 ] ASSOCIATE
+                                    [ @ 238 ] Houston                     [ @ 241 ] ] Download
+                                    [ 239 ] +1.713.890.5431               VCard
+                                    [ @ 242 ] ]
+                                    ELIZABETH KHOURY ALI
+                                    [ 243 ] PARTNER
+                                    [ @ 244 ] Houston                     [ @ 248 ] Email
+                                    [ 245 ] +1.713.890.5402
+                                    [ @ 246 ] New York                    [ @ 249 ] ] Download
+                                    [ 247 ] +1.212.309.6926               VCard
+                                    [ @ 250 ]
+                                    FELIPE ALICE
+                                                                          [ @ 254 ] Email
+                                    [ 251 ] PARTNER
+                                    [ @ 252 ] Houston                    K [ @ 255 ] Download
+                                    [ 253 ] +1.713.890.5763               VCard
+                                    [ @ 256 ]
+                                    NICOLE M. ALKIRE                      [ @ 260 ] Email
+                                    [ 257 ] ASSOCIATE
+                                    [ @ 258 ] Washington, DC              [ @ 261 ] ] Download
+                                    [ 259 ] +1.202.739.5765               VCard
+                                    [ @ 262 ]
+                                    MARK W. ALLEN                          @ 266 ] Email
+                                                                          [
+                                    [ 263 ] ASSOCIATE
+                                    [ @ 264 ] San Francisco               [ @ 267 ] Download
+                                    [ 265 ] +1.415.442.1278               VCard
+                                    [ @ 268 ]
+                                    TYLER F. ALLEN                         @ 272 ] Email
+                                                                          [
+                                    [ 269 ] ASSOCIATE
+                                    [ @ 270 ] Houston                     [ @ 273 ] Download
+                                    [ 271 ] +1.713.890.5448               VCard
+                                    [ @ 274 ]
+                                    YVETTE ALLEN                          [ @ 278 ] Email
+                                    [ 275 ] ASSOCIATE
+                                    [ @ 276 ] London                      [ @ 279 ] Download
+                                    [ 277 ] +44.20.3201.5595              VCard
                                     [ @ 280 ]
-                                   STEPHEN L. ALTIERI, PH.D.
-                                   PARTNER                               [ @ 284 ] Email
-                                   [ @ 282 ] Boston [ 283 ] +1.617.951.8525 [ @ 285 ] Download
-                                                                         VCard
-                                   [ @ 286 ]
-                                   KRISTIN H. ALTOFF                            ] Email
-                                   PARTNER                               [ @ 290
-                                   Washington, DC [ 289 ] +1.202.739.5093 ( ✓ ) [ @ 291 ] Download
-                                                                         VCard
+                                    STEPHEN L. ALTIERI, PH.D.             [ @ 284 ] Email
+                                    [ 281 ] PARTNER
+                                    [ @ 282 ] Boston [ 283 ] +1.617.951.8525 [ @ 285 ] Download
+                                                                          VCard
+                                    [ @ 286 ] ]
+                                    KRISTIN H. ALTOFF                     [ @ 290 ] Email
+                                    [ 287 ] PARTNER
+                                    [ @ 288 ] Washington, DC              [ @ 291 ] Download
+                                    [ 289 ] +1.202.739.5093               VCard
                                     [ @ 292 ]
-                                   DAVID AMBLER                      X          ] Email
-                                   ASSOCIATE                             [ @ 296
-                                   London [ 295 ] +44.20.3201.5421       [ @ 297 ] Download
-                                                                         VCard
-                                   [ @ 298 ]
-                                   YASMIN AMINA ABDISETTAR                      ]
-                                   ASSOCIATE                             [ @ 302 Email
-                                   Munich [ 301 ] +49.89.189.51.6042 ✓ [ @ 303 ] Download
-                                                                         VCard
+                                    DAVID AMBLER                          [ @ 296 ] Email
+                                    [ 293 ] ASSOCIATE
+                                    [ @ 294 ] London                      [ @ 297 ] Download
+                                    [ 295 ] +44.20.3201.5421              VCard
+                                    [ @ 298 ]
+                                    YASMIN AMINA ABDISETTAR                @ 302 ] Email
+                                                                          [
+                                    [ 299 ] ASSOCIATE
+                                    [ @ 300 ] Munich                     K [ @ 303 ] Download
+                                    [ 301 ] +49.89.189.51.6042            VCard
                                     [ @ 304 ]
-                                   CELINE AMINI
-                                   ASSOCIATE                             [ @ 308 ] Email
-                                   Washington, DC [ [ 307 ] +1.202.739.5668 [ @ 309 ] Download
-                                                                         VCard
-                                   [ @ 310 ]
-                                   SHANNON L.C. AMMON                           ] Email
-                                   ASSOCIATE                             [ @ 314
-                                   Philadelphia [ 313 ] +1.215.963.4690  [ @ 315 ] Download
-                                                                         VCard
-                                   [ @ 3161
-                                   BRENDAN J. ANDERSON                          ] Email
-                                   ASSOCIATE                             [ @ 320
-                                   Washington, DC [ 319 ] +1.202.739.5669 [ @ 321 ] Download
-                                                                         VCard
-                                   [ @ 322 ]
-                                   DAMOS ANDERSON
-                                                                         [ @ 326 ] Email
-                                   ASSOCIATE
-                                   Washington, DC [ [ 325 ] +1.202.739.5058 [ @ 327 ] Download
-                                                                         VCard
-                                    [ @ 328 ]
-                                   SPENCER A. ANDERSON                    @ 332 ] Email
-                                   ASSOCIATE                             [
-                                   Washington, DC [ 331 ] +1.202.739.5716 [ @ 333 ] Download
-                                                                         VCard
-                                   [ @ 334 ]
-                                   KSENIA ANDREEVA
-                                   PARTNER                               [ @ 338 ] Email
+                                    CELINE AMINI
+                                                                          [ @ 308 ] Email
+                                    [ 305 ] ASSOCIATE
+                                    [ @ 306 ] Washington, DC          ✓ [ @ 309 ] Download
+                                    [ 307 ] +1.202.739.5668               VCard
+                                    [ @ 310 ]
+                                    SHANNON L.C. AMMON                    [ @ 314 ] Email
+                                    [ 311 ] ASSOCIATE
+                                    [ @ 312 ] Philadelphia                [ @ 315 ] Download
+                                    [ 313 ] +1.215.963.4690               VCard
+                                    [ @ 316 ]
+                                    BRENDAN J. ANDERSON                    @ 320 ] Email
+                                                                          [
+                                    [ 317 ] ASSOCIATE
+                                    [ @ 318 ] Washington, DC              [ @ 321 ] Download
+                                    [ 319 ] +1.202.739.5669               VCard
+                                    [ @ 322 ]
+                                    DAMOS ANDERSON                         @ 326 ] Email
+                                                                          [
+                                    [ 323 ] ASSOCIATE
+                                    [ @ 324 ] Washington, DC              [ @ 327 ] Download
+                                    [ 325 ] +1.202.739.5058               VCard
+                                    [ @ 328 ] ]
+                                    SPENCER A. ANDERSON                    @ 332 ] Email
+                                                                          [
+                                    [ 329 ] ASSOCIATE
+                                    [ @ 330 ] Washington, DC              [ @ 333 ] Download
+                                    [ 331 ] +1.202.739.5716               VCard
+                                    [ @ 334 ]
+                                    KSENIA ANDREEVA                        @ 338 ] Email
+                                                                          [
+                                    [ 335 ] PARTNER
                                     [ @ 336 ] Dubai [ 337 ] +971.4.312.1865 [ @ 339 ] Download
-                                                                         VCard
-                                   [ @ 340 ]
-                                   ANDREAS N. ANDREWS                X           Email
-                                   ASSOCIATE                             [ @ 344 ]
-                                   Philadelphia [ 343 ] +1.215.963.5570  [ @ 345 ] Download
-                                                                         VCard
+                                                                          VCard
+                                    [ @ 340 ] ]
+                                    ANDREAS N. ANDREWS                     @ 344 ] Email
+                                                                          [
+                                    [ 341 ] ASSOCIATE
+                                    [ @ 342 ] Philadelphia                [ @ 345 ] Download
+                                    [ 343 ] +1.215.963.5570               VCard
                                     [ @ 346 ]
-                                   BRYANT A. ANDREWS                            ] Email
-                                                                         [ @ 350
-                                   ASSOCIATE
-                                   Pittsburgh [ 349 ] +1.412.560.7477    [ @ 351 ] Download
-                                                                         VCard
-                                   [ @ 352 ]
-                                   MICHELLE L. ANDRIGHETTO
-                                   OF COUNSEL                            [ @ 356 ] Email
+                                    BRYANT A. ANDREWS                      @ 350 ] Email
+                                                                          [
+                                    [ 347 ] ASSOCIATE
+                                    [ @ 348 ] Pittsburgh                  [ @ 351 ] Download
+                                    [ 349 ] +1.412.560.7477               VCard
+                                    [ @ 352 ]
+                                    MICHELLE L. ANDRIGHETTO                @ 356 ] Email
+                                                                          [
+                                    [ 353 ] OF COUNSEL
                                     [ @ 354 ] Boston [ 355 ] +1.617.341.7712 [ @ 357 ] Download
-                                                                         VCard
-                                   [ @ 358 ]
-                                   NATHAN J. ANDRISANI                          ] Email
-                                   PARTNER                               [ @ 362
-                                   Philadelphia [ 361 ] +1.215.963.5362 V [ @ 363 ] Download
-                                                                         VCard
-                    ( 1 2 3 4 5 > [ @ 370 ]
-                    [ @ 380 ] CONTACT US  [ @ 381 ] TERMS OF USE [ @ 382 ] PRIVACY POLICY
+                                                                          VCard
+                                    [ @ 358 ]
+                                    NATHAN J. ANDRISANI                   [ @ 362 ] Email
+                                    [ 359 ] PARTNER
+                                    [ @ 360 ] Philadelphia                [ @ 363 ] Download
+                                    [ 361 ] +1.215.963.5362               VCard
+                    [ @@@@@@ [ @ 370 ]
+                    [ @ 380 ] CONTACT US  [ @ 381 ] TERMS OF USE  [ @ 382 ] PRIVACY POLICY        [ @ 38 [ @ 38 [ @ 38 [ @ 38 [ @ 38 [ @ 390 ]
    [ 393 ] We use cookies to improve the functionality and performance of this site in
-   accordance with our [ @ 396 ] Cookie Policy [ 394 ] and [ @ 397 ] Privacy Policy. [ 395 ] You [ $ 398 ] Customize Cookies  [ $ 399 ] ACCEPT
-   may review and / or modify your cookie selection by clicking" Customize Cookies.
-                    [ @ 391 ] Sitemap                                               [ 392 ] Copyright © 2023 Morgan, Lewis & Bockius LLP. All rights reserved.
---------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 3254
+   accordance with our [ @ 396 ] Cookie Policy [ 394 ] and [ @ 397 ] Privacy Policy. [ 395 ] You  [ $ 398 ] Customize Cookies  [ $ 399 ] ACCEPT
+   may review and / or modify your cookie selection by clicking" Customize Cookies."
+                     [ @ 391 ] Sitemap                                               [ 392 ] Copyright © 2023 Morgan, Lewis & Bockius LLP. All rights reserved.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 3867
