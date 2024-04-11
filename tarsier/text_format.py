@@ -91,8 +91,13 @@ def format_text(ocr_text: ImageAnnotatorResponse) -> str:
         grouped_line_annotations = group_words_in_sentence(line_annotations)
 
         # Use the TOP height of the letter
-        max_line_height = max(annotation["midpoint"][1] - annotation["height"] for annotation in grouped_line_annotations)
-        height_to_add = math.floor((max_line_height - max_previous_line_height) // empty_space_height)
+        max_line_height = max(
+            annotation["midpoint"][1] - annotation["height"]
+            for annotation in grouped_line_annotations
+        )
+        height_to_add = math.floor(
+            (max_line_height - max_previous_line_height) // empty_space_height
+        )
         if height_to_add > 0:
             for _ in range(height_to_add):
                 canvas.append([" " for _ in range(canvas_width)])
@@ -100,7 +105,9 @@ def format_text(ocr_text: ImageAnnotatorResponse) -> str:
 
         # Store the BOTTOM height of the letter. In doing this, we can compare the bottom of the previous line
         # with the top of the current line. This is to avoid issues with larger font
-        max_previous_line_height = max(annotation["midpoint"][1] for annotation in grouped_line_annotations)
+        max_previous_line_height = int(
+            max(annotation["midpoint"][1] for annotation in grouped_line_annotations)
+        )
 
         last_x = 0
         for annotation in grouped_line_annotations:
