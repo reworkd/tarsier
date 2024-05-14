@@ -20,27 +20,31 @@
 
 # Tarsier
 
-If you've tried using GPT-4(V) to automate web interactions, you've probably run into questions like:
+If you've tried using an LLM to automate web interactions, you've probably run into questions like:
 
-- How do you map LLM responses back into web elements?
-- How can you mark up a page for an LLM better understand its action space?
-- How do you feed a "screenshot" to a text-only LLM?
+- How should you feed the webpage to an LLM? (e.g. HTML, Accessibility Tree, Screenshot)
+- How do you map LLM responses back to web elements?
+- How can you inform a text-only LLM about the page's visual structure?
 
-At Reworkd, we found ourselves reusing the same utility libraries to solve these problems across multiple projects.
-Because of this we're now open-sourcing this simple utility library for multimodal web agents... Tarsier!
-The video below demonstrates Tarsier usage by feeding a page snapshot into a langchain agent and letting it take actions.
+At Reworkd, we iterated on all these problems across tens of thousands of real web tasks to build a powerful perception system for web agents... Tarsier!
+In the video below, we use Tarsier to provide webpage perception for a minimalistic GPT-4 LangChain web agent.
 
 https://github.com/reworkd/tarsier/assets/50181239/af12beda-89b5-4add-b888-d780b353304b
 
 ## How does it work?
 
-Tarsier works by visually "tagging" interactable elements on a page via brackets + an id such as `[1]`.
-In doing this, we provide a mapping between elements and ids for GPT-4(V) to take actions upon.
-We define interactable elements as buttons, links, or input fields that are visible on the page.
+Tarsier visually tags interactable elements on a page via brackets + an ID e.g. `[23]`.
+In doing this, we provide a mapping between elements and IDs for an LLM to take actions upon (e.g. `CLICK [23]`).
+We define interactable elements as buttons, links, or input fields that are visible on the page; Tarsier can also tag all textual elements if you pass `tag_text_elements=True`.
 
-Can provide a textual representation of the page. This means that Tarsier enables deeper interaction for even non multi-modal LLMs.
-This is important to note given performance issues with existing vision language models.
-Tarsier also provides OCR utils to convert a page screenshot into a whitespace-structured string that an LLM without vision can understand.
+Furthermore, we've developed an OCR algorithm to convert a page screenshot into a whitespace-structured string (almost like ASCII art) that an LLM *even without vision* can understand.
+Since current vision-language models still lack fine-grained representations needed for web interaction tasks, this is critical.
+On our internal benchmarks, unimodal GPT-4 + Tarsier-Text beats GPT-4V + Tarsier-Screenshot by 10-20%!
+
+Tagged Screenshot             |  Tagged Text Representation
+:-------------------------:|:-------------------------:
+![tagged](https://github.com/reworkd/tarsier/blob/main/.github/assets/tagged.png)  |  ![tagged](https://github.com/reworkd/tarsier/blob/main/.github/assets/tagged_text.png)
+
 
 ## Installation
 
@@ -141,10 +145,9 @@ Prior to submitting a potential PR, please run the following to format your code
 - [x] Add documentation and examples
 - [x] Clean up interfaces and add unit tests
 - [x] Launch
-- [ ] Improve OCR text performance
+- [x] Improve OCR text performance
 - [ ] Add options to customize tagging styling
 - [ ] Add support for other browsers drivers as necessary
-- [ ] Add support for other OCR services as necessary
 
 ## Citations
 
