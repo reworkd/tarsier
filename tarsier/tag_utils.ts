@@ -143,7 +143,7 @@ function create_tagged_span(idNum: number, el: HTMLElement) {
   idSpan.style.padding = "1.5px";
   idSpan.style.borderRadius = "3px";
   idSpan.style.fontWeight = "bold";
-  idSpan.style.fontSize = "15px";
+  // idSpan.style.fontSize = "15px"; // Removing because OCR won't see text among large font
   idSpan.style.fontFamily = "Arial";
   idSpan.style.margin = "1px";
   idSpan.style.lineHeight = "1.25";
