@@ -1,4 +1,4 @@
-from .ocr_service import GoogleVisionOCRService, OCRService
+from .ocr_service import GoogleVisionOCRService, MicrosoftAzureOCRService, OCRService
 from .types import ImageAnnotatorResponse
 
-__all__ = ["OCRService", "GoogleVisionOCRService", "ImageAnnotatorResponse"]
+__all__ = ["OCRService", "GoogleVisionOCRService", "MicrosoftAzureOCRService", "ImageAnnotatorResponse"]
