@@ -14,11 +14,12 @@ async def main(credentials_path: str, ocr_service: str, url: str, verbose: bool)
     with open(credentials_path, "r") as f:
         credentials = json.load(f)
 
-    if ocr_service == "google":
-        ocr_service = GoogleVisionOCRService(credentials)
+    match ocr_service:
+        case "google":
+            ocr_service = GoogleVisionOCRService(credentials)
     
-    elif ocr_service == "microsoft":
-        ocr_service = MicrosoftAzureOCRService(credentials)
+        case "microsoft":
+            ocr_service = MicrosoftAzureOCRService(credentials)
 
     tarsier = Tarsier(ocr_service)
 
