@@ -6,14 +6,20 @@ from pprint import pprint
 from playwright.async_api import async_playwright
 
 from tarsier.core import Tarsier
-from tarsier.ocr import GoogleVisionOCRService
+from tarsier.ocr import GoogleVisionOCRService, MicrosoftAzureOCRService
 
 
-async def main(credentials_path: str, url: str, verbose: bool) -> None:
+
+async def main(credentials_path: str, ocr_service: str, url: str, verbose: bool) -> None:
     with open(credentials_path, "r") as f:
         credentials = json.load(f)
 
-    ocr_service = GoogleVisionOCRService(credentials)
+    if ocr_service == "google":
+        ocr_service = GoogleVisionOCRService(credentials)
+    
+    elif ocr_service == "microsoft":
+        ocr_service = MicrosoftAzureOCRService(credentials)
+
     tarsier = Tarsier(ocr_service)
 
     async with async_playwright() as p:
@@ -38,7 +44,10 @@ async def main(credentials_path: str, url: str, verbose: bool) -> None:
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Tarsier OCR command line interface.")
     parser.add_argument(
-        "credentials_path", help="Path to the Google credentials JSON file", type=str
+        "credentials_path", help="Path to the OCR credentials JSON file", type=str
+    )
+    parser.add_argument(
+        "ocr_service", help="Which OCR service to use [google, microsoft]", type=str
     )
     parser.add_argument("url", help="URL to navigate to", type=str)
     parser.add_argument(
@@ -52,4 +61,4 @@ def parse_args() -> argparse.Namespace:
 
 if __name__ == "__main__":
     args = parse_args()
-    asyncio.run(main(args.credentials_path, args.url, args.verbose))
+    asyncio.run(main(args.credentials_path, args.ocr_service, args.url, args.verbose))
