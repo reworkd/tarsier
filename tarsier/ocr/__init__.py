@@ -1,5 +1,16 @@
-from .ocr_service import GoogleVisionOCRService, MicrosoftAzureOCRService, OCRService
+from .ocr_service import (
+    GoogleVisionOCRService,
+    MicrosoftAzureOCRService,
+    OCRService,
+    OCRProvider,
+)
 from .types import ImageAnnotatorResponse
-from .ocr_type import OCRType
 
-__all__ = ["OCRService", "OCRType", "GoogleVisionOCRService", "MicrosoftAzureOCRService", "ImageAnnotatorResponse"]
+
+__all__ = [
+    "OCRService",
+    "OCRProvider",
+    "GoogleVisionOCRService",
+    "MicrosoftAzureOCRService",
+    "ImageAnnotatorResponse",
+]

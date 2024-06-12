@@ -7,23 +7,27 @@ from playwright.async_api import async_playwright
 
 from tarsier.core import Tarsier
 from tarsier.ocr import GoogleVisionOCRService, MicrosoftAzureOCRService
-from tarsier.ocr.ocr_type import OCRType
+from tarsier.ocr.ocr_service import OCRProvider, OCRService
 
 
-
-async def main(credentials_path: str, url: str, verbose: bool, ocr_service: OCRType = "google") -> None:
+async def main(
+    credentials_path: str, url: str, verbose: bool, ocr_provider: OCRProvider = "google"
+) -> None:
     with open(credentials_path, "r") as f:
         credentials = json.load(f)
 
-    match ocr_service:
+    ocr_service: OCRService
+    match ocr_provider:
         case "google":
             ocr_service = GoogleVisionOCRService(credentials)
-    
+
         case "microsoft":
             ocr_service = MicrosoftAzureOCRService(credentials)
 
         case _:
-            raise Exception("Unknown OCR Type. Please select one of the available OCR providers.")
+            raise Exception(
+                "Unknown OCR Provider. Please select one of the available OCR providers."
+            )
 
     tarsier = Tarsier(ocr_service)
 
@@ -59,9 +63,11 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
     )
     parser.add_argument(
-        "--ocr_service", help="Which OCR service to use [google, microsoft]", type=OCRType,
+        "--ocr_provider",
+        help="Which OCR service to use [google, microsoft]",
+        type=str,
         required=False,
-        default=OCRType.google
+        default="google",
     )
     return parser.parse_args()
 
