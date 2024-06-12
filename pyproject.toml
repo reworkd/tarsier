@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tarsier"
-version = "0.5.95"
+version = "0.6.0"
 description = "Vision utilities for web interaction agents"
 authors = ["Rohan Pandey", "Adam Watkins", "Asim Shrestha"]
 readme = "README.md"
@@ -13,6 +13,7 @@ python = "^3.11"
 playwright = "^1.39.0"
 selenium = "^4.15.2"
 google-cloud-vision = "^3.4.5"
+azure-ai-vision-imageanalysis = "^1.0.0b2"
 
 
 [tool.poetry.group.dev.dependencies]

@@ -10,7 +10,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
 
-from tarsier import GoogleVisionOCRService, Tarsier
+from tarsier import GoogleVisionOCRService, Tarsier, MicrosoftAzureOCRService
 
 IN_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
 
@@ -47,13 +47,22 @@ def chrome_driver():
     driver.quit()
 
 
-@pytest.fixture
-def tarsier():
-    if not (creds := environ.get("TARSIER_GOOGLE_OCR_CREDENTIALS", None)):
-        raise Exception(
-            "Please set the TARSIER_GOOGLE_OCR_CREDENTIALS environment variable."
-        )
+@pytest.fixture(params=["microsoft", "google"])
+def tarsier(request):
+    provider: str = request.param
+    env_variable = f"TARSIER_{provider.upper()}_OCR_CREDENTIALS"
+
+    if not (creds := environ.get(env_variable, None)):
+        raise Exception(f"Please set the {env_variable}  environment variable.")
 
     credentials = json.loads(creds)
-    ocr_service = GoogleVisionOCRService(credentials)
+
+    match provider:
+        case "microsoft":
+            ocr_service = MicrosoftAzureOCRService(credentials)
+        case "google":
+            ocr_service = GoogleVisionOCRService(credentials)
+        case _:
+            raise ValueError("Invalid OCR provider")
+
     yield Tarsier(ocr_service)
