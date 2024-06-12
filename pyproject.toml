@@ -13,7 +13,7 @@ python = "^3.11"
 playwright = "^1.39.0"
 selenium = "^4.15.2"
 google-cloud-vision = "^3.4.5"
-azure-ai-vision-imageanalysis = "^1.0.0"
+azure-ai-vision-imageanalysis = "^1.0.0b2"
 
 
 [tool.poetry.group.dev.dependencies]

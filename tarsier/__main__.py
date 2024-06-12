@@ -10,7 +10,7 @@ from tarsier.ocr import GoogleVisionOCRService, MicrosoftAzureOCRService
 
 
 
-async def main(credentials_path: str, ocr_service: str, url: str, verbose: bool) -> None:
+async def main(credentials_path: str, url: str, verbose: bool, ocr_service: str = "google") -> None:
     with open(credentials_path, "r") as f:
         credentials = json.load(f)
 
@@ -47,9 +47,6 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "credentials_path", help="Path to the OCR credentials JSON file", type=str
     )
-    parser.add_argument(
-        "ocr_service", help="Which OCR service to use [google, microsoft]", type=str
-    )
     parser.add_argument("url", help="URL to navigate to", type=str)
     parser.add_argument(
         "-v",
@@ -57,9 +54,14 @@ def parse_args() -> argparse.Namespace:
         help="Show verbose output (including xpaths)",
         action="store_true",
     )
+    parser.add_argument(
+        "--ocr_service", help="Which OCR service to use [google, microsoft]", type=str,
+        required=False,
+        default="google"
+    )
     return parser.parse_args()
 
 
 if __name__ == "__main__":
     args = parse_args()
-    asyncio.run(main(args.credentials_path, args.ocr_service, args.url, args.verbose))
+    asyncio.run(main(args.credentials_path, args.url, args.verbose, args.ocr_service))
