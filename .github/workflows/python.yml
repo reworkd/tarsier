@@ -83,7 +83,7 @@ jobs:
           TARSIER_GOOGLE_OCR_CREDENTIALS: ${{ secrets.TARSIER_GOOGLE_OCR_CREDENTIALS }}
 
   publish:
-    needs: [check-version, black, mypy, pytest]
+    needs: [check-version, ruff, mypy, pytest]
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main' && needs.check-version.outputs.should_publish == 'true'
     steps:
