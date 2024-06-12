@@ -15,7 +15,7 @@ jobs:
     outputs:
       should_publish: ${{ steps.pre-val.outputs.should_publish }}
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v4
       - name: Check if current version is published
         id: pre-val
         run: |
@@ -30,7 +30,7 @@ jobs:
               echo "::set-output name=should_publish::true"
           fi
 
-  black:
+  ruff:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
