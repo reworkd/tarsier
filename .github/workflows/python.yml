@@ -15,7 +15,7 @@ jobs:
     outputs:
       should_publish: ${{ steps.pre-val.outputs.should_publish }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v5
       - name: Check if current version is published
         id: pre-val
         run: |
@@ -33,26 +33,25 @@ jobs:
   black:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Install poetry
         run: pipx install poetry
       - uses: actions/setup-python@v4
         with:
           python-version: ${{ env.PYTHON_VERSION }}
           cache: "poetry"
-      - run: poetry install
-      - name: Run isort check
-        run: poetry run isort --check .
-      - name: Run black check
-        run: poetry run black --check .
+      - run: poetry install --only dev
+      - name: Run ruff check
+        run: poetry run ruff format --check .
+
 
   mypy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Install poetry
         run: pipx install poetry
-      - uses: actions/setup-python@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: ${{ env.PYTHON_VERSION }}
           cache: "poetry"
@@ -63,8 +62,8 @@ jobs:
   pytest:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           node-version: ${{ env.NODE_VERSION }}
           cache: "npm"
@@ -73,7 +72,7 @@ jobs:
         run: npm ci && npm run build
       - name: Install poetry
         run: pipx install poetry
-      - uses: actions/setup-python@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: ${{ env.PYTHON_VERSION }}
           cache: "poetry"
@@ -88,8 +87,8 @@ jobs:
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main' && needs.check-version.outputs.should_publish == 'true'
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: ${{ env.NODE_VERSION }}
           cache: "npm"
@@ -98,7 +97,7 @@ jobs:
         run: npm ci && npm run build
       - name: Install poetry
         run: pipx install poetry
-      - uses: actions/setup-python@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: ${{ env.PYTHON_VERSION }}
           cache: "poetry"

@@ -15,8 +15,8 @@ def test_sync_playwright(sync_page: Page, tarsier: Tarsier):
     assert "Hacker" in text and "News" in text
     assert paths
 
-    assert type(list(paths.keys())[0]) is int
-    assert type(list(paths.values())[0]) is str
+    assert isinstance(list(paths.keys())[0], int)
+    assert isinstance(list(paths.values())[0], str)
 
     hacker_news_el = sync_page.query_selector(paths[1])
     assert "Hacker" in hacker_news_el.inner_text()
@@ -32,8 +32,8 @@ async def test_async_playwright(async_page: AsyncPage, tarsier: Tarsier) -> None
     assert "Hacker" in text and "News" in text
     assert paths
 
-    assert type(list(paths.keys())[0]) is int
-    assert type(list(paths.values())[0]) is str
+    assert isinstance(list(paths.keys())[0], int)
+    assert isinstance(list(paths.values())[0], str)
 
     hacker_news_el = await async_page.query_selector(paths[1])
     assert "Hacker" in await hacker_news_el.inner_text()
@@ -49,8 +49,8 @@ async def test_selenium(chrome_driver: WebDriver, tarsier: Tarsier):
     assert "Hacker" in text and "News" in text
     assert paths
 
-    assert type(list(paths.keys())[0]) is int
-    assert type(list(paths.values())[0]) is str
+    assert isinstance(list(paths.keys())[0], int)
+    assert isinstance(list(paths.values())[0], str)
 
     hacker_news_el = chrome_driver.find_element(By.XPATH, paths[1])
     assert "Hacker" in hacker_news_el.text
