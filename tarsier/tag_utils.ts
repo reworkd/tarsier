@@ -320,7 +320,7 @@ function absolutelyPositionMissingTags() {
           tagRect.right > otherTagRect.left) &&
         (tagRect.top < otherTagRect.bottom &&
           tagRect.bottom > otherTagRect.top) &&
-        fontSize > 0.5 && otherFontSize > 0.5
+        fontSize > 7 && otherFontSize > 7
       ) {
         fontSize -= 0.5;
         otherFontSize -= 0.5;
