@@ -59,25 +59,43 @@ Visit our [cookbook](https://github.com/reworkd/Tarsier/tree/main/cookbook) for 
 - [An autonomous LangChain web agent](https://github.com/reworkd/tarsier/blob/main/cookbook/langchain-web-agent.ipynb) 🦜⛓️
 - [An autonomous LlamaIndex web agent](https://github.com/reworkd/tarsier/blob/main/cookbook/llama-index-web-agent.ipynb) 🦙
 
+We currently support 2 OCR engines: Google Vision and Microsoft Azure.
+To create service account credentials for Google, follow the instructions on this SO answer https://stackoverflow.com/a/46290808/1780891
+
+The credentials for Microsoft Azure are stored as a simple JSON consisting of an API key and
+an endpoint
+
+```json
+{
+  "key": "<enter_your_api_key>",
+  "endpoint": "<enter_your_api_endpoint>"
+}
+```
+These values can be found in the keys and endpoint section of the computer vision resource. See the instructions at https://learn.microsoft.com/en-us/answers/questions/854952/dont-find-your-key-and-your-endpoint
+
 Otherwise, basic Tarsier usage might look like the following:
 
 ```python
 import asyncio
 
 from playwright.async_api import async_playwright
-from tarsier import Tarsier, GoogleVisionOCRService
+from tarsier import Tarsier, GoogleVisionOCRService, MicrosoftAzureOCRService
 import json
 
-def load_google_cloud_credentials(json_file_path):
+def load_ocr_credentials(json_file_path):
     with open(json_file_path) as f:
         credentials = json.load(f)
     return credentials
 
 async def main():
     # To create the service account key, follow the instructions on this SO answer https://stackoverflow.com/a/46290808/1780891
-    google_cloud_credentials = load_google_cloud_credentials('./google_service_acc_key.json')
+
+    google_cloud_credentials = load_ocr_credentials('./google_service_acc_key.json')
+    #microsoft_azure_credentials = load_ocr_credentials('./microsoft_azure_credentials.json')
 
     ocr_service = GoogleVisionOCRService(google_cloud_credentials)
+    #ocr_service = MicrosoftAzureOCRService(microsoft_azure_credentials)
+
     tarsier = Tarsier(ocr_service)
 
     async with async_playwright() as p:
