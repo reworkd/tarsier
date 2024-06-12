@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tarsier"
-version = "0.5.941"
+version = "0.5.95"
 description = "Vision utilities for web interaction agents"
 authors = ["Rohan Pandey", "Adam Watkins", "Asim Shrestha"]
 readme = "README.md"
@@ -25,7 +25,7 @@ mypy = "^1.7.0"
 pytest = ">=7.4.3,<9.0.0"
 pytest-cov = "^4.1.0"
 pytest-playwright = "^0.4.3"
-pytest-asyncio = ">=0.21.1,<0.24.0"
+pytest-asyncio = ">=0.21.2,<0.24.0"
 nest-asyncio = "^1.5.8"
 webdriver-manager = "^4.0.1"
 pytest-mock = "^3.12.0"

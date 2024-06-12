@@ -160,6 +160,7 @@ function create_tagged_span(idNum: number, el: HTMLElement) {
   idSpan.style.webkitTextFillColor = 'white';
   idSpan.style.textShadow = '';
   idSpan.style.textDecoration = 'none';
+  idSpan.style.letterSpacing = '0px';
   return idSpan;
 }
 
@@ -276,7 +277,7 @@ function absolutelyPositionMissingTags() {
   tags.forEach((tag) => {
     const parent = tag.parentElement as HTMLElement;
     const parentRect = parent.getBoundingClientRect();
-    const tagRect = tag.getBoundingClientRect();
+    let tagRect = tag.getBoundingClientRect();
 
     const parentCenter = {
       x: (parentRect.left + parentRect.right) / 2,
@@ -305,6 +306,31 @@ function absolutelyPositionMissingTags() {
       parent.removeChild(tag);
       document.body.appendChild(tag);
     }
+
+    tags.forEach((otherTag) => {
+      if (tag === otherTag) return;
+      let otherTagRect = otherTag.getBoundingClientRect();
+
+      // reduce font of this tag and other tag until they don't overlap
+      let fontSize = parseFloat(window.getComputedStyle(tag).fontSize.split("px")[0]);
+      let otherFontSize = parseFloat(window.getComputedStyle(otherTag).fontSize.split("px")[0]);
+
+      while (
+        (tagRect.left < otherTagRect.right &&
+          tagRect.right > otherTagRect.left) &&
+        (tagRect.top < otherTagRect.bottom &&
+          tagRect.bottom > otherTagRect.top) &&
+        fontSize > 7 && otherFontSize > 7
+      ) {
+        fontSize -= 0.5;
+        otherFontSize -= 0.5;
+        tag.style.fontSize = `${fontSize}px`;
+        otherTag.style.fontSize = `${otherFontSize}px`;
+
+        tagRect = tag.getBoundingClientRect();
+        otherTagRect = otherTag.getBoundingClientRect();
+      }
+    });
   });
 }
 
