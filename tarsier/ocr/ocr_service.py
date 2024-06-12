@@ -7,9 +7,13 @@ from azure.ai.vision.imageanalysis.models import VisualFeatures
 from azure.core.credentials import AzureKeyCredential
 
 from tarsier.ocr.types import ImageAnnotatorResponse
+from tarsier.ocr.ocr_type import OCRType
 
 
 class OCRService(ABC):
+    def __init__(self, ocr_type: OCRType):
+        self.ocr_type = ocr_type
+
     @abstractmethod
     def annotate(self, image_file: bytes) -> ImageAnnotatorResponse:
         pass
@@ -17,6 +21,7 @@ class OCRService(ABC):
 
 class GoogleVisionOCRService(OCRService):
     def __init__(self, credentials: Dict[str, Any]):
+        super().__init__(OCRType.google)
         try:
             self.client = vision.ImageAnnotatorClient.from_service_account_info(
                 credentials
@@ -85,6 +90,7 @@ class GoogleVisionOCRService(OCRService):
 
 class MicrosoftAzureOCRService(OCRService):
     def __init__(self, credentials: Dict[str, Any]):
+        super().__init__(OCRType.microsoft)
         try:
             self.client = ImageAnalysisClient(
                 endpoint=credentials["endpoint"],
@@ -93,7 +99,7 @@ class MicrosoftAzureOCRService(OCRService):
         except Exception:  # TODO: specify exception
             raise ValueError(
                 "OCR client creation from credentials failed.\n"
-                "Google your microsoft azure vision credentials can be created here:\n"
+                "Your microsoft azure vision credentials can be created here:\n"
                 "https://learn.microsoft.com/en-us/python/api/overview/azure/cognitive-services?view=azure-python-preview"
             )
 
