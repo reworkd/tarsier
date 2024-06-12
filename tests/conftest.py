@@ -46,15 +46,14 @@ def chrome_driver():
 
     driver.quit()
 
+
 @pytest.fixture(params=["microsoft", "google"])
 def tarsier(request):
     provider: str = request.param
     env_variable = f"TARSIER_{provider.upper()}_OCR_CREDENTIALS"
 
     if not (creds := environ.get(env_variable, None)):
-        raise Exception(
-            f"Please set the {env_variable}  environment variable."
-        )
+        raise Exception(f"Please set the {env_variable}  environment variable.")
 
     credentials = json.loads(creds)
 
