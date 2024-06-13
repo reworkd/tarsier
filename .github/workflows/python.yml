@@ -81,6 +81,7 @@ jobs:
         run: poetry run pytest -vv --cov="tarsier" .
         env:
           TARSIER_GOOGLE_OCR_CREDENTIALS: ${{ secrets.TARSIER_GOOGLE_OCR_CREDENTIALS }}
+          TARSIER_MICROSOFT_OCR_CREDENTIALS: ${{ secrets.TARSIER_MICROSOFT_OCR_CREDENTIALS }}
 
   publish:
     needs: [check-version, ruff, mypy, pytest]
