@@ -23,7 +23,7 @@ ruff = "^0.4.8"
 
 [tool.poetry.group.test.dependencies]
 pytest = ">=7.4.3,<9.0.0"
-pytest-cov = "^4.1.0"
+pytest-cov = ">=4.1,<6.0"
 pytest-playwright = ">=0.4.4,<0.6.0"
 pytest-asyncio = ">=0.21.2,<0.24.0"
 nest-asyncio = "^1.6.0"
