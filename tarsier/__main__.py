@@ -74,4 +74,4 @@ def parse_args() -> argparse.Namespace:
 
 if __name__ == "__main__":
     args = parse_args()
-    asyncio.run(main(args.credentials_path, args.url, args.verbose, args.ocr_service))
+    asyncio.run(main(args.credentials_path, args.url, args.verbose, args.ocr_provider))
