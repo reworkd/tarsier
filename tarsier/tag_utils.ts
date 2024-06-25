@@ -2,10 +2,13 @@
 interface Window {
   tagifyWebpage: (tagLeafTexts?: boolean) => { [key: number]: string };
   removeTags: () => void;
+  hideNonTagElements: () => void;
+  revertVisibilities: () => void;
 }
 
 const tarsierId = "__tarsier_id";
 const tarsierSelector = `#${tarsierId}`;
+const reworkdVisibilityAttr = "reworkd-original-visibility";
 
 const elIsClean = (el: HTMLElement) => {
   const rect = el.getBoundingClientRect();
@@ -384,5 +387,34 @@ const showMapElements = () => {
   const elements = document.querySelectorAll(`[${GOOGLE_MAPS_OPACITY_CONTROL}]`);
   elements.forEach(element => {
     (element as HTMLElement).style.opacity = element.getAttribute('data-original-opacity') || '1';
+  });
+}
+
+window.hideNonTagElements = () => {
+  const allElements = document.body.querySelectorAll("*");
+  allElements.forEach((el) => {
+    const element = el as HTMLElement;
+
+    if (element.style.visibility){
+      element.setAttribute(reworkdVisibilityAttr, element.style.visibility);
+    }
+
+    if (!element.id.startsWith(tarsierId)) {
+      element.style.visibility = 'hidden';
+    } else {
+      element.style.visibility = 'visible';
+    }
+  });
+};
+
+window.revertVisibilities = () => {
+  const allElements = document.body.querySelectorAll("*");
+  allElements.forEach((el) => {
+    const element = el as HTMLElement;
+    if (element.getAttribute(reworkdVisibilityAttr)){
+      element.style.visibility = element.getAttribute(reworkdVisibilityAttr) || "true";
+    } else {
+      element.style.removeProperty('visibility');
+    }
   });
 }
