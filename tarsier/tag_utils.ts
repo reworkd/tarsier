@@ -2,6 +2,8 @@
 interface Window {
   tagifyWebpage: (tagLeafTexts?: boolean) => { [key: number]: string };
   removeTags: () => void;
+  hideElements: () => void;
+  showElements: () => void;
 }
 
 const tarsierId = "__tarsier_id";
@@ -139,7 +141,7 @@ function create_tagged_span(idNum: number, el: HTMLElement) {
   idSpan.style.position = "relative";
   idSpan.style.display = "inline";
   idSpan.style.color = "white";
-  idSpan.style.backgroundColor = "red";
+  idSpan.style.backgroundColor = "blue";
   idSpan.style.padding = "1.5px";
   idSpan.style.borderRadius = "3px";
   idSpan.style.fontWeight = "bold";
@@ -384,5 +386,38 @@ const showMapElements = () => {
   const elements = document.querySelectorAll(`[${GOOGLE_MAPS_OPACITY_CONTROL}]`);
   elements.forEach(element => {
     (element as HTMLElement).style.opacity = element.getAttribute('data-original-opacity') || '1';
+  });
+}
+
+window.hideElements = () => {
+  const allElements = document.body.querySelectorAll("*");
+  allElements.forEach((el) => {
+    const element = el as HTMLElement;
+
+    // if the element has the visibility property, then copy the value of that property into
+    // a new attribute called 'reworkd-original-visibility'
+    if (element.style.visibility){
+      element.setAttribute('reworkd-original-visibility', element.style.visibility);
+    }
+
+    if (!element.id.startsWith(tarsierId)) {
+      element.style.visibility = 'hidden';
+    } else {
+      element.style.visibility = 'visible';
+    }
+  });
+};
+
+window.showElements = () => {
+  // set the visibility of all the elements back to their original state based on reworkd-original-visibility
+  // loop through all the elements, and access the reworkd-original-visibility attr
+  const allElements = document.body.querySelectorAll("*");
+  allElements.forEach((el) => {
+    const element = el as HTMLElement;
+    if (element.getAttribute('reworkd-original-visibility')){
+      element.style.visibility = element.getAttribute('reworkd-original-visibility') || "true";
+    } else {
+      element.style.removeProperty('visibility');
+    }
   });
 }
