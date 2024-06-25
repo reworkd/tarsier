@@ -2,12 +2,13 @@
 interface Window {
   tagifyWebpage: (tagLeafTexts?: boolean) => { [key: number]: string };
   removeTags: () => void;
-  hideElements: () => void;
-  showElements: () => void;
+  hideNonTagElements: () => void;
+  revertVisibilities: () => void;
 }
 
 const tarsierId = "__tarsier_id";
 const tarsierSelector = `#${tarsierId}`;
+const reworkdVisibilityAttr = "reworkd-original-visibility";
 
 const elIsClean = (el: HTMLElement) => {
   const rect = el.getBoundingClientRect();
@@ -141,7 +142,7 @@ function create_tagged_span(idNum: number, el: HTMLElement) {
   idSpan.style.position = "relative";
   idSpan.style.display = "inline";
   idSpan.style.color = "white";
-  idSpan.style.backgroundColor = "blue";
+  idSpan.style.backgroundColor = "red";
   idSpan.style.padding = "1.5px";
   idSpan.style.borderRadius = "3px";
   idSpan.style.fontWeight = "bold";
@@ -389,15 +390,13 @@ const showMapElements = () => {
   });
 }
 
-window.hideElements = () => {
+window.hideNonTagElements = () => {
   const allElements = document.body.querySelectorAll("*");
   allElements.forEach((el) => {
     const element = el as HTMLElement;
 
-    // if the element has the visibility property, then copy the value of that property into
-    // a new attribute called 'reworkd-original-visibility'
     if (element.style.visibility){
-      element.setAttribute('reworkd-original-visibility', element.style.visibility);
+      element.setAttribute(reworkdVisibilityAttr, element.style.visibility);
     }
 
     if (!element.id.startsWith(tarsierId)) {
@@ -408,14 +407,12 @@ window.hideElements = () => {
   });
 };
 
-window.showElements = () => {
-  // set the visibility of all the elements back to their original state based on reworkd-original-visibility
-  // loop through all the elements, and access the reworkd-original-visibility attr
+window.revertVisibilities = () => {
   const allElements = document.body.querySelectorAll("*");
   allElements.forEach((el) => {
     const element = el as HTMLElement;
-    if (element.getAttribute('reworkd-original-visibility')){
-      element.style.visibility = element.getAttribute('reworkd-original-visibility') || "true";
+    if (element.getAttribute(reworkdVisibilityAttr)){
+      element.style.visibility = element.getAttribute(reworkdVisibilityAttr) || "true";
     } else {
       element.style.removeProperty('visibility');
     }
