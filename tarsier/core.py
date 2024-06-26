@@ -11,9 +11,7 @@ TagToXPath = Dict[int, str]
 
 
 class ITarsier(Protocol):
-    async def page_to_image(
-        self, driver: AnyDriver
-    ) -> Tuple[bytes, bytes, Dict[int, str]]:
+    async def page_to_image(self, driver: AnyDriver) -> Tuple[bytes, Dict[int, str]]:
         raise NotImplementedError()
 
     async def page_to_text(self, driver: AnyDriver) -> Tuple[str, Dict[int, str]]:
@@ -29,34 +27,48 @@ class Tarsier(ITarsier):
 
     async def page_to_image(
         self, driver: AnyDriver, tag_text_elements: bool = False, tagless: bool = False
-    ) -> Tuple[bytes, bytes, Dict[int, str]]:
+    ) -> Tuple[bytes, Dict[int, str]]:
         adapter = adapter_factory(driver)
-        initial_screenshot = await self._take_screenshot(adapter)
         tag_to_xpath = (
             await self._tag_page(adapter, tag_text_elements) if not tagless else {}
         )
-        await self._hide_non_tag_elem(adapter)
-        tagged_screenshot = await self._take_screenshot(adapter)
-        await self._revert_visibilities(adapter)
+        screenshot = await self._take_screenshot(adapter)
         if not tagless:
             await self._remove_tags(adapter)
-        return (
-            initial_screenshot,
-            tagged_screenshot,
-            tag_to_xpath if not tagless else {},
-        )
+        return screenshot, tag_to_xpath if not tagless else {}
 
     async def page_to_text(
         self, driver: AnyDriver, tag_text_elements: bool = False, tagless: bool = False
     ) -> Tuple[str, TagToXPath]:
-        untagged_image, tagged_image, tag_to_xpath = await self.page_to_image(
-            driver, tag_text_elements, tagless
-        )
+        adapter = adapter_factory(driver)
+        untagged_image = await self._take_screenshot(adapter)
         untagged_ocr_annotations = self._ocr_service.annotate(untagged_image)
+
+        if tagless:
+            text = format_text(untagged_ocr_annotations)
+            return text, {}
+
+        tag_to_xpath = await self._tag_page(adapter, tag_text_elements)
+        await self._hide_non_tag_elements(adapter)
+        tagged_image = await self._take_screenshot(adapter)
+        await self._revert_visibilities(adapter)
+        await self._remove_tags(adapter)
         tagged_ocr_annotations = self._ocr_service.annotate(tagged_image)
 
+        combined_annotations = self.combine_annotations(
+            untagged_ocr_annotations, tagged_ocr_annotations
+        )
+        combined_text = format_text(combined_annotations)
+
+        return combined_text, tag_to_xpath
+
+    @staticmethod
+    def combine_annotations(
+        untagged_annotation: ImageAnnotatorResponse,
+        tagged_annotation: ImageAnnotatorResponse,
+    ) -> ImageAnnotatorResponse:
         combined_annotations: ImageAnnotatorResponse = {
-            "words": untagged_ocr_annotations["words"] + tagged_ocr_annotations["words"]
+            "words": untagged_annotation["words"] + tagged_annotation["words"]
         }
         combined_annotations["words"] = list(
             sorted(
@@ -67,10 +79,7 @@ class Tarsier(ITarsier):
                 ),
             )
         )
-
-        combined_text = format_text(combined_annotations)
-
-        return combined_text, tag_to_xpath
+        return combined_annotations
 
     @staticmethod
     async def _take_screenshot(adapter: BrowserAdapter) -> bytes:
@@ -100,7 +109,7 @@ class Tarsier(ITarsier):
         await adapter.run_js(script)
 
     @staticmethod
-    async def _hide_non_tag_elem(adapter: BrowserAdapter) -> None:
+    async def _hide_non_tag_elements(adapter: BrowserAdapter) -> None:
         script = "return window.hideNonTagElements();"
 
         await adapter.run_js(script)
