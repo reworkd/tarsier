@@ -4,7 +4,7 @@ from typing import Dict, Tuple
 
 from tarsier._utils import load_js
 from tarsier.adapter import AnyDriver, BrowserAdapter, adapter_factory
-from tarsier.ocr import OCRService
+from tarsier.ocr import OCRService, ImageAnnotatorResponse
 from tarsier.text_format import format_text
 
 TagToXPath = Dict[int, str]
@@ -55,7 +55,7 @@ class Tarsier(ITarsier):
         untagged_ocr_annotations = self._ocr_service.annotate(untagged_image)
         tagged_ocr_annotations = self._ocr_service.annotate(tagged_image)
 
-        combined_annotations = {
+        combined_annotations: ImageAnnotatorResponse = {
             "words": untagged_ocr_annotations["words"] + tagged_ocr_annotations["words"]
         }
         combined_annotations["words"] = list(
