@@ -11,7 +11,9 @@ TagToXPath = Dict[int, str]
 
 
 class ITarsier(Protocol):
-    async def page_to_image(self, driver: AnyDriver) -> Tuple[bytes, Dict[int, str]]:
+    async def page_to_image(
+        self, driver: AnyDriver
+    ) -> Tuple[bytes, bytes, Dict[int, str]]:
         raise NotImplementedError()
 
     async def page_to_text(self, driver: AnyDriver) -> Tuple[str, Dict[int, str]]:
@@ -38,21 +40,27 @@ class Tarsier(ITarsier):
         await self._revert_visibilities(adapter)
         if not tagless:
             await self._remove_tags(adapter)
-        return initial_screenshot, tagged_screenshot, tag_to_xpath if not tagless else {}
+        return (
+            initial_screenshot,
+            tagged_screenshot,
+            tag_to_xpath if not tagless else {},
+        )
 
     async def page_to_text(
         self, driver: AnyDriver, tag_text_elements: bool = False, tagless: bool = False
-    ) -> Tuple[ str, TagToXPath]:
+    ) -> Tuple[str, TagToXPath]:
         untagged_image, tagged_image, tag_to_xpath = await self.page_to_image(
             driver, tag_text_elements, tagless
         )
         untagged_ocr_annotations = self._ocr_service.annotate(untagged_image)
         tagged_ocr_annotations = self._ocr_service.annotate(tagged_image)
 
-        combined_annotations = {'words': untagged_ocr_annotations["words"] + tagged_ocr_annotations["words"]}
-        combined_annotations['words'] = list(
+        combined_annotations = {
+            "words": untagged_ocr_annotations["words"] + tagged_ocr_annotations["words"]
+        }
+        combined_annotations["words"] = list(
             sorted(
-                combined_annotations['words'],
+                combined_annotations["words"],
                 key=lambda x: (
                     x["midpoint_normalized"][1],
                     x["midpoint_normalized"][0],
