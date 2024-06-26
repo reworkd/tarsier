@@ -62,7 +62,7 @@ async def snapshot_example(
         print(f"{prefix} Snapshotting {example.id}")
         await page.goto(example.get_static_url())
         await page.wait_for_timeout(3000)
-        image, _ = await tarsier.page_to_image(page, tag_text_elements=True)
+        image, _, _ = await tarsier.page_to_image(page, tag_text_elements=True)
         page_text, _ = await tarsier.page_to_text(page, tag_text_elements=True)
         await page.close()
 
