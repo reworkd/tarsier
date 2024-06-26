@@ -4,7 +4,7 @@ from typing import Dict, Tuple
 
 from tarsier._utils import load_js
 from tarsier.adapter import AnyDriver, BrowserAdapter, adapter_factory
-from tarsier.ocr import OCRService
+from tarsier.ocr import OCRService, ImageAnnotatorResponse
 from tarsier.text_format import format_text
 
 TagToXPath = Dict[int, str]
@@ -40,11 +40,46 @@ class Tarsier(ITarsier):
     async def page_to_text(
         self, driver: AnyDriver, tag_text_elements: bool = False, tagless: bool = False
     ) -> Tuple[str, TagToXPath]:
-        image, tag_to_xpath = await self.page_to_image(
-            driver, tag_text_elements, tagless
+        adapter = adapter_factory(driver)
+        untagged_image = await self._take_screenshot(adapter)
+        untagged_ocr_annotations = self._ocr_service.annotate(untagged_image)
+
+        if tagless:
+            text = format_text(untagged_ocr_annotations)
+            return text, {}
+
+        tag_to_xpath = await self._tag_page(adapter, tag_text_elements)
+        await self._hide_non_tag_elements(adapter)
+        tagged_image = await self._take_screenshot(adapter)
+        await self._revert_visibilities(adapter)
+        await self._remove_tags(adapter)
+        tagged_ocr_annotations = self._ocr_service.annotate(tagged_image)
+
+        combined_annotations = self.combine_annotations(
+            untagged_ocr_annotations, tagged_ocr_annotations
         )
-        page_text = self._run_ocr(image)
-        return page_text, tag_to_xpath
+        combined_text = format_text(combined_annotations)
+
+        return combined_text, tag_to_xpath
+
+    @staticmethod
+    def combine_annotations(
+        untagged_annotation: ImageAnnotatorResponse,
+        tagged_annotation: ImageAnnotatorResponse,
+    ) -> ImageAnnotatorResponse:
+        combined_annotations: ImageAnnotatorResponse = {
+            "words": untagged_annotation["words"] + tagged_annotation["words"]
+        }
+        combined_annotations["words"] = list(
+            sorted(
+                combined_annotations["words"],
+                key=lambda x: (
+                    x["midpoint_normalized"][1],
+                    x["midpoint_normalized"][0],
+                ),
+            )
+        )
+        return combined_annotations
 
     @staticmethod
     async def _take_screenshot(adapter: BrowserAdapter) -> bytes:
@@ -56,11 +91,6 @@ class Tarsier(ITarsier):
         await adapter.set_viewport_size(default_width, viewport["height"])
 
         return screenshot
-
-    def _run_ocr(self, image: bytes) -> str:
-        ocr_text = self._ocr_service.annotate(image)
-        page_text = format_text(ocr_text)
-        return page_text
 
     async def _tag_page(
         self, adapter: BrowserAdapter, tag_text_elements: bool = False
@@ -75,5 +105,17 @@ class Tarsier(ITarsier):
     @staticmethod
     async def _remove_tags(adapter: BrowserAdapter) -> None:
         script = "return window.removeTags();"
+
+        await adapter.run_js(script)
+
+    @staticmethod
+    async def _hide_non_tag_elements(adapter: BrowserAdapter) -> None:
+        script = "return window.hideNonTagElements();"
+
+        await adapter.run_js(script)
+
+    @staticmethod
+    async def _revert_visibilities(adapter: BrowserAdapter) -> None:
+        script = "return window.revertVisibilities();"
 
         await adapter.run_js(script)
