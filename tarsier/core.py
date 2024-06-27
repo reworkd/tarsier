@@ -72,8 +72,8 @@ class Tarsier(ITarsier):
 
         return {int(key): value for key, value in tag_to_xpath.items()}
 
-    @staticmethod
-    async def _remove_tags(adapter: BrowserAdapter) -> None:
+    async def _remove_tags(self, adapter: BrowserAdapter) -> None:
+        await adapter.run_js(self._js_utils)
         script = "return window.removeTags();"
 
         await adapter.run_js(script)
