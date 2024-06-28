@@ -153,4 +153,4 @@ cython_debug/
 *.d.ts
 *.js
 node_modules
-/tarsier/tests/test.env
+/tests/.env

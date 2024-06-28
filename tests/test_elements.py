@@ -1,28 +1,6 @@
 import os
 import pytest
 from playwright.async_api import async_playwright
-from dotenv import load_dotenv
-from typing import Dict
-from tarsier import GoogleVisionOCRService, Tarsier
-
-dotenv_path = os.path.join(os.path.dirname(__file__), "test.env")
-load_dotenv(dotenv_path)
-
-
-def google_creds() -> Dict[str, str]:
-    return {
-        "type": os.getenv("TYPE") or "",
-        "project_id": os.getenv("PROJECT_ID") or "",
-        "private_key_id": os.getenv("PRIVATE_KEY_ID") or "",
-        "private_key": (os.getenv("PRIVATE_KEY") or "").replace("\\n", "\n"),
-        "client_email": os.getenv("CLIENT_EMAIL") or "",
-        "client_id": os.getenv("CLIENT_ID") or "",
-        "auth_uri": os.getenv("AUTH_URI") or "",
-        "token_uri": os.getenv("TOKEN_URI") or "",
-        "auth_provider_x509_cert_url": os.getenv("AUTH_PROVIDER_X509_CERT_URL") or "",
-        "client_x509_cert_url": os.getenv("CLIENT_X509_CERT_URL") or "",
-        "universe_domain": os.getenv("UNIVERSE_DOMAIN") or "",
-    }
 
 
 @pytest.mark.asyncio
@@ -106,12 +84,9 @@ def google_creds() -> Dict[str, str]:
         ),
     ],
 )
-async def test_combined_elements_page(html_file, expected_tag_to_xpath):
+async def test_combined_elements_page(tarsier, html_file, expected_tag_to_xpath):
     async with async_playwright() as p:
-        creds = google_creds()
-
         browser = await p.chromium.launch(headless=True)
-        tarsier = Tarsier(GoogleVisionOCRService(creds))
 
         html_file_path = os.path.abspath(
             os.path.join(os.path.dirname(__file__), html_file)
