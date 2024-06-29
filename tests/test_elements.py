@@ -1,105 +1,76 @@
 import os
 import pytest
-from playwright.async_api import async_playwright
 
 
 @pytest.mark.asyncio
 @pytest.mark.parametrize(
     "html_file, expected_tag_to_xpath",
     [
-        ("test_html/text_only.html", {0: "//html/body/h1", 1: "//html/body/p"}),
+        ("mock_html/text_only.html", {0: "//html/body/h1", 1: "//html/body/p"}),
         (
-            "test_html/hyperlink_only.html",
-            {
-                0: '//html/body/p[1]/a[@id="link1"]',
-                1: '//html/body/p[2]/a[@id="link2"]',
-                2: '//html/body/p[3]/a[@id="link3"]',
-                3: '//html/body/p[4]/a[@id="link4"]',
-                4: '//html/body/p[5]/a[@id="link5"]',
-            },
+            "mock_html/hyperlink_only.html",
+            {0: '//html/body/p/a[@id="link1"]'},
         ),
         (
-            "test_html/interactable_only.html",
+            "mock_html/interactable_only.html",
             {
                 0: '//html/body/form/button[@id="button"]',
-                1: '//html/body/form/input[1][@id="checkbox"]',
-                2: '//html/body/form/input[2][@id="radio1"]',
-                3: '//html/body/form/input[3][@id="radio2"]',
-                4: '//html/body/form/select[@id="select"]',
-                5: '//html/body/form/input[4][@id="file"]',
+                1: '//html/body/form/input[@id="checkbox"]',
             },
         ),
         (
-            "test_html/combination.html",
+            "mock_html/combination.html",
             {
                 0: "//html/body/h1",
                 1: "//html/body/p[1]",
                 2: "//html/body/form/label[1]",
                 3: '//html/body/form/input[1][@id="text"]',
                 4: "//html/body/form/label[2]",
-                5: '//html/body/form/input[2][@id="password"]',
+                5: '//html/body/form/input[2][@id="checkbox"]',
                 6: "//html/body/form/label[3]",
-                7: '//html/body/form/input[3][@id="email"]',
+                7: '//html/body/form/input[3][@id="radio1"]',
                 8: "//html/body/form/label[4]",
-                9: '//html/body/form/input[4][@id="search"]',
+                9: '//html/body/form/input[4][@id="radio2"]',
                 10: "//html/body/form/label[5]",
-                11: '//html/body/form/input[5][@id="url"]',
+                11: '//html/body/form/select[@id="select"]',
                 12: "//html/body/form/label[6]",
-                13: '//html/body/form/input[6][@id="tel"]',
-                14: "//html/body/form/label[7]",
-                15: '//html/body/form/input[7][@id="number"]',
-                16: "//html/body/form/label[8]",
-                17: '//html/body/form/textarea[@id="textarea"]',
-                18: "//html/body/form/label[9]",
-                19: '//html/body/form/button[@id="button"]',
-                20: "//html/body/form/label[10]",
-                21: '//html/body/form/input[8][@id="checkbox"]',
-                22: "//html/body/form/label[11]",
-                23: '//html/body/form/input[9][@id="radio1"]',
-                24: "//html/body/form/label[12]",
-                25: '//html/body/form/input[10][@id="radio2"]',
-                26: "//html/body/form/label[13]",
-                27: '//html/body/form/select[@id="select"]',
-                28: "//html/body/form/label[14]",
-                29: '//html/body/form/input[11][@id="file"]',
-                30: '//html/body/p[2]/a[@id="link1"]',
-                31: '//html/body/p[3]/a[@id="link2"]',
-                32: '//html/body/p[4]/a[@id="link3"]',
-                33: '//html/body/p[5]/a[@id="link4"]',
-                34: '//html/body/p[6]/a[@id="link5"]',
+                13: '//html/body/form/input[5][@id="file"]',
+                14: '//html/body/p[2]/a[@id="link1"]',
             },
         ),
         (
-            "test_html/insertable_only.html",
+            "mock_html/insertable_only.html",
             {
                 0: '//html/body/form/input[1][@id="text"]',
                 1: '//html/body/form/input[2][@id="password"]',
-                2: '//html/body/form/input[3][@id="email"]',
-                3: '//html/body/form/input[4][@id="search"]',
-                4: '//html/body/form/input[5][@id="url"]',
-                5: '//html/body/form/input[6][@id="tel"]',
-                6: '//html/body/form/input[7][@id="number"]',
-                7: '//html/body/form/textarea[@id="textarea"]',
             },
         ),
     ],
 )
-async def test_combined_elements_page(tarsier, html_file, expected_tag_to_xpath):
-    async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
+async def test_combined_elements_page(
+    tarsier, async_page, html_file, expected_tag_to_xpath
+):
+    html_file_path = os.path.abspath(os.path.join(os.path.dirname(__file__), html_file))
+    await async_page.goto(f"file://{html_file_path}")
 
-        html_file_path = os.path.abspath(
-            os.path.join(os.path.dirname(__file__), html_file)
+    page_text, tag_to_xpath = await tarsier.page_to_text(
+        async_page, tag_text_elements=True
+    )
+
+    assert tag_to_xpath == expected_tag_to_xpath, (
+        f"tag_to_xpath does not match expected output for "
+        f"{html_file}. Got: {tag_to_xpath}"
+    )
+
+    num_lines = len(page_text.splitlines())
+
+    if "combination.html" not in html_file:
+        assert 2 < num_lines < 6, (
+            f"Number of lines in page_text does not meet the criteria for "
+            f"{html_file}. Got: {num_lines} lines."
         )
-        context = await browser.new_context()
-        page = await context.new_page()
-        await page.goto(f"file://{html_file_path}")
-
-        page_text, tag_to_xpath = await tarsier.page_to_text(
-            page, tag_text_elements=True
-        )
-
-        assert tag_to_xpath == expected_tag_to_xpath, (
-            f"tag_to_xpath does not match expected output for "
-            f"{html_file}. Got: {tag_to_xpath}"
+    else:
+        assert 9 < num_lines < 13, (
+            f"Number of lines in page_text does not meet the criteria for "
+            f"{html_file}. Got: {num_lines} lines."
         )

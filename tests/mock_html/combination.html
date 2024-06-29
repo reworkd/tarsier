@@ -2,27 +2,37 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Interactable Elements Only</title>
+    <title>Combination of Elements</title>
 </head>
 <body>
+    <h1>Combination of Elements Example</h1>
+
+    <p>This is a paragraph with some text.</p>
 
     <form>
+        <label for="text">Text Input:</label>
+        <input type="text" id="text" name="text"><br><br>
 
-        <button id="button">Click Me</button><br><br>
-
+        <label for="checkbox">Checkbox:</label>
         <input type="checkbox" id="checkbox" name="checkbox"><br><br>
 
+        <label for="radio1">Radio Button 1:</label>
         <input type="radio" id="radio1" name="radio" value="1"><br><br>
 
+        <label for="radio2">Radio Button 2:</label>
         <input type="radio" id="radio2" name="radio" value="2"><br><br>
 
+        <label for="select">Select Dropdown:</label>
         <select id="select" name="select">
             <option value="option1">Option 1</option>
             <option value="option2">Option 2</option>
             <option value="option3">Option 3</option>
         </select><br><br>
 
+        <label for="file">File Input:</label>
         <input type="file" id="file" name="file"><br><br>
     </form>
+
+    <p><a href="https://www.example.com" id="link1">Example Link 1</a></p>
 </body>
 </html>
