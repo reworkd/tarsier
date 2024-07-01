@@ -74,6 +74,6 @@ class Tarsier(ITarsier):
 
     async def _remove_tags(self, adapter: BrowserAdapter) -> None:
         await adapter.run_js(self._js_utils)
-        script = "return window.removeTags();"
 
+        script = "return window.removeTags();"
         await adapter.run_js(script)
