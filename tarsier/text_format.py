@@ -10,7 +10,7 @@ from tarsier.ocr.types import ImageAnnotation
 def format_text(ocr_text: ImageAnnotatorResponse) -> str:
     # Cluster tokens by line
     line_cluster: Dict[float, List[ImageAnnotation]] = defaultdict(list)
-    for annotation in ocr_text["words"]:
+    for annotation in ocr_text:
         if (
             len(line_cluster.keys())
             and abs(annotation["midpoint"][1] - list(line_cluster.keys())[-1]) < 10

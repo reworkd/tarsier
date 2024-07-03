@@ -51,7 +51,7 @@ class GoogleVisionOCRService(OCRService):
 
         annotations = res.text_annotations
         if len(annotations) == 0:
-            return {"words": []}
+            return []
 
         whole_text_box_max = annotations[0].bounding_poly.vertices[2]
         max_width = whole_text_box_max.x
@@ -87,7 +87,7 @@ class GoogleVisionOCRService(OCRService):
             )
         )
 
-        return {"words": annotations_normed}
+        return annotations_normed
 
 
 class MicrosoftAzureOCRService(OCRService):
@@ -112,7 +112,7 @@ class MicrosoftAzureOCRService(OCRService):
         )
 
         if result.read is None:
-            return {"words": []}
+            return []
 
         max_width, max_height = 0, 0
         for line in result.read.blocks[0].lines:
@@ -158,4 +158,4 @@ class MicrosoftAzureOCRService(OCRService):
             )
         )
 
-        return {"words": annotations_normed}
+        return annotations_normed
