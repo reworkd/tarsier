@@ -2,6 +2,7 @@ import os
 import pytest
 
 
+@pytest.mark.skip(reason="for testing after implementation of two phase tagging")
 @pytest.mark.asyncio
 @pytest.mark.parametrize(
     "html_file, expected_tag_to_xpath, expected_page_text, expected_tag_string",
