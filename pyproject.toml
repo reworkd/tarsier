@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tarsier"
-version = "0.6.2"
+version = "0.6.3"
 description = "Vision utilities for web interaction agents"
 authors = ["Rohan Pandey", "Adam Watkins", "Asim Shrestha"]
 readme = "README.md"
@@ -18,7 +18,7 @@ azure-ai-vision-imageanalysis = "^1.0.0b2"
 
 [tool.poetry.group.dev.dependencies]
 mypy = "^1.10.0"
-ruff = "^0.4.8"
+ruff = ">=0.4.8,<0.6.0"
 
 
 [tool.poetry.group.test.dependencies]

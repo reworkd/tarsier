@@ -11,5 +11,4 @@ class ImageAnnotation(TypedDict):
     height: int  # the height of the word
 
 
-class ImageAnnotatorResponse(TypedDict):
-    words: List[ImageAnnotation]  # a list of words and their midpoints
+ImageAnnotatorResponse = List[ImageAnnotation]
