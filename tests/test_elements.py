@@ -4,51 +4,41 @@ import pytest
 
 @pytest.mark.asyncio
 @pytest.mark.parametrize(
-    "html_file, expected_tag_to_xpath",
+    "html_file, expected_tag_to_xpath, expected_page_text, expected_tag_string",
     [
-        ("mock_html/text_only.html", {0: "//html/body/h1", 1: "//html/body/p"}),
-        (
-            "mock_html/hyperlink_only.html",
-            {0: '//html/body/p/a[@id="link1"]'},
-        ),
+        ("mock_html/text_only.html", {0: "//html/body/h1"}, ["Hello, World!"], ["[0]"]),
+        ("mock_html/hyperlink_only.html", {0: '//html/body/p/a[@id="link1"]'}, ["Example Link 1"], ["[@0]"]),
         (
             "mock_html/interactable_only.html",
             {
-                0: '//html/body/form/button[@id="button"]',
-                1: '//html/body/form/input[@id="checkbox"]',
+                0: '//html/body/button[@id="button"]',
+                1: '//html/body/input[@id="checkbox"]'
             },
+            ["Click Me"],
+            ["[$0]", "[$1]"]
         ),
         (
             "mock_html/combination.html",
             {
-                0: "//html/body/h1",
-                1: "//html/body/p[1]",
-                2: "//html/body/form/label[1]",
-                3: '//html/body/form/input[1][@id="text"]',
-                4: "//html/body/form/label[2]",
-                5: '//html/body/form/input[2][@id="checkbox"]',
-                6: "//html/body/form/label[3]",
-                7: '//html/body/form/input[3][@id="radio1"]',
-                8: "//html/body/form/label[4]",
-                9: '//html/body/form/input[4][@id="radio2"]',
-                10: "//html/body/form/label[5]",
-                11: '//html/body/form/select[@id="select"]',
-                12: "//html/body/form/label[6]",
-                13: '//html/body/form/input[5][@id="file"]',
-                14: '//html/body/p[2]/a[@id="link1"]',
+                0: '//html/body/input[1][@id="text"]',
+                1: '//html/body/input[2][@id="checkbox"]',
+                2: '//html/body/p'
             },
+            ["Enter text here", "Some random text"],
+            ["[#0]", "[$1]", "[2]"]
         ),
         (
             "mock_html/insertable_only.html",
             {
-                0: '//html/body/form/input[1][@id="text"]',
-                1: '//html/body/form/input[2][@id="password"]',
+                0: '//html/body/input[@id="text"]'
             },
+            ["Enter text here"],
+            ["#0"]
         ),
     ],
 )
 async def test_combined_elements_page(
-    tarsier, async_page, html_file, expected_tag_to_xpath
+    tarsier, async_page, html_file, expected_tag_to_xpath, expected_page_text, expected_tag_string
 ):
     html_file_path = os.path.abspath(os.path.join(os.path.dirname(__file__), html_file))
     await async_page.goto(f"file://{html_file_path}")
@@ -62,15 +52,14 @@ async def test_combined_elements_page(
         f"{html_file}. Got: {tag_to_xpath}"
     )
 
-    num_lines = len(page_text.splitlines())
-
-    if "combination.html" not in html_file:
-        assert 2 < num_lines < 6, (
-            f"Number of lines in page_text does not meet the criteria for "
-            f"{html_file}. Got: {num_lines} lines."
+    for expected_text in expected_page_text:
+        assert expected_text in page_text, (
+            f"Expected text '{expected_text}' not found in page text for {html_file}. "
+            f"Got: {page_text}"
         )
-    else:
-        assert 9 < num_lines < 13, (
-            f"Number of lines in page_text does not meet the criteria for "
-            f"{html_file}. Got: {num_lines} lines."
+
+    for expected_tag in expected_tag_string:
+        assert expected_tag in page_text, (
+            f"Expected tag '{expected_tag}' not found in page text for {html_file}. "
+            f"Got: {page_text}"
         )

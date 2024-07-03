@@ -13,8 +13,10 @@ from webdriver_manager.chrome import ChromeDriverManager
 from tarsier import GoogleVisionOCRService, Tarsier, MicrosoftAzureOCRService
 from dotenv import load_dotenv
 
-load_dotenv()
 IN_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
+
+if not IN_GITHUB_ACTIONS or os.getenv("NODE_ENV") == "development":
+    load_dotenv()
 
 
 @pytest_asyncio.fixture()
