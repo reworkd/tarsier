@@ -11,17 +11,34 @@ from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
 
 from tarsier import GoogleVisionOCRService, Tarsier, MicrosoftAzureOCRService
+from dotenv import load_dotenv
 
 IN_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
 
+if not IN_GITHUB_ACTIONS or os.getenv("NODE_ENV") == "development":
+    load_dotenv()
+
 
 @pytest_asyncio.fixture()
-async def async_page() -> None:
+async def browser() -> None:
     async with async_playwright() as pw:
-        browser = await pw.chromium.launch(headless=IN_GITHUB_ACTIONS)
-        page = await browser.new_page()
-        yield page
-        await browser.close()
+        pw_browser = await pw.chromium.launch(headless=IN_GITHUB_ACTIONS)
+        yield pw_browser
+        await pw_browser.close()
+
+
+@pytest_asyncio.fixture()
+async def context(browser) -> None:
+    pw_context = await browser.new_context()
+    yield pw_context
+    await pw_context.close()
+
+
+@pytest_asyncio.fixture()
+async def async_page(context) -> None:
+    page = await context.new_page()
+    yield page
+    await page.close()
 
 
 @pytest.fixture()
