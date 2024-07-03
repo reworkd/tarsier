@@ -8,38 +8,46 @@ import pytest
     "html_file, expected_tag_to_xpath, expected_page_text, expected_tag_string",
     [
         ("mock_html/text_only.html", {0: "//html/body/h1"}, ["Hello, World!"], ["[0]"]),
-        ("mock_html/hyperlink_only.html", {0: '//html/body/p/a[@id="link1"]'}, ["Example Link 1"], ["[@0]"]),
+        (
+            "mock_html/hyperlink_only.html",
+            {0: '//html/body/p/a[@id="link1"]'},
+            ["Example Link 1"],
+            ["[@0]"],
+        ),
         (
             "mock_html/interactable_only.html",
             {
                 0: '//html/body/button[@id="button"]',
-                1: '//html/body/input[@id="checkbox"]'
+                1: '//html/body/input[@id="checkbox"]',
             },
             ["Click Me"],
-            ["[$0]", "[$1]"]
+            ["[$0]", "[$1]"],
         ),
         (
             "mock_html/combination.html",
             {
                 0: '//html/body/input[1][@id="text"]',
                 1: '//html/body/input[2][@id="checkbox"]',
-                2: '//html/body/p'
+                2: "//html/body/p",
             },
             ["Enter text here", "Some random text"],
-            ["[#0]", "[$1]", "[2]"]
+            ["[#0]", "[$1]", "[2]"],
         ),
         (
             "mock_html/insertable_only.html",
-            {
-                0: '//html/body/input[@id="text"]'
-            },
+            {0: '//html/body/input[@id="text"]'},
             ["Enter text here"],
-            ["#0"]
+            ["#0"],
         ),
     ],
 )
 async def test_combined_elements_page(
-    tarsier, async_page, html_file, expected_tag_to_xpath, expected_page_text, expected_tag_string
+    tarsier,
+    async_page,
+    html_file,
+    expected_tag_to_xpath,
+    expected_page_text,
+    expected_tag_string,
 ):
     html_file_path = os.path.abspath(os.path.join(os.path.dirname(__file__), html_file))
     await async_page.goto(f"file://{html_file_path}")
