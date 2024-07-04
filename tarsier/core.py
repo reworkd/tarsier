@@ -67,12 +67,10 @@ class Tarsier(ITarsier):
         untagged_annotation: ImageAnnotatorResponse,
         tagged_annotation: ImageAnnotatorResponse,
     ) -> ImageAnnotatorResponse:
-        combined_annotations: ImageAnnotatorResponse = {
-            "words": untagged_annotation["words"] + tagged_annotation["words"]
-        }
-        combined_annotations["words"] = list(
+        combined_annotations: ImageAnnotatorResponse = untagged_annotation + tagged_annotation
+        combined_annotations = list(
             sorted(
-                combined_annotations["words"],
+                combined_annotations,
                 key=lambda x: (
                     x["midpoint_normalized"][1],
                     x["midpoint_normalized"][0],
