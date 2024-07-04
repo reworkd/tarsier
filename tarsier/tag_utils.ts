@@ -264,78 +264,9 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
     }
   }
 
-  absolutelyPositionMissingTags();
+  absolutelyPositionExistingTags();
   return idToXpath;
 };
-
-function absolutelyPositionMissingTags() {
-  /*
-  Some tags don't get displayed on the page properly
-  This occurs if the parent element children are disjointed from the parent
-  In this case, we absolutely position the tag to the parent element
-  */
-  const distanceThreshold = 500;
-
-  const tags: NodeListOf<HTMLElement> = document.querySelectorAll(tarsierSelector);
-  tags.forEach((tag) => {
-    const parent = tag.parentElement as HTMLElement;
-    const parentRect = parent.getBoundingClientRect();
-    let tagRect = tag.getBoundingClientRect();
-
-    const parentCenter = {
-      x: (parentRect.left + parentRect.right) / 2,
-      y: (parentRect.top + parentRect.bottom) / 2,
-    };
-
-    const tagCenter = {
-      x: (tagRect.left + tagRect.right) / 2,
-      y: (tagRect.top + tagRect.bottom) / 2,
-    };
-
-    const dx = Math.abs(parentCenter.x - tagCenter.x);
-    const dy = Math.abs(parentCenter.y - tagCenter.y);
-    if (dx > distanceThreshold || dy > distanceThreshold || !elIsClean(tag)) {
-      tag.style.position = "absolute";
-
-      // Ensure the tag is positioned within the screen bounds
-      let leftPosition = Math.max(0, parentRect.left - (tagRect.right + 3 - tagRect.left));
-      leftPosition = Math.min(leftPosition, window.innerWidth - (tagRect.right - tagRect.left));
-      let topPosition = Math.max(0, parentRect.top + 3); // Add some top buffer to center align better
-      topPosition = Math.min(topPosition, Math.max(window.innerHeight, document.documentElement.scrollHeight) - (tagRect.bottom - tagRect.top));
-
-      tag.style.left = `${leftPosition}px`;
-      tag.style.top = `${topPosition}px`;
-
-      parent.removeChild(tag);
-      document.body.appendChild(tag);
-    }
-
-    tags.forEach((otherTag) => {
-      if (tag === otherTag) return;
-      let otherTagRect = otherTag.getBoundingClientRect();
-
-      // reduce font of this tag and other tag until they don't overlap
-      let fontSize = parseFloat(window.getComputedStyle(tag).fontSize.split("px")[0]);
-      let otherFontSize = parseFloat(window.getComputedStyle(otherTag).fontSize.split("px")[0]);
-
-      while (
-        (tagRect.left < otherTagRect.right &&
-          tagRect.right > otherTagRect.left) &&
-        (tagRect.top < otherTagRect.bottom &&
-          tagRect.bottom > otherTagRect.top) &&
-        fontSize > 7 && otherFontSize > 7
-      ) {
-        fontSize -= 0.5;
-        otherFontSize -= 0.5;
-        tag.style.fontSize = `${fontSize}px`;
-        otherTag.style.fontSize = `${otherFontSize}px`;
-
-        tagRect = tag.getBoundingClientRect();
-        otherTagRect = otherTag.getBoundingClientRect();
-      }
-    });
-  });
-}
 
 window.removeTags = () => {
   const tags = document.querySelectorAll(tarsierSelector);
@@ -416,5 +347,29 @@ window.revertVisibilities = () => {
     } else {
       element.style.removeProperty('visibility');
     }
+  });
+}
+
+function absolutelyPositionExistingTags() {
+  const tags: NodeListOf<HTMLElement> = document.querySelectorAll(tarsierSelector);
+
+  tags.forEach((tag) => {
+    const parent = tag.parentElement as HTMLElement;
+    const parentRect = parent.getBoundingClientRect();
+    let tagRect = tag.getBoundingClientRect();
+
+    tag.style.position = "absolute";
+
+    let leftPosition = parentRect.left;
+    leftPosition = Math.min(leftPosition, window.innerWidth - tagRect.width);
+
+    let topPosition = Math.max(0, parentRect.top);
+    topPosition = Math.min(topPosition, Math.max(window.innerHeight, document.documentElement.scrollHeight) - tagRect.height);
+
+    tag.style.left = `${leftPosition}px`;
+    tag.style.top = `${topPosition}px`;
+
+    parent.removeChild(tag);
+    document.body.appendChild(tag);
   });
 }
