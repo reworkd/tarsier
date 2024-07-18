@@ -1,11 +1,11 @@
 ---------------------------------------------------------------------------------------------------------------------------------
-[ @ 0 ]                                                                                     ㅁ
+[ @ 0 ]                                                                                     ☐
       CLIFFORD                                Start your job search here                                                       ☐
       CHANCE
-      Careers                               [ # 1 ] ]
+      Careers                               [ # 1 ]
 
-                                                                ☐                                     ㅁ
-                   [ 2 ] About Us    [ 3 ] Working At Clifford Chance [ @ 4 ] Our People [ @ 5 ] Meet Us   [ @ 6 ] Apply
+                                 ☐                               ☐                                  0
+                     [ 2 ] About Us    [ 3 ] Working At Clifford Chance [ @ 4 ] Our People [ @ 5 ] Meet Us [ @ 6 ] Apply
 
 
 
@@ -18,17 +18,19 @@
 
 
           [ 8 ] JR - 5218
-          [ 9 ] London    [ 10 ] Human Resources    [ 11 ] Permanent
+          [ 9 ] London   [ 10 ] Human Resources    [ 11 ] Permanent
 
-                    [ @ 12 ] APPLY                   [ @ 13 ] SHORTLIST □
+                    [ @ 12 ] APPLY                   [ @ 13 ] SHORTLIST
 
                                                                                            [ @ 92 ]
-                                                                                              **[ 93 ] Find out about**
+                                                                                             [ 93 ] Find out about
                                                                                              **our affinity networks**
       **[ 14 ] Job Description**
 
       [ 15 ] The Role
+
       [ 16 ] Job Overview
+
       [ 17 ] You will have overall responsibility for ensuring the successful roll out and
       implementation of the Global HR Tech Roadmap. Critical to your success will be the ability
       to build relationships with the Global HR Leadership Team ( Chief People Officer, Regional
@@ -36,24 +38,27 @@
       advise on technical solutions to enable the cost - effective delivery of HR services to the firm
       and throughout the employee lifecycle.
 
-      [ 18 ] Solutions must align to our People & Talent Strategy, which underpins the firm's goals READ MORE
+      [ 18 ] Solutions must align to our People & Talent Strategy, which underpins the firm's goals [ $ 94 ] READ MORE
       to attract, retain and develop exceptional talent. Whilst our approach is global, we must
       ensure that our processes and employee experiences are as seamless as possible, driving
       self - service and optimising automation.
-      [ 19 ] This role straddles both the Global HR and Global IT functions and you will be working **[ 94 ] Hear from**
+      [ 19 ] This role straddles both the Global HR and Global IT functions and you will be working **[ 95 ] Hear from our**
       with functional stakeholders as well as solution architects and internal subject matter
-      experts, to continually transform our HR operations globally.                          **our people**
-      [ 20 ] You will have line management responsibility for the People Services Systems Team, [ 95 ] The Clifford Chance Careers
+      experts, to continually transform our HR operations globally.                          **people**
+
+      [ 20 ] You will have line management responsibility for the People Services Systems Team, [ 96 ] The Clifford Chance Careers
       ensuring a high level of engagement and performance, fostering their ongoing development, Podcast features our colleagues from
       and promoting a mindset of continual improvement.                                      across the globe, discussing career
                                                                                              advice, new trends in the industry and
-      [ 21 ] Who you will work with                                                          giving unique insights into their personal
+      [ 21 ] Who you will work with
+                                                                                             giving unique insights into their personal
                                                                                              journeys.
       [ 22 ] You will work closely with the Global Head of People Services Delivery and the Global
       HR Product Manager. You will partner with the Global HR leadership, functional business
-                                                                                                [ @ 96 ] READ MORE
+                                                                                                [ @ 97 ] READ MORE
       owners, Global HR IT systems, HR Data & Analytics, Risk & Compliance, Data Privacy, and
       functional business owners, as well as end user groups.
+
       [ 23 ] What you will be responsible for
       [ 24 ] Working within a global team, you will be responsible for the alignment, testing and
       implementation of new functional HR system processes, with the aim of optimising the end
@@ -78,8 +83,8 @@
           [ 31 ] Provide project support to the Global Head of People Services and the Global HR
           Product Manager.
 
-        ⚫ [ 32 ] Work with the Global Head of People Services to ensure that financial discipline
-          is maintained through regular budgetary oversight.
+        ⚫ [ 32 ] Work with the Global Head of People Services to ensure that financial discipline is
+          maintained through regular budgetary oversight.
           [ 33 ] Horizon scanning to ensure that advancements in service, technology and
           employee experience are at the forefront of our decision making. Identifying future
           opportunities for implementation that support the People Strategy.
@@ -90,30 +95,30 @@
 
           [ 36 ] Define requirements for system integrations and liaise with relevant technical
           teams to support implementation.
-          [ 37 ] Document system design and processes for governance, compliance, and
-          general reference.
+          [ 37 ] Document system design and processes for governance, compliance, and general
+          reference.
+
           [ 38 ] Oversee testing, including but not limited to the creation of testing templates, UAT
           users query resolution and defect tracking.
           [ 39 ] Serve as the escalation point for technical HR system matters that cannot be
           resolved by the Global HR Service Delivery Team. Working with the Global HR IT
           Team to ensure timely resolution.
       [ 40 ] Reporting & Data Management
-        ⚫ [ 41 ] Ensure that consideration is given to any possible system changes that may
+          [ 41 ] Ensure that consideration is given to any possible system changes that may
           impact the storing, reporting and transfer of employee data.
           [ 42 ] Lead the development, introduction, and regular review of a standardised suite of
           people data reporting templates for use throughout Global HR.
-        ⚫ [ 43 ] Work with the Global HR Analytics Team to ensure the distribution of data to
+          [ 43 ] Work with the Global HR Analytics Team to ensure the distribution of data to
           internal stakeholders as required, with regular reviews to ensure data sets received
           continue to best achieve their intended purpose.
-
-          [ 44 ] Complete regular audits of system data to support the production of first - class
+        ⚫ [ 44 ] Complete regular audits of system data to support the production of first - class
           management information for our senior leadership.
       [ 45 ] Team Management
           [ 46 ] Lead and supervise the day - to - day activities of the People Services Systems
           Team.
 
-        ⚫ [ 47 ] Provide effective and ongoing feedback and support as required.
-        ⚫ [ 48 ] Responsible for the team's performance, output, and deliverables.
+          [ 47 ] Provide effective and ongoing feedback and support as required.
+          [ 48 ] Responsible for the team's performance, output, and deliverables.
 
       **[ 49 ] Qualifications**
 
@@ -122,17 +127,15 @@
           [ 52 ] Strong project management skills, with the ability to think strategically and handle
           non - routine problems, analysis, and decisions. You will have strong attention to detail
           with a focus on ensuring data integrity.
-        .
           [ 53 ] Good system acumen, with the ability to troubleshoot technical issues, as well as
           develop and implement strategies to address problem areas, with the employee
           experience at the forefront of solutioning.
-        •
-          [ 54 ] The ability to work in a fast paced and forward - looking organisation which
-          requires pro - active thinkers, with initiative to help advance the People Strategy and the
-          wider objectives of the firm.
+          [ 54 ] The ability to work in a fast paced and forward - looking organisation which requires
+          pro - active thinkers, with initiative to help advance the People Strategy and the wider
+          objectives of the firm.
           [ 55 ] Strong interpersonal skills, with flexible and effective communication skills. You
           will be able to communicate complex information to non - specialists.
-          [ 56 ] Ability to build strong working relationships with a variety of stakeholders across
+        ⚫ [ 56 ] Ability to build strong working relationships with a variety of stakeholders across
           the business, including Global HR leadership and key business functions.
           [ 57 ] Comfortable operating in a hybrid working environment with a high level of
           autonomy within a strategic framework. Ability to work effectively with remote teams
@@ -142,7 +145,6 @@
       [ 59 ] Experience Required
           [ 60 ] You will have previous experience of managing a team, including performance
           reviews and performance management.
-
           [ 61 ] Previous experience of HRIS systems, including Workday, within a professional
           services or similar complex, matrix environment is preferred.
           [ 62 ] Working experience of Workday, either through implementation or optimisation,
@@ -153,8 +155,8 @@
           [ 63 ] Experience with HR Technology systems vendor management.
           [ 64 ] Experience or exposure to having implemented or supported SaaS system.
       [ 65 ] How we will support you
-      [ 66 ] From your first day with us, you will have varied opportunities to continuously grow
-      and development your skills and knowledge. From formal training, informal coaching and
+      [ 66 ] From your first day with us, you will have varied opportunities to continuously grow and
+      development your skills and knowledge. From formal training, informal coaching and
       mentoring through to skills - based and technical training and on the job learning.
 
       **[ 67 ] Company Description**
@@ -186,12 +188,12 @@
       [ 76 ] Equal opportunities statement
       [ 77 ] At Clifford Chance, we understand that our true asset is our people. Inclusion is good
       for our team and their families, our firm and society.
-      [ 78 ] We are committed to treating all employees and applicants fairly and equally
-      regardless of their gender, gender identity and expression, marital or civil partnership status,
-      race, colour, national or ethnic origin, social or economic background, disability, religious
-      belief, sexual orientation, or age. This applies to recruitment and selection, terms and
-      conditions of employment including pay, promotion, training, transfer and every other aspect
-      of employment.
+      [ 78 ] We are committed to treating all employees and applicants fairly and equally regardless
+      of their gender, gender identity and expression, marital or civil partnership status, race,
+      colour, national or ethnic origin, social or economic background, disability, religious belief,
+      sexual orientation, or age. This applies to recruitment and selection, terms and conditions
+      of employment including pay, promotion, training, transfer and every other aspect of
+      employment.
       [ 79 ] We have a variety of flourishing employee networks. These networks are a place for
       colleagues to share experiences and advocate for change wherever they see an opportunity
       for improvement.
@@ -200,10 +202,10 @@
       [ 81 ] Find out more about our inclusive culture [ @ 83 ] here [ 82 ].
       [ 84 ] # IND1 # LI - JS1
 
-          [ @ 85 ] Apply          [ @ 86 ] Shortlist ☐
+          [ @ 85 ] Apply        [ @ 86 ] Shortlist
 
 
-             Clifford Chance London: Questions with ...
+             Clifford Chance London: Questions with ..
                                                            Share
 
 
@@ -211,31 +213,31 @@
 
 
 
-       Watch on ►YouTube
+       Watch on   YouTube
 
 
-      [ $ 87 ] SHARE [ @ 89 ] ☐ [ @ 88 ] ☐ [ @ 90 ] □ [ @ 91 ] @
+      [ $ 87 ] SHARE [ @ 89 ] □ [ @ 88 ] □ [ @ 90 ]   [ @ 91 ] @
 
 
 
 
-      **[ 97 ] Join our community**
-      **of bright minds**                                 BE PROUD.
+      **[ 98 ] Join our community of**
+      **bright minds**                                    BE PROUD.
                                                           BE CLIFFORD CHANCE
-      [ 98 ] Can't find the role you are looking for? Sign up to our
+      [ 99 ] Can't find the role you are looking for? Sign up to our
       talent community today
 
-          [ @ 99 ] REGISTER
+          [ @ 100 ] REGISTER
 
 
 
-     [ @ 103 ] About [ @ 104 ] Accessibility [ @ 105 ] Legal [ @ 106 ] Contact [ @ 107 ] Privacy      Start your job search here
-                                                                                                                             Π
-     Us          Statement            Statements        us           policy                      [ # 108 ]
+     [ @ 104 ] About [ @ 105 ] Accessibility [ @ 106 ] Legal [ @ 107 ] Contact [ @ 108 ] Privacy      Start your job search here
+                                                                                                                              ☐
+     Us          Statement            Statements        us           policy                      [ # 109 ]
 
 
 
-     [ 110 ] Connect with us: [ @ 112 ] □ [ @ 111 ] □ [ @ 113 ]
-     [ 114 ] Clifford Chance
+     [ 111 ] Connect with us: ☐ [ @ 113 ] ☐ [ @ 112 ] ☐ [ @ 114 ]
+     [ 115 ] Clifford Chance
 ---------------------------------------------------------------------------------------------------------------------------------
-Token count: 2795
+Token count: 2785
