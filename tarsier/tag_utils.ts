@@ -275,10 +275,6 @@ function insertTags(elementsToTag: HTMLElement[], tagLeafTexts: boolean): { [key
     idToXpath[idNum] = getElementXPath(el);
 
     let idSpan = create_tagged_span(idNum, el);
-    if (idNum === 22) {
-      console.log(el);
-      console.log(idNum);
-    }
 
     if (isInteractable(el)) {
       if (isTextInsertable(el) && el.parentElement) {
@@ -289,7 +285,6 @@ function insertTags(elementsToTag: HTMLElement[], tagLeafTexts: boolean): { [key
       idNum++;
     } else if (tagLeafTexts) {
       for(let child of Array.from(el.childNodes).filter(isNonWhiteSpaceTextNode)) {
-        // This is a text node with non-whitespace text
         let idSpan = create_tagged_span(idNum, el);
         el.insertBefore(idSpan, child);
         idNum++;
