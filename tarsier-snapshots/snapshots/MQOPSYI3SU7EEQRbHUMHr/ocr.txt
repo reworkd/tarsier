@@ -1,106 +1,107 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 1 ]                 [ # 31
-                                                                    [ $ 5                                                                              [ $ 8 ]             [ $ 9 ]
-                                                                       ] Solicitations ✓    [ @ 6 ]    [ @ 7 ] Advanced
+[ @ 1 ]
+                                                                                                                                                       [ $ 8 ]              [ $ 9 ]
+                                                                   [ $ 5 ] Solicitations ✓ [ @ 6 ]     [ @ 7 ] Advanced
   **NJ START**                       Search ...                                                                                                 Supplier Registration     Sign In
 
 
-                 + [ 11 ] Advanced Search
+                + [ 11 ] Advanced Search
 
 
-       [ 12 ] Results
+        [ 12 ] Results
 
-                                                         [ 13 ] 1-15 of [ 14 ] [ 15 ] < [ 1 [ 17 ] [ 18 ] >>                                 [ @ 21 ]    [ @ 20 ]    [ @ 19 ] A
-                [ 22 ] Bid                               [ 24 ] Contract / Bla                                       [ 27 ] Bid           [ 28 ] Bid Holder   [ 29 ] Awarded
-                Solicitation #       [ 23 ] Alternate Id ◇ nket #            [ 25 ] Buyer        [ 26 ] Description ◇                    List                Vendor
-                                                                                                                     Opening Date                                   ( s )
+                                                            [ 13 ] 1-15 of [ 14 ] [ 15 ] < [ 16 [ 17 ] [ 18 ] >>                                  [ @ 21 ]  [ @ 20 ]  [ 19 ]
+                [ 22 ] Bid                               [ 24 ] Contract / Blan                                      [ 27 ] Bid Opening  [ 28 ] Bid Holder    [ 29 ] Awarded
+                          #          [ 23 ] Alternate Id ◇ ket #             [ 25 ] Buyer    ◇ [ 26 ] Description ◇  Date                List
+                Solicitation                                                                                                                                 Vendor ( s )
                                                                                                  [ 32 ] T2761 Non-
                                                                                                  OEM Automotive
                                                                                                  Parts and
-                [ @ 30 ] 24DP-                                               [ 31 ] Geoff                            [ 33 ] 03/19/2024
-                P00965                                                                           Accessories for Light 14:00:59
+                                                                             [ 31 ] Geoff                            [ 33 ] 03/19/2024
+                [ @ 30 ] 24DPP00965                                                              Accessories for Light 14:00:59
                                                                              Longmuir            Duty Vehicles ( Class
                                                                                                  4 or Lower, 15,000
                                                                                                  lbs
-                                                                                                 [ 36 ] T2188 - Parts
-                [ @ 34 ] 24DP-                                               [ 35 ] Nicholas Mele & Repairs for Road [ 37 ] 02/29/2024
-                P00961                                                                           Maintenance         14:00:59
+                                                                                                 [ 36 ] T2188 Parts &
+                                                                                                 Repairs for Road    [ 37 ] 02/29/2024
+                [ @ 34 ] ] 24DPP00961                                        [ 35 ] Nicholas Mele Maintenance
+                                                                                                                     14:00:59
                                                                                                  Equipment
-                                                                                                 [ 40 ] T2187 Parts
-                [ @ 38 ] 24DP-                                               [ 39 ] Steven       and Repairs for     [ 41 ] 02/29/2024
-                P00960                                                       Cummins             Lawn and Grounds    14:00:59
+                                                                                                 [ 40 ] T2187 - Parts
+                                                                             [ 39 ] Steven       and Repairs for     [ 41 ] 02/29/2024
+                [ @ 38 ] 24DPP00960                                          Cummins             Lawn and Grounds    14:00:59
                                                                                                  Equipment
-                                                                                                 [ 44 ] T2102
-                                                                                                 Vehicles, Trucks,
-                [ @ 42 ] 24DP-                                               [ 43 ] Steven       Class 4,            [ 45 ] 03/13/2024
-                P00956                                                       Cummins                                 14:00:59
+                                                                                                 [ 44 ] T2102 Vehicles,
+                                                                             [ 43 ] Steven       Trucks, Class 4,    [ 45 ] 03/13/2024
+                [ @ 42 ] 24DPP00956                                          Cummins                                 14:00:59
                                                                                                  Utility / Dump, with
                                                                                                  Snow Plow Option
                                                                                                  [ 48 ] T2959 Utility
                                                                                                  Truck 11,000 lb
                                                                                                  GVWR Extended
-                [ @ 46 ] 24DP-                                               [ 47 ] Nicholas Mele Cab / Super SRW Gas [ 49 ] 03/28/2024
-                P00942                                                                                               14:00:59
+                                                                             47 ] Nicholas Mele                      [ 49 ] 03/28/2024
+                [ @ 46 ] 24DPP00942                                          [                   Cab / Super SRW Gas 14:00:59
                                                                                                  Powered 4WD with
                                                                                                  9' Body &
                                                                                                  Accessories
                                                                                                  [ 52 ] T3120- Web
                                                                                                  Design,
-                                                                                                 Development,
-                [ @ 50 ] 24DP-                                               [ 51 ] Michael J                        [ 53 ] 03/06/2024
-                P00941                                                                           Hosting and         14:00:59
+                                                                                                 Development,         53 ] 03/06/2024
+                                                                             [ 51 ] Michael J          and           [
+                [ @ 50 ] 24DPP00941                                                              Hosting             14:00:59
                                                                              Snyder              Maintenance: BPU
                                                                                                  Clean Energy
                                                                                                  Program
                                                                                                  [ 56 ] T0002 Bottled
-                [ @ 54 ] 24DP-                                                                   Spring Water and    [ 57 ] 02/23/2024
-                P00931                                                       [ 55 ] Haley Billings Cooler Rental -   14:00:59
+                                                                                                 Spring Water and    [ 57 ] 02/23/2024
+                [ @ 54 ] 24DPP00931                                          [ 55 ] Haley Billings Cooler Rental -   14:00:59
                                                                                                  Statewide
                                                                                                  [ 60 ] T3149 - New
-                [ @ 58 ] 24DP-                                                59 ] Brenda Tran   Jersey Next         [ 61 ] 02/23/2024
-                P00927                                                       [                   Generation          14:00:59
+                                                                                                 Jersey Next         [ 61 ] 02/23/2024
+                [ @ 58 ] 24DPP00927                                          [ 59 ] Brenda Tran  Generation          14:00:59
                                                                                                  Assessments - DOE
-                                                                                                 [ 64 ] T0472 - Unit
-                [ @ 62 ] 23DP-                                                                   Dose Pharmaceutical [ 65 ] 03/22/2024
-                P00915                                                       [ 63 ] Kathy Tran                       14:00:59
+                                                                                                 [ 64 ] T0472- Unit
+                                                                                                 Dose Pharmaceutical [ 65 ] 03/22/2024
+                [ @ 62 ] 23DPP00915                                          [ 63 ] Kathy Tran                       14:00:59
                                                                                                  Services
                                                                                                  [ 68 ] T1054
-                [ @ 66 ] 24DP-                                               [ 67 ] Christine    Cigarette Tax       [ 69 ] 03/08/2024
-                P00912                                                       Murphy              Decal / Stamps for  14:00:59
+                                                                             [ 67 ] Christine    Cigarette Tax       [ 69 ] 03/08/2024
+                [ @ 66 ] 24DPP00912                                                              Decal / Stamps for  14:00:59
+                                                                             Murphy
                                                                                                  Division of Revenue
                                                                                                  [ 72 ] T2794 Dental
                                                                                                  Program: State
-                [ @ 70 ] 23DP-                                                                   Health Benefits     [ 73 ] 02/28/2024
-                P00888                                                       [ 71 ] Brenda Tran
-                                                                                                 Program and School  14:00:59
+                                                                                                 Health Benefits     [ 73 ] 02/28/2024
+                [ @ 70 ] 23DPP00888                                          [ 71 ] Brenda Tran         and School   14:00:59
+                                                                                                 Program
                                                                                                  Employees' Health
                                                                                                  Benefits Program
-                                                                                                 [ 76 ] T2724- Snow   77 ] 02/23/2024
-                [ @ 74 ] 23DP-                                               [ 75 ] OLUMIDE      Removal and Salting [
-                P00844                                                       OLUBANJO                                14:00:59
+                                                                             75 ] OLUMIDE        [ 76 ] T2724- Snow  [ 77 ] 02/23/2024
+                 @ 74 ] 23DPP00844                                           [
+                [                                                            OLUBANJO            Removal and Salting 14:00:59
                                                                                                  Services- Statewide
                                                                                                  [ 80 ] T1775- State
                                                                                                  Disbursement Unit
-                [ @ 78 ] 23DP-                                               [ 79 ] Bobbe        Child               [ 81 ] 04/19/2024
-                P00838                                                                                Support
-                                                                             Cegerenko                               14:00:59
+                                                                             [ 79 ] Bobbe                            [ 81 ] 04/19/2024
+                [ @ 78 ] 23DPP00838                                                              Child Support       14:00:59
+                                                                            Cegerenko
                                                                                                  Payment / Receipt
                                                                                                  Processing
-                                                                                                 [ 84 ] T1372-
-                                                                                                 HVAC,
-                [ @ 82 ] 23DP-                                               [ 83 ] DOUGLASS     REFRIGERATION       [ 85 ] 02/28/2024
-                P00822                                                       LANG                AND BOILER          14:00:59
-                                                                                                 SERVICES
+                                                                                                 [ 84 ] T1372 - HVAC,
+                                                                                                 REFRIGERATION
+                                                                             [ 83 ] DOUGLASS     AND BOILER          [ 85 ] 02/28/2024
+                [ @ 82 ] ] 23DPP00822                                        LANG                                    14:00:59
+                                                                                                 SERVICES -
                                                                                                  STATEWIDE
                                                                                                  [ 88 ] T1426-
                                                                                                  Administration of
-                [ @ 86 ] 23DP-                                               [ 87 ] Maria                and         [ 89 ] 02/21/2024
-                                                                                                 Deficient
-                P00796                                                       Maguire                                 14:00:59
-                                                                                                 Delinquent Tax
+                                                                                                         and         [ 89 ] 02/21/2024
+                [ @ 86 ] ] 23DPP00796                                        [ 87 ] Maria Maguire Deficient
+                                                                                                          Tax        14:00:59
+                                                                                                 Delinquent
                                                                                                  Accounts
-                                                         [ 90 ] 1-15 of [ 91 ] [ 92 ] < [ 93 [ 94 ] [ 95 ] >>                                [ @ 98 ]    [ @ 97 ]    [  96 ] A
+                                                            [ 90 ] 1-15 of 1 [ 91 ] [ 92 ] < [ 93 [ 94 ] [ 95 ] >>                               [ @ 98 ]   [ @ 97 ]  [ 96 ]
 
            [ 99 ]
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1406
+Token count: 1375

@@ -1,11 +1,11 @@
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ $ 1 ] Search                [ @ 2 ]  Pay My Bill      [ @ 3 ] Careers      [ @ 4 ] Give Now        [ @ 5 ] VCU Health MyChart       [ @ 6 ]  Contact
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ $ 1 ] Search                      [ @ 2 ] Pay My Bill     [ @ 3 ] Careers     [ @ 4 ] Give Now      [ @ 5 ] VCU Health MyChart       [ @ 6 ] Contact
 
 
-        **[ @ 7 ] ⑪VCU Health [ @ 8 ]**                             Provider      [ @ 9 ] Our Services     [ @ 10 ] Locations      [ $ 11 ]      [ $ 12 ] = Explore
+         **@ 7VCU Health**                                   [ @ 8 ] Find a Provider   [ @ 9 ] Our Services    [ @ 10 ] Locations    [ $ 11 ]     [ $ 12 ] = Explore
 
 
-         [ @ 14 ] Home    [ @ 15 ] Locations [ 16 ] Location Details
+         [ @ 14 ] Home  [ @ 15 ] Locations [ 16 ] Location Details
 
          **[ 17 ] Mayland Medical**
          **Center**
@@ -19,56 +19,57 @@
          **[ 24 ] Services**
 
               [ 25 ] Adolescent Medicine
-               [ 26 ] Endocrinology
+              [ 26 ] Endocrinology
               [ 27 ] Family Medicine
               [ 28 ] Genetics
-              [ 29 ] Infectious Disease
-              [ 30 ] Internal Medicine
+            ⚫ [ 29 ] Infectious Disease
+            ⚫ [ 30 ] Internal Medicine
               [ 31 ] Nephrology
               [ 32 ] Pulmonary
-            ⚫ [ 33 ] ] Surgical Oncology
-                    24
+              [ 33 ] Surgical Oncology
+                     d
             VCU Health at Mayland Medi ...              Michaels
             3470 Mayland Ct, Henrico, VA 23233 Directions
-           4.2         21 reviews                 Costco Wholesale        Huron Ave
-            View larger map                                                      L
-                             Mayland Dr        Westpark
-         Virginia Board                  Shopping Center       Pearson Mazda   Sam
-         of Medicine                   Cracker Barrel      Pella Windows &
+           4.2          21 reviews                Costco Wholesale        Huron Ave
+            View larger map                                                      Ir
+                             Mayland Dr        Westpark               Mazda
+         Virginia Board                  Shopping Center       Pearson         Sam
+         of Medicine                   Cracker Barrel      Pella Windows
+                                                                       &
                                        Old Country Store   Doors of Richmond
                                                 VCU Health at Mayland
-         64                                     Medical Center
-                                Rd                        **Mayland**
-                                                 Dr             Dr
+         64                     .               Medical Center
+                               Rd                         **Mayland**   &
+                                                 Dr            Dr
 
-                             Gaskins                                Spendthrift
-                                              Bryson
-                                                               Copper Mill Apartments
-
-            Deep                       Bohollow Dr. Meadowview Avana Copper Spring
+                             Gaskins          Bryson                Spendthrift
+               Ru                                              Copper Mill Apartments
+               P
+            Deep                       Bohollow Dr Meadowview Avana Copper Spring'
                 Holiday                                  Rd
-                Dogwood Terrace                                               + to
-                                             Quarter Mill Rd
+                Dogwood Terrace
+                                             Quarter Mill
+                                                   Rd
                               Discovery Village
-                on       Grand At the West ErGoogle
+                         Grand At the West ErGoogle
                                     Keyboard shortcuts Map data © 2023 Google Terms Report a map error
 
 
                  **VCU Health.**
-                                                                                  [ @ 39 ] About VCU    [ @ 46 ] Notice of Non - discrimination
+                                                                                  [ @ 39 ] About VCU   [ @ 46 ] Notice of Non - discrimination
                                                                                   Health
-                                                                                                        [ @ 47 ] Notice of Privacy Practices
-           **[ @ 34 ]** 1-800-762-6161                                            [ @ 40 ] Careers
-                                                                                                        [ @ 48 ] Patient Bill of Rights and Responsibilities
+                                                                                                       [ @ 47 ] Notice of Privacy Practices
+            **@ 34 ]** 1-800-762-6161                                             [ @ 40 ] Careers
+                                                                                                       [ @ 48 ] Patient Bill of Rights and Responsibilities
                                                                                   [ @ 41 ] For Employees
-           [ @ 35 ] ] [ @ 36 ] ] [ [ @ 37 ]                                                            [ [ @ 49 ] Web Privacy Statement
+           [ @ 35 ] [ @ 36 ] [ @ 37 ]                                                                  [ @ 49 ] Web Privacy Statement
                                                                                   [ @ 42 ] Contact Us
-             f     X        O [ 38 ] © 2023 VCU Health. All rights                                      [ @ 50 ] Social Media Guidelines
+            f X             O [ 38 ] © 2023 VCU Health. All rights                                     [ @ 50 ] Social Media Guidelines
            reserved.                                                              [ @ 43 ] Giving
-                                                                                                        [ @ 51 ] VCU Health System Virginia FOIA Requests
+                                                                                                       [ @ 51 ] VCU Health System Virginia FOIA Requests
                                                                                   [ @ 44 ] News Center
-                                                                                  [ @ 45 ] VCU                                                                   ?
+                                                                                  [ @ 45 ] VCU                                                                  ?
                                                                                                                                                               [ 13 ] Need
                                                                                                                                                                 help
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 719
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 716
