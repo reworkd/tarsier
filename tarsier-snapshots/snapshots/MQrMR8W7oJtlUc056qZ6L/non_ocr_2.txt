@@ -1,0 +1,92 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+[@0] Nexperia
+
+
+  [@1] Products [@2] Applications [@3] Quality [@4] Support [@5] Shop [@6] Careers [@7] About [@8] News [@9] Blogs
+[@10] Shopping cart
+                                                                                                                           [@11] My Nexperia
+
+
+
+                 [@13] Search
+
+        [@15] Home [@16] Diodes [@17] Automotive diodes [@18] Automotive Zener diodes [@19] BZX585-C6V8-Q
+
+
+                                           **[21] BZX585-C6V8-Q**
+                                           [22] Voltage regulator diodes
+                                               [$23] Automotive qualified
+                                           [24] General-purpose Zener diodes in an SOD523 SC-79 ultra small flat lead Surface-Mounted Device SMD plastic package.
+
+                                                 [@25] Download datasheet   [@26] Order product
+
+
+        [@27] Product details [@28] Documentation [@29] Support [@30] Ordering
+
+
+        [31] Features and benefits                                            [38] Applications
+             [32] Non-repetitive peak reverse power dissipation 40 W               [39] General regulation functions
+             [33] Total power dissipation 300 mW
+             [34] Wide working voltage range nominal 2. 4 V to 75 V E24 range
+             [35] Two tolerance series 2 and 5
+             [36] Low differential resistance
+             [37] Qualified according to AEC-Q101 and recommended for use in automotive
+             applications
+
+        [40] Parametrics
+
+
+         [41] Type number version   name       mm       V        mA      -         V       mA       V       mW      W       C       [73] Configuration
+                        [42] Package [43] Package [44] Size nom] [48] I            max]    [55] I max] min] [64] P [67] P [70] T max]
+                                                        [45] V Z [47] Z           [52] V
+                                                                 Z [50] Z [51] Tolerance   F [57] F          tot [66] tot ZSM [69] ZSM j [72] j
+                                                                                   Z [54] Z         [58] V Z [60] Z
+
+         [74] BZX585-C6V8-Q [75] SOD523 [76] SC-79 [77] 1. 2 x 0. 8 [78] 6. 8 [79] 5 [80] 5 [81] 7. 14 [82] 200 [83] 6. 46 [84] 300 [85] 40 [86] 150 [87] single
+                                               x 0. 6
+
+        [88] Package
+
+         [89] Type number 12NC                                 [91] Status [92] Marking [93] Package information soldering         [96] Packing
+                        [90] Orderable part number, Ordering code                            [94] Package      [95] Reflow-/Wave
+
+         [97] BZX585-C6V8-Q [98] BZX585-C6V8-QX                [100] Active [101] H2         [@103] SOD523     [@104] REFLOW_BG-BD-1 [@105] SOD523_115
+                         9346 674 29115
+                                                                               [@102] SC-79
+                                                                               SOD523
+
+        [106] Environmental information
+         [107] Type number         [108] Orderable part number       [109] Chemical content     [110] RoHS                [111] RHF-indicator
+         [112] BZX585-C6V8-Q       [113] BZX585-C6V8-QX              [@114] BZX585-C6V8-Q
+
+        [@117] Quality and reliability disclaimer
+
+        [118] Series
+          [@119] BZX585-Q series - Voltage regulator diodes
+          [@120] BZX585-Q series -
+          [@121] BZX585-Q Series - Voltage regulator diodes
+
+
+        **[122] Efficiency wins**
+
+        [128] Products                                 [138] Tools Support                           [144] About Nexperia
+        [@129] Bipolar transistors                     [@139] Packages                               [@145] Distributor locations
+        [@130] Diodes                                  [@140] Quality portal                         [@146] Careers
+        [@131] ESD protection, TVS, signal             [@141] Request IMDS upload                    [@147] Contact
+        conditioning
+        [@132] MOSFETs
+        [@133] SiC MOSFETs
+        [@134] GaN FETs
+        [@135] IGBTs
+        [@136] Analog Logic ICs
+        [@137] Automotive
+                                                       [@142] Documentation center                   [@148] Monthly newsletter
+                                                       [@143] Technical support
+
+
+
+
+
+
+                                              [@149] Privacy notice [@150] Terms of use [@151] Terms and Conditions [@152] About [@153] Contact us
+--------------------------------------------------------------------------------------------------------------------------------------------------------

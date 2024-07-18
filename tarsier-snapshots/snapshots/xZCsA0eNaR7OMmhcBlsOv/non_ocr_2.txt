@@ -1,0 +1,77 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[@3] Appointments [@4] Billing [@5] Clinical Trials                                                                                                         [@6] Careers [@7] MyChart
+
+
+             **[@8] Find a Doctor**                                                             **[@9] Services**                                                **[@10] Locations**                                                 **[@11] Patients Visitors**                                                                                                                                                                                [$14] Search site
+
+
+
+     **[15] Location Details**
+
+     [@16] Home [@17] Find A Location                                                            [18] UVA Medical Park Zion Crossroads
+
+
+     **[19] UVA Medical Park Zion Crossroads**
+     [20] 1015 Spring Creek Parkway
+     [21] Zion Crossroads, VA 22942                                                         [@22] Directions
+                        [@23] 434. 924. 0000
+     [@24] 434. 924. 5227
+     [25] Location hours
+            [26] Monday 7 15 AM - 5 00 PM
+            [27] Tuesday 7 15 AM - 5 00 PM
+            [28] Wednesday 7 15 AM - 5 00 PM
+            [29] Thursday 7 15 AM - 5 00 PM
+            [30] Friday 7 15 AM - 5 00 PM
+            [31] Saturday Closed
+            [32] Sunday Closed
+     [33] Lab [34] Lab hours hours Monday - Friday, 8 a. m. - 5 p. m.
+     [35] Free [36] Free parking parking Convenient, on-site patient parking.
+
+     **[49] Onsite Conveniences**
+
+     [50] UVA Medical Park Zion Crossroads offers varying levels of care, from diagnostic services to post-procedure
+     follow-up and prevention. Services that were once available only at UVA are now offered right in your
+     community. This building is located just off I-64 at exit 136, with ample parking and easy access.
+     [51] Available Services
+            [@52] Imaging
+            [@53] Pharmacy
+            [@54] Labs
+     **[55] UVA Primary and Specialty Care Zion Crossroads**
+
+     [56] At our Primary and Specialty Care clinic, our primary [61] primary care care services will be temporarily closing as of July 31,
+     2022, but we'll continue to provide specialty care at this location. To receive uninterrupted, quality healthcare,
+     call one of our other practices for an appointment. These clinics are accepting new patients UVA [@62] UVA Medical Medical
+     Associates Associates of of Louisa Louisa, UVA [@63] UVA Primary Primary and and Specialty Specialty Care Care Pantops Pantops, and UVA [@64] UVA Primary Primary Care Care Riverside Riverside
+     **[65] Clinics at This Location**
+
+     [@66] Primary and Specialty Care Zion Crossroads                                                                                                 [@68] UVA Zion Crossroads Pharmacy
+     [@67] UVA Imaging Zion Crossroads
+
+
+
+
+
+
+
+
+                                                                                                       [69] 1215 Lee Street                                                                       [72] UVA Health                                                              [78] Community                                                                   [84] Patients Visitors
+                                                                                                       Charlottesville, VA 22903
+                                                                                                                Map Directions
+                                                                                                                                                                                                  [@73] About Us                                                               [@79] Find a Job Careers                                                         [@85] Contact a Patient
+                                                                                                                                                                                                  [@74] Clinical Trials                                                        [@80] Donate                                                                     [@86] Give Feedback
+                                                                                                                                                                                                  [@75] News                                                                   [@81] Volunteer                                                                  [@87] Medical Records
+                                                                                                                                                                                                  [@76] Services                                                               [@82] Patient Referrals                                                          [@88] Pay your Bill
+                                                                                                                                                                                                  [@77] Quality Safety                                                         [@83] Request Privileges                                                         [@89] Getting Financial Assistance
+      [@91] Facebook [@93] Twitter [@95] Youtube [@97] Instagram
+
+
+      [@98] Patient Rights                    Policies                  [@100] Web Privacy                   [@102] Report Accessibility Barrier
+
+          [104] 2023 Rector and Visitors of the University of Virginia.
+
+
+     [@105] UVA Children's                                                   [@106] School of Medicine                                                                   [@107] School of Nursing                                                                  [@108] Physicians Group                                                              [@109] Health Foundation
+     [@110] UVA
+                                            [111] We use cookies and similar tools to improve your web experience.
+                                            [$112] Read our privacy policy                                                                                                                                                                                                                                                                                                [$113] Accept
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

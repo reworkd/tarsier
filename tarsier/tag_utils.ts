@@ -4,6 +4,13 @@ interface Window {
   removeTags: () => void;
   hideNonTagElements: () => void;
   revertVisibilities: () => void;
+  colourBasedTagify: (tagLeafTexts?: boolean) => { id: number; idSymbol: string; color: string; xpath: string; midpoint: [number, number]; normalizedMidpoint: [number, number]; width: number; height: number }[];
+  hideNonColouredElements: () => void;
+  getElementHtmlByXPath: (xpath: string) => string;
+  createTextBoundingBoxes: () => void;
+  documentDimensions: () => { width: number; height: number };
+  getElementBoundingBoxes: (xpath: string) => { text: string; top: number; left: number; width: number; height: number }[];
+
 }
 
 const tarsierId = "__tarsier_id";
@@ -446,4 +453,224 @@ window.revertVisibilities = () => {
       element.style.removeProperty('visibility');
     }
   });
+};
+
+function getNextColor(index: number, totalTags: number): string {
+  const totalColors = 256 * 256 * 256;
+  const increment = Math.floor(totalColors / totalTags); // largest possible increment between colors
+  const colorValue = index * increment;
+
+  const r = (colorValue >> 16) & 0xFF;
+  const g = (colorValue >> 8) & 0xFF;
+  const b = colorValue & 0xFF;
+  const alpha = 1;
+
+  // return `rgba(${r}, ${g}, ${b}, ${alpha})`;
+  return `rgb(${r}, ${g}, ${b})`;
 }
+
+function hasDirectTextContent(element: HTMLElement): boolean {
+  const childNodesArray = Array.from(element.childNodes);
+  for (let node of childNodesArray) {
+    if (node.nodeType === Node.TEXT_NODE && node.textContent && node.textContent.trim().length > 0) {
+      return true;
+    }
+  }
+  return false;
+}
+
+window.hideNonColouredElements = () => {
+  const allElements = document.body.querySelectorAll("*");
+  allElements.forEach((el) => {
+    const element = el as HTMLElement;
+    if (element.style.visibility){
+      element.setAttribute(reworkdVisibilityAttr, element.style.visibility);
+    }
+
+    if (!element.hasAttribute('data-colored') || element.getAttribute('data-colored') !== 'true') {
+      element.style.visibility = 'hidden';
+    } else {
+      element.style.visibility = 'visible';
+    }
+  });
+}
+
+window.colourBasedTagify = (tagLeafTexts = false): { id: number; idSymbol: string; color: string; xpath: string; midpoint: [number, number]; normalizedMidpoint: [number, number]; width: number; height: number }[] => {
+  const tagMapping = window.tagifyWebpage(tagLeafTexts);
+  window.removeTags();
+
+  const totalTags = Object.keys(tagMapping).length;
+  const colorMapping: { id: number; idSymbol: string; color: string; xpath: string; midpoint: [number, number]; normalizedMidpoint: [number, number]; width: number; height: number }[] = [];
+  const taggedElements = new Set(Object.values(tagMapping));
+  const attribute = 'data-colored';
+  const bodyRect = document.body.getBoundingClientRect();
+
+  Object.keys(tagMapping).forEach((id, index) => {
+    const xpath = tagMapping[parseInt(id)];
+    const color = getNextColor(index, totalTags);
+    // @ts-ignore
+    const element = document.evaluate(xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue as HTMLElement;
+
+    if (element) {
+      const rect = element.getBoundingClientRect();
+      // const midpoint: [number, number] = [rect.left + rect.width / 2, rect.top + rect.height / 2];
+      // const midpoint: [number, number] = [rect.left, rect.bottom];
+      const midpoint: [number, number] = [rect.left, rect.top + rect.height / 2];
+      const normalizedMidpoint: [number, number] = [
+        (midpoint[0] - bodyRect.left) / bodyRect.width,
+        (midpoint[1] - bodyRect.top) / bodyRect.height
+      ];
+      const idSymbol = createIdSymbol(parseInt(id), element);
+      colorMapping.push({
+        id: parseInt(id),
+        idSymbol,
+        color,
+        xpath,
+        midpoint,
+        normalizedMidpoint,
+        width: rect.width,
+        height: rect.height
+      });
+
+      element.style.backgroundColor = color;
+      element.style.setProperty('color', color, 'important');
+      element.setAttribute(attribute, 'true');
+
+      if (element.tagName.toLowerCase() === 'a') {
+        const computedStyle = window.getComputedStyle(element);
+        if (computedStyle.backgroundImage !== 'none') {
+          element.style.backgroundImage = 'none';
+        }
+
+        let hasTextChild = false;
+        Array.from(element.children).forEach(child => {
+          if (child.textContent && child.textContent.trim().length > 0) {
+            hasTextChild = true;
+          }
+        });
+        if (!hasTextChild && !hasDirectTextContent(element)) {
+          element.style.width = `${rect.width}px`;
+          element.style.height = `${rect.height}px`;
+          element.style.display = 'block';
+        }
+      }
+
+      Array.from(element.children).forEach(child => {
+        const childXpath = getElementXPath(child as HTMLElement);
+        const childComputedStyle = window.getComputedStyle(child);
+        if (!taggedElements.has(childXpath) && childComputedStyle.display !== 'none') {
+          (child as HTMLElement).style.visibility = 'hidden';
+        }
+      });
+    }
+  });
+
+  return colorMapping;
+};
+
+window.getElementHtmlByXPath = function(xpath: string): string {
+  try {
+    const result = document.evaluate(xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null);
+    const element = result.singleNodeValue as HTMLElement | null;
+    return element ? element.outerHTML : 'No element matches the provided XPath.';
+  } catch (error) {
+    console.error('Error evaluating XPath:', error);
+    return '';
+  }
+};
+
+function createIdSymbol(idNum: number, el: HTMLElement): string {
+  console.log("createIdSymbol called")
+  let idStr: string;
+  if (isInteractable(el)) {
+    if (isTextInsertable(el))
+      idStr = `[#${idNum}]`;
+    else if (el.tagName.toLowerCase() == 'a')
+      idStr = `[@${idNum}]`;
+    else
+      idStr = `[$${idNum}]`;
+  } else {
+    idStr = `[${idNum}]`;
+  }
+  return idStr;
+}
+
+window.createTextBoundingBoxes = () => {
+  const style = document.createElement('style');
+  document.head.appendChild(style);
+  if (style.sheet) {
+      style.sheet.insertRule(`
+          .highlighted-word {
+              border: 0.5px solid orange;
+              display: inline-block;
+              visibility: visible;
+          }
+      `, 0);
+  }
+
+    function applyHighlighting(root: Document | HTMLElement) {
+        root.querySelectorAll('body *').forEach(element => {
+            if (['SCRIPT', 'STYLE', 'IFRAME', 'INPUT', 'TEXTAREA'].includes(element.tagName)) {
+                return;
+            }
+            let childNodes = Array.from(element.childNodes);
+            childNodes.forEach(node => {
+                if (node.nodeType === 3 && node.textContent && node.textContent.trim().length > 0) {
+                    let newHTML = node.textContent.replace(/([\w',-]+[\w",\-\/\[\]]*[?.!,;]?)/g, '<span class="tarsier-highlighted-word">$1</span>');
+                    let span = document.createElement('span');
+                    span.innerHTML = newHTML;
+                    if (node.parentNode) {
+                      node.parentNode.replaceChild(span, node);
+                  }
+                }
+            });
+        });
+    }
+
+    applyHighlighting(document);
+
+    document.querySelectorAll('iframe').forEach(iframe => {
+        try {
+            iframe.contentWindow?.postMessage({ action: 'highlight' }, '*');
+        } catch (error) {
+            console.error("Error accessing iframe content: ", error);
+        }
+    });
+};
+
+window.documentDimensions = () => {
+  return {
+    width: document.documentElement.scrollWidth,
+    height: document.documentElement.scrollHeight
+  };
+};
+
+window.getElementBoundingBoxes = (xpath: string) => {
+  const element = document.evaluate(xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue as HTMLElement | null;
+  if (element) {
+    const words = element.querySelectorAll('.tarsier-highlighted-word');
+    const boundingBoxes = Array.from(words).map(word => {
+      const rect = (word as HTMLElement).getBoundingClientRect();
+      return {
+        text: word.textContent || '',
+        top: rect.top,
+        left: rect.left,
+        width: rect.width,
+        height: rect.height
+      };
+    });
+    return boundingBoxes;
+  } else {
+    return [];
+  }
+};
+
+// LEAVE AS LAST LINE. DO NOT REMOVE
+// JavaScript scripts, when run in the JavaScript console, will evaluate to the last line/expression in the script
+// This tag utils file will typically end in a function assignment
+// Function assignments will evaluate to the created function
+// If playwright .evaluate(JS_CODE) evaluates to a function, IT WILL CALL THE FUNCTION
+// This means that the last function in this file will randomly get called whenever we load in the JS,
+// unless we have something like this console.log (Which returns undefined) is placed at the end
+
+console.log("Tarsier tag utils loaded");

@@ -62,23 +62,28 @@ async def snapshot_example(
         print(f"{prefix} Snapshotting {example.id}")
         await page.goto(example.get_static_url())
         await page.wait_for_timeout(3000)
-        image, _ = await tarsier.page_to_image(page, tag_text_elements=True)
-        page_text, _ = await tarsier.page_to_text(page, tag_text_elements=True)
+        # image, _ = await tarsier.page_to_image(page, tag_text_elements=True)
+        # page_text, _ = await tarsier.page_to_text(page, tag_text_elements=True)
+        page_text_new, _ = await tarsier.page_to_text_new(page, tag_text_elements=True)
         await page.close()
 
         # Create the directory if it doesn't exist
         example_path.mkdir(parents=True, exist_ok=True)
 
-        with open(example_path / "screenshot.png", "wb") as f:
-            f.write(image)
-            print(f"{prefix} Writing screenshot to {example_path / 'screenshot.png'}")
+        # with open(example_path / "screenshot.png", "wb") as f:
+        #     f.write(image)
+        #     print(f"{prefix} Writing screenshot to {example_path / 'screenshot.png'}")
+        #
+        # with open(example_path / "ocr.txt", "w") as f:
+        #     page_text_with_token_count = (
+        #         page_text + f"\nToken count: {counter.count(page_text)}"
+        #     )
+        #     f.write(page_text_with_token_count)
+        #     print(f"{prefix} Writing OCR text to {example_path / 'ocr.txt'}")
 
-        with open(example_path / "ocr.txt", "w") as f:
-            page_text_with_token_count = (
-                page_text + f"\nToken count: {counter.count(page_text)}"
-            )
-            f.write(page_text_with_token_count)
-            print(f"{prefix} Writing OCR text to {example_path / 'ocr.txt'}")
+        with open(example_path / "non_ocr_2.txt", "w") as f:
+            f.write(page_text_new)
+            print(f"{prefix} Writing non OCR text to {example_path / 'non_ocr.txt'}")
         print(f"{prefix} Finished snapshotting {example.id}")
 
 
@@ -94,10 +99,17 @@ async def generate_snapshots() -> None:
         tasks = [
             snapshot_example(i, semaphore, browser, example, snapshots_path, tarsier)
             for i, example in enumerate(examples)
-            if example.source == "mhtml"
-            # if example.source == "mhtml" and example.id == '0f8d967e-07a9-450a-b6b9-c60ad4c07ec7'
+            # if example.source == "mhtml"
+            # if example.source == "mhtml" and example.id == 'bwwko5J7aFk5K8qz61jBI'
         ]
         await asyncio.gather(*tasks)
+        # mhtml_examples = [ex for ex in examples if ex.source == "mhtml"][:3]
+        #
+        # tasks = [
+        #     snapshot_example(i, semaphore, browser, example, snapshots_path, tarsier)
+        #     for i, example in enumerate(mhtml_examples)
+        # ]
+        # await asyncio.gather(*tasks)
 
 
 def calculate_token_count_statistics(snapshots_dir: Path) -> None:

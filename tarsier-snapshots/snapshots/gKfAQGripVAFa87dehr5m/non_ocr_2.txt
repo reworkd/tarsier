@@ -1,0 +1,58 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[$2] GO                             [$4] GO [@5] Login
+                                                           [6] Resistors           [7] Capacitors            [8] Varistors            [9] Inductors
+
+                                            [12] Part                                                                                [$15] GO
+                     [16] ASR1JA330R
+                [17] RES, SURGE, 1W, 330 ohm, 5
+
+                        [@19] Specification Sheet
+                        [@21] STP Cad Files
+                                                                        [23] Location                        [24] Available Stock           [25] Unit Price        [26] MOQ
+                                                   [27] STACKPOLE EL PASO TX                                         [28] No Stock      [30] Contact Factory        [31] 500
+
+
+
+
+                                        [32] Characteristics                     [41] Additional Characteristics                            [62] Documents
+                                  [33] Power Rating watts [34] 1      [42] Operating Temperature Range
+                                          [35] Tolerance [36] 5                  [44] Mounting Type
+                                         [37] Packaging [38] Ammo                        [46] CofO                          [@65] SEI Soldering Recommendations
+                                        [39] Ohmic Value [40] 330 ohm           [48] RoHS Compliant
+                                                                                                  [43] -55 to 155
+                                                                                              [45] Through Hole - Axial
+                                                                                                      [47] JP
+                                                                                                      [49] Yes
+                                                                                        [50] NCNR [51] Yes
+                                                                                         [52] MOQ [53] 500
+                                                                                         [54] SPQ [55] 500
+                                                                               [56] Lead Time weeks    [57] 8
+                                                                             [58] Max Working Voltage [59] 4000
+                                                                            [60] Max Overload Voltage [61] 5000
+                                                                                                                            [@63] ASR/ASRM Anti Surge Axial Leaded Step Files
+                                                                                                                            [@64] Lead Free/RoHS Status
+
+
+
+
+
+
+
+                                                                                 [@66] Parametric Search
+            [67] Stackpole Electronics, Inc. stock check shows stock available for sale as of the moment you check stock. The franchised distributor inventory age is noted on each line and does
+                                  not necessarily represent current available stock. Click on the 'Site Stock Check' link to see current available stock and pricing.
+
+               [68] 2020 Stackpole Electronics, Inc.
+                 [69] Site Links               [76] Documents            [87] Products         [97] Tools                    [104] Connect with us
+                 [@70] Stackpole Web Portal    [@77] Quality Certifications [@88] Resistors    [@98] Parametric Search
+                 [@71] Company Information     [@78] CoC REACH           [@89] - All Resistors [@99] Stock Check
+                 [@72] Sales Network           [@79] CoC RoHS            [@90] - Power         [@100] Part Lookup
+                 [@73] Contact information     [@80] CoC POP             [@91] - Current Sensing [@101] Counterfeit Detection Tool
+                 [@74] Articles/Application Notes [@81] CoC WEEE         [@92] - Wirewounds    [@102] Spec Finder
+                 [@75] Chinese Website         [@82] CoC Proposition 65  [@93] Others          [@103] Product Cross Reference
+                                               [@83] CoC TSCA            [@94] - Capacitors
+                                               [@84] CoC CEPA            [@95] - Inductors
+                                               [@85] Recommended Solder  [@96] - Varistors
+                                               Profiles
+                                               [@86] Terms of Use
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

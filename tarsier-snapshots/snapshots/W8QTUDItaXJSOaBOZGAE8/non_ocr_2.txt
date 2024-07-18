@@ -1,0 +1,358 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[@2] Pay bill       [@3] Sign in
+
+                                                    [$5] What we do           [$6] Our doctors           [$7] Our locations                                                              [@9] Make an appointment
+
+
+                                                                                      **[10] Our locations**
+
+
+            [$11] City, state or ZIP                                             [$14] Distance
+
+
+
+            [$16] Clinic name                        [$18] Care system                         [$20] Type of location                   [$22] Specialty
+                                                                                                                                                                                                [$24] All filters
+
+
+
+            **[25] Showing results 1-20 of 321**                                                                                                                                       [$26] Sort by
+
+                                                                                                                                                                                                  [$39] 2 [$37] 3
+
+
+
+
+
+
+                                                                                                                                    [$40] 2
+
+
+
+
+
+
+
+
+                                                                              **[@53] Amery Clinic, Amery Hospital**
+                                                                              **Clinic**
+                                                                              [54] 265 Griffin St E, Amery, WI 54001-1439
+                                                                              [55] 1634. 4 miles away
+                                                                              [@56] Directions
+                                                                              [57] Closed [58] Closed Reopens on Friday at 7 30 a. m.
+                                                                                                                                                                             [@59] Make an appointment
+
+                                                                                                                                                                                   [@60] 715-268-8000
+
+
+
+
+
+
+                                                                              **[@61] Amery Fitness Center, Amery**
+                                                                              **Hospital**            **Clinic**
+                                                                              [62] 220 Keller Ave N, Amery, WI 54001-1036
+                                                                              [63] 1633. 1 miles away
+                                                                              [@64] Directions
+                                                                              [65] Open [66] Open until 5 30 p. m.
+                                                                                                                                                                             [@67] Make an appointment
+
+                                                                                                                                                                                   [@68] 715-268-0110
+
+
+
+
+
+
+                                                                              **[@69] Amery Hospital**                **Clinic**
+                                                                              [70] 265 Griffin St E, Amery, WI 54001-1439
+                                                                              [71] 1634. 4 miles away
+                                                                              [@72] Directions
+                                                                                                                                                                                   [@73] 715-268-8000
+
+
+
+
+
+
+                                                                              **[@74] Amery Hospital**                **Clinic - Wound**
+                                                                              **Healing Center**
+                                                                              [75] 230 Deronda St, Amery, WI 54001-1412
+                                                                              [76] 1633. 7 miles away
+                                                                              [@77] Directions
+                                                                              [78] Closed [79] Closed Reopens on Friday at 8 a. m.
+                                                                                                                                                                                   [@80] 715-268-0175
+
+
+
+
+
+
+
+
+                                                                              **[@81] Amery Hospital**                **Clinic Birth Center**
+                                                                              [82] 265 Griffin St E, Amery, WI 54001-1439
+                                                                              [83] 1634. 4 miles away
+                                                                              [@84] Directions
+                                                                                                                                                                                   [@85] 715-268-8000
+
+
+
+
+
+
+                                                                              **[@86] Amery Hospital**                **Clinic West**
+                                                                              **Campus**
+                                                                              [87] 230 Deronda St, Amery, WI 54001-1412
+                                                                              [88] 1633. 7 miles away
+                                                                              [@89] Directions
+                                                                              [90] Closed [91] Closed Reopens on Friday at 8 a. m.
+                                                                                                                                                                                   [@92] 715-268-0060
+
+
+
+
+
+
+
+
+                                                                              **[@93] Capitol View Transitional Care**
+                                                                              **Center**
+                                                                              [94] 640 Jackson St       11108, Saint Paul, MN 55101-2502
+                                                                              [95] 1625. 4 miles away
+                                                                              [@96] Directions
+                                                                                                                                                                                   [@97] 651-254-0400
+
+
+
+
+
+
+
+                                                                              **[@98] Clear Lake Clinic, Amery Hospital**
+                                                                              **Clinic**
+                                                                              [99] 357 3rd Ave, Clear Lake, WI 54005-8581
+                                                                              [100] 1641. 5 miles away
+                                                                              [@101] Directions
+                                                                              [102] Closed [103] Closed Reopens on Friday at 8 a. m.
+                                                                                                                                                                             [@104] Make an appointment
+
+                                                                                                                                                                                   [@105] 715-263-3100
+
+
+
+
+
+
+                                                                              **[@106] HealthPartners Cancer Care at Coon**
+                                                                              **Rapids**
+                                                                              [107] 11850 Blackfoot St NW Ste 200, Coon Rapids, MN
+                                                                              55433-2593
+                                                                              [108] 1597. 4 miles away
+                                                                              [@109] Directions
+                                                                              [110] Open [111] Open until 4 30 p. m.
+                                                                                                                                                                                   [@112] 612-341-4800
+
+
+
+
+
+
+
+
+
+                                                                              **[@113] HealthPartners Cancer Care at**
+                                                                              **Lakeview Hospital**
+                                                                              [114] 927 Churchill St W, Stillwater, MN 55082-6605
+                                                                              [115] 1631. 2 miles away
+                                                                              [@116] Directions
+                                                                              [117] Open [118] Open until 5 p. m.
+                                                                                                                                                                             [@119] Make an appointment
+
+                                                                                                                                                                                   [@120] 612-341-4800
+
+
+
+
+
+
+                                                                              **[@121] HealthPartners Cancer Care at Park**
+                                                                              **Nicollet Burnsville**
+                                                                              [122] 14000 Fairview Dr, Burnsville, MN 55337-5713
+                                                                              [123] 1631. 6 miles away
+                                                                              [@124] Directions
+                                                                              [125] Open [126] Open until 4 30 p. m.
+                                                                                                                                                                             [@127] Make an appointment
+
+                                                                                                                                                                                   [@128] 612-341-4800
+
+
+
+
+
+
+                                                                              **[@129] HealthPartners Cancer Care at Park**
+                                                                              **Nicollet Maple Grove**
+                                                                              [130] 9555 Upland Ln N, Maple Grove, MN 55369-4485
+                                                                              [131] 1596. 4 miles away
+                                                                              [@132] Directions
+                                                                              [133] Open [134] Open until 4 30 p. m.
+                                                                                                                                                                             [@135] Make an appointment
+
+                                                                                                                                                                                   [@136] 612-341-4800
+
+
+
+
+
+
+                                                                              **[@137] HealthPartners Cancer Center at**
+                                                                              **Hutchinson Health**
+                                                                              [138] 1095 Highway 15 S, Hutchinson, MN 55350-5000
+                                                                              [139] 1574. 1 miles away
+                                                                              [@140] Directions
+                                                                              [141] Open [142] Open until 4 30 p. m.
+                                                                                                                                                                                   [@143] 800-359-8052
+
+
+
+
+
+
+
+
+                                                                              **[@144] HealthPartners Cancer Center at**
+                                                                              **Regions Hospital**
+                                                                              [145] 640 Jackson St, Saint Paul, MN 55101-2502
+                                                                              [146] 1625. 4 miles away
+                                                                              [@147] Directions
+                                                                              [148] Open [149] Open until 5 p. m.
+                                                                                                                                                                             [@150] Make an appointment
+
+                                                                                                                                                                                   [@151] 612-341-4800
+
+
+
+
+
+
+                                                                              **[@152] HealthPartners Center for**
+                                                                              **International Health**
+                                                                              [153] 451 N Dunlap St N, Saint Paul, MN 55104-4619
+                                                                              [154] 1623. 1 miles away
+                                                                              [@155] Directions
+                                                                              [156] Closed [157] Closed Reopens on Friday at 7 30 a. m.
+                                                                                                                                                                             [@158] Make an appointment
+
+                                                                                                                                                                                   [@159] 952-967-7201
+
+
+
+
+
+
+                                                                              **[@160] HealthPartners Clinic Apple Valley**
+                                                                              [161] 15290 Pennock Ln, Apple Valley, MN 55124-7163
+                                                                              [162] 1635. 4 miles away
+                                                                              [@163] Directions
+                                                                              [164] Closed [165] Closed Reopens on Friday at 7 a. m.
+                                                                                                                                                                             [@166] Make an appointment
+
+                                                                                                                                                                                   [@167] 952-967-7250
+
+
+
+
+
+                                                                              **[@168] HealthPartners Clinic Arden Hills**
+                                                                              [169] 3930 Northwoods Dr, Arden Hills, MN 55112-6963
+                                                                              [170] 1615. 7 miles away
+                                                                              [@171] Directions
+                                                                              [172] Closed [173] Closed Reopens on Friday at 7 a. m.
+                                                                                                                                                                             [@174] Make an appointment
+
+                                                                                                                                                                                   [@175] 952-967-7860
+
+
+
+
+
+                                                                              **[@176] HealthPartners Clinic Bloomington**
+                                                                              [177] 8600 Nicollet Ave S, Bloomington, MN 55420-2824
+                                                                              [178] 1624. 6 miles away
+                                                                              [@179] Directions
+                                                                              [180] Closed [181] Closed Reopens on Friday at 7 a. m.
+                                                                                                                                                                             [@182] Make an appointment
+
+                                                                                                                                                                                   [@183] 952-967-7375
+
+
+
+
+
+                                                                              **[@184] HealthPartners Clinic Brooklyn**
+                                                                              **Center**
+                                                                              [185] 6845 Lee Ave N, Brooklyn Center, MN 55429-1717
+                                                                              [186] 1606 miles away
+                                                                              [@187] Directions
+                                                                              [188] Closed [189] Closed Reopens on Friday at 8 a. m.
+                                                                                                                                                                             [@190] Make an appointment
+
+                                                                                                                                                                                   [@191] 952-967-6818
+
+
+
+
+
+
+                                                                              **[@192] HealthPartners Clinic Coon Rapids**
+                                                                              [193] 11475 Robinson Dr NW, Coon Rapids, MN 55433-3746
+                                                                              [194] 1600. 3 miles away
+                                                                              [@195] Directions
+                                                                              [196] Closed [197] Closed Reopens on Friday at 7 20 a. m.
+                                                                                                                                                                             [@198] Make an appointment
+
+                                                                                                                                                                                   [@199] 952-967-6990
+
+
+
+
+
+
+                                                                     [@200] Download search instructions                            [@201] Print search results
+
+
+            [202] HealthPartners Park Nicollet                                   [208] Clinics hospitals                             [215] Our Foundations                               [225] Resources
+            [@203] 8170 33rd Ave S, Bloomington, MN 55425                        [@209] HealthPartners Clinics
+                                                                                 [@210] Park Nicollet Clinics                        [@217] Park Nicollet Foundation                     [@227] Classes and events
+                                                                                 [@211] 24/7 online clinic                           [@218] Regions Hospital Foundation                  [@228] Health professionals
+                                                                                 [@212] Specialty Centers                            [@219] Lakeview Foundation                          [@229] Health library
+                                                                                 [@213] Hospitals                                    [@220] Amery Foundation                             [@230] Our health care stores
+                                                                                 [@214] TRIA                                         [@221] Hudson Foundation                            [@231] Pay a bill
+                                                                                                                                     [@216] Foundations overview                         [@226] Blog
+
+
+
+
+                                                                                                                                     [@222] Westfields Foundation                        [@232] Newsroom
+                                                                                                                                     [@223] Hutchinson Foundation
+                                                                                                                                     [@224] Olivia Foundation
+                                                                                                                                                                                         [@233] Get Adobe reader
+                                                                                                                                                                                         [@234] HealthPartners mobile
+                                                                                                                                                                                         app for Android
+                                                                                                                                                                                         [@235] HealthPartners mobile
+                                                                                                                                                                                         app for iOS
+
+
+
+            [236] Language assistance
+            [@237] Espa ol                    [@243] Adamawa                     [@249] Tagalog                     [@255] Deutsch                                                       [@267] Din Bizaad
+            [@238] Hmoob                                                                                            [@256] Polski                                                        [@268] Ikirundi
+            [@239] Ti ng Vi t                 [@245] Deitsch                     [@251] Oromiffa                                                      [@263] Italiano                    [@269] Kiswahili
+            [@241] P                          [@247] Fran ais                    [@253] unD                         [@259] Shqip                                                         [@271] Ojibwe
+            [@242] Af Soomaali                                                                                      [@260] Srpsko-hrvatski
+                                                                                                                                                                                         [@270] Norsk
+
+
+                         [273] 2023 HealthPartners [@274] About [@275] Accessibility [@276] Good faith estimate [@277] Nondiscrimination statement [@278] Notice of privacy practices [@279] Privacy policy [@280] Surprise billing [@281] Terms conditions
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
