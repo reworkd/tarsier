@@ -1,11 +1,10 @@
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 K & L GATES
-[ @ 0 ] ]
-          [ 1 ] Fort Worth Oil, Gas, and Resources Special Projects Lawyer 2                                                                                @ 5 ] APPLY
-                                                                                                                                                           [
-          [ 2 ] Lawyers
-          [ 3 ] Energy, Infrastructure & Resources
-          [ 4 ] Ft. Worth
+[ @ 0 ]
+            [ 1 ] Fort Worth Oil, Gas, and Resources Special Projects Lawyer 2                                                                                                        [ @ 5 ] APPLY
+            [ 2 ] Lawyers
+            [ 3 ] Energy, Infrastructure & Resources
+            [ 4 ] Ft. Worth
 
 
 
@@ -14,123 +13,120 @@ K & L GATES
 
 
 
-          [ 6 ] Job Description                                                                                                        [ 64 ] Share:
-                                                                                                                                                     [ @ 65 ]   [ @ 66 ] ] [ @ 67 ]   [ @ 68 ]
-          [ 7 ] At K & L Gates, we are looking for smart, imaginative and hard - working people with diverse backgrounds,
-          experiences and ideas to join us. Perhaps our search for talented visionaries and your search for important
-          and impactful work lead to the same place.                                                                                      [ 69 ] Department
-                                                                                                                                          [ 70 ] Lawyers
-          [ 8 ] We are seeking to hire a Special Projects Lawyer to join the Oil, Gas & Resources practice in our Fort
-                                                                                                                                          [ 71 ] Practice
-         Worth office. The ideal candidate will have a strong commercial litigation background. Experience working in
-                                                                                                                                          [ 72 ] Energy, Infrastructure &
-          energy is desired but not required. The candidate will be exposed to [ 9 ] various energy litigation matters,                   Resources
-          including eminent domain and upstream oil and gas litigation issues involving lease disputes and real property
-          rights.                                                                                                                         [ 73 ] Office
-                                                                                                                                          [ 74 ] Ft. Worth
-          [ 10 ] Candidates must be self - starters who possess the ability to work independently and as part of a team.
-          We require strong academic credentials, excellent communication skills, and a commitment to providing the
-          highest quality client service.
-          [ 11 ] Search firm submissions will not be accepted for this position.
-          [ 12 ] Please   contact    Emily     Falconer,    Senior    Legal    Recruiting    Regional     Manager,     at
-          emily.falconer@klgates.com with any questions.
-          [ 13 ] Base Compensatio [ 14 ] n [ 15 ] $ 115.00 - $ 140.00 / hour
-          [ 16 ] The compensation for this position will be determined during the interview process and will vary based
-          on multiple factors, including but not limited to prior experience, relevant expertise, current business needs,
-          and market factors.
-          [ 17 ] ABOUT THE FIRM
-          [ 18 ] K & L Gates is a fully integrated global law firm with lawyers located across five continents in more than
-         40 offices. We have experienced dramatic growth in the past decade and now rank among the largest U.S.
-          based law firms in the world. We take pride in constantly striving for innovation, imagination and an
-          entrepreneurial spirit. We come up with big ideas and then roll up our sleeves to get the job done, guiding our
-          clients through their most complex issues in a variety of industry sectors and across multiple regions of the
-          world.
-          [ 19 ] The industry recognition the firm has garnered emanates from the foundation of a global community
-          aligned on behalf of our clients. The people at K & L Gates are committed to working together to create a
-          legacy for each other, the firm, our clients, and the communities in which we serve. We thrive in an inclusive
-          and socially conscious environment that embraces diversity and takes a holistic approach to the career
-          evolution of all our professionals.
-          [ 20 ] For more information or to view other job opportunities, please click [ @ 22 ] ] here [ 21 ] to go back to our
-          careers page.
-          [ 23 ] Notice: We participate in E - Verify in certain Firm locations for purposes of verifying employment
-          eligibility.
-          [ 24 ] BENEFITS
-          [ 25 ] K & L Gates offers our personnel a comprehensive suite of benefits to help meet your needs now and in
-          the future. Depending on your eligibility, options for full - time personnel include:
+            [ 6 ] Job Description                                                                                                                             [ 64 ] Share:
+                                                                                                                                                                             [ @ 65 ]   [ @ 66 ]   [ @ 67 ]   [ @ 68 ]
+            [ 7 ] At K & L Gates, we are looking for smart, imaginative and hard - working people with diverse backgrounds,
+           experiences and ideas to join us.        Perhaps our search for talented visionaries and your search for important
+           and impactful work lead to the same place.                                                                                                             [ 69 ] Department
+                                                                                                                                                                  [ 70 ] Lawyers
+            [ 8 ] We are seeking to hire a Special Projects Lawyer to join the Oil, Gas & Resources practice in our Fort
+                                                                                                                                                                  [ 71 ] Practice
+           Worth office. The ideal candidate will have a strong commercial litigation background. Experience working in                                           [ 72 ] Energy, Infrastructure &
+           energy is desired but not required. The candidate will be exposed to [ 9 ] various energy litigation matters,                                         Resources
+           including eminent domain and upstream oil and gas litigation issues involving lease disputes and real property                                         73 ] Office
+                                                                                                                                                                  [
+           rights.                                                                                                                                                [ 74 ] Ft. Worth
+            [ 10 ] Candidates must be self - starters who possess the ability to work independently and as part of a team.
+           We require strong academic credentials, excellent communication skills, and a commitment to providing the
+           highest quality client service.
+            [ 11 ] Search firm submissions will not be accepted for this position.
+            [ 12 ] Please     contact      Emily      Falconer,      Senior      Legal      Recruiting       Regional       Manager,       at
+           emily.falconer@klgates.com with any questions.
+            [ 13 ] Base Compensatio [ 14 ]      [ 15 ] $ 115.00 - $ 140.00 / hour
+            [ 16 ] The compensation for this position will be determined during the interview process and will vary based on
+           multiple factors, including but not limited to prior experience, relevant expertise, current business needs, and
+           market factors.
+            [ 17 ] ABOUT THE FIRM
+            [ 18 ] K & L Gates is a fully integrated global law firm with lawyers located across five continents in more than 40
+           offices. We have experienced dramatic growth in the past decade and now rank among the largest U.S. based
+           law firms in the world. We take pride in constantly striving for innovation, imagination and an entrepreneurial
+           spirit. We come up with big ideas and then roll up our sleeves to get the job done, guiding our clients through
+           their most complex issues in a variety of industry sectors and across multiple regions of the world.
+            [ 19 ] The industry recognition the firm has garnered emanates from the foundation of a global community
+           aligned on behalf of our clients. The people at K & L Gates are committed to working together to create a
+           legacy for each other, the firm, our clients, and the communities in which we serve. We thrive in an inclusive
+           and socially conscious environment that embraces diversity and takes a holistic approach to the career
+           evolution of all our professionals.
+            [ 20 ] For more information or to view other job opportunities, please click [ @ 22 ] here [ 21 ] to go back to our
+           careers page.
+            [ 23 ] Notice: We participate in E - Verify in certain Firm locations for purposes of verifying employment eligibility.
+            [ 24 ] BENEFITS
+            [ 25 ] K & L Gates offers our personnel a comprehensive suite of benefits to help meet your needs now and in
+           the future. Depending on your eligibility, options for full - time personnel include:
 
-                [ 26 ] Medical / Prescription Drug Coverage ( including     [ 27 ] Back - up Child / Elder Care and access
-                a Health Savings Account feature )                         to a caregiving concierge
+                   [ 26 ] Medical / Prescription Drug Coverage ( including              [ 27 ] Back - up Child / Elder Care and access to
+                  a Health Savings Account feature )                                    a caregiving concierge
 
-                [ 28 ] Dental Insurance                                     [ 29 ] Wellness Program
+                   [ 28 ] Dental Insurance                                              [ 29 ] Wellness Program
 
-                [ 30 ] Vision Insurance                                     [ 31 ] Pre - tax Commuting Benefits
+                   [ 30 ] Vision Insurance                                              [ 31 ] Pre - tax Commuting Benefits
 
-                [ 32 ] 401 ( k ) Retirement Plan and Profit Sharing         [ 33 ] Business Travel Accident Insurance
+                   [ 32 ] 401 ( k ) Retirement Plan and Profit Sharing                  [ 33 ] Business Travel Accident Insurance
 
-                [ 34 ] Short- and Long - term Disability Protection         [ 35 ] Pet Insurance
+                   [ 34 ] Short- and Long - term Disability Protection                  [ 35 ] Pet Insurance
 
-             ⚫ [ 36 ] Life Insurance ( including Basic, Supplemental,
-                Spouse, Child, and Accidental Death and                     [ 37 ] Health Advocacy Services
-                Dismemberment )
+                   [ 36 ] Life Insurance ( including Basic, Supplemental,
+                  Spouse, Child, and Accidental Death and                               [ 37 ] Health Advocacy Services
+                   Dismemberment )
 
-                [ 38 ] Paid Time Off ( 20 days / year through first 4
-                                                                            [ 39 ] Identity Protection / Restoration and
-               years of employment; 25 days / year after 5 years of        Fraud Insurance
-                employment )
+                   [ 38 ] Paid Time Off ( 20 days / year through first 4
+                                                                                        [ 39 ] Identity Protection / Restoration and
+                  years of employment; 25 days / year after 5 years of                  Fraud Insurance
+                  employment )
 
-                [ 40 ] Parental Leave ( 18 weeks of which 6 are paid;
-                                                                            [ 41 ] Student loan refinancing options and
-                short - term disability may provide additional paid time
-                                                                           access to a student loan concierge service
-                off )
+                   [ 40 ] Parental Leave ( 18 weeks of which 6 are paid;
+                                                                                        [ 41 ] Student loan refinancing options and
+                  short - term disability may provide additional paid time
+                                                                                        access to a student loan concierge service
+                  off )
 
-                [ 42 ] Paid Holidays ( 12 )                                 [ 43 ] Addiction Resources
+                   [ 42 ] Paid Holidays ( 12 )                                          [ 43 ] Addiction Resources
 
-                                                                            [ 45 ] Breast Milk Delivery and Lactation
-                [ 44 ] Family Building Benefits
-                                                                           Support Services
+                                                                                     ⚫ [ 45 ] Breast Milk Delivery and Lactation
+                   [ 44 ] Family Building Benefits
+                                                                                        Support Services
 
-                                                                            [ 47 ] Employees also may be eligible to
-                [ 46 ] Flexible Spending Accounts                          receive bonuses and certain expense
-                                                                           reimbursements
+                                                                                     ⚫ [ 47 ] Employees also may be eligible to
+                   [ 46 ] Flexible Spending Accounts                                    receive bonuses and certain expense
+                                                                                        reimbursements
 
-                                                                            [ 49 ] Professional Development and CLE
-                [ 48 ] Employee Assistance Program
-                                                                           Credit Opportunities
+                                                                                        [ 49 ] Professional Development and CLE
+                   [ 48 ] Employee Assistance Program
+                                                                                        Credit Opportunities
 
-                [ 50 ] 529 Deductions                                       [ 51 ] Relocation
+                   [ 50 ] 529 Deductions                                              ⚫ [ 51 ] Relocation
 
-                [ 52 ] Accident Insurance                                   [ 53 ] Employee Referral Program
+                   [ 52 ] Accident Insurance                                         ⚫ [ 53 ] Employee Referral Program
 
-                [ 54 ] Critical Illness Insurance                           [ 55 ] Hybrid / Remote Work Opportunities
+                   [ 54 ] Critical Illness Insurance                                 ⚫ [ 55 ] Hybrid / Remote Work Opportunities
 
-                                                                            [ 57 ] Perks including: Technology,
-                [ 56 ] Hospital Indemnity Insurance                        Entertainment, and Travel Discount
-                                                                           Programs
+                                                                                     ⚫ [ 57 ] Perks including: Technology,
+                   [ 56 ] Hospital Indemnity Insurance                                  Entertainment, and Travel Discount
+                                                                                        Programs
 
-                                                                            [ 59 ] All other benefits ( such as leaves of
-                [ 58 ] Bereavement Leave
-                                                                           absence ) required by law
+                                                                                        [ 59 ] All other benefits ( such as leaves of
+                   [ 58 ] Bereavement Leave
+                                                                                        absence ) required by law
 
-          [ 60 ] EQUAL EMPLOYMENT OPPORTUNITY
-          [ 61 ] The Firm is an equal opportunity employer. All employment decisions will be based on merit,
-          qualifications, competence, and business need. Employment practices will not be influenced or affected by a
-          person's race, color, religion, sex ( including pregnancy, childbirth, or related conditions ), national origin, age,
-          sexual orientation, gender identity or expression, marital status, disability, genetic information, military or
-          veteran status, or any other characteristic protected by applicable law. This policy governs all aspects of
-          employment including, without limitation, recruiting, hiring, compensation, benefits, promotion, assignment,
-          and dismissal. In addition, it is the Firm's policy to provide an environment that is free of all unlawful
-          harassment including, without limitation, that based on sex, race, age, disability, or national origin. The Firm
-          complies with federal and state disability laws and makes reasonable accommodations for applicants and
-          employees with disabilities. If you require reasonable accommodation in completing this application,
-          interviewing, or otherwise participating in the employee selection process, please contact
-          [ @ 63 ] askHR@klgates.com [ 62 ] ].
+            [ 60 ] EQUAL EMPLOYMENT OPPORTUNITY
+            [ 61 ] The Firm is an equal opportunity employer. All employment decisions will be based on merit,
+           qualifications, competence, and business need. Employment practices will not be influenced or affected by a
+           person's race, color, religion, sex ( including pregnancy, childbirth, or related conditions ), national origin, age,
+           sexual orientation, gender identity or expression, marital status, disability, genetic information, military or
+           veteran status, or any other characteristic protected by applicable law. This policy governs all aspects of
+           employment including, without limitation, recruiting, hiring, compensation, benefits, promotion, assignment,
+           and dismissal. In addition, it is the Firm's policy to provide an environment that is free of all unlawful
+           harassment including, without limitation, that based on sex, race, age, disability, or national origin. The Firm
+           complies with federal and state disability laws and makes reasonable accommodations for applicants and
+           employees with disabilities. If you require reasonable accommodation in completing this application,
+           interviewing, or otherwise participating in the employee selection process, please contact
+            [ @ 63 ] askHR@klgates.com [ 62 ]
 
 
 
 
 
-                                                                                                                                                             [ 75 ] Powered by
-                                                                                                                                                                             **yello**
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1606
+                                                                                                                                                                                         [ 75 ] Powered by
+                                                                                                                                                                                                          **yello**
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1617

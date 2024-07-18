@@ -22,8 +22,18 @@ const elIsClean = (el: HTMLElement) => {
   return !isHidden && !isTransparent && !isZeroSize && !isScriptOrStyle;
 };
 
+const isNonWhiteSpaceTextNode = (child: ChildNode) => {
+  // also check for zero width space directly
+  return child.nodeType === Node.TEXT_NODE && child.textContent && child.textContent.trim().length > 0 && child.textContent.trim() !== '\u200B';
+}
+
 const inputs = ["a", "button", "textarea", "select", "details", "label"];
 const isInteractable = (el: HTMLElement) => {
+  // If it is a label but has an input child that it is a label for, say not interactable
+  if (el.tagName.toLowerCase() === "label" && el.querySelector("input")) {
+    return false;
+  }
+
   return inputs.includes(el.tagName.toLowerCase()) ||
     // @ts-ignore
     (el.tagName.toLowerCase() === "input" && el.type !== "hidden") ||
@@ -114,7 +124,6 @@ function getElementXPath(element: HTMLElement | null) {
         return "//" + path_parts.join("/");
       }
     } else if (element.className) {
-      const classList = Array.from(element.classList);
       prefix += `[@class="${element.className}"]`;
     }
 
@@ -171,51 +180,41 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
   window.removeTags();
   hideMapElements();
 
-  let idNum = 0;
-  let idToXpath: Record<number, string> = {};
+  const allElements = getAllElementsInAllFrames();
+  const rawElementsToTag = getElementsToTag(allElements, tagLeafTexts);
+  const elementsToTag = removeNestedTags(rawElementsToTag);
+  const idToXpath = insertTags(elementsToTag, tagLeafTexts);
+  absolutelyPositionMissingTags();
 
-  // @ts-ignore
-  let allElements: HTMLElement[] = [...document.body.querySelectorAll("*")];
-  const iframes = document.getElementsByTagName("iframe");
+  return idToXpath;
+};
 
-  // add elements in iframes to allElements
+function getAllElementsInAllFrames(): HTMLElement[] {
+  // Main page
+  const allElements: HTMLElement[] = Array.from(document.body.querySelectorAll('*'));
+
+  // Add all elements in iframes
+  // NOTE: This still doesn't work for all iframes
+  const iframes = document.getElementsByTagName('iframe');
   for(let i = 0; i < iframes.length; i++) {
     try {
       const frame = iframes[i];
-      console.log("iframe!", iframes[i]);
-      const iframeDocument =
-        frame.contentDocument || frame.contentWindow?.document;
+      const iframeDocument = frame.contentDocument || frame.contentWindow?.document;
+      if (!iframeDocument) continue;
 
-      // @ts-ignore
-      const iframeElements = [...iframeDocument.querySelectorAll("*")];
-      iframeElements.forEach((el) => el.setAttribute("iframe_index", i));
+      const iframeElements = Array.from(iframeDocument.querySelectorAll('*')) as HTMLElement[];
+      iframeElements.forEach((el) => el.setAttribute('iframe_index', i.toString()));
       allElements.push(...iframeElements);
     } catch (e) {
-      // Cross-origin iframe error
-      console.error("Cross-origin iframe:", e);
+      console.error('Error accessing iframe content:', e);
     }
   }
 
-  // ignore all descendants of interactable elements
-  allElements.map((el) => {
-    if (isInteractable(el)) {
-      // Remove all direct children
-      el.childNodes.forEach((child) => {
-        const index = allElements.indexOf(child as HTMLElement);
-        if (index > -1) {
-          allElements.splice(index, 1);
-        }
-      });
+  return allElements;
+}
 
-      // Remove all interactable sub children
-      el.querySelectorAll("*").forEach((child) => {
-        const index = allElements.indexOf(child as HTMLElement);
-        if (index > -1 && isInteractable(child as HTMLElement)) {
-          allElements.splice(index, 1);
-        }
-      });
-    }
-  });
+function getElementsToTag(allElements: HTMLElement[], tagLeafTexts: boolean): HTMLElement[] {
+  const elementsToTag: HTMLElement[] = [];
 
   for(let el of allElements) {
     if (isEmpty(el) || !elIsClean(el)) {
@@ -224,24 +223,56 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
 
 
     if (isInteractable(el)) {
-      idToXpath[idNum] = getElementXPath(el);
-      idNum++;
+      elementsToTag.push(el);
     } else if (tagLeafTexts) {
-      for(let child of Array.from(el.childNodes)) {
-        if (child.nodeType === Node.TEXT_NODE && /\S/.test(child.textContent || "")) {
-          // This is a text node with non-whitespace text
-          idToXpath[idNum] = getElementXPath(el);
-          idNum++;
-        }
+      // Append the parent tag as it may have multiple individual child nodes with text
+      // We will tag them individually later
+      if (Array.from(el.childNodes).filter(isNonWhiteSpaceTextNode).length >= 1) {
+        elementsToTag.push(el);
       }
     }
   }
 
-  idNum = 0;
-  for(let el of allElements) {
-    if (isEmpty(el) || !elIsClean(el)) {
-      continue;
+  return elementsToTag;
+}
+
+function removeNestedTags(elementsToTag: HTMLElement[]): HTMLElement[] {
+  // An interactable element may have multiple tagged elements inside
+  // Most commonly, the text will be tagged alongside the interactable element
+  // In this case there is only one child, and we should remove this nested tag
+  // In other cases, we will allow for the nested tagging
+
+  const res = [...elementsToTag]
+  elementsToTag.map((el) => {
+
+    // Only interactable elements can have nested tags
+    if (isInteractable(el)) {
+      const elementsToRemove: HTMLElement[] = [];
+      el.querySelectorAll("*").forEach((child) => {
+        const index = res.indexOf(child as HTMLElement);
+        if (index > -1) {
+          elementsToRemove.push(child as HTMLElement);
+        }
+      });
+
+      // Only remove nested tags if there is only a single element to remove
+      if (elementsToRemove.length == 1) {
+        for(let element of elementsToRemove) {
+          res.splice(res.indexOf(element), 1);
+        }
+      }
     }
+  });
+
+  return res;
+}
+
+function insertTags(elementsToTag: HTMLElement[], tagLeafTexts: boolean): { [key: number]: string } {
+  const idToXpath: { [key: number]: string } = {};
+
+  let idNum = 0;
+  for(let el of elementsToTag) {
+    idToXpath[idNum] = getElementXPath(el);
 
     let idSpan = create_tagged_span(idNum, el);
 
@@ -253,20 +284,16 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
       }
       idNum++;
     } else if (tagLeafTexts) {
-      for(let child of Array.from(el.childNodes)) {
-        if (child.nodeType === Node.TEXT_NODE && /\S/.test(child.textContent || "")) {
-          // This is a text node with non-whitespace text
-          let idSpan = create_tagged_span(idNum, el);
-          el.insertBefore(idSpan, child);
-          idNum++;
-        }
+      for(let child of Array.from(el.childNodes).filter(isNonWhiteSpaceTextNode)) {
+        let idSpan = create_tagged_span(idNum, el);
+        el.insertBefore(idSpan, child);
+        idNum++;
       }
     }
   }
 
-  absolutelyPositionMissingTags();
   return idToXpath;
-};
+}
 
 function absolutelyPositionMissingTags() {
   /*
@@ -318,13 +345,13 @@ function absolutelyPositionMissingTags() {
       let fontSize = parseFloat(window.getComputedStyle(tag).fontSize.split("px")[0]);
       let otherFontSize = parseFloat(window.getComputedStyle(otherTag).fontSize.split("px")[0]);
 
-      while (
+      while(
         (tagRect.left < otherTagRect.right &&
           tagRect.right > otherTagRect.left) &&
         (tagRect.top < otherTagRect.bottom &&
           tagRect.bottom > otherTagRect.top) &&
         fontSize > 7 && otherFontSize > 7
-      ) {
+        ) {
         fontSize -= 0.5;
         otherFontSize -= 0.5;
         tag.style.fontSize = `${fontSize}px`;
@@ -346,6 +373,8 @@ window.removeTags = () => {
 const GOOGLE_MAPS_OPACITY_CONTROL = '__reworkd_google_maps_opacity';
 
 const hideMapElements = (): void => {
+  // Maps have lots of tiny buttons that need to be tagged
+  // They also have a lot of tiny text and are annoying to deal with for rendering
   // Also any element with aria-label="Map" aria-roledescription="map"
   const selectors = [
     'iframe[src*="google.com/maps"]',
@@ -391,11 +420,11 @@ const showMapElements = () => {
 }
 
 window.hideNonTagElements = () => {
-  const allElements = document.body.querySelectorAll("*");
+  const allElements = getAllElementsInAllFrames();
   allElements.forEach((el) => {
     const element = el as HTMLElement;
 
-    if (element.style.visibility){
+    if (element.style.visibility) {
       element.setAttribute(reworkdVisibilityAttr, element.style.visibility);
     }
 
@@ -408,10 +437,10 @@ window.hideNonTagElements = () => {
 };
 
 window.revertVisibilities = () => {
-  const allElements = document.body.querySelectorAll("*");
+  const allElements = getAllElementsInAllFrames();
   allElements.forEach((el) => {
     const element = el as HTMLElement;
-    if (element.getAttribute(reworkdVisibilityAttr)){
+    if (element.getAttribute(reworkdVisibilityAttr)) {
       element.style.visibility = element.getAttribute(reworkdVisibilityAttr) || "true";
     } else {
       element.style.removeProperty('visibility');
