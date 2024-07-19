@@ -344,13 +344,14 @@ function absolutelyPositionMissingTags() {
       // reduce font of this tag and other tag until they don't overlap
       let fontSize = parseFloat(window.getComputedStyle(tag).fontSize.split("px")[0]);
       let otherFontSize = parseFloat(window.getComputedStyle(otherTag).fontSize.split("px")[0]);
+      const MIN_FONT_SIZE = 9;
 
       while(
         (tagRect.left < otherTagRect.right &&
           tagRect.right > otherTagRect.left) &&
         (tagRect.top < otherTagRect.bottom &&
           tagRect.bottom > otherTagRect.top) &&
-        fontSize > 7 && otherFontSize > 7
+        fontSize > MIN_FONT_SIZE && otherFontSize > MIN_FONT_SIZE
         ) {
         fontSize -= 0.5;
         otherFontSize -= 0.5;
