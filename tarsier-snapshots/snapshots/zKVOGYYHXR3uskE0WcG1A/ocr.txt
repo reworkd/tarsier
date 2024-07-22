@@ -1,28 +1,42 @@
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-IDAHO        Official Government Website                                                                                           [ @ 2 ] Contact Us   [ @ 3 ] About Us  A [ 4 ] |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+IDAHO [ 1 ] ] Official Government Website                                                                                                                                          [ @ 2 ] Contact Us       [ @ 3 ] About Us     A [ 4 ] |
 
 
 
-            [ @ 5 ]
-                                                                                                                                       [ # 8 ]
-                 **IDAHO**                                                                                                                                         а
-                                                                                                                                      Agency Search
-            [ 6 ] Department of Administration      gate
-            [ 7 ] STATE DIVISION OF PURCHASING
+                           [ @ 5 ]
 
- [ @ 10 ] Information for Vendors    [ @ 11 ] Statewide Contracts ▼    [ @ 12 ] Templates and Forms     [ @ 13 ] Exemptions    [ @ 14 ] Governing Laws and Policies
- [ @ 15 ] Training ▾   [ @ 16 ] Contract Administration ToolKit   [ @ 17 ] Luma   [ @ 18 ] Contact Us
-            [ @ 19 ] Home    [ 20 ] Statewide Contracts List View
-  [ 21 ]
-            **Statewide Contracts List View**
+                                  **IDAHO**                                                                                                                              [ # 81                             [ 59 ]
+                                                                                                                                                                                 Search                     Q
+                                                                                                                                                                         Agency
+                           [ 6 ] Department of Administration
+                           [ 7 ] STATE DIVISION OF PURCHASING
 
-           [ # 22 ] earch for a Statewide Contract by Vendor, Contract Number, or by Category                                                                        [ $ 23
+ [ @ 10 ] Information for Vendors          [ @ 11 ] Statewide Contracts ▾          [ @ 12 ] Templates and Forms           [ @ 13 ] Exemptions        [ @ 14 ] Governing Laws and Policies            [ @ 15 ] Training▾
+ [ @ 16 ] Contract Administration ToolKit           [ @ 17 ] Luma      [ @ 18 ] Contact Us
+                           [ @ 19 ]  Home       [ 20 ] Statewide Contracts List View
+                [ 21 ]
+                           **Statewide Contracts List View**
 
-                  [ @ 24 ] 22nd Century Technologies, Inc. ( Temporary Staffing Services ) SBPO20200075
-               ⚫ [ @ 25 ] Abbott Laboratories, Inc. ( Infant Formula Rebate ( WIC / NASPO ValuePoint ) PADD19200325
-               ⚫ [ @ 26 ] Air Van, Inc. ( Moving Services to Chinden Campus ) SBPO19200501
-               ⚫ [ @ 27 ] Allied Envelope ( Envelopes ) SBPO20220924
-               ⚫ [ @ 28 ] Allsteel ( Office Furniture and Related Services ) PADD20231522
-                  [ @ 29 ] Amerigas ( Propane Fuel and Related Equipment ) SBPO20220916
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 393
+                          [ # 22 ] earch for a Statewide Contract by Vendor, Contract Number, or by Category                                                                                                  [ $ 23
+
+                               •  [ @ 24 ] 22nd Century Technologies, Inc. ( Temporary Staffing Services ) SBPO20200075
+                                  [ @ 25 ] Abbott Laboratories, Inc. ( Infant Formula Rebate ( WIC / NASPO ValuePoint ) PADD 19200325
+                                  [ @ 26 ] Air Van, Inc. ( Moving Services to Chinden Campus ) SBPO19200501
+                                  [ @ 27 ] Allied Envelope ( Envelopes ) SBPO20220924
+                                  [ @ 28 ] Allsteel ( Office Furniture and Related Services ) PADD20231522
+                                  [ @ 29 ] Amerigas ( Propane Fuel and Related Equipment ) SBPO20220916
+                                  [ @ 30 ] Apple ( Computer Equipment, Peripherals, and Related Services ) SDE PADD 16-0010
+                                  [ @ 31 ] AT & T Corporation ( Cellular / Wireless Services ) PADD20210619
+                                  [ @ 32 ] Athena Consulting, LLC ( Temporary Staffing Services ) SBPO20200077
+                                  [ @ 33 ] Atkinson Distributing, Inc. ( Fuels, Bulk ) SBP017200381
+                                  [ @ 34 ] Audio Enhancement Inc. ( Audio Video Equipment and Supplies ) PADD20200446
+                                  [ @ 35 ] Aviat Networks ( Public Safety Communications Products, Services and Solutions ) PADD20221087
+                                  [ @ 36 ] B & H Photo Video ( Audio Video Equipment and Supplies ) PADD20210479
+                                  [ @ 37 ] ] BDM Squared ( Smartsheet Project Management Software ) SBPO20220977
+                                  [ @ 38 ] BK technologies ( Public Safety Communications Products, Services and Solutions ) PADD20221065
+                                  [ @ 39 ] BlueCrest ( Mailing Equipment, Supplies and Maintenance ) PADD20231478
+                                  [ @ 40 ] Brady Industries ( Facilities MRO ) SBPO19200191
+                                  [ @ 41 ] Bridgestone Americas Tire Operation ( includes Firestone ) ( Tire, Tube and Related Services ) PADD 19200551
+                                  [ @ 42 ] BuzzClan, LLC ( Temporary Staffing Services ) SBPO20200079
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 709

@@ -1,186 +1,182 @@
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**[ 13 ] Our Locations**
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ 13 ]     **Our Locations**
+                 [ # 14 ]                                   [ $ 15 ] Services                           [ $ 16 ] tegory                             [ # 17 ]
+                    Search Term                                                                                                                        Search By Zip Code
+                 [ @ 19 ] Clear Filters                                                                                                             [ @ 18 ] Use My Location
 
-    [ # 14 ]                                    [ $ 15 ] Services                           [ $ 16 ]                                      [ # 17 ]
-                                                                                                   **tegory**
-       Search Term                                                                                                                          Search By Zip Code
-    [ @ 19 ] Clear Filters                                                                                                               [ @ 18 ] Use My Location
 
 
+          [ 20 ] ALL LOCATIONS
 
-[ 20 ] ALL LOCATIONS
+                 [ @ 21 ]                                                  [ @ 27 ]                                                   [ @ 33 ]
 
-    [ @ 21 ]                                                   [ @ 27 ]                                                    [ @ 33 ]
 
 
 
 
 
+                 [ 22 ] Community Memorial Breast Center                   [ 28 ] Community Memorial Continuing Care                  [ 34 ] Community Memorial Gynecologic
+                 [ 23 ] 168 North Brent Street, Suite 401                  Center                                                    Oncology
+                 [ 24 ] Ventura, CA 93003                                  [ 29 ] 1306 Maricopa Highway                               [ 35 ] 2900 Loma Vista Road, Suite 205
+                 [ 25 ] 805-948-5093                                       [ 30 ] Ojai, CA 93023                                      [ 36 ] Ventura, CA 93003
+                                                                           [ 31 ] 805-948-2000                                        [ 37 ] 805-642-4830
+                 [ 26 ] More Information
+                                                                           [ 32 ] More Information                                    [ 38 ] More Information
 
-    [ 22 ] Community Memorial Breast Center                    [ 28 ] Community Memorial Continuing                        [ 34 ] Community Memorial Gynecologic
-                                                               Care Center                                                Oncology
-    [ 23 ] ] 168 North Brent Street, Suite 401
-    [ 24 ] Ventura, CA 93003                                    [ 29 ] 1306 Maricopa Highway                              [ 35 ] 2900 Loma Vista Road, Suite 205
-    [ 25 ] 805-948-5093                                        [ 30 ] Ojai, CA 93023                                       [ 36 ] Ventura, CA 93003
-                                                                [ 31 ] 805-948-2000                                        [ 37 ] 805-642-4830
-    [ 26 ] More Information
-                                                               [ 32 ] More Information                                    [ 38 ] More Information
+                 [ @ 39 ]                                                  [ @ 45 ]                                                   [ @ 51 ]
 
-    [ @ 39 ]                                                   [ @ 45 ]                                                   [ @ 51 ]
+                                                                                                                 URGENT CARE
+                                                                                                             CMH
 
-                              FRAY REALER                                                            URGENT CARE
-                                                                                                  OAH
-                                                                                      A
 
 
 
-    [ 40 ] Community Memorial Health Center                    [ 46 ] Community Memorial Health Center                    [ 52 ] Community Memorial Health Center
-    [ 41 ] 120 North Ashwood Avenue                            [ 47 ] 422 Arneill Road, Suite A & B                        [ 53 ] 2721 East Main Street
-    [ 42 ] Ventura, CA 93003                                   [ 48 ] Camarillo, CA 93010                                 [ 54 ] Ventura, CA 93003
-    [ 43 ] 805-948-6353                                        [ 49 ] 805-948-6353                                        [ 55 ] 805-667-2841
-    [ 44 ] More Information                                    [ 50 ] More Information                                     [ 56 ] More Information
+                 [ 40 ] Community Memorial Health Center                   [ 46 ] Community Memorial Health Center                   [ 52 ] Community Memorial Health Center
+                 [ 41 ] 120 North Ashwood Avenue                           [ 47 ] 422 Arneill Road, Suite A & B                      [ 53 ] 2721 East Main Street
+                 [ 42 ] ] Ventura, CA 93003                                [ 48 ] Camarillo, CA 93010                                 [ 54 ] Ventura, CA 93003
+                 [ 43 ] 805-948-6353                                       [ 49 ] 805-948-6353                                        [ 55 ] 805-667-2841
+                 [ 44 ] More Information                                    [ 50 ] More Information                                   [ 56 ] More Information
 
-    [ @ 57 ]                                                   [ @ 63 ]                                                    [ @ 69 ]
+                 [ @ 57 ]                                                  [ @ 63 ]                                                  [ @ 69 ]
 
-                     **Center for**
-                                                                      1202
-                                     **Health**
-               **Family**                                                                         Midtown Medical Group
-                                         Health System
-                                 Memorial
-                      Community
+                                  **Center for**
+                                                  **Health**
+                           **Family**                                                                        Midtown Medical Group
+                                                     Health System
+                                              Memorial
+                                   Community
 
-    [ 58 ] Community Memorial Health Center                    [ 64 ] Community Memorial Health Center                    [ 70 ] Community Memorial Health Center
-    [ 59 ] 852 West Ventura Street                             [ 65 ] 1202 Maricopa Highway                                [ 71 ] 168 North Brent Street, Suite 302
-    [ 60 ] Fillmore, CA 93015                                  [ 66 ] Ojai, CA 93023                                       [ 72 ] Ventura, CA 93003
-    [ 61 ] 805-948-6353                                        [ 67 ] 805-948-2323                                         [ 73 ] 805-948-6373
-    [ 62 ] More Information                                    [ 68 ] More Information                                    [ 74 ] More Information
+                 [ 58 ] Community Memorial Health Center                   [ 64 ] Community Memorial Health Center                    [ 70 ] Community Memorial Health Center
+                 [ 59 ] 852 West Ventura Street                            [ 65 ] 1202 Maricopa Highway                              [ 71 ] ] 168 North Brent Street, Suite 302
+                 [ 60 ] Fillmore, CA 93015                                 [ 66 ] Ojai, CA 93023                                      [ 72 ] Ventura, CA 93003
+                 [ 61 ] 805-948-6353                                       [ 67 ] 805-948-2323                                        [ 73 ] 805-948-6373
+                 [ 62 ] More Information                                   [ 68 ] More Information                                    [ 74 ] More Information
 
-    [ @ 75 ]                                                   [ @ 81 ]                                                   [ @ 87 ]
+                 [ @ 75 ]                                                  [ @ 81 ]                                                  [ @ 87 ]
 
 
 
 
 
 
-    [ 76 ] Community Memorial Health Center                    [ 82 ] Community Memorial Health Center                    [ 88 ] Community Memorial Health Center
-    [ 77 ] 655 North Ventura Avenue                            [ 83 ] 117 Pirie Road, Suite E                              [ 89 ] 321 East Port Hueneme Road
-    [ 78 ] Oak View, CA 93022                                  [ 84 ] Ojai, CA 93023                                      [ 90 ] Port Hueneme, CA 93041
-    [ 79 ] 805-948-6353                                         [ 85 ] 805-948-6650                                        [ 91 ] 805-948-6353
-    [ 80 ] More Information                                    [ 86 ] More Information                                    [ 92 ] More Information
+                 [ 76 ] Community Memorial Health Center                   [ 82 ] Community Memorial Health Center                   [ 88 ] Community Memorial Health Center
+                 [ 77 ] 655 North Ventura Avenue                           [ 83 ] 117 Pirie Road, Suite E                             [ 89 ] 321 East Port Hueneme Road
+                 [ 78 ] Oak View, CA 93022                                 [ 84 ] Ojai, CA 93023                                      [ 90 ] Port Hueneme, CA 93041
+                 [ 79 ] 805-948-6353                                       [ 85 ] 805-948-6650                                        [ 91 ] 805-948-6353
+                 [ 80 ] More Information                                   [ 86 ] More Information                                    [ 92 ] More Information
 
-    [ @ 93 ]                                                   [ @ 99 ]                                                   [ @ 105 ]
+                 [ @ 93 ]                                                  [ @ 99 ]                                                   [ @ 105 ]
 
 
 
 
 
 
-    [ 94 ] Community Memorial Health Center                    [ 100 ] Community Memorial Health Center                   [ 106 ] Community Memorial Health Center
-    [ 95 ] 258 East Harvard Boulevard                           [ 101 ] 242 East Harvard Boulevard, Suite C                [ 107 ] 5800 Santa Rosa Road, Suite 149
-    [ 96 ] Santa Paula, CA 93060                               [ 102 ] Santa Paula, CA 93060                              [ 108 ] Camarillo, CA 93012
-    [ 97 ] 805-948-6353                                        [ 103 ] 805-948-6353                                        [ 109 ] 805-948-6353
-    [ 98 ] More Information                                    [ 104 ] More Information                                   [ 110 ] More Information
+                 [ 94 ] Community Memorial Health Center                   [ 100 ] Community Memorial Health Center                   [ 106 ] Community Memorial Health Center
+                 [ 95 ] 258 East Harvard Boulevard                         [ 101 ] ] 242 East Harvard Boulevard, Suite C              [ 107 ] 5800 Santa Rosa Road, Suite 149
+                 [ 96 ] Santa Paula, CA 93060                              [ 102 ] Santa Paula, CA 93060                              [ 108 ] Camarillo, CA 93012
+                 [ 97 ] 805-948-6353                                       [ 103 ] 805-948-6353                                       [ 109 ] ] 805-948-6353
+                 [ 98 ] More Information                                   [ 104 ] More Information                                   [ 110 ] More Information
 
-    [ @ 111 ]                                                  [ @ 117 ]                                                   [ @ 123 ]
+                 [ @ 111 ]                                                 [ @ 117 ]                                                 [ @ 123 ]
 
 
 
 
 
 
-    [ 112 ] Community Memorial Health Center                   [ 118 ] Community Memorial Health Center                    [ 124 ] Community Memorial Health Center
-    [ 113 ] 2921 Saviers Road                                   [ 119 ] 2361 East Vineyard Avenue                          [ 125 ] 3641 West 5th Street
-    [ 114 ] Oxnard, CA 93033                                   [ 120 ] ] Oxnard, CA 93036                                  [ 126 ] Oxnard, CA 93030
-    [ 115 ] 805-948-6353                                       [ 121 ] 805-948-6353                                        [ 127 ] 805-948-6353
-    [ 116 ] More Information                                   [ 122 ] More Information                                    [ 128 ] More Information
+                 [ 112 ] Community Memorial Health Center                  [ 118 ] Community Memorial Health Center                   [ 124 ] Community Memorial Health Center
+                 [ 113 ] 2921 Saviers Road                                 [ 119 ] 2361 East Vineyard Avenue                          [ 125 ] 3641 West 5th Street
+                 [ 114 ] Oxnard, CA 93033                                  [ 120 ] Oxnard, CA 93036                                   [ 126 ] Oxnard, CA 93030
+                 [ 115 ] 805-948-6353                                      [ 121 ] 805-948-6353                                       [ 127 ] 805-948-6353
+                 [ 116 ] More Information                                  [ 122 ] More Information                                   [ 128 ] More Information
 
-    [ @ 129 ]                                                  [ @ 135 ]                                                   [ @ 141 ]
+                 [ @ 129 ]                                                 [ @ 135 ]                                                  [ @ 141 ]
 
 
 
 
 
 
-    [ 130 ] Community Memorial Health Center                   [ 136 ] Community Memorial Hospital                        [ 142 ] Community Memorial Hospital
-    [ 131 ] 138 West Main Street, Suite E                      [ 137 ] 1306 Maricopa Highway                               [ 143 ] 147 North Brent Street
-    [ 132 ] Ventura, CA 93001                                  [ 138 ] Ojai, CA 93023                                      [ 144 ] Ventura, CA 93003
-    [ 133 ] 805-948-6353                                       [ 139 ] 805-948-1401                                        [ 145 ] 805-948-5011
-    [ 134 ] More Information                                    [ 140 ] More Information                                   [ 146 ] More Information
+                 [ 130 ] Community Memorial Health Center                  [ 136 ] Community Memorial Hospital                        [ 142 ] Community Memorial Hospital
+                 [ 131 ] 138 West Main Street, Suite E                     [ 137 ] ] 1306 Maricopa Highway                            [ 143 ] 147 North Brent Street
+                 [ 132 ] Ventura, CA 93001                                 [ 138 ] Ojai, CA 93023                                     [ 144 ] Ventura, CA 93003
+                 [ 133 ] 805-948-6353                                      [ 139 ] 805-948-1401                                       [ 145 ] 805-948-5011
+                 [ 134 ] More Information                                  [ 140 ] More Information                                   [ 146 ] More Information
 
-    [ @ 147 ]                                                  [ @ 153 ]                                                   [ @ 159 ]
+                 [ @ 147 ]                                                 [ @ 153 ]                                                 [ @ 159 ]
 
 
 
 
 
 
-    [ 148 ] Community Memorial New Parent                      [ 154 ] Community Memorial Pediatrics                      [ 160 ] Community Memorial Pharmacy
-    Resource Center
-                                                               [ 155 ] 3655 West 5th Street                                [ 161 ] 2790 Loma Vista Road
-    [ 149 ] 2580 East Main Street, Suite 101                   [ 156 ] Oxnard, CA 93030                                   [ 162 ] Ventura, CA 93003
-    [ 150 ] Ventura, CA 93003                                  [ 157 ] 805-948-4442                                       [ 163 ] 805-948-5175
-    [ 151 ] 805-658-2229
-                                                                [ 158 ] More Information                                   [ 164 ] More Information
-    [ 152 ] More Information
+                 [ 148 ] Community Memorial New Parent                     [ 154 ] Community Memorial Pediatrics                      [ 160 ] Community Memorial Pharmacy
+                 Resource Center
+                                                                           [ 155 ] 3655 West 5th Street                               [ 161 ] 2790 Loma Vista Road
+                 [ 149 ] 2580 East Main Street, Suite 101                  [ 156 ] Oxnard, CA 93030                                  [ 162 ] Ventura, CA 93003
+                 [ 150 ] Ventura, CA 93003                                 [ 157 ] 805-948-4442                                       [ 163 ] 805-948-5175
+                 [ 151 ] 805-658-2229
+                                                                           [ 158 ] More Information                                  [ 164 ] More Information
+                 [ 152 ] More Information
 
-    [ @ 165 ]                                                  [ @ 171 ]                                                   [ @ 177 ]
+                 [ @ 165 ]                                                 [ @ 171 ]                                                 [ @ 177 ]
 
 
 
 
 
 
-    [ 166 ] Community Memorial Urgent Care                     [ 172 ] Community Memorial Urgent Care                      [ 178 ] Community Memorial Urgent Care
-    [ 167 ] 422 Arneill Road, Suite A & B                       [ 173 ] 2721 East Main Street                              [ 179 ] 242 East Harvard Boulevard, Suite C
-    [ 168 ] Camarillo, CA 93010                                [ 174 ] Ventura, CA 93003                                   [ 180 ] Santa Paula, CA 93060
-    [ 169 ] 805-383-4520                                        [ 175 ] 805-667-2841                                       [ 181 ] 805-525-9595
-    [ 170 ] More Information                                   [ 176 ] More Information                                    [ 182 ] More Information
+                 [ 166 ] Community Memorial Urgent Care                    [ 172 ] Community Memorial Urgent Care                    [ 178 ] Community Memorial Urgent Care
+                 [ 167 ] 422 Arneill Road, Suite A & B                     [ 173 ] 2721 East Main Street                              [ 179 ] 242 East Harvard Boulevard, Suite C
+                 [ 168 ] Camarillo, CA 93010                                [ 174 ] Ventura, CA 93003                                [ 180 ] Santa Paula, CA 93060
+                 [ 169 ] 805-383-4520                                      [ 175 ] 805-667-2841                                       [ 181 ] 805-525-9595
+                 [ 170 ] More Information                                  [ 176 ] More Information                                   [ 182 ] More Information
 
-    [ @ 183 ]                                                  [ @ 189 ]                                                  [ @ 195 ]
+                 [ @ 183 ]                                                 [ @ 189 ]                                                 [ @ 195 ]
 
 
 
 
 
 
-    [ 184 ] Community Memorial Urgent Care                     [ 190 ] Community Memorial Urology &                       [ 196 ] Community Memorial Wellness &
-                                                               Urogynecology                                              Fitness Center
-    [ 185 ] 2921 Saviers Road
-    [ 186 ] Oxnard, CA 93033                                   [ 191 ] 2705 Loma Vista Road, Suite 206                     [ 197 ] 2723 East Main Street
-    [ 187 ] 805-487-5585                                       [ 192 ] Ventura, CA 93003                                   [ 198 ] Ventura, CA 93003
-                                                               [ 193 ] 805-643-4067                                        [ 199 ] 805-948-5064
-    [ 188 ] More Information
-                                                                [ 194 ] More Information                                   [ 200 ] More Information
+                 [ 184 ] Community Memorial Urgent Care                    [ 190 ] Community Memorial Urology &                      [ 196 ] Community Memorial Wellness & Fitness
+                  185 ] 2921 Saviers Road                                  Urogynecology                                             Center
+                 [
+                 [ 186 ] Oxnard, CA 93033                                  [ [ 191 ] ] 2705 Loma Vista Road, Suite 206                [ 197 ] 2723 East Main Street
+                 [ 187 ] 805-487-5585                                      [ 192 ] Ventura, CA 93003                                  [ 198 ] Ventura, CA 93003.
+                                                                           [ 193 ] 805-643-4067                                       [ 199 ] 805-948-5064
+                 [ 188 ] More Information
+                                                                           [ 194 ] More Information                                  [ 200 ] More Information
 
-    [ @ 201 ]                                                  [ @ 207 ]                                                   [ @ 213 ]
+                 [ @ 201 ]                                                 [ @ 207 ]                                                  [ @ 213 ]
 
 
 
 
 
 
-    [ 202 ] Community Memorial Wound Care                      [ 208 ] Grossman Imaging Centers                           [ 214 ] Grossman Imaging Centers
-    & Hyperbaric Medicine
-                                                               [ 209 ] 2900 Loma Vista Road, Suite 101                    [ 215 ] 2151 Gozales Road, Suite 101
-    [ 203 ] 2705 Loma Vista Road, Suite 205                    [ 210 ] ] Ventura, CA 93003                                 [ 216 ] ] Oxnard, CA 93036
-    [ 204 ] Ventura, CA 93003                                  [ 211 ] 805-988-0616                                        [ 217 ] 805-988-0616
-    [ 205 ] 805-585-3086                                                                                                   [ 218 ] More Information
-                                                               [ 212 ] More Information
-    [ 206 ] More Information
+                 [ 202 ] Community Memorial Wound Care &                   [ 208 ] Grossman Imaging Centers                           [ 214 ] Grossman Imaging Centers
+                 Hyperbaric Medicine                                                                                                  [ 215 ] 2151 Gozales Road, Suite 101
+                                                                           [ 209 ] 2900 Loma Vista Road, Suite 101
+                 [ 203 ] 2705 Loma Vista Road, Suite 205                   [ 210 ] Ventura, CA 93003                                  [ 216 ] ] Oxnard, CA 93036
+                 [ 204 ] Ventura, CA 93003                                 [ 211 ] 805-988-0616                                       [ 217 ] ] 805-988-0616
+                 [ 205 ] 805-585-3086
+                                                                           [ 212 ] More Information                                   [ 218 ] More Information
+                 [ 206 ] More Information
 
-    [ @ 219 ]                                                  [ @ 225 ]
+                 [ @ 219 ]                                                 [ @ 225 ]
 
 
 
 
 
 
-    [ 220 ] Grossman Imaging Centers                           [ 226 ] Ojai Hospital Foundation
-    [ 221 ] 2705 Loma Vista Road, Suite 100                    [ 227 ] 1301 Maricopa Highway, Suite A
-    [ 222 ] Ventura, CA 93003                                  [ 228 ] Ojai, CA 93023
-    [ 223 ] 805-988-0616                                        [ 229 ] 805-948-2317
-    [ 224 ] More Information                                   [ 230 ] More Information
+                 [ 220 ] Grossman Imaging Centers                          [ 226 ] Ojai Hospital Foundation
+                 [ 221 ] ] 2705 Loma Vista Road, Suite 100                 [ 227 ] 1301 Maricopa Highway, Suite A
+                 [ 222 ] Ventura, CA 93003                                 [ 228 ] Ojai, CA 93023
+                 [ 223 ] 805-988-0616                                      [ 229 ] 805-948-2317
+                 [ 224 ] More Information                                  [ 230 ] More Information
 
 
 
@@ -196,16 +192,16 @@
 
 
 
-                                                                   [ @ 238 ] Classes & Events          [ @ 239 ] Patient Portal             [ @ 240 ] Wise & Well
-    [ @ 231 ]
-                                                                   [ @ 241 ] Giving                    [ @ 242 ] Visitor Information        [ @ 243 ] For Physicians
-@ 235 ] in        [ @ 236 ] O [ @ 237 ]
-                                                                  [ @ 244 ] Careers                    [ @ 245 ] Vendor Management          [ @ 246 ] Contact Us
 
+                                                                           [ @ 238 ] Classes & Events                [ @ 239 ] Patient Portal                 [ @ 240 ] Wise & Well
+     [ @ 231 ]
+                                                                           [ @ 241 ] Giving                          [ @ 242 ] Visitor Information             [ @ 243 ] For Physicians
+ 235 ] in       @ 236 ]         [ @ 237 ]
+                                                                           [ @ 244 ] Careers                         [ @ 245 ] Vendor Management               [ @ 246 ] Contact Us
 
 
 
 
-     [ 247 ] Copyright © 2023   [ @ 248 ] Site Map [ @ 249 ] Privacy Policy. [ @ 250 ] Accessibility.                                                                  [ @ 251 ]
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2458
+      [ 247 ] Copyright © 2023 [ @ 248 ] Site Map [ @ 249 ] Privacy Policy. [ @ 250 ] Accessibility.                                                                                           [ @ 251 ]
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 2447

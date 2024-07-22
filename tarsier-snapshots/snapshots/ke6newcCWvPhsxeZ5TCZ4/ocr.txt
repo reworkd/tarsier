@@ -1,71 +1,64 @@
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 11 ] [ 12 ] [ 1
-           [ @ 3 ] About     [ @ 4 ] News    [ @ 5 ] Blog    [ @ 6 ] Give     [ @ 7 ] Contact   [ @ 8 ] Bill Pay   [ @ ] Hospital Pricing    [ @ 10 ] Patient Portal Login
-                         [ 0 ]                                                                                     [ @ 2 ] [ [ 1 ]
-     [ @ 14 ] Find a Service / Provider [ @ 15 ] Locations   [ @ 16 ] Services  [ @ 17 ] For Patients  [ @ 18 ] Volunteer  [ @ 19 ] Careers & Education    [ @ 20 ] ( 607 ) 737-4100
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 11 ] [ @ 1 [ @ ]
+                         [ @ 3 ] About   [ @ 4 ] News     [ @ 5 ] Blog   [ @ 6 ] Give    [ @ 7 ] Contact   [ @ 8 ] Bill Pay  [ @ 9 ] Hospital Pricing  [ @ 10 ] Patient Portal Login
+                                                                                                                         [ @ 2 ]  [ [ 1 ] ]
+           [ @ 14 ] Find a Service / Provider [ @ 15 ] Locations   [ @ 16 ] Services   [ @ 17 ] For Patients  [ @ 18 ] Volunteer   [ @ 19 ] Careers & Education    [ @ 20 ] ( 607 ) 737-4100 ㅁ
 
 
 
 
 
 
-              **[ 21 ] St. Joseph's Campus of Arnot Health**
+                        **[ 21 ] St. Joseph's Campus of Arnot Health**
 
-                [ @ 22 ] Find a Service ☐
-
-
-
-
-                                                                                              [ 23 ] Contact Info
-                                                                                             나
-
-                                                                                               ☐
-                                                                                                   [ 24 ] 555 St. Joseph's Boulevard
-                                                                                              ☐    [ 25 ] 607-733-6541
-
-                                                                                              [ 26 ] Location Details
-                                                                                              [ 27 ] St. Joseph's Hospital located in Elmira, NY, and founded in
-                                                                                             1908 by the Sisters of St. Joseph of Rochester, New York, is a not-
-                                                                                             for - profit, 125 - bed Catholic hospital specializing in orthopedic care,
-                                                                                             physical rehabilitation, geriatric medicine, behavioral science, and
-                                                                                             alcohol rehabilitation.
+                          [ @ 22 ] Find a Service
 
 
 
-                    [ 28 ] St. Joseph's Hospital
 
-                    [ 29 ] Founded by the Sisters of St. Joseph of Rochester with the citizens of Elmira, NY, St. Joseph's Hospital is a Catholic community hospital
-                   for people of all faiths. Our healthcare providers practice with a deep respect for the dignity of each person, and strive to heal, as Jesus did,
-                   in mind, body, and spirit, all who come to us. As part of Arnot Health, we are able to ensure your access to the highest quality care.
+                                                                                                     [ 23 ] Contact Info
 
+                                                                                                     ☐    [ 24 ] 555 St. Joseph's Boulevard
+                                                                                                     ☐    [ 25 ] 607-733-6541
 
-                       [ 30 ] Before your stay                          [ 33 ] During your stay                         [ 37 ] During your stay
-                       [ 31 ] Review the Patient Guide to               [ @ 34 ] Support Services ☐                     [ 38 ] Safe, secure online bill pay and
-                       answer any questions.                                                                            release forms are available for your
-                                                                        [ @ 35 ] Visitation Guidelines☐
-                                                                                                                        convenience.
-                       [ @ 32 ] Patient Guide
-                                                                        [ @ 36 ] Prayer Request
-                                                                                                                        [ @ 39 ] Planning Your Discharge
-                                                                                                                        [ @ 40 ] Pay Your Hospital Bill
-                                                                                                                        [ @ 41 ] Self - Pay Collection Policy &
-                                                                                                                        Procedure
-
-                                                                                                                        [ @ 42 ] Medical Records
-                                                                                                                        Requests
+                                                                                                     [ 26 ] Location Details
+                                                                                                     [ 27 ] St. Joseph's Hospital located in Elmira, NY, and founded in 1908 by the Sisters of
+                                                                                                     St. Joseph of Rochester, New York, is a not - for - profit, 125 - bed Catholic hospital
+                                                                                                     specializing in orthopedic care, physical rehabilitation, geriatric medicine, behavioral
+                                                                                                     science, and alcohol rehabilitation.
 
 
 
-                                                         [ 43 ] Health on Demand
-                                                         [ 44 ] Call center and physician referral service [ @ 45 ] 607-737-4499
+    [ 28 ] St. Joseph's Hospital
+
+      [ 29 ] Founded by the Sisters of St. Joseph of Rochester with the citizens of Elmira, NY, St. Joseph's Hospital is a Catholic community hospital for people of all faiths. Our healthcare
+          providers practice with a deep respect for the dignity of each person, and strive to heal, as Jesus did, in mind, body, and spirit, all who come to us. As part of Arnot Health, we are
+          able to ensure your access to the highest quality care.
+
+
+              [ 30 ] Before your stay                                     [ 33 ] During your stay                                    [ 37 ] During your stay
+              [ 31 ] Review the Patient Guide to answer any              [ @ 34 ] Support Services                                   [ 38 ] Safe, secure online bill pay and release forms
+              questions.                                                                                                            are available for your convenience.
+                                                                          [ @ 35 ] Visitation Guidelines ☐
+              [ @ 32 ] Patient Guide                                                                                                 [ @ 39 ] Planning Your Discharge
+                                                                         [ @ 36 ] Prayer Request
+                                                                                                                                     [ @ 40 ] Pay Your Hospital Bill
+                                                                                                                                     [ @ 41 ] Self - Pay Collection Policy &
+                                                                                                                                     Procedure ☐
+
+                                                                                                                                     [ @ 42 ] Medical Records Requests
 
 
 
-                    [ @ 46 ]                                                                                                                                [ # 51 ]
-                        **Arnot Health**                           [ @ 47 ] Patient Portal Login             [ @ 49 ] Privacy
-                            It's what                                                                                                                 [ @ 52 ] [ 53 ] [ @ 54 ]
-                                      we do
-                                                                   [ @ 48 ] Social Media Guidelines          [ @ 50 ] Corporate Compliance
-                                                                                                                                        [ 55 ] 2023  Arnot Health
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 727
+                                                                  [ 43 ] Health on Demand
+                                                                  [ 44 ] Call center and physician referral service [ @ 45 ] 607-737-4499
+
+
+                                                                                                                                                                                    [ # 51 ]
+                      **Arnot Health**                            [ @ 47 ] Patient Portal Login           [ @ 49 ] Privacy
+                          It's what we do                                                                                                                                     [ @ 52 ] [ @ 5: [ @ 54 ]
+           [ @ 46 ]
+                                                                  [ @ 48 ] Social Media Guidelines        [ @ 50 ] Corporate Compliance
+                                                                                                                                                                 [ 55 ] 2023 Arnot Health
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 711

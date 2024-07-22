@@ -1,113 +1,116 @@
--------------------------------------------------------------------------------------------------------
-@ 31      EB                                                     [ @ 6 ] Jobs [ @ 7 ] Report Line [ $ 8 ]
-                 [ @ 4 ] [ @ 5 ]
+-----------------------------------------------------------------------------------------------------------
+@ 31     EB                                                             [ @ 6 ] Jobs [ @ 7 ] Report Line [ $ 8 ]
+                [ @ 4 ] [ @ 5 ]
    **NGO OWENS**
    HUGO
-           Hugo A. Owens                                               [ $ 9 ]  [ $ 10 ]    [ $ 11 ]
-  **MIDDLE** Middle School                                             = MENU   SCHOOLS V   TRANSLATE ✓
+          Hugo A. Owens
+  **MIDDLE**                                                       [ $ 9 ] = MENU [ $ 10 ] SCHOOLS ✓ [ $ 11 ] TRANSLATE ✓
+          Middle School
 
       SCHOOL
-                 [ @ 12 ] HUGO OWENS MIDDLE 11 [ @ 13 ] STAFF
+
+               [ @ 12 ] HUGO OWENS MIDDLE // [ @ 13 ] STAFF
 
 
-           HUGO OWENS [ 14 ] BIRGIT KUEPPERS            **NOO** HUGO **OWENS** [ 19 ] LINDSEY YOUNG
-                    [ 15 ] German Teacher              **MIDDLE** [ 20 ] Lead Secretary
+           HUGO    [ 14 ] BIRGIT KUEPPERS                **NOO** HUGO **OWENS** [ 19 ] LINDSEY YOUNG
+                   [ 15 ] German Teacher                 **MIDDLE** [ 20 ] Lead Secretary
            **MIDDLE**
-                    [ 16 ] Foreign Language                     [ 21 ] Office
-              SCHOOL                                      SCHOOL
-                    [ 17 ] 757-558-5382                         [ 22 ] 757-558-5382
-                    [ @ 18 ] Birgit.Kueppers@cpschools.com      [ @ 23 ] Lindsey.Young@cpschools.com
-
-                    [ 24 ] IVETTE CATES                 NGO HUGO **OWENS** [ 29 ] NILIJAH ALSTON
-            HUGO
-                    [ 25 ] Bookkeeper                           [ 30 ] Teacher Assistant
-           **MIDDLE**                                  **MIDDLE**
-              SCHOOL [ 26 ] Office                              [ 31 ] 757-558-5382
-                                                          SCHOOL
-                    [ 27 ] 757-558-5382                         [ @ 32 ] Nilijah.Alston@cpschools.com
-                    [ @ 28 ] Ivette.Cates@cpschools.com
-                    [ 33 ] JALISA WADDELL                       [ 37 ] SHARON DENNIS
-                                                        HUGO
-                    [ 34 ] Teacher Assistant           **MIDDLE** [ 38 ] Special Education Teacher
+             ESCHOOL [ 16 ] Foreign Language                     [ 21 ] Office
+                                                           SCHOOL
+                   [ 17 ] 757-558-5382                           [ 22 ] 757-558-5382
+                   [ @ 18 ] Birgit.Kueppers@cpschools.com        [ @ 23 ] Lindsey.Young@cpschools.com
+             **OWENS** 24 ] IVETTE CATES                         [ 29 ] NILIJAH ALSTON
+           HUGO    [                                     HUGO
+                   [ 25 ] Bookkeeper                             [ 30 ] Teacher Assistant
+           **MIDDLE**                                    **MIDDLE**
+                   [ 26 ] Office                                 [ 31 ] 757-558-5382
+              SCHOOL
+                   [ 27 ] 757-558-5382                           [ @ 32 ] Nilijah.Alston@cpschools.com
+                   [ @ 28 ] Ivette.Cates@cpschools.com
+             **WENS** [ 33 ] JALISA WADDELL                      [ 37 ] SHARON DENNIS
+           HUGO                                           HUGO
+                   [ [ 34 ] Teacher Assistant            **MIDDLE** [ 38 ] Special Education Teacher
            **MIDDLE**
-              SCHOOL [ 35 ] 757-558-5382                  SCHOOL [ 39 ] Special Education
-                    [ @ 36 ] Jalisa.Waddell@cpschools.com       [ 40 ] 757-558-5382
-                                                                [ @ 41 ] Sharon.Dennis @ cpschools.com
-                    [ 42 ] AARON OLSON                          [ 47 ] KELSEY CLYBURN
-                    [ 43 ] 6th Grade Teacher                    [ 48 ] 6th Grade Teacher
-           **MIDDLE**                                  **MIDDLE**
-              SCHOOL [ 44 ] Social Studies                SCHOOL [ 49 ] English
-                    [ 45 ] 757-558-5382                         [ 50 ] 757-558-5382
-                    [ @ 46 ] Aaron.Olson@cpschools.com          [ @ 51 ] Kelsey.Clyburn@cpschools.com
-
-           **NUGO OWENS** [ 52 ] PATRICK ACE            HUGO    [ 56 ] DAVID BALDWIN
-                    [ 53 ] Baseball Coach                       [ 57 ] 8th Grade Teacher
-           **MIDDLE**                                  **MIDDLE**
-                    [ 54 ] Coach                                [ 58 ] Math
-              SCHOOL                                      SCHOOL
-                    [ 55 ] 757-558-5382                         [ 59 ] 757-558-5382
-                                                                [ @ 60 ] David.Baldwin@cpschools.com
-
-           **HUGO OWENS** [ 61 ] MARY BARKS            HUGO O OWENS [ 66 ] EMILY BARRY
-                    [ 62 ] 7th Grade Teacher                    [ 67 ] Media Specialist
-           **MIDDLES**                                 **MIDDLE**
-                    [ 63 ] Science                              [ 68 ] Media Center
-              SCHOOL                                      SCHOOL
-                    [ 64 ] 757-558-5382                         [ 69 ] 757-558-5382
-                    [ @ 65 ] Mary.Barks@cpschools.com           [ @ 70 ] Emily.Barry@cpschools.com
-              **NENS**                                   **OWENS WENS**
-                    [ 71 ] ERINN BELL                   HUGO    [ 76 ] ERINN BELL
-                    [ 72 ] Soccer Coach                         [ 77 ] Teacher Asssitant
-           **MIDDLE**                                  **MIDDLE**
-                    [ 73 ] Coach                                [ 78 ] Special Education
-              SCHOOL                                      SCHOOL
-                    [ 74 ] 757-558-5382                         [ 79 ] 757-558-5382
-                    [ @ 75 ] Erinn.Bell@cpschools.com           [ @ 80 ] Erinn.Bell@cpschools.com
-                                                         **OWENS**
-           HUGO     [ 81 ] JACQUELINE BENN              HUGO    [ 86 ] AMBER BOULANGER
-                    [ 82 ] 8th Grade Teacher                    [ 87 ] Special Education Teacher
-           **MIDDLE**                                  **MIDDLE**
-                    [ 83 ] Science                              [ 88 ] Special Education
-              SCHOOL                                      SCHOOL
-                    [ 84 ] 757-558-5382                         [ 89 ] 757-558-5382
-                    [ @ 85 ] Jacqueline.Benn@cpschools.com      [ @ 90 ] Amber.Boulanger@cpschools.com
-           **NUGO OWENS** [ 91 ] CHRISTY BRAY           GO **OWENS** [ 96 ] ALLAN BROTHERS
-                                                        HUGO
-                    [ 92 ] Clinic Assistant                     [ 97 ] Health / PE Teacher
-           **MIDDLE**                                  **MIDDLE**
-                    [ 93 ] Clinic                               [ 98 ] Health & PE
-              SCHOOL                                      SCHOOL
-                    [ 94 ] 757-558-5382                         [ 99 ] 757-558-5382
-                    [ @ 95 ] Christy.Bray@cpschools.com         [ @ 100 ] Allan.brothers@cpschools.com
-           **NUGO OWENS** [ 101 ] CONCEPCION BROWN      GO **OWENS** [ 106 ] ROBERT BROWN
-                                                        HUGO
-                    [ 102 ] Teacher Asssitant                   [ 107 ] Technology Education
-                                                       **MIDDLE**
-           **HDDLE SCHOOL** [ 103 ] Special Education   DLE SCHOOL [ 108 ] Electives
-                    [ 104 ] 757-558-5382                        [ 109 ] 757-558-5382
-                    [ @ 105 ] Concepcion. Brown@cpschools.com   [ @ 110 ] RobertHOM.Brown@cpschools.com
-
-
+              SCHOOL [ 35 ] 757-558-5382                   SCHOOL [ 39 ] Special Education
+                   [ @ 36 ] Jalisa.Waddell@cpschools.com         [ 40 ] 757-558-5382
+                                                                 [ @ 41 ] Sharon.Dennis @ cpschools.com
+                   [ 42 ] AARON OLSON                            [ 47 ] KELSEY CLYBURN
+                   [ 43 ] 6th Grade Teacher                      [ 48 ] 6th Grade Teacher
+           **MIDDLES**                                   **MIDDLE**
+             SCHOOL [ 44 ] SocialStudies                   SCHOOL [ 49 ] English
+                   [ 45 ] 757-558-5382                           [ 50 ] 757-558-5382
+                   [ @ 46 ] Aaron.Olson@cpschools.com            [ @ 51 ] Kelsey.Clyburn@cpschools.com
+             **OWENS**                                   **300**
+           HUGO    [ 52 ] PATRICK ACE                    HUGO **OWENS** [ 56 ] DAVID BALDWIN
+                   [ 53 ] Baseball Coach                         [ 57 ] 8th Grade Teacher
+          **MIDDLE**                                     **MIDDLE**
+                   [ 54 ] Coach                                  [ 58 ] Math
+              SCHOOL                                        SCHOOL
+                   [ 55 ] 757-558-5382                           [ 59 ] 757-558-5382
+                                                                 [ @ 60 ] David.Baldwin@cpschools.com
+                   [ 61 ] MARY BARKS                      GO OWENS [ 66 ] EMILY BARRY
+                                                         HUGO
+                   [ 62 ] 7th Grade Teacher                      [ 67 ] Media Specialist
+          **MIDDLE**                                    **MIDDLE**
+                   [ 63 ] Science                                [ 68 ] Media Center
+              SCHOOL                                        SCHOOL
+                   [ 64 ] 757-558-5382                           [ 69 ] 757-558-5382
+                   [ @ 65 ] Mary.Barks@cpschools.com             [ @ 70 ] Emily.Barry@cpschools.com
+             **OWENS**                                     **OWENS**
+           HUGO    [ 71 ] ERINN BELL                     HUGO    [ 76 ] ERINN BELL
+                   [ 72 ] Soccer Coach                           [ 77 ] Teacher Asssitant
+          **MIDDLE**                                     **MIDDLE**
+                   [ 73 ] Coach                                  [ 78 ] Special Education
+             SCHOOL                                         SCHOOL
+                   [ 74 ] 757-558-5382                           [ 79 ] 757-558-5382
+                   [ @ 75 ] Erinn.Bell@cpschools.com             [ @ 80 ] Erinn.Bell@cpschools.com
+             **OWENS**                                     **OWENS**
+           HUGO    [ 81 ] JACQUELINE BENN                HUGO    [ 86 ] AMBER BOULANGER
+                   [ 82 ] 8th Grade Teacher                      [ 87 ] Special Education Teacher
+          **MIDDLE**                                    **MIDDLE**
+                   [ 83 ] Science                                [ 88 ] Special Education
+              SCHOOL                                        SCHOOL
+                   [ 84 ] 757-558-5382                           [ 89 ] 757-558-5382
+                   [ @ 85 ] Jacqueline.Benn@cpschools.com        [ @ 90 ] Amber.Boulanger@cpschools.com
+           GO **OWENS** [ 91 ] CHRISTY BRAY               GO **OWENS** [ 96 ] ALLAN BROTHERS
+           HUGO                                          HUGO
+                   [ 92 ] Clinic Assistant                       [ 97 ] Health / PE Teacher
+                                                        **MIDDLE**
+                   [ 93 ] Clinic                                 [ [ 98 ] Health & PE
+                                                            SCHOOL
+                   [ 94 ] 757-558-5382                           [ 99 ] 757-558-5382
+                   [ @ 95 ] Christy.Bray@cpschools.com           [ @ 100 ] Allan.brothers@cpschools.com
+                   [ 101 ] CONCEPCION BROWN               GO **OWENS** [ 106 ] ROBERT BROWN
+           HUGO                                          HUGO
+                   [ 102 ] Teacher Asssitant                     [ 107 ] Technology Education
+          **MIDDLE**                                    **MIDDLE**
+           **HODLE SCHOOL** [ 103 ] Special Education     DLE SCHOOL [ 108 ] Electives
+                   [ 104 ] 757-558-5382                          [ 109 ] 757-558-5382
+                   [ @ 105 ] Concepcion. Brown@cpschools.com     [ @ 110 ] RobertHOM.Brown@cpschools.com
 
 
 
-          **OWENS**                       [ @ 118 ]
-                                                                                [ 119 ] Stay Connected
+
+
+
+         **OWENS**                           [ @ 118 ]                                [ 119 ] Stay Connected
 
       HUGO
-                                                                                [ @ 120 ]
-     **MIDDLE**                                                                       Download on the
-                                            2022-2023                                 App Store
+                                                                                      [ @ 120 ]
+                                                                                           Download on the
+     **MIDDLE**
+                                                                                           App Store
+                                               2022-2023
 
-           SCHOOL
-                                                                                [ @ 121 ]
-    [ 111 ] Find Us                                                                    GET IT ON
-                                                                                       Google Play
+         ESCHOOL
+                                                                                      [ @ 121 ]
+    [ 111 ] Find Us                                                                         GET IT ON
+                                                                                            **Google Play**
     [ 112 ] Hugo Owens Middle
-    [ 113 ] 1997 Horseback Run                                                  [ @ 122 ] [ @ 123 ] [ 124 ]
+    [ 113 ] 1997 Horseback Run                                                        [ @ 122 ] [ @ 123 ] [ 124 ]
     [ 114 ] Chesapeake, VA 23323
-                                                                                 **X**
-    [ @ 115 ] ( 757 ) 558-5382
+     @ 115 ] ( 757 ) 558-5382                                                         **X**
+    [
     [ @ 116 ] ( 757 ) 558-5386
     [ 117 ] Instagram:
     @hugoowensms
@@ -115,7 +118,7 @@
     @hugoowensms
 
 
-                                  [ 125 ] Copyright © 2024 Chesapeake Public Schools. All rights reserved.
-                                           [ 126 ] Powered By [ @ 127 ] Thrillshare
--------------------------------------------------------------------------------------------------------
-Token count: 1671
+                                     [ 125 ] Copyright © 2024 Chesapeake Public Schools. All rights reserved.
+                                              [ 126 ] Powered By [ @ 127 ] Thrillshare
+-----------------------------------------------------------------------------------------------------------
+Token count: 1691

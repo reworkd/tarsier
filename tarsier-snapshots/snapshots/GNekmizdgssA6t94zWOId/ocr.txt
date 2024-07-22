@@ -1,106 +1,106 @@
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 0 ] Holiday Hours                                                                                                                               [ $ 1 ]
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 0 ] Holiday Hours                                                                                                                                                                             [ $ 1 ]
 
 
-                                                                                  [ @ 8 ] Fi     [ @ 9 ] Care     [ @ 10 ] Patie     [ @ 11 ] WakeMed
-      **WakeMed**                                                                 nd a           &                nts &             Physician Practices
-                                                                                  Doctor         Services         Visitors
+                                                                                                          [ @ 8 ] Fi       [ @ 9 ] Care        [ @ 10 ] Patie       [ @ 11 ] WakeMed
+                   **WakeMed**                                                                            nd a             &                  nts &                 Physician Practices
+                                                                                                          Doctor           Services           Visitors
 
 
-       [ @ 12 ] Home    [ @ 13 ] Find a Location   [ 14 ] Location Detail
+                   [ @ 12 ] Home       [ @ 13 ] Find a Location - [ 14 ] Location Detail
 
-                                                                                           [ @ 16 ] BACK TO SEARCH RESULTS            [ @ 17 ] START OVER
-       **[ 15 ] Gastroenterology - North**
-      **Raleigh**
-                                                                     [ @ 30 ] Hide Map
-                                                                     [ # 31 ] Enter Address ...            [ $ 32 ] DIRECTIONS
+                                                                                                                    [ @ 16 ] BACK TO SEARCH RESULTS                   [ @ 17 ] START OVER
+                   **[ 15 ] Gastroenterology - North**
+                   **Raleigh**
+                                                                                          [ @ 30 ]   Hide Map
+                                                                                          [ # 31 ] Enter Address ...                  [ $ 32 ] DIRECTIONS
 
-                                                                        [ $ 35 ] Map   [ $ 36 ] Satellite                                         [ $ 37 ]
-
-
-                                                                                                                                                  [ $ 38 ]
-       [ 18 ] WakeMed North Hospital Physicians Office Pavilion
-       [ 19 ] 10010 Falls of Neuse Road, Suite 203
-       [ 20 ] Raleigh, North Carolina 27614
-                                                                                                                                                  [ $ 39 ]
-       [ @ 21 ] 919-235-6440
-                                                                                                                                                  [ $ 40 ]
-       [ $ 22 ] Fax                                                  [ @ 41bgle
-       [ 23 ] 919-350-7093                                                                        [ $ 42 ] Keyboard shortcuts [ 43 ] Map data © 2023 [ @ 44 ] Terms [ @ 45 ] Report a map error
-       [ $ 24 ] HOURS
-            [ 25 ] Monday 8:00 AM - 5: 00 PM
-            [ 26 ] Tuesday 8:00 AM - 5: 00 PM
-         ⚫ [ 27 ] Wednesday 8:00 AM - 5: 00 PM
-            [ 28 ] Thursday 8:00 AM - 5: 00 PM
-          • [ 29 ] Friday 8:00 AM - 12: 00 PM
-       [ $ 46 ] DESCRIPTION
-  [ 47 ] The physicians at WakeMed Gastroenterology excel in diagnosing and treating a variety of digestive diseases and disorders with sophisticated
-      procedures addressing everything from acid reflux, swallowing difficulties and polyps to Crohn's, and more.
-  [ 48 ] Our dedicated physicians provide exceptional care by working closely with patients to diagnose and treat gastrointestinal disorders so that our
-      patients can return to a normal, healthy life as quickly as possible. We treat a wide variety of conditions with the most advanced treatment options
-      available.
-
-          [ @ 49 ] SCHEDULE AN APPOINTMENT
-
-**[ 50 ]** **Common GI Conditions We Treat**
-       [ 51 ] Abdominal pain
-       [ 52 ] Anorectal disorders
-       [ 53 ] Colon polyps
-       [ 54 ] Diagnosis and staging of gastrointestinal malignancies like esophageal, pancreaticobiliary and colorectal cancer
-       [ 55 ] Diverticulitis
-       [ 56 ] Gastroesophageal reflux disease ( GERD )
-       [ 57 ] Gastrointestinal bleeding
-       [ 58 ] Indigestion and heartburn Intestinal pain and conditions including:
-            [ 59 ] Inflammatory bowel diseases ( IBD )
-            [ 60 ] ulcerative colitis
-            [ 61 ] Crohn's disease
-            [ 62 ] Irritable bowel syndrome ( IBS )
-       [ 63 ] Pancreatobiliary disorders
-       [ 64 ] PEG Tubes
-       [ 65 ] Peptic ulcer disease
-       [ 66 ] Stomach pain and conditions
-       [ 67 ] Ulcers
-       [ 68 ] Swallowing disorders
-
-         [ 69 ] Providers at this location
-
-       [ @ 70 ]                 [ @ 73 ]                [ @ 76 ]                [ @ 79 ]                [ @ 82 ]                [ @ 85 ]
+                                                                                              [ $ 35 ] Map     [ $ 36 ] Satellite                                                  [ $ 37 ]
 
 
+                                                                                                                                                                                    [ $ 38 ]
+                   [ 18 ] WakeMed North Hospital Physicians Office Pavilion
+                   [ 19 ] 10010 Falls of Neuse Road, Suite 203
+                   [ 20 ] Raleigh, North Carolina 27614                                                                                                                             [ $ 39 ]
+                   [ @ 21 ] 919-235-6440
+                                                                                                                                                                                    [ $ 40 ]
+                   [ $ 22 ] Fax                                                            1 @ **41bgle**
+                   [ 23 ] 919-350-7093                                                                                       [ $ 42 ] Keyboard shortcuts [ 43 ] Map data © 2023 [ @ 44 ] Terms [ @ 45 ] Report a map error
+                   [ $ 24 ] HOURS
+                         [ 25 ] Monday 8:00 AM - 5: 00 PM
+                         [ 26 ] Tuesday 8:00 AM - 5: 00 PM
+                         [ 27 ] Wednesday 8:00 AM - 5: 00 PM
+                         [ 28 ] Thursday 8:00 AM - 5: 00 PM
+                      ⚫ [ 29 ] Friday 8:00 AM - 12: 00 PM
+                   [ $ 46 ] DESCRIPTION
+              [ 47 ] The physicians at WakeMed Gastroenterology excel in diagnosing and treating a variety of digestive diseases and disorders with sophisticated
+                   procedures addressing everything from acid reflux, swallowing difficulties and polyps to Crohn's,             and more.
+              [ 48 ] Our dedicated physicians provide exceptional care by working closely with patients to diagnose and treat gastrointestinal disorders so that our
+                   patients can return to a normal, healthy life as quickly as possible. We treat a wide variety of conditions with the most advanced treatment options
+                   available.
+
+                       [ @ 49 ] SCHEDULE AN APPOINTMENT
+
+         [ 50 ]    **Common GI Conditions We Treat**
+                    [ 51 ] Abdominal pain
+                    [ 52 ] Anorectal disorders
+                   [ 53 ] Colon polyps
+                   [ 54 ] Diagnosis and staging of gastrointestinal malignancies like esophageal,          pancreaticobiliary and colorectal cancer
+                   [ 55 ] Diverticulitis
+                   [ 56 ] Gastroesophageal reflux disease ( GERD )
+                   [ 57 ] Gastrointestinal bleeding
+                    [ 58 ] Indigestion and heartburn Intestinal pain and conditions including:
+                         [ 59 ] Inflammatory bowel diseases ( IBD )
+                         [ 60 ] ulcerative colitis
+                         [ 61 ] Crohn's disease
+                         [ 62 ] Irritable bowel syndrome ( IBS )
+                   [ 63 ] Pancreatobiliary disorders
+                    [ 64 ] PEG Tubes
+                    [ 65 ] Peptic ulcer disease
+                    [ 66 ] Stomach pain and conditions
+                    [ 67 ] Ulcers
+                   [ 68 ] Swallowing disorders
+
+                      [ 69 ] Providers at this location
+
+                    [ @ 70 ]                    [ @ 73 ]                    [ @ 76 ]                    [ @ 79 ]                   [ @ 82 ]                    [ @ 85 ]
 
 
 
 
-         [ 71 ] Riaz Chowdhury,  [ 74 ] Juan G. Herrera, [ 77 ] Hayden Hopkins,  [ 80 ] Kathleen Kierski, [ 83 ] Adeyemi Lawal,    [ 86 ] Leah Shin, PA
-        MD, PhD, AGAF, FACG        MD, FACP, FACG,               PA - C                  PA - C            MD, FACP, AGAF          [ 87 ] Gastroenterology
-          [ 72 ] Gastroenterology   AGAF, FASGE            [ 78 ] Gastroenterology [ 81 ] Gastroenterology [ 84 ] Gastroenterology
-                                   [ 75 ] Gastroenterology
+
+
+                     [ 71 ] Riaz Chowdhury,       [ 74 ] Juan G. Herrera,    [ 77 ] Hayden Hopkins,      [ 80 ] Kathleen Kierski,    [ 83 ] Adeyemi Lawal,        [ 86 ] Leah Shin, PA
+                     MD, PhD, AGAF, FACG           MD, FACP, FACG,                    PA - C                     PA - C                MD, FACP, AGAF             [ 87 ] Gastroenterology
+                       [ 72 ] Gastroenterology       AGAF, FASGE               [ 78 ] Gastroenterology     [ 81 ] Gastroenterology    [ 84 ] Gastroenterology
+                                                   [ 75 ] Gastroenterology
 
 
 
-        [ @ 88 ]                             [ @ 92 ] About Us                   [ @ 100 ] Manage Your Health         [ 108 ] Stay Connected
-         **WakeMed**                         [ @ 93 ] Careers                    [ @ 101 ] WakeMed MyChart            [ @ 109 ] [ @ 110 ]  [ @ 111 ]
-                                             [ @ 94 ] Commitment to Quality      [ @ 102 ] Medical records             ☐          ㅁ          ☐
-                [ 89 ] 3000 New Bern Ave.    [ @ 95 ] News & Media               [ @ 103 ] Pay Your Bill
-                 [ 90 ] Raleigh, NC 27610                                        [ @ 104 ] Contact Us                           [ @ 112 ]  [ @ 113 ]
-                                             [ @ 96 ] Notice of Privacy                                                ☐
-                                             Practices                                                                            ㅁ          ☐
-                                                                                 [ @ 105 ] For Providers
-               [ @ 91 ]  919-350-8000
-                                                                                 [ @ 106 ] For Employees
-                                             [ @ 97 ] Price Transparency
-                                                                                 [ @ 107 ] COVID - 19 Information
-                                             [ @ 98 ] Volunteer
-                                                                                                                      [ @ 114 ]
-                                             [ @ 99 ] Make a Gift
-                                                                                                                         WakeMed
-                                                                                                                        **MyCHART**
-                                                                                                                      [ @ 115 ]
-                                                                                                                      WAKEMED VOICES BLOG
+                     [ @ 88 ]                                  [ @ 92 ] About Us                         [ @ 100 ] Manage Your Health             [ 108 ] Stay Connected
+                      **WakeMed**                              [ @ 93 ] Careers                          [ @ 101 ] WakeMed MyChart                 [ @ 109 ]   [ @ 110 ]    [ @ 111 ]
+                                                                                                                                                                             ㅁ
+                                                               [ @ 94 ] Commitment to Quality            [ @ 102 ] Medical records                   ☐           ㅁ
+                              [ 89 ] 3000 New Bern Ave.        [ @ 95 ] News & Media                     [ @ 103 ] Pay Your Bill
+                               [ 90 ] Raleigh, NC 27610        [ @ 96 ] Notice of Privacy                [ @ 104 ] Contact Us                        ☐         [ @ 112 ]    [ @ 113 ]
+
+                                                               Practices                                                                                         ☐              ☐
+                                                                                                         [ @ 105 ] For Providers
+                             [ @ 91 ]   919-350-8000
+                                                                                                         [ @ 106 ] For Employees
+                                                               [ @ 97 ] Price Transparency
+                                                                                                         [ @ 107 ] COVID - 19 Information
+                                                               [ @ 98 ] Volunteer
+                                                                                                                                                   [ @ 114 ]
+                                                               [ @ 99 ] Make a Gift
+                                                                                                                                                       WakeMed
+                                                                                                                                                      **MyCHART**
+                                                                                                                                                   [ @ 115 ]
+                                                                                                                                                   WAKEMED VOICES BLOG
 
 
-          [ 116 ] © 2023 WakeMed Health & Hospitals
+                       [ 116 ] © 2023 WakeMed Health & Hospitals
 
-          [ @ 117 ] Site Map     [ @ 118 ] Non - Discrimination Statement [ @ 119 ] Notice of Privacy Practices [ @ 120 ] Terms of Use
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1340
+                       [ @ 117 ] Site Map        [ @ 118 ] Non - Discrimination Statement      [ @ 119 ] Notice of Privacy Practices      [ @ 120 ] Terms of Use
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1360
