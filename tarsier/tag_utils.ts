@@ -66,7 +66,10 @@ const isEmpty = (el: HTMLElement) => {
 
 function isElementInViewport(el: HTMLElement) {
   const rect = el.getBoundingClientRect();
+
+  const isLargerThan1x1 = rect.width > 1 || rect.height > 1;
   return (
+    isLargerThan1x1 &&
     rect.top >= 0 &&
     rect.left >= 0 &&
     rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
@@ -155,7 +158,7 @@ function create_tagged_span(idNum: number, el: HTMLElement) {
   idSpan.style.padding = "1.5px";
   idSpan.style.borderRadius = "3px";
   idSpan.style.fontWeight = "bold";
-  // idSpan.style.fontSize = "15px"; // Removing because OCR won't see text among large font
+  // idSpan.style.fontSize = "15px"; // Removing because OCR won't see small text among large font
   idSpan.style.fontFamily = "Arial";
   idSpan.style.margin = "1px";
   idSpan.style.lineHeight = "1.25";
@@ -164,8 +167,8 @@ function create_tagged_span(idNum: number, el: HTMLElement) {
   idSpan.style.clip = 'auto';
   idSpan.style.height = 'fit-content';
   idSpan.style.width = 'fit-content';
-  idSpan.style.minHeight = 'fit-content';
-  idSpan.style.minWidth = 'fit-content';
+  idSpan.style.minHeight = '15px';  // Based on a minimum font size of 10px
+  idSpan.style.minWidth = '23px';   // Based on a minimum font size of 10px
   idSpan.style.maxHeight = 'unset';
   idSpan.style.maxWidth = 'unset';
   idSpan.textContent = idStr;
@@ -176,6 +179,17 @@ function create_tagged_span(idNum: number, el: HTMLElement) {
   return idSpan;
 }
 
+const MIN_FONT_SIZE = 10;
+const ensureMinimumTagFontSizes = () => {
+  const tags = Array.from(document.querySelectorAll(tarsierSelector)) as HTMLElement[];
+  tags.forEach((tag) => {
+    let fontSize = parseFloat(window.getComputedStyle(tag).fontSize.split("px")[0]);
+    if (fontSize < MIN_FONT_SIZE) {
+      tag.style.fontSize = `${MIN_FONT_SIZE}px`;
+    }
+  });
+}
+
 window.tagifyWebpage = (tagLeafTexts = false) => {
   window.removeTags();
   hideMapElements();
@@ -184,7 +198,9 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
   const rawElementsToTag = getElementsToTag(allElements, tagLeafTexts);
   const elementsToTag = removeNestedTags(rawElementsToTag);
   const idToXpath = insertTags(elementsToTag, tagLeafTexts);
+  ensureMinimumTagFontSizes();
   absolutelyPositionMissingTags();
+  shrinkCollidingTags();
 
   return idToXpath;
 };
@@ -268,19 +284,35 @@ function removeNestedTags(elementsToTag: HTMLElement[]): HTMLElement[] {
 }
 
 function insertTags(elementsToTag: HTMLElement[], tagLeafTexts: boolean): { [key: number]: string } {
-  const idToXpath: { [key: number]: string } = {};
+  function drillDownAndInsert(element: HTMLElement, idSpan: HTMLSpanElement): void {
+    // An <a> tag may just be a wrapper over many elements. (Think an <a> with a <span> and another <span>
+    // If these sub children are the only children, they might have styling that mis-positions the tag we're attempting to
+    // insert. Because of this, we should drill down among these single children to insert this tag
+    if (element.childNodes.length === 1) {
+      const child = element.childNodes[0];
+      // Also check its a span or P tag
+      const elementsToDrillDown = ["span", "p", "h1", "h2", "h3", "h4", "h5", "h6"];
+      if (child.nodeType === Node.ELEMENT_NODE && elementsToDrillDown.includes((child as HTMLElement).tagName.toLowerCase())) {
+        return drillDownAndInsert(child as HTMLElement, idSpan);
+      }
+    }
 
+    // Base case
+    element.prepend(idSpan);
+  }
+
+  const idToXpath: { [key: number]: string } = {};
   let idNum = 0;
+
   for(let el of elementsToTag) {
     idToXpath[idNum] = getElementXPath(el);
-
     let idSpan = create_tagged_span(idNum, el);
 
     if (isInteractable(el)) {
       if (isTextInsertable(el) && el.parentElement) {
         el.parentElement.insertBefore(idSpan, el);
       } else {
-        el.prepend(idSpan);
+        drillDownAndInsert(el, idSpan);
       }
       idNum++;
     } else if (tagLeafTexts) {
@@ -309,6 +341,16 @@ function absolutelyPositionMissingTags() {
     const parentRect = parent.getBoundingClientRect();
     let tagRect = tag.getBoundingClientRect();
 
+    // Check if the parent is off-screen horizontally
+    if (
+      parentRect.right < 0 ||
+      parentRect.left > (window.innerWidth || document.documentElement.clientWidth)
+    ) {
+      // Parent is off-screen horizontally, remove the tag
+      tag.remove();
+      return; // Skip to the next tag
+    }
+
     const parentCenter = {
       x: (parentRect.left + parentRect.right) / 2,
       y: (parentRect.top + parentRect.bottom) / 2,
@@ -336,15 +378,20 @@ function absolutelyPositionMissingTags() {
       parent.removeChild(tag);
       document.body.appendChild(tag);
     }
+  });
+}
 
-    tags.forEach((otherTag) => {
-      if (tag === otherTag) return;
+const shrinkCollidingTags = () => {
+  const tags = Array.from(document.querySelectorAll(tarsierSelector)) as HTMLElement[];
+  for(let i = 0; i < tags.length; i++) {
+    const tag = tags[i];
+    let tagRect = tag.getBoundingClientRect();
+    let fontSize = parseFloat(window.getComputedStyle(tag).fontSize.split("px")[0]);
+
+    for(let j = i + 1; j < tags.length; j++) {
+      const otherTag = tags[j];
       let otherTagRect = otherTag.getBoundingClientRect();
-
-      // reduce font of this tag and other tag until they don't overlap
-      let fontSize = parseFloat(window.getComputedStyle(tag).fontSize.split("px")[0]);
       let otherFontSize = parseFloat(window.getComputedStyle(otherTag).fontSize.split("px")[0]);
-      const MIN_FONT_SIZE = 9;
 
       while(
         (tagRect.left < otherTagRect.right &&
@@ -361,8 +408,9 @@ function absolutelyPositionMissingTags() {
         tagRect = tag.getBoundingClientRect();
         otherTagRect = otherTag.getBoundingClientRect();
       }
-    });
-  });
+    }
+
+  }
 }
 
 window.removeTags = () => {

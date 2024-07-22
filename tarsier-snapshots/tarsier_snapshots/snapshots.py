@@ -56,7 +56,8 @@ async def snapshot_example(
 ) -> None:
     async with semaphore:
         counter = Cl100kBaseTokenCounter()
-        page = await browser.new_page()
+        # Viewport used in Harambe
+        page = await browser.new_page(viewport={"width": 1440, "height": 1024})
         example_path = snapshots_path / example.id
         prefix = f"#{index}/{len(examples)}"
         print(f"{prefix} Snapshotting {example.id}")
@@ -95,7 +96,7 @@ async def generate_snapshots() -> None:
             snapshot_example(i, semaphore, browser, example, snapshots_path, tarsier)
             for i, example in enumerate(examples)
             if example.source == "mhtml"
-            # if example.source == "mhtml" and example.id == '0f8d967e-07a9-450a-b6b9-c60ad4c07ec7'
+            # if example.source == "mhtml" and example.id == 'v7hgryy94evdLb0aHzDtY'
         ]
         await asyncio.gather(*tasks)
 
