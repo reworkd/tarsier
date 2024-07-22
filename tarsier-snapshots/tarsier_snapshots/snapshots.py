@@ -1,4 +1,5 @@
 import asyncio
+import json
 import os
 from pathlib import Path
 from statistics import median
@@ -17,6 +18,10 @@ load_dotenv()
 
 
 def google_creds() -> Dict[str, str]:
+    creds = json.loads(os.environ.get("TARSIER_GOOGLE_OCR_CREDENTIALS", ""))
+    if creds:
+        return creds
+
     return {
         "type": os.getenv("TYPE") or "",
         "project_id": os.getenv("PROJECT_ID") or "",
@@ -92,7 +97,7 @@ snapshots_path = Path(__file__).parent.parent / "snapshots"
 
 async def generate_snapshots() -> None:
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
+        browser = await p.chromium.launch(headless=False)
         tarsier = Tarsier(GoogleVisionOCRService(google_creds()))
         semaphore = asyncio.Semaphore(10)
 
@@ -100,7 +105,7 @@ async def generate_snapshots() -> None:
             snapshot_example(i, semaphore, browser, example, snapshots_path, tarsier)
             for i, example in enumerate(examples)
             # if example.source == "mhtml"
-            # if example.source == "mhtml" and example.id == 'bwwko5J7aFk5K8qz61jBI'
+            if example.source == "mhtml" and example.id == '1JWoJWs3uZMt8Wa5ql6pr'
         ]
         await asyncio.gather(*tasks)
         # mhtml_examples = [ex for ex in examples if ex.source == "mhtml"][:3]
