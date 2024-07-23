@@ -44,7 +44,6 @@ jobs:
       - name: Run ruff check
         run: poetry run ruff format --check .
 
-
   mypy:
     runs-on: ubuntu-latest
     steps:

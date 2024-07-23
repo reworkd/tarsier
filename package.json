@@ -7,8 +7,8 @@
   "license": "MIT",
   "scripts": {
     "build": "tsc -p ./tsconfig.json && esbuild ./tarsier/tag_utils.js --minify --outfile=./tarsier/tag_utils.min.js",
-    "format": "prettier --no-config --no-editorconfig --write **/*.ts",
-    "lint": "prettier --no-config --no-editorconfig --check **/*.ts"
+    "format": "prettier --no-config --no-editorconfig --write .",
+    "lint": "prettier --no-config --no-editorconfig --check ."
   },
   "keywords": [],
   "devDependencies": {
