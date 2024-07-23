@@ -237,6 +237,38 @@ function getAllElementsInAllFrames(): HTMLElement[] {
   return allElements;
 }
 
+function hasLabel(element: HTMLElement): boolean {
+  const tagNames = ["input", "textarea", "select", "button"];
+
+  if (!tagNames.includes(element.tagName.toLowerCase())) {
+    return false;
+  }
+
+  const label = document.querySelector(`label[for='${element.id}']`);
+
+  if (label) {
+    return true;
+  }
+
+  let prevSibling = element.previousElementSibling;
+  while (prevSibling) {
+    if (prevSibling.tagName.toLowerCase() === "label") {
+      return true;
+    }
+    prevSibling = prevSibling.previousElementSibling;
+  }
+
+  let nextSibling = element.nextElementSibling;
+  while (nextSibling) {
+    if (nextSibling.tagName.toLowerCase() === "label") {
+      return true;
+    }
+    nextSibling = nextSibling.nextElementSibling;
+  }
+
+  return false;
+}
+
 function getElementsToTag(
   allElements: HTMLElement[],
   tagLeafTexts: boolean,
@@ -245,7 +277,11 @@ function getElementsToTag(
 
   for (let el of allElements) {
     if (isEmpty(el) || !elIsClean(el)) {
-      continue;
+      if (!hasLabel(el)) {
+        // if the element is not visible
+        // but has a label then we still tag it.
+        continue;
+      }
     }
 
     if (isInteractable(el)) {
