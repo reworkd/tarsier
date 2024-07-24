@@ -676,7 +676,7 @@ window.getElementBoundingBoxes = (xpath: string) => {
         width: rect.width,
         height: rect.height
       };
-    });
+    }).filter(box => box.width > 0 && box.height > 0); // do not include bounding boxes with zero width or height
     return boundingBoxes;
   } else {
     return [];
