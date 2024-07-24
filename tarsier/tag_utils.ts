@@ -1,10 +1,22 @@
 // noinspection JSUnusedGlobalSymbols
+interface ColouredElem {
+  id: number;
+  idSymbol: string;
+  color: string;
+  xpath: string;
+  midpoint: [number, number];
+  normalizedMidpoint: [number, number];
+  width: number;
+  height: number;
+  isFixed: boolean;
+  fixedPosition: string;  // 'top', 'bottom', 'none'
+}
 interface Window {
   tagifyWebpage: (tagLeafTexts?: boolean) => { [key: number]: string };
   removeTags: () => void;
   hideNonTagElements: () => void;
   revertVisibilities: () => void;
-  colourBasedTagify: (tagLeafTexts?: boolean) => { id: number; idSymbol: string; color: string; xpath: string; midpoint: [number, number]; normalizedMidpoint: [number, number]; width: number; height: number }[];
+  colourBasedTagify: (tagLeafTexts?: boolean) => ColouredElem[];
   hideNonColouredElements: () => void;
   getElementHtmlByXPath: (xpath: string) => string;
   createTextBoundingBoxes: () => void;
@@ -495,12 +507,12 @@ window.hideNonColouredElements = () => {
   });
 }
 
-window.colourBasedTagify = (tagLeafTexts = false): { id: number; idSymbol: string; color: string; xpath: string; midpoint: [number, number]; normalizedMidpoint: [number, number]; width: number; height: number }[] => {
+window.colourBasedTagify = (tagLeafTexts = false): ColouredElem[] => {
   const tagMapping = window.tagifyWebpage(tagLeafTexts);
   window.removeTags();
 
   const totalTags = Object.keys(tagMapping).length;
-  const colorMapping: { id: number; idSymbol: string; color: string; xpath: string; midpoint: [number, number]; normalizedMidpoint: [number, number]; width: number; height: number }[] = [];
+  const colorMapping: ColouredElem[] = [];
   const taggedElements = new Set(Object.values(tagMapping));
   const attribute = 'data-colored';
   const bodyRect = document.body.getBoundingClientRect();
@@ -521,6 +533,10 @@ window.colourBasedTagify = (tagLeafTexts = false): { id: number; idSymbol: strin
         (midpoint[1] - bodyRect.top) / bodyRect.height
       ];
       const idSymbol = createIdSymbol(parseInt(id), element);
+
+      // Determine if the element or any of its ancestors is fixed
+      const { isFixed, fixedPosition } = getFixedPosition(element);
+
       colorMapping.push({
         id: parseInt(id),
         idSymbol,
@@ -529,7 +545,9 @@ window.colourBasedTagify = (tagLeafTexts = false): { id: number; idSymbol: strin
         midpoint,
         normalizedMidpoint,
         width: rect.width,
-        height: rect.height
+        height: rect.height,
+        isFixed,
+        fixedPosition
       });
 
       element.style.backgroundColor = color;
@@ -664,6 +682,29 @@ window.getElementBoundingBoxes = (xpath: string) => {
     return [];
   }
 };
+
+function getFixedPosition(element: HTMLElement): { isFixed: boolean, fixedPosition: string } {
+  let isFixed = false;
+  let fixedPosition = 'none';
+  let currentElement: HTMLElement | null = element;
+
+  while (currentElement) {
+    const style = window.getComputedStyle(currentElement);
+    if (style.position === 'fixed') {
+      isFixed = true;
+      const rect = currentElement.getBoundingClientRect();
+      if (rect.top === 0) {
+        fixedPosition = 'top';
+      } else if (rect.bottom === window.innerHeight) {
+        fixedPosition = 'bottom';
+      }
+      break;
+    }
+    currentElement = currentElement.parentElement;
+  }
+
+  return { isFixed, fixedPosition };
+}
 
 // LEAVE AS LAST LINE. DO NOT REMOVE
 // JavaScript scripts, when run in the JavaScript console, will evaluate to the last line/expression in the script

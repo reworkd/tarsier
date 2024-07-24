@@ -1,10 +1,9 @@
 from asyncio import Protocol
 from pathlib import Path
-from typing import Dict, Tuple, Any
+from typing import Dict, Tuple, Any, TypedDict
 from PIL import Image
 from io import BytesIO
 import html2text
-import re
 import json
 
 from tarsier._utils import load_js
@@ -14,6 +13,19 @@ from tarsier.ocr.types import ImageAnnotation
 from tarsier.text_format import format_text
 
 TagToXPath = Dict[int, str]
+
+
+class ColouredElem(TypedDict):
+    id: int
+    idSymbol: str
+    color: str
+    xpath: str
+    midpoint: Tuple[float, float]
+    normalizedMidpoint: Tuple[float, float]
+    width: float
+    height: float
+    isFixed: bool
+    fixedPosition: str  # Can be 'top', 'bottom', 'none'
 
 
 class ITarsier(Protocol):
@@ -108,30 +120,37 @@ class Tarsier(ITarsier):
         document_height = document_dimensions['height']
 
         annotations: ImageAnnotatorResponse = []
+        fixed_top_annotations: ImageAnnotatorResponse = []
+        fixed_bottom_annotations: ImageAnnotatorResponse = []
 
         for item in common_colour_mapping:
             xpath = item['xpath']
-            # print(f"Getting element found by Xpath: ", xpath)
 
             bounding_boxes_script = f"return window.getElementBoundingBoxes({json.dumps(xpath)});"
             bounding_boxes = await adapter.run_js(bounding_boxes_script)
 
             # create ImageAnnotation objects for each bounding box
-            for box in bounding_boxes:
+            for i, box in enumerate(bounding_boxes):
                 midpoint = (box['left'], box['top'] + box['height'])
                 normalized_midpoint = (
                     midpoint[0] / document_width,
                     midpoint[1] / document_height
                 )
-                if box == bounding_boxes[0]:
-                    annotation = ImageAnnotation(
+                if i == 0:
+                    # First bounding box is handled differently
+                    tag_annotation = ImageAnnotation(
                         text=item['idSymbol'] + " " + box['text'],
                         midpoint=midpoint,
                         midpoint_normalized=normalized_midpoint,
                         width=box['width'] + 48,
                         height=box['height']
                     )
-                    annotations.append(annotation)
+                    if item['isFixed'] and item['fixedPosition'] == 'top':
+                        fixed_top_annotations.append(tag_annotation)
+                    elif item['isFixed'] and item['fixedPosition'] == 'bottom':
+                        fixed_bottom_annotations.append(tag_annotation)
+                    else:
+                        annotations.append(tag_annotation)
                 else:
                     annotation = ImageAnnotation(
                         text=box['text'],
@@ -140,9 +159,17 @@ class Tarsier(ITarsier):
                         width=box['width'],
                         height=box['height']
                     )
-                    annotations.append(annotation)
+                    if item['isFixed'] and item['fixedPosition'] == 'top':
+                        fixed_top_annotations.append(annotation)
+                    elif item['isFixed'] and item['fixedPosition'] == 'bottom':
+                        fixed_bottom_annotations.append(annotation)
+                    else:
+                        annotations.append(annotation)
 
-        annotations_formatted = format_text(annotations)
+        # Combine the annotations in the correct order
+        combined_annotations = fixed_top_annotations + annotations + fixed_bottom_annotations
+
+        annotations_formatted = format_text(combined_annotations)
         return annotations_formatted, tag_to_xpath
 
     @staticmethod
@@ -199,7 +226,7 @@ class Tarsier(ITarsier):
 
     async def _colour_based_tagify(
             self, adapter: BrowserAdapter, tag_text_elements: bool = False
-    ) -> list[Dict[str, Any]]:
+    ) -> list[ColouredElem]:
         await adapter.run_js(self._js_utils)
 
         script = f"return window.colourBasedTagify({str(tag_text_elements).lower()});"
