@@ -22,6 +22,7 @@ interface Window {
   createTextBoundingBoxes: () => void;
   documentDimensions: () => { width: number; height: number };
   getElementBoundingBoxes: (xpath: string) => { text: string; top: number; left: number; width: number; height: number }[];
+  checkHasTaggedChildren: (xpath: string) => boolean;
 
 }
 
@@ -527,7 +528,8 @@ window.colourBasedTagify = (tagLeafTexts = false): ColouredElem[] => {
       const rect = element.getBoundingClientRect();
       // const midpoint: [number, number] = [rect.left + rect.width / 2, rect.top + rect.height / 2];
       // const midpoint: [number, number] = [rect.left, rect.bottom];
-      const midpoint: [number, number] = [rect.left, rect.top + rect.height / 2];
+      // const midpoint: [number, number] = [rect.left, rect.top + rect.height / 2];
+      const midpoint: [number, number] = [rect.left, rect.top];
       const normalizedMidpoint: [number, number] = [
         (midpoint[0] - bodyRect.left) / bodyRect.width,
         (midpoint[1] - bodyRect.top) / bodyRect.height
@@ -705,6 +707,15 @@ function getFixedPosition(element: HTMLElement): { isFixed: boolean, fixedPositi
 
   return { isFixed, fixedPosition };
 }
+
+window.checkHasTaggedChildren = (xpath: string) : boolean => {
+  const element = document.evaluate(xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue as HTMLElement | null;
+  if (element) {
+    const taggedChildren = element.querySelector('[data-colored="true"]');
+    return !!taggedChildren;
+  }
+  return false;
+};
 
 // LEAVE AS LAST LINE. DO NOT REMOVE
 // JavaScript scripts, when run in the JavaScript console, will evaluate to the last line/expression in the script

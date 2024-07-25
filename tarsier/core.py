@@ -25,7 +25,7 @@ class ColouredElem(TypedDict):
     width: float
     height: float
     isFixed: bool
-    fixedPosition: str  # Can be 'top', 'bottom', 'none'
+    fixedPosition: str
 
 
 class ITarsier(Protocol):
@@ -126,51 +126,75 @@ class Tarsier(ITarsier):
         for item in common_colour_mapping:
             xpath = item['xpath']
 
-            bounding_boxes_script = f"return window.getElementBoundingBoxes({json.dumps(xpath)});"
-            bounding_boxes = await adapter.run_js(bounding_boxes_script)
+            # Check if the element has child elements that are tagged
+            has_tagged_children = await self._check_has_tagged_children(adapter, xpath)
 
-            # create ImageAnnotation objects for each bounding box
-            for i, box in enumerate(bounding_boxes):
-                midpoint = (box['left'], box['top'] + box['height'])
-                normalized_midpoint = (
-                    midpoint[0] / document_width,
-                    midpoint[1] / document_height
+            if has_tagged_children:
+                # Only create an annotation for the tag itself
+                midpoint = item['midpoint']
+                normalized_midpoint = item['normalizedMidpoint']
+                tag_annotation = ImageAnnotation(
+                    text=item['idSymbol'],
+                    midpoint=midpoint,
+                    midpoint_normalized=normalized_midpoint,
+                    width=int(item['width']),
+                    height=int(item['height'])
                 )
-                if i == 0:
-                    # First bounding box is handled differently
-                    tag_annotation = ImageAnnotation(
-                        text=item['idSymbol'] + " " + box['text'],
-                        midpoint=midpoint,
-                        midpoint_normalized=normalized_midpoint,
-                        width=box['width'] + 48,
-                        height=box['height']
-                    )
-                    if item['isFixed'] and item['fixedPosition'] == 'top':
-                        fixed_top_annotations.append(tag_annotation)
-                    elif item['isFixed'] and item['fixedPosition'] == 'bottom':
-                        fixed_bottom_annotations.append(tag_annotation)
-                    else:
-                        annotations.append(tag_annotation)
+                if item['isFixed'] and item['fixedPosition'] == 'top':
+                    fixed_top_annotations.append(tag_annotation)
+                elif item['isFixed'] and item['fixedPosition'] == 'bottom':
+                    fixed_bottom_annotations.append(tag_annotation)
                 else:
+                    annotations.append(tag_annotation)
+            else:
+                # Create annotations for each bounding box
+                bounding_boxes_script = f"return window.getElementBoundingBoxes({json.dumps(xpath)});"
+                bounding_boxes = await adapter.run_js(bounding_boxes_script)
+
+                for i, box in enumerate(bounding_boxes):
+                    text = box['text']
+                    midpoint = (box['left'], box['top'] + box['height'])
+                    normalized_midpoint = (
+                        midpoint[0] / document_width,
+                        midpoint[1] / document_height
+                    )
+                    width = box['width']
+                    height = box['height']
+
+                    if i == 0:
+                        text = item['idSymbol'] + " " + text
+                        width = width + 48
+
                     annotation = ImageAnnotation(
-                        text=box['text'],
+                        text=text,
                         midpoint=midpoint,
                         midpoint_normalized=normalized_midpoint,
-                        width=box['width'],
-                        height=box['height']
+                        width=width,
+                        height=height
                     )
-                    if item['isFixed'] and item['fixedPosition'] == 'top':
-                        fixed_top_annotations.append(annotation)
-                    elif item['isFixed'] and item['fixedPosition'] == 'bottom':
-                        fixed_bottom_annotations.append(annotation)
+                    if item['isFixed']:
+                        if item['fixedPosition'] == 'top':
+                            fixed_top_annotations.append(annotation)
+                        elif item['fixedPosition'] == 'bottom':
+                            fixed_bottom_annotations.append(annotation)
                     else:
                         annotations.append(annotation)
 
+
+        # sort annotations before combining
+        fixed_top_annotations = self.sort_annotations(fixed_top_annotations)
+        annotations = self.sort_annotations(annotations)
+        fixed_bottom_annotations = self.sort_annotations(fixed_bottom_annotations)
         # Combine the annotations in the correct order
         combined_annotations = fixed_top_annotations + annotations + fixed_bottom_annotations
 
         annotations_formatted = format_text(combined_annotations)
         return annotations_formatted, tag_to_xpath
+
+    @staticmethod
+    def sort_annotations(annotations: ImageAnnotatorResponse) -> ImageAnnotatorResponse:
+        return sorted(annotations, key=lambda x: (x['midpoint_normalized'][1], x['midpoint_normalized'][0]))
+
 
     @staticmethod
     def combine_annotations(
@@ -238,6 +262,12 @@ class Tarsier(ITarsier):
         script = "return window.removeTags();"
 
         await adapter.run_js(script)
+
+    @staticmethod
+    async def _check_has_tagged_children(adapter: BrowserAdapter, xpath: str) -> bool:
+        script = f"return window.checkHasTaggedChildren({json.dumps(xpath)});"
+
+        return await adapter.run_js(script)
 
     @staticmethod
     async def _hide_non_tag_elements(adapter: BrowserAdapter) -> None:
