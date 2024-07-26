@@ -1,56 +1,50 @@
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 4 ] Schedule                        [ @ 5 ] Contact
-           [ @ 1 ] Foundation              [ @ 2 ] Articles             [ @ 3 ] Careers             Appointment.
-    [ @ 6 ]
-                                                                                                                                              Patients
-                                                       [ @ 7 ] Services    [ @ 8 ] Locations    [ @ 9 ] Providers    [ @ 10 ] About    [ @ 11 ]   &         [ @ 12 ]
-                                                                                                                                               Visitors
-                 **Archbold**
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 1 ] Foundation       [ @ 2 ] Articles     [ @ 3 ] Careers       [ @ 4 ] Schedule Appointment     [ @ 5 ] Contact Us
+   [ @ 6 ]
+                                                                                                                                           Patients &
+                                              [ @ 7 ] Services      [ @ 8 ] Locations      [ @ 9 ] Providers       [ @ 10 ] About      [ @Visitors
+              **Archbold**
 
 
-**13Our Locations**
+   [ 13 ]
+            **Our Locations**
 
-    [ $ 15 ] Search Locations                           [ $ 17 ] Category                                   [ $ 19 ] Services
-    [ # 16 ]                                           [ $ 18 ] ategories                                  [ $ 20 ] ervices
-     Search Term
+             [ $ 15 ] Search Locations                  [ $ 17 ] Category                           [ $ 19 ] Services
+             [ # 16 ]                                   [ $ 18 ] ategories                         [ $ 20 ] ervices
+             Search Term
 
-                                                                                                                                      [ @ 21 ] Clear Filters
-
-
-     [ 22 ] Archbold Ambulatory
-     Care Center
-     [ 23 ] Ambulatory Care
-     [ 24 ] 947 South Broad St
-     [ 25 ] Thomasville, GA 31792
-     [ @ 26 ] 229.228.3707
-
-     [ @ 27 ] MORE INFORMATION
+                                                                                                                            [ @ 21 ] Clear Filters
 
 
-     [ 28 ] Archbold Anti-
-     Coagulation Clinic
-     [ 29 ] Pharmacy Clinician Services
-     [ 30 ] 114 Mimosa Dr
-     [ 31 ] Suite A - C
-     [ 32 ] Thomasville, GA 31792
-     [ @ 33 ] 229.228.8223
-
-     [ @ 34 ] MORE INFORMATION
+    [ 22 ] Archbold Ambulatory Care
+    Center
+    [ 23 ] Ambulatory Care
+    [ 24 ] 947 South Broad St
+    [ 25 ] Thomasville, GA 31792
+    [ @ 26 ] 229.228.3707
+    [ @ 27 ] MORE INFORMATION
 
 
-     [ 35 ] Archbold Brooks
-     [ 36 ] Hospital
-     [ 37 ] 903 North Court St
-     [ 381Quitman GA 31643
+    [ 28 ] Archbold Anti - Coagulation
+    Clinic
+    [ 29 ] Pharmacy Clinician Services
+    [ 30 ] 114 Mimosa Dr
+    [ 31 ] Suite A - C
+    [ 32 ] Thomasville, GA 31792
+    [ @ 33 ] 229.228.8223
+    [ @ 34 ] MORE INFORMATION
 
 
-    [ 335 ] Non - Discrimination Notice
-    [ @ 336 ] English [ @ 337 ] Español [ @ 338 ] Tiếng      [ @ 339 ] 한국어      [ @ 340 ]    + [ @ 341 ]              [ @ 342 ] Français [ @ 343 ]
-                      ( Spanish )        Việt               ( Korean )         ( Chinese )        ( Gujarati )       ( French )         ( Amharic )
-                                         ( Vietnamese )
+    [ 35 ] Archbold Brooks
+    [ 36 ] Hospital
+    [ 37 ] 903 North Court St
+    [ 381Quitman GA 31643
 
-    @ 344 ) fat ( Hindi ) [ @ 345 ] Kreyòl [ @ 346 ] Русский [ @ 347 ]          [ @ 348 ] Portuguê [ @ 349 ] com      [ @ 350 ] Deutsch [ @ 351 ]
-                      Ayisyen            ( Russian )        ( Arabic )         ( Portuguese )     ( Farsi )          ( German )         ( Japanese )
-                      ( French Creole )
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 560
+   [ 335 ] Non - Discrimination Notice
+   [ @ 336 ] English  [ @ 337 ] Español [ [ @ 338 ] Tiếng Việt [ @ 339 ] 한국어 [ @ 8340 繁體 中文   [ @ 341 ] ગુજરાતી  [ @ 342 ] Français [ @ 343 ] አማርኛ
+                     ( Spanish )        ( Vietnamese )    ( Korean )        ( Chinese )       ( Gujarati )      ( French )        ( Amharic )
+   [ @ 344 ] हिंदी ( Hindi ) [ @ 345 ] Kreyòl [ @ 346 ] Русский ] 347 [ العربية [ @ 348 ] Português [ @ 349 ] ( Farsi ) [ @ 350 ] Deutsch [ @ 351 ] 日本語
+                     Ayisyen ( French   ( Russian )       ( Arabic )        ( Portuguese )                      ( German )         ( Japanese )
+                     Creole )
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 597

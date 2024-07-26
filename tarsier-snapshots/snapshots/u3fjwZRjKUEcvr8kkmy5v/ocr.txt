@@ -1,707 +1,697 @@
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Washington State
-                     DEPARTMENT OF           [ @ 0 ] Services ▾    [ @ 1 ] About       [ @ 2 ] Contact                                        [ @ 3 ] Contract Search
-       **DES**       ENTERPRISE SERVICES
+                             DEPARTMENT OF                  [ @ 0 ]   Services ▾         [ @ 1 ] About             [ @ 2 ] Contact                                                                                       [ @ 3 ]   Contract Search
+         **DES**             ENTERPRISE SERVICES
 
-[ 4 ]
- **Search Contracts**
-  [ $ 5 ] Select Contracts:
- [ $ 6 ] 11 Active Contracts
+     [ 4 ]
+              **Search Contracts**
+               [ $ 5 ] Select Contracts:
+              [ $ 6 ] 11 Active Contracts
 
-  [ $ 7 ] Contracts Search:
-  [ # 8 ]
-   Enter Keyword ( s ), Contract #, or Vendor Name, etc ...                                              a
+              [ $ 7 ] Contracts Search:
+              [ # 8 ]
+                 Enter Keyword ( s ), Contract #, or Vendor Name, etc ...
 
-   [ $ 9 ] Search   [ $ 10 ] Reset           [ $ 11 ]
+                 [ $ 9 ] Search        [ $ 10 ] Reset                    [ $ 11 ]
 
-[ 12 ] Active Contracts
+     [ 12 ]   All Active Contracts
 
-                                                                                                                                             [ $ 13 ] Export to Excel
+                                                                                                                                                                                                            [ $ 13 ] Export to Excel
 
-[ 14 ] howing 1 to 171 of 171 Contracts
-  [ $ 15 ] Show: 10    Contracts Per Page.
-                                                                                                                                                            [ @ 16 ] 1
+     [ 14 ]   Showing 1 to 171 of 171 Contracts
 
-    [ 17 ] Contract                               [ 19 ] Effective  [ 20 ] Term    [ 21 ] OMWBE                                       [ 24 ] Considerations
-      Number          [ 18 ] Contract Title  ↑ ↓      Date     ↑ ↓    Date    ↑ ↓      Certs    ↑     [ 22 ] Small ↑ ↓ [ 23 ] Veteran ↑ ↓ & Preferences       [ 25 ] Green ↑ ↓
+              [ $ 15 ] Show:    10         Contracts Per Page.
+                                                                                                                                                                                                                               [ @ 16 ] 1
 
-     [ @ 26 ] 01620   [ 27 ] BUSINESS             [ 28 ] 03-01-2022  [ 29 ] 02-29-  [ 30 ] MW, M, W
-                     CONSULTING SERVICES                               2028
+                 [ 17 ] Contract                                               [ 19 ] Effective        [ 20 ] Term         [ 21 ] OMWBE                                                        [ 24 ] Considerations
+                    Number        ↑ ↓    [ 18 ] Contract Title                      Date        ↑ ↓       Date                  Certs        ↑      [ 22 ] Small ↑ ↓    [ 23 ] Veteran t          & Preferences                [ 25 ] Green ↑ ↓
 
-     [ @ 31 ] 08215   [ 32 ] INFORMATION          [ 33 ] 02-01-2016  [ 34 ] 02-01-  [ 35 ] MW, M, W
-                     TECHNOLOGY                                        2099
-                     PROFESSIONAL
-                     SERVICES
+                   [ @ 26 ] 01620        [ 27 ] BUSINESS                        [ 28 ] 03-01-2022       [ 29 ] 02-29-        [ 30 ] MW, M, W
+                                         CONSULTING SERVICES                                                2028
 
-     [ @ 36 ] 05919   [ 37 ] JANITORIAL           [ 38 ] 03-10-2021  [ 39 ] 03-11-  [ 40 ] MW, M, W
-                     SERVICES                                          2024
+                   [ @ 31 ] ] 08215       [ 32 ] INFORMATION                    [ 33 ] 02-01-2016       [ 34 ] 02-01-       [ 35 ] MW, M, W
+                                         TECHNOLOGY                                                         2099
+                                         PROFESSIONAL
+                                         SERVICES
 
-     [ @ 41 ] 06419   [ 42 ] ENCAMPMENT           [ 43 ] 01-18-2022  [ 44 ] 01-16-    [ 45 ] MW, M
-                                                                                                          נם
-                     CLEANUP SERVICES                                  2027
+                   [ @ 36 ] 05919        [ 37 ] JANITORIAL                      [ 38 ] 03-10-2021       [ 39 ] 03-11-        [ 40 ] MW, M, W
+                                         SERVICES                                                           2024
 
-     [ @ 46 ] 12722   [ 47 ] MEDICAL              [ 48 ] 11-01-2023  [ 49 ] 11-01-     [ 50 ] MW
-                                                                                                         נם
-                     PERSONAL PROTECTIVE                               2025
-                     EQUIPMENT
+                   [ @ 41 ] 06419         [ 42 ] ENCAMPMENT                    [ 43 ] 01-18-2022        [ 44 ] 01-16-         [ 45 ] MW, M
+                                         CLEANUP SERVICES                                                   2027
 
-     [ @ 51 ] 01120   [ 52 ] DEBT COLLECTION      [ 53 ] 12-01-2020  [ 54 ] 11-30-     [ 55 ] MW
-                                                                                                          ום
-                     SERVICES                                          2026
+                   [ @ 46 ] 12722        [ 47 ] MEDICAL                         [ 48 ] 11-01-2023       [ 49 ] 11-01-           [ 50 ] MW
+                                         PERSONAL PROTECTIVE                                                2025
+                                         EQUIPMENT
 
-     [ @ 56 ] 17622   [ 57 ] SPOKEN LANGUAGE      [ 58 ] 07-01-2023  [ 59 ] 06-30-     [ 60 ] MW                                               ނ
-                     INTERPRETER SERVICES                              2025
-                     - COURT CREDENTIALED
+                   [ @ 51 ] 01120        [ 52 ] DEBT COLLECTION                 [ 53 ] 12-01-2020       [ 54 ] 11-30-           [ 55 ] MW
+                                         SERVICES                                                           2026
 
-     [ @ 61 ] ] 05416 [ 62 ] DOORS, FRAMES, &     [ 63 ] 12-01-2016  [ 64 ] 11-30-    [ 65 ] M, W         口
-                     HARDWARE                                          2024
+                   [ @ 56 ] 17622        [ 57 ] SPOKEN LANGUAGE                 [ 58 ] 07-01-2023       [ 59 ] 06-30-           [ 60 ] MW
+                                         INTERPRETER SERVICES                                               2025
+                                           COURT CREDENTIALED
 
-     [ @ 66 ] 09321   [ 67 ] EMERGENCY            [ 68 ] 05-27-2022  [ 69 ] 05-27-      [ 70 ] M                                               ނ
-                     RESPONSE TO                                       2024
-                     HAZARDOUS
-                     MATERIALS
+                   [ @ 61 ] 05416        [ 62 ] DOORS, FRAMES, &                [ 63 ] 12-01-2016       [ 64 ] 11-30-           [ 65 ] M, W
+                                         HARDWARE                                                           2024
 
-     [ @ 71 ] 14922   [ 72 ] SOFTWARE VALUE       [ 73 ] 12-31-2022  [ 74 ] 04-07-      [ 75 ] M
-                     ADDED RESELLER                                    2026
-                     ( SVAR ) 2022
+                   [ @ 66 ] 09321        [ 67 ] EMERGENCY                       [ 68 ] 05-27-2022       [ 69 ] 05-27-            [ 70 ] M                                                                  ނ
+                                         RESPONSE TO                                                        2024
+                                         HAZARDOUS
+                                         MATERIALS
 
-     [ @ 76 ] 04218   [ 77 ] TRANSLATION          [ 78 ] 07-10-2019  [ 79 ] 07-31-      [ 80 ] M
-                     SERVICES WRITTEN                                  2025
-                     WORD
+                   [ @ 71 ] 14922        [ 72 ] SOFTWARE VALUE                  [ 73 ] 12-31-2022       [ 74 ] 04-07-            [ 75 ] M
+                                         ADDED RESELLER                                                     2026
+                                         ( SVAR ) 2022
 
-     [ @ 81 ] 01920   [ 82 ] OFFICE               [ 83 ] 03-01-2021  [ 84 ] 02-28-      [ 85 ] W
-                                                                                                         רום
-                     RELOCATIONS                                       2027
+                   [ @ 76 ] 04218        [ 77 ] TRANSLATION                     [ 78 ] 07-10-2019       [ [ 79 ] 07-31-          [ 80 ] M
+                                         SERVICES WRITTEN                                                   2025
+                                         WORD
 
-     [ @ 86 ] 17422   [ 87 ] PROCESS SERVER        [ 88 ] 07-01-2023 [ 89 ] 06-30-      [ 90 ] W                                               ނ
-                                                                                                          ום
-                     SERVICE                                           2025
+                   [ @ 81 ] 01920        [ 82 ] OFFICE                          [ 83 ] 03-01-2021       [ 84 ] 02-28-            [ 85 ] W
+                                         RELOCATIONS                                                        2027
 
-     [ @ 91 ] 25723   [ 92 ] GREEN JANITORIAL      [ 93 ] 10-01-2023 [ 94 ] 10-01-      [ 95 ] W                                             7. A
-                     PRODUCTS AND                                      2026
-                     SUPPLIES
+                   [ @ 86 ] 17422        [ 87 ] PROCESS SERVER                  [ 88 ] 07-01-2023       [ 89 ] 06-30-            [ 90 ] W
+                                                                                                                                                         ום
+                                         SERVICE                                                            2025
 
-     [ @ 96 ] 05218   [ 97 ] LAWN & GROUNDS       [ 98 ] 04-01-2019  [ 99 ] 03-31-     [ 100 ] W
-                                                                                                          נם
-                     EQUIPMENT, PARTS, &                               2025
-                     ACCESSORIES
+                   [ @ 91 ] ] 25723      [ 92 ] GREEN JANITORIAL                [ 93 ] 10-01-2023       [ 94 ] 10-01-            [ 95 ] W
+                                         PRODUCTS AND                                                       2026
+                                         SUPPLIES
 
-     [ @ 101 ] 06019  [ 102 ] OFFICE SUPPLIES       [ 103 ] 05-01-  [ 104 ] 06-30-     [ 105 ] W
-                                                       2020            2026
+                   [ @ 96 ] 05218        [ 97 ] LAWN & GROUNDS                  [ 98 ] 04-01-2019       [ 99 ] 03-31-           [ 100 ] W
+                                                                                                                                                           ם
+                                         EQUIPMENT, PARTS, &                                                2025
+                                         ACCESSORIES
 
-     [ @ 106 ] 01118  [ 107 ] PLUMBING              [ 108 ] 07-01-  [ 109 ] 06-30-     [ 110 ] W           נם
-                     FIXTURES AND SUPPLIES             2018            2024
+                  [ @ 101 ] 06019        [ 102 ] OFFICE SUPPLIES                 [ 103 ] 05-01-        [ 104 ] 06-30-           [ 105 ] W
+                                                                                     2020                   2026
 
-     [ @ 111 ] 07521  [ 112 ] STREET LIGHTS &       [ 113 ] 08-29-   [ 114 ] 09-20-    [ 115 ] W          נם
-                     POLES                             2021            2024
+                   [ @ 106 ] 01118       [ 107 ] PLUMBING                        [ 108 ] 07-01-        [ 109 ] 06-30-           [ 110 ] W
+                                         FIXTURES AND SUPPLIES                       2018                   2024
 
-     [ @ 116 ] 22422  [ 117 ] AMMUNITIONS           [ 118 ] 01-01-   [ 119 ] 12-31-                                                            ނ
-                                                       2024            2025
+                   [ @ 111 ] 07521       [ 112 ] STREET LIGHTS &                 [ 113 ] ] 08-29-      [ 114 ] 09-20-            [ 115 ] W
+                                         POLES                                       2021                   2024
+                                                                                                                                                                                                           ✓
+                   [ @ 116 ] 22422        [ 117 ] AMMUNITIONS                     [ 118 ] 01-01-       [ 119 ] 12-31-
+                                                                                     2024                   2025
 
-     [ @ 120 ] 03418  [ 121 ] AUDIO - VISUAL        [ 122 ] 04-01-   [ 123 ] 03-31-
-                     SOLUTIONS                         2019            2025
+                  [ @ 120 ] 03418        [ 121 ] AUDIO - VISUAL                  [ 122 ] 04-01-        [ 123 ] 03-31-
+                                         SOLUTIONS                                   2019                   2025
 
-     [ @ 124 ] 07021  [ 125 ] AUTO GLASS            [ 126 ] 07-30-  [ 127 ] 06-30-
-                     REPAIR, REPLACEMENT               2021            2024
-                     & RECALIBRATION
+                   [ @ 124 ] 07021        [ 125 ] AUTO GLASS                     [ 126 ] 07-30-        [ 127 ] 06-30-                                    נם
+                                         REPAIR, REPLACEMENT                          2021                  2024
+                                         & RECALIBRATION
 
-     [ @ 128 ] ] 06119 [ 129 ] CHARTER AIR          [ 130 ] 05-01-  [ 131 ] 04-30-
-                     SERVICE                           2020            2026
+                   [ @ 128 ] 06119        [ 129 ] CHARTER AIR                    [ 130 ] 05-01-        [ 131 ] 04-30-
+                                         SERVICE                                     2020                   2026
 
-     [ @ 132 ] 02919  [ 133 ] HVAC SERVICES         [ 134 ] 09-10-  [ 135 ] 06-03-                       ום
-                                                       2019            2024
+                  [ @ 132 ] 02919        [ 133 ] HVAC SERVICES                   [ 134 ] 09-10-        [ 135 ] 06-03-
+                                                                                                                                                           ם
+                                                                                     2019                   2024
 
-     [ @ 136 ] 07815  [ 137 ] HVAC PARTS            [ 138 ] 06-16-  [ 139 ] 06-30-                        口
-                                                       2016            2024
+                   [ @ 136 ] 07815       [ 137 ] HVAC PARTS                       [ 138 ] 06-16-       [ 139 ] 06-30-
+                                                                                     2016                   2024
 
-     [ @ 140 ] 05620  [ 141 ] IT CABLING            [ 142 ] 11-12-   [ 143 ] 11-11-
-                                                       2021            2024
+                  [ @ 140 ] 05620        [ 141 ] IT CABLING                      [ 142 ] 11-12-         [ 143 ] 11-11-
+                                                                                     2021                   2024
 
-     [ @ 144 ] 15322  [ 145 ] LESS LETHAL           [ 146 ] 12-10-  [ 147 ] 12-09-                         נם
-                     MUNITIONS                         2022            2024
+                   [ @ 144 ] 15322       [ 145 ] LESS LETHAL                     [ 146 ] 12-10-        [ 147 ] 12-09-
+                                         MUNITIONS                                   2022                   2024
 
-     [ @ 148 ] 05916  [ 149 ] MOTOR VEHICLES        [ 150 ] 01-05-   [ 151 ] 01-05-                      ום
-                                                       2017            2025
+                  [ @ 148 ] 05916        [ 149 ] MOTOR VEHICLES                  [ 150 ] 01-05-        [ 151 ] 01-05-
+                                                                                     2017                   2025
 
-     [ @ 152 ] 03818  [ 153 ] SECURITY GUARD        [ 154 ] 01-01-  [ 155 ] 12-31-
-                     SERVICES                          2019            2024
+                  [ @ 152 ] 03818        [ 153 ] SECURITY GUARD                  [ 154 ] 01-01-        [ 155 ] 12-31-
+                                         SERVICES                                     2019                  2024
 
-     [ @ 156 ] 07621  [ 157 ] ADA COMPLIANT         [ 158 ] 01-30-  [ 159 ] 01-30-
-                                                                                                          口
-                     VANS, MINIVANS, AND               2024            2027
-                     SPECIALTY VEHICLES
+                  [ @ 156 ] 07621         [ 157 ] ADA COMPLIANT                  [ 158 ] 01-30-        [ 159 ] 01-30-
+                                         VANS, MINIVANS, AND                         2024                   2027
+                                         SPECIALTY VEHICLES
 
-     [ @ 160 ] 01519  [ 161 ] ANALYTICAL            [ 162 ] 10-01-  [ 163 ] 09-30-                        נם
-                     LABORATORY SERVICES               2019            2026
+                   [ @ 160 ] 01519       [ 161 ] ANALYTICAL                       [ 162 ] 10-01-       [ 163 ] 09-30-
+                                         LABORATORY SERVICES                         2019                   2026
 
-     [ @ 164 ] 08115  [ 165 ] ARMORED CAR           [ 166 ] 05-23-   [ 167 ] 05-22-                       口
-                     AND COURIER SERVICES              2016            2024
+                  [ @ 164 ] 08115         [ 165 ] ARMORED CAR                    [ 166 ] 05-23-        [ 167 ] 05-22-
+                                         AND COURIER SERVICES                        2016                   2024
+                                                                                                                                                                                                           ✓
+                  [ @ 168 ] 21822        [ 169 ] AUTO GLASS                      [ 170 ] 08-31-        [ 171 ] 02-15-
+                                         REPAIR, REPLACEMENT                          2023                  2025
+                                         & RECALIBRATION
 
-     [ @ 168 ] 21822  [ 169 ] AUTO GLASS            [ 170 ] 08-31-  [ 171 ] 02-15-
-                                                                                                           נם
-                     REPAIR, REPLACEMENT               2023            2025
-                     & RECALIBRATION
+                  [ @ 172 ] 03318        [ 173 ] AVIATION FUEL-                  [ 174 ] 08-14-        [ 175 ] 08-13-                                    רם
+                                         OLYMPIA AIRPORT                             2018                   2026
 
-     [ @ 172 ] 03318  [ 173 ] AVIATION FUEL-        [ 174 ] 08-14-  [ 175 ] 08-13-
-                     OLYMPIA AIRPORT                   2018            2026
+                  [ @ 176 ] 03920        [ 177 ] CAB AND CHASSIS                 [ 178 ] 03-01-        [ 179 ] 02-28-
+                                         TRUCKS VARIOUS SIZES                         2022                  2025
 
-     [ @ 176 ] 03920  [ 177 ] CAB AND CHASSIS       [ 178 ] 03-01-   [ 179 ] 02-28-
-                     TRUCKS VARIOUS SIZES              2022            2025
+                  [ @ 180 ] 00120        [ 181 ] CATCH BASIN                     [ 182 ] 10-01-        [ 183 ] 09-30-
+                                                                                                                                                          ப
+                                         CLEANERS AND JET                            2020                   2026
+                                         RODDER TRUCKS
+                                         ( VARIOUS SIZES )
+
+                   [ @ 184 ] 11421        [ 185 ] CUTTING EDGES                  [ 186 ] 11-01-        [ 187 ] 10-31-
+                                         FOR SNOW PLOWS AND                           2022                  2025
+                                         GRADERS
+
+                  [ @ 188 ] 00419        [ 189 ] DOCUMENT                        [ 190 ] 07-01-        [ 191 ] 06-30-
+                                         DESTRUCTION SERVICES                        2019                   2025
 
-     [ @ 180 ] 00120  [ 181 ] CATCH BASIN           [ 182 ] 10-01-  [ 183 ] 09-30-                        נם
-                     CLEANERS AND JET                  2020            2026
-                     RODDER TRUCKS
-                     ( VARIOUS SIZES )
+                   [ @ 192 ] 01117       [ 193 ] DUMP BODIES,                    [ 194 ] 05-01-        [ 195 ] 04-30-
+                                         SNOW PLOWS VARIOUS                          2017                   2024
+                                         TYPES, CONTROLS &
+                                         SERVICES
 
-     [ @ 184 ] 11421  [ 185 ] CUTTING EDGES         [ 186 ] 11-01-   [ 187 ] 10-31-
-                     FOR SNOW PLOWS AND                2022            2025
-                     GRADERS
+                   [ @ 196 ] 01820       [ 197 ] FLOORING AND                    [ 198 ] 10-01-        [ 199 ] 09-30-                                     口                                                >
+                                         INSTALLATION                                2021                   2024
+                                         SERVICES
 
-     [ @ 188 ] 00419  [ 189 ] DOCUMENT              [ 190 ] 07-01-  [ 191 ] 06-30-                         נם
-                     DESTRUCTION SERVICES              2019            2025
+                  [ @ 200 ] 06115        [ 201 ] FORKLIFTS                        [ 202 ] 11-01-       [ 203 ] 10-31-
+                                                                                     2016                   2024
 
-     [ @ 192 ] 01117  [ 193 ] DUMP BODIES,          [ 194 ] 05-01-  [ 195 ] 04-30-
-                     SNOW PLOWS VARIOUS                2017            2024
-                     TYPES, CONTROLS &
-                     SERVICES
+                  [ @ 204 ] 02016        [ 205 ] FRESH DAIRY                     [ 206 ] 07-01-        [ 207 ] 06-30-
+                                                                                     2017                   2025
 
-     [ @ 196 ] 01820  [ 197 ] FLOORING AND          [ 198 ] 10-01-  [ 199 ] 09-30-
-                                                                                                          רם
-                     INSTALLATION                      2021            2024
-                     SERVICES
+                  [ @ 208 ] 01917        [ 209 ] FUEL STATION                    [ 210 ] 05-15-        [ 211 ] 05-14-                                     רם
+                                         INSPECTION SERVICES                          2017                  2025
 
-     [ @ 200 ] 06115  [ 201 ] FORKLIFTS             [ 202 ] 11-01-  [ 203 ] 10-31-
-                                                       2016            2024
+                  [ @ 212 ] 08721        [ 213 ] FUELS: GASOLINE,                [ 214 ] 01-01-        [ 215 ] 12-31-
+                                         DIESEL, AND                                 2022                   2024
+                                         RENEWABLES
 
-     [ @ 204 ] 02016  [ 205 ] FRESH DAIRY           [ 206 ] 07-01-  [ 207 ] 06-30-
-                                                                                                          רם
-                                                       2017            2025
+                  [ @ 216 ] 06319        [ 217 ] HOUSEHOLD                       [ 218 ] 02-01-        [ 219 ] 01-31-
+                                         APPLIANCES                                  2020                   2026
 
-     [ @ 208 ] 01917  [ 209 ] FUEL STATION          [ 210 ] 05-15-   [ 211 ] 05-14-                        ם
-                     INSPECTION SERVICES               2017            2025
+                   [ @ 220 ] 04616       [ 221 ] ILLUMINATION,                   [ 222 ] 12-23-        [ 223 ] 01-31-                                    רם
+                                         TRAFFIC SIGNAL &                            2016                   2025
+                                         INTELLIGENT
+                                         TRANSPORTATION
+                                         SYSTEMS EQUIPMENT
 
-     [ @ 212 ] 08721  [ 213 ] FUELS: GASOLINE,      [ 214 ] 01-01-  [ 215 ] 12-31-
-                     DIESEL, AND                       2022            2024
-                     RENEWABLES
+                  [ @ 224 ] 03020        [ 225 ] LAMPS, BALLASTS,                [ 226 ] 02-01-        [ 227 ] ] 01-31-
+                                         RETROFIT KITS AND                           2021                   2027
+                                         LAMP RECYCLING
+                                         CONTAINERS
 
-     [ @ 216 ] 06319  [ 217 ] HOUSEHOLD             [ 218 ] 02-01-  [ 219 ] 01-31-
-                     APPLIANCES                        2020            2026
+                  [ @ 228 ] 12321        [ 229 ] NATIVE PLANTS                   [ 230 ] 09-15-        [ 231 ] 09-14-                                    רם
+                                                                                     2022                   2024
 
-     [ @ 220 ] 04616  [ 221 ] ILLUMINATION,         [ 222 ] 12-23-  [ 223 ] 01-31-
-                                                                                                          נם
-                     TRAFFIC SIGNAL &                  2016            2025
-                     INTELLIGENT
-                     TRANSPORTATION
-                     SYSTEMS EQUIPMENT
+                   [ @ 232 ] 15122       [ 233 ] PARKS AND                       [ 234 ] 07-01-         [ 235 ] 12-31-
+                                                                                                                                                          ם
+                                         RECREATION                                  2023                   2024
+                                         EQUIPMENT AND
+                                         RELATED SERVICES
 
-     [ @ 224 ] 03020  [ 225 ] LAMPS, BALLASTS,      [ 226 ] 02-01-  [ 227 ] 01-31-
-                     RETROFIT KITS AND                 2021            2027
-                     LAMP RECYCLING
-                     CONTAINERS
+                  [ @ 236 ] 07821        [ 237 ] PERSONNEL                       [ 238 ] 03-01-        [ 239 ] 02-28-
+                                         INVESTIGATOR                                2022                   2027
+                                         SERVICES & DIGITAL
+                                         FORENSICS
+                                         INVESTIGATOR
+                                         SERVICES
 
-     [ @ 228 ] 12321  [ 229 ] NATIVE PLANTS         [ 230 ] 09-15-  [ 231 ] 09-14-                                                             >
-                                                       2022            2024
+                   [ @ 240 ] 06519       [ 241 ] PHARMACEUTICAL                  [ 242 ] 01-07-        [ 243 ] 01-06-
+                                         PACKAGING &                                 2022                   2025
+                                         DELIVERY
 
-     [ @ 232 ] 15122  [ 233 ] PARKS AND             [ 234 ] 07-01-  [ 235 ] 12-31-
-                     RECREATION                        2023            2024
-                     EQUIPMENT AND
-                     RELATED SERVICES
+                   [ @ 244 ] 03219       [ 245 ] PROFESSIONAL                    [ 246 ] 02-01-        [ 247 ] 01-31-
+                                         AUDITING SERVICES                            2020                  2026
 
-     [ @ 236 ] 07821  [ 237 ] PERSONNEL             [ 238 ] 03-01-  [ 239 ] 02-28-
-                                                                                                          ום
-                     INVESTIGATOR                      2022            2027
-                     SERVICES & DIGITAL
-                     FORENSICS
-                     INVESTIGATOR
-                     SERVICES
+                  [ @ 248 ] 02318        [ 249 ] PROPANE,                        [ 250 ] 02-01-        [ 251 ] 04-30-
+                                         AUTOGAS ( LPG ), PARTS                      2019                   2027
+                                         AND SERVICE
 
-     [ @ 240 ] 06519  [ 241 ] PHARMACEUTICAL        [ 242 ] 01-07-  [ 243 ] 01-06-
-                     PACKAGING &                       2022            2025
-                     DELIVERY
+                  [ @ 252 ] 17222        [ 253 ] SCRAP METAL                     [ 254 ] 06-01-        [ 255 ] 05-31-
+                                         COLLECTION &                                2023                   2026
+                                         RECYCLING SERVICES
 
-     [ @ 244 ] 03219  [ 245 ] PROFESSIONAL          [ 246 ] 02-01-  [ 247 ] 01-31-                       C
-                     AUDITING SERVICES                 2020            2026
+                  [ @ 256 ] 24223        [ 257 ] SECURITY AND                    [ 258 ] 07-31-        [ 259 ] 07-31-
+                                         FIRE PROTECTION                             2023                   2028
+                                         SERVICES
 
-     [ @ 248 ] 02318  [ 249 ] PROPANE,              [ 250 ] 02-01-  [ 251 ] 04-30-
-                     AUTOGAS ( LPG ), PARTS            2019            2027
-                     AND SERVICE
+                  [ @ 260 ] 03919        [ 261 ] SIGN LANGUAGE                   [ 262 ] 04-01-        [ 263 ] 03-31-
+                                         INTERPRETER SERVICES                        2020                   2026
+                                           INDEPENDENT
+                                         CONTRACTORS
 
-     [ @ 252 ] 17222  [ 253 ] SCRAP METAL           [ 254 ] 06-01-  [ 255 ] 05-31-
-                                                                                                          נם
-                     COLLECTION &                      2023            2026
-                     RECYCLING SERVICES
+                  [ @ 264 ] 02120        [ 265 ] SIGN LANGUAGE                   [ 266 ] 06-01-        [ 267 ] 05-31-                                                                                      >
+                                         INTERPRETER SERVICES                        2020                   2026
+                                           REFERRAL AGENCIES
 
-     [ @ 256 ] 24223  [ 257 ] SECURITY AND          [ 258 ] 07-31-  [ 259 ] 07-31-
-                                                                                                         נם
-                     FIRE PROTECTION                   2023            2028
-                     SERVICES
+                  [ @ 268 ] 11021        [ 269 ] SNOW & ICE                      [ 270 ] 08-01-        [ 271 ] 08-01-
+                                         CONTROL PRODUCTS                             2022                  2024
 
-     [ @ 260 ] 03919  [ 261 ] SIGN LANGUAGE         [ 262 ] 04-01-  [ 263 ] 03-31-                         ם
-                     INTERPRETER SERVICES              2020            2026
-                     -INDEPENDENT
-                     CONTRACTORS
+                  [ @ 272 ] 18222         [ 273 ] SPOKEN                         [ 274 ] 12-11-        [ 275 ] ] 12-11-
+                                         LANGUAGE                                    2023                   2026
+                                         INTERPRETER SERVICES
+                                           IPI, OPI, AND VRI ( NON-
+                                         CBA )
 
-     [ @ 264 ] 02120  [ 265 ] SIGN LANGUAGE         [ 266 ] 06-01-  [ 267 ] 05-31-
-                                                                                                           רם
-                     INTERPRETER SERVICES              2020            2026
-                     - REFERRAL AGENCIES
+                  [ @ 276 ] 02918        [ 277 ] SURVEY AND                      [ 278 ] 12-01-        [ 279 ] 11-30-
+                                                                                                                                                         רם
+                                         MAPPING EQUIPMENT &                         2018                   2024
+                                         SUPPLIES
 
-     [ @ 268 ] 11021  [ 269 ] SNOW & ICE            [ 270 ] 08-01-  [ 271 ] 08-01-                                                             ނ
-                     CONTROL PRODUCTS                  2022            2024
+                   [ @ 280 ] 01217       [ 281 ] TRACTOR SHOVEL                  [ 282 ] 08-04-        [ 283 ] 08-04-
+                                         LOADERS                                      2017                  2025
 
-     [ @ 272 ] 18222  [ 273 ] SPOKEN                [ 274 ] 12-11-   [ 275 ] 12-11-
-                     LANGUAGE                          2023            2026
-                     INTERPRETER SERVICES
-                     -IPI, OPI, AND VRI ( NON-
-                     CBA )
+                  [ @ 284 ] 00816        [ 285 ] TRAILERS,                       [ 286 ] 01-09-        [ 287 ] 12-31-
+                                         VARIOUS SIZES                               2017                   2024
 
-     [ @ 276 ] 02918  [ 277 ] SURVEY AND            [ 278 ] 12-01-   [ 279 ] 11-30-
-                     MAPPING EQUIPMENT &               2018            2024
-                     SUPPLIES
+                  [ @ 288 ] 06719        [ 289 ] TRANSIT BUSES                   [ 290 ] 04-01-        [ 291 ] 03-31-
+                                                                                     2021                   2024
 
-     [ @ 280 ] 01217  [ 281 ] TRACTOR SHOVEL        [ 282 ] 08-04-  [ 283 ] 08-04-
-                     LOADERS                           2017            2025
+                  [ @ 292 ] 02818        [ 293 ] TRUCK MOUNTED                   [ 294 ] 08-01-        [ 295 ] 07-31-
+                                         SPRAYERS                                    2018                   2024
 
-     [ @ 284 ] 00816  [ 285 ] TRAILERS,             [ 286 ] 01-09-  [ 287 ] 12-31-                        ום
-                      VARIOUS SIZES                    2017            2024
+                  [ @ 296 ] 16122         [ 297 ] VESSEL REMOVAL,                [ 298 ] 04-01-        [ 299 ] 03-31-
+                                         DISPOSAL, OR SALVAGE                        2023                   2026
+                                         SERVICES FOR DERELICT
+                                         VESSELS
 
-     [ @ 288 ] 06719  [ 289 ] TRANSIT BUSES         [ 290 ] 04-01-  [ 291 ] 03-31-
-                                                       2021            2024
+                  [ @ 300 ] ] 01818       [ 301 ] WASTE PUMPING                  [ 302 ] 01-01-        [ 303 ] 12-31-
+                                         SERVICES                                    2019                   2024
 
-     [ @ 292 ] 02818  [ 293 ] TRUCK MOUNTED         [ 294 ] 08-01-  [ 295 ] 07-31-                        רם
-                     SPRAYERS                          2018            2024
+                   [ @ 304 ] 03520       [ 305 ] ACH VALIDATION                  [ 306 ] 04-30-        [ 307 ] 04-29-
+                                         SERVICES                                    2021                   2024
 
-     [ @ 296 ] 16122  [ 297 ] VESSEL REMOVAL,       [ 298 ] 04-01-  [ 299 ] 03-31-                        口
-                     DISPOSAL, OR SALVAGE              2023            2026
-                     SERVICES FOR DERELICT
-                     VESSELS
+                   [ @ 308 ] 04220       [ 309 ] AIR TASERS AND                  [ 310 ] 07-19-        [ 311 ] 07-18-                                                                                      ►
+                                         ELECTRONIC                                   2021                  2024
+                                         INCAPACITATION
+                                         DEVICES
 
-     [ @ 300 ] 01818  [ 301 ] WASTE PUMPING         [ 302 ] 01-01-  [ 303 ] 12-31-
-                                                                                                           ם
-                     SERVICES                          2019            2024
+                  [ @ 312 ] 19322        [ 313 ] AMBULANCES AND                   [ 314 ] 11-15-       [ 315 ] 02-23-
+                                         EMERGENCY VEHICLES                          2022                   2026
 
-     [ @ 304 ] 03520  [ 305 ] ACH VALIDATION        [ 306 ] 04-30-  [ 307 ] 04-29-
-                     SERVICES                          2021            2024
+                  [ @ 316 ] 00917        [ 317 ] AUTOMATIC                        [ 318 ] 01-30-       [ 319 ] 08-04-
+                                         EXTERNAL                                     2018                  2024
+                                         DEFIBRILLATOR
 
-     [ @ 308 ] 04220  [ 309 ] AIR TASERS AND        [ 310 ] 07-19-   [ 311 ] 07-18-
-                     ELECTRONIC                        2021            2024
-                     INCAPACITATION
-                     DEVICES
+                  [ @ 320 ] 03720         [ 321 ] BODY ARMOR AND                 [ 322 ] 03-15-        [ 323 ] 11-20-
+                                         BALLISTIC - RESISTANT                       2021                   2025
+                                         PROTECTIVE PRODUCTS
 
-     [ @ 312 ] 19322  [ 313 ] AMBULANCES AND        [ 314 ] 11-15-1 [ 315 ] 02-23-
-                     EMERGENCY VEHICLES                2022            2026
+                  [ @ 324 ] 04518        [ 325 ] BULK FOOD:                      [ 326 ] 01-01-        [ 327 ] 12-31-
+                                         FROZEN, CHILLED,                            2019                   2024
+                                         CANNED,
+                                         REFRIGERATED, AND
+                                         DRY GOODS
 
-     [ @ 316 ] 00917  [ 317 ] AUTOMATIC             [ 318 ] 01-30-  [ 319 ] 08-04-
-                     EXTERNAL                          2018            2024
-                     DEFIBRILLATOR
+                   [ @ 328 ] 07615       [ 329 ] BUSINESS &                      [ 330 ] 10-14-        [ 331 ] 10-13-
+                                         ECONOMIC SERVICE-                           2015                   2024
+                                         WWU
 
-     [ @ 320 ] 03720  [ 321 ] BODY ARMOR AND        [ 322 ] 03-15-   [ 323 ] 11-20-
-                     BALLISTIC - RESISTANT             2021            2025
-                     PROTECTIVE PRODUCTS
+                   [ @ 332 ] 13022       [ 333 ] CARS, TRUCKS,                   [ 334 ] 01-21-        [ 335 ] 11-08-
+                                         VANS, SUVS, CAB                             2022                   2025
+                                         CHASSIS, & OTHER
+                                         VEHICLES
 
-     [ @ 324 ] 04518  [ 325 ] BULK FOOD:            [ 326 ] 01-01-  [ 327 ] 12-31-
-                     FROZEN, CHILLED,                  2019            2024
-                     CANNED,
-                     REFRIGERATED, AND
-                     DRY GOODS
+                  [ @ 336 ] 06715         [ 337 ] CBRN PROTECTIVE                [ 338 ] 04-26-        [ 339 ] 04-25-
+                                         MASK AND CLOTHING                           2016                   2024
 
-     [ @ 328 ] 07615  [ 329 ] BUSINESS &            [ 330 ] 10-14-  [ 331 ] 10-13-
-                     ECONOMIC SERVICE -                2015            2024
-                     WWU
+                   [ @ 340 ] 05116       [ 341 ] CLOUD SOLUTIONS                 [ 342 ] 07-01-        [ 343 ] 09-15-
+                                                                                     2017                   2026
 
-     [ @ 332 ] 13022  [ 333 ] CARS, TRUCKS,         [ 334 ] 01-21-  [ 335 ] 11-08-
-                     VANS, SUVS, CAB                   2022            2025
-                     CHASSIS, & OTHER
-                     VEHICLES
+                  [ @ 344 ] 00719         [ 345 ] COMMERCIAL                     [ 346 ] 01-01-        [ 347 ] 12-31-
+                                         CARD SERVICES                               2021                   2025
 
-     [ @ 336 ] 06715  [ 337 ] CBRN PROTECTIVE       [ 338 ] 04-26-  [ 339 ] 04-25-
-                     MASK AND CLOTHING                 2016            2024
+                   [ @ 348 ] 10921       [ 349 ] COMMERCIAL                      [ 350 ] 07-01-        [ 351 ] 06-30-                                                                                   HFC
+                                         KITCHEN EQUIPMENT,                          2022                   2024
+                                         SUPPLIES AND SERVICES
 
-     [ @ 340 ] 05116  [ 341 ] CLOUD SOLUTIONS       [ 342 ] 07-01-  [ 343 ] 09-15-
-                                                       2017            2026
+                  [ @ 352 ] 05820        [ 353 ] COMPUTER                        [ 354 ] 01-31-        [ 355 ] 06-30-
+                                         EQUIPMENT, RELATED                          2024                   2025
+                                         PERIPHERALS &
+                                         SERVICES ( NVP )
 
-     [ @ 344 ] 00719  [ 345 ] COMMERCIAL            [ 346 ] 01-01-   [ 347 ] 12-31-
-                     CARD SERVICES                     2021            2025
+                  [ @ 356 ] 24323         [ 357 ] CONDOMS AND                    [ 358 ] 07-01-        [ 359 ] 06-30-
+                                         RELATED PRODUCTS                            2023                   2025
 
-     [ @ 348 ] 10921  [ 349 ] COMMERCIAL            [ 350 ] 07-01-  [ 351 ] 06-30-                                                           HFC HgA
-                     KITCHEN EQUIPMENT,                2022            2024
-                     SUPPLIES AND SERVICES
+                  [ @ 360 ] 06619        [ 361 ] COPIERS AND                     [ 362 ] ] 03-02-      [ 363 ] 07-31-
+                                         MANAGED PRINT                               2020                   2024
+                                         SERVICES
 
-     [ @ 352 ] ] 05820 [ 353 ] COMPUTER             [ 354 ] 01-31-   [ 355 ] 06-30-
-                     EQUIPMENT, RELATED                2024            2025
-                     PERIPHERALS &
-                     SERVICES ( NVP )
+                   [ @ 364 ] 20122       [ 365 ] CORRECTIONAL                    [ 366 ] 01-01-        [ 367 ] 12-31-
+                                         INDUSTRIES                                  2024                   2028
 
-     [ @ 356 ] 24323  [ 357 ] CONDOMS AND           [ 358 ] 07-01-  [ 359 ] 06-30-
-                     RELATED PRODUCTS                  2023            2025
+                  [ @ 368 ] 00619        [ 369 ] CUSTOM                           [ 370 ] 12-01-       [ 371 ] 11-30-
+                                         JUMPSUITS                                   2019                   2025
 
-     [ @ 360 ] 06619  [ 361 ] COPIERS AND           [ 362 ] 03-02-  [ 363 ] 07-31-
-                     MANAGED PRINT                     2020            2024
-                     SERVICES
+                   [ @ 372 ] 01420        [ 373 ] CUSTOM UNIFORM                 [ 374 ] 09-01-         [ 375 ] 08-31-
+                                                                                     2021                   2027
 
-     [ @ 364 ] 20122  [ 365 ] CORRECTIONAL          [ 366 ] 01-01-  [ 367 ] 12-31-
-                     INDUSTRIES                        2024            2028
+                  [ @ 376 ] 05719        [ 377 ] CUSTOM                          [ 378 ] 05-01-        [ 379 ] 04-30-
+                                         UNIFORMS                                    2020                   2026
 
-     [ @ 368 ] 00619  [ 369 ] CUSTOM                [ 370 ] 12-01-  [ 371 ] 11-30-
-                     JUMPSUITS                         2019            2025
+                  [ @ 380 ] 04715        [ 381 ] DATA BREACH-                    [ 382 ] 05-09-        [ 383 ] 04-30-
+                                         CREDIT MONITORING                           2016                   2024
 
-     [ @ 372 ] 01420  [ 373 ] CUSTOM UNIFORM        [ 374 ] 09-01-  [ 375 ] 08-31-
-                                                       2021            2027
+                   [ @ 384 ] 05819       [ 385 ] DATA                            [ 386 ] 06-01-        [ 387 ] 09-30-
+                                         COMMUNICATIONS                              2020                   2024
+                                         ( NASPO )
 
-     [ @ 376 ] 05719  [ 377 ] CUSTOM                [ 378 ] 05-01-  [ 379 ] 04-30-
-                     UNIFORMS                          2020            2026
+                  [ @ 388 ] 00920        [ 389 ] DENTAL                          [ 390 ] 08-24-        [ 391 ] 12-31-
+                                         PRODUCTS AND                                2020                   2024
+                                         SERVICES
 
-     [ @ 380 ] 04715  [ 381 ] DATA BREACH-          [ 382 ] 05-09-  [ 383 ] 04-30-
-                     CREDIT MONITORING                 2016            2024
+                  [ @ 392 ] 10521        [ 393 ] DISCOVERY                       [ 394 ] 02-10-        [ 395 ] 12-31-
+                                         SERVICES                                    2023                   2025
 
-     [ @ 384 ] 05819  [ 385 ] DATA                  [ 386 ] 06-01-   [ 387 ] 09-30-
-                     COMMUNICATIONS                    2020            2024
-                     ( NASPO )
+                  [ @ 396 ] 05420         [ 397 ] DOT DRUG                       [ 398 ] 08-01-        [ 399 ] 07-31-
+                                         TESTING                                     2020                  2025
 
-     [ @ 388 ] 00920  [ 389 ] DENTAL                [ 390 ] 08-24-   [ 391 ] 12-31-
-                     PRODUCTS AND                      2020            2024
-                     SERVICES
+                  [ @ 400 ] 04016        [ 401 ] ELECTRIC                        [ 402 ] 09-09-        [ 403 ] 09-09-
+                                         VEHICLE SUPPLY                              2016                   2024
+                                         EQUIPMENT
 
-     [ @ 392 ] 10521  [ 393 ] DISCOVERY             [ 394 ] 02-10-  [ 395 ] 12-31-
-                     SERVICES                          2023            2025
+                  [ @ 404 ] 01219        [ 405 ] ELEVATOR                        [ 406 ] 01-01-        [ 407 ] 01-01-
+                                         INSPECTIONS,                                2020                   2025
+                                         MAINTENANCE, &
+                                         REPAIRS
 
-     [ @ 396 ] 05420  [ 397 ] DOT DRUG              [ 398 ] 08-01-  [ 399 ] 07-31-
-                      TESTING                          2020            2025
+                  [ @ 408 ] 00220        [ 409 ] EMPLOYMENT                      [ 410 ] 07-01-        [ 411 ] ] 07-01-
+                                         AND INCOME                                  2022                   2024
+                                         VERIFICATION & PUBLIC
+                                         RECORDS SEARCH
+                                         SERVICES
 
-     [ @ 400 ] 04016  [ 401 ] ELECTRIC              [ 402 ] 09-09-  [ 403 ] 09-09-
-                     VEHICLE SUPPLY                    2016            2024
-                     EQUIPMENT
+                  [ @ 412 ] 07814         [ 413 ] ENTERPRISE                     [ 414 ] 10-26-        [ 415 ] 10-25-
+                                         CONTENT                                     2015                   2024
+                                         MANAGEMENT
 
-     [ @ 404 ] 01219  [ 405 ] ELEVATOR              [ 406 ] 01-01-  [ 407 ] 01-01-
-                     INSPECTIONS,                      2020            2025
-                     MAINTENANCE, &
-                     REPAIRS
+                   [ @ 416 ] 03120       [ 417 ] ENVIRONMENTAL                    [ 418 ] 06-03-       [ 419 ] 12-31-
+                                         CONSULTING                                  2021                   2099
 
-     [ @ 408 ] 00220  [ 409 ] EMPLOYMENT            [ 410 ] 07-01-  [ 411 ] 07-01-
-                     AND INCOME                        2022            2024
-                      VERIFICATION & PUBLIC
-                     RECORDS SEARCH
-                     SERVICES
+                  [ @ 420 ] 09121        [ 421 ] ENVIRONMENTAL                   [ 422 ] ] 10-01-       [ 423 ] 09-30-
+                                         SYSTEMS RESEARCH                            2021                   2024
+                                         INSTITUTE, INC. ( ESRI )
 
-     [ @ 412 ] 07814  [ 413 ] ENTERPRISE            [ 414 ] 10-26-  [ 415 ] 10-25-
-                     CONTENT                           2015            2024
-                     MANAGEMENT
+                   [ @ 424 ] 00408       [ 425 ] EVENT                           [ 426 ] 01-01-        [ 427 ] 01-01-1
+                                         COORDINATION &                              2008                   2025
+                                         CONFERENCE SERVICES-
+                                         WSU
 
-     [ @ 416 ] 03120  [ 417 ] ENVIRONMENTAL         [ 418 ] 06-03-  [ 419 ] 12-31-
-                     CONSULTING                        2021            2099
+                   [ @ 428 ] 01018       [ 429 ] FACILITIES                      [ 430 ] 07-01-        [ 431 ] 06-30-
+                                         MAINTENANCE, REPAIR,                        2018                   2024
+                                         AND OPERATIONS ( MRO )
+                                         & INDUSTRIAL SUPPLIES
 
-     [ @ 420 ] 09121  [ 421 ] ENVIRONMENTAL         [ 422 ] 10-01-  [ 423 ] 09-30-
-                     SYSTEMS RESEARCH                  2021            2024
-                     INSTITUTE, INC. ( ESRI )
+                   [ @ 432 ] 04915       [ 433 ] FENCING                         [ 434 ] 01-01-        [ 435 ] 12-31-
+                                         MATERIALS AND                               2016                   2026
+                                         RELATED PRODUCTS
 
-     [ @ 424 ] 00408  [ 425 ] EVENT                 [ 426 ] 01-01-   [ 427 ] 01-01-
-                     COORDINATION &                    2008            2025
-                     CONFERENCE SERVICES-
-                     WSU
+                  [ @ 436 ] 00819        [ 437 ] FLEET CARD                      [ 438 ] 10-16-        [ 439 ] 12-31-
+                                         SERVICES                                    2020                   2025
 
-     [ @ 428 ] 01018  [ 429 ] FACILITIES            [ 430 ] 07-01-  [ 431 ] 06-30-
-                     MAINTENANCE, REPAIR,              2018            2024
-                     AND OPERATIONS ( MRO )
-                     & INDUSTRIAL SUPPLIES
+                  [ @ 440 ] 20522        [ 441 ] FLEET                           [ 442 ] 05-01-        [ 443 ] 04-18-
+                                         MANAGEMENT                                  2023                   2026
+                                         SERVICES
 
-     [ @ 432 ] 04915  [ 433 ] FENCING               [ 434 ] 01-01-  [ 435 ] 12-31-
-                     MATERIALS AND                     2016            2026
-                     RELATED PRODUCTS
+                  [ @ 444 ] 16722        [ 445 ] FOOD SERVICE                    [ 446 ] 07-01-        [ 447 ] 06-30-
+                                         DISPOSABLES                                 2023                   2025
 
-     [ @ 436 ] 00819  [ 437 ] FLEET CARD            [ 438 ] 10-16-  [ 439 ] 12-31-
-                     SERVICES                          2020            2025
+                   [ @ 448 ] 06318       [ 449 ] FORMULA                         [ 450 ] 01-29-        [ 451 ] 01-28-
+                                         REBATES FOR WOMEN,                          2019                   2025
+                                         INFANTS, AND
+                                         CHILDREN ( WIC )
 
-     [ @ 440 ] 20522  [ 441 ] FLEET                 [ 442 ] 05-01-  [ 443 ] 04-18-
-                     MANAGEMENT                        2023            2026
-                     SERVICES
+                  [ @ 452 ] 01520        [ 453 ] FRESH BAKERY                    [ 454 ] 04-01-        [ 455 ] 03-31-
+                                         ITEMS                                       2021                   2025
 
-     [ @ 444 ] 16722  [ 445 ] FOOD SERVICE          [ 446 ] 07-01-  [ 447 ] 06-30-
-                     DISPOSABLES                       2023            2025
+                  [ @ 456 ] 02619        [ 457 ] FRESH FRUITS &                  [ 458 ] 02-01-        [ 459 ] 01-31-
+                                         VEGETABLES                                  2020                   2025
 
-     [ @ 448 ] 06318  [ 449 ] FORMULA               [ 450 ] 01-29-  [ 451 ] 01-28-
-                     REBATES FOR WOMEN,                2019            2025
-                     INFANTS, AND
-                     CHILDREN ( WIC )
+                  [ @ 460 ] 00919        [ 461 ] FULLY                           [ 462 ] 07-01-        [ 463 ] 06-30-
+                                         REFUNDABLE AIRFARE                          2019                   2025
 
-     [ @ 452 ] 01520  [ 453 ] FRESH BAKERY          [ 454 ] 04-01-  [ 455 ] 03-31-                                                             ނ
-                     ITEMS                             2021            2025
+                  [ @ 464 ] 02420        [ 465 ] GENERATOR                       [ 466 ] 02-22-        [ 467 ] 02-07-
+                                         MAINTENANCE AND                             2021                   2026
+                                         REPAIR
 
-     [ @ 456 ] 02619  [ 457 ] FRESH FRUITS &        [ 458 ] 02-01-  [ 459 ] 01-31-
-                     VEGETABLES                        2020            2025
+                  [ @ 468 ] 12922        [ 469 ] GEOTECHNICAL                    [ 470 ] 10-26-        [ 471 ] 10-25-
+                                         DRILLING SERVICES                           2022                   2024
 
-     [ @ 460 ] 00919  [ 461 ] FULLY                 [ 462 ] 07-01-  [ 463 ] 06-30-
-                     REFUNDABLE AIRFARE                2019            2025
+                  [ @ 472 ] 00118        [ 473 ] GUARDRAILS,                     [ 474 ] 09-13-        [ 475 ] 09-13-
+                                         TERMINALS, CABLE AND                        2018                   2026
+                                         COMPONENTS
 
-     [ @ 464 ] 02420  [ 465 ] GENERATOR             [ 466 ] 02-22-   [ 467 ] 02-07-
-                     MAINTENANCE AND                   2021             2026
-                     REPAIR
+                  [ @ 476 ] 03614        [ 477 ] HAZARDOUS                       [ 478 ] 06-30-        [ 479 ] 06-29-
+                                         WASTE HANDLING AND                          2016                   2025
+                                         DISPOSAL SERVICE
 
-     [ @ 468 ] 12922  [ 469 ] GEOTECHNICAL          [ 470 ] 10-26-  [ 471 ] 10-25-
-                     DRILLING SERVICES                 2022            2024
+                  [ @ 480 ] 01020        [ 481 ] HEAVY                           [ 482 ] 08-31-        [ 483 ] 05-13-
+                                         CONSTRUCTION                                2020                   2024
+                                         EQUIPMENT
 
-     [ @ 472 ] 00118  [ 473 ] GUARDRAILS,           [ 474 ] 09-13-  [ 475 ] 09-13-
-                     TERMINALS, CABLE AND              2018            2026
-                     COMPONENTS
+                  [ @ 484 ] 00418        [ 485 ] HVAC FILTERS                    [ 486 ] 06-15-        [ 487 ] 06-14-
+                                                                                     2019                   2025
 
-     [ @ 476 ] 03614  [ 477 ] HAZARDOUS             [ 478 ] 06-30-  [ 479 ] 06-29-
-                     WASTE HANDLING AND                2016            2025
-                     DISPOSAL SERVICE
+                   [ @ 488 ] 20322        [ 489 ] IMPACT                          [ 490 ] 08-11-       [ 491 ] 06-30-
+                                         ATTENUATORS                                 2023                   2025
 
-     [ @ 480 ] 01020  [ 481 ] HEAVY                 [ 482 ] 08-31-  [ 483 ] 05-13-
-                     CONSTRUCTION                      2020            2024
-                     EQUIPMENT
+                  [ @ 492 ] 27523        [ 493 ] INTEGRATED PEST                 [ 494 ] 08-30-        [ 495 ] 08-30-
+                                         MANAGEMENT                                  2024                   2029
+                                         SERVICES
 
-     [ @ 484 ] 00418  [ 485 ] HVAC FILTERS          [ 486 ] 06-15-  [ 487 ] 06-14-
-                                                       2019            2025
+                  [ @ 496 ] 07215        [ 497 ] LABORATORY                      [ 498 ] 04-01-        [ 499 ] 02-28-
+                                         EQUIPMENT AND                                2016                  2024
+                                         SUPPLIES
 
-     [ @ 488 ] 20322  [ 489 ] IMPACT                [ 490 ] 08-11-   [ 491 ] 06-30-
-                     ATTENUATORS                       2023            2025
+                  [ @ 500 ] 28123        [ 501 ] LAWN AND                        [ 502 ] 04-01-        [ 503 ] 03-31-
+                                         GROUNDS EQUIPMENT                           2025                   2027
 
-     [ @ 492 ] 27523  [ 493 ] INTEGRATED PEST       [ 494 ] 08-30-  [ 495 ] 08-30-
-                     MANAGEMENT                        2024            2029
-                     SERVICES
+                  [ @ 504 ] 01715        [ 505 ] LINEN & LAUNDRY                 [ 506 ] 04-01-        [ 507 ] 03-31-
+                                         SERVICES                                    2016                   2024
 
-     [ @ 496 ] 07215  [ 497 ] LABORATORY            [ 498 ] 04-01-  [ 499 ] 02-28-
-                     EQUIPMENT AND                     2016            2024
-                     SUPPLIES
+                  [ @ 508 ] 02418         [ 509 ] LUBRICANTS AND                 [ 510 ] ] 08-01-      [ 511 ] 07-31-
+                                         DIESEL EXHAUST FLUID                        2018                   2026
 
-     [ @ 500 ] 28123  [ 501 ] LAWN AND              [ 502 ] 04-01-  [ 503 ] 03-31-
-                     GROUNDS EQUIPMENT                 2025            2027
+                  [ @ 512 ] 15622        [ 513 ] MAILING                         [ 514 ] 09-01-        [ 515 ] 05-14-
+                                         EQUIPMENT, SUPPLIES,                         2022                  2024
+                                         AND MAINTENANCE
 
-     [ @ 504 ] 01715  [ 505 ] LINEN & LAUNDRY       [ 506 ] 04-01-  [ 507 ] 03-31-
-                     SERVICES                          2016            2024
+                  [ @ 516 ] 02520        [ 517 ] MANLIFTS                        [ 518 ] 04-01-        [ 519 ] 03-31-
+                                                                                     2022                   2028
 
-     [ @ 508 ] 02418  [ 509 ] LUBRICANTS AND        [ 510 ] 08-01-   [ 511 ] 07-31-
-                     DIESEL EXHAUST FLUID              2018            2026
+                  [ @ 520 ] 05718        [ 521 ] MARINE                          [ 522 ] 12-16-        [ 523 ] 12-15-
+                                         REFUELING SERVICES                          2018                   2024
+                                         AND FUELS
 
-     [ @ 512 ] 15622  [ 513 ] MAILING               [ 514 ] 09-01-  [ 515 ] 05-14-
-                     EQUIPMENT, SUPPLIES,              2022            2024
-                     AND MAINTENANCE
+                  [ @ 524 ] 02119        [ 525 ] MEDICAL                         [ 526 ] ] 01-10-      [ 527 ] 01-10-
+                                         DIAGNOSTIC TESTING                          2020                   2026
 
-     [ @ 516 ] 02520  [ 517 ] MANLIFTS              [ 518 ] 04-01-1 [ 519 ] 03-31-
-                                                       2022            2028
+                   [ @ 528 ] 26323       [ 529 ] MEDICAL SUPPLY                  [ 530 ] 08-01-        [ 531 ] 04-30-
+                                         SOLUTIONS                                   2023                   2026
 
-     [ @ 520 ] 05718  [ 521 ] MARINE                [ 522 ] 12-16-  [ 523 ] 12-15-
-                     REFUELING SERVICES                2018            2024
-                     AND FUELS
+                   [ @ 532 ] 03620       [ 533 ] MEDICAL WASTE                   [ 534 ] 06-24-        [ 535 ] 06-24-
+                                         DISPOSAL TARIFF                             2020                   2026
+                                         AGREEMENTS
 
-     [ @ 524 ] 02119  [ 525 ] MEDICAL               [ 526 ] 01-10-  [ 527 ] 01-10-
-                     DIAGNOSTIC TESTING                2020             2026
+                   [ @ 536 ] 26723       [ 537 ] MULTI - FUNCTION                [ 538 ] 08-01-        [ 539 ] 07-31-
+                                         DEVICES AND RELATED                         2024                   2029
+                                         SOFTWARE, SERVICES,
+                                         AND CLOUD SOLUTIONS
 
-     [ @ 528 ] 26323  [ 529 ] MEDICAL SUPPLY        [ 530 ] 08-01-  [ 531 ] 04-30-
-                     SOLUTIONS                         2023            2026
+                   [ @ 540 ] 12621       [ 541 ] NASPO                           [ 542 ] 01-01-        [ 543 ] 10-19-
+                                         AUTOMOTIVE PARTS                            2022                   2024
 
-     [ @ 532 ] 03620  [ 533 ] MEDICAL WASTE         [ 534 ] 06-24-  [ 535 ] 06-24-
-                     DISPOSAL TARIFF                   2020            2026
-                     AGREEMENTS
+                   [ @ 544 ] 03719       [ 545 ] NASPO                           [ 546 ] 02-20-        [ 547 ] 08-31-
+                                         EMERGENCY LIGHT                             2020                   2024
+                                         BARS
 
-     [ @ 536 ] 26723  [ 537 ] MULTI - FUNCTION      [ 538 ] 08-01-  [ 539 ] 07-31-
-                     DEVICES AND RELATED               2024            2029
-                     SOFTWARE, SERVICES,
-                     AND CLOUD SOLUTIONS
+                   [ @ 548 ] 06316       [ 549 ] NASPO PUBLIC                    [ 550 ] 01-01-        [ 551 ] 04-30-
+                                         SAFETY VIDEO SYSTEMS                        2019                   2024
 
-     [ @ 540 ] 12621  [ 541 ] NASPO                 [ 542 ] 01-01-  [ 543 ] 10-19-
-                     AUTOMOTIVE PARTS                  2022            2024
+                  [ @ 552 ] 01220        [ 553 ] NASPO                           [ 554 ] 03-09-        [ 555 ] 02-22-
+                                         VALUEPOINT                                  2022                   2026
+                                         INFORMATION
+                                         SECURITY SERVICES
 
-     [ @ 544 ] 03719  [ 545 ] NASPO                 [ 546 ] 02-20-   [ 547 ] 08-31-
-                     EMERGENCY LIGHT                   2020            2024
-                     BARS
+                  [ @ 556 ] 08321        [ 557 ] NASPO                           [ 558 ] 09-01-        [ 559 ] 01-18-
+                                         VALUEPOINT IT                               2021                   2025
+                                         RESEARCH & ADVISORY
+                                         SERVICES
 
-     [ @ 548 ] 06316  [ 549 ] NASPO PUBLIC          [ 550 ] 01-01-  [ 551 ] 04-30-
-                     SAFETY VIDEO SYSTEMS              2019            2024
+                   [ @ 560 ] 06016       [ 561 ] NASPO                            [ 562 ] 11-01-       [ 563 ] 02-29-
+                                         VALUEPOINT SOFTWARE                         2016                   2024
+                                         RESELLERS
 
-     [ @ 552 ] 01220  [ 553 ] NASPO                 [ 554 ] 03-09-  [ 555 ] 02-22-
-                     VALUEPOINT                        2022            2026
-                     INFORMATION
-                     SECURITY SERVICES
+                  [ @ 564 ] 04718        [ 565 ] NASPO                           [ 566 ] 07-01-        [ 567 ] 08-11-
+                                         VALUEPOINT WIRELESS                         2019                   2024
+                                         DATA, VOICE, AND
+                                         ACCESSORIES
 
-     [ @ 556 ] 08321  [ 557 ] NASPO                 [ 558 ] 09-01-  [ 559 ] 01-18-
-                     VALUEPOINT IT                     2021            2025
-                     RESEARCH & ADVISORY
-                     SERVICES
+                  [ @ 568 ] 01417        [ 569 ] NON - CUSTOM                     [ 570 ] 07-03-       [ 571 ] 07-02-
+                                         UNIFORMS AND                                2019                   2025
+                                         ACCESSORIES
 
-     [ @ 560 ] 06016  [ 561 ] NASPO                 [ 562 ] 11-01-  [ 563 ] 02-29-
-                     VALUEPOINT SOFTWARE               2016            2024
-                     RESELLERS
+                  [ @ 572 ] 04120        [ 573 ] NON - DOT DRUG                  [ 574 ] 01-22-        [ 575 ] 07-31-
+                                         TESTING                                     2021                   2025
 
-     [ @ 564 ] 04718  [ 565 ] NASPO                 [ 566 ] 07-01-   [ 567 ] 08-11-
-                     VALUEPOINT WIRELESS               2019            2024
-                     DATA, VOICE, AND
-                     ACCESSORIES
+                  [ @ 576 ] 21422        [ 577 ] OFFICE                          [ 578 ] 01-24-        [ 579 ] 01-21-
+                                         FURNITURE AND                                2023                  2028
+                                         RELATED SERVICES
 
-     [ @ 568 ] 01417  [ 569 ] NON - CUSTOM          [ 570 ] 07-03-   [ 571 ] 07-02-
-                     UNIFORMS AND                      2019            2025
-                     ACCESSORIES
+                  [ @ 580 ] 18722        [ 581 ] ONLINE AUCTION                  [ 582 ] 11-01-        [ 583 ] 09-01-
+                                         SERVICES                                    2022                   2024
 
-     [ @ 572 ] 04120  [ 573 ] NON - DOT DRUG        [ 574 ] 01-22-  [ 575 ] 07-31-
-                     TESTING                           2021            2025
+                   [ @ 584 ] 04417        [ 585 ] PARKING                        [ 586 ] 05-08-        [ 587 ] 05-07-
+                                         HARDWARE, SOFTWARE                          2018                   2024
+                                         & MAINTENANCE
 
-     [ @ 576 ] 21422  [ 577 ] OFFICE                [ 578 ] 01-24-  [ 579 ] 01-21-
-                     FURNITURE AND                     2023            2028
-                     RELATED SERVICES
+                  [ @ 588 ] 19222        [ 589 ] PHARMACEUTICAL                  [ 590 ] 11-01-        [ 591 ] 06-30-
+                                         REVERSE DISTRIBUTION                         2023                  2025
 
-     [ @ 580 ] 18722  [ 581 ] ONLINE AUCTION        [ 582 ] 11-01-  [ 583 ] 09-01-
-                     SERVICES                          2022            2024
+                   [ @ 592 ] 04019       [ 593 ] PHARMACEUTICAL                  [ 594 ] 02-01-        [ 595 ] 10-31-
+                                         WHOLESALE                                   2020                   2024
 
-     [ @ 584 ] 04417  [ 585 ] PARKING               [ 586 ] 05-08-  [ 587 ] 05-07-
-                     HARDWARE, SOFTWARE                2018            2024
-                     & MAINTENANCE
+                   [ @ 596 ] 00218       [ 597 ] POLICE RADAR,                   [ 598 ] 02-20-        [ 599 ] 08-31-
+                                         LIDAR SPEED                                 2019                   2024
+                                         ENFORCEMENT & SPEED
+                                         ADVISORY SYSTEMS
 
-     [ @ 588 ] 19222  [ 589 ] PHARMACEUTICAL        [ 590 ] 11-01-  [ 591 ] 06-30-
-                     REVERSE DISTRIBUTION              2023            2025
+                  [ @ 600 ] 26923        [ 601 ] PROCUREMENT                     [ 602 ] 08-08-        [ 603 ] 06-05-
+                                         ACQUISITION SUPPORT                          2023                  2024
+                                         SERVICES ( PASS ) -
+                                         NASPO
 
-     [ @ 592 ] 04019  [ 593 ] PHARMACEUTICAL        [ 594 ] 02-01-  [ 595 ] 10-31-
-                     WHOLESALE                         2020            2024
+                  [ @ 604 ] 01017        [ 605 ] PROFESSIONAL                    [ 606 ] 06-29-        [ 607 ] 06-30-
+                                         GRADE TOOLS AND                             2018                   2024
+                                         DIAGNOSTIC
+                                         EQUIPMENT
 
-     [ @ 596 ] 00218  [ 597 ] POLICE RADAR,         [ 598 ] 02-20-  [ 599 ] 08-31-
-                     LIDAR SPEED                       2019             2024
-                     ENFORCEMENT & SPEED
-                     ADVISORY SYSTEMS
+                   [ @ 608 ] 00318       [ 609 ] PUBLIC SAFETY                   [ 610 ] 07-01-        [ 611 ] 12-31-                                                                                      >
+                                         COMMUNICATIONS                              2021                   2026
+                                         PRODUCTS, SERVICES &
+                                         SOLUTIONS
 
-     [ @ 600 ] 26923  [ 601 ] PROCUREMENT           [ 602 ] 08-08-   [ 603 ] 06-05-
-                     ACQUISITION SUPPORT               2023            2024
-                      SERVICES ( PASS ) -
-                     NASPO
+                  [ @ 612 ] 05720        [ 613 ] PUBLIC                          [ 614 ] 04-30-        [ 615 ] 06-30-
+                                         SAFETY / LAW                                 2024                  2028
+                                         ENFORCEMENT VIDEO
+                                         PRODUCTS, SERVICES
+                                         AND SOLUTIONS
 
-     [ @ 604 ] 01017  [ 605 ] PROFESSIONAL          [ 606 ] 06-29-   [ 607 ] 06-30-
-                      GRADE TOOLS AND                  2018            2024
-                     DIAGNOSTIC
-                     EQUIPMENT
+                  [ @ 616 ] 06815        [ 617 ] RAISED PAVEMENT                 [ 618 ] 06-20-        [ 619 ] 06-30-
+                                         MARKERS                                     2016                   2024
 
-     [ @ 608 ] 00318  [ 609 ] PUBLIC SAFETY         [ 610 ] 07-01-  [ 611 ] 12-31-
-                     COMMUNICATIONS                    2021            2026
-                     PRODUCTS, SERVICES &
-                     SOLUTIONS
+                  [ @ 620 ] 00820        [ 621 ] REFUSE                          [ 622 ] 07-29-        [ 623 ] 06-02-
+                                         MANAGEMENT                                  2021                   2025
+                                         EQUIPMENT
 
-     [ @ 612 ] 05720  [ 613 ] PUBLIC                [ 614 ] 04-30-  [ 615 ] 06-30-
-                     SAFETY / LAW                      2024            2028
-                     ENFORCEMENT VIDEO
-                     PRODUCTS, SERVICES
-                     AND SOLUTIONS
+                  [ @ 624 ] 02620        [ 625 ] RESTROOM AND                     [ 626 ] 01-11-       [ 627 ] 10-15-
+                                         SHOWER FACILITY                             2022                   2025
+                                         SOLUTIONS
 
-     [ @ 616 ] 06815  [ 617 ] RAISED PAVEMENT       [ 618 ] 06-20-  [ 619 ] 06-30-
-                     MARKERS                           2016            2024
+                  [ @ 628 ] 08021        [ 629 ] RETROREFLECTIVE                 [ 630 ] 01-31-        [ 631 ] 12-31-
+                                         GLASS BEADS                                  2022                  2024
 
-     [ @ 620 ] 00820  [ 621 ] REFUSE                [ 622 ] 07-29-  [ 623 ] 06-02-
-                     MANAGEMENT                        2021            2025
-                     EQUIPMENT
+                   [ @ 632 ] 07121       [ 633 ] ROADWAY                         [ 634 ] 01-24-        [ 635 ] 12-13-
+                                         MAINTENANCE                                  2022                  2025
+                                         PRODUCTS
 
-     [ @ 624 ] 02620  [ 625 ] RESTROOM AND          [ 626 ] 01-11-  [ 627 ] 10-15-
-                     SHOWER FACILITY                   2022            2025
-                     SOLUTIONS
+                  [ @ 636 ] 09112        [ 637 ] SAS - SOFTWARE                  [ 638 ] 07-09-        [ 639 ] 02-27-
+                                         LICENSE CONTRACT                            2001                   2031
 
-     [ @ 628 ] 08021  [ 629 ] RETROREFLECTIVE       [ 630 ] 01-31-  [ 631 ] 12-31-
-                     GLASS BEADS                       2022            2024
+                  [ @ 640 ] 22523        [ 641 ] SEASONAL                        [ 642 ] 02-09-        [ 643 ] 12-31-
+                                         INFLUENZA AND OTHER                         2023                   2024
+                                         VACCINATIONS
 
-     [ @ 632 ] 07121  [ 633 ] ROADWAY               [ 634 ] 01-24-  [ 635 ] 12-13-
-                     MAINTENANCE                       2022            2025
-                     PRODUCTS
+                   [ @ 644 ] 03317       [ 645 ] SIGNAL FLARES &                 [ 646 ] 01-01-        [ 647 ] 12-31-
+                                         HIGHWAY SIGNAL                              2018                   2024
+                                         DEVICES
 
-     [ @ 636 ] 09112  [ 637 ] SAS - SOFTWARE        [ 638 ] 07-09-  [ 639 ] 02-27-
-                     LICENSE CONTRACT                  2001            2031
+                   [ @ 648 ] 10421       [ 649 ] SMALL PACKAGE                   [ 650 ] 11-28-        [ 651 ] 11-27-
+                                         DELIVERY                                    2021                   2026
 
-     [ @ 640 ] 22523  [ 641 ] SEASONAL              [ 642 ] 02-09-  [ 643 ] 12-31-
-                     INFLUENZA AND OTHER               2023            2024
-                     VACCINATIONS
+                  [ @ 652 ] 06821        [ 653 ] SPOKEN                          [ 654 ] 02-01-        [ 655 ] 02-29-
+                                         LANGUAGE                                    2022                   2028
+                                         INTERPRETER SERVICES
+                                          IPI, OPI, AND VRI ( CBA )
 
-     [ @ 644 ] 03317  [ 645 ] SIGNAL FLARES &       [ 646 ] 01-01-  [ 647 ] 12-31-
-                     HIGHWAY SIGNAL                    2018            2024
-                     DEVICES
+                   [ @ 656 ] 02819       [ 657 ] SPOKEN                          [ 658 ] 03-03-        [ 659 ] 03-03-
+                                         LANGUAGE                                    2020                   2024
+                                         INTERPRETER SERVICES
+                                          OPI AND VRI
 
-     [ @ 648 ] 10421  [ 649 ] SMALL PACKAGE         [ 650 ] 11-28-   [ 651 ] 11-27-
-                     DELIVERY                          2021            2026
+                   [ @ 660 ] 02810       [ 661 ] STATE RECORDS                    [ 662 ] 03-29-       [ 663 ] 04-30-
+                                         CENTER DOCUMENT                             2010                   2027
+                                         MANAGEMENT
 
-     [ @ 652 ] 06821  [ 653 ] SPOKEN                [ 654 ] 02-01-  [ 655 ] 02-29-
-                     LANGUAGE                          2022            2028
-                     INTERPRETER SERVICES
-                     - IPI, OPI, AND VRI ( CBA )
+                  [ @ 664 ] 05619        [ 665 ] STATEWIDE                       [ 666 ] 12-15-        [ 667 ] 09-15-
+                                         VEHICLE RENTAL                              2019                   2025
 
-     [ @ 656 ] 02819  [ 657 ] SPOKEN                [ 658 ] 03-03-  [ 659 ] 03-03-
-                     LANGUAGE                          2020            2024
-                     INTERPRETER SERVICES
-                     - OPI AND VRI
+                  [ @ 668 ] 06121        [ 669 ] STREET SWEEPER                  [ 670 ] 08-01-        [ 671 ] 11-16-
+                                         VEHICLES, VARIOUS                           2022                   2025
+                                         SIZES
 
-     [ @ 660 ] 02810  [ 661 ] STATE RECORDS         [ 662 ] 03-29-  [ 663 ] 04-30-
-                     CENTER DOCUMENT                   2010            2027
-                     MANAGEMENT
+                  [ @ 672 ] 04119        [ 673 ] STUDENT                          [ 674 ] 11-01-       [ 675 ] 07-31-
+                                         TRANSPORTATION                              2019                   2024
+                                         CHARTER BUS SERVICES
 
-     [ @ 664 ] 05619  [ 665 ] STATEWIDE             [ 666 ] 12-15-  [ 667 ] 09-15-
-                     VEHICLE RENTAL                    2019            2025
+                  [ @ 676 ] 19022        [ 677 ] SUBLOCADE AND                    [ 678 ] 11-27-       [ 679 ] 05-01-
+                                         OTHER MEDICAL                                2023                  2025
+                                         PRODUCTS
 
-     [ @ 668 ] 06121  [ 669 ] STREET SWEEPER        [ 670 ] 08-01-   [ 671 ] 11-16-
-                     VEHICLES, VARIOUS                 2022            2025
-                     SIZES
+                  [ @ 680 ] 04020        [ 681 ] TIRE RETREADING                  [ 682 ] 07-25-       [ 683 ] 06-28-
+                                         SERVICES                                    2021                   2027
 
-     [ @ 672 ] 04119  [ 673 ] STUDENT               [ 674 ] 11-01-  [ 675 ] ] 07-31-
-                     TRANSPORTATION                    2019            2024
-                     CHARTER BUS SERVICES
+                  [ @ 684 ] 00519         [ 685 ] TIRES, TUBES &                 [ 686 ] 04-01-        [ 687 ] 03-31-
+                                         SERVICES                                    2019                   2024
 
-     [ @ 676 ] 19022  [ 677 ] SUBLOCADE AND         [ 678 ] 11-27-  [ 679 ] 05-01-
-                     OTHER MEDICAL                     2023            2025
-                     PRODUCTS
+                  [ @ 688 ] 06614        [ 689 ] TOLL FREE                       [ 690 ] 05-01-        [ 691 ] 04-30-
+                                         TELEPHONE                                   2015                   2024
+                                         SERVICE
 
-     [ @ 680 ] 04020  [ 681 ] TIRE RETREADING       [ 682 ] 07-25-  [ 683 ] 06-28-
-                     SERVICES                          2021            2027
+                  [ @ 692 ] 15422        [ 693 ] TRANSCRIPTION                   [ 694 ] 02-21-        [ 695 ] 02-21-                                                                                      ނ
+                                         AND CAPTIONING                              2023                   2028
+                                         SERVICES
 
-     [ @ 684 ] 00519  [ 685 ] TIRES, TUBES &        [ 686 ] 04-01-  [ 687 ] 03-31-
-                     SERVICES                          2019            2024
+                  [ @ 696 ] 01618        [ 697 ] TRANSLATION                     [ 698 ] 11-20-        [ 699 ] 11-19-
+                                         SERVICES SYSTEM                             2018                   2024
+                                         GENERATED CLIENT
+                                         LETTERS
 
-     [ @ 688 ] 06614  [ 689 ] TOLL FREE             [ 690 ] 05-01-  [ 691 ] 04-30-
-                     TELEPHONE                         2015            2024
-                     SERVICE
+                  [ @ 700 ] 28623        [ 701 ] TRAVEL                          [ 702 ] 11-01-        [ 703 ] 03-13-
+                                         MANAGEMENT                                  2023                   2025
+                                         SERVICES ( NASPO )
 
-     [ @ 692 ] 15422  [ 693 ] TRANSCRIPTION         [ 694 ] 02-21-  [ 695 ] 02-21-
-                     AND CAPTIONING                    2023            2028
-                     SERVICES
+                  [ @ 704 ] 02917        [ 705 ] VEGETATION                      [ 706 ] 01-01-        [ 707 ] 12-31-
+                                         MANAGEMENT                                  2018                   2026
 
-     [ @ 696 ] 01618  [ 697 ] TRANSLATION           [ 698 ] 11-20-  [ 699 ] 11-19-
-                     SERVICES SYSTEM                   2018            2024
-                      GENERATED CLIENT
-                     LETTERS
+                  [ @ 708 ] 25923        [ 709 ] VEHICLE LIFTS                    [ 710 ] 08-10-       [ 711 ] 03-31-
+                                         AND GARAGE                                   2023                  2028
+                                         ASSOCIATED
+                                         EQUIPMENT
 
-     [ @ 700 ] 28623  [ 701 ] TRAVEL                [ 702 ] 11-01-   [ 703 ] 03-13-
-                     MANAGEMENT                        2023            2025
-                     SERVICES ( NASPO )
+                   [ @ 712 ] 02020       [ 713 ] VEHICLE UPFIT                   [ [ 714 ] 09-01-      [ 715 ] 08-31-
+                                         EQUIPMENT                                   2020                   2026
 
-     [ @ 704 ] 02917  [ 705 ] VEGETATION            [ 706 ] 01-01-  [ 707 ] 12-31-
-                     MANAGEMENT                        2018            2026
+                   [ @ 716 ] 15222       [ 717 ] WALK - IN                       [ 718 ] 08-01-        [ 719 ] 07-31-
+                                         BUILDING SUPPLIES                           2022                   2027
 
-     [ @ 708 ] 25923  [ 709 ] VEHICLE LIFTS         [ 710 ] 08-10-  [ 711 ] 03-31-
-                     AND GARAGE                        2023            2028
-                     ASSOCIATED
-                     EQUIPMENT
+                  [ @ 720 ] 14022        [ 721 ] WALK - IN STEP                  [ 722 ] 10-02-        [ 723 ] 10-02-
+                                         VANS                                         2023                  2026
 
-     [ @ 712 ] 02020  [ 713 ] VEHICLE UPFIT         [ 714 ] 09-01-  [ 715 ] 08-31-
-                     EQUIPMENT                         2020            2026
+                  [ @ 724 ] 02817        [ 725 ] WATERBORNE                       [ 726 ] 03-01-       [ 727 ] 02-29-
+                                         TRAFFIC MARKING                             2018                   2024
+                                         PAINT
 
-     [ @ 716 ] 15222  [ 717 ] WALK - IN             [ 718 ] 08-01-  [ 719 ] 07-31-
-                     BUILDING SUPPLIES                 2022            2027
+              [ @ 728 ]         Preference Contract w / Green Recycled              [ 729 ] MW, M, W = [ [ 733 ] MW [ 730 ]: Minority Women              Two [ 736 ]    [ 737 ] Two Tier Contract
+              Content                                                              Certified Business;    [ 734 ] M [ 731 ] ]: Minority Certified
+                                                                                    Business; [ 735 ] W [ 732 ]: Women Certified Business
+                    738 ] [ 739 ] Contract With Certified Small                           740 ] = 741 ] Contract With Vet - Owned Certified              [ @ 742 ]          * Preference Executive Order 18-03
+              Business                                                              Business
+               [ @ 743 ]       = * Preference Electronic Products                   [ @ 744 ] HFC * Preference Hydrofluorocarbons                        [ @ 745 ] Hg = * Preference Nonmercury - Added
+              Purchasing                                                           Products Purchasing                                                   Products Purchasing
+              [ @ 746 ]          * Preference Polychlorinated Biphenyls             [ 747 ]    Newly Added Icon.                                         [ @ 748 ]          All Other Green Considerations
+              ( PCBs ) Purchasing
 
-     [ @ 720 ] 14022  [ 721 ] WALK - IN STEP        [ 722 ] 10-02-  [ 723 ] 10-02-
-                     VANS                              2023            2026
+       [ 749 ] Didn't find what you were looking for?
+           [ 750 ] The Contracts Resource Center is here to help.
 
-     [ @ 724 ] 02817  [ 725 ] WATERBORNE            [ 726 ] 03-01-  [ 727 ] 02-29-
-                     TRAFFIC MARKING                   2018            2024
-                     PAINT
+                    [ 751 ] ( 360 ) 407-2210                                               [ @ 752 ] contractingandpurchasing@des.wa.gov                           [ @ 753 ] Find a Contracts Specialist
 
 
-  [ @ 728 ]    Preference Contract w / Green Recycled [ 729 ] MW, M, W = [ 733 ] ] MW [ 730 ] ]: Minority Women Two Tier [ 736 ] [ 737 ] Two Tier Contract
- Content                                             Certified Business; [ 734 ] M [ 731 ]: Minority Certified
-                                                      Business; [ 735 ] W [ 732 ]: Women Certified Business
-      738 ]  [ 739 ] Contract With Certified Small        [ 740 ] - [ 741 ] Contract With Vet - Owned Certified [ @ 742 ] > = * Preference Executive Order 18-03
- Business                                             Business
-  [ @ 743 ]  = * Preference Electronic Products       [ @ 744 ] HFC * Preference Hydrofluorocarbons       [ @ 745 ] Ha * Preference Nonmercury - Added
- Purchasing                                           Products Purchasing                                Products Purchasing
-  [ @ 746 ]   = * Preference Polychlorinated Biphenyls [ 747 ] * = Newly Added Icon.                      [ @ 748 ]    All Other Green Considerations
- ( PCBs ) Purchasing
 
-749 ] Didn't find what you were looking for?
-[ 750 ] The Contracts Resource Center is here to help.
-
-      [ 751 ] ( 360 ) 407-2210                            [ @ 752 ] contractingandpurchasing@des.wa.gov         [ @ 753 ] Find a Contracts Specialist
-
-
-
-  [ @ 757 ] DES Home [ 754 ] [ @ 758 ] Contact Us [ 755 ] | [ @ 759 ] Help [ 756 ] | [ @ 760 ] Privacy Policy           [ 761 ] ] © Copyright 2023 - Department of Enterprise Services
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 10378
+   [ @ 757 ] DES Home [ 754 ] [ @ 758 ] Contact Us [ 755 ] [ @ 759 ] Help [ 756 ] [ @ 760 ] Privacy Policy                                                                                  [ 761 ] Copyright 2023 - Department of Enterprise Services
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 10287

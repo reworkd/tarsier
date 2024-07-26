@@ -1,45 +1,44 @@
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 2 ] Médiathèque   [ @ 1 ] Presse [ @ 0 ] Recherche |
-                                                                                                                                                                                            Royaume du Maroc
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 2 ] Médiathèque | [ @ 1 ] Presse | [ @ 0 ] Recherche
+                                                                                                                                                                                                                                Royaume du Maroc
+                                                                              [ 3 ] DIRECTION GÉNÉRALE DES IMPÔTS
+                                                                                                                                                        العامة المديرية IMPOTE
+                                                                                                                                                للحر           DES
+                                                                                                                                            اليا TION GENERALE
+                                                                                                                                                                                                    [ @ 4 ] xx | + Co *{ 4+   [ @ 5 ] Français |
+                                                                                                                                                                                                    [ @ 6 ] English [ @ 7 ] Es
+                                                       [ @ 9 ] Nous connaître | [ @ 10 ] Nous contacter | [ @ 11 ] Vos suggestions |                                                      [ @ 13 ] Annuaire              [ @ 12 ] Non à la corruption
+                                                                                                                                                                                                                     [ @ 14 ] Rendez - vous en ligne
+                                              [ 15 ] Vos démarches & impôts en                         [ 37 ] Notes circulaires
+                                             bref
+                                              [ 16 ] Législation & réglementation                       [ 38 ] Notes circulaires relatives aux dispositions fiscales des lois de finances
+                                             fiscales
+                                                                                                        [ 39 ] Note circulaire n ° 717 relative au Code Général des Impôts
+                                                  [ @ 17 ] Conventions internationales
+                                                  [ @ 18 ] Taux de change                               [ 40 ] Autres notes circulaires
+                                              ⚫ [ @ 19 ] Code général des impôts
+                                                  [ @ 20 ] Taxes locales
+                                                  [ @ 21 ] Taxe sur les contrats d'assurances
+                                                  [ @ 22 ] Décrets et arrêtés
+                                                  [ @ 23 ] Notes circulaires
+                                                  [ @ 24 ] Conventions et partenariats
+                                                  [ @ 25 ] Questions de principe
+                                                  [ @ 26 ] Charte des contribuables
+                                                  [ @ 27 ] Accords Préalables en matière des
+                                                 Prix de Transfert
+                                             [ @ 28 ] Rapport sur les dépenses fiscales
+                                              [ 29 ] Nous connaître
 
-                                                        [ 3 ] DIRECTION GÉNÉRALE DES IMPÔTS                                      المديرية
-                                                                                                                   للصراف العامة DES IMPOTS
-                                                                                                                    TION GENERALE
-                                                                                                                                                                  [ @ ]  xtCoXY + | [ @ 5 ] Français |
-                                                                                                                                                                   [ @ ] English | [ @ 7 ] Fincial
-                                   [ @ 9 ] Nous connaître | [ @ 10 ] Nous contacter | [ @ 11 ] Vos suggestions |                                         [ @ 13 ] Annuaire           [ @ 12 ] Non à la corruption
-                                                                                                                                                                                  [ @ 14 ] Rendez - vous en ligne
-                           [ 15 ] Vos démarches & impôts en                   [ 37 ] Notes circulaires
-                          bref
-                           [ 16 ] Législation & réglementation                 [ 38 ] Notes circulaires relatives aux dispositions fiscales des lois de finances
-                          fiscales
-                                                                               [ 39 ] Note circulaire n ° 717 relative au Code Général des Impôts
-                              [ @ 17 ] Conventions internationales
-                              [ @ 18 ] Taux de change                          [ 40 ] Autres notes circulaires
-                           ⚫ [ @ 19 ] Code général des impôts
-                           ⚫ [ @ 20 ] Taxes locales
-                               [ @ 21 ] Taxe sur les contrats d'assurances
-                              [ @ 22 ] Décrets et arrêtés
-                               [ @ 23 ] Notes circulaires
-                              [ @ 24 ] Conventions et partenariats
-                              [ @ 25 ] Questions de principe
-                              [ @ 26 ] Charte des contribuables
-                              [ @ 27 ] Accords Préalables en matière des
-                              Prix de Transfert
-                          [ @ 28 ] Rapport sur les dépenses fiscales
-                           [ 29 ] Nous connaître
 
-
-                                      [ @ 30 ] MÉDIATHÈQUE
-                             [ @ 31 ] JE M'ABONNE À
-                            newsletter
-
-                          [ @ 32 ] VOS ÉCHÉANCES
-                                                  fiscales
-                             [ 34 ] CENTRE              )
-                              [ 35 ] d'appel
-                               [ 36 ]
-                  [ 41 ]
-                          [ 42 ] Copyright © 2016 [ 43 ] Direction Générale des Impôts            [ @ 44 ] Appels d'offres    [ @ 45 ] Conditions générales d'utilisation [ @ 46 ] Plan du site   [ @ 47 ] Liens utiles
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 603
+                                                          [ @ 30 ] MÉDIATHÈQUE
+                                                [ @ 31 ] JE M'ABONNE À
+                                                newsletter
+                                              [ @ 32 ] VOS ÉCHÉANCES
+                                                                       fiscales
+                                                 [ 34 ] CENTRE [ @ 33 ]
+                                                  [ 35 ] d'appel
+                                                   [ 36 ]
+                                     [ 41 ]
+                                             [ 42 ] Copyright © 2016 [ 43 ] Direction Générale des Impôts                    [ @ 44 ] Appels d'offres      [ @ 45 ] Conditions générales d'utilisation       [ @ 46 ] Plan du site     [ @ 47 ] Liens utiles
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 619

@@ -1,7 +1,7 @@
---------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
 [ 0 ] Asim Shrestha
-                                           [ 1 ] I'm a software engineer co - founding [ @ 3 ] Reworkd [ 2 ], a YC S23 company extracting
-                                           structured data from the web. We also made AgentGPT
-                                                  [ @ 4 ] Writing [ 5 ] [ @ 6 ] Quotes [ 7 ] [ @ 8 ] Reading [ 9 ] [ @ 10 ] Contact
---------------------------------------------------------------------------------------------------------------------------------
-Token count: 100
+                                                      [ 1 ] I'm a software engineer co - founding [ @ 3 ] Reworkd [ 2 ], a YC S23 company extracting
+                                                      structured data from the web. We also made AgentGPT
+                                                             [ @ 4 ] Writing [ 5 ] [ 6 ] Quotes [ 7 ] [ 8 ] Reading [ 9 ] [ 10 ] Contact
+--------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 97

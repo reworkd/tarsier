@@ -1,140 +1,117 @@
--------------------------------------------------------------------------------------------------------
-[ 1 ]              [ $ 3 ] [ $ 4 ] $ 5 ]  [ @ 6 ]  [ $ 7 ]                   [ $ 8 ] [ @ 10 ] [ @ 11 ]
-                                     [
-    OpenAl         Research API✓  ChatGPT   Safety Company                    Search Log in 7 Try ChatGPT >
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 1 ]                                                                                                                       [ @ 10 ] Log in 7
+                              [ $ 3 ] Research [ $ 4 ] API✓ [ $ 5 ] ChatGPT   [ @ 6 ] Safety [ $ 7 ] Company ✓     [ $ 8 ] Search
+       OpenAl                                                                                                                     [ @ 11 ] Try ChatGPT >
 
 
 
-  [ @ 12 ]
- Careers
-                                                      [ 14 ] San Francisco, California, United States -
-  **[ 13 ] Data**                                    Applied Al Engineering
-  **Infrastructure**
-  **Engineer**
+
+   [ @ 12 ] Careers
+                                                                                       [ 14 ] San Francisco, California, United States - Applied Al
+   **[ 13 ] Data**                                                                    Engineering
+   **Infrastructure**
+   **Engineer**
 
 
 
-  [ @ 15 ]         [ 16 ] About the Team
- Apply now 7
-                   [ 17 ] You'll join the team that's behind OpenAl's data infrastructure that
-                   powers critical engineering, product, alignment teams that are core to the
-                   work we do at OpenAl. The systems we support include our data
-                   warehouse, batch compute infrastructure, streaming infrastructure, data
-                   orchestration system, data lake, vector databases, critical integrations, and
-                   more.
+   [ @ 15 ] Apply now >        [ 16 ] About the Team
+                               [ 17 ] You'll join the team that's behind OpenAl's data infrastructure that powers critical
+                              engineering, product, alignment teams that are core to the work we do at OpenAl.
+                              The systems we support include our data warehouse, batch compute infrastructure,
+                              streaming infrastructure, data orchestration system, data lake, vector databases,
+                              critical integrations, and more.
 
+                               [ 18 ] About the Role
+                               [ 19 ] The Applied Data Platform team designs, builds, and operates the foundational
+                              data infrastructure that enables products and teams at OpenAl.
+                               [ 20 ] You are comfortable with work such as scaling Kubernetes services, debugging
+                              Kafka consumer lag, diagnosing distributed kv store failures, designing a system to
+                              retrieve image vectors with low latency.
+                               [ 21 ] You are well versed with infrastructure tooling such as Terraform, worked with
+                              Kubernetes, and have the SRE skill sets.
+                               [ 22 ] This role is based in San Francisco, CA. We use a hybrid work model of 3 days in
+                              the office per week and offer relocation assistance to new employees.
 
-                   [ 18 ] About the Role
-                   [ 19 ] The Applied Data Platform team designs, builds, and operates the
-                   foundational data infrastructure that enables products and teams at
-                   OpenAl.
-                   [ 20 ] You are comfortable with work such as scaling Kubernetes services,
-                   debugging Kafka consumer lag, diagnosing distributed kv store failures,
-                   designing a system to retrieve image vectors with low latency.
-                   [ 21 ] You are well versed with infrastructure tooling such as Terraform,
-                   worked with Kubernetes, and have the SRE skill sets.
-                   [ 22 ] This role is based in San Francisco, CA. We use a hybrid work model of
-                   3 days in the office per week and offer relocation assistance to new
-                   employees.
+                               [ 23 ] In this role, you will:
+                                 [ 24 ] Design, build, and maintain data infrastructure systems such as distributed
+                                compute, data orchestration, distributed storage, streaming infrastructure while
+                                ensuring scalability, reliability, and security
+                                 [ 25 ] Ensure our data platform can scale reliably to the next several orders of
+                                magnitude
+                                 [ 26 ] Accelerate company productivity by empowering your fellow engineers &
+                                teammates with excellent data tooling and systems, providing a best in case
+                                experience
+                              •  [ 27 ] Bring new features and capabilities to the world by partnering with product
+                                engineers, trust & safety and other teams to build the technical foundations
+                              ⚫ [ 28 ] Like all other teams, we are responsible for the reliability of the systems we
+                                build. This includes an on - call rotation to respond to critical incidents as needed
 
-                   [ 23 ] In this role, you will:
-                     [ 24 ] Design, build, and maintain data infrastructure systems such as
-                    distributed compute, data orchestration, distributed storage, streaming
-                    infrastructure while ensuring scalability, reliability, and security
-                   • [ 25 ] Ensure our data platform can scale reliably to the next several orders
-                    of magnitude
-                     [ 26 ] Accelerate company productivity by empowering your fellow
-                    engineers & teammates with excellent data tooling and systems,
-                    providing a best in case experience
-                   ⚫ [ 27 ] Bring new features and capabilities to the world by partnering with
-                    product engineers, trust & safety and other teams to build the technical
-                    foundations
-                     [ 28 ] Like all other teams, we are responsible for the reliability of the
-                    systems we build. This includes an on - call rotation to respond to critical
-                    incidents as needed
+                               [ 29 ] You might thrive in this role if you:
 
-                   [ 29 ] You might thrive in this role if you:
-                     [ 30 ] Have 4+ years in data infrastructure engineering OR
-                     [ 31 ] Have 4+ years in infrastructure engineering with a strong interest in
-                    data
-                   • [ 32 ] Take pride in building and operating scalable, reliable, secure
-                    systems
-                     [ 33 ] Are comfortable with ambiguity and rapid change
-                   • [ 34 ] Have a voracious and intrinsic desire to learn and fill in missing skills
-                    -and an equally strong talent for sharing learnings clearly and concisely
-                    with others
-                   [ 35 ] Some of the technologies you'll be working with include Apache Spark,
-                   Python, Terraform, Kafka, Azure EventHub, Vector DBs.
+                              .  [ 30 ] Have 4+ years in data infrastructure engineering OR
+                              •  [ 31 ] Have 4+ years in infrastructure engineering with a strong interest in data
+                              •  [ 32 ] Take pride in building and operating scalable, reliable, secure systems
+                              •  [ 33 ] Are comfortable with ambiguity and rapid change
+                              •  [ 34 ] Have a voracious and intrinsic desire to learn and fill in missing skills - and an
+                                equally strong talent for sharing learnings clearly and concisely with others
+                               [ 35 ] Some of the technologies you'll be working with include Apache Spark, Python,
+                              Terraform, Kafka, Azure EventHub, Vector DBs.
 
-                   [ 36 ] We are an equal opportunity employer and do not discriminate on the
-                   basis of race, religion, national origin, gender, sexual orientation, age,
-                   veteran status, disability or any other legally protected status. Pursuant to
-                   the San Francisco Fair Chance Ordinance, we will consider qualified
-                   applicants with arrest and conviction records.
-                   [ 37 ] We are committed to providing reasonable accommodations to
-                   applicants with disabilities, and requests can be made via this
-                   [ @ 39 ] link [ 38 ].
-                   [ @ 40 ] OpenAl US Applicant Privacy Policy
+                               [ 36 ] We are an equal opportunity employer and do not discriminate on the basis of
+                              race, religion, national origin, gender, sexual orientation, age, veteran status, disability
+                              or any other legally protected status. Pursuant to the San Francisco Fair Chance
+                              Ordinance, we will consider qualified applicants with arrest and conviction records.
+                               [ 37 ] We are committed to providing reasonable accommodations to applicants with
+                              disabilities, and requests can be made via this [ @ 39 ] link [ 38 ].
+                              [ @ 40 ] OpenAI US Applicant Privacy Policy
 
 
 
-                   [ 41 ] Compensation, Benefits and Perks
-                   [ 42 ] Total compensation also includes generous equity and benefits.
-                   ⚫ [ 43 ] Medical, dental, and vision insurance for you and your family
-                     [ 44 ] Mental health and wellness support
-                    [ 45 ] 401 ( k ) plan with 4 % matching
-                     [ 46 ] Unlimited time off and 18+ company holidays per year
-                   ⚫ [ 47 ] Paid parental leave ( 20 weeks ) and family - planning support
-                     [ 48 ] Annual learning & development stipend ( $ 1,500 per year )
-                   [ 49 ] Annual Salary Range
-                   [ 50 ] $ 200,000 [ 51 ] - [ 52 ] $ 385,000 USD
+                               [ 41 ] Compensation, Benefits and Perks
+                               [ 42 ] Total compensation also includes generous equity and benefits.
+                              ⚫ [ 43 ] Medical, dental, and vision insurance for you and your family
+                              ⚫ [ 44 ] Mental health and wellness support
+                                 [ 45 ] 401 ( k ) plan with 4 % matching
+                                 [ 46 ] Unlimited time off and 18+ company holidays per year
+                                 [ 47 ] Paid parental leave ( 20 weeks ) and family - planning support
+                                 [ 48 ] Annual learning & development stipend ( $ 1,500 per year )
+                               [ 49 ] Annual Salary Range
+                               [ 50 ] $ 200,000 [ 51 ] - [ 52 ] $ 385,000 USD
 
-                   [ 53 ] About OpenAl
-                   [ 54 ] OpenAl is an Al research and deployment company dedicated to
-                   ensuring that general - purpose artificial intelligence benefits all of humanity.
-                   We push the boundaries of the capabilities of Al systems and seek to safely
-                   deploy them to the world through our products. Al is an extremely powerful
-                   tool that must be created with safety and human needs at its core, and to
-                   achieve our mission, we must encompass and value the many different
-                   perspectives, voices, and experiences that form the full spectrum of
-                   humanity.
-                   [ 55 ] At OpenAl, we believe artificial intelligence has the potential to help
-                   people solve immense global challenges, and we want the upside of Al to
-                   be widely shared. Join us in shaping the future of technology.
+                               [ 53 ] About OpenAl
+                               [ 54 ] OpenAl is an Al research and deployment company dedicated to ensuring that
+                              general - purpose artificial intelligence benefits all of humanity. We push the
+                              boundaries of the capabilities of Al systems and seek to safely deploy them to the
+                              world through our products. Al is an extremely powerful tool that must be created
+                              with safety and human needs at its core, and to achieve our mission, we must
+                              encompass and value the many different perspectives, voices, and experiences that
+                              form the full spectrum of humanity.
+                               [ 55 ] At OpenAl, we believe artificial intelligence has the potential to help people solve
+                              immense global challenges, and we want the upside of Al to be widely shared. Join
+                              us in shaping the future of technology.
 
-                   [ @ 56 ]
-                   Apply now 7
+                               [ @ 56 ] Apply now >
 
 
 
 
 
-  [ @ 57 ]                          [ 58 ] Research   [ 63 ] API       [ 68 ] ChatGPT   [ 72 ] Company
-    OpenAl                          [ @ 59 ]          [ @ 64 ]         [ @ 69 ]         [ @ 73 ]
-                                    Overview         Overview          Overview         About
-                                    [ @ 60 ]          [ @ 65 ]         [ @ 70 ]         [ @ 74 ]
-                                    Index            Data privacy      Enterprise       Blog
-                                    [ @ 61 ]          [ @ 66 ]         [ @ 71 ]         [ @ 75 ]
-                                    GPT - 4          Pricing           Try ChatGPT >    Careers
-                                    [ @ 62 ]          [ @ 67 ]                          [ @ 76 ]
-                                    DALL - E 3       Docs 7                             Charter
-                                                                                        [ @ 77 ]
-                                                                                        Security
-                                                                                        [ @ 78 ]
-                                                                                        Customer stories
-                                                                                        [ @ 79 ]
-                                                                                        Safety
+   [ @ 57 ]                                                [ 58 ] Research             [ 63 ] API                  [ 68 ] ChatGPT             [ 72 ] Company
+      **OpenAl**                                           [ @ 59 ] Overview           [ @ 64 ] Overview           [ @ 69 ] Overview           [ @ 73 ] About
+                                                           [ @ 60 ] Index              [ @ 65 ] Data privacy       [ @ 70 ] Enterprise         [ @ 74 ] Blog
+                                                           [ @ 61 ] GPT - 4            [ @ 66 ] Pricing            [ @ 71 ] Try ChatGPT >      [ @ 75 ] Careers
+                                                           [ @ 62 ] DALL - E 3         [ @ 67 ] Docs 7                                        [ @ 76 ] Charter
+                                                                                                                                              [ @ 77 ] Security
+                                                                                                                                              [ @ 78 ] Customer stories
+                                                                                                                                              [ @ 79 ] Safety
 
 
 
 
 
-  [ 80 ] OpenAIO 2015-2023          [ @ 84 ] [ @ 85 ] [ @ 86 ] [ @ 87 ] [ @ 88 ]
-  [ @ 81 ]                          Twitter YouTube GitHub SoundCloud LinkedIn
- Terms & policies
-  [ @ 82 ]
- Privacy policy
-  [ @ 83 ]                             [ $ 89 ]
- Brand guidelines                   Back to top ↑
--------------------------------------------------------------------------------------------------------
-Token count: 1501
+   [ 80 ] OpenAl © 2015–2023                               [ @ 84 ] Twitter [ @ 85 ] YouTube [ @ 86 ] GitHub [ @ 87 ] SoundCloud [ @ 88 ] LinkedIn
+   [ @ 81 ] Terms & policies
+   [ @ 82 ] Privacy policy
+   [ @ 83 ] Brand guidelines                               [ $ 89 ] Back to top ↑
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1477
