@@ -100,6 +100,5 @@ class Tarsier(ITarsier):
         await adapter.run_js(script)
 
     async def remove_tags(self, driver: AnyDriver) -> None:
-        # NOTE: manually call when needed if you've used keep_tags_showing=True
         adapter = adapter_factory(driver)
         await self._remove_tags(adapter)
