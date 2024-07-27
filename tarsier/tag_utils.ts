@@ -14,12 +14,12 @@ const elIsClean = (el: HTMLElement) => {
   const rect = el.getBoundingClientRect();
   const computedStyle = window.getComputedStyle(el);
 
-  // @ts-ignore
   const isHidden =
     computedStyle.visibility === "hidden" ||
     computedStyle.display === "none" ||
     el.hidden ||
-    el.disabled;
+    (el.hasAttribute("disabled") && el.getAttribute("disabled"));
+
   const isTransparent = computedStyle.opacity === "0";
   const isZeroSize = rect.width === 0 || rect.height === 0;
   const isScriptOrStyle = el.tagName === "SCRIPT" || el.tagName === "STYLE";
