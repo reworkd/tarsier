@@ -1,39 +1,40 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 0 ]
+[ 21 ]
    **Excela Health**
 
-                                 [ @ 1 ] Pay Bill [ @ 2 ] Contact Us [ @ 3 ] Careers [ @ 4 ] About Us [ # 235 ] Search          [ @ 7 ] 877-771-1234
-                          [ @ 8 ] Find a Doctor [ @ 9 ] Locations [ @ 10 ] Services [ @ 38 ] Patients & Visitors @ 59 ] Patient Portal [ @ 60 ] Giving
+                                         [ @ 2 ] Pay Bill [ @ 3 ] Contact Us [ @ 4 ] Careers [ @ 5 ] About Us O Search           [ @ 8 ] 877-771-1234
+                                [ @ 9 ] Find a Doctor [ @ 10 ] Locations [ @ 11 ] Services [ @ 39 ] Patients & Visitors [ @ 60 ] Patient Portal [ @ 61 ] Giving
 
 
-**[ 61 ] Our Locations**
-        [ $ 63 ] Search Locations                    [ $ 65 ] Category                             [ $ 67 ] Services
-        [ # 64 ]                                     [ $ 66 ]       All Categories          ✓     [ $ 68 ]         All Services
+[ 62 ]
+        **Our Locations**
+        [ $ 64 ] Search Locations                    ( 564 ) Category                              [ $ 68 ] Services
+        [ # 65 ]                                     [ $ 67 ]       All Categories                [ $ 69 ]         All Services
          Search Term
-                                                                                                                        [ @ 69 ] Clear Filters
+                                                                                                                          [ @ 70 ] Clear Filters
 
-   [ 70 ] Blairsville Medical Park
-   [ 71 ] Outpatient Facilities, Laboratory & Imaging,
-   Primary Care
-   [ 72 ] 56 Club Lane
-   [ 73 ] Blairsville, PA 15717
-   [ @ 74 ] 877-771-1234
-   [ @ 75 ] More information
+   [ 71 ] Blairsville Medical Park
+   [ 72 ] Outpatient Facilities, Laboratory & Imaging, Primary
+   Care
+   [ 73 ] 56 Club Lane
+   [ 74 ] Blairsville, PA 15717
+   [ @ 75 ] 877-771-1234
+   [ @ 76 ] More information
 
-   [ 76 ] Excela Advanced Pain Center -
+   [ 77 ] Excela Advanced Pain Center -
    Excela Square at Frick
-   [ 77 ] Specialty Office or Clinic
-   [ 78 ] 508 South Church Street
-   [ 79 ] Suite 200
-   [ 80 ] Mount Pleasant, PA 15666
-   [ @ 81 ] 724-542-1937
-   [ @ 82 ] More information
+   [ 78 ] Specialty Office or Clinic
+   [ 79 ] 508 South Church Street
+   [ 80 ] Suite 200
+   [ 81 ] Mount Pleasant, PA 15666
+   [ @ 82 ] 724-542-1937
+   [ @ 83 ] More information
 
-   [ 83 ] Excela Advanced Pain Center -
+   [ 84 ] Excela Advanced Pain Center -
    Excela Square at Latrobe
-   [ 84 ] Specialty Office or Clinic
-   [ 85 ] 100 Excela Health Drive
-   [ 86 ] Suite 103
-   [ 871 Latrobe, PA 15650
+   [ 85 ] Specialty Office or Clinic
+   [ 86 ] 100 Excela Health Drive
+   [ 87 ] Suite 103
+   [ 88 ] Latrobe, PA 15650
 --------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 399
+Token count: 395

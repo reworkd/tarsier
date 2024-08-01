@@ -1,11 +1,11 @@
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 1 ] MyChart         [ @ 2 ] Find Care Now           [ @ 3 ] Donate         [ @ 4 ] Careers       [
-     [ @ 0 ]
-                                                                                                                                                              PATIENTS
-                                                                  ABOUT                 FIND A                  OUR                     OUR
-            **ValleyHealth**                                [ @ 6 ]             [ @ 7 ]               [ @ 8 ]                  [ @ 9 ]                [ @ 10 ]     &           [ @ 11 ]
-                                                                     US               DOCTOR                LOCATIONS                SERVICES
-                  Healthier, together.                                                                                                                        VISITORS
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 2 ] MyChart        [ @ 3 ] Find Care Now         [ @ 4 ] Donate       [ @ 5 ] Careers       [ @ 6 ] 5
+     [ @ 1 ]
+                                                                                                                                                          PATIENTS
+     **VValleyHealth**                                           ABOUT               FIND A                  OUR                     OUR                                        CONT
+                                                            [ @ 7 ]            [ @ 8 ]              [ @ 9 ]                 [ @ 10 ]               [ @ 11 ]   &           [ @ 12 ]
+                                                                    US              DOCTOR               LOCATIONS                SERVICES                                          U
+                  Healthier, together.                                                                                                                    VISITORS
 
 
 
@@ -13,89 +13,83 @@
                               **VValleyHealth**                                                        125
                                   Page Memorial Hospital
                                   Multispecialty Clinic
-                                                                                                                                                           Ander
 
 
 
 
-    [ @ 14 ]
-                 [ @ 15 ] Our Locations > [ 16 ] Valley Health Page Memorial ...
+
+    [ @ 15 ]
+               [ @ 16 ] Our Locations       [ 17 ] Valley Health Page Memorial ...
 
 
 
-                                                    **Page Memorial**                                                                                                      ( $ 17 ]
-    **[ 39 ] Valley Health**
-    **Hospital Multispecialty Clinic**
                                                                                                                                                                            [ $ 18 ]
-    [ 41 ] Category:        [ 40 ] Physician Practices                                                                                                                     [ $ 19 ]
-                                                                                                                            [ @ 20 ]
-    [ 43 ] Location Type:         [ 42 ] Page Memorial Hospital                                                               [ 22 ] Map data © 2023 Google [ @ 23 ] Terms [ @ 24 ] Report a map error
+    **[ 40 ] Valley Health Page Memorial Hospital**
+    **Multispecialty Clinic**
+                                                                                                                                                                            [ $ 19 ]
+    [ 42 ] Category:      [ 41 ] Physician Practices                                                                                                                        [ $ 20 ]
+                                                                                                                              @ 211
+    [ 44 ] Location Type:        [ 43 ] Page Memorial Hospital                                                            $ 22 ] [ 23 ] Map data © 2023 Google @ 24 ] Terms @ 25 ] Report a map error
 
-                                                                                                                          [ 25 ] Valley Health Page Memorial
-    **[ 44 ] Providers at this location**                                                                                 Hospital Multispecialty Clinic
-                                                                                                                          [ 26 ] 125 Memorial Drive
-                   **Exemplary**                                                                                          [ 27 ] Luray, VA 22835
-                                                 **Provider**
-                                                                                                                          [ @ 28 ] Get Directions
-    **Accredited by The Compliance Team.**                                 [ 45 ]
+                                                                                                                          [ 26 ] Valley Health Page Memorial
+    **[ 45 ] Providers at this location**                                                                                 Hospital Multispecialty Clinic
+                                                                                                                          [ 27 ] 125 Memorial Drive
+                                                                                                                          [ 28 ] Luray, VA 22835
+                   **Exemplary Provider**
+    **Accredited by The Compliance Team.**                                                                                [ @ 29 ] Get Directions
 
-                                                                                                                          [ 29 ] Phone:
-    [ 46 ] Care We Provide
-                                                                                                                          [ @ 30 ] 540-743-2282
+    [ 46 ] Care We Provide                                                                                                 [ 30 ] Phone:
+                                                                                                                          [ @ 31 ] 540-743-2282
           [ 47 ] Cardiology
           [ 48 ] General Surgery
-          [ 49 ] Family Medicine                                                                                          [ 31 ] Hours
+          [ 49 ] Family Medicine                                                                                          [ 32 ] Hours
           [ 50 ] Internal Medicine
-          [ 51 ]                                                                                                          [ 32 ] Monday - Friday: 8 am - 5 pm
-                Neurology
+          [ 51 ] Neurology                                                                                                [ 33 ] Monday - Friday: 8 am - 5 pm
           [ 52 ] Pediatrics
-                                                                                                                          [ 33 ] Saturdays: 8 am - 12 pm
+                                                                                                                           [ 34 ] Saturdays: 8 am - 12 pm
           [ 53 ] Obstetrics & Gynecology
           [ 54 ] Pulmonary
-           55 ] Primary Care                                                                                              [ 34 ] On - site lab services
-          [
-                                                                                                                          [ 35 ] Monday - Friday: 8 am - 5 pm
+          [ 55 ] Primary Care                                                                                              [ 35 ] On - site lab services
+                                                                                                                          [ 36 ] Monday - Friday: 8 am - 5 pm
     [ 56 ] Our Services
-                                                                                                                          [ 36 ] Saturdays: 8 am - 12 pm
+                                                                                                                          [ 37 ] Saturdays: 8 am - 12 pm
     [ @ 57 ] Heart &                     [ @ 58 ]                             [ @ 59 ] Pediatrics
-    Vascular                             Neurosciences                                                                    [ 37 ] Hours subject to change.
-                                                                                                                          [ 38 ] Please call ( 540 ) 743-2282 for
-     [ @ 60 ] Primary Care [ @ 61 ] Surgical                                  [ @ 62 ] Women &                            confirmation.
+    Vascular                             Neurosciences                                                                     [ 38 ] Hours subject to change.
+                                                                                                                           [ 39 ] Please call ( 540 ) 743-2282 for
+    [ @ 60 ] Primary Care                [ @ 61 ] Surgical                    [ @ 62 ] Women &                            confirmation.
                                          Services                             Children
 
-     **[ 63 ] Other Nearby Locations**
-     [ @ 64 ] Page Memorial Hospital
+    **[ 63 ] Other Nearby Locations**
+    [ @ 64 ] Page Memorial Hospital
 
     **[ 65 ] Latest News**
 
-    [ @ 66 ]                                                   [ @ 67 ]
+    [ @ 66 ]                                                   [ @ 71 ]
 
 
 
 
 
 
-    WMC Earns National Recognition                            Stay Healthy by Staying up to
-    for ...                                                   Date ...
-    Heart & Vascular                                          Primary Care
-    Winchester Medical Center's Heart &                       It's no surprise that the pandemic
-    Vascular Center has received the                          delayed routine care for many people,
-    American Heart Association's Gold                         which means now it's time to make
-    Get With The GuidelinesⓇ - AFIB                           wellness checks, yearly vaccinations
+    [ 67 ] WMC Earns National                                  [ 72 ] Stay Healthy by Staying up to
+    Recognition for ...                                       Date ...
+    [ 68 ] Heart & Vascular                                    [ 73 ] Primary Care
+    [ 69 ] Winchester Medical Center's                         [ 74 ] It's no surprise that the pandemic
+    Heart & Vascular Center has received                      delayed routine care for many people,
+    the American Heart Association's                          which means now it's time to make
+    Gold Get With The GuidelinesⓇ - AFIB                      wellness checks, yearly vaccinations
     Quality ...                                               and ...
-    Continue Reading                                          Continue Reading
+     [ 70 ] Continue Reading                                   [ 75 ] Continue Reading
 
-    [ $ 86 ]                                     [ $ 90 ]
-                  [ 88 ] 1 [ 87 ] / [ 89 ] 20                                      [ @ 91 ] View All
-
-
+    [ $ 166 ]                                      [ $ 170 ]
+                  [ 168 ] 1 [ 167 ] / [ 169 ] 20                                   [ @ 171 ] View All
 
 
-    **[ 92 ] Related Providers**
-
-    [ @ 93 ]                               [ @ 96 ]                               [ @ 99 ]
 
 
+    **[ 172 ] Related Providers**
+
+    [ @ 173 ]                              [ @ 178 ]                              [ @ 183 ]
 
 
 
@@ -103,38 +97,41 @@
 
 
 
-    David J. LeCronier,                    Jeffrey S. Lessar,                     Neal S. Gaither,
-    [ 94 ] DO                              [ 97 ] MD                              [ 100 ] MD, FACC, FSC,
-    [ 95 ] Pulmonary                       [ 98 ] Pulmonary Medicine              [ 101 ] Cardiology
-    Medicine,                              View Profile                           View Profile
+
+
+    [ 174 ] David J.                       [ 179 ] Jeffrey S.                     [ 184 ] Neal S. Gaither,
+    LeCronier, [ 175 ] DO                  Lessar, [ 180 ] MD                     [ 185 ] MD, FACC, FSCA
+    [ 176 ] Pulmonary                      [ 181 ] Pulmonary Medicine             [ 186 ] Cardiology
+    Medicine,
+                                           [ 182 ] View Profile                   [ 187 ] View Profile
     Intensivist / Critical Care
-    View Profile
+    [ 177 ] View Profile
 
-    [ $ 108 ]       [ 110 ] 1 [ 109 ] / [ 111 ] 3      [ $ 112 ]                 [ @ 113 ] View All
-
-
-
+    [ $ 198 ]                                    [ $ 202 ]                          @ 203 ] View All
+                  [ 200 ] 1 [ 199 ] / [ 201 ] 3                                    [
 
 
 
-          [ @ 114 ] ABOUT US              [ @ 115 ] OUR                  [ @ 116 ] OUR                   [ @ 117 ] PATIENTS &            [ @ 126 ]
+
+
+
+          [ @ 204 ] ABOUT US              [ @ 205 ] OUR                  [ @ 206 ] OUR                   [ @ 207 ] PATIENTS &            [ @ 216 ]
                                          LOCATIONS                       SERVICES                       VISITORS
-                                                                                                                                         [ 128 ] 220 Campus Blvd.
-          [ @ 118 ] CONTACT               [ @ 119 ] CAREERS               [ @ 120 ] CITRIX               [ @ 121 ] NEWS                  [ 129 ] Winchester [ 127 ]
-          US
-                                                                                                                                         [ 130 ] VA [ 131 ] 22601
-                                                                                                                                         [ @ 132 ] 540-536-8000
-          [ @ 122 ] EVENTS               [ @ 123 ] PHOTO                 [ @ 124 ] FOR                   [ @ 125 ] VIDEO
+                                                                                                                                         [ 218 ] 220 Campus Blvd.
+          [ @ 208 ] CONTACT US           [ @ 209 ] CAREERS               [ @ 210 ] CITRIX                [ @ 211 ] NEWS                  [ 219 ] Winchester [ 217 ],
+                                                                                                                                         [ 220 ] VA [ 221 ] 22601
+          [ @ 212 ] EVENTS                [ @ 213 ] PHOTO                [ @ 214 ] FOR                   [ @ 215 ] VIDEO
+                                                                                                                                         [ @ 222 ] 540-536-8000
           CALENDAR                       GALLERY                         PHYSICIANS &                    LIBRARY
-                                                                                                                                         [ @ 133 ]       [ @ 134 ]       [ @ 135 ]       [ @ 136 ]       [ @ 137 ]
                                                                          EMPLOYEES
+                                                                                                                                         [ @ 223 ]     [ @ 224 ]     [ @ 225 ]      [ @ 226 ]    [ @ 227 ]
 
 
 
 
 
-         [ @ 142 ] Privacy Policy.    [ @ 141 ] Site Map      [ @ 140 ] Notice of Privacy Practices    [ @ 139 ] Non - Discrimination Statement     [ @ 138 ] Accessibility.
-                                                                                                                                                   [ 143 ] Copyright © 2023
-        [ @ 144 ]
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1301
+         [ @ 232 ] Privacy Policy.    [ @ 231 ] Site Map      [ @ 230 ] Notice of Privacy Practices    [ @ 229 ] Non - Discrimination Statement      [ @ 228 ] Accessibility.
+                                                                                                                                                     [ 233 ] Copyright © 2023
+        [ @ 234 ]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1351

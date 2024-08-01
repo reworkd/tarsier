@@ -1,0 +1,258 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[@1] Products [@2] Applications [@3] Design Analysis Tools                   [@4] Resources [@5] Support [@6] About                                                                              [@8] Partner
+                                                                                                                                                                                                                               Hub
+                                                                                                                                                                                                                                            [@9] Where
+                                                                                                                                                                                                                                            To
+                                                                                                                                                                                                                                            Buy
+  [@10] Home [@11] Capacitors [@12] Ceramic [13] CGP5C472MHWDAA7301
+     [@14] Back
+     To
+     Results
+  **[15] CGP5C472MHWDAA7301**
+                                                                                     [17] CGP DISC Comm HV, Ceramic, 4700 pF, 20, 3000
+                                                                                     VDC, Y5U, Lead Spacing                      5mm
+
+                                                                                     [18] Key Resources
+                                                                                         [@19] Datasheet
+                                                                                         [@20] Specsheet
+                                                                                         [@21] RoHS
+                                                                                         Compliance
+                                                                                         Certificate
+                                                                                         [@22] STEP/CAD
+                                                                                         [@23] EDA/MCAD
+                                                                                                                                                                                                         [24] 4K IN STOCK
+                                                                                                                                                                                                  [@25] Request Sample
+
+
+
+
+
+
+
+
+
+
+
+   [@26] Specifications [@27] Where To Buy                        [@28] Alternate Products                                                                                                [@29] Contact a Sales Representative
+
+   **[30] Specifications**
+
+   [31] General
+
+   [32] Capacitance                                                 [33] 4700 pF                         [42] RoHS                                                                [43] Yes
+   [34] Capacitance Tolerance                                             [35] 20                        [44] Lead Spacing                                                      [45] 5mm
+   [36] Voltage DC                                               [37] 3000 VDC                           [46] Packaging                                                          [47] T R
+   [38] Temperature Range                                         [39] -30/ 85 C                         [48] Packaging Quantity                                                [49] 1000
+   [40] Temperature Coefficient                                           [41] Y5U
+
+
+   **[50] Where To Buy**
+
+   [51] View Distributors In
+
+
+                                   [54] DigiKey                   [55] 1,000 IN STOCK                                                         [@56] buy now
+
+
+
+                                   [57] Newark                    [58] 1,000 IN STOCK                                                         [@59] buy now
+
+
+                                   [60] Farnell                   [61] 1,000 IN STOCK                                                         [@62] buy now
+
+
+                                   [63] element14 APAC [64] 1,000 IN STOCK                                                                    [@65] buy now
+
+
+
+                                   [66] Mouser                    [67] 981 IN STOCK                                                           [@68] buy now
+
+
+
+
+
+
+   **[69] Alternate Products**
+   [70] View products that have nearly identical specifications.
+
+
+
+                          [@71] CGP5C472MHWDCA7301
+                             [72] No
+                             inventory
+                             available
+       [@73] Specsheet [@74] Datasheet [@75] STEP/CAD [@76] EDA/MCAD
+
+                          [@77] CGP5C472MHWDBA7301
+                             [78] No
+                             inventory
+                             available
+       [@79] Specsheet [@80] Datasheet [@81] STEP/CAD [@82] EDA/MCAD
+
+                          [@83] CGP5C472MHWDCAWL25
+                             [84] No
+                             inventory
+                             available
+       [@85] Specsheet [@86] Datasheet [@87] STEP/CAD [@88] EDA/MCAD
+
+                          [@89] CGP5C472MHWDCAWL50
+                             [90] No
+                             inventory
+                             available
+       [@91] Specsheet [@92] Datasheet [@93] STEP/CAD [@94] EDA/MCAD
+
+                          [@95] CGP5C472MHWDBAWL50
+                             [96] No
+                             inventory
+                             available
+       [@97] Specsheet [@98] Datasheet [@99] STEP/CAD [@100] EDA/MCAD
+
+                          [@101] CGP5C472MHWDBAWL25
+                             [102] No
+                             inventory
+                             available
+       [@103] Specsheet [@104] Datasheet [@105] STEP/CAD [@106] EDA/MCAD
+
+                          [@107] CGP5C472MHWDCAWL35
+                             [108] No
+                             inventory
+                             available
+       [@109] Specsheet [@110] Datasheet [@111] STEP/CAD [@112] EDA/MCAD
+
+                          [@113] CGP5C472MHWDAAWL35
+                             [114] No
+                             inventory
+                             available
+       [@115] Specsheet [@116] Datasheet [@117] STEP/CAD [@118] EDA/MCAD
+
+                          [@119] CGP5C472MHWDAAWL25
+                             [120] No
+                             inventory
+                             available
+       [@121] Specsheet [@122] Datasheet [@123] STEP/CAD [@124] EDA/MCAD
+
+                          [@125] CGP5C472MHWDAAWL50
+                             [126] No
+                             inventory
+                             available
+       [@127] Specsheet [@128] Datasheet [@129] STEP/CAD [@130] EDA/MCAD
+
+                          [@131] CGP5C472MHWDBAWL35
+                             [132] No
+                             inventory
+                             available
+       [@133] Specsheet [@134] Datasheet [@135] STEP/CAD [@136] EDA/MCAD
+
+                          [@137] CGP5C472MHWDCA7317
+                             [138] No
+                             inventory
+                             available
+       [@139] Specsheet [@140] Datasheet [@141] STEP/CAD [@142] EDA/MCAD
+
+                          [@143] CGP5C472MHWDBA7317
+                             [144] No
+                             inventory
+                             available
+       [@145] Specsheet [@146] Datasheet [@147] STEP/CAD [@148] EDA/MCAD
+
+                          [@149] CGP5C472MHWDAA7317
+                             [150] No
+                             inventory
+                             available
+       [@151] Specsheet [@152] Datasheet [@153] STEP/CAD [@154] EDA/MCAD
+                                                                                            [155] Series            [156] Type               [157] Style             [158] Capacitance [159] Capacitance Tolerance                 [160] Voltage AC
+
+                                                                                            [172] CGP DISC          [173] Ceramic            [174] Radial Disc       [175] 4700 pF            [176] 20
+                                                                                            Comm HV
+
+
+
+                                                                                            [187] CGP DISC          [188] Ceramic            [189] Radial Disc       [190] 4700 pF            [191] 20
+                                                                                            Comm HV
+
+
+
+                                                                                            [202] CGP DISC          [203] Ceramic            [204] Radial Disc       [205] 4700 pF            [206] 20
+                                                                                            Comm HV
+
+
+
+                                                                                            [217] CGP DISC          [218] Ceramic            [219] Radial Disc       [220] 4700 pF            [221] 20
+                                                                                            Comm HV
+
+
+
+                                                                                            [232] CGP DISC          [233] Ceramic            [234] Radial Disc       [235] 4700 pF            [236] 20
+                                                                                            Comm HV
+
+
+
+                                                                                            [247] CGP DISC          [248] Ceramic            [249] Radial Disc       [250] 4700 pF            [251] 20
+                                                                                            Comm HV
+
+
+
+                                                                                            [262] CGP DISC          [263] Ceramic            [264] Radial Disc       [265] 4700 pF            [266] 20
+                                                                                            Comm HV
+
+
+
+                                                                                            [277] CGP DISC          [278] Ceramic            [279] Radial Disc       [280] 4700 pF            [281] 20
+                                                                                            Comm HV
+
+
+
+                                                                                            [292] CGP DISC          [293] Ceramic            [294] Radial Disc       [295] 4700 pF            [296] 20
+                                                                                            Comm HV
+
+
+
+                                                                                            [307] CGP DISC          [308] Ceramic            [309] Radial Disc       [310] 4700 pF            [311] 20
+                                                                                            Comm HV
+
+
+
+                                                                                            [322] CGP DISC          [323] Ceramic            [324] Radial Disc       [325] 4700 pF            [326] 20
+                                                                                            Comm HV
+
+
+
+                                                                                            [337] CGP DISC          [338] Ceramic            [339] Radial Disc       [340] 4700 pF            [341] 20
+                                                                                            Comm HV
+
+
+
+                                                                                            [352] CGP DISC          [353] Ceramic            [354] Radial Disc       [355] 4700 pF            [356] 20
+                                                                                            Comm HV
+
+
+
+                                                                                            [367] CGP DISC          [368] Ceramic            [369] Radial Disc       [370] 4700 pF            [371] 20
+                                                                                            Comm HV
+
+
+
+
+   [382] Need Help?                                            [387] Products                                              [397] About KEMET                                          [401] Follow Us
+   [@383] Support                                              [@388] Capacitors                                           [@398] Company Overview
+   [@384] Find a Distributor                                   [@389] EMC                                                  [@399] Careers
+   [@385] Find a Sales Office                                  [@390] Resistors by YAGEO                                   [@400] Sustainability
+   [@386] Contact Us                                           [@391] Circuit Protection
+                                                               [@392] Inductors
+                                                               [@393] Sensors
+                                                               [@394] Piezo Devices
+                                                               [@395] Relays
+                                                               [@396] Transformers
+                                                                                                                                                                                            [@402] facebook [@403] twitter [@404] youtube [@405] linkedin [@406] shape
+                                                                                                                                                                                      [407] Join the KEMET Circuit Community
+                                                                                                                                                                                      [408] Enter your email and check the box below
+                                                                                                                                                                                      for the latest information on technology,
+                                                                                                                                                                                      industry trends, events, and new KEMET
+                                                                                                                                                                                      products.
+
+
+                                                                                                                                                                                            [410] Yes, I agree to receive email from
+                                                                                                                                                                                            KEMET.
+      [413] 2023 KEMET Corporation. All rights                      [@414] Cookies           [@415] Cookies [@416] Privacy [@417] Terms of                     [@418] Do Not Sell My                 [@419] Terms and
+    reserved.                                                    Settings                 Policy                 Policy                Use                  Information                           Conditions                      [@420] Disclaimer
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

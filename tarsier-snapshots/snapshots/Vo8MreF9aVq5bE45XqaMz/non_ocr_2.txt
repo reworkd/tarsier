@@ -1,0 +1,60 @@
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[3] MyHealth
+                                                                                                                                                                                           [@4] Contact Us
+          [@5] Doctors Locations               [@6] Services Resources               [@7] Patients Visitors           [@8] Giving Support           [@9] About         [@10] For Health Professionals
+            [$11] Choose one
+                   [$12] Locations      [13] OR        [$14] Doctors
+                                                                                               [$15] Name or keyword
+
+
+            [$17] Filter by
+                                                                                     [$20] Zip Code
+                                                                                                                                                                               [$23] Search
+                                                                                                                                                                             [$24] Clear Filters
+
+      [25] Showing [26] Showing 1-25 of 261 LOCATION results
+      Check [28] Check with with your your insurance insurance to to see see which which providers providers are are included included in in your your network. network. Learn Learn [@29] Learn more. more. more.
+
+
+                                               [@33] 300 N. Graham Street
+                                               Legacy Emanuel Medical Center
+                                               Portland, OR, 97227
+                                               [@34] 503-413-2200
+                                                                                             [@35] More
+
+
+
+
+
+
+
+                                               [@40] 2183 N. W. Northrup St.
+                                               Portland, OR, 97210
+                                               [@41] Campus Map
+                                               [@42] Mapa del Campus
+                                               [@43] 503-413-7848
+                                                                                             [@44] More
+
+
+
+
+
+
+
+
+
+
+
+
+          [300] Our mission is good health for our people,
+          our patients, our communities and our
+          world. Above all, we will do the right thing.
+                                                                        **[306] Our Organization**               **[310] For Patients**                    **[316] Connect With Us**
+                                                                        [@307] Careers                           [@311] Clinical Trials                    [@317] Join Our Newsletter
+                                                                        [@308] Volunteering                      [@312] Financial Assistance               [@318] Contact Us
+                                                                        [@309] Doing Business With Us            [@313] Interpreter Services
+                                                                                                                 [@314] Medical Records
+                                                                                                                 [@315] Pay a Bill
+                                                                          [319] 2023 Legacy Health Terms [@321] Terms of of Use Use Privacy [@323] Privacy Policy Policy Notice [@325] Notice of of Nondiscrimination Nondiscrimination No [@327] No Surprise Surprise Billing Billing
+                                                                        Capital [@329] Capital Reporting Reporting Do [@331] Do Not Not Sell Sell or or Share Share My My Personal Personal Information Information
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

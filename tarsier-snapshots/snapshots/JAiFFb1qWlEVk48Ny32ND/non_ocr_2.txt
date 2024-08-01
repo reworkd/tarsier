@@ -1,0 +1,156 @@
+----------------------------------------------------------------------------------------------------------------------
+[@0] Schedule an appointment online!
+
+                                              [@4] Schedule Appointment [@5] Online Bill Pay [@6] Patient Portal [@7] Careers
+                                                         [@8] FIND A DOCTOR [@9] FIND A LOCATION [@10] SERVICES [@11] PATIENTS VISITORS
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 **[@12] Patient Portal**
+
+
+      [@15] Home [@16] Find a Location [17] Location Search Results
+
+       [18] Enter Keyword to Select a Location
+       [20] Select Type
+                                 [25] List View [26] Map View [27] Compare
+
+
+
+                                **[@30] Clyde Family Health Center**                                    [28] Compare
+                                                    [31] 4 West Genesee Street Clyde, New York 14433
+                                                    [$32] Phone
+                                                     [@33] 315 923-3640
+
+
+
+
+
+
+                                **[@36] Clyde Family Health Lab Draw Station**                          [34] Compare
+                                                    [37] 2-4 West Genesee Street, Suite 2 Clyde, New York 14433
+                                                    [$38] Phone
+                                                     [@39] 315 923-3640
+
+
+
+
+
+
+                                **[@42] Diagnostic Imaging/Radiology Department at Soldiers**        **Sailors** [40] Compare
+                                **Memorial Hospital**
+                                                    [43] 418 North Main Street Penn Yan, New York 14456
+                                                    [$44] Phone
+                                                     [@45] 315 531-2544
+
+
+
+
+
+
+                                **[@48] Dundee Family Health Center**                                   [46] Compare
+                                                    [49] 50 Millard Street Dundee, New York 14837
+                                                    [$50] Phone
+                                                     [@51] 607 243-7881
+
+
+
+
+
+
+                                **[@54] Dundee Family Health Lab Draw Station**                         [52] Compare
+                                                    [55] 50 Millard Street Dundee, New York 14837
+                                                    [$56] Phone
+                                                     [@57] 607 243-9996
+
+
+
+
+
+
+                                **[@60] Finger Lakes Gastroenterology**                                 [58] Compare
+                                                    [61] 821 Pre-Emption Road, Suite 300 Geneva, New York 14456
+                                                    [$62] Phone
+                                                     [@63] 315 787-5310
+
+
+
+
+
+
+                                **[@66] Finger Lakes Health College of Nursing**   **Health Sciences**  [64] Compare
+                                                    [67] 196 North Street Geneva, New York 14456
+                                                    [$68] Phone
+                                                     [@69] 315 787-4005
+
+
+
+
+
+
+                                **[@72] Finger Lakes Health Foundation**                                [70] Compare
+                                                    [73] 196 North Street Geneva, New York 14456
+                                                    [$74] Phone
+                                                     [@75] 315 787-4050
+
+
+
+
+
+
+                                **[@78] Finger Lakes Health Human Resources**                           [76] Compare
+                                                    [79] Finger Lakes Health Commons 789 Pre-Emption Road Geneva, New York 14456
+                                                    [$80] Phone
+                                                     [@81] 315 787-4039
+
+
+
+
+
+
+                                **[@84] Finger Lakes Podiatry Geneva**                                  [82] Compare
+                                                    [85] 650 Pre-Emption Road Geneva, New York 14456
+                                                    [$86] Phone
+                                                     [@87] 315 789-8132
+
+
+
+
+
+
+
+      [88] About Us              [98] Careers/Education     [105] Community Outreach   [114] Patient Billing
+      [@89] About Us             [@99] Careers              [@106] Community Health Needs Assessment, [@115] Price Transparency Resources
+      [@90] Contact Us           [@100] Provider Recruitment                           [@116] Patient Financial Services
+      [@91] Geneva General Hospital Virtual Tour [@101] Nursing                        [@117] Financial Aid Program
+      [@92] Hospital Visitation  [@102] Education                                      [@118] Good Faith Estimate
+      [@93] Maps Directions      [@103] FLH College of Nursing Health Sciences         [@119] No Surprises Act
+      [@94] Mission, Vision, Values [@104] Marion S. Whelan School of Practical Nursing [@120] Participating Health Plans
+      [@95] Patient Portals                                                            [@121] Pay Your Bill Online
+      [@96] Privacy
+      [@97] Telephone Directory PDF
+                                                            Community Service Plan and Community Health
+                                                            Improvement Plan
+                                                            [@107] Community Resource Directory PDF
+                                                            [@108] Events
+                                                            [@109] Listen to a Podcast
+                                                            [@110] Make a Donation
+                                                            [@111] News
+                                                            [@112] Report to the Community
+                                                            [@113] Thrive Magazine
+
+
+      [122] Copyright 2023 UR Medicine Finger Lakes Health [123] 196 North Street, Geneva, NY 14456
+  [128] By clicking Accept All Cookies, you agree to the storing of cookies on your device to enhance site navigation,
+  analyze site usage, and assist in our marketing efforts.
+                                                                        [$129] Cookies Settings [$130] Reject All [$131] Accept All Cookies
+----------------------------------------------------------------------------------------------------------------------

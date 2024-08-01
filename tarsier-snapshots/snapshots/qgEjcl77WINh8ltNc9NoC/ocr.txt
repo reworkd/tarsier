@@ -1,98 +1,97 @@
----------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 1 ] [ 2 ] Surrey, BC V3Z  [ @ 3 ] MyChart [ @ 4 ] Pay My Bill [ @ 5 ] Careers [ $ 6 ] My Account
-         [ @ 7 ]
-                                                   @ 81 Find a Doctor  [ $ 9 ] Locations [ $ 18 ] Services [ $ 28 ] Get Care    @ 331
-               SWEDISH
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 1 ] [ 3 ] Surrey, BC [ 2 ] V3Z [ @ 4 ] MyChart [ @ 5 ] Pay My Bill [ @ 6 ] Careers [ $ 7 ] My Account
+         [ @ 8 ]
+                                                          [ @ 9 ] Find a Doctor [ $ 10 ] Locations [ $ 19 ] Services [ $ 29 ] Get Care [ @ 34 ]
+                SWEDISH
 
-    [ 34 ]   Our Visitor Policy has Changed. [ 35 ] ] Review our [ @ 36 ] Masking and Visitor Guidance
-
-
- [ 37 ]
-          **Find a Location**
-
-           [ # 38 ]                                             [ # 401
-                                                                                                      [ @ 42 ] Search for Locations
-             [ $ 39 ] Facility, service, or treatment             [ $ 41 ] Enter a zip code
-            Urgent Care
-
-      [ 43 ] Showing 1-3 of 3
-
-           [ 44 [ @ 45 ] Swedish Urgent Care - Edmonds
-              [ @ 46 ] ]
-              21600 Highway 99, Suite 240
-              Edmonds, Washington 98026
-                [ 47 ] 92.8 miles away
-                [ 48 ] 425-673-3500
-
-           [ 49 [ @ 50 ] Swedish Urgent Care - Redmond
-              [ @ 51 ]
-              18100 NE Union Hill Rd
-              Redmond, Washington 98052
-                [ 52 ] 104.2 miles away
-                [ 53 ] 425-498-2165
-
-           [ 54 [ @ 55 ] Swedish Urgent Care - Factoria
-              [ @ 56 ]
-              3900 Factoria Blvd SE, Suite A
-              Bellevue, Washington 98006
-                [ 57 ] 110.0 miles away
-                [ 58 ] 206-320-2001
+      [ 35 ]  Our Visitor Policy has Changed. [ 36 ] Review our [ @ 37 ] Masking and Visitor Guidance
 
 
-                                                             [ @ 73 ] [ 74 ]      [ @ 75 ]
+  [ 38 ]
+           **Find a Location**
+
+           [ # 39 ]                                                 [ # 41 ]
+                                                                                                            [ @ 43 ] Search for Locations
+             [ $ 40 ] Facility, service, or treatment                 [ $ 42 ] Enter a zip code
+             Urgent Care
+
+       [ 44 ] Showing 1-3 of 3
+
+           [ 45 ] [ @ 46 ] Swedish Urgent Care - Edmonds
+               [ @ 47 ]
+               [ 48 ] 21600 Highway 99, Suite 240
+               [ 49 ] Edmonds, Washington 98026
+                 [ 50 ] 92.8 miles away
+                 [ 51 ] 425-673-3500
+
+           [ 52 ] [ @ 53 ] Swedish Urgent Care - Redmond
+               [ @ 54 ]
+               [ 55 ] 18100 NE Union Hill Rd
+               [ 56 ] Redmond, Washington 98052
+                 [ 57 ] 104.2 miles away
+                 [ 58 ] 425-498-2165
+
+           [ 59 ] [ @ 60 ] Swedish Urgent Care - Factoria
+               [ @ 61 ]
+               [ 62 ] 3900 Factoria Blvd SE, Suite A
+               [ 63 ] Bellevue, Washington 98006
+                 [ 64 ] 110.0 miles away
+                 [ 65 ] 206-320-2001
+
+
+                                                                  [ @ 80 ] [ @ 81 ] 1  [ @ 82 ]
 
 
 
-                                     **[ 76 ] Safe In - Person & Virtual Appointments**
+                                        **[ 83 ] Safe In - Person & Virtual Appointments**
 
-               [ 77 ] Whether you need attention for something minor or major, we've put in place additional protocols to make sure you feel comfortable and
-                                                          confident every time you seek care.
+       [ 84 ] Whether you need attention for something minor or major, we've put in place additional protocols to make sure you feel comfortable and confident
+                                                                  every time you seek care.
 
 
-                                                                                                      60
+                                                              **住**                                         60
 
-               [ 78 ] Get Care Virtually                  [ 81 ] Same Day Care                       [ 84 ] See a Doctor
-               [ 79 ] See a health care provider         [ 82 ] See a health care provider          [ 85 ] Appointments can be scheduled
-              without going to a doctor's office. Our    today at a convenient neighborhood         by video, phone or in - person with a
-              virtual visit services can treat and       urgent or ExpressCare clinic, now          provider. Call your provider's office to
-              diagnose through online video and          open with extended hours, 7 days a         discuss your needs.
-              phone appointments.                        week.
-
-                                                                        See Clinic
-                                                               [ @ 83 ]
-                    [ @ 80 ] Get Virtual Care                            Locations                        [ @ 86 ] Find a Doctor
-
+               [ 85 ] Get Care Virtually                     [ 88 ] Same Day Care                         [ 91 ] See a Doctor
+                [ 86 ] See a health care provider            [ 89 ] See a health care provider today      [ 92 ] Appointments can be scheduled
+               without going to a doctor's office. Our       at a convenient neighborhood urgent          by video, phone or in - person with a
+               virtual visit services can treat and          or ExpressCare clinic, now open with         provider. Call your provider's office to
+               diagnose through online video and             extended hours, 7 days a week.               discuss your needs.
+               phone appointments.
+                                                                            See Clinic
+                                                                   [ @ 90 ]
+                      [ @ 87 ] Get Virtual Care                             Locations                           [ @ 93 ] Find a Doctor
 
 
 
 
-           [ 87 ] OUR MISSION                                              [ 94 ] ACROSS SWEDISH           [ 100 ] RESOURCES
-           [ 88 ] Improve the health and well - being of each person we serve. [ @ 95 ] About Us           [ @ 101 ] For Caregivers ( our
-                                                                                                           employees )
-                                                                           [ @ 96 ] Help us improve health care
-           [ 89 ] OUR VALUES                                                                               [ @ 102 ] Careers
-                                                                           [ @ 97 ] Annual Report to Our
-           [ 90 ] Compassion, Dignity, Justice, Excellence, Integrity, Safety. Communities                 [ @ 103 ] Physician & Provider Careers
-           [ @ 92 ] Learn more about our mission, vision and values [ 91 ]. [ @ 98 ] Community Health Needs [ @ 104 ] Transfer & Operations Center
-                                                                           Assessments and Improvement Plans
-                                                                                                           [ @ 105 ] Classes and Events
-                                                                           [ @ 99 ] Our Doctors
-                [ @ 93 ] Contact Us                                                                        [ @ 106 ] Online Bill Pay & Financial
-                                                                                                           Assistance
-                                                                                                           [ @ 107 ] Get a Price Estimate
-                                                                                                           [ @ 108 ] Pricing Transparency
-                                                                                                           [ @ 109 ] Read our blog
+
+           [ 94 ] OUR MISSION                                                   [ 101 ] ACROSS SWEDISH            [ 107 ] RESOURCES
+           [ 95 ] Improve the health and well - being of each person we serve.  [ @ 102 ] About Us                [ @ 108 ] For Caregivers ( our
+                                                                                                                 employees )
+                                                                                [ @ 103 ] Help us improve health care
+           [ 96 ] OUR VALUES                                                                                      [ @ 109 ] Careers
+                                                                                [ @ 104 ] Annual Report to Our
+           [ 97 ] Compassion, Dignity, Justice, Excellence, Integrity, Safety. Communities                        [ @ 110 ] Physician & Provider Careers
+           [ @ 99 ] Learn more about our mission, vision and values [ 98 ].     [ @ 105 ] Community Health Needs  [ @ 111 ] Transfer & Operations Center
+                                                                               Assessments and Improvement Plans
+                                                                                                                  [ @ 112 ] Classes and Events
+                                                                                [ @ 106 ] Our Doctors
+                 [ @ 100 ] Contact Us                                                                             [ @ 113 ] Online Bill Pay & Financial
+                                                                                                                 Assistance
+                                                                                                                  [ @ 114 ] Get a Price Estimate
+                                                                                                                  [ @ 115 ] Pricing Transparency
+                                                                                                                  [ @ 116 ] Read our blog
 
 
 
 
-   [ 110 ] CONNECT WITH US
+     [ 117 ] CONNECT WITH US
 
-         [ @ 111 ]   [ @ 112 ]   [ @ 113 ] O [ @ 114 ]
+         [ @ 118 ]   [ @ 119 ]  [ @ 120 ]   [ @ 121 ]
 
-         [ @ 115 ] Disclaimer Terms Of Use | [ @ 116 ] Terms of Use & Privacy Policy | [ @ 117 ] Notice of Nondiscrimination and Communication Assistance |
-           [ @ 118 ] Notice of Privacy Practices [ @ 119 ] Patient Rights
+         [ @ 122 ] Disclaimer Terms Of Use | [ @ 123 ] Terms of Use & Privacy Policy [ @ 124 ] Notice of Nondiscrimination and Communication Assistance
+           [ @ 125 ] Notice of Privacy Practices [ @ 126 ] Patient Rights
 
-   [ 120 ] 2023 Swedish Medical Center. All Rights Reserved.
----------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1011
+     [ 127 ] 2023 Swedish Medical Center. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1050

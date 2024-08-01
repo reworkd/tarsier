@@ -1,0 +1,277 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[@1] Contact Us                    [@2] Clinical Trials                    [@3] Careers [@4] Pay a Bill                                 [$5] Ways to Give                          [$6] Urgent Care                          [$7] MyLifespan
+
+
+
+                                                               [@10] Find A Provider                            [$11] Centers Services                                      [@12] Patients Visitors                                [$13] Locations                         [@14] Lifespan Living
+
+
+
+
+
+
+                                                                                                                  **[16] Lifespan Locations**
+
+
+
+
+
+
+
+
+    [@18] Lifespan Home            [19] Lifespan Locations
+
+    [20] AREA [21] 33
+
+    [22] LIFESPAN HOSPITAL/AFFILIATE
+     [23] 8
+
+    [24] LOCATION TYPE [25] 7
+                                                                                                                                                                                                                                                                                                                                                                [$27] Search
+
+
+                                                                                                                      [28] Featured Location
+
+                                                                                                                                                                                                         [@29] Norman Prince Spine Institute, Providence
+                                                                                                                                                                                                         [30] 690 Eddy St.
+                                                                                                                                                                                                         [31] Providence, RI 02903
+                                                                                                                                                                                                         [32] Phone 401-444-3777
+                                                                                                                                                                                                         [@33] More Information                              [@34] Get Directions
+
+
+
+                                                                                                                                                                                                         [@35] Women's Health Services at Rhode Island Hospital
+                                                                                                                                                                                                         [36] Jane Brown Building, Rhode Island Hospital
+                                                                                                                                                                                                         [37] 593 Eddy Street, 2nd Floor
+                                                                                                                                                                                                         [38] Providence, RI 02903
+                                                                                                                                                                                                         [39] Phone 401-444-5943
+                                                                                                                                                                                                         [@40] More Information                              [@41] Get Directions
+
+
+
+                                                                                                                                                                                                         [@42] Acute Care Rehabilitation, Hasbro Children's Hospital
+                                                                                                                                                                                                         [43] Hasbro Children's Hospital
+                                                                                                                                                                                                         [44] 593 Eddy Street
+                                                                                                                                                                                                         [45] Providence, RI 02903
+                                                                                                                                                                                                         [46] Phone 401-432-6800
+                                                                                                                                                                                                         [@47] More Information                              [@48] Get Directions
+
+
+
+                                                                                                                                                                                                         [@49] Acute Care Rehabilitation, Newport Hospital
+                                                                                                                                                                                                         [50] Newport Hospital
+                                                                                                                                                                                                         [51] 20 Powel Avenue
+                                                                                                                                                                                                         [52] Newport, RI 02840
+                                                                                                                                                                                                         [53] Phone 401-845-1751
+                                                                                                                                                                                                         [@54] More Information                              [@55] Get Directions
+
+
+
+                                                                                                                                                                                                         [@56] Acute Care Rehabilitation, Rhode Island Hospital
+                                                                                                                                                                                                         [57] Rhode Island Hospital Main Building/Zecchino Pavillion
+                                                                                                                                                                                                         [58] 593 Eddy Street
+                                                                                                                                                                                                         [59] Providence, RI 02903
+                                                                                                                                                                                                         [60] Phone 401-444-8632
+                                                                                                                                                                                                         [@61] More Information                              [@62] Get Directions
+
+
+
+                                                                                                                                                                                                         [@63] Acute Care Rehabilitation, The Miriam Hospital
+                                                                                                                                                                                                         [64] The Miriam Hospital Main Building
+                                                                                                                                                                                                         [65] 164 Summit Ave
+                                                                                                                                                                                                         [66] Providence, RI 02906
+                                                                                                                                                                                                         [67] Phone 401-793-5080
+                                                                                                                                                                                                         [@68] More Information                              [@69] Get Directions
+
+
+
+                                                                                                                                                                                                         [@70] Adolescent Bariatric Surgery
+                                                                                                                                                                                                         [71] Medical Office Center MOC
+                                                                                                                                                                                                         [72] 2 Dudley St, Suite 190
+                                                                                                                                                                                                         [73] Providence, RI 02905
+                                                                                                                                                                                                         [74] Phone 401-228 0555
+                                                                                                                                                                                                         [@75] More Information                              [@76] Get Directions
+
+
+
+                                                                                                                                                                                                         [@77] Adolescent Health Care Center, East Greenwich, RI
+                                                                                                                                                                                                         [78] Lifespan Ambulatory Care Center
+                                                                                                                                                                                                         [79] 1454 South County Trail
+                                                                                                                                                                                                         [80] East Greenwich, RI 02818
+                                                                                                                                                                                                         [81] Phone 401-606-4313
+                                                                                                                                                                                                         [@82] More Information                              [@83] Get Directions
+
+
+
+                                                                                                                                                                                                         [@84] Adolescent Health Care Center, Providence, RI
+                                                                                                                                                                                                         [85] Coro Center West
+                                                                                                                                                                                                         [86] 1 Hoppin Street, Suite 3055
+                                                                                                                                                                                                         [87] Providence, RI 02903
+                                                                                                                                                                                                         [88] Phone 401-444-5980
+                                                                                                                                                                                                         [@89] More Information                              [@90] Get Directions
+
+
+
+                                                                                                                                                                                                         [@91] Adolescent Healthcare Center
+                                                                                                                                                                                                         [92] Coro Center West
+                                                                                                                                                                                                         [93] 1 Hoppin Street, Coro West, Suite 305
+                                                                                                                                                                                                         [94] Providence, RI 02903
+                                                                                                                                                                                                         [95] Phone 401-444-5980
+                                                                                                                                                                                                         [@96] More Information                              [@97] Get Directions
+[@98] st1 fill 587b85
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    [99] Lifespan, Rhode Island's first health system, was founded in 1994 by Rhode
+    Island Hospital and the Miriam Hospital. A comprehensive, integrated,
+    academic health system with The Warren Alpert Medical School of Brown
+    University, Lifespan's present partners also include Rhode Island Hospital's
+    pediatric division, Hasbro Children's Hospital; Bradley Hospital; Newport
+    Hospital; Gateway Healthcare; Lifespan Physician Group; and Coastal
+    Medical.
+                                                                                                                                                                              [100] About Lifespan                                                   [108] For Patients          Families                                          [118] For Providers
+
+                                                                                                                                                                              [@101] About Us                                                        [@109] Patients Visitors                                                      [@119] Refer a Patient
+                                                                                                                                                                              [@102] Careers                                                         [@110] Find a Provider                                                        [@120] LifespanLink
+                                                                                                                                                                              [@103] Volunteer Opportunities                                         [@111] Pay a Bill                                                             [@121] Medical Education
+                                                                                                                                                                              [@104] Quality Safety                                                  [@112] Financial Assistance                                                   [@122] Medical Staff Services
+                                                                                                                                                                              [@105] News Events                                                     [@113] Sign Up for MyLifespan                                                 [@123] Research and Clinical Trials
+                                                                                                                                                                              [@106] Ways to Give                                                    [@114] Request Medical Records                                                [@124] Lifespan Libraries
+                                                                                                                                                                              [@107] Contact Us                                                      [@115] Find a Clinical Trial                                                  [@125] LifeNotes Newsletter
+                                                                                                                                                                                                                                                     [@116] Telehealth Appointments                                                [@126] Update Your Online Profile
+                                                                                                                                                                                                                                                     [@117] Sign Up for Lifespan Living
+
+
+
+                [@127] Lifespan Remote Access
+                                                                                                                                                                                                                                                                                                                                           [@128] Facebook [@129] YouTube [@130] Twitter [@131] Instagram
+
+
+        [@132] 2022 Lifespan Health System                            [@133] Corporate Compliance                      [@134] Notice of Non-Discrimination                           [@135] Privacy Policy               [@136] Terms of Use              [@137] Careers [@138] Financial Assistance
+         [139] By clicking Accept All Cookies, you agree to the storing of cookies on your device to enhance site navigation, analyze site
+         usage, and assist in our marketing efforts.
+                                                                                                                                                                                                                                                [$140] Cookies Settings                         [$141] Reject All                   [$142] Accept All Cookies
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

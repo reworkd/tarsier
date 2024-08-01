@@ -1,282 +1,283 @@
----------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------
 Use Website In a Screen - Reader Mode
 Skip to Content
 + ENTER
 Skip to Menu
--ENTER
++ ENTER
 Skip to Footer
--ENTER
++ ENTER
 
-                                              [ 2 ] See the latest Covid - 19 information [ @ 3 ] HERE
+                                          [ 2 ] See the latest Covid - 19 information [ @ 3 ] HERE
 
-     [ @ 4 ] About Us         [ @ 12 ] Patients & Visitors       [ @ 28 ] Education & Resources          [ @ 31 ] Foundation          [ @ 37 ] Employment
-     [ @ 45 ] Financial Help                                                                                                           [ @ 46 ] Contact Us
+     [ @ 4 ] About Us [ @ 12 ] Patients & Visitors [ @ 28 ] Education & Resources [ @ 31 ] Foundation [ @ 37 ] Employment [ @ 45 ] Financial Help
 
-          *** ASTRIAHEALTH**                                                          [ @ 48 ] Find a Physician  [ @ 49 ] Locations   [ @ 50 ] Services [ # 51 ]
-[ @ 47 ]                                                                                                                                        [ $ 52 ]
+     [ @ 46 ] Contact Us
 
-                                               **[ 53 ] Locations**
+           ASTRIAHEALTH                                                            [ 48 ] Find a Physician [ @ 49 ] Locations [ @ 50 ] Services [ # 51 ]
+[ @ 47 ]                                                                                                                          [ $ 52 ]
 
+                                           **[ 53 ] Locations**
 
 
 
-              [ $ 54 ] Search by Facility Name:
 
+            [ 54 ] Search by Facility Name: [ # 55 ]
 
-            [ 55 ] Location Types:
-                                                                                                                                            [ $ 22
-             [ $ 56 ]    Ambulatory Surgery Centers
-             [ $ 57 ]    Astria Health Centers ( Primary and Specialty
-             Care )
-              [ $ 58 ]   Astria Health Hospital
-              [ $ 59 ]   Astria Health Therapy Services
-             [ $ 60 ] Services &            [ $ 61 ] City:
-             Specialties:
 
+           [ 56 ] Location Types:
+                                                                                                                             [ $ 226 ]
+                [ 57 ] Ambulatory Surgery Centers
+            [ $ 58 ] [ 59 ] Astria Health Centers ( Primary and Specialty Care )
+            [ $ 60 ] [ 61 ] Astria Health Hospital
+            [ $ 62 ] [ 63 ] Astria Health Therapy Services
+            [ $ 641 ] Services &       [ $ 66 ] City:
+            Specialties:
 
-                [ $ 62 ] SEARCH
 
-              [ @ 67 ] Astria Ambulatory Surgical Center
-              [ 63 ] 111 S. 11th Ave.
-              [ 64 ] Suite 220
-              [ 65 ] Yakima, WA 98902
+              [ $ 67 ] SEARCH
 
-              [ 66 ] Phone: 509.575.5577
+             [ @ 72 ] Astria Ambulatory Surgical Center
+             [ 68 ] 111 S. 11th Ave.
+             [ 69 ] Suite 220
+            [ 70 ] ] Yakima, WA 98902
 
-              [ @ 71 ] Astria Health Audiology & Pediatric Therapies
-              [ 68 ] 1017 Tacoma Ave.
-              [ 69 ] Sunnyside, WA 98944
+             [ 71 ] Phone: 509.575.5577
 
-              [ 70 ] Phone: 509.837.1720
+             [ @ 76 ] Astria Health Audiology & Pediatric Therapies
+             [ 73 ] 1017 Tacoma Ave.
+            [ 74 ] ] Sunnyside, WA 98944
 
-              [ @ 75 ] Astria Health Center - Family Medicine, Internal
-              Medicine, & Ear, Nose, & Throat
-              [ 72 ] 208 N. Euclid Ave.
-              [ 73 ] Grandview, WA 98930
+             [ 75 ] Phone: 509.837.1720
 
-              [ 74 ] Phone: 509.882.1855
+             [ @ 80 ] Astria Health Center - Family Medicine, Internal
+            Medicine, & Ear, Nose, & Throat
+             [ 77 ] 208 N. Euclid Ave.
+             [ 78 ] Grandview, WA 98930
 
-              [ @ 80 ] Astria Health Center - Dental Services
-              [ 76 ] 2201 E. Edison Ave.
-              [ 77 ] Ste. 2
-              [ 78 ] Sunnyside, WA 98944
+             [ 79 ] Phone: 509.882.1855
 
-              [ 79 ] Phone: 509.837.3090
+             [ @ 85 ] Astria Health Center - Dental Services
+             [ 81 ] 2201 E. Edison Ave.
+             [ 82 ] Ste. 2
+            [ 83 ] Sunnyside, WA 98944
 
-              [ @ 85 ] Astria Health Center - Family Medicine and
-              Multi - Specialty.
-              [ 81 ] 915 Vintage Valley Pkwy.
-              [ 82 ] Suite 200
-              [ 83 ] Zillah, WA 98953
+             [ 84 ] Phone: 509.837.3090
 
-              [ 84 ] Phone: 509.314.6565
+             [ @ 90 ] Astria Health Center - Family Medicine and
+            Multi - Specialty.
+             [ 86 ] 915 Vintage Valley Pkwy.
+             [ 87 ] Suite 200
+             [ 88 ] Zillah, WA 98953
 
-              [ @ 89 ] Astria Health Center - Family Medicine and
-              Multi - Specialty.
-              [ 86 ] 1420 Ahtanum Ridge Dr.
-              [ 87 ] Union Gap, WA 98903
+             [ 89 ] Phone: 509.314.6565
 
-              [ 88 ] Phone: 509.454.7700
+            [ @ 94 ] Astria Health Center - Family Medicine and
+            Multi - Specialty.
+             [ 91 ] 1420 Ahtanum Ridge Dr.
+            [ 92 ] ] Union Gap, WA 98903
 
-              [ @ 93 ] Astria Health Center - Obstetrics & Gynecology.
-              ( OB - GYN )
-              [ 90 ] 803 E. Lincoln Ave.
-              [ 91 ] Sunnyside, WA 98944
+             [ 93 ] Phone: 509.454.7700
 
-              [ 92 ] Phone: 509.837.1550
+             [ @ 98 ] Astria Health Center - Obstetrics & Gynecology.
+            ( OB - GYN )
+             [ 95 ] 803 E. Lincoln Ave.
+             [ 96 ] Sunnyside, WA 98944
 
-              [ @ 97 ] Astria Health Center - Occupational Medicine
-              [ 94 ] 1812 E Edison Ave
-              [ 95 ] Sunnyside, WA 98944
+             [ 97 ] Phone: 509.837.1550
 
-              [ 96 ] Phone: 509.712.3295
+             [ @ 102 ] Astria Health Center - Occupational Medicine
+             [ 99 ] 1812 E Edison Ave
+             [ 100 ] Sunnyside, WA 98944
 
-              [ @ 101 ] Astria Health Center -
-              Orthopedics / Orthopaedics
-              [ 98 ] 1812 E Edison Ave
-              [ 99 ] Sunnyside, WA 98944
+             [ 101 ] Phone: 509.712.3295
 
-              [ 100 ] Phone: 509.712.3295
+            [ @ 106 ] Astria Health Center -
+            Orthopedics / Orthopaedics
+             [ 103 ] 1812 E Edison Ave
+             [ 104 ] Sunnyside, WA 98944
 
-              [ @ 105 ] Astria Health Center - Pediatrics
-              [ 102 ] 803 E. Lincoln Ave
-              [ 103 ] Sunnyside, WA 98944
+             [ 105 ] ] Phone: 509.712.3295
 
-              [ 104 ] Phone: 509.837.7551
+             [ @ 110 ] Astria Health Center - Pediatrics
+             [ 107 ] 803 E. Lincoln Ave
+             [ 108 ] Sunnyside, WA 98944
 
-              [ @ 109 ] Astria Health Center - Pediatrics, Behavioral
-              Health, Primary Care with Walk - In Care
-              [ 106 ] 222 E. 2nd St.
-              [ 107 ] Grandview, WA 98930
+             [ 109 ] Phone: 509.837.7551
 
-              [ 108 ] Phone: 509.203.6501
+             [ @ 114 ] Astria Health Center - Pediatrics, Behavioral
+            Health, Primary Care with Walk - In Care
+             [ 111 ] 222 E. 2nd St.
+             [ 112 ] ] Grandview, WA 98930
 
-              [ @ 114 ] Astria Health Center - Primary Care & Sleep
-              Medicine
-              [ 110 ] 2705 E. Lincoln Ave.
-              [ 111 ] Suite C
-              [ 112 ] Sunnyside, WA 98944
+             [ 113 ] Phone: 509.203.6501
 
-              [ 113 ] Phone: 509.837.1799
+             [ @ 119 ] Astria Health Center - Primary Care & Sleep
+            Medicine
+             [ 115 ] 2705 E. Lincoln Ave.
+             [ 116 ] Suite C
+             [ 117 ] Sunnyside, WA 98944
 
-              [ @ 118 ] Astria Health Center - Primary Care with Walk-
-              In Care and Multi - Specialty Care
-              [ 115 ] 516 W. 4th Ave.
-              [ 116 ] Toppenish, WA 98948
+             [ 118 ] Phone: 509.837.1799
 
-              [ 117 ] Phone: 509.865.2500
+             [ @ 123 ] Astria Health Center - Primary Care with Walk-
+            In Care and Multi - Specialty Care
+             [ 120 ] 516 W. 4th Ave.
+             [ 121 ] Toppenish, WA 98948
 
-              [ @ 122 ] Astria Health Center - Primary Care with
-              Walk - In Care / Endocrinology / Nephrology
-              [ 119 ] 803 E. Lincoln Ave.
-              [ 120 ] Sunnyside, WA 98944
+             [ 122 ] Phone: 509.865.2500
 
-              [ 121 ] Phone: 509.837.6911
+             [ @ 127 ] Astria Health Center - Primary Care with Walk-
+            In Care / Endocrinology / Nephrology.
+             [ 124 ] 803 E. Lincoln Ave.
+             [ 125 ] Sunnyside, WA 98944
 
-              [ @ 127 ] Astria Health Center - Primary Care with
-              Walk - In, Behavioral Health
-              [ 123 ] 2201 E Edison Ave
-              [ 124 ] Ste. 1
-              [ 125 ] Sunnyside, WA 98944
+             [ 126 ] Phone: 509.837.6911
 
-              [ 126 ] Phone: 509.837.4596
+             [ @ 132 ] Astria Health Center - Primary Care with Walk-
+            In, Behavioral Health
+             [ 128 ] 2201 E Edison Ave
+            [ 129 ] Ste. 1
+             [ 130 ] Sunnyside, WA 98944
 
-              [ @ 131 ] Astria Health Center - Rapid Care and Multi-
-              Specialty
-              [ 128 ] 355 Chardonnay Ave.
-              [ 129 ] Prosser, WA 99350
+             [ 131 ] Phone: 509.837.4596
 
-              [ 130 ] Phone: 509.781.6366
+             [ @ 136 ] Astria Health Center - Rapid Care and Multi-
+            Specialty.
+             [ 133 ] 355 Chardonnay Ave.
+             [ 134 ] Prosser, WA 99350
 
-              [ @ 135 ] Astria Health Center - Rapid Care and Multi-
-              Specialty
-              [ 132 ] 1812 E Edison Ave
-              [ 133 ] Sunnyside, WA 98944
+             [ 135 ] Phone: 509.781.6366
 
-              [ 134 ] Phone: 509-712-3295
+             [ @ 140 ] Astria Health Center - Rapid Care and Multi-
+            Specialty
+             [ 137 ] 1812 E Edison Ave
+             [ 138 ] Sunnyside, WA 98944
 
-              [ @ 139 ] Astria Health Center - Sleep Medicine
-              [ 136 ] 803 E. Lincoln Avenue
-              [ 137 ] Sunnyside, WA 98944
+             [ 139 ] Phone: 509-712-3295
 
-              [ 138 ] Phone: 509.837.6911
+             [ @ 144 ] Astria Health Center - Sleep Medicine
+             [ 141 ] 803 E. Lincoln Avenue
+             [ 142 ] Sunnyside, WA 98944
 
-              [ @ 143 ] Astria Health Center - Sleep Medicine Center
-              [ 140 ] 1013 E. Edison Avenue
-              [ 141 ] Sunnyside, WA 98944
+             [ 143 ] Phone: 509.837.6911
 
-              [ 142 ] Phone: 509.837.1627
+             [ @ 148 ] Astria Health Center - Sleep Medicine Center
+             [ 145 ] 1013 E. Edison Avenue
+             [ 146 ] Sunnyside, WA 98944
 
-              [ @ 147 ] Astria Health Therapy Services
-              [ 144 ] 326 S. 9th St.
-              [ 145 ] Sunnyside, WA 98944
+             [ 147 ] Phone: 509.837.1627
 
-              [ 146 ] Phone: 509.836.4835
+             [ @ 152 ] Astria Health Therapy Services
+             [ 149 ] 326 S. 9th St.
+            [ 150 ] ] Sunnyside, WA 98944
 
-              [ @ 152 ] Astria Home Health
-              [ 148 ] 812 Miller Ave.
-              [ 149 ] Suite A
-              [ 150 ] Sunnyside, WA 98944
+             [ 151 ] Phone: 509.836.4835
 
-              [ 151 ] Phone: 509.837.1567
+             [ @ 157 ] Astria Home Health
+             [ 153 ] 812 Miller Ave.
+             [ 154 ] Suite A
+             [ 155 ] Sunnyside, WA 98944
 
-              [ @ 156 ] Astria Home Health and Hospice
-              [ 153 ] 7 S. 10th Ave.
-              [ 154 ] Yakima, WA 98902
+             [ 156 ] Phone: 509.837.1567
 
-              [ 155 ] Phone: 509.575.5093
+             [ @ 161 ] Astria Home Health and Hospice
+             [ 158 ] 7 S. 10th Ave.
+             [ 159 ] Yakima, WA 98902
 
-              [ @ 161 ] Astria Plastic Surgery Center
-              [ 157 ] 3907 Creekside Loop
-              [ 158 ] Suite 130
-              [ 159 ] Yakima, WA 98902
+             [ 160 ] Phone: 509.575.5093
 
-              [ 160 ] Phone: 509.225.4555
+             [ @ 166 ] Astria Plastic Surgery Center
+             [ 162 ] 3907 Creekside Loop
+             [ 163 ] Suite 130
+             [ 164 ] ] Yakima, WA 98902
 
-              [ @ 165 ] Astria Rapid Care
-              [ 162 ] 1812 E Edison Ave
-              [ 163 ] Sunnyside, WA 98944
+             [ 165 ] Phone: 509.225.4555
 
-              [ 164 ] Phone: 509.712.3295
+             [ @ 170 ] Astria Rapid Care
+             [ 167 ] 1812 E Edison Ave
+             [ 168 ] Sunnyside, WA 98944
 
-              [ @ 169 ] Astria Sunnyside Hospital
-              [ 166 ] 1016 Tacoma Ave
-              [ 167 ] Sunnyside, WA 98944
+             [ 169 ] Phone: 509.712.3295
 
-              [ 168 ] Phone: 509.837.1500
+             [ @ 174 ] Astria Sunnyside Hospital
+             [ 171 ] 1016 Tacoma Ave
+             [ 172 ] Sunnyside, WA 98944
 
-              [ @ 173 ] Astria Sunnyside Hospital Wound Care
-              [ 170 ] 1016 Tacoma Ave
-              [ 171 ] Sunnyside, WA 98944
+             [ 173 ] Phone: 509.837.1500
 
-              [ 172 ] Phone: 509-837-1725
+             [ @ 178 ] Astria Sunnyside Hospital Wound Care
+             [ 175 ] 1016 Tacoma Ave
+             [ 176 ] Sunnyside, WA 98944
 
-              [ @ 177 ] Astria Sunnyside Hospital | Emergency
-              Department
-              [ 174 ] 1016 Tacoma Ave.
-              [ 175 ] Sunnyside, WA 98944
+             [ 177 ] Phone: 509-837-1725
 
-              [ 176 ] Phone: 509.837.1500
+             [ @ 182 ] Astria Sunnyside Hospital | Emergency.
+            Department
+             [ 179 ] 1016 Tacoma Ave.
+             [ 180 ] Sunnyside, WA 98944
 
-              [ @ 181 ] Astria Toppenish Hospital
-              [ 178 ] 502 W. 4th Ave
-              [ 179 ] Toppenish, WA 98944
+             [ 181 ] Phone: 509.837.1500
 
-              [ 180 ] Phone: 509.865.3105
+             [ @ 186 ] Astria Toppenish Hospital
+             [ 183 ] 502 W. 4th Ave
+             [ 184 ] Toppenish, WA 98944
 
-              [ @ 185 ] Astria Toppenish Hospital | Emergency
-              Department
-              [ 182 ] 502 W. 4th Ave.
-              [ 183 ] Toppenish, WA 98948
+             [ 185 ] Phone: 509.865.3105
 
-              [ 184 ] Phone: 509.865.3105
+             [ @ 190 ] Astria Toppenish Hospital | Emergency.
+            Department
+             [ 187 ] 502 W. 4th Ave.
+             [ 188 ] Toppenish, WA 98948
 
-              [ @ 189 ] Behavioral Health Unit                                                                                             [ $ 222
-              [ 186 ] 502 W 4th Ave
-              [ 187 ] Toppenish, WA 98948
-                                                                                                                                           [ $ 22
-              [ 188 ] Phone: 509.865.1660                                                                                                  [ $ 22
-                                                                                        [ @ 225 ]
-                                                                                             [ $ 226 ] [ $ 227 ] Map Data [ $ 228 ]    [ @ 230 ] Terms
-              [ @ 193 ] Breast Health Center
-              [ 190 ] 1016 Tacoma Ave
-              [ 191 ] Sunnyside, WA 98944
+             [ 189 ] Phone: 509.865.3105
 
-              [ 192 ] Phone: 509.837.1627
+             [ @ 194 ] Behavioral Health Unit                                                                               [ $ 227 ]
+             [ 191 ] 502 W 4th Ave
+            [ 192 ] Toppenish, WA 98948
+                                                                                                                            [ $ 228 ]
+             [ 193 ] Phone: 509.865.1660
+                                                                                                                            [ $ 229
+                                                                              [ @ 230 ] .le
+                                                                                      [ $ 231 ] [ $ 232 ] Map Data [ $ 233 ] [ @ 234 ] Terms
+             [ @ 198 ] Breast Health Center
+             [ 195 ] 1016 Tacoma Ave
+             [ 196 ] Sunnyside, WA 98944
 
-              [ @ 197 ] Cancer Care ( Hematology and Oncology. )
-              [ 194 ] 355 Chardonnay Ave
-              [ 195 ] Prosser, WA 99350
+             [ 197 ] Phone: 509.837.1627
 
-              [ 196 ] Phone: 509.781.6366
+             [ @ 202 ] Cancer Care ( Hematology and Oncology. )
+             [ 199 ] 355 Chardonnay Ave
+             [ 200 ] Prosser, WA 99350
 
-              [ @ 201 ] Cancer Center
-              [ 198 ] 1013 E. Edison Ave.
-              [ 199 ] Sunnyside, WA 98944
+             [ 201 ] Phone: 509.781.6366
 
-              [ 200 ] Phone: 509.837.1587
+             [ @ 206 ] Cancer Center
+             [ 203 ] 1013 E. Edison Ave.
+             [ 204 ] Sunnyside, WA 98944
 
-              [ @ 205 ] Family Birth Center
-              [ 202 ] 1016 Tacoma Ave.
-              [ 203 ] Sunnyside, WA 98944
+             [ 205 ] Phone: 509.837.1587
 
-              [ 204 ] Phone: 509.837.1500
+             [ @ 210 ] Family Birth Center
+             [ 207 ] 1016 Tacoma Ave.
+             [ 208 ] Sunnyside, WA 98944
 
-              [ @ 209 ] Specialty Center Surgical Group
-              [ 206 ] 500 S. 11th St.
-              [ 207 ] Sunnyside, WA 98944
+             [ 209 ] Phone: 509.837.1500
 
-              [ 208 ] Phone: 509.837.7722
+             [ @ 214 ] Specialty Center Surgical Group
+             [ 211 ] 500 S. 11th St.
+             [ 212 ] Sunnyside, WA 98944
 
+             [ 213 ] Phone: 509.837.7722
 
 
 
-   [ 231 ] © 2023 Astria Health ⚫ [ @ 234 ] Terms of Use [ 232 ] • [ @ 235 ] Notice of
-                                                                                                                      in                **f**
-   Non - Discrimination [ 233 ] • [ @ 236 ] Privacy Policy
-                                                                                            [ @ 237 [ @ 238 [ @ 239 ] [ @ 240 ] [ @ 241 ] [ @ 242 ]
 
-                                                                MADE WITH       INVISIBLE INK
-                                                      [ @ 243 ]
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2556
+   [ 235 ] © 2023 Astria Health⚫ [ @ 238 ] Terms of Use [ 236 ] • [ @ 239 ] Notice of Non-
+                                                                                                   Ο     in
+   Discrimination [ 237 ] • [ @ 240 ] Privacy Policy.
+                                                                                    [ @ 241 ] [ @ 242 ] [ @ 243 ] [ @ 244 ] [ @ 245 ] [ @ 246 ]
+
+                                                         MADE WITH      INVISIBLE INK
+                                                  [ @ 247 ]
+---------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 2560

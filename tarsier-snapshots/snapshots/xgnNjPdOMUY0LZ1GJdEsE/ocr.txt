@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 83 ]          Back to Careers
+[ 92 ]      Back to Careers
 
 
     **Front - End Engineer - UI Component Library**
@@ -11,28 +11,27 @@
     than alternative approaches. The core of the C3 Al offering is an open, data - driven Al architecture that dramatically
     simplifies data science and application development. Learn more at: C3 AI
     We are hiring front - end engineers at all levels to lead and maintain the UI component library of the C3 Al Application
-    Platform. Our Ul component library allows our customers to rapidly deliver data - rich Al applications and scale them to
+    Platform. Our UI component library allows our customers to rapidly deliver data - rich Al applications and scale them to
     handle TBS of data, and we want to take it to the next level.
-
     Responsibilities:
       • Lead the development of new UI components to be used by fellow engineers.
       • Maintain an ever - growing library of components to be used across different applications and industries.
       • Research and implement internal tools to increase the productivity of Engineering, UX, and PMs.
       • Provide technical guidance and support for our UX and PM teams.
     Qualifications:
-      • Bachelor of Science in Computer Science, Computer Engineering, or related fields.
-      •  Experience working with client - side technologies including Javascript, Typescript, React / Redux.
-      • Experience with version control systems, including Git.
-      • Prior experience designing and implementing reusable UI components.
-      •  Experience working as part of a cross - functional team of PM, UX, and Engineering.
 
+      • Bachelor of Science in Computer Science, Computer Engineering, or related fields.
+      • Experience working with client - side technologies including Javascript, Typescript, React / Redux.
+       • Experience with version control systems, including Git.
+      • Prior experience designing and implementing reusable UI components.
+       • Experience working as part of a cross - functional team of PM, UX, and Engineering.
     Preferred Qualifications:
 
       • Prior experience developing a UI component library or design system for other engineers.
       • Proven experience with pixel - perfect execution of UI components.
-      • Working knowledge of accessibility best practices.
-      • Ability to effectively articulate complex concepts to technical and non - technical audiences.
-      •  Excellent analytical and troubleshooting skills.
+       • Working knowledge of accessibility best practices.
+       • Ability to effectively articulate complex concepts to technical and non - technical audiences.
+      • Excellent analytical and troubleshooting skills.
     C3 Al provides a competitive compensation package and excellent benefits.
 
 
@@ -50,7 +49,8 @@
                                                                                                                                                      Maggie
                                                                                                                                    Senior Manager, Application Engineering
 
-                                                                                                                                                      **3 ca** C3.ai
+                                                                                                                                                             C3.al
+
                 00:46
 
 
@@ -59,12 +59,12 @@
     legally protected characteristics, including disabled and veteran status.
 
 
-                                Job                                                                                                                      * Required
-        Apply for this
+                                                                                                                                                         * Required
+        Apply for this Job
 
-        First Name *                                                                 Last Name *
+        First Name *                                                                 Last Name
 
-         Email *                                                                     Phone
+        Email *                                                                      Phone
 
                                                                                       Resume / CV *
                                                                                                                    Attach, or enter manually
@@ -79,15 +79,15 @@
 
         LinkedIn Profile
 
-
+                                                                                      *
         Do you now or will you in the future require immigration sponsorship to work at C3 AI?
 
 
         By clicking the" I Accept" button, you give your consents as described below: C3 Al collects your personal data for the purposes of managing C3 Al's recruitment related
-        activities as well as for organizational planning purposes globally. Consequently, C3 Al may use your personal data in relation to the evaluation and selection of applicants
+        activities as well as for organizational planning purposes globally. Consequently, C3 AI may use your personal data in relation to the evaluation and selection of applicants
         including for example setting up and conducting interviews and tests, evaluating and assessing the results thereto and as is otherwise needed in the recruitment processes
         including the final recruitment. C3 Al does not disclose your personal data to unauthorized third parties. However, as a global corporation consisting of multiple affiliated
-        companies in various countries, C3 Al has international sites and C3 Al uses resources located throughout the world. C3 Al may from time to time also use third parties to act
+        companies n various countries, C3 Al has international sites and C3 Al uses resources located throughout the world. C3 Al may from time to time also use third parties to act
         on C3 Al's behalf. You agree to the fact that to the extent necessary your personal data may be transferred and / or disclosed to any company within C3 Al group of
         companies as well as to third parties acting on C3 Al's behalf, including also transfers to servers and databases outside the country where you provided C3 Al with your
         personal data. Such transfers may include for example transfers and / or disclosures outside the European Economic Area (" EEA" ) and in the United States of America; in
@@ -115,9 +115,9 @@
 
                                                                                                                                                                                                      Privacy - Terms
 
-    [ @ 84 ]         [ @ 85 ]          [ @ 86 ] Privacy         [ @ 87 ] Terms of      [ @ 88 ] Site                                                                            [ @ 89 ]     [ @ 90 ]     [ @ 91 ]
-    News             Contact           Policy                  Use                    Map
-                                                                                                                                                                                in
-    [ 92 ] © 2023 C3.ai, Inc. All Rights Reserved.
+    [ @ 93 ]         [ @ 94 ]          [ @ 95 ] Privacy        [ @ 96 ] Terms of       [ @ 97 ] Site                                                                            [ @ 98 ]     [ @ 99 ]     [ @ 100 ]
+    News            Contact           Policy                   Use                    Map
+                                                                                                                                                                                 in
+    [ 101 ] © 2023 C3.ai, Inc. All Rights Reserved.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1080
+Token count: 1074

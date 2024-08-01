@@ -1,9 +1,10 @@
-------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
 [ $ 2 ]
-         [ @ 0 ] SULLIVAN & CROMWELL LLP                                                                [ $ 1 ]  Search
+         [ @ ] SULLIVAN &                                                                                   [ $ 1 ] Search
+                                CROMWELL LLP
 
-         [ @ 5 ] Home [ 3 ] [ @ 6 ] Lawyers [ 4 ] [ 71 Erik D. Lindauer                                 [ $ 8 ]  [ $ 9 ] ]  [ $ 10 ]
-                                                                         Erik D. Lindauer Headshot Photo
+         [ @ 5 ] Home [ 3 ] / [ @ 6 ] Lawyers [ 4 ] / [ 7 ] Erik D. Lindauer                                 [ $ 8 ]  [ $ 9 ]   [ $ 10 ]
+                                                                          Erik D. Lindauer Headshot Photo
 
 
 
@@ -15,10 +16,10 @@
 
 
 
-                                    [ 13 ] New York [ 14 ] + 1-212-558-3548 [ 15 ] [ @ 16 ] lindauere@sullcrom.com       @ 17 ] vCard
+                                     [ 13 ] New York [ 14 ] + 1-212-558-3548 [ 15 ] [ @ 16 ] lindauere@sullcrom.com         [ @ 17 ] vCard
 
-                                    **[ 18 ] Erik Lindauer was a partner in Sullivan & Cromwell's**
-                                    **Banking and Project Finance groups from 1989 through 2015**
-                                                                numaal to the T              Infor
-------------------------------------------------------------------------------------------------------------------------------------
-Token count: 207
+                                     **[ 18 ] Erik Lindauer was a partner in Sullivan & Cromwell's**
+                                     **Banking and Project Finance groups from 1989 through 2015**
+                                                         nion councel to the Lium Un focuses on
+---------------------------------------------------------------------------------------------------------------------------------------
+Token count: 214

@@ -1,0 +1,116 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+[@0] Holiday Hours
+
+                                                                             [@8] Find a   [@9] Care       [@10] Patients   [@11] WakeMed
+                                                                             Doctor        Services        Visitors         Physician Practices
+
+
+      [@12] Home [@13] Find a Location [14] Location Detail
+      **[15] Gastroenterology - North Raleigh**
+                                                                                          [@16] Back to Search Results       [@17] Start Over
+
+
+
+
+
+
+
+      [18] WakeMed North Hospital Physicians Office Pavilion
+      [19] 10010 Falls of Neuse Road, Suite 203
+      [20] Raleigh, North Carolina 27614
+      [@21] 919-235-6440
+      [$22] Fax
+      [23] 919-350-7093
+      [$24] HOURS
+           [25] Monday 8 00 AM-5 00 PM
+           [26] Tuesday 8 00 AM-5 00 PM
+           [27] Wednesday 8 00 AM-5 00 PM
+           [28] Thursday 8 00 AM-5 00 PM
+           [29] Friday 8 00 AM-12 00 PM
+                                                                   [@30] Hide Map
+
+
+                                                                   [$35] Map [$36] Satellite
+
+
+
+
+
+
+
+                                                                                                         [$42] Keyboard shortcuts [43] Map data 2023 [@44] Terms [@45] Report a map error
+
+
+
+
+
+
+      [$46] DESCRIPTION
+      [47] The physicians at WakeMed Gastroenterology excel in diagnosing and treating a variety of digestive diseases and disorders with sophisticated
+      procedures addressing everything from acid reflux, swallowing difficulties and polyps to Crohn s, and more.
+      [48] Our dedicated physicians provide exceptional care by working closely with patients to diagnose and treat gastrointestinal disorders so that our
+      patients can return to a normal, healthy life as quickly as possible. We treat a wide variety of conditions with the most advanced treatment options
+      available.
+
+           [@49] Schedule an Appointment
+
+      **[50] Common GI Conditions We Treat**
+           [51] Abdominal pain
+           [52] Anorectal disorders
+           [53] Colon polyps
+           [54] Diagnosis and staging of gastrointestinal malignancies like esophageal, pancreaticobiliary and colorectal cancer
+           [55] Diverticulitis
+           [56] Gastroesophageal reflux disease GERD
+           [57] Gastrointestinal bleeding
+           [58] Indigestion and heartburn Intestinal pain and conditions including
+               [59] Inflammatory bowel diseases IBD
+               [60] ulcerative colitis
+               [61] Crohn's disease
+               [62] Irritable bowel syndrome IBS
+           [63] Pancreatobiliary disorders
+           [64] PEG Tubes
+           [65] Peptic ulcer disease
+           [66] Stomach pain and conditions
+           [67] Ulcers
+           [68] Swallowing disorders
+
+        [69] Providers at this location
+
+
+
+
+
+
+
+
+        [71] Riaz Chowdhury, MD, [74] Juan G. Herrera, MD, [77] Hayden Hopkins, PA-C [80] Kathleen Kierski, PA-C [83] Adeyemi Lawal, MD, [86] Leah Shin, PA
+         PhD, AGAF, FACG       FACP, FACG, AGAF,
+           [72] Gastroenterology     FASGE                                                            [84] Gastroenterology
+                                  [75] Gastroenterology
+                                                        [78] Gastroenterology  [81] Gastroenterology   FACP, AGAF           [87] Gastroenterology
+
+
+
+
+
+                   [89] 3000 New Bern Ave.
+                    Raleigh, NC 27610
+
+                        [@91] 919-350-8000
+                                          [@92] About Us                    [@100] Manage Your Health         [108] Stay Connected
+                                          [@93] Careers                     [@101] WakeMed MyChart
+                                          [@94] Commitment to Quality       [@102] Medical records
+                                          [@95] News Media                  [@103] Pay Your Bill
+                                          [@96] Notice of Privacy Practices
+
+                                          [@97] Price Transparency
+                                          [@98] Volunteer
+                                          [@99] Make a Gift
+                                                                            [@104] Contact Us
+                                                                            [@105] For Providers
+                                                                            [@106] For Employees
+                                                                            [@107] COVID-19 Information
+
+           [116] 2023 WakeMed Health Hospitals
+         [@117] Site Map [@118] Non-Discrimination Statement [@119] Notice of Privacy Practices [@120] Terms of Use
+-----------------------------------------------------------------------------------------------------------------------------------------------------

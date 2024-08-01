@@ -1,0 +1,117 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[$0] Menu        [@1] Find A Provider         [@2] Services                                                              [@4] Locations
+
+                                                                                                                         [@5] Patients and Visitors
+                                                                                                                                                                       [$6] Find Help
+                                                                                                                                                                           Now
+              [@7] Homepage [9] UofL Health    Hep C Center
+
+
+
+
+
+
+
+
+
+           **[10] UofL Health**                   **Hep C Center**
+
+
+           **[11] Location Information**
+
+                                                        **[12] UofL Health**       **Hep C Center**
+                                                        [13] UofL Health Jackson Street Outpatient Center
+                                                        550 [14] 550 S. S. Jackson Jackson Street, Street, 3rd 3rd Floor Floor
+                                                        Louisville, [15] Louisville, KY [16] KY 40202
+                                                            [@18] 502-561-5687 [@19] Get Directions
+                                                                                                                          **[20] Schedule An Appointment**
+                                                                                                                              [@21] Appointments
+                                                                                                                          **[22] Hours**
+                                                                                                                          [23] 8 a. m - 5 p. m
+
+
+
+
+           **[24] Services Offered**
+           [@25] Hep C Center
+
+
+
+
+
+           **[26] Health Library**
+
+
+                   [@27] Wellness [28] Wellness
+
+
+                **Exploring [29] Exploring Organs Organs The The Lifesaving Lifesaving**
+                **Liver Liver**
+                Loretta [30] Loretta Jophlin, Jophlin, M. M. D. D.,, Ph. Ph. D. D. November [32] November 2, 2, 2021 2021
+
+
+                                                                                [@33] View All Articles
+                                                                                                                                                                            [@34] Schedule [35] Schedule an an
+                                                                                                                                                                            Appointment Appointment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           [38] Follow Us
+                                                                 [@45] Find A Provider          [@50] Appointments
+                                                                 [@46] Services                 [@51] About UofL Health
+                                                                 [@47] Locations                [@52] Health Library
+                                                                 [@48] Patients and Visitors    [@53] Careers
+                                                                 [@49] Patient Portal           [@54] Volunteer Information
+                                                                                                                                       [@55] For Health Care Professionals
+                                                                                                                                       [@56] News
+                                                                                                                                       [@57] Pay My Bill
+                                                                                                                                       [@58] Ways to Give
+                                                                                                                                       [@59] Contact
+
+
+              [60] 2023 UofL Health. All Rights Reserved       [@61] Nondiscrimination Notice [@62] Terms of Use [@63] Notice of Privacy Practices [@64] Code of Conduct
+                                                               [@65] Privacy Policy
+               [66] UofL Health complies with applicable Federal civil rights laws and does not discriminate on the basis of race, color, national origin, age, disability or sex
+             including discrimination based on pregnancy, gender identity and sex stereotyping when providing or administering health-related insurance or other
+                                                                                    **health-related** coverage.
+              [67] UofL Health, Inc. is 501 c 3 a nonprofit corporation is governed by an independent Board of Directors and is a related organization as defined under 42
+            CFR 413. 17 with the University of Louisville s School of Medicine. UofL Health, Inc., on behalf of its teaching hospitals and providers, entered into academic
+               affiliation agreement with the University of Louisville in which the University of Louisville agreed that its Health Sciences Center would be the academic
+            partner with UofL Health, Inc. to maintain and enhance the University of Louisville s affiliated graduate medical education as well as its research in medicine,
+                                                                          dentistry, nursing and public health.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

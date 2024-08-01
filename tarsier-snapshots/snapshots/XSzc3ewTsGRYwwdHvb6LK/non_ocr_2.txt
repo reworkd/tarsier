@@ -1,0 +1,167 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[$2] Sign In
+                                                                                                                                                                                            [$3] Search for Jobs         [$4] Introduce Yourself
+
+
+
+
+
+
+               **[6] Senior Backend Engineer, Media**
+                   [@7] Apply
+
+
+                 [9] Taiwan - Remote                         [11] Full time
+                                                             [13] Posted 29 Days Ago
+                                                             [15] JR0023180
+           [16] It takes powerful technology to connect our brands and partners with an audience of nearly 900 million.
+           Whether you re looking to write mobile app code, engineer the servers behind our massive ad tech stacks, or
+           develop algorithms to help us process trillions of data points a day, what you do here will have a huge impact
+           on our business          and the world. Want in?
+
+           A [17] A Little Little About About Us Us
+           Taiwan [18] Taiwan Media Media team team develops develops and and operates operates 30 30 websites websites and and mobile mobile apps, apps, including including Yahoo Yahoo News, News, Finance, Finance,
+           Entertainment, Entertainment, TV, TV, Homepage, Homepage, and and Commerce, Commerce, providing providing premium premium digital digital content content to to millions millions of of users users every every day day
+           and and helping helping us us dominate dominate the the TW TW and and HK HK markets. markets. The The team team focuses focuses on on creating creating the the most most relevant relevant local local
+           experiences experiences and and services services while while leveraging leveraging global global development development resources. resources.
+           A [19] A Lot Lot About About You You
+           We [20] We are are looking looking for for talented talented individuals individuals passionate passionate about about building building the the most most advanced advanced Media Media and and Content Content
+           platform. platform. Join Join us us to to work work on on cutting-edge cutting-edge technology technology to to deliver deliver a a state-of-the-art state-of-the-art platform platform with with the the top top talents talents
+           around around the the globe. globe.
+           Your [21] Your Day Day
+                  Responsible [22] Responsible for for design, design, implementation/development, implementation/development, and and unit unit testing testing of of various various modules modules with with
+                  minimal minimal supervision supervision
+                  Participate [25] Participate in in troubleshooting troubleshooting various various problems problems in in the the system system
+                  Participate [26] Participate in in design design discussions discussions and and reviews reviews
+                  Participate [27] Participate in in the the full full life life cycle cycle of of a a large large project project design, design, implementation, implementation, testing, testing, releasing, releasing, and and
+                  sustaining. sustaining.
+           You [28] You Must Must Have Have
+                  Bachelor [29] Bachelor or or Master Master in in Computer Computer Science, Science, Electrical Electrical Engineering, Engineering, or or related related technical technical fields. fields.
+                  Excellent [30] Excellent knowledge knowledge and and hands-on hands-on experience experience in in Java Java [32] Java language language language
+                  Good [33] Good knowledge knowledge of of web web development development and and architecture, architecture, e. e. g. g.,, HTTP, HTTP, CSS, CSS, JavaScript, JavaScript, HTML, HTML, and and
+                  Web Web industry industry standards. standards.
+                  Good [34] Good knowledge knowledge of of software software engineering engineering life life cycle, cycle, including including design, design, development, development, build/release, build/release,
+                  and and QA. QA.
+                  Excellent [35] Excellent analytical analytical and and problem-solving problem-solving skills skills and and desire desire to to learn learn new new skills. skills.
+                  Ability [36] Ability to to take take initiative initiative and and be be innovative. innovative.
+                  Great [37] Great sense sense of of responsibility responsibility and and attention attention to to detail. detail.
+                  Proficiency [38] Proficiency in in Chinese/Mandarin Chinese/Mandarin is is essential essential for for product product comprehension comprehension and and facilitating facilitating effective effective
+                  communication. communication.
+                  By [39] By applying applying to to this this position, position, you you are are required required to to locate locate in in Taiwan. Taiwan.
+           Nice [40] Nice To To Have Have
+                  Experience [41] Experience in in the the development development on on Linux Linux based based systems systems
+                  Knowledge [42] Knowledge of of one one of of the the scripting scripting languages, languages, e. e. g. g.,, Python, Python, Go, Go, shell shell script, script, or or PHP PHP
+                  Experience [43] Experience in in developing developing with with RDBMs, RDBMs, e. e. g. g.,, MySQL MySQL
+                  Experience [44] Experience in in cloud cloud service, service, e. e. g. g.,, AWS AWS
+                  Experience [45] Experience in in Agile/Scrum Agile/Scrum development development process process or or cloud cloud computing computing
+           The [46] The Good Good Stuff Stuff
+                  Work [47] Work [48] Work at at at Yahoo Yahoo Yahoo - - At At Yahoo, Yahoo, We We want want every every employee employee to to have have as as much much flexibility flexibility as as their their role role allows. allows.
+                  Working Working from from home home or or working working from from the the office? office? Your Your choice! choice!
+                  Summer [49] Summer [50] Summer Friday Friday Friday - - - We We know know the the importance importance of of work/life work/life balance balance and and realize realize that that some some working working habits habits
+                  may may not not have have kept kept up up with with the the times. times.
+                  Learning [51] Learning [52] Learning Development Development Development - - We We have have amazing amazing programs programs you you can can enter enter to to further further grow grow your your career, career,
+                  learn learn develop develop new new skills. skills. We We also also provide provide you you with with a a tuition tuition reimbursement reimbursement program program for for study. study.
+                  Health [53] Health [54] Health and and and Wellbeing Wellbeing Wellbeing - - We We offer offer employee employee assistance assistance program program EAP EAP,, health health club club reimbursement, reimbursement,
+                  employee employee vacation vacation program, program, office office massage massage for for you you to to relieve relieve from from stress stress and and release release of of pressure. pressure.
+                  Work [55] Work [56] Work from from from Abroad Abroad Abroad Policy Policy Policy - - the the world world as as we we know know it it has has changed changed so so if if you you need need to to travel travel back back to to
+                  your your home home country country and and work work remotely, remotely, we we have have you you covered. covered.
+                  Phone [57] Phone [58] Phone Tech Tech Tech - - We We will will provide provide all all the the Apple Apple goods goods to to do do your your job job well. well.
+           Join [59] Join us us to to immerse immerse yourself yourself in in an an energetic energetic environment, environment, closely closely access access yourself yourself to to cutting cutting edge edge technology technology
+           and and participate participate yourself yourself in in the the exciting exciting and and dynamic dynamic Internet Internet Industry! Industry! Apply Apply Now! Now!
+
+           Yahoo [60] Yahoo is is proud proud to to be be an an equal equal opportunity opportunity workplace. workplace. All All qualified qualified applicants applicants will will receive receive consideration consideration for for
+           employment employment without without regard regard to, to, and and will will not not be be discriminated discriminated against against based based on on age, age, race, race, gender, gender, color, color, religion, religion,
+           national national origin, origin, sexual sexual orientation, orientation, gender gender identity, identity, veteran veteran status, status, disability disability or or any any other other protected protected category. category.
+           Yahoo Yahoo is is dedicated dedicated to to providing providing an an accessible accessible environment environment for for all all candidates candidates during during the the application application process process
+           and and for for employees employees during during their their employment. employment. If If you you need need accessibility accessibility assistance assistance and/or and/or a a reasonable reasonable
+           accommodation accommodation due due to to a a disability, disability, please please submit submit a a request request via via the the Accommodation Accommodation Request Request Form Form
+           www. www. [@62] www. yahooinc. yahooinc. yahooinc. com/careers/contact-us. com/careers/contact-us. com/careers/contact-us. html html html or or call call 408-336-1409. 408-336-1409. Requests Requests and and calls calls received received for for
+           **non-disability non-disability** related related issues, issues, such such as as following following up up on on an an application, application, will will not not receive receive a a response. response.
+
+           Yahoo [63] Yahoo has has a a high high degree degree of of flexibility flexibility around around employee employee location location and and hybrid hybrid working. working. In In fact, fact, our our flexible-hybrid flexible-hybrid
+           approach approach to to work work is is one one of of the the things things our our employees employees rave rave about. about. Most Most roles roles don don t t require require specific specific regular regular
+           patterns patterns of of in-person in-person office office attendance. attendance. If If you you join join Yahoo, Yahoo, you you may may be be asked asked to to attend attend or or travel travel to to attend attend
+           **on-site on-site** work work sessions, sessions, team-building, team-building, or or other other in-person in-person events. events. When When these these occur, occur, you you ll ll be be given given notice notice to to make make
+           arrangements. arrangements.
+           If [64] If you you re re curious curious about about how how this this factors factors into into this this role, role, please please discuss discuss with with the the recruiter. recruiter.
+
+           Currently [65] Currently work work for for Yahoo? Yahoo? Please Please apply apply on on our our internal internal career career site. site.
+                                                                                                                                                                                   [66] About Us
+
+
+
+
+
+                                                                                                                                                                                   [67] Yahoo is a global media and tech
+                                                                                                                                                                                   company that connects people to their
+                                                                                                                                                                                   passions. We reach nearly 900M people
+                                                                                                                                                                                   around the world, bringing them closer
+                                                                                                                                                                                   to what they love          from finance and
+                                                                                                                                                                                   sports, to shopping, gaming and news
+                                                                                                                                                                                      with the trusted products, content
+                                                                                                                                                                                   and tech that fuel their day. For
+                                                                                                                                                                                   partners, we provide a full-stack
+                                                                                                                                                                                   platform for businesses to amplify
+                                                                                                                                                                                   growth and drive more meaningful
+                                                                                                                                                                                   connections across advertising, search
+                                                                                                                                                                                   and media. yahoo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                    [69] Follow Us
+
+
+                                                                                                           [73] 2023 Workday, Inc. All rights reserved.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

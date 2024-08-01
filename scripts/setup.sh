@@ -6,3 +6,7 @@ npm install
 npm run build
 
 poetry install
+
+cd ./tarsier-snapshots || exit 1
+poetry install
+poetry run bananalyze --download

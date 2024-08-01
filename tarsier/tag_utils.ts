@@ -1,9 +1,34 @@
 // noinspection JSUnusedGlobalSymbols
+interface ColouredElem {
+  id: number;
+  idSymbol: string;
+  color: string;
+  xpath: string;
+  midpoint: [number, number];
+  normalizedMidpoint: [number, number];
+  width: number;
+  height: number;
+  isFixed: boolean;
+  fixedPosition: string;  // 'top', 'bottom', 'none'
+  boundingBoxX: number;
+  boundingBoxY: number;
+}
 interface Window {
   tagifyWebpage: (tagLeafTexts?: boolean) => { [key: number]: string };
   removeTags: () => void;
   hideNonTagElements: () => void;
   revertVisibilities: () => void;
+  colourBasedTagify: (tagLeafTexts?: boolean) => ColouredElem[];
+  hideNonColouredElements: () => void;
+  getElementHtmlByXPath: (xpath: string) => string;
+  createTextBoundingBoxes: () => void;
+  documentDimensions: () => { width: number; height: number };
+  getElementBoundingBoxes: (xpath: string) => { text: string; top: number; left: number; width: number; height: number }[];
+  checkHasTaggedChildren: (xpath: string) => boolean;
+  setElementVisibilityToHidden: (xpath: string) => void;
+  reColourElements: (colouredElems: ColouredElem[]) => ColouredElem[];
+  disableTransitionsAndAnimations: () => void;
+  enableTransitionsAndAnimations: () => void;
 }
 
 const tarsierId = "__tarsier_id";
@@ -22,8 +47,18 @@ const elIsClean = (el: HTMLElement) => {
   return !isHidden && !isTransparent && !isZeroSize && !isScriptOrStyle;
 };
 
+const isNonWhiteSpaceTextNode = (child: ChildNode) => {
+  // also check for zero width space directly
+  return child.nodeType === Node.TEXT_NODE && child.textContent && child.textContent.trim().length > 0 && child.textContent.trim() !== '\u200B';
+}
+
 const inputs = ["a", "button", "textarea", "select", "details", "label"];
 const isInteractable = (el: HTMLElement) => {
+  // If it is a label but has an input child that it is a label for, say not interactable
+  if (el.tagName.toLowerCase() === "label" && el.querySelector("input")) {
+    return false;
+  }
+
   return inputs.includes(el.tagName.toLowerCase()) ||
     // @ts-ignore
     (el.tagName.toLowerCase() === "input" && el.type !== "hidden") ||
@@ -114,7 +149,6 @@ function getElementXPath(element: HTMLElement | null) {
         return "//" + path_parts.join("/");
       }
     } else if (element.className) {
-      const classList = Array.from(element.classList);
       prefix += `[@class="${element.className}"]`;
     }
 
@@ -171,51 +205,41 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
   window.removeTags();
   hideMapElements();
 
-  let idNum = 0;
-  let idToXpath: Record<number, string> = {};
+  const allElements = getAllElementsInAllFrames();
+  const rawElementsToTag = getElementsToTag(allElements, tagLeafTexts);
+  const elementsToTag = removeNestedTags(rawElementsToTag);
+  const idToXpath = insertTags(elementsToTag, tagLeafTexts);
+  absolutelyPositionMissingTags();
 
-  // @ts-ignore
-  let allElements: HTMLElement[] = [...document.body.querySelectorAll("*")];
-  const iframes = document.getElementsByTagName("iframe");
+  return idToXpath;
+};
 
-  // add elements in iframes to allElements
+function getAllElementsInAllFrames(): HTMLElement[] {
+  // Main page
+  const allElements: HTMLElement[] = Array.from(document.body.querySelectorAll('*'));
+
+  // Add all elements in iframes
+  // NOTE: This still doesn't work for all iframes
+  const iframes = document.getElementsByTagName('iframe');
   for(let i = 0; i < iframes.length; i++) {
     try {
       const frame = iframes[i];
-      console.log("iframe!", iframes[i]);
-      const iframeDocument =
-        frame.contentDocument || frame.contentWindow?.document;
+      const iframeDocument = frame.contentDocument || frame.contentWindow?.document;
+      if (!iframeDocument) continue;
 
-      // @ts-ignore
-      const iframeElements = [...iframeDocument.querySelectorAll("*")];
-      iframeElements.forEach((el) => el.setAttribute("iframe_index", i));
+      const iframeElements = Array.from(iframeDocument.querySelectorAll('*')) as HTMLElement[];
+      iframeElements.forEach((el) => el.setAttribute('iframe_index', i.toString()));
       allElements.push(...iframeElements);
     } catch (e) {
-      // Cross-origin iframe error
-      console.error("Cross-origin iframe:", e);
+      console.error('Error accessing iframe content:', e);
     }
   }
 
-  // ignore all descendants of interactable elements
-  allElements.map((el) => {
-    if (isInteractable(el)) {
-      // Remove all direct children
-      el.childNodes.forEach((child) => {
-        const index = allElements.indexOf(child as HTMLElement);
-        if (index > -1) {
-          allElements.splice(index, 1);
-        }
-      });
+  return allElements;
+}
 
-      // Remove all interactable sub children
-      el.querySelectorAll("*").forEach((child) => {
-        const index = allElements.indexOf(child as HTMLElement);
-        if (index > -1 && isInteractable(child as HTMLElement)) {
-          allElements.splice(index, 1);
-        }
-      });
-    }
-  });
+function getElementsToTag(allElements: HTMLElement[], tagLeafTexts: boolean): HTMLElement[] {
+  const elementsToTag: HTMLElement[] = [];
 
   for(let el of allElements) {
     if (isEmpty(el) || !elIsClean(el)) {
@@ -224,24 +248,56 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
 
 
     if (isInteractable(el)) {
-      idToXpath[idNum] = getElementXPath(el);
-      idNum++;
+      elementsToTag.push(el);
     } else if (tagLeafTexts) {
-      for(let child of Array.from(el.childNodes)) {
-        if (child.nodeType === Node.TEXT_NODE && /\S/.test(child.textContent || "")) {
-          // This is a text node with non-whitespace text
-          idToXpath[idNum] = getElementXPath(el);
-          idNum++;
-        }
+      // Append the parent tag as it may have multiple individual child nodes with text
+      // We will tag them individually later
+      if (Array.from(el.childNodes).filter(isNonWhiteSpaceTextNode).length >= 1) {
+        elementsToTag.push(el);
       }
     }
   }
 
-  idNum = 0;
-  for(let el of allElements) {
-    if (isEmpty(el) || !elIsClean(el)) {
-      continue;
+  return elementsToTag;
+}
+
+function removeNestedTags(elementsToTag: HTMLElement[]): HTMLElement[] {
+  // An interactable element may have multiple tagged elements inside
+  // Most commonly, the text will be tagged alongside the interactable element
+  // In this case there is only one child, and we should remove this nested tag
+  // In other cases, we will allow for the nested tagging
+
+  const res = [...elementsToTag]
+  elementsToTag.map((el) => {
+
+    // Only interactable elements can have nested tags
+    if (isInteractable(el)) {
+      const elementsToRemove: HTMLElement[] = [];
+      el.querySelectorAll("*").forEach((child) => {
+        const index = res.indexOf(child as HTMLElement);
+        if (index > -1) {
+          elementsToRemove.push(child as HTMLElement);
+        }
+      });
+
+      // Only remove nested tags if there is only a single element to remove
+      if (elementsToRemove.length == 1) {
+        for(let element of elementsToRemove) {
+          res.splice(res.indexOf(element), 1);
+        }
+      }
     }
+  });
+
+  return res;
+}
+
+function insertTags(elementsToTag: HTMLElement[], tagLeafTexts: boolean): { [key: number]: string } {
+  const idToXpath: { [key: number]: string } = {};
+
+  let idNum = 0;
+  for(let el of elementsToTag) {
+    idToXpath[idNum] = getElementXPath(el);
 
     let idSpan = create_tagged_span(idNum, el);
 
@@ -253,20 +309,16 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
       }
       idNum++;
     } else if (tagLeafTexts) {
-      for(let child of Array.from(el.childNodes)) {
-        if (child.nodeType === Node.TEXT_NODE && /\S/.test(child.textContent || "")) {
-          // This is a text node with non-whitespace text
-          let idSpan = create_tagged_span(idNum, el);
-          el.insertBefore(idSpan, child);
-          idNum++;
-        }
+      for(let child of Array.from(el.childNodes).filter(isNonWhiteSpaceTextNode)) {
+        let idSpan = create_tagged_span(idNum, el);
+        el.insertBefore(idSpan, child);
+        idNum++;
       }
     }
   }
 
-  absolutelyPositionMissingTags();
   return idToXpath;
-};
+}
 
 function absolutelyPositionMissingTags() {
   /*
@@ -318,13 +370,13 @@ function absolutelyPositionMissingTags() {
       let fontSize = parseFloat(window.getComputedStyle(tag).fontSize.split("px")[0]);
       let otherFontSize = parseFloat(window.getComputedStyle(otherTag).fontSize.split("px")[0]);
 
-      while (
+      while(
         (tagRect.left < otherTagRect.right &&
           tagRect.right > otherTagRect.left) &&
         (tagRect.top < otherTagRect.bottom &&
           tagRect.bottom > otherTagRect.top) &&
         fontSize > 7 && otherFontSize > 7
-      ) {
+        ) {
         fontSize -= 0.5;
         otherFontSize -= 0.5;
         tag.style.fontSize = `${fontSize}px`;
@@ -346,6 +398,8 @@ window.removeTags = () => {
 const GOOGLE_MAPS_OPACITY_CONTROL = '__reworkd_google_maps_opacity';
 
 const hideMapElements = (): void => {
+  // Maps have lots of tiny buttons that need to be tagged
+  // They also have a lot of tiny text and are annoying to deal with for rendering
   // Also any element with aria-label="Map" aria-roledescription="map"
   const selectors = [
     'iframe[src*="google.com/maps"]',
@@ -391,11 +445,11 @@ const showMapElements = () => {
 }
 
 window.hideNonTagElements = () => {
-  const allElements = document.body.querySelectorAll("*");
+  const allElements = getAllElementsInAllFrames();
   allElements.forEach((el) => {
     const element = el as HTMLElement;
 
-    if (element.style.visibility){
+    if (element.style.visibility) {
       element.setAttribute(reworkdVisibilityAttr, element.style.visibility);
     }
 
@@ -408,13 +462,443 @@ window.hideNonTagElements = () => {
 };
 
 window.revertVisibilities = () => {
-  const allElements = document.body.querySelectorAll("*");
+  const allElements = getAllElementsInAllFrames();
   allElements.forEach((el) => {
     const element = el as HTMLElement;
-    if (element.getAttribute(reworkdVisibilityAttr)){
+    if (element.getAttribute(reworkdVisibilityAttr)) {
       element.style.visibility = element.getAttribute(reworkdVisibilityAttr) || "true";
     } else {
       element.style.removeProperty('visibility');
     }
   });
+};
+
+function hasDirectTextContent(element: HTMLElement): boolean {
+  const childNodesArray = Array.from(element.childNodes);
+  for (let node of childNodesArray) {
+    if (node.nodeType === Node.TEXT_NODE && node.textContent && node.textContent.trim().length > 0) {
+      return true;
+    }
+  }
+  return false;
 }
+
+window.hideNonColouredElements = () => {
+  const allElements = document.body.querySelectorAll("*");
+  allElements.forEach((el) => {
+    const element = el as HTMLElement;
+    if (element.style.visibility){
+      element.setAttribute(reworkdVisibilityAttr, element.style.visibility);
+    }
+
+    if (!element.hasAttribute('data-colored') || element.getAttribute('data-colored') !== 'true') {
+      element.style.visibility = 'hidden';
+    } else {
+      element.style.visibility = 'visible';
+    }
+  });
+}
+
+function getNextColors(totalTags: number): string[] {
+    const colors: string[] = [];
+    const step = Math.ceil(256 / Math.cbrt(totalTags)); // Adjusting the step based on the cube root
+
+    for (let r = 0; r < 256; r += step) {
+        for (let g = 0; g < 256; g += step) {
+            for (let b = 0; b < 256; b += step) {
+                colors.push(`rgb(${r}, ${g}, ${b})`);
+            }
+        }
+    }
+
+    // Shuffle colors to randomize the distribution
+    for (let i = colors.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [colors[i], colors[j]] = [colors[j], colors[i]];
+    }
+
+    // Ensure we return exactly totalTags colors
+    return colors.slice(0, totalTags);
+}
+
+
+function colorDistance(color1: string, color2: string): number {
+  const rgb1 = color1.match(/\d+/g)!.map(Number);
+  const rgb2 = color2.match(/\d+/g)!.map(Number);
+  return Math.sqrt(
+    Math.pow(rgb1[0] - rgb2[0], 2) +
+    Math.pow(rgb1[1] - rgb2[1], 2) +
+    Math.pow(rgb1[2] - rgb2[2], 2)
+  );
+}
+
+function assignColors(elements: HTMLElement[], colors: string[]): Map<HTMLElement, string> {
+    const colorAssignments = new Map<HTMLElement, string>();
+    const assignedColors = new Set<string>();
+
+    elements.forEach(element => {
+        let bestColor: string | null = null;
+        let maxMinDistance = -1;
+
+        colors.forEach(color => {
+            if (assignedColors.has(color)) return;
+
+            let minDistance = Infinity;
+            assignedColors.forEach(assignedColor => {
+                const distance = colorDistance(color, assignedColor);
+                minDistance = Math.min(minDistance, distance);
+            });
+
+            if (minDistance > maxMinDistance) {
+                maxMinDistance = minDistance;
+                bestColor = color;
+            }
+        });
+
+        if (bestColor) {
+            colorAssignments.set(element, bestColor);
+            assignedColors.add(bestColor);
+        } else {
+            // Fallback: Assign the first unassigned color if no bestColor is found
+            const remainingColors = colors.filter(c => !assignedColors.has(c));
+            bestColor = remainingColors[0];
+            colorAssignments.set(element, bestColor);
+            assignedColors.add(bestColor);
+        }
+    });
+
+    return colorAssignments;
+}
+
+
+window.colourBasedTagify = (tagLeafTexts = false): ColouredElem[] => {
+    const tagMapping = window.tagifyWebpage(tagLeafTexts);
+    window.removeTags();
+
+    const viewportWidth = window.innerWidth;
+    // Collect elements that have a bounding box > 0
+    const elements: HTMLElement[] = [];
+    Object.keys(tagMapping).forEach(id => {
+        const xpath = tagMapping[parseInt(id)];
+        // @ts-ignore
+        const element = document.evaluate(xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue as HTMLElement;
+        const rect = element?.getBoundingClientRect();
+        if (element && rect && (rect.width > 0 || rect.height > 0) && rect.left >= 0 && rect.right <= viewportWidth) {
+            element.setAttribute('data-id', id);  // Set the data-id attribute for later use
+            elements.push(element);
+        }
+    });
+
+    const totalTags = elements.length;
+    const colors = getNextColors(totalTags);
+    const colorAssignments = assignColors(elements, colors);
+
+    const colorMapping: ColouredElem[] = [];
+    const bodyRect = document.body.getBoundingClientRect();
+    const attribute = 'data-colored';
+    const taggedElements = new Set(Object.values(tagMapping));
+
+    elements.forEach(element => {
+        const id = parseInt(element.getAttribute('data-id')!);
+        const color = colorAssignments.get(element)!;
+        const rect = element.getBoundingClientRect();
+        const midpoint: [number, number] = [rect.left, rect.top];
+        const normalizedMidpoint: [number, number] = [
+            (midpoint[0] - bodyRect.left) / bodyRect.width,
+            (midpoint[1] - bodyRect.top) / bodyRect.height
+        ];
+        const idSymbol = createIdSymbol(id, element);
+        const { isFixed, fixedPosition } = getFixedPosition(element);
+
+        colorMapping.push({
+            id,
+            idSymbol,
+            color,
+            xpath: tagMapping[id],
+            midpoint,
+            normalizedMidpoint,
+            width: rect.width,
+            height: rect.height,
+            isFixed,
+            fixedPosition,
+            boundingBoxX: rect.x,
+            boundingBoxY: rect.y
+        });
+
+        element.style.setProperty('background-color', color, 'important');
+        element.style.setProperty('color', color, 'important');
+        element.style.setProperty('border-color', color, 'important')
+        element.style.setProperty('opacity', '1', 'important')
+        element.setAttribute(attribute, 'true');
+
+        if (element.tagName.toLowerCase() === 'a') {
+            const computedStyle = window.getComputedStyle(element);
+            if (computedStyle.backgroundImage !== 'none') {
+                element.style.backgroundImage = 'none';
+            }
+
+
+            let hasTextChild = false;
+            let hasImageChild = false;
+            Array.from(element.children).forEach(child => {
+                if (child.textContent && child.textContent.trim().length > 0) {
+                    hasTextChild = true;
+                }
+                if (child.tagName.toLowerCase() === 'img') {
+                    hasImageChild = true;
+                }
+            });
+
+            if (!hasTextChild && !hasImageChild && !hasDirectTextContent(element)) {
+                element.style.width = `${rect.width}px`;
+                element.style.height = `${rect.height}px`;
+                element.style.display = 'block';
+            }
+        }
+
+        Array.from(element.children).forEach(child => {
+            const childXpath = getElementXPath(child as HTMLElement);
+            const childComputedStyle = window.getComputedStyle(child);
+            if (!taggedElements.has(childXpath) && childComputedStyle.display !== 'none') {
+                (child as HTMLElement).style.visibility = 'hidden';
+            }
+        });
+    });
+
+    return colorMapping;
+};
+
+
+window.getElementHtmlByXPath = function(xpath: string): string {
+  try {
+    const result = document.evaluate(xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null);
+    const element = result.singleNodeValue as HTMLElement | null;
+    return element ? element.outerHTML : 'No element matches the provided XPath.';
+  } catch (error) {
+    console.error('Error evaluating XPath:', error);
+    return '';
+  }
+};
+
+function createIdSymbol(idNum: number, el: HTMLElement): string {
+  console.log("createIdSymbol called")
+  let idStr: string;
+  if (isInteractable(el)) {
+    if (isTextInsertable(el))
+      idStr = `[#${idNum}]`;
+    else if (el.tagName.toLowerCase() == 'a')
+      idStr = `[@${idNum}]`;
+    else
+      idStr = `[$${idNum}]`;
+  } else {
+    idStr = `[${idNum}]`;
+  }
+  return idStr;
+}
+
+window.createTextBoundingBoxes = () => {
+  const style = document.createElement('style');
+  document.head.appendChild(style);
+  if (style.sheet) {
+      style.sheet.insertRule(`
+          .highlighted-word {
+              border: 0.5px solid orange;
+              display: inline-block;
+              visibility: visible;
+          }
+      `, 0);
+  }
+
+  function applyHighlighting(root: Document | HTMLElement) {
+      root.querySelectorAll('body *').forEach(element => {
+          if (['SCRIPT', 'STYLE', 'IFRAME', 'INPUT', 'TEXTAREA'].includes(element.tagName)) {
+              return;
+          }
+          let childNodes = Array.from(element.childNodes);
+          childNodes.forEach(node => {
+              if (node.nodeType === 3 && node.textContent && node.textContent.trim().length > 0) {
+                  let newHTML;
+                  if (element.hasAttribute('selected')) {
+                      newHTML = `<span class="tarsier-highlighted-word">${node.textContent}</span>`;
+                  } else {
+                      newHTML = node.textContent.replace(/([\w',-]+[\w",\-\/\[\]]*[?.!,;]?)/g, '<span class="tarsier-highlighted-word">$1</span>');
+                  }
+                  let span = document.createElement('span');
+                  span.innerHTML = newHTML;
+                  if (node.parentNode) {
+                    node.parentNode.replaceChild(span, node);
+                }
+              }
+          });
+      });
+  }
+
+  applyHighlighting(document);
+
+  document.querySelectorAll('iframe').forEach(iframe => {
+      try {
+          iframe.contentWindow?.postMessage({ action: 'highlight' }, '*');
+      } catch (error) {
+          console.error("Error accessing iframe content: ", error);
+      }
+  });
+};
+
+window.documentDimensions = () => {
+  return {
+    width: document.documentElement.scrollWidth,
+    height: document.documentElement.scrollHeight
+  };
+};
+
+window.getElementBoundingBoxes = (xpath: string) => {
+  const element = document.evaluate(xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue as HTMLElement | null;
+  if (element) {
+    // Check if any child elements have the 'selected' attribute
+    const selectedChild = element.querySelector('option[selected]');
+
+    if (selectedChild) {
+      const parentRect = element.getBoundingClientRect();
+      return [{
+        text: selectedChild.textContent || '',
+        top: parentRect.top,
+        left: parentRect.left,
+        width: parentRect.width,
+        height: parentRect.height
+      }];
+    }
+
+    // Get all children with the 'tarsier-highlighted-word' class
+    const words = element.querySelectorAll('.tarsier-highlighted-word');
+    const boundingBoxes = Array.from(words).map(word => {
+      const rect = (word as HTMLElement).getBoundingClientRect();
+      return {
+        text: word.textContent || '',
+        top: rect.top,
+        left: rect.left,
+        width: rect.width,
+        height: rect.height
+      };
+    }).filter(box => box.width > 0 && box.height > 0); // do not include bounding boxes with zero width or height
+    return boundingBoxes;
+  } else {
+    return [];
+  }
+};
+
+function getFixedPosition(element: HTMLElement): { isFixed: boolean, fixedPosition: string } {
+  let isFixed = false;
+  let fixedPosition = 'none';
+  let currentElement: HTMLElement | null = element;
+
+  while (currentElement) {
+    const style = window.getComputedStyle(currentElement);
+    if (style.position === 'fixed') {
+      isFixed = true;
+      const rect = currentElement.getBoundingClientRect();
+      if (rect.top === 0) {
+        fixedPosition = 'top';
+      } else if (rect.bottom === window.innerHeight) {
+        fixedPosition = 'bottom';
+      }
+      break;
+    }
+    currentElement = currentElement.parentElement;
+  }
+
+  return { isFixed, fixedPosition };
+}
+
+window.checkHasTaggedChildren = (xpath: string) : boolean => {
+  const element = document.evaluate(xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue as HTMLElement | null;
+  if (element) {
+    const taggedChildren = element.querySelector('[data-colored="true"]');
+    return !!taggedChildren;
+  }
+  return false;
+};
+
+window.setElementVisibilityToHidden = (xpath: string) => {
+  const element = document.evaluate(xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue as HTMLElement | null;
+  if (element) {
+    element.style.visibility = 'hidden';
+  } else {
+    console.error(`Tried to hide element. Element not found for XPath: ${xpath}`);
+  }
+};
+
+window.reColourElements = (colouredElems: ColouredElem[]): ColouredElem[] => {
+  const totalTags = colouredElems.length;
+  const colors = getNextColors(totalTags);
+
+  // Get elements based on the xpaths
+  const elements: HTMLElement[] = colouredElems.map(elem => {
+    const element = document.evaluate(elem.xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue as HTMLElement;
+    element.setAttribute('data-id', elem.id.toString());
+    return element;
+  });
+
+  const colorAssignments = assignColors(elements, colors);
+
+  const bodyRect = document.body.getBoundingClientRect();
+
+  // Update the colours and return the updated ColouredElems
+  const updatedColouredElems = colouredElems.map(elem => {
+    const element = document.evaluate(elem.xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue as HTMLElement;
+    const color = colorAssignments.get(element)!;
+    const rect = element.getBoundingClientRect();
+    const midpoint: [number, number] = [rect.left, rect.top];
+    const normalizedMidpoint: [number, number] = [
+      (midpoint[0] - bodyRect.left) / bodyRect.width,
+      (midpoint[1] - bodyRect.top) / bodyRect.height
+    ];
+
+    element.style.setProperty('background-color', color, 'important');
+    element.style.setProperty('color', color, 'important');
+    element.style.setProperty('border-color', color, 'important')
+    element.style.setProperty('opacity', '1', 'important')
+    element.setAttribute('data-colored', 'true');
+
+    return {
+      ...elem,
+      color,
+      midpoint,
+      normalizedMidpoint,
+      width: rect.width,
+      height: rect.height,
+      boundingBoxX: rect.x,
+      boundingBoxY: rect.y
+    };
+  });
+
+  return updatedColouredElems;
+};
+
+window.disableTransitionsAndAnimations = () => {
+  const style = document.createElement('style');
+  style.innerHTML = `
+    *, *::before, *::after {
+      transition: none !important;
+      animation: none !important;
+    }
+  `;
+  style.id = 'disable-transitions';
+  document.head.appendChild(style);
+};
+
+window.enableTransitionsAndAnimations = () => {
+  const style = document.getElementById('disable-transitions');
+  if (style) {
+    style.remove();
+  }
+};
+
+// LEAVE AS LAST LINE. DO NOT REMOVE
+// JavaScript scripts, when run in the JavaScript console, will evaluate to the last line/expression in the script
+// This tag utils file will typically end in a function assignment
+// Function assignments will evaluate to the created function
+// If playwright .evaluate(JS_CODE) evaluates to a function, IT WILL CALL THE FUNCTION
+// This means that the last function in this file will randomly get called whenever we load in the JS,
+// unless we have something like this console.log (Which returns undefined) is placed at the end
+
+console.log("Tarsier tag utils loaded");

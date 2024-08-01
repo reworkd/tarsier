@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-bananalyzer = "^0.8.6"
+bananalyzer = "0.8.75"
 playwright = "^1.41.1"
 python-dotenv = "^1.0.1"
 tarsier = { path = "../", develop = true }

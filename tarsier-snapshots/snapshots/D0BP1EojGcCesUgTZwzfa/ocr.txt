@@ -1,141 +1,136 @@
----------------------------------------------------------------------------------------------
-[ @ 9 ]                   [ @ 16 ]
-                    [ $ 3 ]  [ $ 5 ]   [ $ 7 ] [ 10 ] Safety
- [ @ 1 ] ]                                                       [ $ 13 ] [ 17 ] Log in 7
-                 [ 4 ] Research [ 6 ] API✓ [ 8 ] ChatGPT ✓
-    **OpenAl**                                                  [ 14 ] Search [ @ 18 ] ]
-                      [ $ 11 ]
-                                                                          [ 19 ] Try ChatGPT >
-                   [ 12 ] Company ✓
-
-
- [ @ 20 ]
-  [ 21 ] Careers
-                                                [ 23 ] San Francisco, California, United States
-         **] Head of**                          Legal
-  **[ 22**
- **Commercial Legal**
+---------------------------------------------------------------------------------------------------------------------
+[ 1 ]                  [ $ 3 ] [ $ 4 ]   $ 5 ]  [ @ 6 ]    [ $ 7 ]                       [ $ 8 ] [ @ 10 ] [ @ 11 ]
+                                          [
+     OpenAl           Research   API✓  ChatGPT    Safety  Company                         Search Log in 7  Try ChatGPT
 
 
 
- [ @ 24 ]        [ 26 ] About the Team
-  [ 25 ] Apply now >
-                 [ 27 ] OpenAl's Legal team plays a crucial role in furthering OpenAl's
-                 mission by tackling innovative, fundamental legal issues in Al. If you're
-                 passionate about doing significant and unique work as a technology lawyer,
-                 this team is for you. The team comprises professionals from diverse fields,
-                 including technology, Al, privacy, IP, corporate, employment, tax law,
-                 regulatory, and litigation.
-
-                 [ 28 ] About the Role
-                 [ 29 ] OpenAl's Commercial and Go To Market initiatives have experienced
-                 significant growth, and we are now looking to expand our team with a
-                 seasoned legal leader. With expertise in large - scale B2B operations, the
-                 individual in this high - impact role will lead our commercial legal function,
-                 fostering excellence within OpenAl and the broader Al industry. You will
-                 manage our growing commercial legal team and report to our Global Head
-                 of Product, Privacy and Commercial Counsel.
-                 [ 30 ] This role is based in San Francisco, CA. We use a hybrid work model
-                 of 3 days in the office per week and offer relocation assistance to new
-                 employees.
-
-                 [ 31 ] In this role, you will:
-                  [ 33 ] Lead & Scale [ 32 ]: Build, manage, and motivate our commercial
-                  legal team to meet GTM growth, vendor, and procurement goals.
-                 • [ 35 ] Identify Strategic Partnerships [ 34 ] ]: Enhance our ability to
-                  negotiate and form pivotal strategic partnerships.
-                 • [ 37 ] Be Hands - on [ 36 ]: Engage personally in intricate deals, working
-                  collaboratively with various company functions.
-                 • [ 39 ] Define Success Metrics [ 38 ]: Craft and fine - tune metrics to
-                  gauge team success, reporting, and adapting to shifts in the commercial
-                  landscape.
-
-                 [ 40 ] We expect candidates to bring a blend of experience:
-
-                 • [ 41 ] 15+ years of legal experience in in - house and law firm roles
-                 • [ 42 ] A reputation for being a motivational and supportive leader of high-
-                  impact teams
-                 • [ 43 ] Successfully scaling tech enterprise / B2B focused Legal teams
-                 • [ 44 ] History of growing and leading teams managing strategic
-                  partnership / licensing negotiations
-                 • [ 45 ] Partnered closely with cross - functional teams, including Go To
-                  Market, Finance, Product, Security and more.
-                 • [ 46 ] JD degree from an accredited law school and membership in at
-                  least one state bar.
-
-                 [ 47 ] # LI - RA1
+  [ @ 12 ]
+  Careers
+                                                              [ 14 ] San Francisco, California, United States -
+     **13 ] Head of**                                         Legal
+  [
+  **Commercial Legal**
 
 
 
-                 [ 48 ] We are an equal opportunity employer and do not discriminate on the
-                 basis of race, religion, national origin, gender, sexual orientation, age,
-                 veteran status, disability or any other legally protected status. Pursuant to
-                 the San Francisco Fair Chance Ordinance, we will consider qualified
-                 applicants with arrest and conviction records.
-                 [ 49 ] We are committed to providing reasonable accommodations to
-                 applicants with disabilities, and requests can be made via
-                 this [ @ 51 ] link [ 50 ].
-                 [ @ 52 ] OpenAl US Applicant Privacy Policy
+  [ @ 15 ]            [ 16 ] About the Team
+  Apply now 7
+                      [ 17 ] OpenAl's Legal team plays a crucial role in furthering OpenAl's mission
+                      by tackling innovative, fundamental legal issues in Al. If you're passionate
+                      about doing significant and unique work as a technology lawyer, this team
+                      is for you. The team comprises professionals from diverse fields, including
+                      technology, Al, privacy, IP, corporate, employment, tax law, regulatory, and
+                      litigation.
 
-                 [ 53 ] Compensation, Benefits and Perks
-                 [ 54 ] Total compensation also includes generous equity and benefits.
+                      [ 18 ] About the Role
+                      [ 19 ] OpenAl's Commercial and Go To Market initiatives have experienced
+                      significant growth, and we are now looking to expand our team with a
+                      seasoned legal leader. With expertise in large - scale B2B operations, the
+                      individual in this high - impact role will lead our commercial legal function,
+                      fostering excellence within OpenAl and the broader Al industry. You will
+                      manage our growing commercial legal team and report to our Global Head
+                      of Product, Privacy and Commercial Counsel.
+                      [ 20 ] This role is based in San Francisco, CA. We use a hybrid work model of
+                      3 days in the office per week and offer relocation assistance to new
+                      employees.
 
-                 • [ 55 ] Medical, dental, and vision insurance for you and your family
-                 • [ 56 ] Mental health and wellness support
-                  [ 57 ] 401 ( k ) plan with 4 % matching
-                  [ 58 ] Unlimited time off and 18+ company holidays per year
-                  [ 59 ] Paid parental leave ( 20 weeks ) and family - planning support
-                 . [ 60 ] Annual learning & development stipend ( $ 1,500 per year )
-                 [ 61 ] Annual Salary Range
-                 [ 62 ] $ 365,000 [ 63 ] - [ 64 ] $ 365,000 USD
+                      [ 21 ] In this role, you will:
+                        [ 23 ] Lead & Scale [ 22 ]: Build, manage, and motivate our commercial
+                       legal team to meet GTM growth, vendor, and procurement goals.
+                        [ 25 ] Identify Strategic Partnerships [ 24 ]: Enhance our ability to
+                       negotiate and form pivotal strategic partnerships.
+                        [ 27 ] Be Hands - on [ 26 ]: Engage personally in intricate deals, working
+                       collaboratively with various company functions.
+                        [ 29 ] Define Success Metrics [ 28 ]: Craft and fine - tune metrics to gauge
+                       team success, reporting, and adapting to shifts in the commercial
+                       landscape.
 
-                 [ 65 ] About OpenAl
-                 [ 66 ] OpenAl is an Al research and deployment company dedicated to
-                 ensuring that general - purpose artificial intelligence benefits all of humanity.
-                 We push the boundaries of the capabilities of Al systems and seek to safely
-                 deploy them to the world through our products. Al is an extremely powerful
-                 tool that must be created with safety and human needs at its core, and to
-                 achieve our mission, we must encompass and value the many different
-                 perspectives, voices, and experiences that form the full spectrum of
-                 humanity.
-                 [ 67 ] At OpenAl, we believe artificial intelligence has the potential to help
-                 people solve immense global challenges, and we want the upside of Al to
-                 be widely shared. Join us in shaping the future of technology.
+                      [ 30 ] We expect candidates to bring a blend of experience:
 
-                 [ @ 68 ]
-                 [ 69 ] Apply now >
+                      • [ 31 ] 15+ years of legal experience in in - house and law firm roles
+                        [ 32 ] A reputation for being a motivational and supportive leader of high-
+                       impact teams
+                        [ 33 ] Successfully scaling tech enterprise / B2B focused Legal teams
+                        [ 34 ] History of growing and leading teams managing strategic
+                        partnership / licensing negotiations
+                        [ 35 ] Partnered closely with cross - functional teams, including Go To
+                       Market, Finance, Product, Security and more.
+                      ⋅ [ 36 ] JD degree from an accredited law school and membership in at least
+                       one state bar.
+
+                      [ 37 ] # LI - RA1
+
+
+
+                      [ 38 ] We are an equal opportunity employer and do not discriminate on the
+                      basis of race, religion, national origin, gender, sexual orientation, age,
+                      veteran status, disability or any other legally protected status. Pursuant to
+                      the San Francisco Fair Chance Ordinance, we will consider qualified
+                      applicants with arrest and conviction records.
+                      [ 39 ] We are committed to providing reasonable accommodations to
+                      applicants with disabilities, and requests can be made via
+                      this [ @ 41 ] link [ 40 ].
+                      [ @ 42 ] OpenAl US Applicant Privacy Policy
+
+                      [ 43 ] Compensation, Benefits and Perks
+                      [ 44 ] Total compensation also includes generous equity and benefits.
+
+                      • [ 45 ] Medical, dental, and vision insurance for you and your family
+                        [ 46 ] Mental health and wellness support
+                        [ 47 ] 401 ( k ) plan with 4 % matching
+                        [ 48 ] Unlimited time off and 18+ company holidays per year
+                        [ 49 ] Paid parental leave ( 20 weeks ) and family - planning support
+                        [ 50 ] Annual learning & development stipend ( $ 1,500 per year )
+                      [ 51 ] Annual Salary Range
+                      [ 52 ] $ 365,000 [ 53 ] - [ 54 ] $ 365,000 USD
+
+                      [ 55 ] About OpenAl
+                      [ 56 ] OpenAl is an Al research and deployment company dedicated to
+                      ensuring that general - purpose artificial intelligence benefits all of humanity.
+                      We push the boundaries of the capabilities of Al systems and seek to safely
+                      deploy them to the world through our products. Al is an extremely powerful
+                      tool that must be created with safety and human needs at its core, and to
+                      achieve our mission, we must encompass and value the many different
+                      perspectives, voices, and experiences that form the full spectrum of
+                      humanity.
+                      [ 57 ] At OpenAl, we believe artificial intelligence has the potential to help
+                      people solve immense global challenges, and we want the upside of Al to
+                      be widely shared. Join us in shaping the future of technology.
+
+                      [ @ 58 ]
+                      Apply now >
 
 
 
 
 
- [ @ 70 ]                        [ 71 ] Research [ 80 ] API     [ 89 ] ChatGPT [ 96 ] Company
-    OpenAl                       [ @ 72 ]       [ @ 81 ]        [ @ 90 ]       [ @ 97 ]
-                                 [ 73 ] Overview [ 82 ] Overview [ 91 ] Overview [ 98 ] About
-                                 [ @ 74 ]       [ @ 83 ]        [ @ 92 ]       [ @ 99 ]
-                                 [ 75 ] Index   [ 84 ] Data privacy [ 93 ] Enterprise [ 100 ] Blog
-                                 [ @ 76 ]       [ @ 85 ]        [ @ 94 ]       [ @ 101 ]
-                                 [ 77 ] GPT - 4 [ 86 ] Pricing  [ 95 ] Try ChatGPT > [ 102 ] Careers
-                                 [ @ 78 ]       [ @ 87 ]                       [ @ 103 ]
-                                 [ 79 ] DALL - E 3 [ 88 ] Docs                 [ 104 ] Charter
-                                                                               [ @ 105 ]
-                                                                               [ 106 ] Security
-                                                                               [ @ 107 ]
-                                                                               [ 108 ] Customer
-                                                                               stories
-                               **EFEL**                                        [ @ 109 ]
-                                                                               [ 110 ] Safety
+  [ @ 59 ]                                [ 60 ] Research     [ 65 ] API          [ 70 ] ChatGPT      [ 74 ] Company
+     OpenAl                               [ @ 61 ]            [ @ 66 ]            [ @ 71 ]            [ @ 75 ]
+                                          Overview            Overview            Overview           About
+                                          [ @ 62 ]            [ @ 67 ]            [ @ 72 ]            [ @ 76 ]
+                                          Index               Data privacy        Enterprise          Blog
+                                          [ @ 63 ]            [ @ 68 ]            [ @ 73 ]            [ @ 77 ]
+                                          GPT - 4             Pricing             Try ChatGPT >       Careers
+                                          [ @ 64 ]            [ @ 69 ]                                [ @ 78 ]
+                                          DALL - E 3          Docs 7                                  Charter
+                                                                                                      [ @ 79 ]
+                                                                                                     Security
+                                                                                                      [ @ 80 ]
+                                                                                                      Customer stories
+                                                                                                      [ @ 81 ]
+                                                                                                      Safety
 
 
 
 
 
- [ 111 ] OpenAl © 2015-2023      [ @ 118 ] [ @ 120 ]  [ @ 122 ] [ @ 124 ]    [ @ 126 ]
-  [ @ 112 ]                      [ 119 ] Twitter [ 121 ] YouTube [ 123 ] GitHub [ 125 ] SoundCloud [ 127 ] LinkedIn
- [ 113 ] Terms & policies
-  [ @ 114 ]
-  [ 115 ] Privacy policy
- [ @ 116 ]                          [ $ 128 ]
-  [ 117 ] Brand guidelines       [ 129 ] Back to top ↑
----------------------------------------------------------------------------------------------
-Token count: 1618
+  [ 82 ] OpenAl © 2015–2023               [ @ 86 ] [ @ 87 ] [ @ 88 ] [ @ 89 ] [ @ 90 ]
+  [ @ 83 ]                                Twitter YouTube GitHub  SoundCloud  LinkedIn
+  Terms & policies
+  [ @ 84 ]
+  Privacy policy
+  [ @ 85 ]                                   [ $ 91 ]
+  Brand guidelines                        Back to top ↑
+---------------------------------------------------------------------------------------------------------------------
+Token count: 1471

@@ -1,0 +1,314 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[@1] Products [@2] Applications [@3] Design Support           [@4] Community [@5] About Infineon          [@6] Careers
+                                                                                                                 [@7] Newsletter [@8] Contact [@9] Where to Buy [10] English [14] myInfineon [@25] Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        [@69] Home [@70] Products [@71] Power [@72] MOSFET Si/SiC                [@73] Silicon Carbide CoolSiC MOSFET             [@74] Silicon Carbide MOSFET Modules
+        [75] DF14MR12W1M1HF_B67
+       **[76] DF14MR12W1M1HF_B67**
+    [@77] Overview
+    [@78] Diagrams
+    [@79] Parametrics
+    [@80] Documents
+    [@81] Order
+    [@82] Design Support
+    [@83] Videos
+    [@84] Training                                                                                                                                              KB
+    [@85] Support
+                                     [86] Booster 1200 V CoolSiC           MOSFET Module
+                                     [87] EasyPACK [@89] EasyPACK 1B 1B 1200 V, 27 m and 2 MPPTs booster module with CoolSiC [@90] CoolSiC MOSFET MOSFET enhanced
+                                     generation 1, NTC and PressFIT [@91] PressFIT Contact Contact Technology Technology
+
+                                     [92] Summary of Features                                     [105] Benefits
+                                        [93] Best-in-class packages with 12 mm height                [106] Outstanding module efficiency which enables
+                                        [94] Combination of leading edge WBG material and
+                                        Easy module packages                                         [107] System efficiency improvement for reduced
+                                        [95] Very low module stray inductance
+                                        [96] Wide RBSOA
+                                        [97] 1200 V CoolSiC  MOSFET with enhanced
+                                        generation 1 trench technology
+                                        [98] Enlarged recommended gate drive voltage
+                                        window from 15         18 V 0 -5 V
+                                        [99] Extended maximum gate-source voltages of
+                                         23 V and -10 V
+                                        [100] T vjop [102] vjop under overload condition up to 175 C
+                                        [103] PressFIT pins
+                                        [104] Integrated NTC temperature sensor
+                                                                                                     system cost advantages
+                                                                                                     cooling requirements
+                                                                                                     [108] Enabling higher frequency to Increase power
+                                                                                                     density
+                                                                                                     [109] Best cost performance ratio which leads to
+                                                                                                     reduced system costs
+
+
+
+
+
+                                     [110] Applications
+                                       [@111] Photovoltaic
+
+                                     [112] Designers who used this product also designed with
+                                                                                                                                                                        [@113] Buy online
+
+
+
+                                                                                                                                                                  [@115] EN [@116] DE [@117] CN [@118] JA
+                                                                                                                                                                   [119] Share
+                                                                                                                                                                [120] 00_10 2022-11-24 pdf 857
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     **[122] Diagrams**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     **[126] Parametrics**
+                                      [127] Parametrics                                                  [128] DF14MR12W1M1HF_B67
+                                      [129] Applications                                                 [130] ESS EV Charger Solar UPS
+                                      [131] Configuration                                                [132] Booster
+                                      [133] Dimensions length                                            [134] 62. 8 mm
+                                      [135] Dimensions width                                             [136] 33. 8 mm
+                                      [137] Features                                                     [138] PressFIT
+                                      [139] Housing                                                      [140] Easy 1B
+                                      [141] Qualification                                                [142] Industrial
+                                      [143] R DS [145] DS on on Tj 25 C                                  [146] 27 m
+
+
+                                     **[147] Documents**
+                                      [148] Login [@149] Login to myInfineon to see all documents available
+                                         [150] Expand all
+
+                                           **[@151] Data Sheets**
+
+                                           **[@152] Application Notes**
+
+                                           **[@153] Product Qualification Report**
+
+                                           **[@154] Whitepaper**
+
+                                           **[@155] Article**
+
+                                           **[@156] Material Content Data Sheet**
+
+                                           **[@157] Editorials**
+
+                                           **[@158] Product Selection Guide**
+
+
+                                     **[159] Order**
+                                      [160] Sales Product Name                [161] DF14MR12W1M1HF_B67
+                                      [162] OPN Info                          [164] DF14MR12W1M1HFB67BPSA1
+                                      [165] Product Status                    [166] active and preferred
+                                      [167] Infineon Package name             [168] AG-EASY1B
+                                      [169] Standard Package name
+                                      [170] Order online                          [@171] Buy online
+                                      [172] Completely lead free              [173] no
+                                      [174] Halogen free                      [175] no
+                                      [176] RoHS compliant                    [177] yes
+                                      [178] Packing Size                      [179] 24
+                                      [180] Packing Type                      [181] TRAY
+                                      [182] Moisture Level                    [183] NA
+                                      [184] Moisture Packing                  [185] NON DRY
+
+
+                                     **[186] Design Support**
+
+                                                                                                                                                                                [@189] Clear All
+                                        [$190] Application                                [$191] Type
+                                                                                            [$192] Please select
+
+                                     [@193] All 1 [@194] PCB Design Data 1
+                                       [195] PCB Design Data
+                                                  [197] stp
+                                                  [198] DF14MR12W1M1HF_B67 - 3D-Model
+                                                  [199] 01_00 2023-02-13 3. 4 MB
+                                                                                                                                                                            [@200] Download
+                                                                                                                                                                          [201] Share [@202] EN
+
+
+                                     **[203] Videos**
+
+                                           **[@204] PressFIT technology**
+
+                                           **[@205] CoolSiC MOSFET 1200 V M1H webcast**
+
+
+                                     **[206] Training**
+
+                                           **[@207] Introduction to SiC reliability**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                           [208] This training covers the properties of Silicon Carbide which change the way how an inverter is designed compared to Si-chips. With that
+                                           in mind, we explain SiC specific degradation mechanisms and how to ensure that SiC devices survive in the application, considering
+                                           these special failure modes, by applying the reliability tests Infineon developed. These are internally mandatory for SiC device
+                                           qualifications to ensure better quality, safety, and reliable device performance for years.
+
+                                           **[@209] CoolSiC MOSFET in servo drive application**
+
+                                           **[@210] How to choose gate driver for SiC MOSFETs and SiC MOSFET modules**
+
+
+                                     **[211] Support**
+
+
+                                     [214] Top 6 FAQs. Use the search bar above to show more!
+                                        [215] Technical Support                               [230] Partner Finder for support,                     [235] Package information
+                                        [216] The best way to reach out to our                                                                      [236] The package information is available
+                                        Applications Engineers is through our                                                                       on our [@238] our homepage homepage Please note, that
+                                        Infineon [@226] Infineon Developer Developer Community Community                                            they are divided into the subcategories
+                                        Our Applications Engineers moderate                                                                          Leaded and through-hole,       Surface
+                                        the community to ensure all questions                                                                       Mounted Devices and Special
+                                        are answered quickly and accurately,                                                                        Packages You will find all relevant
+                                        either by others in the community or by                                                                     package information at the option that
+                                        our own engineers.                                                                                          applies.
+                                        If you have any further questions,
+                                        please submit your request via the
+                                        Infineon myCases portal. This is a
+                                        direct channel to get fast and easy
+                                        support [241] Information for your regarding needs. reflow profile, [252] We offer design-in support for your
+                                        To soldering register, temperature, Click on Register soldering for profile application.
+                                        myInfineon and further processing available at notes the top for right most You can use our Infineon Solution
+                                        corner of the discrete of the Infineon products homepage are mentioned and Finder
+                                        follow in the Application the instructions. Note.     https [@255] https www. www. infineon. infineon.
+                                        To Please take visit advantage of additional          **com/solutionFinder com/solutionFinder**
+                                        benefits https www. we recommend infineon. com/packages to register your Here you select the relevant
+                                        corporate and refer to email the document address. General
+                                        To Recommendations log-in, click on Login for Assembly to of narrow down your choice according to
+                                        myInfineon Infineon Packages                          your requirements.
+                                        By For clicking TO-packages on the please My Cases refer link, to these you
+                                        will recommendations be guided to the My Cases
+                                        Customer Portal.
+                                        You can visit the link directly through
+                                        http mycases. infineon. com
+                                        If any questions, please contact our
+                                        hotline, http www. infineon. com/call
+                                                                         [@229] Read more                                      [@234] Read more                                      [@239] Read more
+                                                                                              software, hardware, dev tools,
+                                                                                              services
+                                                                                              [231] Infineon s global network of partners
+                                                                                              offer products and services that
+                                                                                              complement our semiconductor device
+                                                                                              solutions to accelerate your
+                                                                                              development efforts and time to market.
+                                                                                              You can find them here
+                                                                                              https www. infineon.
+                                                                                              **com/partnerfinder**
+
+                                        [240] Notes on processing                             [251] Design-in support                               [257] Simulation Parameters/SPICE
+
+
+
+
+                                                                         [@250] Read more     parameters of your application [@256] Read and more                                    [@263] Read more
+                                                                                                                                                    models
+                                                                                                                                                    [258] Please visit our Simulation Model
+                                                                                                                                                    Finder on the internet at
+                                                                                                                                                    https [@262] https www. www. infineon. infineon. com/simulation com/simulation
+                                                                                                                                                    Please select Simulation Models
+                                                                                                                                                     SPICE, S-parameters, SABER
+                                                                                                                                                    If you cannot find your requested model
+                                                                                                                                                    there, please submit your request via
+                                                                                                                                                    the click to request model" button on
+                                                                                                                                                    the right handed side.
+                                                                                                                                                    Infineon uses only Spice and Saber
+                                                                                                                                                    models. These are a generally
+                                                                                                                                                    accepted standard that meets all
+                                                                                                                                                    simulation model requirements.
+
+
+                                                                                          [267] Follow us
+
+
+
+
+          [273] 1999 - 2023 Infineon Technologies AG    [@274] Usage of this website is subject to our Usage Terms                [@275] Imprint [@276] Contact [@277] Privacy Policy [@278] Glossary
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

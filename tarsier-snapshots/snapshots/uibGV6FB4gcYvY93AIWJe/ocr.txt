@@ -1,18 +1,16 @@
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 0 ]                                                                                                                                         [ @ 1 ] ONE EQUITY PARTNERS
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- [ @ 0 ]                                                                                                                                          [ @ 1 ] ONE EQUITY PARTNERS
 
 
                                                                            [ @ 2 ]
 
 
-                              [ @ 3 ] Home      [ @ 4 ] About Us       [ @ 5 ] Services       [ @ 6 ] Our Hospitals       [ @ 7 ] FAQs      [ @ 8 ] Careers      [ @ 9 ] Contact Us
+                               [ @ 3 ] Home      [ @ 4 ] About Us     [ @ 10 ] Services      [ @ 15 ] Our Hospitals      [ @ 16 ] FAQs      [ @ 17 ] Careers     [ @ 18 ] Contact Us
 
-                     [ $ 10 ] [ $ 11 ]     [ $ 12 ] ]    [ $ 13 ] ] [ $ 14 ]   [ $ 15 ]    [ $ 16 ]       [ $ 17 ]    [ $ 18 ]      [ $ 19 ]      [ $ 20 ]  [ $ 21 ]   [ $ 22 ]
-                       All    Arizona     California   Colorado      Idaho    Indiana     Montana      New Mexico      Ohio     South Carolina     Texas     Utah    Wisconsin
-                        [ $ 23 ]
-                      Wyoming
+                       [ 19 ] All [ 20 ] Arizona   ( 21 ) California [ 22 ] Colorado [ 23 ] Idaho  [ 24 ] Indiana  [ 25 ] Montana    [ 26 ] New Mexico    [ 27 ] Ohio
+                       [ 28 ] South Carolina   [ 29 ] Texas [ 30 ] Utah  ( 31 ) Wisconsin  [ 32 ] Wyoming
 
-                     [ @ 24 ]                                                  [ @ 26 ]                                                   [ @ 28 ]
+                     [ @ 33 ]                                                   [ @ 35 ]                                                   [ @ 37 ]
 
 
 
@@ -20,34 +18,34 @@
 
 
 
-                    [ @ 25 ] Denver Regional                                   [ @ 27 ] Green Bay                                         [ @ 29 ] Rehabilitation
-                    Rehabilitation Hospital                                    Rehabilitation Hospital                                    Hospital of Southern
+                     [ @ 34 ] Denver Regional                                   [ @ 36 ] Green Bay                                         [ @ 38 ] Rehabilitation
+                     Rehabilitation Hospital                                    **Rehabilitation Hospital**                               Hospital of Southern
                                                                                                                                           California
 
-                     [ @ 30 ]                                                  [ @ 32 ]                                                   [ @ 34 ]
-
-
-                                                                                                                                         Trust HOSPITA Phin
+                     [ @ 39 ]                                                   [ @ 41 ]                                                   [ @ 43 ]
 
 
 
 
-                     [ @ 31 ] Midlands Regional                                [ @ 33 ] Lexington Regional                                [ @ 35 ] Trustpoint
-                    Rehabilitation Hospital                                    Rehabilitation Hospital                                    Rehabilitation Hospital of
+
+
+
+                     [ @ 40 ] Midlands Regional                                 [ @ 42 ] Lexington Regional                               [ @ 44 ] Trustpoint
+                     **Rehabilitation Hospital**                               Rehabilitation Hospital                                    Rehabilitation Hospital of
                                                                                                                                           Lubbock
 
-                    [ @ 36 ]                                                   [ @ 38 ]                                                   [ @ 40 ]
+                     [ @ 45 ]                                                   [ @ 47 ]                                                   [ @ 49 ]
 
 
 
-                          SPARTANBURG ROTATION
 
 
 
-                     [ @ 37 ] Spartanburg                                      [ @ 39 ] Stockton Regional                                 [ @ 41 ] Sacramento
-                    Rehabilitation Institute                                   Rehabilitation Hospital                                    Rehabilitation Hospital
 
-                    [ @ 42 ]                                                   [ @ 44 ]                                                   [ @ 46 ]
+                     [ @ 46 ] Spartanburg                                       [ @ 48 ] Stockton Regional                                 [ @ 50 ] Sacramento
+                     Rehabilitation Institute                                  Rehabilitation Hospital                                    Rehabilitation Hospital
+
+                     [ @ 51 ]                                                   [ @ 53 ]                                                   [ @ 55 ]
 
 
 
@@ -55,25 +53,24 @@
                            OF THE NORTHWEST
 
 
-                    **[ @ 43 ] Rehabilitation**                                [ @ 45 ] Rehabilitation                                    [ @ 47 ] Northern Utah
-                    Hospital of the Northwest                                  Hospital of Northern                                       Rehabilitation Hospital
+                     [ @ 52 ] Rehabilitation                                    [ @ 54 ] Rehabilitation                                   [ @ 56 ] Northern Utah
+                     Hospital of the Northwest                                 Hospital of Northern                                       Rehabilitation Hospital
                                                                                Indiana
 
-                     [ @ 48 ]                                                  [ @ 50 ]                                                   [ @ 52 ]
+                     [ @ 57 ]                                                   [ @ 59 ]                                                   [ @ 61 ]
 
 
-                                                                                                                                                   WESLACO REGIONAL
-                                                                                                                                                   REHABILITATION HOSPITAL
+                                                                                                                                                    WESLACO REGIONAL
+                                                                                                                                                    REHABILITATION HOSPITAL
 
                                                                                                                                               906 S.James
 
 
-
-                     [ @ 49 ] Rehabilitation                                   [ @ 51 ] Laredo                                            [ @ 53 ] Weslaco Regional
+                     **[ @ 58 ] Rehabilitation**                               [ @ 60 ] Laredo                                             [ @ 62 ] Weslaco Regional
                     Hospital of Northern                                       **Rehabilitation Hospital**                                Rehabilitation Hospital
                     Arizona
 
-                     [ @ 54 ]                                                  [ @ 56 ]                                                   [ @ 58 ]
+                     [ @ 63 ]                                                   [ @ 65 ]                                                   [ @ 67 ]
 
 
 
@@ -81,22 +78,9 @@
 
 
 
-                    [ @ 55 ] Bakersfield                                       [ @ 57 ] Utah Valley                                       [ @ 59 ] South Texas
-                    Rehabilitation Hospital                                    Specialty Hospital                                         Rehabilitation Hospital
-
-                    [ @ 60 ] ]                                                 [ @ 62 ] ]                                                 [ @ 64 ]
-
-
-
-
-
-
-
-                     **[ @ 61 ] Rehabilitation**                               [ @ 63 ] Northern Idaho                                    [ @ 65 ] Northern Colorado
-                    Hospital of Southern New                                   Advanced Care Hospital                                     Rehabilitation Hospital
-                    Mexico
-
-                     [ @ 66 ]                                                  [ @ 68 ]                                                   [ @ 70 ]
+                     [ @ 64 ] Bakersfield                                      [ @ 66 ] Utah Valley                                       [ @ 68 ] South Texas
+                     Rehabilitation Hospital                                   Specialty Hospital                                         Rehabilitation Hospital
+                     [ @ 69 ]                                                   [ @ 71 ]                                                   [ @ 73 ]
 
 
 
@@ -104,91 +88,102 @@
 
 
 
-                    [ @ 67 ] Northern Colorado                                 [ @ 69 ] Mountain Valley                                   [ @ 71 ] Mesquite Specialty
+                     [ @ 70 ] Rehabilitation                                   [ @ 72 ] Northern Idaho                                     [ @ 74 ] Northern Colorado
+                    Hospital of Southern New                                   Advanced Care Hospital                                     **Rehabilitation Hospital**
+                     Mexico
+
+                     [ @ 75 ]                                                   [ @ 77 ]                                                   [ @ 79 ]
+
+
+
+
+
+
+
+                     [ @ 76 ] Northern Colorado                                 [ @ 78 ] Mountain Valley                                  [ @ 80 ] Mesquite Specialty
                     Long Term Acute Hospital                                   Regional Rehabilitation                                    Hospital
                                                                                Hospital
+                     [ @ 81 ]                                                   [ @ 83 ]                                                   [ @ 85 ]
 
-                    [ @ 72 ]                                                   [ @ 74 ]                                                   [ @ 76 ]
 
-
-                            MESQUITE REHABILITATION
-
+                             MESQUITE REHABILITATION
 
 
 
-                     [ @ 73 ] Mesquite                                          [ @ 75 ] Laredo Specialty                                 [ @ 77 ] Greenwood
-                    Rehabilitation Institute                                   Hospital                                                   Regional Rehabilitation
+
+                     [ @ 82 ] Mesquite                                          [ @ 84 ] Laredo Specialty                                 [ @ 86 ] Greenwood
+                     Rehabilitation Institute                                  Hospital                                                   Regional Rehabilitation
                                                                                                                                           Hospital
-
-                     [ @ 78 ]                                                  [ @ 80 ]                                                   [ @ 82 ]
-
+                     [ @ 87 ]                                                   [ @ 89 ]                                                   [ @ 91 ]
 
 
 
 
 
 
-                     [ @ 79 ] Elkhorn Valley                                   [ @ 81 ] Advanced Care                                     [ @ 83 ] Advanced Care
-                    Rehabilitation Hospital                                    Hospital of Southern New                                   Hospital of Montana
+
+                     [ @ 88 ] Elkhorn Valley                                    [ @ 90 ] Advanced Care                                     [ @ 92 ] Advanced Care
+                     Rehabilitation Hospital                                   Hospital of Southern New                                   Hospital of Montana
                                                                                Mexico
 
-                     [ @ 84 ]                                                  [ @ 86 ]                                                   [ @ 88 ]
+                     [ @ 93 ]                                                   [ @ 95 ]                                                   [ @ 97 ]
 
 
 
 
 
 
-                     [ @ 85 ] Lafayette Regional
-                                                                               [ @ 87 ] Rehabilitation                                    [ @ 89 ] Corpus Christi
-                    Rehabilitation Hospital
-                                                                               Hospital of Northwest Ohio                                 **Rehabilitation Hospital**
+                     [ @ 94 ] Lafayette Regional
+                                                                               [ @ 96 ] Rehabilitation                                    [ @ 98 ] Corpus Christi
+                     Rehabilitation Hospital
+                                                                               Hospital of Northwest Ohio                                 Rehabilitation Hospital
 
-                    [ @ 90 ]                                                   [ @ 92 ]
-
-
+                     [ @ 99 ]                                                   [ @ 101 ]
 
 
 
 
 
-                     [ @ 91 ] Bloomington                                      [ @ 93 ] New Braunfels
+
+
+                     **[ @ 100 ] Bloomington**                                 [ @ 102 ] New Braunfels
                     Regional Rehabilitation                                    Regional Rehabilitation
-                    Hospital                                                   Hospital
+                     Hospital                                                  Hospital
 
 
 
 
-                                                                                 **[ 94 ] Top 10 %**
-                                   PROUDLY RANKED
-                                           in the
-                                                                                 **[ 95 ] Recognized in the Nation's Top 10 %**
+                                                                                  **[ 103 ] Top 10 %**
+                                    PROUDLY RANKED
+                                            in the
+                                                                                  **[ 104 ] Recognized in the Nation's Top**
                                   **TOP 10 %**
-                                                                                 [ 96 ] Ernest Health's rehabilitation hospitals have been ranked by the Uniform Data System for Medical
-                                  RECOGNIZED NATIONALLY.
-                                      HEALING LOCALLY.                           Rehabilitation ( UDSMR ), a non - for - profit corporation that was developed with support from the National
-                                                                                Institute on Disability and Rehabilitation research, a component of the U.S. Department of Education. It
+                                   RECOGNIZED NATIONALLY.                        10 %
+                                      HEALING LOCALLY
+                                                                                 [ 105 ] Ernest Health's rehabilitation hospitals have been ranked by the Uniform Data System for Medical
+                                                                                 Rehabilitation ( UDSMR ), a non - for - profit corporation that was developed with support from the National
+                                                                                 Institute on Disability and Rehabilitation research, a component of the U.S. Department of Education. It
                                                                                  ranks rehabilitation facilities based upon care that is patient - centered, effective, efficient, and timely.
-                                                                                 [ 97 ] Through UDSMR, our hospitals collaborate with our peers throughout the United States to share
-                                                                                information and establish best practices for patients. This helps us elevate rehabilitative care for everyone
+                                                                                 [ 106 ] Through UDSMR, our hospitals collaborate with our peers throughout the United States to share
+                                                                                 information and establish best practices for patients. This helps us elevate rehabilitative care for everyone
                                                                                  across the United States.
 
 
 
-                     [ 98 ] About Ernest Health                                  [ 102 ] Guiding Principles
-                                                                                                                                                          **Ernest HealTH**
-                     [ 99 ] At Ernest Health, we provide specialized             [ 103 ] As our Guiding Principles state, we promote                      We are passionate patient
-                    medical and rehabilitative services to our patients                                            where                                                              caregivers
-                                                                                 a healing and nurturing environment
-                    through our rehabilitation and long - term acute care       everyone is treated with dignity and respect. We are
-                    hospitals. We treat patients who often are                  first and foremost passionate patient caregivers and
-                    recovering from disabilities caused by injuries or          team members, connected at our core by the                   [ 107 ] 1024 N. Galloway Ave., Suite 102
-                    illnesses, or from chronic or complex medical               treatment needs of our patients.                             [ 108 ] Mesquite, Texas 75149
-                    conditions.                                                                                                              [ 109 ] P [ @ 110 ] 972.216.2425 [ 111 ] F
-                                                                                 [ @ 104 ] [ 105 ] Read More                                 [ @ 112 ] 972.885.7090 [ 106 ] |
-                     [ @ 100 ] [ 101 ] Read More                                                                                             [ @ 113 ] Email
+                     [ 107 ] About Ernest Health                                  [ 110 ] Guiding Principles
+                                                                                                                                                           ERNEST HEALTH
+                     [ 108 ] At Ernest Health, we provide specialized            [ 111 ] As our Guiding Principles state, we promote a
+                    medical and rehabilitative services to our patients                                                                                    We are passionate patient caregivers
+                                                                                 healing and nurturing environment where everyone
+                    through our rehabilitation and long - term acute care        is treated with dignity and respect. We are first and
+                    hospitals. We treat patients who often are                   foremost passionate patient caregivers and team
+                    recovering from disabilities caused by injuries or           members, connected at our core by the treatment              [ 114 ] 1024 N. Galloway Ave., Suite 102
+                    illnesses, or from chronic or complex medical                needs of our patients.                                       [ 115 ] Mesquite, Texas 75149
+                    conditions.                                                                                                               [ 116 ] P [ @ 117 ] 972.216.2425 [ 118 ] F
+                                                                                 [ @ 112 ] Read More                                          [ @ 119 ] 972.885.7090 [ 113 ] | [ @ 120 ] Email
+                     [ @ 109 ] Read More
 
 
-                     [ 114 ] © Copyright - Ernest Health | 1024 N. Galloway Ave., Suite 102, Mesquite, Texas 75149                                                                          [ @
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1471
+                     [ 121 ] © Copyright - Ernest Health | 1024 N. Galloway Ave., Suite 102, Mesquite, Texas 75149                                                                           [ @ 1
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1421

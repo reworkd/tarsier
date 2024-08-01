@@ -1,29 +1,28 @@
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-IDAHO [ 1 ] Official Government Website                                                                        [ @ 2 ] Contact Us [ @ 3 ] About Us A [ 4 ] |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+IDAHO        Official Government Website                                                                                           [ @ 2 ] Contact Us   [ @ 3 ] About Us  A [ 4 ] |
 
 
 
-          [ @ 5 ] ]
-                                                                                                                    [ # 6 ]
-                **IDAHO**                                                                                                                     Q
-                                                                                                                    Agency Search
-          Department of Administration
-          STATE DIVISION OF PURCHASING
+            [ @ 5 ]
+                                                                                                                                       [ # 8 ]
+                 **IDAHO**                                                                                                                                         а
+                                                                                                                                      Agency Search
+            [ 6 ] Department of Administration      gate
+            [ 7 ] STATE DIVISION OF PURCHASING
 
- [ @ 8 ] Information for Vendors [ @ 9 ] Statewide Contracts ▾ [ @ 10 ] Templates and Forms [ @ 11 ] Exemptions  [ @ 12 ] Governing Laws and Policies
- [ @ 13 ] Training ▾ [ @ 14 ] Contract Administration ToolKit [ @ 15 ] Luma [ @ 16 ] Contact Us
-          [ @ 17 ] Home   [ 18 ] Statewide Contracts List View
- [ 19 ]
-          **Statewide Contracts List View**
+ [ @ 10 ] Information for Vendors    [ @ 11 ] Statewide Contracts ▼    [ @ 12 ] Templates and Forms     [ @ 13 ] Exemptions    [ @ 14 ] Governing Laws and Policies
+ [ @ 15 ] Training ▾   [ @ 16 ] Contract Administration ToolKit   [ @ 17 ] Luma   [ @ 18 ] Contact Us
+            [ @ 19 ] Home    [ 20 ] Statewide Contracts List View
+  [ 21 ]
+            **Statewide Contracts List View**
 
-             [ # 20 ]                                                                                                                           [ $ 2
-             Search for a Statewide Contract by Vendor, Contract Number, or by Category
+           [ # 22 ] earch for a Statewide Contract by Vendor, Contract Number, or by Category                                                                        [ $ 23
 
-             • [ @ 22 ] 22nd Century Technologies, Inc. ( Temporary Staffing Services ) SBPO20200075
-             ⚫ [ @ 23 ] Abbott Laboratories, Inc. ( Infant Formula Rebate ( WIC / NASPO ValuePoint ) PADD 19200325
-             . [ @ 24 ] Air Van, Inc. ( Moving Services to Chinden Campus ) SBPO19200501
-               [ @ 25 ] Allied Envelope ( Envelopes ) SBPO20220924
-             • [ @ 26 ] Allsteel ( Office Furniture and Related Services ) PADD20231522
-               [ @ 27 ] Amerigas ( Propane Fuel and Related Equipment ) SBPO20220916
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 373
+                  [ @ 24 ] 22nd Century Technologies, Inc. ( Temporary Staffing Services ) SBPO20200075
+               ⚫ [ @ 25 ] Abbott Laboratories, Inc. ( Infant Formula Rebate ( WIC / NASPO ValuePoint ) PADD19200325
+               ⚫ [ @ 26 ] Air Van, Inc. ( Moving Services to Chinden Campus ) SBPO19200501
+               ⚫ [ @ 27 ] Allied Envelope ( Envelopes ) SBPO20220924
+               ⚫ [ @ 28 ] Allsteel ( Office Furniture and Related Services ) PADD20231522
+                  [ @ 29 ] Amerigas ( Propane Fuel and Related Equipment ) SBPO20220916
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 393
