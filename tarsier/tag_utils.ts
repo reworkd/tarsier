@@ -244,7 +244,8 @@ function hasLabel(element: HTMLElement): boolean {
     return false;
   }
 
-  const label = document.querySelector(`label[for='${element.id}']`);
+  const escapedId = CSS.escape(element.id);
+  const label = document.querySelector(`label[for="${escapedId}"]`);
 
   if (label) {
     return true;
