@@ -7,6 +7,7 @@ interface Window {
 }
 
 const tarsierId = "__tarsier_id";
+const tarsierDataAttribute = "data-tarsier-id";
 const tarsierSelector = `#${tarsierId}`;
 const reworkdVisibilityAttr = "reworkd-original-visibility";
 
@@ -189,7 +190,10 @@ function create_tagged_span(idNum: number, el: HTMLElement) {
   idSpan.style.webkitTextFillColor = "white";
   idSpan.style.textShadow = "";
   idSpan.style.textDecoration = "none";
-  idSpan.style.letterSpacing = "0px";
+  idSpan.style.letterSpacing = "0px"
+
+  idSpan.setAttribute(tarsierDataAttribute, idNum.toString());
+
   return idSpan;
 }
 
@@ -201,7 +205,7 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
   const rawElementsToTag = getElementsToTag(allElements, tagLeafTexts);
   const elementsToTag = removeNestedTags(rawElementsToTag);
   const idToXpath = insertTags(elementsToTag, tagLeafTexts);
-  absolutelyPositionMissingTags();
+  absolutelyPositionMissingTags(idToXpath);
 
   return idToXpath;
 };
@@ -317,6 +321,9 @@ function insertTags(
       for (let child of Array.from(el.childNodes).filter(
         isNonWhiteSpaceTextNode,
       )) {
+        let parentXPath = getElementXPath(el);
+        let textNodeIndex = Array.from(el.childNodes).filter(isNonWhiteSpaceTextNode).indexOf(child) + 1;
+        idToXpath[idNum] = `(${parentXPath}/text())[${textNodeIndex}]`;
         let idSpan = create_tagged_span(idNum, el);
         el.insertBefore(idSpan, child);
         idNum++;
@@ -327,7 +334,7 @@ function insertTags(
   return idToXpath;
 }
 
-function absolutelyPositionMissingTags() {
+function absolutelyPositionMissingTags(idToXpath: { [key: number]: string }) {
   /*
   Some tags don't get displayed on the page properly
   This occurs if the parent element children are disjointed from the parent
@@ -335,16 +342,47 @@ function absolutelyPositionMissingTags() {
   */
   const distanceThreshold = 500;
 
-  const tags: NodeListOf<HTMLElement> =
-    document.querySelectorAll(tarsierSelector);
+  const tags: NodeListOf<HTMLElement> = document.querySelectorAll(tarsierSelector);
   tags.forEach((tag) => {
+
+    // The parent is the node containing the tag. The reference is the node the tag is attempting to tag
+    // These two will differ when the tag is for a textNode as a single parent tag can have multiple textNode children
     const parent = tag.parentElement as HTMLElement;
-    const parentRect = parent.getBoundingClientRect();
+
+    const tagId = parseInt(tag.getAttribute(tarsierDataAttribute) || "-1");
+    const xpath = idToXpath[tagId];
+    const reference = document.evaluate(
+      xpath,
+      document,
+      null,
+      XPathResult.FIRST_ORDERED_NODE_TYPE,
+      null
+    ).singleNodeValue;
+
+    if (!reference) {
+      console.error("Reference node not found for tag", tag, "with XPath", xpath);
+      return;
+    }
+
+    let referenceRect: DOMRect | null = null;
+    if (reference.nodeType === Node.TEXT_NODE) {
+      const range = document.createRange();
+      range.selectNodeContents(reference);
+      referenceRect = range.getBoundingClientRect();
+    } else if (reference.nodeType === Node.ELEMENT_NODE) {
+      referenceRect = (reference as Element).getBoundingClientRect();
+    }
+
+    if (!referenceRect) {
+      console.error("Could not get bounding client rect for reference node", reference);
+      return;
+    }
+
     let tagRect = tag.getBoundingClientRect();
 
     const parentCenter = {
-      x: (parentRect.left + parentRect.right) / 2,
-      y: (parentRect.top + parentRect.bottom) / 2,
+      x: (referenceRect.left + referenceRect.right) / 2,
+      y: (referenceRect.top + referenceRect.bottom) / 2,
     };
 
     const tagCenter = {
@@ -360,13 +398,13 @@ function absolutelyPositionMissingTags() {
       // Ensure the tag is positioned within the screen bounds
       let leftPosition = Math.max(
         0,
-        parentRect.left - (tagRect.right + 3 - tagRect.left),
+        referenceRect.left - (tagRect.right + 3 - tagRect.left),
       );
       leftPosition = Math.min(
         leftPosition,
         window.innerWidth - (tagRect.right - tagRect.left),
       );
-      let topPosition = Math.max(0, parentRect.top + 3); // Add some top buffer to center align better
+      let topPosition = Math.max(0, referenceRect.top + 3); // Add some top buffer to center align better
       topPosition = Math.min(
         topPosition,
         Math.max(window.innerHeight, document.documentElement.scrollHeight) -
