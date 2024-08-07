@@ -39,6 +39,16 @@ import pytest
             ["Enter text here"],
             ["#0"],
         ),
+        (
+            "mock_html/br_elem.html",
+            {
+                0: '(//html/body/div/text())[1]',
+                1: '(//html/body/div/text())[2]',
+                2: '(//html/body/div/text())[3]'
+            },
+            ["168 North Brent Street, Suite 401", "Ventura, CA 93003", "805-948-5093"],
+            ["[ 0 ]", " [ 1 ]", "[ 2 ]"],
+        )
     ],
 )
 async def test_combined_elements_page(
@@ -55,6 +65,8 @@ async def test_combined_elements_page(
     page_text, tag_to_xpath = await tarsier.page_to_text(
         async_page, tag_text_elements=True
     )
+    # print(expected_page_text)
+    # print(page_text)
 
     assert tag_to_xpath == expected_tag_to_xpath, (
         f"tag_to_xpath does not match expected output for "
@@ -62,6 +74,8 @@ async def test_combined_elements_page(
     )
 
     for expected_text in expected_page_text:
+        print(expected_text)
+        print(page_text)
         assert expected_text in page_text, (
             f"Expected text '{expected_text}' not found in page text for {html_file}. "
             f"Got: {page_text}"
