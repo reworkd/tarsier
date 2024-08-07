@@ -150,7 +150,7 @@ function getElementXPath(element: HTMLElement | null) {
     path_parts.unshift(prefix);
     element = element.parentNode as HTMLElement | null;
   }
-  return iframe_str + "//" + path_parts.join("/");
+  return transformXPath(iframe_str + "//" + path_parts.join("/"));
 }
 
 function create_tagged_span(idNum: number, el: HTMLElement) {
@@ -486,6 +486,10 @@ window.hideNonTagElements = () => {
     }
   });
 };
+
+function transformXPath(xpath: string): string {
+    return xpath.replace(/\/(\w+):(\w+)/g, '/*[name()="$1:$2"]');
+}
 
 window.revertVisibilities = () => {
   const allElements = getAllElementsInAllFrames();
