@@ -102,3 +102,6 @@ class Tarsier(ITarsier):
     async def remove_tags(self, driver: AnyDriver) -> None:
         adapter = adapter_factory(driver)
         await self._remove_tags(adapter)
+
+    async def _load_js(self, adapter: BrowserAdapter) -> None:
+        await adapter.run_js(self._js_utils)
