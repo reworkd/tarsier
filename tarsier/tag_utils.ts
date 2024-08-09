@@ -1,9 +1,11 @@
 // noinspection JSUnusedGlobalSymbols
 interface Window {
+  // these functions need to be accessed by playwright and therefore need to be called on the Window object
   tagifyWebpage: (tagLeafTexts?: boolean) => { [key: number]: string };
   removeTags: () => void;
   hideNonTagElements: () => void;
   revertVisibilities: () => void;
+  fixNamespaces: (xpath: string) => string;
 }
 
 const tarsierId = "__tarsier_id";
@@ -150,7 +152,7 @@ function getElementXPath(element: HTMLElement | null) {
     path_parts.unshift(prefix);
     element = element.parentNode as HTMLElement | null;
   }
-  return iframe_str + "//" + path_parts.join("/");
+  return window.fixNamespaces(iframe_str + "//" + path_parts.join("/"));
 }
 
 function create_tagged_span(idNum: number, el: HTMLElement) {
@@ -486,6 +488,14 @@ window.hideNonTagElements = () => {
     }
   });
 };
+
+window.fixNamespaces = (xpath: string): string => {
+    // Namespaces in XML give elements unique prefixes (e.g., "a:tag").
+    // Standard XPath with namespaces can fail to find elements.
+    // The `name()` function returns the full element name, including the prefix.
+    // Using "/*[name()='a:tag']" ensures the XPath matches the element correctly.
+    return xpath.replace(/\/(\w+):(\w+)/g, '/*[name()="$1:$2"]');
+}
 
 window.revertVisibilities = () => {
   const allElements = getAllElementsInAllFrames();
