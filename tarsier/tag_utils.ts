@@ -317,6 +317,11 @@ function insertTags(
       for (let child of Array.from(el.childNodes).filter(
         isNonWhiteSpaceTextNode,
       )) {
+        let parentXPath = getElementXPath(el);
+        let textNodeIndex = Array.from(el.childNodes).filter(isNonWhiteSpaceTextNode).indexOf(child) + 1;
+        let textNodeXPath = `(${parentXPath}/text())[${textNodeIndex}]`;
+
+        idToXpath[idNum] = textNodeXPath;
         let idSpan = create_tagged_span(idNum, el);
         el.insertBefore(idSpan, child);
         idNum++;
