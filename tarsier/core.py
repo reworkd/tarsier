@@ -86,7 +86,7 @@ class Tarsier(ITarsier):
     async def _tag_page(
         self, adapter: BrowserAdapter, tag_text_elements: bool = False
     ) -> Dict[int, str]:
-        await adapter.run_js(self._js_utils)
+        await self._load_tarsier_utils(adapter)
 
         script = f"return window.tagifyWebpage({str(tag_text_elements).lower()});"
         tag_to_xpath = await adapter.run_js(script)
@@ -94,7 +94,7 @@ class Tarsier(ITarsier):
         return {int(key): value for key, value in tag_to_xpath.items()}
 
     async def _remove_tags(self, adapter: BrowserAdapter) -> None:
-        await adapter.run_js(self._js_utils)
+        await self._load_tarsier_utils(adapter)
         script = "return window.removeTags();"
 
         await adapter.run_js(script)
@@ -103,5 +103,5 @@ class Tarsier(ITarsier):
         adapter = adapter_factory(driver)
         await self._remove_tags(adapter)
 
-    async def _load_js(self, adapter: BrowserAdapter) -> None:
+    async def _load_tarsier_utils(self, adapter: BrowserAdapter) -> None:
         await adapter.run_js(self._js_utils)

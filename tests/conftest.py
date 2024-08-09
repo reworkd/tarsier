@@ -5,15 +5,13 @@ from os import environ
 import pytest
 import pytest_asyncio
 from playwright.async_api import async_playwright
-from playwright.sync_api import sync_playwright, Page
+from playwright.sync_api import sync_playwright
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
 
 from tarsier import GoogleVisionOCRService, Tarsier, MicrosoftAzureOCRService
 from dotenv import load_dotenv
-
-from tarsier.adapter import adapter_factory, BrowserAdapter
 
 IN_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
 
@@ -90,10 +88,3 @@ def tarsier(credentials):
             raise ValueError("Invalid OCR provider")
 
     yield Tarsier(ocr_service)
-
-
-@pytest_asyncio.fixture()
-async def browser_adapter_with_js(async_page: Page, tarsier: Tarsier) -> BrowserAdapter:
-    adapter = adapter_factory(async_page)
-    await tarsier._load_js(adapter)
-    return adapter
