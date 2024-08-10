@@ -1,4 +1,4 @@
 from .core import Tarsier
-from .ocr import GoogleVisionOCRService, MicrosoftAzureOCRService
+from .ocr import DummyOCRService, GoogleVisionOCRService, MicrosoftAzureOCRService
 
-__all__ = ["Tarsier", "GoogleVisionOCRService", "MicrosoftAzureOCRService"]
+__all__ = ["Tarsier", "DummyOCRService", "GoogleVisionOCRService", "MicrosoftAzureOCRService"]

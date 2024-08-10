@@ -1,23 +1,26 @@
 import os
+
 import pytest
 import pytest_asyncio
 from playwright.async_api import Page
 
-from tarsier import Tarsier
+from tarsier import Tarsier, DummyOCRService
 from tarsier.adapter import adapter_factory, BrowserAdapter
 
 
 @pytest_asyncio.fixture()
-async def browser_adapter_with_js(async_page: Page, tarsier: Tarsier) -> BrowserAdapter:
+async def browser_adapter_with_js(async_page: Page) -> BrowserAdapter:
+    tarsier = Tarsier(DummyOCRService())
     adapter = adapter_factory(async_page)
     await tarsier._load_tarsier_utils(adapter)
     return adapter
 
 
 @pytest.mark.asyncio
-@pytest.mark.parametrize(
-    "input_tag, expected_output",
-    [
+async def test_fix_namespaces(browser_adapter_with_js):
+    # Manually define test cases to avoid recreating page for each test
+    # There are some issues with changing the playwright page fixtures to remain the same for the session/module
+    test_cases = [
         # Basic namespaced tags
         ("a:b", '*[name()="a:b"]'),
         ("foo:bar", '*[name()="foo:bar"]'),
@@ -43,14 +46,15 @@ async def browser_adapter_with_js(async_page: Page, tarsier: Tarsier) -> Browser
         # Tag name resembling a namespace (but isn't one)
         ("div:class", '*[name()="div:class"]'),
         ("ns3:div.class1", '*[name()="ns3:div"].class1'),
-    ],
-)
-async def test_fixNamespaces(browser_adapter_with_js, input_tag, expected_output):
-    result = await browser_adapter_with_js.run_js(f"fixNamespaces('{input_tag}')")
+    ]
 
-    assert (
-        result == expected_output
-    ), f"For {input_tag}, expected {expected_output} but got {result}"
+    for value in test_cases:
+        input_tag, expected_output = value
+        result = await browser_adapter_with_js.run_js(f"fixNamespaces('{input_tag}')")
+
+        assert (
+            result == expected_output
+        ), f"For {input_tag}, expected {expected_output} but got {result}"
 
 
 @pytest.mark.asyncio
