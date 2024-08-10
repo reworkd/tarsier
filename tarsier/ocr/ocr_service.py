@@ -25,7 +25,7 @@ class DummyOCRService(OCRService):
     A dummy OCR service that does nothing. Useful for when you don't ever use page_to_text
     """
 
-    def __init__(self):
+    def __init__(self) -> None:
         super().__init__("dummy")
 
     def annotate(self, image_file: bytes) -> ImageAnnotatorResponse:
