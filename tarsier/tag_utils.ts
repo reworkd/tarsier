@@ -1,9 +1,14 @@
 // noinspection JSUnusedGlobalSymbols
 interface Window {
+  // Playwright's .evaluate method runs javascript code in an isolated scope.
+  // This means that subsequent calls to .evaluate will not have access to the functions defined in this file
+  // since they will be in an inaccessible scope. To circumvent this, we attach the following methods to the
+  // window which is always available globally when run in a browser environment.
   tagifyWebpage: (tagLeafTexts?: boolean) => { [key: number]: string };
   removeTags: () => void;
   hideNonTagElements: () => void;
   revertVisibilities: () => void;
+  fixNamespaces: (tagName: string) => string;
 }
 
 const tarsierId = "__tarsier_id";
@@ -109,7 +114,10 @@ function getElementXPath(element: HTMLElement | null) {
       continue;
     }
 
-    let prefix = element.tagName.toLowerCase();
+    let tagName = element.tagName.toLowerCase();
+
+    let prefix = window.fixNamespaces(tagName);
+
     let sibling_index = 1;
 
     let sibling = element.previousElementSibling;
@@ -485,6 +493,24 @@ window.hideNonTagElements = () => {
       element.style.visibility = "visible";
     }
   });
+};
+
+window.fixNamespaces = (tagName: string): string => {
+    // Namespaces in XML give elements unique prefixes (e.g., "a:tag").
+    // Standard XPath with namespaces can fail to find elements.
+    // The `name()` function returns the full element name, including the prefix.
+    // Using "/*[name()='a:tag']" ensures the XPath matches the element correctly.
+    const validNamespaceTag = /^[a-zA-Z_][\w\-.]*:[a-zA-Z_][\w\-.]*$/;
+
+    // Split the tagName by '#' (ID) and '.' (class) to isolate the tag name part
+    const tagOnly = tagName.split(/[#.]/)[0];
+
+    if (validNamespaceTag.test(tagOnly)) {
+        // If it's a valid namespaced tag, wrap with the name() function
+        return tagName.replace(tagOnly, `*[name()="${tagOnly}"]`);
+    } else {
+        return tagName;
+    }
 };
 
 window.revertVisibilities = () => {
