@@ -19,10 +19,12 @@ class OCRService(ABC):
     def annotate(self, image_file: bytes) -> ImageAnnotatorResponse:
         pass
 
+
 class DummyOCRService(OCRService):
     """
     A dummy OCR service that does nothing. Useful for when you don't ever use page_to_text
     """
+
     def __init__(self):
         super().__init__("dummy")
 
