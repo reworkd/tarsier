@@ -10,7 +10,7 @@
                                                      [ 13 ] by [ @ 14 ] Leo Askan
 
 
-                             [ 15 ] Ivan is the founder of Photopea - an online photo editor - generating
+                             [ 15 ] Ivan is the founder of Photopea – an online photo editor - generating
                             $ 200K / month with 3 million unique visitors monthly in his 10th year.
 
                              [ 16 ] He started his project as a hobby and then started to earn money.
@@ -22,21 +22,20 @@
                              [ 19 ] --
 
                              [ 21 ] Question: Can you give us some information about your background?
-                             [ 22 ] Answer: I was born in Ukraine and moved to Czechia with my
-                            parents when I was 11. When I turned 18, I came to Prague to study at the
+                             [ 22 ] Answer: I was born in Ukraine and moved to Czechia with my parents
+                            when I was 11. When I turned 18, I came to Prague to study at the
                             university.
 
                              [ 23 ] Question: What did you study in the university?
                              [ 24 ] Answer: My major was in computer science.
 
-                             [ 25 ] Question: And at that time, I guess you were busy with flash games
+                            [ 25 ] Question: And at that time, I guess you were busy with flash games
                             and other stuff, right?
-                             [ 26 ] Answer: Yes, that's correct. I actually started making flash games
+                            [ 26 ] Answer: Yes, that's correct. I actually started making flash games
                             even before going to university. I began playing with flash around when I
                             was 15.
 
-                             [ 27 ] Question: Is it something related to your family, or was it your
-                            interest?
+                             [ 27 ] Question: Is it something related to your family, or was it your interest?
                              [ 28 ] Answer: It was more of a personal interest. My two cousins, who are
                             three years older than me, had a computer. I got really excited about it,
                             which led me to want my own computer. I got my first computer around
@@ -55,12 +54,12 @@
                              [ 32 ] Answer: Well, during my high school years, Flash was owned by
                             Macromedia, later bought by Adobe. I used Adobe Photoshop back then
                             and was quite proficient with it. While I continued making some flash
-                            games for money during my first years at the university, my main focus
-                            was on my studies. However, I got really excited about the web
-                            technologies emerging around then, like the Google Chrome browser, web
-                            games without Flash, web GL, and other new web technologies. I saw that
-                            web - based applications could be much more performant than they were
-                            five years ago with Internet Explorer. So, I transitioned from making Flash
+                            games for money during my first years at the university, my main focus was
+                            on my studies. However, I got really excited about the web technologies
+                            emerging around then, like the Google Chrome browser, web games
+                            without Flash, web GL, and other new web technologies. I saw that web-
+                            based applications could be much more performant than they were five
+                            years ago with Internet Explorer. So, I transitioned from making Flash
                             games to developing JavaScript games and monetized them with ads.
 
                              [ 33 ] Question: You found the missing feature of Adobe and decided to
@@ -72,28 +71,27 @@
                             analyze the file to provide a preview of its content, like showing how many
                             layers are there.
 
-                             [ 35 ] Question: Adobe didn't offer any features like this at the time, right?
-                             [ 36 ] Answer: Correct. Back then, if you wanted to open a PSD file, you
-                            had to buy Photoshop. There was no other way. You could open PSD files
-                            in GIMP, but it would open them without any styles or adjustment layers,
-                            so it wasn't accurate.
+                            [ 35 ] Question: Adobe didn't offer any features like this at the time, right?
+                            [ 36 ] Answer: Correct. Back then, if you wanted to open a PSD file, you had
+                            to buy Photoshop. There was no other way. You could open PSD files in
+                            GIMP, but it would open them without any styles or adjustment layers, so it
+                            wasn't accurate.
 
                              [ 37 ] Question: Do you have any advice for bootstrappers?
                              [ 38 ] Answer: One crucial piece of advice is to genuinely enjoy what you
                             are doing. Your project should be something you're passionate about,
                             almost like a hobby. If you're excited about your work, it will feel less like a
                             task and more like something you're eager to spend time on. For me,
-                            working on Photopea was akin to playing an instrument; it was something
-                            I did for enjoyment, not just as a job.
+                            working on Photopea was akin to playing an instrument; it was something I
+                            did for enjoyment, not just as a job.
 
-                             [ 39 ] When starting out, don't be intimidated by the idea of entering a
+                            [ 39 ] When starting out, don't be intimidated by the idea of entering a
                             crowded market or tackling complex tasks. Begin by focusing on the core,
                             essential features of your product, the ones that are most important and
                             useful. These don't have to be numerous or complicated; even a simplified
                             version of an existing product can be valuable if it addresses specific
-                            needs effectively. For example, I focused on essential features in
-                            Photopea that were either poorly implemented or missing in other
-                            software.
+                            needs effectively. For example, I focused on essential features in Photopea
+                            that were either poorly implemented or missing in other software.
 
                             [ 40 ] It's also important to recognize that you don't need to have everything
                             figured out from the start. You can develop your product gradually. Start
@@ -104,9 +102,9 @@
                              [ 41 ] --
                              [ 42 ] For more details, check our website.
                              [ @ 44 ] https://saastrappers.com/interviews/ivan-kutskir-photopea/
-                             [ 43 ] -
+                             [ 43 ] --
 
-                            [ @ 45 ] - Leo Askan [ @ 46 ] on November 26, 2023
+                             [ @ 45 ] -Leo Askan [ @ 46 ] on November 26, 2023
 
 
                               [ $ 47 ] 4   [ $ 48 ] 0   [ $ 49 ]
@@ -120,16 +118,17 @@
                               [ @ 51 ] POST COMMENT
 
                            [ @ 52 ] [ 53 ] Reassuring to see that it's totally alright if your product evolves from a basic
-                               MVP over time.
+                            ^ MVP over time.
                              1
-                               [ 54 ] I've definitely moved one step at a time to bring my current project together
-                               and it has shape - shifted significantly over the last 2 years.
+                               [ 54 ] I've definitely moved one step at a time to bring my current project together and
+                               it has shape - shifted significantly over the last 2 years.
                                [ @ 55 ] OddNugget [ 56 ] [ @ 57 ] 8 hours ago [ 58 ] [ @ 59 ] REPLY
 
 
 
-                                                          0                                [ $ 11 ]
-                              [ @ 6 ] ^ [ 7 ] 4 [ 8 ] Likes [ $ 9 ] [ @ 10 ] 1           A Report
+                                                                                           [ $ 11 ]
+                              [ @ 6 ]  [ 7 ] 4 [ 8 ] Likes [ $ 9 ] 0 [ @ 10 ] 1
+                                                                                         A Report
 
 
                                                [ 60 ] Trending on Indie Hackers
@@ -140,7 +139,7 @@
 
 
 
-                               [ 62 ] Showcase Your Black          [ 65 ] How I got 21k + views on
+                               [ 62 ] Showcase Your Black         [ 65 ] How I got 21k + views on
                                Friday Cyber Monday Deals          Reddit for my product launch
 
                                    [ 63 ] 70 comments →                [ 66 ] 30 comments →
@@ -163,8 +162,7 @@
                                           [ 74 ] Market insights that help you start and grow your
                                                            business.
                                                              [ # 75 ]
-                                                                                   [ $ 77 ]
-                                                                                    → >
+                                                                                   [ $ ← 77 ]
                                         Enter email address
 
 
@@ -179,10 +177,10 @@
              profitable online businesses, and connect with [ @ 99 ] Meetups [ @ 106 ] Highest Revenue [ @ 112 ] Start Here
              others who are starting and growing their own [ @ 100 ] Top Today [ @ 107 ] Side Projects [ @ 113 ] Podcasts
              companies.                                [ @ 101 ] Top This Week [ @ 108 ] Self - Funded [ @ 114 ] Contribute →
-              [ @ 83 ] Indie Hackers, Inc. [ 84 ] [ @ 85 ] FAQ [ @ 102 ] Top This Month [ @ 109 ] Add Yours →
+              [ @ 83 ] Ⓒ Indie Hackers, Inc. [ 84 ] [ @ 85 ] FAQ [ @ 102 ] Top This Month [ @ 109 ] Add Yours →
               [ 86 ] [ @ 87 ] Terms [ 88 ] [ @ 89 ] Privacy [ 90 ]. [ @ 103 ] Join →
-              [ @ 91 ] Manage Cookies [ 82 ] / [ @ 92 ] Policy [ 93 ]
-              [ 494 ] [ 95 ] [ 96 ]
-              fyσ
+              [ @ 91 ] Manage Cookies [ 82 ] / [ @ 92 ] Policy [ 93 ] [ @ 94 ]
+              [ 95 ] [ 96 ]
+                O
 ----------------------------------------------------------------------------------------------------------------------------
 Token count: 2041

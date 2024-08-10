@@ -155,7 +155,7 @@ function getElementXPath(element: HTMLElement | null) {
     path_parts.unshift(prefix);
     element = element.parentNode as HTMLElement | null;
   }
-  return iframe_str + "//" + path_parts.join("/");
+  return transformXPath(iframe_str + "//" + path_parts.join("/"));
 }
 
 function create_tagged_span(idNum: number, el: HTMLElement) {
@@ -246,13 +246,14 @@ function getElementsToTag(allElements: HTMLElement[], tagLeafTexts: boolean): HT
       continue;
     }
 
-
     if (isInteractable(el)) {
       elementsToTag.push(el);
     } else if (tagLeafTexts) {
       // Append the parent tag as it may have multiple individual child nodes with text
       // We will tag them individually later
-      if (Array.from(el.childNodes).filter(isNonWhiteSpaceTextNode).length >= 1) {
+      if (
+        Array.from(el.childNodes).filter(isNonWhiteSpaceTextNode).length >= 1
+      ) {
         elementsToTag.push(el);
       }
     }
@@ -269,7 +270,6 @@ function removeNestedTags(elementsToTag: HTMLElement[]): HTMLElement[] {
 
   const res = [...elementsToTag]
   elementsToTag.map((el) => {
-
     // Only interactable elements can have nested tags
     if (isInteractable(el)) {
       const elementsToRemove: HTMLElement[] = [];
@@ -500,25 +500,44 @@ window.hideNonColouredElements = () => {
 }
 
 function getNextColors(totalTags: number): string[] {
-    const colors: string[] = [];
-    const step = Math.ceil(256 / Math.cbrt(totalTags)); // Adjusting the step based on the cube root
+    let colors = [];
+    let step = Math.ceil(256 / Math.cbrt(totalTags));  // Start with the initial step size
 
-    for (let r = 0; r < 256; r += step) {
-        for (let g = 0; g < 256; g += step) {
-            for (let b = 0; b < 256; b += step) {
-                colors.push(`rgb(${r}, ${g}, ${b})`);
+    while (colors.length < totalTags) {
+        colors = [];  // Reset the colors array for each iteration
+        for (let r = 0; r < 256; r += step) {
+            for (let g = 0; g < 256; g += step) {
+                for (let b = 0; b < 256; b += step) {
+                    colors.push(`rgb(${r}, ${g}, ${b})`);
+                    if (colors.length >= totalTags) {
+                        // Stop generating colors once we reach the required amount
+                        break;
+                    }
+                }
+                if (colors.length >= totalTags) {
+                    break;
+                }
+            }
+            if (colors.length >= totalTags) {
+                break;
+            }
+        }
+
+        if (colors.length < totalTags) {
+            step--;  // Decrease the step to increase the number of generated colors
+            if (step <= 0) {
+                throw new Error("Step cannot be reduced further.");
             }
         }
     }
 
-    // Shuffle colors to randomize the distribution
+    // Optional: Shuffle colors to randomize the distribution
     for (let i = colors.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
         [colors[i], colors[j]] = [colors[j], colors[i]];
     }
 
-    // Ensure we return exactly totalTags colors
-    return colors.slice(0, totalTags);
+    return colors.slice(0, totalTags);  // Ensure we return exactly totalTags colors
 }
 
 
@@ -570,6 +589,9 @@ function assignColors(elements: HTMLElement[], colors: string[]): Map<HTMLElemen
     return colorAssignments;
 }
 
+function transformXPath(xpath: string): string {
+    return xpath.replace(/\/(\w+):(\w+)/g, '/*[name()="$1:$2"]');
+}
 
 window.colourBasedTagify = (tagLeafTexts = false): ColouredElem[] => {
     const tagMapping = window.tagifyWebpage(tagLeafTexts);
@@ -579,13 +601,15 @@ window.colourBasedTagify = (tagLeafTexts = false): ColouredElem[] => {
     // Collect elements that have a bounding box > 0
     const elements: HTMLElement[] = [];
     Object.keys(tagMapping).forEach(id => {
-        const xpath = tagMapping[parseInt(id)];
-        // @ts-ignore
-        const element = document.evaluate(xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue as HTMLElement;
-        const rect = element?.getBoundingClientRect();
-        if (element && rect && (rect.width > 0 || rect.height > 0) && rect.left >= 0 && rect.right <= viewportWidth) {
-            element.setAttribute('data-id', id);  // Set the data-id attribute for later use
-            elements.push(element);
+        let xpath = tagMapping[parseInt(id)];
+        const node = document.evaluate(xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+
+        if (node instanceof HTMLElement) {
+            const rect = node.getBoundingClientRect();
+            if (rect.width > 0 && rect.height > 0 && rect.left >= 0 && rect.right <= viewportWidth) {
+                node.setAttribute('data-id', id);
+                elements.push(node);
+            }
         }
     });
 
@@ -637,19 +661,28 @@ window.colourBasedTagify = (tagLeafTexts = false): ColouredElem[] => {
                 element.style.backgroundImage = 'none';
             }
 
-
             let hasTextChild = false;
             let hasImageChild = false;
+            let boundingBoxGreaterThanZero = rect.width > 0 && rect.height > 0;
+            let hasUnTaggedTextElement = false;
+
+            // Check for text nodes and images within child elements
             Array.from(element.children).forEach(child => {
-                if (child.textContent && child.textContent.trim().length > 0) {
+                const childElement = child as HTMLElement; // Type assertion to HTMLElement
+                if (childElement.textContent && childElement.textContent.trim().length > 0) {
                     hasTextChild = true;
                 }
-                if (child.tagName.toLowerCase() === 'img') {
+                if (childElement.tagName.toLowerCase() === 'img') {
                     hasImageChild = true;
+                }
+                // Check if child element itself is not tagged
+                const childXpath = getElementXPath(childElement);
+                if (!taggedElements.has(childXpath) && childElement.textContent && childElement.textContent.trim().length > 0) {
+                    hasUnTaggedTextElement = true;
                 }
             });
 
-            if (!hasTextChild && !hasImageChild && !hasDirectTextContent(element)) {
+            if ((!hasTextChild && !hasImageChild && !hasDirectTextContent(element) && !boundingBoxGreaterThanZero) || hasUnTaggedTextElement) {
                 element.style.width = `${rect.width}px`;
                 element.style.height = `${rect.height}px`;
                 element.style.display = 'block';
@@ -710,27 +743,35 @@ window.createTextBoundingBoxes = () => {
   }
 
   function applyHighlighting(root: Document | HTMLElement) {
-      root.querySelectorAll('body *').forEach(element => {
-          if (['SCRIPT', 'STYLE', 'IFRAME', 'INPUT', 'TEXTAREA'].includes(element.tagName)) {
-              return;
+    root.querySelectorAll('body *').forEach(element => {
+      if (['SCRIPT', 'STYLE', 'IFRAME', 'INPUT', 'TEXTAREA'].includes(element.tagName)) {
+        return;
+      }
+      let childNodes = Array.from(element.childNodes);
+      childNodes.forEach(node => {
+        if (node.nodeType === 3 && node.textContent && node.textContent.trim().length > 0) {
+          let textContent = node.textContent.replace(/\u00A0/g, ' '); // Replace non-breaking space with regular space
+          if (element.hasAttribute('selected')) {
+            // Create an outer span for elements with the 'selected' attribute
+            let span = document.createElement('span');
+            span.className = 'tarsier-highlighted-word';
+            span.textContent = textContent;
+            if (node.parentNode) {
+              node.parentNode.replaceChild(span, node);
+            }
+          } else {
+            // Create multiple inner spans for individual words or groups of words
+            let newHTML = textContent.replace(/(\([\w\s',&-:]+\)|[\w',&-:]+[\w",\-\/\[\]]*[?.!,;:]?)/g, '<span class="tarsier-highlighted-word">$1</span>');
+            let tempDiv = document.createElement('div');
+            tempDiv.innerHTML = newHTML;
+            while (tempDiv.firstChild) {
+              element.insertBefore(tempDiv.firstChild, node);
+            }
+            node.remove();
           }
-          let childNodes = Array.from(element.childNodes);
-          childNodes.forEach(node => {
-              if (node.nodeType === 3 && node.textContent && node.textContent.trim().length > 0) {
-                  let newHTML;
-                  if (element.hasAttribute('selected')) {
-                      newHTML = `<span class="tarsier-highlighted-word">${node.textContent}</span>`;
-                  } else {
-                      newHTML = node.textContent.replace(/([\w',-]+[\w",\-\/\[\]]*[?.!,;]?)/g, '<span class="tarsier-highlighted-word">$1</span>');
-                  }
-                  let span = document.createElement('span');
-                  span.innerHTML = newHTML;
-                  if (node.parentNode) {
-                    node.parentNode.replaceChild(span, node);
-                }
-              }
-          });
+        }
       });
+    });
   }
 
   applyHighlighting(document);
@@ -779,7 +820,12 @@ window.getElementBoundingBoxes = (xpath: string) => {
         width: rect.width,
         height: rect.height
       };
-    }).filter(box => box.width > 0 && box.height > 0); // do not include bounding boxes with zero width or height
+    }).filter(box =>
+      box.width > 0 &&
+      box.height > 0 &&
+      box.top >= 0 &&
+      box.left >= 0
+    );
     return boundingBoxes;
   } else {
     return [];
@@ -878,8 +924,19 @@ window.disableTransitionsAndAnimations = () => {
   const style = document.createElement('style');
   style.innerHTML = `
     *, *::before, *::after {
-      transition: none !important;
+      transition-property: none !important;
+      transition-duration: 0s !important;
+      transition-timing-function: none !important;
+      transition-delay: 0s !important;
       animation: none !important;
+      animation-name: none !important;
+      animation-duration: 0s !important;
+      animation-timing-function: none !important;
+      animation-delay: 0s !important;
+      animation-iteration-count: 1 !important;
+      animation-direction: normal !important;
+      animation-fill-mode: none !important;
+      animation-play-state: paused !important;
     }
   `;
   style.id = 'disable-transitions';

@@ -1,130 +1,126 @@
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 0 ] A Adobe Community                                                                                                                                    [ @ 4 ]  [ $ 5 ] Sign In
-                                                                                       Search this community                                           [ $ 3 ]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 4 ]    [ $ 5 ] Sign In
+      [ @ 0 ] A Adobe Community                                                                Search this community                                                  [ $ 3 ]
 
-             [ @ 6 ] Home > [ @ 7 ] Photoshop Eleme ... > [ @ 8 ] Discussions > [ 9 ] restore catalog fro ...                       [ 167 ] Related conversations
+              [ @ 6 ] Home > [ @ 7 ] Photoshop Elem ...     >   [ @ 8 ] Discussions > restore catalog from sd ...                                [ 166 ] Related conversations
 
-                          **[ 11 ] restore catalog from sd cards**                                                                 [ 168 ] Updated Nov 11, 2022 [ 169 ] [ @ 170 ] Lightroom
-                                                                                                                                   ecosystem ( Cloud - based ) Discussions
-              [ 10 ] 0                     [ @ 13 ] Jim28618690ppdu
-                                                                                                                                        [ @ 171 ] restoring photos from catalog to
-                                           [ 14 ] New Here [ 15 ], [ 16 ] Feb 27, 2023                                             computer
-                          [ @ 12 ]
-                                                                                                                                   [ @ 172 ] Hi! i lost some important photos from my
-                           [ 18 ] Can i use SD Card data to restore originals in Elements 7?                                       dropbox but i can see them in my lightroom
-                           [ 19 ] TOPICS [ 20 ] Import and export                                                                  catalog. Of cour ...
-                                                                                                                                   [ 173 ] Updated Nov 11, 2022 [ 174 ] [ @ 175 ] Lightroom
-                          © [ 22 ] 520   A [ 24 ] Translate   [ @ 26 ] Report                                                      ecosystem ( Cloud - based ) Discussions
-                                                                                                               [ $ 27 ] Reply
-                                                                                                                                        [ @ 176 ] Restore Presets
-                                                                                                                                   [ @ 177 ] Hi! I got a new phone and
-                    [ 28 ] 1 Correct answer                                                                                        redownloaded the app and logged in but my
-                                                                                                                                   presets are all gone! Does anyon ...
-                                      [ @ 30 ] Greg S. [ 31 ]  [ 32 ] Community Expert [ 33 ], [ 34 ] Feb 27, 2023                                                   [ @ 180 ]
-                                                                                                                                   [ 178 ] Updated Nov 09, 2022 [ 179 ] ]    Lightroom
-             [ @ 29 ]                                                                                                              Classic Discussions
-                                      [ 36 ] Are you still able to access your Elements 7 catalog. If so, I assume
-                                      that the photos lost on your hard drive appear as missing. In that case, you                      [ @ 181 ] Automatic ejects of SD cards
-                                      should copy the SD card originals to your replacement drive.                                  [ @ 182 ] I seem to have somewhere seen how to
-                                      [ 37 ] In the ideal case, you can replicate the path of the original photos to               avoid / unselect the above phnomenon. But fail to
-                                      the new drive, including the same drive letter and folder structure.                         find the proper ...
-                                      Hopefully, that will solve the problem. Otherwise, you will need to link the
-                                      missing files to the new location.                                                           [ 183 ] Updated Nov 09, 2022 [ 184 ] [ @ 185 ] Lightroom
-                                                                                                                                   Classic Discussions
-                                      [ 38 ] Try a test with one card and see what                                                      [ @ 186 ] Importing From SD Card
-                                      [ 35 ] ] ...                                                                                  [ @ 187 ] When importing photos from an SD
-                                            [ 40 ] Upvote  A [ 42 ] Translate                  [ @ 43 ]  Jump to                   card I only get the Copy as DNG and Copy
-                                                                                                                 answer
-                                                                                                                                   options at the top and I c ...
-                                                                                                                                     [ $ 188 ] 1  [ $ 189 ] 2
+                             **[ 10 ] restore catalog from sd cards**                                                                            [ 167 ] Updated Nov 11, 2022 [ 168 ] ] [ @ 169 ] Lightroom
+                                                                                                                                                ecosystem ( Cloud - based ) Discussions
+                [ 9 ] 0
+                                               [ @ 12 ] ] Jim28618690ppdu                                                                            [ @ 170 ] restoring photos from catalog to
+                                                [ 13 ] New Here [ 14 ], [ 15 ] Feb 27, 2023
+                             [ @ 11 ]                                                                                                           computer
+                                                                                                                                                 [ @ 171 ] Hi! i lost some important photos from my
+                             [ 17 ] Can i use SD Card data to restore originals in Elements 7?                                                  dropbox but i can see them in my lightroom
+                              [ 18 ] TOPICS [ 19 ] Import and export                                                                            catalog. Of cour ...
+                                                                                                                                                 [ 172 ] Updated Nov 11, 2022 [ 173 ] [ @ 174 ] Lightroom
+                             ©    [ 21 ] 520 A [ 23 ] Translate    [ 25 ] Report                                                                ecosystem ( Cloud - based ) Discussions
+                                                                                                                          [ $ 26 ] Reply
+                                                                                                                                                     [ @ 175 ] Restore Presets
+                                                                                                                                                 [ @ 176 ] ] Hi! I got a new phone and redownloaded
+                     [ 27 ] 1 Correct answer                                                                                                    the app and logged in but my presets are all
+                                                                                                                                                gone! Does anyon ...
+                                          [ @ 29 ] Greg S. [ 30 ] ]  [ 31 ] Community Expert [ 32 ], [ 33 ] Feb 27, 2023                         [ 177 ] Updated Nov 09, 2022 [ 178 ] [ @ 179 ] Lightroom Classic
+              [ @ 28 ]                                                                                                                          Discussions
+                                          [ 35 ] Are you still able to access your Elements 7 catalog. If so, I assume
+                                          that the photos lost on your hard drive appear as missing. In that case, you                               [ @ 180 ] Automatic ejects of SD cards
+                                          should copy the SD card originals to your replacement drive.                                           [ @ 181 ] I seem to have somewhere seen how to
+                                          [ 36 ] In the ideal case, you can replicate the path of the original photos to the                    avoid / unselect the above phnomenon. But fail to
+                                          new drive, including the same drive letter and folder structure.            Hopefully,                find the proper ...
+                                          that will solve the problem. Otherwise, you will need to link the missing files
+                                          to the new location.                                                                                   [ 182 ] Updated Nov 09, 2022 [ 183 ] [ @ 184 ] Lightroom Classic
+                                                                                                                                                Discussions
+                                          [ 37 ] Try a test with one card and see what                                                               [ @ 185 ] Importing From SD Card
+                                          [ 34 ] ...                                                                                             [ @ 186 ] When importing photos from an SD card
+                                                                                                                                                I only get the Copy as DNG and Copy options at
+                                                [ 39 ] Upvote    A [ 41 ] Translate                      [ @ 42 ]   Jump to answer
+                                                                                                                                                the top and I c ...
+                                                                                                                                                  [ $ 187 ] 1    [ $ 188 ] 2
 
-                   [ 44 ] 7 Replies                                                          [ @ 45 ] ] Jump to latest reply        [ 190 ] Resources
-                                                                                                                                    [ 191 ] Get Started ✓
-                                                                                                                                    [ 192 ] Troubleshooting
-                              [ @ 47 ] Greg_S.
-                              [ 48 ] Community Expert [ 49 ], [ 50 ] Feb 27, 2023                                                  [ 193 ] New features & Updates ▾
-             [ @ 46 ]
-             [ 52 ] Hi Jim. Can you please explain your question in more detail.
-                [ 54 ] Upvote   A [ 56 ] Translate  ( @ 58 ] Report                                            [ $ 59 ] Reply
-
-
-                                   [ @ 61 ] Jim28618690ppdu       [ 62 ] AUTHOR
-                                   [ 63 ] New Here [ 64 ], [ 65 ] Feb 27, 2023
-                  [ @ 60 ]
-                   [ 67 ] so, i lost half my photos due to a HD failure ( the last backup was a long time ago )
-                  however, i do have all my original SD cards and I'm thinking i can at least get my originals
-                  back. not sure if this will create duplicates, or if my catalog will recognize the image files and
-                  reconnect to my catalog .....
-                      [ 69 ] Upvote  A [ 71 ] Translate   ( @ 73 ] Report                                   [ $ 74 ] Reply
+                     [ 43 ] 7 Replies                                                                    [ @ 44 ] ] Jump to latest reply         [ 189 ] Resources
+                                                                                                                                                 [ 190 ] Get Started ✓
+                                                                                                                                                 [ 191 ] Troubleshooting
+                                 [ @ 46 ] Greg_S.
+                                 [ 47 ] Community Expert [ 48 ], [ 49 ] Feb 27, 2023                                                             [ 192 ] New features & Updates
+              [ @ 45 ]
+              [ 51 ] Hi Jim. Can you please explain your question in more detail.
+                  [ 53 ] Upvote   A [ 55 ] Translate     [ 57 ] Report                                                    [ $ 58 ] Reply
 
 
-
-                              [ @ 76 ]   [ 77 ] Correct answer by [ 78 ] Greg_S.
-                                  [ 79 ] Community Expert [ 80 ], [ 81 ] Feb 27, 2023
-             [ @ 75 ]
-             [ 83 ] Are you still able to access your Elements 7 catalog. If so, I assume that the photos lost on your
-             hard drive appear as missing. In that case, you should copy the SD card originals to your
-             replacement drive.
-             [ 84 ] In the ideal case, you can replicate the path of the original photos to the new drive, including
-             the same drive letter and folder structure. Hopefully, that will solve the problem. Otherwise, you will
-             need to link the missing files to the new location.
-             [ 85 ] Try a test with one card and see what happens.
-             ▲ [ 87 ] Upvote   A ( 89 ) Translate   ( @ 91 ) Report                                            [ $ 92 ] Reply
-
-
-                                   [ @ 94 ] Jim28618690ppdu       [ 95 ] AUTHOR
-                                   [ 96 ] New Here [ 97 ], [ 98 ] Mar 01, 2023
-                  [ @ 93 ]
-                   [ 100 ] Thanks! I got all my original files back from my SD cards. I did however lose some of my
-                  edited files. I now need to delete all the unfound / edited thumb nails from my catalog. I cant
-                  figure out how to do that ?? i somehow also created a bunch of duplicate thumb nails that are
-                  "? not found".
-                      [ 102 ] Upvote  A [ 104 ] Translate  ( @ 106 ] Report                                [ $ 107 ] Reply
+                                       [ @ 60 ] Jim28618690ppdu        [ 61 ] AUTHOR
+                                       [ 62 ] New Here [ 63 ], [ 64 ] Feb 27, 2023
+                     [ @ 59 ]
+                     [ 66 ] so, i lost half my photos due to a HD failure ( the last backup was a long time ago )
+                    however, i do have all my original SD cards and I'm thinking i can at least get my originals back.
+                    not sure if this will create duplicates, or if my catalog will recognize the image files and
+                    reconnect to my catalog .....
+                        [ 68 ] Upvote    A [ 70 ] Translate    [ 72 ] Report                                           [ $ 73 ] Reply
 
 
 
-                               [ @ 109 ] Greg_S.
-                               [ 110 ] Community Expert [ 111 ], [ 112 ] Mar 02, 2023
-             [ @ 108 ]
-             [ @ 115 ] @ Jim28618690ppdu [ 114 ] said: [ 116 ] now need to delete all the unfound / edited thumb
-             nails from my catalog. I cant figure out how to do that ??
-             [ 117 ] Select [ 120 ] Find > All Missing Files [ 118 ] ] from the menu and all of the missing files will be
-             displayed in the grid.   Select the thumbnails ( press [ [ 121 ] Ctrl + A [ 119 ] to select all of them ) and
-             delete them.
-
-             [ 122 ] Now, do I really have to tell you that it is time to backup your catalog and photos or will that be
-             rubbing salt into the wound? [ 123 ]
-
-
-                [ 125 ] Upvote  A [ 127 ] Translate   ( @ 129 ] Report                                       [ $ 130 ] Reply
+                                 [ @ 75 ] ]  [ 76 ] Correct answer by [ 77 ] Greg_S.
+                                      [ 78 ] Community Expert [ 79 ] [ 80 ] Feb 27, 2023
+              [ @ 74 ]
+              [ 82 ] Are you still able to access your Elements 7 catalog. If so, I assume that the photos lost on your
+              hard drive appear as missing. In that case, you should copy the SD card originals to your replacement
+              drive.
+              [ 83 ] In the ideal case, you can replicate the path of the original photos to the new drive, including the
+              same drive letter and folder structure.        Hopefully, that will solve the problem. Otherwise, you will need
+              to link the missing files to the new location.
+              [ 84 ] Try a test with one card and see what happens.
+                  [ 86 ] Upvote    A [ 88 ] Translate   [ 90 ] Report                                                     [ $ 91 ] Reply
 
 
-                                     [ @ 132 ] Jim28618690ppdu       [ 133 ] AUTHOR
-                                     [ 134 ] New Here [ 135 ], [ 136 ] Mar 02, 2023
-                   [ @ 131 ]
-                   [ 138 ] Already did a full backup last night! At least i had all my originals.
-                   [ 139 ] i do not see the [ 140 ] Find > All Missing Files [ 141 ] from the menu
-                   [ 142 ] i'm using elements 7
+                                       [ @ 93 ] Jim28618690ppdu        [ 94 ] AUTHOR
+                                       [ 95 ] New Here [ 96 ] [ 97 ] Mar 01, 2023
+                    [ @ 92 ]
+                     [ 99 ] Thanks! I got all my original files back from my SD cards. I did however lose some of my
+                    edited files. I now need to delete all the unfound / edited thumb nails from my catalog. I cant
+                    figure out how to do that ?? i somehow also created a bunch of duplicate thumb nails that are"
+                    ? not found".
 
-
-                      [ 144 ] Upvote  A [ 146 ] Translate  ( @ 148 ] Report                                [ $ 149 ] Reply
+                        [ 101 ] Upvote   A [ 103 ] Translate    [ 105 ] Report                                        [ $ 106 ] Reply
 
 
 
-                               [ @ 151 ] Greg S.
-                               [ 152 ] Community Expert [ 153 ], [ 154 ] Mar 02, 2023 [ 156 ] LATEST
-             [ @ 150 ]
-             [ 157 ] It looks like [ 159 ] Find > All Missing Files [ 158 ] was added in version 12. So, I don't think there
-             is an easy way to find missing files in version 7 other than by manually looking for a question mark
-             icon.
+                                  [ @ 108 ] Greg_S.
+                                  [ 109 ] Community Expert [ 110 ] [ 111 ] Mar 02, 2023
+              [ @ 107 ]
+              [ @ 114 ] @ Jim28618690ppdu [ 113 ] said: [ [ 115 ] I now need to delete all the unfound / edited thumb nails
+              from my catalog. I cant figure out how to do that ??
+              [ 116 ] Select [ 119 ] Find > All Missing Files [ 117 ] ] from the menu and all of the missing files will be
+              displayed in the grid.     Select the thumbnails ( press [ 120 ] Ctrl + A [ 118 ] to select all of them ) and delete
+              them.
 
-                [ 161 ] Upvote  A [ 163 ] Translate   ( @ 165 ] Report                                       [ $ 166 ] Reply
+              [ 121 ] Now, do I really have to tell you that it is time to backup your catalog and photos or will that be
+              rubbing salt into the wound? [ 122 ]
+
+
+                  [ 124 ] Upvote   A [ 126 ] Translate    [ 128 ] Report                                                [ $ 129 ] Reply
+
+
+                                        [ @ 131 ] Jim28618690ppdu         [ 132 ] AUTHOR
+                                        [ 133 ] New Here [ 134 ] [ 135 ] Mar 02, 2023
+                     [ @ 130 ]
+                     [ 137 ] Already did a full backup last night! At least i had all my originals.
+                     [ 138 ] i do not see the [ 139 ] Find > All Missing Files [ 140 ] from the menu
+                     [ 141 ] i'm using elements 7
+
+
+                        [ 143 ] Upvote    A [ 145 ] Translate   [ 147 ] Report                                        [ $ 148 ] Reply
 
 
 
+                                  [ @ 150 ] Greg_S.
+                                  [ 151 ] Community Expert [ 152 ], [ [ 153 ] Mar 02, 2023 [ 155 ] LATEST
+              [ @ 149 ]
+              [ 156 ] It looks like [ 158 ] Find > All Missing Files [ 157 ] was added in version 12. So, I don't think there is
+              an easy way to find missing files in version 7 other than by manually looking for a question mark icon.
+                  [ 160 ] Upvote   A [ 162 ] Translate    [ 164 ] Report                                                [ $ 165 ] Reply
 
-     [ 194 ] Copyright © 2023 Adobe. All rights reserved.
-[ $ 202 ] 195 ] Using the Community [ @ 196 ] Experience League @ 197 ] Terms of Use [ @ 198 ] Privacy [ @ 199 ] Cookie preferences [ @ 200 ] Do not sell or share my personal information
-     [ @ 201 ] AdChoices
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2008
+
+
+     [ 193 ] Copyright © 2023 Adobe. All rights reserved.
+[ $ 201 ] 194 ] Using the Community  [ @ 195 ] Experience League  [ @ 196 ] Terms of Use  [ @ 197 ] Privacy [ @ 198 ] Cookie preferences [ @ 199 ] Do not sell or share my personal information [ @ 200 ] AdChoices
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1998

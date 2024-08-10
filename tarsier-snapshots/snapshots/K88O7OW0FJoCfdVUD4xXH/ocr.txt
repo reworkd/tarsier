@@ -1,58 +1,58 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ ]         Medium                                                                                                                                                      [ @ 1 ]  Get started
+[ @ 0 ]       Medium                                                                                                                                                      [ @ 1 ]  Get started
 
-                                                                                                               MM M                      M              MMM
+                                                                                                              MM M                       M              MMM
                                                                                                            M              M M                    MM M
                                                                         M           MM                 MM             MMM MMM                           M
-[ 2 ]                                                                                                                         M M                M
-                                                                                            M          M              M                  M MM
-       **Stay curious.**                                                            MM                     MMMM               M M                   MM
-                                                                                                               M MM                  M M                    MM
-                                                                                                                                                 MM M
- **[ 3 ] Discover stories, thinking, and expertise from writers on May MopMMMM**
+[ 2 ]                                                                                                                         M M               M
+                                                                                           M           M              M                  M MM
+      **Stay curious.**                                                             MM                     MMMM M M                                 MM
+                                                                                                              M MM                   M M                    MM
+                                                                            **from writers on Mr Mopic MMM**                                    MM M
+ **[ 3 ] Discover stories, thinking, and expertise**
                                                                                                M M                M M MM MM M
                                                                             M           MM M                      M           MMMMM MM
-                                                                                                                              M M M                             M
+                                                                                                                              M M M                            M
             [ $ 4 ] Start reading
-                                                                                                                      M M                        MMMMM
+                                                                                                                      M M                       MMMMM
                                                                                     M              MM             M M MMMMMM
                                                                                                                                              MMM M
                                                                                                    MM             M MM MM                                   MM
 
              [ 5 ] Trending on Medium
-       [ 6 ] [ 7 ]         [ 8 ]
+       [ 6 ] [ 7 ]         [ @ 8 ]
                            The Bold Italic
                 [ @ 9 ]
                 Why now is the best time to live in San Francisco
                 [ 10 ] Dec 1 [ 11 ] [ 12 ] 6 min read
-       [ 13 ]                            [ 16 ] in [ @ 17 ]
-               [ 14 ]      [ 15 ]              UX Collective
+       **| [ 13 ]**                      [ 16 ] in [ @ 17 ]
+                [ @ 14 ] ] [ @ 15 ]            UX Collective
                            Natalie Worth
                 [ @ 18 ]
                 Is technology harming our brains?
                 [ 19 ] Nov 27 [ 20 ] [ 21 ] 4 min read
-       **[ 22**                                  [ 25 ] in [ @ 26 ]
-              ] [ 23 ]     [ 24 ]             。        The Writing Cooperative
+       [ 22 ] [ 23 ]                            [ 25 ] in [ @ 26 ]
+                           [ 24 ]                      The Writing Cooperative
                            Eva Lesko Natiello
                 [ @ 27 ]
                 How a Professor's One Piece of Advice Influenced My Entire Writing Career
                 [ 28 ] Nov 28 [ 29 ] [ 30 ] 5 min read
-       [ 31 ] [ 32                        [ 34 ] in [ @ 35 ]
-                     ]     [ 33 ]               The Generator
+       [ 31 ]                            [ 34 ] in [ @ 35 ]
+                [ 32 ]     [ 33 ]               The Generator
                            Thomas Smith
                 [ @ 36 ]
                 Did OpenAl Secretly Create a Brain - Like Intelligence After All?
                                                   [ $ 401
                 [ 37 ] Nov 26 [ 38 ] [ 39 ] 5 min read
 
-       [ 41 ]                           [ 44 ] in @ 45 ]
+       [ 41 ]                          [ 44 ] in [ @ 45 ]
                 [ @ 42 ]   [ @ 43 ]           The Airbnb Tech Blog
                            Clark Wright
                 [ @ 46 ]
                 Data Quality Score: The next chapter of data quality at Airbnb
-                [ 47 ] Nov 28 [ 48 ] [ 49 ] min read
-       [ 50 ] [                          [ 53 ] in [ @ 54 ]
-                   51 ]    [ @ 52 ]            The Taoist Online
+                [ 47 ] Nov 28 [ 48 ] [ 4919 min read
+       [ 50 ]                           [ 53 ] in [ @ 54 ]
+                [ @ 51 ]   [ @ 52 ]            The Taoist Online
                            Luka Bönisch
                 [ @ 55 ]
                 The Problem You Think You Have Is Never the Real Problem
@@ -60,8 +60,8 @@
 
 
  [ 59 ] Discover more of what matters to you
-       [ @ 60 ]             [ @ 61 ]            [ @ 62 ]          [ @ 63 ]                 [ @ 64 ]      [ @ 65 ]             [ @ 66 ]                 [ @ 67 ]           [ @ 68 ]
-         Programming          Data Science        Technology         Self Improvement        Writing        Relationships       Machine Learning         Productivity       Politics
+       [ @ 60 ]            [ @ 61 ]             [ @ 62 ]          [ @ 63 ]                 [ @ 64 ]      [ @ 65 ]            [ @ 66 ]                 [ @ 67 ]           [ @ 68 ]
+         Programming          Data Science        Technology         Self Improvement        Writing       Relationships       Machine Learning          Productivity      Politics
 
        [ @ 69 ] See more topics
 
@@ -73,181 +73,185 @@
 
       Why I've Ripped Out Performance Reviews for Over a Decade                                              EMPLOYEE
 
-       [ 73 ] Nov 27 [ 74 ] [ 75 ] 5 min read                                         [ @ 76 ]                 PERFORMANCE
+       [ 73 ] Nov 27 [ 74 ] [ 75 ] 5 min read                                         [ @ 76 ]                PERFORMANCE
 
                                                                                                                 EVALUATION
-                                                                                                                  Name :
-                                                                                                                   Department itle: raisal
+                                                                                                                  Name :  :
+                                                                                                                   Department itle:
 
-                                    [ 80 ] in [ @ 81 ]                                                [ @ 88 ]
-       [ @ 78 ]     [ @ 79 ]              Pinterest Design
+       [ @ 78                      [ [ 80 ] in [ @ 81 ]                                               [ @ 88 ]
+             ]     [ @ 79 ]              Pinterest Design
                    Minnie Bredouw
        [ @ 82 ]
-      The science behind inspiration and how to design more of it into your life
+       The science behind inspiration and how to design more of it into your life
                                        [ @ 86 ]
        [ 83 ] Nov 9 [ 84 ] [ 85 ] 8 min read                                          [ @ 87 ]
                                         Inspiration
 
 
-                                [ 91 ] in [ @ 92 ]                                                    [ @ 99 ]
-       [ @ 89 ]     [ @ 90 ]          The Medium Blog
+       [ @ 89 ]                [ 91 ] in [ @ 92 ]                                                     [ @ 99 ]
+                   [ @ 90 ]           The Medium Blog
                    Alex Benzer
        [ @ 93 ]
        Become a Friend of Medium                                                                           Friend of
-                                        [ @ 97 ]                                                           Medium
+                                         [ @ 97 ]                                                          Medium
        [ 94 ] Nov 27 [ 95 ] [ 96 ] 4 min read Medium                                  [ @ 98 ]
 
 
-                                          [ 102 ] in [ @ 103 ]                                        [ @ 111 ]
-       [ @ 100 ] M. [ @ 101 ]                     The Memoirist
+       [ @ 100                            [ 102 ] [ @ 103 ]                                           [ @ 111 ]
+              ] M. [ @ 101 ]          0          The Memoirist
                      Jacqueline Dooley
        [ @ 104 ]
       Sometimes The Cracks Get Too Big to Hold a Friendship Together
-                                            [ @ 108 ] [ $ 109 ]
-       [ 105 ] Nov 13 [ 106 ] [ 107 ] ] 7 min read Memoir +                          [ @ 110 ]
+                                             @ 108 ] [ $ 109 ]
+       [ 105 ] Nov 13 [ 106 ] [ 107 ] 7 min read Memoir                              [ @ 110 ]
 
 
-       [ @ 112 ]                                                                                      [ @ 120 ]
+       [ @ 1121                                                                                       [ @ 120 ]
                   [ @ 113 ]
                  Bryce Roberts                                                                                  INDIE
        [ @ 114 ]
        The Indie Era of Startups
-                                            [ @ 118 ]                                                    THE INDIE ERA OF
-       [ 115 ] Nov 28 [ 116 ] [ 117 ] min read                                       [ @ 119 ]
-                                             Startup                                                          STARTUPS
+                                            [ @ 118 ]                                                   THE INDIE ERA OF
+       [ 115 ] Nov 28 [ 116 ] [ 117 ] 7 min read Startup                             [ @ 119 ] N
+                                                                                                              STARTUPS
 
 
-        @ 121 ]                     [ 123 ] in [ @ 124 ]                                              [ @ 131 ]
-       [             [ @ 122 ]              Earth Genome
+       [ @ 121 ]                    [ 123 ] in [ @ 124 ]                                              [ @ 131 ]
+                     [ @ 122 ]              Earth Genome
                      Cameron Kruse
        [ @ 125 ]
        Food Twin: Stress Testing the U.S. Food System
                                             [ @ 129 ]
-       [ 126 ] Nov 16 [ 127 ] [ 128 ] 8 min read Climate Change                      [ @ 130 ]
+       [ 126 ] Nov 16 [ 127 ] [ 128 ] 8 min read                                    [ @ 130 ] [
+                                             Climate Change
 
 
-       [ @ 132 ]                     [ 134 ] in [ @ 135 ]                                             [ @ 143 ]
-                     [ @ 133 ]              Better Humans
+        @ 132 ]                     [ 134 ] [ @ 135 ]                                                 [ @ 143 ]
+       [             [ @ 133 ]              Better Humans
                      Jane Elliott PhD
        [ @ 136 ]                                                                                                  FOLLOW
        The Trouble With Teachability
-                                            [ @ 140 ]      [ $ 141 ]                                               THESE
-       [ 137 ] Nov 23 [ 138 ] [ 139 ] 6 min read                                     [ @ 142 ]                     STEPS
+                                            [ @ 140 ]     [ $ 141 ]                                                THESE
+       [ 137 ] Nov 23 [ 138 ] [ 139 ] 6 min read            +                       [ @ 142 ] [                    STEPS
                                              Psychology
 
 
-       [ @ 144 ]                  [ 146 ] in [ @ 147 ]                                                [ @ 155 ]
-                     [ @ 145 ]            Middle - Pause
+        @ 144 ]                   [ 146 ] in [ @ 147 ]                                                [ @ 155 ]
+       [             [ @ 145 ]           Middle - Pause
                      Mary DeVries
        [ @ 148 ]
       What I Wish We'd Done at the First Sign Mom Was Losing Her Memory
                                             [ @ 152 ]    [ $ 153 ]
-       [ 149 ] Aug 11 [ 150 ] [ 151 ] 8 min read Dementia  +                         [ @ 154 ] +
+       [ 149 ] Aug 11 [ 150 ] [ 151 ] min read Dementia                             [ @ 154 ]
 
 
        [ @ 156 ]                                                                                        [ @ 165 ]
-                  [ @ 157 ] 0                                                                             The No Homework
-                 Biz Stone
-                                                                                                       Policy
+                  [ @ 157 ]                                                                                    No Homework
+                 Biz Stone                                                                                The
+                                                                                                        Policy
        [ @ 158 ]
        The No Homework Policy
                                             [ @ 162 ]      [ $ 163 ]
-       [ 159 ] Nov 21 [ 160 ] [ 161 ] 4 min read             +                        [ @ 164 ]
-                                             High School
+       [ 159 ] Nov 21 [ 160 ] [ 161 ] 4 min read                                       [ @ 164 ]
+                                             High School     +
 
-       [ @ 166 ]                                [ 168 ] in [ @ 169 ]                                       [ @ 177 ]
-                   SYNERGY [ @ 167 ]                    SYNERGY
-                                Pernoste & Dahl                                                              How to Read a Poem
+                                               [ 168 ] [ @ 169 ]                                           [ @ 177 ]
+       [ @ 166 ] SYNERGY [ @ 167 ]                    SYNERGY
+                               Pernoste & Dahl                                                               How to Read a Poem
        [ @ 170 ]
        How to Read a Poem
                                             [ @ 174 ] [ $ 175 ]
-       [ 171 ] Nov 9 [ 172 ] [ 173 ] 10 min read          +                              [ @ 176 ]
+       [ 171 ] Nov 9 [ 172 ] [ 173 ] 10 min read                                         [ @ 176 ] [
                                              Blog
 
        [ @ 178 ]                                                             [ @ 186 ]
-                  [ @ 179 ]                                                    The Corporate Governance Failure at the Heart
-                 Duane Valz
+                  [ @ 179 ]                                                         Corporate Governance Failure at the Heart
+                 Duane Valz                                                    The
                                                                             of Sam Altman's Ouster from OpenAl
        [ @ 180 ]
-      The Corporate Governance Failure at the Heart of
+       The Corporate Governance Failure at the Heart of
        Sam Altman's Ouster from OpenAl
-                                             [ @ 184 ]     [ @ 185 ]
-       [ 181 ] Nov 20 [ 182 ] [ 183 ] 12 min read Governance
+                                                           [ @ 185 ]
+                                             [ @ 184 ]
+       [ 181 ] Nov 20 [ 182 ] [ 183 ] 12 min read Governance [
 
                                                   [ 189 ] in [ @ 190 ]                    [ @ 198 ]
-       [ @ 187 ] ILLUMINATION [ @ 188 ]                   ILLUMINATION
-                                      Mike Grindle                                          Frutiger Aero: When the Future
+       [ @ 187 ] ILLUMINATION [ @ 188 ]                  ILLUMINATION                                 Aero: When the Future
+                                     Mike Grindle                                           Frutiger
        [ @ 191 ]                                                                          Looked Optimistic
        Frutiger Aero: When the Future Looked Optimistic
                                             [ @ 195 ] [ 196 ]
-       [ 192 ] Nov 11 [ 193 ] [ 194 ] 8 min read Design +                [ @ 197 ]
+       [ 192 ] Nov 11 [ 193 ] [ 194 ] 8 min read Design +                [ @ 197 ] [
 
-                                              [ 201 ] in [ @ 202 ]                                       [ @ 210 ]
-       [ @ 199 ]   Fanfare [ @ 200 ]                 Fanfare                                                       40 with
-                             Jessicah Lahitou                                                               Being
+                                             [ 201 ] in [ @ 202 ]                                        [ @ 210 ]
+       [ @ 199 ]   Fanfare [ @ 200 ] ]               Fanfare
+                             Jessicah Lahitou                                                               Being 40 with
        [ @ 203 ]                                                                                         Beyoncé
        Being 40 with Beyoncé
                                             [ @ 207 ] [ $ 208 ]
-       [ 204 ] Oct 14 [ 205 ] [ 206 ] 6 min read Music                                  [ @ 209 ]
+       [ 204 ] Oct 14 [ 205 ] [ 206 ] 6 min read Music  +                               [ @ 209 ]
 
-                                                           [ 213 ] in [ @ 214 ]                      [ @ 221 ]
-       [ @ 211 ]  Towards Data Science [ @ 212 ]                  Towards Data Science
-                                              Ty Stephens                                             From Punch Cards to
-       [ @ 215 ]                                                                                    ChatGPT
+                                                         [ 213 ] in [ @ 214 ]                        [ @ 221 ]
+       [ @ 211 ] Towards Data Science [ @ 212 ] ]                Towards Data Science                  From Punch Cards to
+                                             Ty Stephens                                             ChatGPT
+       [ @ 215 ] ]
        From Punch Cards to ChatGPT
                                            [ @ 219 ]
-       [ 216 ] Nov 1 [ 217 ] [ 218 ] 9 min read ChatGPT                            [ @ 220 ]
+       [ 216 ] Nov 1 [ 217 ] [ 21819 min read ChatGPT                              [ @ 220 ] [
 
        [ @ 222 ]                                                                                               [ @ 231 ]
-                  [ @ 223 ]                                                                                           Long View
-                 Vicki Tan                                                                                       The
+                  [ @ 223 ]                                                                                      The Long View
+                 Vicki Tan
        [ @ 224 ]
-       The Long View
+      The Long View
                                              [ @ 228 ]     [ $ 229 ]
        [ 225 ] Oct 26 [ 226 ] [ 227 ] 17 min read Technology                                  [ @ 230 ]
 
                                                         [ 234 ] in [ @ 235 ]           [ @ 242 ]
-       [ @ 232 ]   The Medium Blog [ @ 233 ] ]                  The Medium Blog          What We're Reading: Are
-                                         Adrienne Gibbs                                                                you busy or
-       [ @ 236 ]                                                                      are you productive?
+       [ @ 232 ] The Medium Blog [ @ 233 ] ]                   The Medium Blog
+                                        Adrienne Gibbs                                   What We're Reading: Are you busy or
+       [ @ 236 ] ]                                                                     are you productive?
       What We're Reading: Are you busy or are you productive?
                                             [ @ 240 ]
-       [ 237 ] Nov 25 [ 238 ] [ 239 ] 4 min read What Were Reading   [ @ 241 ]
+       [ 237 ] Nov 25 [ 238 ] [ 239 ] 4 min read What Were Reading    [ @ 241 ]
 
-                                                     [ 245 ] in [ @ 246 ]          [ @ 254 ]
-       [ @ 243 ]  Age of Empathy [ @ 244 ]        。         Age of Empathy           Why Non - Traditional Thanksgivings Can
-                                       Holly Pettit
-       [ @ 247 ]                                                                  Be the Best Thanksgivings
+                                                     [ 245 ] [ @ 246 ]             [ @ 254 ]
+       [ @ 243 ] Age of Empathy [ @ 244 ]                   Age of Empathy
+                                      Holly Pettit                                   Why Non - Traditional Thanksgivings Can
+       [ @ 247 ]                                                                   Be the Best Thanksgivings
       Why Non - Traditional Thanksgivings Can Be the Best
        Thanksgivings
-                                            [ @ 251 ]             [ @ 253 ]
-       [ 248 ] Nov 11 [ 249 ] [ 250 ] 6 min read            [ $ 252 ] ]
-                                             Thanksgiving         W
+                                            [ @ 251 ] ]           [ @ 253 ]
+                                                            [ $ 252 ]
+       [ 248 ] Nov 11 [ 249 ] [ 250 ] 6 min read Thanksgiving
 
-                                                  [ 257 ] in [ @ 258 ]                  [ @ 266 ]
-       [ @ 255 ] The Startup [ @ 256 ] ]                 The Startup
-                                  Joe McCormick                                           How I Learned to Solve the Rubik's
-       [ @ 259 ]                                                                       Cube in 30 Seconds
+
+       [ @ 255 ] The                             [ 257 ] in [ @ 258 ]                   [ @ 266 ]
+                       Startup [ @ 256 ]                The Startup                       How I Learned to Solve the Rubik's
+                                  Joe McCormick
+       [ @ 259 ]                                                                        Cube in 30 Seconds
        How I Learned to Solve the Rubik's Cube in 30 Seconds
-                                                 [ @ 263 ] [ $ 264 ]
-       [ 260 ] Jan 27, 2021 [ 261 ] [ 262 ] 9 min read Puzzle +       [ @ 265 ]
+                                                  [ @ 263 ] $ 264 ]
+       [ 260 ] Jan 27, 2021 [ 261 ] [ 262 ] 9 min read Puzzle +        [ @ 265 ]
 
-       [ @ 267 ]                             [ @ 268 ]                                             [ @ 277 ]
-         Spark: Elevating Scholarship [ 269 ]      [ @ 270 ] r for Institutional Diversity           Safety for Black College
-       on Social Issues                           Spark: Elevating Scholarship on Social Issues    Students
+       [ @ 267 ] ]                           [ @ 268 ]                                             [ @ 277 ]
+         Spark: Elevating Scholarship        [ 269 ] on [ @ 270 ] for Institutional Diversity        Safety for Black College
+       on Social Issues                            Spark: Elevating Scholarship on Social Issues   Students
        [ @ 271 ]
        Safety for Black College Students
                                             [ @ 275 ]
-       [ 272 ] Nov 14 [ 273 ] [ 274 ] 6 min read    Education                     [ @ 276 ]
+       [ 272 ] Nov 14 [ 273 ] ] [ [ 274 ] 6 min read Education                    [ @ 276 ]
                                              Higher
 
        [ @ 278 ]                                                                                     [ @ 287 ]
-                  [ @ 279 ] 。                                                                          Five. Hundred. Million.
+                  [ @ 279 ]                                                                            Five. Hundred. Million.
                  Biz Stone
-                                                                                                    Dollars.
-       [ @ 280 ]
+                                                                                                     Dollars.
+       [ @ 2801
        Five. Hundred. Million. Dollars.
                                             [ @ 284 ]     [ $ 285 ]
-       [ 281 ] Nov 15 [ 282 ] ] [ [ 283 ] 9 min read Technology                    [ @ 286 ]
+       [ 281 ] Nov 15 [ 282 ] [ 28319 min read                                     [ @ 286 ]
+                                             Technology
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Token count: 2813

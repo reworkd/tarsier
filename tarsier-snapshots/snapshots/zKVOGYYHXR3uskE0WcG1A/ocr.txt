@@ -1,28 +1,28 @@
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-IDAHO        Official Government Website                                                                                           [ @ 2 ] Contact Us   [ @ 3 ] About Us  A [ 4 ] |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+IDAHO [ 1 ] Official Government Website                                                                                                                  [ @ 2 ] Contact Us      [ @ 3 ] About Us     A [ 4 ] |
 
 
 
-            [ @ 5 ]
-                                                                                                                                       [ # 8 ]
-                 **IDAHO**                                                                                                                                         а
-                                                                                                                                      Agency Search
-            [ 6 ] Department of Administration      gate
-            [ 7 ] STATE DIVISION OF PURCHASING
+              [ @ 5 ]
+                                                                                                                                                             [ # 8 ]
+                    **IDAHO**                                                                                                                                                                  Q
+                                                                                                                                                            Agency Search
+              [ 6 ] Department of Administration,
+              [ 7 ] STATE DIVISION OF PURCHASING
 
- [ @ 10 ] Information for Vendors    [ @ 11 ] Statewide Contracts ▼    [ @ 12 ] Templates and Forms     [ @ 13 ] Exemptions    [ @ 14 ] Governing Laws and Policies
- [ @ 15 ] Training ▾   [ @ 16 ] Contract Administration ToolKit   [ @ 17 ] Luma   [ @ 18 ] Contact Us
-            [ @ 19 ] Home    [ 20 ] Statewide Contracts List View
+  [ @ 10 ] Information for Vendors         [ @ 11 ] Statewide Contracts ▾          [ @ 12 ] Templates and Forms           [ @ 13 ] Exemptions       [ @ 14 ] Governing Laws and Policies
+ [ @ 15 ] Training ▾       [ @ 16 ] Contract Administration ToolKit          [ @ 17 ] Luma      [ @ 18 ] Contact Us
+              [ @ 19 ]  Home      [ 20 ] Statewide Contracts List View
   [ 21 ]
-            **Statewide Contracts List View**
+              **Statewide Contracts List View**
 
-           [ # 22 ] earch for a Statewide Contract by Vendor, Contract Number, or by Category                                                                        [ $ 23
+                  Search for a Statewide Contract by Vendor, Contract Number, or by Category                                                                                                    [ $ 24
 
-                  [ @ 24 ] 22nd Century Technologies, Inc. ( Temporary Staffing Services ) SBPO20200075
-               ⚫ [ @ 25 ] Abbott Laboratories, Inc. ( Infant Formula Rebate ( WIC / NASPO ValuePoint ) PADD19200325
-               ⚫ [ @ 26 ] Air Van, Inc. ( Moving Services to Chinden Campus ) SBPO19200501
-               ⚫ [ @ 27 ] Allied Envelope ( Envelopes ) SBPO20220924
-               ⚫ [ @ 28 ] Allsteel ( Office Furniture and Related Services ) PADD20231522
-                  [ @ 29 ] Amerigas ( Propane Fuel and Related Equipment ) SBPO20220916
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 393
+                 •   [ @ 25 ] 22nd Century Technologies, Inc. ( Temporary Staffing Services ) SBPO20200075
+                     [ @ 26 ] Abbott Laboratories, Inc. ( Infant Formula Rebate ( WIC / NASPO ValuePoint ) PADD19200325
+                    [ @ 27 ] Air Van, Inc. ( Moving Services to Chinden Campus ) SBP019200501
+                     [ @ 28 ] Allied Envelope ( Envelopes ) SBPO20220924
+                     [ @ 29 ] Allsteel ( Office Furniture and Related Services ) PADD20231522
+                     [ @ 30 ] Amerigas ( Propane Fuel and Related Equipment ) SBPO20220916
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 381

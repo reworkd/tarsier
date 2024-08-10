@@ -67,28 +67,28 @@ async def snapshot_example(
         print(f"{prefix} Snapshotting {example.id}")
         await page.goto(example.get_static_url())
         await page.wait_for_timeout(3000)
-        # image, _ = await tarsier.page_to_image(page, tag_text_elements=True)
+        image, _ = await tarsier.page_to_image(page, tag_text_elements=True)
         # page_text, _ = await tarsier.page_to_text(page, tag_text_elements=True)
-        page_text_new, _ = await tarsier.page_to_text_new(page, tag_text_elements=True)
+        page_text_colour_tagged, _ = await tarsier.page_to_text_colour_tag(page, tag_text_elements=True)
         await page.close()
 
         # Create the directory if it doesn't exist
         example_path.mkdir(parents=True, exist_ok=True)
 
-        # with open(example_path / "screenshot.png", "wb") as f:
-        #     f.write(image)
-        #     print(f"{prefix} Writing screenshot to {example_path / 'screenshot.png'}")
-        #
-        # with open(example_path / "ocr.txt", "w") as f:
-        #     page_text_with_token_count = (
-        #         page_text + f"\nToken count: {counter.count(page_text)}"
-        #     )
-        #     f.write(page_text_with_token_count)
-        #     print(f"{prefix} Writing OCR text to {example_path / 'ocr.txt'}")
+        with open(example_path / "screenshot.png", "wb") as f:
+            f.write(image)
+            print(f"{prefix} Writing screenshot to {example_path / 'screenshot.png'}")
 
-        with open(example_path / "non_ocr_2.txt", "w") as f:
-            f.write(page_text_new)
-            print(f"{prefix} Writing non OCR text to {example_path / 'non_ocr.txt'}")
+        with open(example_path / "ocr.txt", "w") as f:
+            page_text_with_token_count = (
+                page_text_colour_tagged + f"\nToken count: {counter.count(page_text_colour_tagged)}"
+            )
+            f.write(page_text_with_token_count)
+            print(f"{prefix} Writing OCR text to {example_path / 'ocr.txt'}")
+
+        # with open(example_path / "non_ocr.txt", "w") as f:
+        #     f.write(page_text_colour_tagged)
+        #     print(f"{prefix} Writing non OCR text to {example_path / 'non_ocr.txt'}")
         print(f"{prefix} Finished snapshotting {example.id}")
 
 
@@ -104,8 +104,8 @@ async def generate_snapshots() -> None:
         tasks = [
             snapshot_example(i, semaphore, browser, example, snapshots_path, tarsier)
             for i, example in enumerate(examples)
-            # if example.source == "mhtml"
-            if example.source == "mhtml" and example.id == '1JWoJWs3uZMt8Wa5ql6pr'
+            if example.source == "mhtml"
+            if example.source == "mhtml" and example.id == '7JjuuOO8Ibt83UkNQA2bG'
         ]
         await asyncio.gather(*tasks)
         # mhtml_examples = [ex for ex in examples if ex.source == "mhtml"][:3]

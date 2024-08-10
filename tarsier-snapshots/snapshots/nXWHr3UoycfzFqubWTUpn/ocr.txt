@@ -1,9 +1,9 @@
 -----------------------------------------------------------------------------------------------------------------------------
-[ @ 1 ] Select a School [ @ 2 ] Language ☐ [ @ 3 ]                          [ @ 7 ] Login [ # 5 ] Search ... [ @ 6 ]
+[ @ 1 ] Select a School [ @ 2 ] Language [ @ 3 ]                            [ @ 7 ] Login [ # 5 ] Search ... [ @ 6 ]
                                                             [ @ 4 ]
                 [ @ 8 ]                                              [ @ 9 ]
                  **Flagstone**                        **[ 10 ] FLAGSTONE**
-                         ELEMENTARY
+                        ELEMENTARY
                                                         **ELEMENTARY**
                                                      [ 11 ] 104 Lovington St, Castle Rock, CO 80104
 
@@ -22,7 +22,7 @@
 
 
                                                   [ 31 ] Meg Jacques         [ 34 ] Angela Tucker       [ 37 ] Ashley Solano
-                                                    [ 32 ] Principal        [ 35 ] Assistant Principal [ 38 ] Principal's Secretary
+                                                   [ 32 ] Principal        [ 35 ] Assistant Principal [ 38 ] Principal's Secretary
                                                     [ @ 33 ] Email             [ @ 36 ] Email              [ @ 39 ] Email
 
 
@@ -32,7 +32,7 @@
 
 
                                                    [ 40 ] Pam Cavit        [ 43 ] Candice Lopez Trejo   [ 46 ] Kay Livingstone
-                                                    [ 41 ] Registrar          [ 44 ] School Nurse      [ 47 ] Building Engineer
+                                                   [ 41 ] Registrar          [ 44 ] School Nurse       [ 47 ] Building Engineer
                                                     [ @ 42 ] Email             [ @ 45 ] Email              [ @ 48 ] Email
 
 
@@ -43,11 +43,12 @@
 
 
 
-               [ 52 ] FLAGSTONE ELEMENTARY                                                    [ @ 59 ] [ @ 60 ]
+                52 ]                     ELEMENTARY                                           [ @ 59 ] [ @ 60 ]
+               [     FLAGSTONE                                                                       ■
                [ 53 ] Principal: Meg Jacques
                [ 54 ] 104 Lovington St, Castle Rock, CO 80104
                [ 55 ] Phone [ 56 ] 303-387-5225 [ 57 ] | Fax [ 58 ] 303-387-5226
 
-                                     [ 61 ] Website by [ @ 63 ] SchoolMessenger Presence [ 62 ]. © 2024 SchoolMessenger Corporation. All rights reserved.
+                                     [ 61 ] Website by [ @ 63 ] SchoolMessenger Presence [ 62 ]. © 2024 School Messenger Corporation. All rights reserved.
 -----------------------------------------------------------------------------------------------------------------------------
-Token count: 520
+Token count: 524

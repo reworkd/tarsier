@@ -1,26 +1,25 @@
------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 1 ]   [ @ 2 ]    [ @ 3 ]  [ @ 4 ]                                           [ $ 5 ]
-       [ 0 ] Reworkd                                            Home    AgentGPT    Github    Docs                                        Join the Waitlist >
-             [ @ 6 ] Reworkd raises a $ 1.25M pre - seed >
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 1 ]     [ @ 2 ]      [ @ 3 ]   [ @ 4 ]                                                   [ $ 5 ]
+        [ 0 ] Reworkd                                                    Home                    Github     Docs                                                   the Waitlist >
+                                                                                   AgentGPT                                                                   Join
+               [ @ 6 ] Reworkd raises a $ 1.25M pre - seed >
 
 
-           **[ 7 ]**  **Web**
-           **Extraction.**
-                                  **Scale**                .
-           **[ 8 ] At**
-           [ 9 ] 100x your data extraction with Al that generates
-          & repairs web scrapers on the fly. Extract
-          structured data from thousands of sites - no
-          developers needed.
+             **[ 7 ] Web**
+            **Extraction.**
+            **[ 8 ] At Scale.**
+            [ 9 ] 100x your data extraction with AI that
+            generates & repairs web scrapers on the fly.
+            Extract structured data from thousands of sites-
+            no developers needed.
 
 
-                   [ 11 ] Manufacturing                  [ 13 ] E - commer
-       [ $ 10 ]                                     ☑                [ $ 23 ]
-                   [ 12 ] Collect product data           [ 14 ] Get competitor
+         [ $ 10 ]     [ 11 ] Manufacturing                  ☑     [ 13 ] E - comme [ $ 23 ]
+                      [ 12 ] Collect product data                 [ 14 ] Get competitor
 
-                    [ $ 24 ]
-                 Join the Waitlist >
-                            [ 25 ] [ 26 ]                                                            [ @ 31 ] Careers [ @ 32 ]   [ @ 33 ] Privacy [ @ 34 ] Terms
-   [ 35 ] 2023 Reworkd Al, Inc.    [ 27 ] Backed By [ @ 28 ] Y Combinator [ 29 ] and [ @ 30 ] Panache Ventures       Status▸
------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 298
+                       [ $ 24 ]
+                   Join the Waitlist >
+                                [ 25 ] [ 20 ]                                                                            [ @ 31 ] Careers [ @ 32 ]    [ @ 33 ] Privacy [ @ 34 ] Terms
+   [ 35 ] © 2023 Reworkd AI, Inc.       [ 27 ] Backed By [ @ 28 ] Y Combinator [ 29 ] and [ @ 30 ] Panache Ventures                      Status
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 290

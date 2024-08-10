@@ -1,34 +1,35 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ 5 ] Governo italiano | [ @ 6 ] Presidenza del Consiglio dei Ministri
 
-                    Ministero                                                   [ 10 ] Seguici [ @ 11 ]   [ @ 12 ]   [ @ 13 ]  [ @ 14 ]   [ @ 15 ]  [   16 ] [     17 ] [ @ 18 ]
-  [ @ 8 ]
-      **MEF**       dell'Economia e delle Finanze [ @ 9 ]                       su              ☐         ☐          ☐          ☐         ☐          ☐          ☐         ☐
+                    Ministero                                                   [ 10 ] Seguici [ @ 11 ] [     12 ] [    13 ] [ @ 14 ]     [ @ 15 ] [ @ 16 ] [ @ 17 ] [ @ 18 ]
+  [ 08 ]
+      **MEF**                            e delle Finanze [ @ 9 ]                su
+                    dell'Economia
 
-[ @ 20 ]     [ @ 22 ] Ministero ▾   [ @ 23 ] Ministro e staff▾   [ @ 24 ] Documenti e pubblicazioni ▾   [ @ 25 ] Servizi ▾                                                   [ @ 31 ]
+[ @ 20 ] ]   [ @ 22 ] Ministero ▾   [ @ 23 ] Ministro e staff▾   [ @ 24 ] Documenti e pubblicazioni▾   [ @ 25 ] Servizi▾                                                     [ @ 31 ]
                                                                                                                                                    [ @ 29 ]      [ @ 30 ]
-  MEF        [ @ 26 ] Comunica con noi ▾    [ @ 27 ] Trasparenza    [ @ 28 ] PNRR▾                                                                                            EN
+  MEF        [ @ 26 ] Comunica con noi▾     [ @ 27 ]                [ @ 28 ] ] PNRR▾                                                                                         EN
+                                                   Trasparenza
 
-          [ @ 33 ] Home [ @ 34 ] Ministero [ @ 35 ] Ruolo del Ministero [ @ 36 ] Normativa
+          [ @ 33 ] Home  [ @ 34 ] Ministero [ @ 35 ] Ruolo del Ministero [ @ 36 ] Normativa
 
    [ 38 ]
-            **Decreti ministeriali, interministeriali, direttoriali**
-
-                                                                                                                  [ @ 39 ]   [ @ 40 ]   [ @ 41 ]   [ @ 42 ] ☐    [ @ 43 ] ☐
+            **Decreti ministeriali, interministeriali,**                         **direttoriali**
+                                                                                                                  [ @ 39 ]   [ @ 40 ]   [ @ 41 ]   [ @ 42 ]      [ @ 43 ]
 
 
      [ 44 ]
 
              2022
 
-                  [ @ 46 ] Decreto ministeriale del 22 dicembre 2022 [ 45 ] - Piano biennale 2023-2024 per la valutazione e la revisione della
-              regolamentazione del Ministero dell'Economia e delle Finanze.
+                  [ @ 46 ] Decreto ministeriale del 22 dicembre 2022 [ 45 ] ] - Piano biennale 2023-2024 per la valutazione e la revisione
+              della regolamentazione del Ministero dell'Economia e delle Finanze.
                   [ @ 48 ] Decreto interministeriale del 6 aprile 2022 [ 47 ] - Riduzione delle aliquote di accisa applicate alla benzina, al
               gasolio e al GPL usati come carburanti;
                   [ @ 50 ] Decreto ministeriale del 21 marzo 2022 [ 49 ] - Approvazione degli indici sintetici di affidabilità fiscale relativi ad
-              attività economiche nei comparti delle manifatture, dei servizi, del commercio e delle attività professionali e di approvazione
-              delle territorialità specifiche. Periodo d'imposta 2021;
-         [ 51 ]   [   52 ] Decreto interministeriale del 18 marzo 2022
+              attività economiche nei comparti delle manifatture, dei servizi, del commercio e delle attività professionali e di
+              approvazione delle territorialità specifiche. Periodo d'imposta 2021;
+         [ 51 ]   [ @ 52 ] Decreto interministeriale del 18 marzo 2022
               Riduzione delle aliquote di accisa applicate alla benzina, al gasolio e ai GPL usati come carburanti;
          [ 53 ]   [ @ 54 ] Decreto del Ragioniere Generale dello Stato del 14 marzo 2022
               Aggiornamento del decreto 11 marzo 2004, concernente le caratteristiche tecniche della Tessera sanitaria su supporto;
@@ -40,9 +41,10 @@
               per l'esercizio 2021;
          [ 59 ]   [ @ 60 ] Decreto interministeriale n. 1 del 13 gennaio 2022 - sostegno al reddito in favore dei dipendenti delle imprese
               adibite alla pesca marittima - annualità 2021
-              Quadro normativo per fruire delle indennità riconosciute ai lavoratori delle imprese di pesca interessati da misure di arresto
-              temporaneo obbligatorio o di fermo pesca non obbligatorio
+              Quadro normativo per fruire delle indennità riconosciute ai lavoratori delle imprese di pesca interessati da misure di
+              arresto temporaneo obbligatorio o di fermo pesca non obbligatorio
      [ 61 ]
+
              2021
 
          [ 62 ]   [ @ 63 ] Decreto ministeriale del 23 novembre 2021
@@ -57,16 +59,17 @@
               Decreto [ 71 ]" Sure" [ 69 ] - Strumento europeo di sostegno temporaneo 4th Instalment con decorrenza 16 marzo 2021 e
               scadenza 4 giugno 2036;
          [ 72 ]   [ @ 73 ] Decreto del Ragioniere Generale dello Stato del 18 marzo 2021
-              Modifica del decreto 3 giugno 2020 concernente le modalità tecniche per il coinvolgimento del Sistema Tessera Sanitaria ai
-              fini dell'attuazione delle misure di prevenzione nell'ambito delle misure di sanità pubblica legate all'emergenza COVID - 19;
+              Modifica del decreto 3 giugno 2020 concernente le modalità tecniche per il coinvolgimento del Sistema Tessera Sanitaria
+              ai fini dell'attuazione delle misure di prevenzione nell'ambito delle misure di sanità pubblica legate all'emergenza COVID-
+              19;
          [ 74 ]   [ @ 75 ] Decreto del Direttore Generale del Tesoro del 8 marzo 2021
-              Decreto << SURE >> Strumento europeo di sostegno temporaneo 3rd Instalment con decorrenza 2 febbraio 2021 e scadenza 2
-              giugno 2028;
+              Decreto << SURE >> Strumento europeo di sostegno temporaneo 3rd Instalment con decorrenza 2 febbraio 2021 e scadenza
+              2 giugno 2028;
          [ 76 ]   [ @ 77 ] Decreto del Direttore Generale del Tesoro del 4 marzo 2021
-              Fondazioni bancarie. Misure dell'accantonamento alla riserva obbligatoria e dell'accantonamento patrimoniale facoltativo per
-              l'esercizio 2020;
-         [ 78 ]   [ @ 79 ] Decreto del 3 febbraio 2021, n. 26
-              Regolamento concernente i requisiti di accesso, condizioni, criteri e modalità degli investimenti del Patrimonio Destinato;
+              Fondazioni bancarie. Misure dell'accantonamento alla riserva obbligatoria e dell'accantonamento patrimoniale facoltativo
+              per l'esercizio 2020;
+         [ 78 ]   [ @ 79 ] Decreto del 3 febbraio 2021,        n.  26
+              Regolamento concernente i           requisiti di accesso, condizioni, criteri e modalità degli investimenti del Patrimonio Destinato;
          [ 80 ]   [ @ 81 ] Decreto 10 febbraio 2021
               Fissazione semestrale dei tassi di interesse per il pagamento differito dei diritti doganali ( periodo 13 gennaio – 12 luglio
               2021 )
@@ -78,23 +81,23 @@
               Dematerializzazione delle ricette mediche per la prescrizione di farmaci non a carico del Servizio sanitario nazionale e
               modalità di rilascio del promemoria della ricetta elettronica attraverso ulteriori canali, sia a regime che nel corso della fase
               emergenziale da Covid - 19;
-         [ 85 ]   [   86 ] Decreto ministeriale del 22 dicembre 2020
+         [ 85 ]   [ @ 86 ] Decreto ministeriale del 22 dicembre 2020
               Disciplina dei siti web per il confronto tra le offerte relative ai conti di pagamento;
          [ 87 ]   [ @ 88 ] Decreto ministeriale del 23 dicembre 2020
-              Ripartizione del Fondo preordinato alla promozione di misure di sviluppo economico e all'attivazione di una social card per i
-              residenti nelle regioni interessate dalle estrazioni di idrocarburi liquidi e gassosi nell'anno 2019;
+              Ripartizione del Fondo preordinato alla promozione di misure di sviluppo economico e all'attivazione di una social card per
+              i residenti nelle regioni interessate dalle estrazioni di idrocarburi liquidi e gassosi nell'anno 2019;
          [ 89 ]   [ @ 90 ] Decreto ministeriale del 31 dicembre 2020
               Adozione della stima della capacità fiscale per singolo Comune delle regioni a statuto ordinario;
-         [ 91 ]   [   92 ] Decreto ministeriale del 28 dicembre 2020
-              Proroga del periodo di autorizzazione alla concessione della garanzia dello Stato su passività di nuova emissione di banche
-              italiane;
+         [ 91 ]   [ @ 92 ] Decreto ministeriale del 28 dicembre 2020
+              Proroga del periodo di autorizzazione alla concessione della garanzia dello Stato su passività di nuova emissione di
+              banche italiane;
          [ 93 ]   [ @ 94 ] Decreto ministeriale del 30 dicembre 2020
               Direttive per l'attuazione delle operazioni finanziarie, ai sensi dell'articolo 3 del decreto del Presidente della Repubblica 30
               dicembre 2003, n.       398 ( Testo unico delle disposizioni in materia di debito pubblico );
-         [ 95 ]   [   96 ] Decreto ministeriale del 7 dicembre 2020
-              Modifiche al decreto 27 giugno 2017, in materia di modalità di versamento del contributo unificato per i                        ricorsi dinanzi al
-              giudice amministrativo, per i ricorsi straordinari al Presidente della Repubblica e per i ricorsi straordinari al Presidente della
-              Regione siciliana;
+         [ 95 ]   [ @ 96 ] Decreto ministeriale del 7 dicembre 2020
+              Modifiche al decreto 27 giugno 2017, in materia di modalità di versamento del contributo unificato per i                          ricorsi dinanzi al
+              giudice amministrativo, per i        ricorsi straordinari al Presidente della Repubblica e per i            ricorsi straordinari al Presidente
+              della Regione siciliana;
          [ 97 ]   [ @ 98 ] Decreto ministeriale del 28 agosto 2020
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2208
+Token count: 2191

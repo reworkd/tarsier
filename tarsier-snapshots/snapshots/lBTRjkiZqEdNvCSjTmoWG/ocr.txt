@@ -2,17 +2,17 @@
 [ @ 0 ] DONATE
                 PAN AMERICAN ACADEMY
 [ # 160 ]
-                          [ @ 1 ] About Us [ @ 2 ] Academics             [ @ 3 ] Enrollment     [ @ 4 ] Calendar      [ @ 5 ] Parents     [ @ 6 ] Employment
+                           [ @ 1 ] About Us      [ @ 2 ] Academics       [ @ 3 ] Enrollment     [ @ 4 ] Calendar      [ @ 5 ] Parents     [ @ 6 ] Employment
 
                                                                                                                                     [ @ 7 ] Support Us Q
 
 
       [ @ 8 ] RESOURCES
-[ 9 ] Staff
+**[ 9 ] Staff**
 
-        → [ @ 10 ] LEADERSHIP             [ @ 11 ] FACULTY          [ @ 12 ] STAFF
+       → [ @ 10 ] LEADERSHIP              [ @ 11 ] FACULTY         [ @ 12 ] STAFF
 
-[ 13 ] Pan American Academy's dedicated staff is committed to preparing bilingual, internationally - minded inquirers. By utilizing
+[ 13 ] Pan American Academy's dedicated staff is committed to preparing bilingual, internationally - minded inquirers.                        By utilizing
       inquiry - based instructional strategies, teachers facilitate independent and innovative thinkers.
 
       [ @ 14 ]                        [ @ 17 ]                        [ @ 20 ]                        [ @ 23 ]                        [ @ 26 ]
@@ -25,8 +25,8 @@
 
 
       [ 15 ] Louis Alvarez            [ 18 ] Marisela Ayala           [ 21 ] Lorraine Cartagena       [ 24 ] Lorna Concepcion
-                           Officer                                                                                                    [ 27 ] Dayana Covington
-      [ 16 ] School Resource          [ 19 ] Lunchroom Assistant      [ 22 ] School Counselor         [ 25 ] Social Worker
+                                                                                                                                      [ 27 ] Dayana Covington
+      [ 16 ] School Resource Officer  [ 19 ] Lunchroom Assistant      [ 22 ] School Counselor         [ 25 ] Social Worker
                                                                                                                                       [ 28 ] Instructional Coach
 
       [ @ 29 ]                        [ @ 32 ]                        [ @ 35 ]                        [ @ 38 ]                        [ @ 41 ]
@@ -44,7 +44,7 @@
       [ 31 ] Classroom Assistant      [ 34 ] Special Education        Coordinator                     [ 40 ] Dean of School Culture   [ 43 ] Accounts Manager
                                       Assistant
 
-      [ @ 44 ]                        [ @ 47 ]                        [ @ 50 ]                        [ @ 53 ]                        [ @ 56 ]
+       [ @ 44 ]                       [ @ 47 ]                        [ @ 50 ]                        [ @ 53 ]                        [ @ 56 ]
 
 
 
@@ -100,8 +100,8 @@
 
 
       [ 92 ] Yolanie Ramirez          [ 95 ] Jeanette Rivera          [ 98 ] Juan Rosa                                                [ 104 ] Taylor Sparks
-                                                                       99 ] CARE Assistant            [ 101 ] Hannah Seabrooks
-      [ 93 ] Food Services Assistant  [ 96 ] Main Office Manager      [                                                               [ 105 ] School Based Therapist
+                                                                                                      [ 101 ] Hannah Seabrooks
+      [ 93 ] Food Services Assistant  [ [ 96 ] Main Office Manager    [ 99 ] CARE Assistant                                           [ 105 ] School Based Therapist
                                                                                                       [ 102 ] Instructional Coach
 
       [ @ 106 ]                       [ @ 109 ]                       [ @ 112 ]                       [ @ 115 ]                       [ @ 118 ]
@@ -114,12 +114,12 @@
 
 
       [ 107 ] Linda Soto              [ 110 ] Gregory Thomas          [ 113 ] Francheska Torres       [ 116 ] Aydee Trinidad
-                        Assistant     [ 111 ] School Resource          114 ]          Services         117 ]         Assistant        [ 119 ] Ramaylin Ureña
-      [ 108 ] Non - teaching                                          [    Specialized                [    Classroom
+                                                                                                                                      [ 119 ] Ramaylin Ureña
+      [ 108 ] Non - teaching Assistant [ 111 ] School Resource        [ 114 ] Specialized Services    [ 117 ] Classroom Assistant
                                       Officer                         Coordinator                                                     [ 120 ] Spanish Support
                                                                                                                                      Assistant
 
-      [ @ 121 ]                       [ @ 124 ]                       [ @ 127 ]                       [ @ 130 ]                       [ @ 133 ]
+       [ @ 121 ]                       [ @ 124 ]                      [ @ 127 ]                       [ @ 130 ]                       [ @ 133 ]
 
 
 
@@ -161,10 +161,11 @@
                                                                                                                                                 English
 
 
-      [ 147 ] Trujillo Center                                                       CONGRESO                                      [ @ 154 ] [ @ 155 ] [ @ 156 ] [ 157 ]
+      [ 147 ] Trujillo Center                                                                                                     [ @ 154 ] [ @ 155 ] [ @ 156 ] [ @ 157 ]
+                                                                                    CONGRESO
       [ 148 ] Pan American Academy Charter School                                   Strengthening Latino Communities
-                                                                     [ @ 150 ]
-      [ 142 ] 2830 North American Street
+                                    Street                           [ @ 150 ]
+      [ 142 ] 2830 North American
                                                                      [ @ 151 ] In Partnership with Congreso de Latinos Unidos     [ @ 158 ] Rights to Know Policy
       [ 143 ] Philadelphia, PA 19133
                                                                                                                                   [ @ 159 ] Site Map

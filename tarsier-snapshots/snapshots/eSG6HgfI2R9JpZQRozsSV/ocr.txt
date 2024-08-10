@@ -1,51 +1,55 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 4 ] English [ @ 5 ] Français [ @ 6 ] Versão áudio                                                                                                                   @ 7 ] Contactos
+[ @ 4 ] English [ @ 5 ] Français [ @ 6 ] Versão áudio                                                                                                                  [ @ 7 ] Contactos
     [ @ 8 ]                    [ @ 9 ] Parlamento        [ @ 10 ] Deputados        [ @ 11 ] Atividade parlamentar           [ @ 19 ] Comissões         [ @ 20 ] UE e Internacional
 
-    [ @ 12 ] Atividades parlamentares [ @ 13 ] Orçamento do Estado e contas públicas [ @ 14 ] Diário da Assembleia da República
+   [ @ 12 ] Atividades parlamentares [ @ 13 ] Orçamento do Estado e contas públicas [ @ 14 ] Diário da Assembleia da República
                                                                                                                                                                            [ @ 21 ] Q
-  ⚫ [ @ 15 ] I Série
-  • [ @ 16 ] II Série
-  • [ @ 17 ] Separatas
-  ⚫ [ @ 18 ] Debates parlamentares desde 1821
+ • [ @ 15 ] I Série
+    [ @ 16 ] II Série
+    [ @ 17 ] Separatas
+
+
+  .... [ @ 18 ] Debates parlamentares desde 1821
 
 
 
                                   [ 22 ] Diário da Assembleia da República | I Série
 
                                   [ $ 23 ]                                                     [ $ 24 ]                                               <
-    [ @ 146 ]                           Legislatura [ 2022-03-29 a ]                                 Sessão Legislativa                               >
+    [ @ 146 ]                           Legislatura [ 2022-03-29 a ]                                Sessão Legislativa                                >
            Sobre o Diário
                                   [ 25 ] Diários I Série - XV Legislatura - 2.ª Sessão Legislativa.
+                                  -
 
-                                  [ 26 ] Título                  [ 28 ] Data         [ 30 ] Em leitura pública desde
-                                  [ @ 27 ] Sumários de A a Z    [ 29 ] 2023-09-26    [ 31 ] 2023-09-26 / 17:00
+                                  [ 26 ] Título                 [ 28 ] Data          [ 30 ] Em leitura pública desde
+                                  [ @ 27 ] Sumários de A a Z     [ 29 ] 2023-09-26   [ 31 ] 2023-09-26 / 17:00
 
 
                                   [ 32 ] Título                  [ 34 ] Data         [ 36 ] Em leitura pública desde
-[ 199 ]                           [ @ 33 ] DAR I Série n. ° 019 [ 35 ] 2023-11-02    [ 37 ] 2023-11-13 / 18:00
+[ 199 ]                                             n. ° 019                                       /
+                                  [ @ 33 ] DAR I Série          [ 35 ] 2023-11-02    [ 37 ] 2023-11-13 18:00
 
 
-                                  [ 38 ] Título                  [ 40 ] Data         [ 42 ] Em leitura pública desde
+                                  [ 38 ] Título                 [ 40 ] Data          [ 42 ] Em leitura pública desde
                                   [ @ 39 ] DAR I Série n. ° 018  [ 41 ] 2023-10-31   [ 43 ] 2023-11-08 / 13:30
 
 
-                                  [ 44 ] Título                  [ 46 ] Data         [ 48 ] Em leitura pública desde
-                                  [ @ 45 ] DAR I Série n. ° 017 [ 47 ] 2023-10-26    [ 49 ] 2023-11-06 / 16:00
+                                  [ 44 ] Título                 [ 46 ] Data          [ 48 ] Em leitura pública desde
+                                  [ @ 45 ] DAR I Série n. ° 017  [ 47 ] 2023-10-26   [ 49 ] 2023-11-06 / 16:00
 
 
                                   [ 50 ] Título                  [ 52 ] Data         [ 54 ] Em leitura pública desde
                                   [ @ 51 ] DAR I Série n. ° 016  [ 53 ] 2023-10-21   [ 55 ] 2023-11-06 / 16:00
 
 
-                                  [ 56 ] Título                  [ 58 ] Data         [ 60 ] Em leitura pública desde
+                                  [ 56 ] Título                 [ 58 ] Data          [ 60 ] Em leitura pública desde
                                   [ @ 57 ] DAR I Série n. ° 015  [ 59 ] 2023-10-20   [ 61 ] 2023-10-30 / 10:30
 
 
                                   [ 62 ] Título                  [ 64 ] Data         [ 66 ] Em leitura pública desde
-                                  [ @ 63 ] DAR I Série n.º 014   [ 65 ] 2023-10-19   [ 67 ] 2023-10-25 / 17:00
+                                  [ @ 63 ] DARI Sário = º014     [ 65 ] 2023 10 10   [ 67 ] 2023 10 25 / 17:00.
   Este site utiliza cookies para permitir o seu correto funcionamento e melhorar a sua experiência de navegação. Ao navegar no site está a concordar com a [ @ 200 ] Política de Cookies.
-    [ $ 201 ] Rejeitar todos os cookies [ 68 ] [ @ 202 ] Configurar todos o: [ 70 ] okies [ $ 203 [ 72 ] eitar todos os cookies
+   [ $ 201 ] Rejeitar todos os cookies [ 68 ] [ @ 202 ] Configurar todos of [ 70 ] kies [ $ 20372 ] eitar todos os cookies
  [ $ 198 ]
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 874
+Token count: 870

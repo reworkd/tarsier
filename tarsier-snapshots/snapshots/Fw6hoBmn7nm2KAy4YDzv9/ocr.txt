@@ -92,8 +92,7 @@ mindstix                                                                        
 
 
 
-
-
+                     **00**
 
 
 
@@ -162,7 +161,7 @@ mindstix                                                                        
          Engineering and model development skills. You are a collaborative person
          who takes pleasure in finding solutions to issues that add to the bottom line.
          You appreciate technical work by hand and feel a sense of ownership. You                               [ 58 ] Know someone who is perfect
-                                                                                                                          for this role?
+                                                                                                                         for this role?
          require a keen eye for detail, work experience as a data scientist, and in-
          depth knowledge of widely used models and technologies for data science
          including creating machine learning models and retraining systems.
@@ -188,7 +187,7 @@ mindstix                                                                        
 
             [ 17 ] Bachelor's or Master's degree in Computer Science, Information
             Technology, or allied streams.
-            [ 18 ] ] 3+ years of hands - on experience in the data engineering domain with data
+            [ 18 ] 3+ years of hands - on experience in the data engineering domain with data
             science development.
             [ 19 ] Must have experience with end - to - end data science project implementation
             on Azure or GCP.
@@ -197,7 +196,7 @@ mindstix                                                                        
             [ 21 ] Good with Matplotlib / Seaborn for creating good data visualizations for
             interpreting data
             [ 22 ] Good with Pandas and NumPy for data - wrangling tasks
-            [ 23 ] Solid understanding of DS concepts such as Feature Engineering., Model
+            [ 23 ] ] Solid understanding of DS concepts such as Feature Engineering., Model
             development, model deployment, model monitoring, hyperparameter tuning
             [ 24 ] Expertise in Tensorflow - Model Building, Feature Engineering, Model
             Deployment, and Monitoring.
@@ -207,8 +206,8 @@ mindstix                                                                        
             programming logic.
             [ 27 ] Excellent logical reasoning and data interpretation capability.
             [ 28 ] Ability to interpret business requirements accurately.
-            [ 29 ] Exposure to work with multicultural international customers.
-         .  [ 30 ] Experience in the Retail / Supply Chain / CPG / ECommerce / Health Industry
+            [ 29 ] ] Exposure to work with multicultural international customers.
+            [ 30 ] Experience in the Retail / Supply Chain / CPG / ECommerce / Health Industry
             is a plus.
 
           [ @ 31 ]
@@ -217,7 +216,7 @@ mindstix                                                                        
 
           [ 32 ] Who Fits Best?
 
-            [ 33 ] You are a data enthusiast and problem solver.
+         •  [ 33 ] You are a data enthusiast and problem solver.
             [ 34 ] You are a self - motivated and fast learner with a strong sense of ownership
             and drive.
             [ 35 ] You enjoy working in a fast - paced creative environment.
@@ -229,17 +228,17 @@ mindstix                                                                        
             best.
             [ 39 ] You love expressing ideas and articulating well with strong written and
             verbal English communication and presentation skills.
-            [ 40 ] You are detail - oriented with an appreciation for craftsmanship.
-         .  [ 41 ] Keep abreast of developments in the field.
+            [ 40 ] ] You are detail - oriented with an appreciation for craftsmanship.
+            [ 41 ] Keep abreast of developments in the field.
 
           [ 42 ] Benefits
 
-               [ 43 ] Flexible working environment. [ 47 ] Competitive compensation and
+              [ 43 ] Flexible working environment.  [ 47 ] Competitive compensation and
                                                     perks.
-         ♡ [ 44 ] Health Insurance Coverage.
-                                                     [ 48 ] Rewards and Recognition.
+          ♡ [ 44 ] Health Insurance Coverage.
+                                                    [ 48 ] Rewards and Recognition.
               [ 45 ] Accelarated Career Paths.
-                                                F [ 49 ] Sponsored certifications.
+                                                    [ 49 ] Sponsored certifications.
               [ 46 ] Global customers.
                                                     [ 50 ] Mentorship by industry leaders.
 
@@ -251,7 +250,7 @@ mindstix                                                                        
          deep collaboration at our offices with reasonable flexi - timing and hybrid options
          to our seasoned team members.
 
-          [ 53 ] Equal Opportunity Employer
+         [ 53 ] Equal Opportunity Employer
 
           [ 54 ] Mindstix is committed to an inclusive and diverse work environment. We
          do not discriminate based on race, colour, ethnicity, ancestry, national origin,
@@ -269,13 +268,13 @@ mindstix                                                                        
           [ @ 61 ]                           [ @ 65 ]                           [ @ 69 ]                           [ @ 73 ]
 
 
-            [ 62 ] Engineering & Technology    [ 66 ] Engineering & Technology     [ 70 ] Engineering & Technology    [ 74 ] Engineering & Technology
-            [ 63 ] DevOps and SRE               [ 67 ] Enterprise Java             [ 71 ] JavaScript and React        [ 75 ] iOS Developer
+            [ 62 ] Engineering & Technology    [ [ 66 ] Engineering & Technology   [ 70 ] Engineering & Technology    [ 74 ] Engineering & Technology
+            [ 63 ] DevOps and SRE              [ 67 ] Enterprise Java              [ 71 ] JavaScript and React        [ 75 ] iOS Developer
             Engineer                           Developer                           Developer
 
             [ 64 ] #AWS #Azure #GoogleCloud     [ 68 ] #Enterprise Java #Spring    [ 72 ] #JavaScript #TypeScript     [ 76 ] #EnterpriseMobility #Swift
-            #DevOps #CloudOps #CloudNative     #Microservices #Containers          #MicroFrontend #Progressive WebApps #SwiftUI #CoreML #ARKit #HomeKit
-            # Containers #Scalability          #CloudNative                       #Responsive Web                     #Wearables
+            #DevOps #CloudOps #CloudNative     #Microservices #Containers          #MicroFrontend #ProgressiveWebApps #SwiftUI #CoreML #ARKit #HomeKit
+            #Containers #Scalability           #CloudNative                        #Responsive Web                    #Wearables
 
 
 
@@ -289,7 +288,6 @@ mindstix                                                                        
 
 
 
-
           [ 79 ] NAVIGATE                    [ 87 ] CONTACT                      [ 92 ] ABOUT US
 
           [ @ 80 ] Home                      [ @ 88 ] connect@mindstix.com       [ 93 ] Mindstix accelerates digital transformation for the world's leading brands. We
@@ -299,14 +297,13 @@ mindstix                                                                        
           [ @ 82 ] Generative AI                                                 digital experiences.
                                              [ 90 ] San Francisco, USA
           [ @ 83 ] Cloud Engineering         [ 91 ] Pune, India                  [ 94 ] Our customers believe we are an agile innovation partner with a strong sense
-                                                                                 of craftsmanship – that may explain our exceptional customer retention and far
+                                                                                 of craftsmanship - that may explain our exceptional customer retention and far
           [ @ 84 ] UX Design                                                     reaching impact across industries such as eCommerce, Luxury Retail, SaaS,
                                                                                  Consumer Tech, Health Tech, and Hospitality.
           [ @ 85 ] Company
 
           [ @ 86 ] Join Us
 
-
          mindstix                                                                [ 95 ] Bolder Future. Designed & Engineered.
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1754
+Token count: 1761

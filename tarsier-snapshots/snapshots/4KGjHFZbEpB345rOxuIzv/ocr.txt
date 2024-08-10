@@ -1,36 +1,35 @@
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ [ @ 3 ]                                                                           [ $ 6 ]
-   [ $ 0 ] =                                                                                                                                                 Q
-                             [ @ 1 ] FIND A PROVIDER                                                                [ @ 4 ] LOCATIONS
-      MENU                                                                                                                                               FIND HELP
-                                                                        **UL Health**
-                                                                                                                                                            NOW
-           [ @ 7 ]
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 3 ]                                                                                  [ $ 6 ]
+   [ $ 0 ] =                                                                                                                                                         Q
+                               [ @ 1 ] FIND A PROVIDER                                                                   [ @ 4 ] LOCATIONS
+       MENU                                                                                                                                                     FIND HELP
+                                                                           **UL Health**
+           [ @ 7 ]                        [ 91                                                                                                                     NOW
 
-                                  [ @ 2 ] SERVICES                                     Health               [ @ 5 ] PATIENTS AND VISITORS
-
+                                    [ @ 2 ] SERVICES                                       Health                [ @ 5 ] PATIENTS AND VISITORS
 
 
 
 
-                                                                                  Jackson Street
-                                                                                             Center
-                                                                                 Outpatient
+
+                                                                                      Jackson Street
+                                                                                                  Center
+                                                                                     Outpatient
 [ 10 ]
-           **UofL Health**                    **Hep C Center**
-                                                                                                                                           Phamacy Health Pharmacy  Health
+           **UofL Health**                      **Hep C Center**
+                                                                                                                                                  Phamacy Health Pharmacy   Health
 
     [ 11 ] Location Information
-                                                                                                                [ 20 ] Schedule An
-                                                   **[ 12 ] UofL Health - Hep C Center**
-                                                                                                               **Appointment**
-                                                   [ 13 ] UofL Health - Jackson Street Outpatient Center
-                                                   [ 14 ] 550 S. Jackson Street, 3rd Floor                         [ @ 21 ] APPOINTMENTS
-                                                   [ 15 ] Louisville, [ 16 ] KY [ 17 ] 40202
-                                                                                                                [ 22 ] Hours
-                                                       [ @ 18 ] 502-561-5687
-                                                                                                                [ 23 ] 8 a.m- 5 p.m
-                                                       [ @ 19 ] Get Directions
+                                                                                                                     [ 20 ] Schedule An
+                                                      [ 12 ] UofL Health - Hep C Center
+                                                                                                                    Appointment
+                                                     [ 13 ] UofL Health - Jackson Street Outpatient Center
+                                                      [ 14 ] 550 S. Jackson Street, 3rd Floor                            [ @ 21 ] APPOINTMENTS
+                                                     [ 15 ] Louisville, [ 16 ] KY [ 17 ] 40202
+                                                                                                                     [ 22 ] Hours
+                                                         [ @ 18 ] 502-561-5687
+                                                                                                                     [ 23 ] 8 a.m 5 p.m
+                                                         [ @ 19 ] Get Directions
 
 
     [ 24 ] Services Offered
@@ -44,42 +43,41 @@
 
            [ @ 27 ]
 
-                  [ 28 ] Wellness
-               **[ 29 ] Exploring Organs: The**
+                   [ 28 ] Wellness
+                **[ 29 ] Exploring Organs: The**
                Lifesaving Liver
-               [ 30 ] Loretta Jophlin, M.D., Ph.D. [ 31 ] ]
-               [ 32 ] November 2, 2021
+                [ 30 ] Loretta Jophlin, M.D., Ph.D. [ 31 ] |
+                [ 32 ] November 2, 2021
 
 
-                                                                      [ @ 33 ] VIEW ALL ARTICLES
+                                                                         [ @ 33 ] VIEW ALL ARTICLES
 
-                                                                                                                                                       [ 34        [ 35 ] Sch
-                                                                                                                                                            ]     [ 36 ] App
+                                                                                                                                                                           [ 35 ] Sch
+                                                                                                                                                               [ @ 34 ]    [ 36 ] App
 
 
-           [ @ 37 ]                                    [ @ 45 ] Find A Provider           [ @ 50 ] Appointments                [ @ 55 ] For Health Care
-                                                                                                                               Professionals
-          **UL Health**                                [ @ 46 ] Services                  [ @ 51 ] About UofL Health
-                                                                                                                               [ @ 56 ] News
-                                                       [ @ 47 ] Locations                 [ @ 52 ] Health Library
-                                                                                                                               [ @ 57 ] Pay My Bill
-           [ 38 ] Follow Us                            [ @ 48 ] Patients and Visitors     [ @ 53 ] Careers
-                                                                                                                               [ @ 58 ] Ways to Give
-           [ @ 39 ] [ @ 40 ] [ @ 41 ] [ 42 ] [ 43 ] [ 44 ] [ @ 49 ] Patient Portal        [ @ 54 ] Volunteer
-                          ( 0 ° ) مل    in                                                Information                          [ @ 59 ] Contact
+           [ @ 37 ]                                      [ @ 45 ] Find A Provider             [ @ 50 ] Appointments                  [ @ 55 ] For Health Care
+                                                                                                                                     Professionals
+           **UF Health**                                 [ @ 46 ] Services                    [ @ 51 ] About UofL Health
+                                                                                                                                     [ @ 56 ] News
+                                                         [ @ 47 ] Locations                   [ @ 52 ] Health Library
+                                                                                                                                     [ @ 57 ] Pay My Bill
+           [ 38 ] Follow Us                              [ @ 48 ] Patients and Visitors       [ @ 53 ] Careers
+                                                                                                                                     [ @ 58 ] Ways to Give
+           [ @ 39 ] [ @ 40 ] [ @ 41 ] [ 42 ] [ 43 ] [ 44 ] [ @ 49 ] Patient Portal            [ @ 54 ] Volunteer
+                   y ( σ           Ժ      in                                                  Information                            [ @ 59 ] Contact
 
 
            [ 60 ] © 2023 UofL Health. All Rights Reserved [ @ 61 ] Nondiscrimination Notice [ @ 62 ] Terms of Use [ @ 63 ] Notice of Privacy Practices
-                                                      [ @ 64 ] Code of Conduct  [ @ 65 ] Privacy Policy.
+                                                         [ @ 64 ] Code of Conduct  [ @ 65 ] Privacy Policy.
 
       [ 66 ]  UofL Health complies with applicable Federal civil rights laws and does not discriminate on the basis of race, color, national origin, age, disability or sex
            ( including discrimination based on pregnancy, gender identity and sex stereotyping ) when providing or administering health - related insurance or other health-
-                                                                            related coverage.
-
-      [ 67 ] UofL Health, Inc. is 501 ( c ) ( 3 ) a nonprofit corporation is governed by an independent Board of Directors and is a related organization ( as defined under 42
-           CFR 413.17 ) with the University of Louisville's School of Medicine. UofL Health, Inc., on behalf of its teaching hospitals and providers, entered into academic
-              affiliation agreement with the University of Louisville in which the University of Louisville agreed that its Health Sciences Center would be the academic
-           partner with UofL Health, Inc. to maintain and enhance the University of Louisville's affiliated graduate medical education as well as its research in medicine,
-                                                                    dentistry, nursing and public health.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 883
+                                                                                related coverage.
+       [ 67 ] UofL Health, Inc. is 501 ( c ) ( 3 ) a nonprofit corporation is governed by an independent Board of Directors and is a related organization ( as defined under 42
+            CFR 413.17 ) with the University of Louisville's School of Medicine. UofL Health, Inc., on behalf of its teaching hospitals and providers, entered into academic
+               affiliation agreement with the University of Louisville in which the University of Louisville agreed that its Health Sciences Center would be the academic
+            partner with UofL Health, Inc. to maintain and enhance the University of Louisville's affiliated graduate medical education as well as its research in medicine,
+                                                                       dentistry, nursing and public health.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 887

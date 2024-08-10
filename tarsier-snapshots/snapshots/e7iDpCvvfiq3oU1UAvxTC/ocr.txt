@@ -1,39 +1,39 @@
--------------------------------------------------------------------------------------------------------------------------------------------
-Pro          News &
-                             [ @ 2 ] People [ @ 3 ] Services [ @ 4 ] Bono [ @ 5 ] Perspectives [ @ 6 ] Offices [ @ 7 ] About [ @ 8 ] Careers [ @S
- [ 1 ] Arnold & Porter
+----------------------------------------------------------------------------------------------------------------------------------------------------
+Pro           News &
+                               [ @ 2 ] People  [ @ 3 ] Services  [ @ 4 ] Bono  [ @ 5 ] **Perspectives** [ @ 6 ] Offices [ @ 7 ] About [ @ 8 ] Careers [ @
+ [ 01 ] Arnold & Porter
 
 
-                                                          **[ 11 ] David Benyacar**
-                                                          [ 12 ] Partner
+                                                              **[ 11 ] David Benyacar**
+                                                              [ 12 ] Partner
 
-                                                          [ @ 13 ] New York
-                                                          [ 14 ] Tel [ @ 15 ] +1 212.836.7763
+                                                              [ @ 13 ] New York
+                                                              [ 14 ] Tel [ @ 15 ] +1 212.836.7763
 
-                                                          [ @ 16 ] david.benyacar@arnoldporter.com | [ @ 17 ] vCard
+                                                              [ @ 16 ] david.benyacar@arnoldporter.com | [ @ 17 ] vCard
 
 
 
-                                                                                                                        [ $ 18 ] ☐   [ $ 19
+                                                                                                                                $ 18 ]         [ $ 19
+                                                                                                                                [
 
-    [ 20 ] David S. Benyacar practices in all areas of high - technology law, with specific emphasis on patent
-    litigation and counseling relating to telecommunications products and services, and software - based [ 24 ] Focus Areas
-    products and systems.
-                                                                                                        [ @ 25 ] Patent Litigation
-    [ 21 ] David has acted as lead litigation counsel on many successful large - scale patent cases, including [ @ 26 ] Intellectual Property
-    one in which his numerous presentations to the Federal Trade Commission led to the first FTC
-    complaint ( against his client's adversary ) based on patent fraud in over 30 years.                [ @ 27 ] Telecommunications,
-                                                                                                        Internet & Media
-    [ 22 ] In the telecommunications area, he has handled patent cases involving cable television networks @ 28 ] Consumer Products &
-                                                                                                        [
-    and services, broadcast television networks and services, high - speed Internet networks and services, Retail
-    customer premises equipment ( e.g., ACD systems, PBXs, voicemail systems, etc. ), central office
-    equipment ( e.g., switching systems, IVRS, AABS, etc. ), telephony services ( e.g., directory assistance [ @ 29 ] Technology
-                                                                                                        Transactions
-    services, teleconferencing services, calling card services, etc. ) and communications protocols ( e.g., VoIP,
-    TCP / IP, etc. ).
+    [ 20 ] David S. Benyacar practices in all areas of high - technology law, with specific emphasis on patent litigation
+    and counseling relating to telecommunications products and services, and software - based products and systems. [ 24 ] Focus Areas
 
-    [ $ 23 ] + More
+    [ 21 ] David has acted as lead litigation counsel on many successful large - scale patent cases, including one in which [ @ 25 ] Patent Litigation
+    his numerous presentations to the Federal Trade Commission led to the first FTC complaint ( against his client's
+                                                                                                                [ @ 26 ] Intellectual Property
+    adversary ) based on patent fraud in over 30 years.
+                                                                                                               [ @ 27 ] Telecommunications,
+                                                                                                               Internet & Media
+    [ 22 ] In the telecommunications area, he has handled patent cases involving cable television networks and services,
+    broadcast television networks and services, high - speed Internet networks and services, customer premises
+                                                                                                               [ @ 28 ] Consumer Products &
+    equipment ( e.g., ACD systems, PBXs, voicemail systems, etc. ), central office equipment ( e.g., switching systems, Retail
+    IVRS, AABS, etc. ), telephony services ( e.g., directory assistance services, teleconferencing services, calling card
+    services, etc. ) and communications protocols ( e.g., VoIP, TCP / IP, etc. ).                              [ @ 29 ] Technology Transactions
+
+     [ $ 23 ] + More
 
 
 [ 30 ]
@@ -50,28 +50,27 @@ Pro          News &
 
 **37** **Credentials**
     **[ 38 ] Education**
-      ■ [ 39 ] J.D., Rutgers Law School, 1991, highest honors; Valedictorian, Four - Time Tischler Scholar,
-        Order of the Coif; Instructor in Legal Research and Writing
-      ■ [ 40 ] M.S., Computer Science, Brown University, 1987
-      ■ [ 41 ] B.A., English / Computer Science, Columbia University, 1982
+        [ 39 ] J.D., Rutgers Law School, 1991, highest honors; Valedictorian, Four - Time Tischler Scholar, Order of the
+        Coif; Instructor in Legal Research and Writing
+         [ 40 ] M.S., Computer Science, Brown University, 1987
+      ■  [ 41 ] B.A., English / Computer Science, Columbia University, 1982
 
     **[ 42 ] Admissions**
-      ■ [ 43 ] New York
-        [ 44 ] U.S. Court of Appeals for the Federal Circuit
+        [ 43 ] New York
+         [ 44 ] U.S. Court of Appeals for the Federal Circuit
 
 
 
-                                         **[ 48 ] Stay up to date with the latest.**
+                                            **[ 48 ] Stay up to date with the latest.**
 
-                                                         [ @ 49 ] Join Our Email List
+                                                             [ @ 49 ] Join Our Email List
 
-                                   [ 63 ] Thi [ @ 50 ] s cool [ @ 51 ] hance [ @ 52 ] ality [ @ 53 ] rman [ @ 54 ] nay [ @ 6 [ @ 55 ] ge
-                                   your cookie settings [ 64 ] ] at any time. If you do nothing, you are giving implied consent to the
-                                   use of cookies on this website.
+                                     [ 63 ] This [ @ 50 ] cooki [ @ 51 ] nce fu [ @ 52 ] and [ @ 53 ] ce. Yo [ @ 54 ] 265 ] chan [ @ 55 ]
+                                     cookie settings [ 64 ] at any time. If you do nothing, you are giving implied consent to the use of cookies
+                                     on this website.
 
-                                        [ $ 56 ]                                                      [ 62 ]
-          [ @ 57 ]                     [ @ 58 ]                                 [ @ 59 ]
-                                                             [ $ 66 ] Close
-                                [ @ 60 ]            [ @ 61 ]
--------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 859
+                                           [ $ 56 ]                                                          [ 62 ]
+          [ @ 57 ]                        [ @ 58 ]                [ $ 66 ] Close      [ @ 59 ]
+                                  [ @ 60 ]              [ @ 61 ]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 855

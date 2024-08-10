@@ -19,22 +19,19 @@
 
              [ 15 ] Address & Contact Info
              [ 17 ] 2055 East South Blvd; Suite 908
-             [ 18 ] Montgomery [ 16 ], [ 19 ] Alabama [ 20 ] 36116
-                 [ @ 21 ] Get Directions           ㅁ [ @ 22 ] 334-747-2273
+             [ 18 ] Montgomery [ 16 ], [ 19 ] Alabama [ 20 ] ] 36116
+                 [ @ 21 ] Get Directions                [ @ 22 ] 334-747-2273
 
                                            [ @ 23 ] Show Map
 
 
    [ 24 ] Common conditions we treat:
-             [ 25 ] Acid Reflux                                                   ☐ [ 26 ] Apnea
-             [ 27 ] Balance Disorders                                             ☐ [ 28 ] Deviated ( Nasal ) Septum
-         ☐
-             [ 29 ] Ear Diseases and Tumors                                       ☐ [ 30 ] Facial Fractures and Lacerations
-         ☐
+             [ 25 ] Acid Reflux                                                      [ 26 ] Apnea
+             [ 27 ] Balance Disorders                                                [ 28 ] Deviated ( Nasal ) Septum
+             [ 29 ] Ear Diseases and Tumors                                          [ 30 ] Facial Fractures and Lacerations
              [ 31 ] Head and Neck Cancers                                            [ 32 ] Hearing Disorders
-         ☐
              [ 33 ] Lips / Tongue Tie                                                [ 34 ] Meniere's Disease
-             [ 35 ] Obstructive Sleep                                                [ 36 ] Sinonasal Diseases and Tumors
+            [ 35 ] Obstructive Sleep                                                 [ 36 ] ] Sinonasal Diseases and Tumors
              [ 37 ] Sinus Infections                                                 [ 38 ] Smell / Taste Disorders
              [ 39 ] Swallowing Disorders                                             [ 40 ] Thyroid and Parathyroid Diseases and Tumors
              [ 41 ] Vocal Cord Polyps and Nodules
@@ -80,10 +77,10 @@
                                                                                                                                                                 HEALTH
           [ @ 61 ] Find a Service or Specialty       [ @ 65 ] About Us                         [ @ 69 ] Medical Education
                                                                                                                                           [ @ 71 ]   [ @ 72 ]  [ @ 73 ]   [ @ 74 ]
-          [ @ 62 ] For Patients & Visitors           [ @ 66 ] Contact Us                       [ @ 70 ] Careers
-                                                                                                                                                               lin
+          [ @ 62 ] For Patients & Visitors           [ @ 66 ] Contact Us                       [ @ 70 ] Careers                                                             ་
+                                                                                                                                                                in
 
 
-           [ @ 75 ] Terms of Use     [ @ 76 ] Sitemap     [ @ 77 ] Language Assistance                              [ 78 ] Copyright 2023  Baptist Health. [ 79 ] All Rights Reserved.
+           [ @ 75 ] Terms of Use     [ @ 76 ] Sitemap     [ @ 77 ] Language Assistance                              [ 78 ] Copyright 2023 © Baptist Health. [ 79 ] All Rights Reserved.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 857
+Token count: 842

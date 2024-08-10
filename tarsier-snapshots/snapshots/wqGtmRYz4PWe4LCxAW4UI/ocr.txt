@@ -1,110 +1,107 @@
------------------------------------------------------------------------------------------------------------------------------
-[ @ 2 ] Patient [ @ 3 ] Bill   [ @ 5 ] Contact         [ @ 7 ] 205-759-
-                               Portal             [ @ 4 ] Careers Us     [ @ 6 ] Recognition           [ # 8 ] Site Search **[ $ 910**
-                                          Pay                                             7111
+------------------------------------------------------------------------------------------------------------------------------------
+[ @ 2 ] Patient [ @ 3 ] Bill    [ @ 5 ] Contact           [ @ 71205-759-
+                                 Portal              [ @ 4 ] Careers Us      [ @ 6 ] Recognition             [ # 8 ] Site Search $ 910
+                                            Pay                                                7111                          [
    [ @ 1 ]
-       Health **DCH**
-            System             [ @ 10 ] About [ @ 17 ] Find a [ @ 18 ] Services [ @ 43 ] Locations [ @ 55 ] Patient & [ @ 70 ] News [ @ 82 ] The DCH
-                                   Us        Doctor                              Visitor                Foundation
+        **DCH**
+       Health System             [ @ 10 ] About [ @ 17 ] Find a [ @ 18 ] Services [ @ 43 ] Locations [ @ 55 ] Patient & [ @ 70 ] News [ @ 82 ] The DCH
+                                     Us        Doctor                                 Visitor                 Foundation
 
 [ 90 ]
-      **Our Locations**
+       **Our Locations**
 
-      [ $ 91 ] Search Locations            [ $ 93 ] Categories                 [ $ 95 ] Search Services
-      [ # 92 ]                             [ $ 94 ]    All Locations           [ $ 96 ]     All Services
+       [ $ 91 ] Search Locations             [ $ 93 ] Categories                    [ $ 95 ] Search Services
+       [ # 92 ]                              [ $ 94 ]     All Locations             [ $ 96 ]     All Services
         Search by location name
 
-                                                                                             [ @ 97 ] CLEAR FILTERS
+                                                                                                  [ @ 97 ] CLEAR FILTERS
 
 
-      [ @ 98 ]                             [ @ 105 ]                           [ @ 112 ]
+       [ @ 98 ]                              [ @ 105 ]                              [ @ 112 ]
 
-                 DCHE
-
-
+                  DCHE
 
 
-      [ 99 ] DCH Regional Medical Center   [ 106 ] Northport Medical Center    [ 113 ] Fayette Medical Center
-       [ 100 ] General                     [ 107 ] General                     [ 114 ] General
-      [ 101 ] 809 University Blvd. E.      [ 108 ] 2700 Hospital Drive         [ 115 ] 1653 Temple Ave.
-      [ 102 ] Tuscaloosa, AL 35401         [ 109 ] Northport, AL 35476         [ 116 ] Fayette, AL 35555
-      [ 103 ] 205-759-7111                 [ 110 ] 205-333-4500                [ 117 ] 205-932-5966
-      [ 104 ] MORE INFORMATION             [ 111 ] MORE INFORMATION            [ 118 ] MORE INFORMATION
 
-      [ @ 119 ]                            [ @ 126 ]                           [ @ 133 ]
 
-                                                      DCH
-                                                  DCH IMAGING
-                                                  SPINECARE                                            FMC Medical Clinic
-                                                                                                       DOH
-                                                                                                        E GOLDEN **Millport**
-                                                                                                           **PHARMACY**
-                                                                                                         Golden
-      [ 120 ] Lewis and Faye Manderson Cancer [ 127 ] SpineCare Center         [ 134 ] FMC Medical Clinic - Millport
-      Center                               [ 128 ] General                     [ 135 ] General
-      [ 121 ] General
-                                           [ 129 ] 1050 Ruby Tyler Parkway     [ 136 ] 13530 Hwy 96
-      [ 122 ] 809 University Blvd. E.      [ 130 ] Tuscaloosa, AL 35404        [ 137 ] ] Millport, AL 35576
-      [ 123 ] Tuscaloosa, AL 35401         [ 131 ] 205-759-7246                [ 138 ] ] 205-662-3207
-      [ 124 ] 205-759-7800
-                                           [ 132 ] MORE INFORMATION            [ 139 ] MORE INFORMATION
+       [ 99 ] DCH Regional Medical Center    [ 106 ] Northport Medical Center       [ 113 ] Fayette Medical Center
+       [ 100 ] General                       [ 107 ] General                        [ 114 ] General
+       [ 101 ] 809 University Blvd. E.       [ 108 ] 2700 Hospital Drive            [ 115 ] 1653 Temple Ave.
+       [ 102 ] Tuscaloosa, AL 35401          [ 109 ] Northport, AL 35476            [ 116 ] Fayette, AL 35555
+       [ 103 ] 205-759-7111                  [ 110 ] 205-333-4500                   [ 117 ] 205-932-5966
+       [ 104 ] MORE INFORMATION              [ 111 ] MORE INFORMATION               [ 118 ] MORE INFORMATION
+
+       [ @ 119 ]                             [ @ 126 ]                              [ @ 133 ]
+
+                                                         DCH
+                                                     DCH IMAGING
+                                                     SPINECARE                                               FMC Medical Clinic
+                                                                                                             DOH
+                                                                                                             E GOLDEN **Millport**
+                                                                                                                **PHARMACY**
+
+       [ 120 ] Lewis and Faye Manderson Cancer [ 127 ] SpineCare Center             [ 134 ] FMC Medical Clinic - Millport
+       Center                                [ 128 ] General                        [ 135 ] General
+       [ 121 ] General
+                                             [ 129 ] ] 1050 Ruby Tyler Parkway      [ 136 ] 13530 Hwy 96
+       [ 122 ] 809 University Blvd. E.       [ 130 ] Tuscaloosa, AL 35404           [ 137 ] Millport, AL 35576
+       [ 123 ] Tuscaloosa, AL 35401          [ 131 ] 205-759-7246                   [ 138 ] 205-662-3207
+       [ 124 ] 205-759-7800
+                                             [ 132 ] MORE INFORMATION               [ 139 ] MORE INFORMATION
        [ 125 ] MORE INFORMATION
 
-       [ @ 140 ]                           [ @ 147 ]                           [ @ 154 ]
-
-
-                                                                                                   BERRY MEDICAL
-                                                                                                     CLINIC
-                                                         +
+       [ @ 140 ]                             [ @ 147 ]                              [ @ 154 ]
+                                                             +
+                                                                                                        BERRY CLINIC MEDICAL
 
 
 
-      [ 141 ] West Alabama Urology Associates [ 148 ] FMC Medical Clinic - Fayette [ 155 ] Berry Medical Clinic
-      [ 142 ] General                      [ 149 ] General                     [ 156 ] General
+       [ 141 ] West Alabama Urology Associates [ 148 ] FMC Medical Clinic - Fayette [ 155 ] Berry Medical Clinic
+       [ 142 ] General                       [ 149 ] General                        [ 156 ] General
        [ 143 ] DCH Medical Tower 1, 701 University Blvd. [ 150 ] 1653 Temple Ave. N., Suite 1 [ 157 ] 32 School Ave.
-      E., Suite 908                        [ 151 ] Fayette, AL 35555           [ 158 ] Berry, AL 35546
-      [ 144 ] Tuscaloosa, AL 35401         [ 152 ] 205-932-1421                [ 159 ] 205-689-0917
-      [ 145 ] 205-759-7878
-                                           [ 153 ] MORE INFORMATION            [ 160 ] MORE INFORMATION
-      [ 146 ] MORE INFORMATION
+       E., Suite 908                         [ 151 ] Fayette, AL 35555              [ 158 ] Berry, AL 35546
+       [ 144 ] Tuscaloosa, AL 35401          [ 152 ] 205-932-1421                   [ 159 ] 205-689-0917
+       [ 145 ] 205-759-7878
+                                             [ 153 ] MORE INFORMATION               [ 160 ] MORE INFORMATION
+       [ 146 ] MORE INFORMATION
 
-      [ @ 161 ]                            [ @ 168 ]
-                                                          +
-                 DCHE
+       [ @ 161 ]                             [ @ 168 ]
+
+                  DCHE
+                                                            +
 
 
 
-
-      [ 162 ] West Alabama Vascular &      [ 169 ] West Alabama Surgical Associates
-      Endovascular Surgery
-                                           [ 170 ] 1031 Fairfax Park
-      [ 163 ] General                      171 ]       , AL 35406
-                                           [   Tuscaloosa
+       [ 162 ] West Alabama Vascular &       [ 169 ] West Alabama Surgical Associates
+       Endovascular Surgery
+                                             [ 170 ] 1031 Fairfax Park
+       [ 163 ] General                        171 ] Tuscaloosa, AL 35406
+                                             [
        [ 164 ] 701 University Blvd E, Suite 809 [ 172 ] 205-345-2212
        [ 165 ] Tuscaloosa, AL 35401
-      [ 166 ] 205-750-5752                 [ 173 ] MORE INFORMATION
-      [ 167 ] MORE INFORMATION
+       [ 166 ] 205-750-5752                  [ 173 ] MORE INFORMATION
+       [ 167 ] MORE INFORMATION
 
 
 
 
-                               [ @ 180 ] Community     [ @ 181 ] Find a Doctor [ @ 182 ] Services       [ @ 190 ] f
-                                 olvement
+                                 [ @ 180 ] Community      [ @ 181 ] Find a Doctor [ @ 182 ] Services         [ @ 190 ] f
+                                   olvement
       **DCH**
       Health System
-                               [ @ 183 ] News          [ @ 184 ] The DCH Foundation [ @ 185 ] Careers   [ @ 191 ] X
-      [ 175 ] 809 University Blvd. E.                                                                  BBB
-                               [ @ 186 ] DCH Employee  [ @ 187 ] Education    [ @ 188 ] Events Calendar
-      [ 176 ] Tuscaloosa [ 174 ], Resources                                                             [ @ 192 ]
-      177 ] AL [ 178 ] 35401                                                                    [ @ 194 ] Rating: Av
+                                 [ @ 183 ] News           [ @ 184 ] The DCH Foundation [ @ 185 ] Careers     [ @ 191 ] X
+      [ 175 ] 809 University Blvd. E.
+                                 [ @ 186 ] DCH Employee   [ @ 187 ] Education     [ @ 188 ] Events Calendar
+      [ 176 ] Tuscaloosa [ 174 ], Resources                                                                  [ @ 192 ] ▸
+       177 ] AL [ 178 ] 35401                                                                         [ @ 194 ] Rating: A
       [
-                               [ @ 189 ] Privacy Practices
-      [ @ 179 ] 205-759-7111                                                                            [ @ 193 ] O
+                                 [ @ 189 ] Privacy Practices
+      [ @ 179 ] 205-759-7111                                                                                  [ @ 193 ] O
 
 
 
-                                                                                                    [ @ 198 ]
-   [ 195 ] Copyright © 2023 [ @ 196 ] Privacy Policy. [ @ 197 ] Site Map
-                                                                                                    SCORPION
------------------------------------------------------------------------------------------------------------------------------
-Token count: 1281
+                                                                                                          [ @ 198 ]
+    [ 195 ] Copyright © 2023 [ @ 196 ] Privacy Policy. [ @ 197 ] Site Map
+                                                                                                         SCORPION
+------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1267

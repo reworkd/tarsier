@@ -3,7 +3,6 @@ from pathlib import Path
 from typing import Dict, Tuple, TypedDict
 from PIL import Image
 from io import BytesIO
-import html2text
 import json
 
 import numpy as np
@@ -47,18 +46,35 @@ class Tarsier(ITarsier):
         self._js_utils = load_js(self._JS_TAG_UTILS)
 
     async def page_to_image(
-        self, driver: AnyDriver, tag_text_elements: bool = False, tagless: bool = False
-    ) -> Tuple[bytes, Dict[int, str]]:
+        self,
+        driver: AnyDriver,
+        tag_text_elements: bool = False,
+        tagless: bool = False,
+        keep_tags_showing: bool = False,
+    ) -> Tuple[bytes, TagToXPath]:
         adapter = adapter_factory(driver)
         tag_to_xpath = (
             await self._tag_page(adapter, tag_text_elements) if not tagless else {}
         )
         screenshot = await self._take_screenshot(adapter)
-        if not tagless:
+        if not tagless and not keep_tags_showing:
             await self._remove_tags(adapter)
         return screenshot, tag_to_xpath if not tagless else {}
 
     async def page_to_text(
+        self,
+        driver: AnyDriver,
+        tag_text_elements: bool = False,
+        tagless: bool = False,
+        keep_tags_showing: bool = False,
+    ) -> Tuple[str, TagToXPath]:
+        image, tag_to_xpath = await self.page_to_image(
+            driver, tag_text_elements, tagless, keep_tags_showing
+        )
+        page_text = self._run_ocr(image)
+        return page_text, tag_to_xpath
+
+    async def page_to_text_colour_tag(
         self, driver: AnyDriver, tag_text_elements: bool = False
     ) -> Tuple[str, TagToXPath]:
 
@@ -68,17 +84,20 @@ class Tarsier(ITarsier):
 
         tag_to_xpath = {elem['id']: elem['xpath'] for elem in coloured_elems}
         await self._hide_non_coloured_elements(adapter)
-        await self._disable_transitions(adapter)
+        # await self._disable_transitions(adapter)
         coloured_image = await self._take_screenshot(adapter)
-        await self._enable_transitions(adapter)
+        # await self._enable_transitions(adapter)
+        screenshot_filename = f"initial_coloured_screenshot_.png"
+        with open(screenshot_filename, 'wb') as file:
+            file.write(coloured_image)
 
-        # detected_colours = await self._check_colours(coloured_image)
+        detected_colours = await self._check_colours(coloured_image)
         expected_colours = [
             (elem['color'], int(elem['boundingBoxX']), int(elem['boundingBoxY']),
              int(elem['width']), int(elem['height']))
             for elem in coloured_elems
         ]
-        detected_colours = await self._check_colours_(coloured_image, expected_colours)
+        # detected_colours = await self._check_colours_(coloured_image, expected_colours)
         # remove the colours from coloured_elems that are not common between detected_colours and coloured_elems
         detected_coloured_elems = [elem for elem in coloured_elems if elem['color'] in detected_colours]
 
@@ -88,16 +107,21 @@ class Tarsier(ITarsier):
 
         undetected_coloured_elems = [elem for elem in coloured_elems if elem['color'] not in detected_colours]
         # # Print the idSymbols of the removed elem`s
-        for elem in undetected_coloured_elems:
-            print(f"No colour found for: {elem['idSymbol']}")
+        # for elem in undetected_coloured_elems:
+        #     print(f"No colour found for: {elem['idSymbol']}")
 
         # re colour the undetected elements
         re_coloured_elems = await self._re_colour_elements(adapter, undetected_coloured_elems)
 
         # attempt to detect the missing elements after we have re coloured them
-        await self._disable_transitions(adapter)
+        # await self._disable_transitions(adapter)
         re_coloured_image = await self._take_screenshot(adapter)
-        await self._enable_transitions(adapter)
+        # await self._enable_transitions(adapter)
+        screenshot_filename = f"re_coloured_screenshot_.png"
+
+        # Write the screenshot to a file
+        with open(screenshot_filename, 'wb') as file:
+            file.write(re_coloured_image)
 
         new_detected_colours = await self._check_colours(re_coloured_image)
         # new_expected_colours = [
@@ -109,8 +133,8 @@ class Tarsier(ITarsier):
         new_detected_coloured_elems = [elem for elem in re_coloured_elems if elem['color'] in new_detected_colours]
 
         # # print the idSymbol's of the detected
-        for elem in new_detected_coloured_elems:
-            print(f"New colour found for: {elem['idSymbol']}")
+        # for elem in new_detected_coloured_elems:
+        #     print(f"New colour found for: {elem['idSymbol']}")
 
         all_detected_coloured_elems = detected_coloured_elems + new_detected_coloured_elems
 
@@ -221,29 +245,19 @@ class Tarsier(ITarsier):
 
         return screenshot
 
+    def _run_ocr(self, image: bytes) -> str:
+        ocr_text = self._ocr_service.annotate(image)
+        page_text = format_text(ocr_text)
+        return page_text
+
     async def _tag_page(
         self, adapter: BrowserAdapter, tag_text_elements: bool = False
     ) -> Dict[int, str]:
         await adapter.run_js(self._js_utils)
-        print("Ran JS")
         script = f"return window.tagifyWebpage({str(tag_text_elements).lower()});"
         tag_to_xpath = await adapter.run_js(script)
 
         return {int(key): value for key, value in tag_to_xpath.items()}
-
-    @staticmethod
-    async def get_element_text(adapter: BrowserAdapter, xpath: str) -> str:
-        safe_xpath = json.dumps(xpath)
-        script = f"return window.getElementHtmlByXPath({safe_xpath});"
-        print(f"Executing script: {script}")
-        try:
-            html_content = await adapter.run_js(script)
-        except Exception as e:
-            print(f"Error executing script: {e}")
-            raise
-        raw_text = html2text.html2text(html_content)
-
-        return raw_text
 
     async def _colour_based_tagify(
             self, adapter: BrowserAdapter, tag_text_elements: bool = False

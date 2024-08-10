@@ -1,9 +1,9 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ 0 ]
-          [ @ 3 ] Sharjah Tourism [ @ 4 ] Visit Sharjah [ @ 5 ] Sharjah Events                                             [ @ 6 ]   [ @ 7 ]  [ @ 8 ]   [ @ 9 ]    [ 10 ]
+          [ @ 3 ] Sharjah Tourism [ @ 4 ] Visit Sharjah [ @ 5 ] Sharjah Events                                            [ @ 6 ]    [ @ 7 ]  [ @ 8 ]    [ @ 9 ]   [ @ 10 ]
                                                                                                                                                                    En
          [ @ 11 ]
-         الشارقة حكومة                  [ @ 12 ] About Us ▼ [ @ 13 ] E - Services ✓ [ @ 14 ] Industry Training ✓ [ @ 15 ] Industry Resources ✓ [ @ 16 ] Media Center ✓ [ @ 19 ] Contact Us
+         الشارقة حكومة                  [ @ 12 ] About Us ✓ [ @ 13 ] E - Services ✓ [ @ 14 ] Industry Training ✓ [ @ 15 ] Industry Resources ▼ [ @ 16 ] Media Center ✓ [ @ 19 ] Contact Us
          Government of Sharjah
          التجاري بالشارقة الإنماء والسياحي هيئة
          Sharjah Commerce & Tourism الشارقة
@@ -20,7 +20,7 @@
 [ 24 ]
                                                                                                                                                                    [ @ 23 ]
          **Industry Legislatives**
-          [ @ 27 ] Home [ 25 ] >> [ @ 28 ] Industry Resources [ 26 ] » [ 29 ] Industry Legislatives
+         [ @ 27 ] Home [ 25 ] > [ @ 28 ] Industry Resources [ 26 ] [ 29 ] Industry Legislatives
 
            [ @ 30 ] Industry Resources [ @ 31 ] Industry Legislatives [ @ 32 ] Insights and Statistics [ @ 33 ] Assets library [ @ 34 ] Annual Reports [ @ 35 ] The Directory
 
@@ -28,13 +28,13 @@
 
      [ 36 ] Industry Resources
  [ 37 ]
-         **Industry Legislatives**
+ **377** **Industry Legislatives**
 
      [ 38 ] Sharjah Commerce and Development Tourism Authority aims to provide a clear and comprehensive compilation of regulatory materials allowing enterprises a solid foundation to
          flourish.
 
-      39 ] Reference Materials:
-     [
+         Reference Materials:
+     [ 39 ]
      [ 40 ] Find here the up - to - date database of industry legislatives, circulars and guidelines ( updates and archive ), a collection of laws, regulations, decisions, and other related legislation
          in order to provide legal and legislative information for tourism and hospitality businesses operating in Sharjah.
 
@@ -45,13 +45,13 @@
           [ @ 42 ] 2021 [ @ 43 ] 2020
 
             [ @ 44 ]                                 [ @ 47 ]                                 [ @ 50 ]                                [ @ 53 ]
-            [ 45 ] Circular No. 1 - Reopening of     [ 48 ] Circular No. 2 - Reopening of     [ 51 ] Circular No. 3 - Wedding         [ 54 ] Circular No. 4 - Mourning
+             [ 45 ] Circular No. 1 - Reopening of    [ 48 ] Circular No. 2 - Reopening of     [ 51 ] Circular No. 3 - Wedding         [ [ 54 ] Circular No. 4 - Mourning
             Desert Tour Activities                   Tour Operator Activities                Halls & Mass Events Capacity in          announcement
                                                                                              Sharjah
              [ 46 ] Download                         [ 49 ] Download                          [ 52 ] Download                         [ 55 ] Download
 
 
-            [ @ 56 ]                                 [ @ 59 ]                                 [ @ 62 ]                                [ @ 65 ]
+             [ @ 56 ]                                [ @ 59 ]                                 [ @ 62 ]                                [ @ 65 ]
              [ 57 ] Circular No. 5 - Update the      [ 60 ] Circular No. 6 - The upgraded     [ 63 ] Circular No. 7 - Launch of the   [ 66 ] Circular No. 8 - Wedding
             information of all hotels                version of the ID card                  new Authority website                    Halls & Mass Events Capacity in
                                                                                                                                       Sharjah
@@ -65,14 +65,14 @@
              [ 70 ] Download                         [ 73 ] Download                          [ 76 ] Download
 
 
- **77 Guidelines**
+ **77**  **Guidelines**
 
 
              [ @ 78 ]                                [ @ 81 ]                                 [ @ 84 ]
-             [ 79 ] Sharjah Hotel Establishments     [ 82 ] Guidelines reopening events.      [ 85 ] Hotel Establishments
+             [ 79 ] Sharjah Hotel Establishments     [ 82 ] Guidelines reopening events       [ 85 ] Hotel Establishments
             Precautionary Operating                  halls and wedding halls                 Precautionary Guidelines
             Guidelines Manual
-            [ 80 ] Download                          [ 83 ] Download                          [ 86 ] Download
+             [ 80 ] Download                         [ 83 ] Download                          [ 86 ] Download
 
 
 
@@ -82,22 +82,23 @@
 
                                                    [ 89 ] Quick Links                      [ 95 ] Official Info                     [ 99 ] Newsletter
 
-                                                   [ @ 90 ] About Us                            [ @ 96 ] Crescent Tower             [ 100 ] Subscribe to our newsletter to get our
+                                                  [ @ 90 ] About Us                         © [ @ 96 ] Crescent Tower               [ 100 ] Subscribe to our newsletter to get our
                                                   [ @ 91 ] E - Services                         PO Box: 26661 - Sharjah, UAE        latest updates & news
            الشارقة
            Sharjah                                 [ @ 92 ] Industry Training
                                                                                                 [ @ 97 ] +97 165566777                Email address
-          [ 87 ] We at Sharjah Commerce & Tourism [ @ 93 ] Industry Resources
-         Development Authority promote an         [ @ 94 ] Media Center                                                             [ $ 102 ]
-                                                                                                [ @ 98 ] info@sharjahtourism.ae
+          87 ] We at Sharjah Commerce & Tourism    [ @ 93 ] Industry Resources
+          [
+         Development Authority                     [ @ 94 ] Media Center                                                            [ $ 102 ]
+                            promote an                                                          [ @ 98 ] info@sharjahtourism.ae
          unparalleled destination
-           [ @ 88 ] About Us                                                                                                         [ @ 1    [ @ 1   [ @ 1    [ @ 1
-                                                                                                                                    03 ]     04 ]     05 ]    06 ]
+           [ @ 88 ] About Us                                                                                                         [ @ 1   [ @ 1    [ @ 1    [ @ 1
+                                                                                                                                    03 ]     04 ]    05 ]     06 ]
 
 
 
                                                                                                                                                                                      protected by reCAPTCHA
-          [ 107 ] Copyright © [ 109 ] 2023 [ @ 110 ] Sharjah Commerce & Tourism Development Authority ( SCTDA ) [ 108 ]. All Rights Reserved. [ @ 111 ] Privacy Policy | [ @ 112 ] Terms of Use [ @ 113 ] Sitemap
+          [ 107 ] Copyright © [ 109 ] 2023 [ @ 110 ] Sharjah Commerce & Tourism Development Authority ( SCTDA ) [ 108 ]. All Rights Reserved. [ @ 111 ] Privacy Policy [ @ 112 ] Terms of Use | [ @ 113 ] Sitemap
                                                                                                                                                                           Privacy - Terms
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1216
+Token count: 1226

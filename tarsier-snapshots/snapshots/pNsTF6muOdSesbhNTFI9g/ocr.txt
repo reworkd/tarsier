@@ -1,10 +1,11 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 0 ]  MYCHART PATIENT PORTAL                [ @ 1 ]  LOCATIONS           [ @ 2 ]  CONTACT           [ @ 3 ]  CAREERS
+[ @ 0 ]  MYCHART PATIENT PORTAL                 [ @ 1 ] LOCATIONS           [ @ 2 ]  CONTACT           [ @ 3 ]  CAREERS
                [ @ 4 ]  ESPAÑOL           [ @ 5 ]
             [ @ 6 ]
-                    Atlantic
+                     Atlantic
                      Health System
                                                                                                                                                                                 [ $ 10 ]
+
                                                                                                                                                                                Share
                                                                            [ @ 8 ]                                          [ @ 9 ]                                            [ @ 11 ]
                                                                                                                                                                               Classes &
@@ -12,7 +13,7 @@
                                                                                                                                                                                [ @ 12 ]
 
                                                                                                                                                                                [ @ 13 ]
-                                                                                                                                                                                ( a
+                                                                                                                                                                                ( a )
                                                                                                                                                                                 Get
                                                                                                                                                                               Updates
                                                                                                                                                                                [ @ 14 ]
@@ -24,10 +25,10 @@
             **[ 17 ] Morristown Medical Center**
             [ 18 ] Morristown Medical Center was ranked the number two
             hospital in New Jersey by [ 21 ] U.S. News & World Report [ 19 ] in its
-            [ @ 22 ] 2023-2024 Best Hospital rankings [ 20 ], and was ranked
+            [ @ 22 ] 2023-2024 Best Hospital rankings [ 20 ] ], and was ranked
            among the best 50 hospitals in the nation for Cardiology, Heart &
-           Vascular Surgery; Ear,        Nose & Throat ( ENT ); Geriatrics; Obstetrics
-            & Gynecology Orthopedics, and Pulmonology & Lung Surgery. It
+           Vascular Surgery; Ear, Nose & Throat ( ENT ); Geriatrics; Obstetrics
+           & Gynecology Orthopedics, and Pulmonology & Lung Surgery. It
            was also recognized in 20 common adult procedures and
             conditions.
 
@@ -35,11 +36,12 @@
 
 
             **[ 24 ] Overlook Medical Center**
+
             [ 25 ] Named one of [ @ 29 ] America's 50 Best Hospitals [ 26 ] by
             Healthgrades and recognized as a [ @ 30 ] Best Regional
             Hospital [ 27 ] in the NY Metro area by [ 31 ] U.S. News & World
-            Report [ 28 ] for the thirteenth consecutive year, Overlook Medical
-           Center is home to the Atlantic Neuroscience Institute, which serves
+            Report [ 28 ] ] for the thirteenth consecutive year, Overlook Medical
+            Center is home to the Atlantic Neuroscience Institute, which serves
             as a hub for the New Jersey Stroke Network.
 
                  [ @ 32 ] LEARN MORE
@@ -58,12 +60,12 @@
                  [ @ 37 ] LEARN MORE
 
 
-                                                                                                                                     Chilton
-            **[ 38 ] Chilton Medical Center**                                                                                               Medical
+                                                             **Center**                                                              Chilton
+            **[ 38 ] Chilton Medical**                                                                                                      Medical
                                                                                                                                                   Center
             [ 39 ] Chilton Medical Center has been named the [ @ 41 ] top mid-
             sized hospital [ 40 ] in New Jersey for eight consecutive years by
-           Castle Connolly Medical, Ltd., and the Chilton Breast Center has
+            Castle Connolly Medical, Ltd., and the Chilton Breast Center has
             been designated a Breast Imaging Center of Excellence by the
            American College of Radiology.
 
@@ -85,7 +87,7 @@
             **[ 46 ] Goryeb Children's Hospital**
             [ 47 ] Goryeb Children's Hospital is a state - designated" Children's
             Hospital" - an earned recognition from New Jersey and the national
-            Children's Hospital Association. We have more than 250 community
+           Children's Hospital Association. We have more than 250 community
             pediatricians on staff and more than 100 board - certified pediatric
             specialists.
 
@@ -111,10 +113,10 @@
                                                                                                                   [ @ 65 ] Secure AHS Remote Access
             [ @ 55 ] Stay Connected                  [ @ 58 ] Research & Clinical
                                                     Trials
-                                                                                                                   [ 66 ] Find a Doctor:     [ @ 67 ] 1-800-247-9580
-                                                                                                                                              [ @ 68 ] Ver en Español
+                                                                                                                  [ 66 ] Find a Doctor:      [ @ 67 ] 1-800-247-9580
+                                                                                                                                             [ @ 68 ] Ver en Español
 
-            [ 69 ] 2023 Atlantic Health System       [ @ 70 ] Notice of Privacy Practices   [ @ 71 ] Code of Ethics   [ @ 72 ] Disclaimer    [ @ 73 ] Language
+            [ 69 ] © 2023 Atlantic Health System    [ @ 70 ] Notice of Privacy Practices    [ @ 71 ] Code of Ethics   [ @ 72 ] Disclaimer    [ @ 73 ] Language
                                                     Assistance      [ @ 74 ] Accessibility   [ @ 75 ] Terms of Use
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1179
+Token count: 1182

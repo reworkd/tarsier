@@ -1,18 +1,18 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 1 ] [ 3 ] Surrey, BC [ 2 ] V3Z [ @ 4 ] MyChart [ @ 5 ] Pay My Bill [ @ 6 ] Careers [ $ 7 ] My Account
          [ @ 8 ]
-                                                          [ @ 9 ] Find a Doctor [ $ 10 ] Locations [ $ 19 ] Services [ $ 29 ] Get Care [ @ 34 ]
-                SWEDISH
+                                                          [ @ 9 ] Find a Doctor [ $ 10 ] Locations [ $ 19 ] Services [ $ 291 Get Care  [ @ 34 ]
+          **+ SWEDISH**
 
-      [ 35 ]  Our Visitor Policy has Changed. [ 36 ] Review our [ @ 37 ] Masking and Visitor Guidance
+      [ 35 ]  Our Visitor Policy has changed. [ 36 ] Review our [ @ 37 ] Masking and Visitor Guidance
 
 
   [ 38 ]
            **Find a Location**
 
-           [ # 39 ]                                                 [ # 41 ]
+            [ # 39 ]                                                [ # 41 ]
                                                                                                             [ @ 43 ] Search for Locations
-             [ $ 40 ] Facility, service, or treatment                 [ $ 42 ] Enter a zip code
+             [ $ 40 ] Facility, service, or treatment                 [ 542 ] Enter a zip code
              Urgent Care
 
        [ 44 ] Showing 1-3 of 3
@@ -33,65 +33,64 @@
 
            [ 59 ] [ @ 60 ] Swedish Urgent Care - Factoria
                [ @ 61 ]
-               [ 62 ] 3900 Factoria Blvd SE, Suite A
+               [ [ 62 ] 3900 Factoria Blvd SE, Suite A
                [ 63 ] Bellevue, Washington 98006
                  [ 64 ] 110.0 miles away
                  [ 65 ] 206-320-2001
 
 
-                                                                  [ @ 80 ] [ @ 81 ] 1  [ @ 82 ]
+                                                                     <    [ @ 80 ] 1 >
 
 
 
-                                        **[ 83 ] Safe In - Person & Virtual Appointments**
+                                        **[ 81 ] Safe In - Person & Virtual Appointments**
 
-       [ 84 ] Whether you need attention for something minor or major, we've put in place additional protocols to make sure you feel comfortable and confident
+       [ 82 ] Whether you need attention for something minor or major, we've put in place additional protocols to make sure you feel comfortable and confident
                                                                   every time you seek care.
 
 
-                                                              **住**                                         60
+                                                                                                            60
 
-               [ 85 ] Get Care Virtually                     [ 88 ] Same Day Care                         [ 91 ] See a Doctor
-                [ 86 ] See a health care provider            [ 89 ] See a health care provider today      [ 92 ] Appointments can be scheduled
+               [ 83 ] Get Care Virtually                     [ 86 ] Same Day Care                         [ 89 ] See a Doctor
+               [ 84 ] See a health care provider             [ 87 ] See a health care provider today      [ 90 ] Appointments can be scheduled
                without going to a doctor's office. Our       at a convenient neighborhood urgent          by video, phone or in - person with a
                virtual visit services can treat and          or ExpressCare clinic, now open with         provider. Call your provider's office to
-               diagnose through online video and             extended hours, 7 days a week.               discuss your needs.
+               diagnose through online video and            extended hours, 7 days a week.                discuss your needs.
                phone appointments.
                                                                             See Clinic
-                                                                   [ @ 90 ]
-                      [ @ 87 ] Get Virtual Care                             Locations                           [ @ 93 ] Find a Doctor
+                                     Care                          [ @ 88 ]
+                     [ @ 85 ] Get Virtual                                   Locations                           [ @ 91 ] Find a Doctor
 
 
 
 
 
-           [ 94 ] OUR MISSION                                                   [ 101 ] ACROSS SWEDISH            [ 107 ] RESOURCES
-           [ 95 ] Improve the health and well - being of each person we serve.  [ @ 102 ] About Us                [ @ 108 ] For Caregivers ( our
+           [ 92 ] OUR MISSION                                                   [ 99 ] ACROSS SWEDISH            [ 105 ] RESOURCES
+           [ 93 ] Improve the health and well - being of each person we serve.  [ @ 100 ] About Us                [ @ 106 ] For Caregivers ( our
                                                                                                                  employees )
-                                                                                [ @ 103 ] Help us improve health care
-           [ 96 ] OUR VALUES                                                                                      [ @ 109 ] Careers
-                                                                                [ @ 104 ] Annual Report to Our
-           [ 97 ] Compassion, Dignity, Justice, Excellence, Integrity, Safety. Communities                        [ @ 110 ] Physician & Provider Careers
-           [ @ 99 ] Learn more about our mission, vision and values [ 98 ].     [ @ 105 ] Community Health Needs  [ @ 111 ] Transfer & Operations Center
+                                                                               [ @ 101 ] Help us improve health care
+           [ 94 ] OUR VALUES                                                                                     [ @ 107 ] Careers
+                                                                                [ @ 102 ] Annual Report to Our
+           [ 95 ] Compassion, Dignity, Justice, Excellence, Integrity, Safety. Communities                       [ @ 108 ] Physician & Provider Careers
+           [ @ 97 ] Learn more about our mission, vision and values [ 96 ].    [ @ 103 ] Community Health Needs   [ @ 109 ] Transfer & Operations Center
                                                                                Assessments and Improvement Plans
-                                                                                                                  [ @ 112 ] Classes and Events
-                                                                                [ @ 106 ] Our Doctors
-                 [ @ 100 ] Contact Us                                                                             [ @ 113 ] Online Bill Pay & Financial
+                                                                                                                 [ @ 110 ] Classes and Events
+                                                                               [ @ 104 ] Our Doctors
+                 [ @ 98 ] Contact Us                                                                             [ @ 111 ] Online Bill Pay & Financial
                                                                                                                  Assistance
-                                                                                                                  [ @ 114 ] Get a Price Estimate
-                                                                                                                  [ @ 115 ] Pricing Transparency
-                                                                                                                  [ @ 116 ] Read our blog
+                                                                                                                 [ @ 112 ] Get a Price Estimate
+                                                                                                                  [ @ 113 ] Pricing Transparency
+                                                                                                                  [ @ 114 ] Read our blog
 
 
 
 
-     [ 117 ] CONNECT WITH US
+     [ 115 ] CONNECT WITH US
 
-         [ @ 118 ]   [ @ 119 ]  [ @ 120 ]   [ @ 121 ]
+         [ @ 116 ] ( f [ @ 117 ] [ @ 118 ] O [ @ 119 ]
+         [ @ 120 ] Disclaimer Terms Of Use | [ @ 121 ] Terms of Use & Privacy Policy | [ @ 122 ] Notice of Nondiscrimination and Communication Assistance
+           [ @ 123 ] Notice of Privacy Practices [ @ 124 ] Patient Rights
 
-         [ @ 122 ] Disclaimer Terms Of Use | [ @ 123 ] Terms of Use & Privacy Policy [ @ 124 ] Notice of Nondiscrimination and Communication Assistance
-           [ @ 125 ] Notice of Privacy Practices [ @ 126 ] Patient Rights
-
-     [ 127 ] 2023 Swedish Medical Center. All Rights Reserved.
+     [ 125 ] 2023 Swedish Medical Center. All Rights Reserved.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1050
+Token count: 1042

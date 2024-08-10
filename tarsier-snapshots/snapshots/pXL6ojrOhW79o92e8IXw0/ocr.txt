@@ -1,11 +1,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ [ @ 3 ]                                                                            [ $ 6 ]
-   [ $ 0 ] =                                                                                                                                                  Q
-                              [ @ 1 ] FIND A PROVIDER                                                               [ @ 4 ] LOCATIONS
-      MENU                                                                                                                                               FIND HELP
-                                                                        **UL Health**
-                                                                                                                                                             NOW
-           [ @ 7 ]
+[ @ 3 ]                                                                               [ $ 6 ]
+   [ [ $ 0 ] =                [ @ 1 ] FIND A PROVIDER
+                                                                                                                     [ @ 4 ] LOCATIONS                   FIND HELP
+      MENU                                                              **UL Health**
+           [ @ 7 ]                      191                                                                                                                  NOW
 
                                   [ @ 2 ] SERVICES                                                           [ @ 5 ] PATIENTS AND VISITORS
 
@@ -16,12 +14,12 @@
                                                                           Outpatient Care Center
 
 [ 10 ]
-          **Gl Motility Clinic**
+          **GI Motility Clinic**
 
 
     [ 11 ] Location Information
                                                    **[ 12 ] GI Motility Clinic**                                [ 21 ] Schedule An
-                                                   [ 13 ] UofL Health - Jewish Hospital Outpatient Care         **Appointment**
+                                                   [ 13 ] UofL Health - Jewish Hospital Outpatient Care         Appointment
                                                    Center
                                                    [ 14 ] 225 Abraham Flexner Way, Suite 502                        [ @ 22 ] APPOINTMENTS
                                                    [ 15 ] Louisville, [ 16 ] KY [ 17 ] 40202
@@ -31,13 +29,13 @@
 
                                                        [ @ 20 ] Get Directions
 
-   [ 25 ] Services Offered
-           [ @ 26 ] Colorectal Screening [ 23 ] | [ @ 27 ] Gastroenterology. [ 24 ] | [ @ 28 ] Digestive And Liver Health
+    [ 25 ] Services Offered
+           [ @ 26 ] Colorectal Screening [ 23 ] | [ @ 27 ] Gastroenterology. [ 24 ] [ @ 28 ] Digestive And Liver Health
 
 
 
     [ 29 ] Overview
-           [ 30 ] Welcome to the University of Louisville Gl Motility Clinic.
+           [ 30 ] Welcome to the University of Louisville GI Motility Clinic.
            [ 31 ] Thank you for choosing us to provide excellent patient care for your Gastroenterology Motility needs.
       [ 32 ] We are so glad that you have trusted us with your health, our team is ready to work with you as you take steps to improve your
           gastroenterology health.
@@ -51,22 +49,22 @@
             5. [ 39 ] Nutritional support and IV infusions
            [ 40 ] We want you to get the most out of your time in our office and interacting with staff
            [ 41 ] In this packet you will find [ 42 ]:
-            ⚫ [ 43 ] Provider information
-             ⚫ [ 44 ] Staff names and contact details
+            •  [ 43 ] Provider information
+               [ 44 ] Staff names and contact details
                [ 45 ] General office information
                [ 46 ] What to expect during initial and future appointments
-            ⚫ [ 47 ] Information about your diagnosis
+            •  [ 47 ] Information about your diagnosis
            [ 48 ] General Information
                [ 49 ] MyChart [ 50 ] is a tool we use within the organization to communicate and connect with patients. If you are not currently signed up
                it is [ 51 ] strongly [ 52 ] encouraged that you do. Access to MyChart allows more opportunity to connect with the office or providers without
                the hassle of calling and waiting on hold or leaving a voicemail. Through MyChart you can request medication refills, appointments, and
                ask questions to your care team.
-          [ 53 ] Initial visits to the office are with the MD. These visits include an assessment of current and past symptoms, medical history, and
+          [ 53 ] Initial visits to the office are with the MD. These visits include an assessment of current and past symptoms, medical history,   and
                sometimes include follow - up lab work or testing. All information regarding follow up care will be given and discussed with you before you
                leave.
                [ 54 ] FMLA Disability paperwork will not be filled out until you have received care in our office for 3 months.
-            ⚫ [ 55 ] Follow up visits are typically with the NP or PA.
-             ⚫ [ 56 ] If you are experiencing any issues or have any questions regarding your care, please reach out to the office.
+            .  [ 55 ] Follow up visits are typically with the NP or PA.
+               [ 56 ] If you are experiencing any issues or have any questions regarding your care, please reach out to the office.
            [ 57 ] Office Providers
            [ 58 ] Dr. Thomas Abell
            [ 59 ] Dr. Abigail Stocker
@@ -75,12 +73,12 @@
            [ 62 ] Lindsay McElmurray PA
            [ 63 ] Office staff and Contacts [ 64 ]:
            [ 65 ] Christina [ 66 ] - [ @ 67 ] 502-588-8507
-             ⚫ [ 68 ] Dr. Abell
+            •  [ 68 ] Dr. Abell
                [ 69 ] Permanent Stimulator scheduling / authorizations
            [ 70 ] Derrika [ 71 ] - [ @ 72 ] 502-588-7696
             ⚫ [ 73 ] Dr. Rogers and Carmelita
            [ 74 ] Jasmine [ 75 ] - [ @ 76 ] 502-588-0420
-            ⚫ [ 77 ] Dr. Stocker and Lindsay
+               [ 77 ] Dr. Stocker and Lindsay
            [ 78 ] Nurse Line for general questions, concerns, or problems
            [ 79 ] Cheryl [ 80 ] - [ @ 81 ] 502-588-8504
            [ 82 ] Medical Scheduler
@@ -91,41 +89,41 @@
            [ 91 ] Nicole - [ @ 92 ] 502-588-7690
            [ 93 ] BaNae - [ @ 94 ] 502-588-7690
            [ 95 ] Practice Manager
-           [ 96 ] Ashley Beams [ 97 ] - [ @ 98 ] 502-588-7693
+           [ 96 ] Ashley Beams [ 97 ]  [ @ 98 ] 502-588-7693
            [ 99 ] Research Department
            [ @ 100 ] 502-540-1400
            [ 101 ] Research Nurse
            [ 102 ] Bridget Cannon - [ @ 103 ] 502-540-1428
-[ 104 ]                       **Clinic Providers**
-          **Gl Motility**
+[ 104 ]                                   **Providers**
+          **GI Motility Clinic**
 
 
-              [ @ 105 ]                            [ @ 111 ]                             [ @ 121 ]                             [ @ 127 ]
+              [ @ 105 ]                             [ @ 111 ]                             [ @ 121 ]                            [ @ 127 ]
 
-                        **UoFL**
+                        **UL**
                     **Health**
 
-               [ 106 ] Carmelita                     [ 112 ] Benjamin                        **[ 122 ] Abigail**                  [ 128 ] Lindsay
-              **Moppins, APRN**                        Rogers, M.D.                         Stocker, M.D.                          McElmurray,
+               [ 106 ] Carmelita                     **[ 112 ] Benjamin**                    [ 122 ] Abigail                      [ 128 ] Lindsay
+              Moppins, APRN                            Rogers, M.D.                         Stocker, M.D.                          McElmurray,
                [ 107 ] Digestive and Liver           [ 113 ] Gastroenterology,             [ 123 ] Digestive and Liver                   PA - C
-                        Health,                      [ 114 ] Reflux, Swallowing                     Health,                      129 ] Digestive and Liver
-                                                                                                                                [
-                [ 108 ] Gastroenterology               and Hernia Center,                   [ 124 ] Gastroenterology                     Health,
-                                                     [ 115 ] Digestive and Liver                                                 [ 130 ] Gastroenterology
+                        Health,                      [ 114 ] Reflux, Swallowing                     Health,
+                                                                                                                                 [ 129 ] Digestive and Liver
+                [ 108 ] Gastroenterology                and Hernia Center,                  [ 124 ] Gastroenterology                      Health,
+                                                     [ 115 ] Digestive and Liver                                                  [ 130 ] Gastroenterology
                 [ 109 ] Areas of Interest                                                  [ 125 ] Areas of Interest
                                                               Health,
                  [ 110 ] Gastroenterology |                                               [ 126 ] Gastrointestinal Motility      [ 131 ] Areas of Interest
-                 Gastrointestinal Motility                 [ 116 ] Reflux,                         Disorders I
-                                                         [ 117 ] Swallowing                                                    [ 132 ] Gastrointestinal Motility
-                Disorders | Gastroparesis                                                    Gastroparesis / Gastric
-                                                            Problems,                                                            Disorders | Gastroparesis
+                 Gastrointestinal Motility                 [ 116 ] Reflux,                         Disorders |
+                                                         [ 117 ] Swallowing                                                     [ 132 ] ] Gastrointestinal Motility
+                Disorders | Gastroparesis                                                     Gastroparesis / Gastric
+                                                            Problems,                                                             Disorders | Gastroparesis
                                                                                               Stimulation | General
-                                                            [ 118 ] Hernia                     Gastroenterology
+                                                            [ 118 ] Hernia                      Gastroenterology
                                                       [ 119 ] Areas of Interest
-                                                     [ 120 ] Chronic Constipation I
-                                                    Chronic GERD I Dysphagia |
+                                                     [ 120 ] Chronic Constipation |
+                                                    Chronic GERD | Dysphagia |
                                                        Gastrointestinal Motility
-                                                             Disorders
+                                                              Disorders
 
 
 
@@ -141,31 +139,31 @@
                   [ 136 ] Brain & Spine
                                                                                               [ 142 ] Patient Stories
                **[ 137 ] Elvis Golja Stroke Patient**
-              Story                                                                        **[ 143 ] A New Heart**
+               Story                                                                        **[ 143 ] A New Heart**
                [ 138 ] UofL Health [ 139 ]     [ 140 ] May 16, 2023                         [ 144 ] UofL Health [ 145 ]     [ 146 ] February 2, 2023
 
 
                                                                      [ @ 147 ] VIEW ALL ARTICLES
 
-                                                                                                                                                                     [ 149 ] S
-                                                                                                                                                        [ @ 148 ]    [ 150 ] Ap
+                                                                                                                                                        [ 148        [ 149 ] S
+                                                                                                                                                              ]     [ 150 ] A
 
 
            [ @ 151 ]                                   [ @ 159 ] Find A Provider           [ @ 164 ] Appointments               [ @ 169 ] For Health Care
                                                                                                                                 Professionals
-          **UF Health**                                [ @ 160 ] Services                  [ @ 165 ] About UofL Health
-                                                                                                                                [ @ 170 ] News
+          **UL Health**                                [ @ 160 ] Services                  [ @ 165 ] About UofL Health
+                                                                                                                                 [ @ 170 ] News
                                                        [ @ 161 ] Locations                 [ @ 166 ] Health Library
                                                                                                                                 [ @ 171 ] Pay My Bill
            [ 152 ] Follow Us                           [ @ 162 ] Patients and              [ @ 167 ] Careers
-                                                       Visitors                                                                 [ @ 172 ] Ways to Give
-           [ @ 153 ] [ @ 154 ] [ @ 155 ] [ @ 156 ] [ 157 ] [ @ 158 ]                       [ @ 168 ] Volunteer
-                                     Ժ       in        [ @ 163 ] Patient Portal           Information
+                                                       Visitors                                                                  [ @ 172 ] Ways to Give
+           [ @ 153 ] [ @ 154 ] [ @ 155 ] [ @ 156 ] [ @ 157 ] [ @ 158 ]                     [ @ 168 ] Volunteer
+                             O        Ժ       in       [ @ 163 ] Patient Portal            Information
                                                                                                                                 [ @ 173 ] Contact
 
 
            [ 174 ] © 2023 UofL Health. All Rights Reserved [ @ 175 ] Nondiscrimination Notice [ @ 176 ] Terms of Use [ @ 177 ] Notice of Privacy Practices
-                                                       [ @ 178 ] Code of Conduct  [ @ 179 ] Privacy Policy.
+                                                       [ @ 178 ] Code of Conduct   [ @ 179 ] Privacy Policy.
 
      [ 180 ]  UofL Health complies with applicable Federal civil rights laws and does not discriminate on the basis of race, color, national origin, age, disability or sex
            ( including discrimination based on pregnancy, gender identity and sex stereotyping ) when providing or administering health - related insurance or other health-
@@ -177,4 +175,4 @@
            partner with UofL Health, Inc. to maintain and enhance the University of Louisville's affiliated graduate medical education as well as its research in medicine,
                                                                     dentistry, nursing and public health.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2386
+Token count: 2365
