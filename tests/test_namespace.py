@@ -50,7 +50,7 @@ async def test_fix_namespaces(browser_adapter_with_js):
 
     for value in test_cases:
         input_tag, expected_output = value
-        result = await browser_adapter_with_js.run_js(f"fixNamespaces('{input_tag}')")
+        result = await browser_adapter_with_js.run_js(f"window.fixNamespaces('{input_tag}')")
 
         assert (
             result == expected_output
@@ -66,7 +66,7 @@ async def test_xpath_namespace(tarsier, async_page):
 
     _, tag_to_xpath = await tarsier.page_to_text(async_page, tag_text_elements=True)
     assert len(tag_to_xpath) == 1, "The page contains only a single tag"
-    assert tag_to_xpath[0] == '//html/body/*[name()="sc:visitoridentification"]/div', (
+    assert tag_to_xpath[0] == '(//html/body/*[name()="sc:visitoridentification"]/div/text())[1]', (
         f"Namespaces within the xpath were not correctly handled "
         f"Got: {tag_to_xpath}"
     )
