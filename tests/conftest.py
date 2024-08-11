@@ -4,6 +4,7 @@ from os import environ
 
 import pytest
 import pytest_asyncio
+from dotenv import load_dotenv
 from playwright.async_api import async_playwright
 from playwright.sync_api import sync_playwright
 from selenium import webdriver
@@ -11,7 +12,6 @@ from selenium.webdriver.chrome.service import Service as ChromeService
 from webdriver_manager.chrome import ChromeDriverManager
 
 from tarsier import GoogleVisionOCRService, Tarsier, MicrosoftAzureOCRService
-from dotenv import load_dotenv
 
 IN_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
 
