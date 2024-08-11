@@ -3,17 +3,21 @@ import os
 import pytest
 
 
-@pytest.mark.skip(reason="for testing after implementation of two phase tagging")
 @pytest.mark.asyncio
 @pytest.mark.parametrize(
     "html_file, expected_tag_to_xpath, expected_page_text, expected_tag_string",
     [
-        ("mock_html/text_only.html", {0: "//html/body/h1"}, ["Hello, World!"], ["[0]"]),
+        (
+            "mock_html/text_only.html",
+            {0: "//html/body/h1/text()"},
+            ["Hello, World!"],
+            ["[ 0 ]"],
+        ),
         (
             "mock_html/hyperlink_only.html",
             {0: '//html/body/p/a[@id="link1"]'},
             ["Example Link 1"],
-            ["[@0]"],
+            ["[ @ 0 ]"],
         ),
         (
             "mock_html/interactable_only.html",
@@ -22,23 +26,23 @@ import pytest
                 1: '//html/body/input[@id="checkbox"]',
             },
             ["Click Me"],
-            ["[$0]", "[$1]"],
+            ["[ $ 0 ]", "[ $ 1 ]"],
         ),
         (
             "mock_html/combination.html",
             {
                 0: '//html/body/input[1][@id="text"]',
                 1: '//html/body/input[2][@id="checkbox"]',
-                2: "//html/body/p",
+                2: "//html/body/p/text()",
             },
             ["Enter text here", "Some random text"],
-            ["[#0]", "[$1]", "[2]"],
+            ["[ # 0 ]", "[ $ 1 ]", "[ 2 ]"],
         ),
         (
             "mock_html/insertable_only.html",
             {0: '//html/body/input[@id="text"]'},
             ["Enter text here"],
-            ["#0"],
+            ["[ # 0 ]"],
         ),
         (
             "mock_html/br_elem.html",
