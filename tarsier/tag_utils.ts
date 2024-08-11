@@ -10,7 +10,7 @@ const tarsierId = "__tarsier_id";
 const tarsierSelector = `#${tarsierId}`;
 const reworkdVisibilityAttr = "reworkd-original-visibility";
 
-const elIsClean = (el: HTMLElement) => {
+const elIsVisible = (el: HTMLElement) => {
   const rect = el.getBoundingClientRect();
   const computedStyle = window.getComputedStyle(el);
 
@@ -20,11 +20,38 @@ const elIsClean = (el: HTMLElement) => {
     el.hidden ||
     (el.hasAttribute("disabled") && el.getAttribute("disabled"));
 
-  const isTransparent = computedStyle.opacity === "0";
+  const has0Opacity = computedStyle.opacity === "0";
+  // Often input elements will have 0 opacity but still have some interactable component
+  const isTransparent = has0Opacity && !hasLabel(el);
   const isZeroSize = rect.width === 0 || rect.height === 0;
   const isScriptOrStyle = el.tagName === "SCRIPT" || el.tagName === "STYLE";
   return !isHidden && !isTransparent && !isZeroSize && !isScriptOrStyle;
 };
+
+function hasLabel(element: HTMLElement): boolean {
+  const tagsThatCanHaveLabels = ["input", "textarea", "select", "button"];
+
+  if (!tagsThatCanHaveLabels.includes(element.tagName.toLowerCase())) {
+    return false;
+  }
+
+  const escapedId = CSS.escape(element.id);
+  const label = document.querySelector(`label[for="${escapedId}"]`);
+
+  if (label) {
+    return true;
+  }
+
+  // The label may not be directly associated with the element but may be a sibling
+  const siblings = Array.from(element.parentElement?.children || []);
+  for (let sibling of siblings) {
+    if (sibling.tagName.toLowerCase() === "label") {
+      return true;
+    }
+  }
+
+  return false;
+}
 
 const isNonWhiteSpaceTextNode = (child: ChildNode) => {
   // also check for zero width space directly
@@ -65,10 +92,12 @@ const isTextInsertable = (el: HTMLElement) =>
   (el.tagName.toLowerCase() === "input" &&
     text_input_types.includes((el as HTMLInputElement).type));
 
-const emptyTagWhitelist = ["input", "textarea", "select", "button"];
-const isEmpty = (el: HTMLElement) => {
+// These tags won't have text but will still be important to tag
+const textLessTagWhiteList = ["input", "textarea", "select", "button"];
+
+const isTextLess = (el: HTMLElement) => {
   const tagName = el.tagName.toLowerCase();
-  if (emptyTagWhitelist.includes(tagName)) return false;
+  if (textLessTagWhiteList.includes(tagName)) return false;
   if (el.childElementCount > 0) return false;
   if ("innerText" in el && el.innerText.trim().length === 0) {
     // look for svg or img in the element
@@ -237,39 +266,6 @@ function getAllElementsInAllFrames(): HTMLElement[] {
   return allElements;
 }
 
-function hasLabel(element: HTMLElement): boolean {
-  const tagNames = ["input", "textarea", "select", "button"];
-
-  if (!tagNames.includes(element.tagName.toLowerCase())) {
-    return false;
-  }
-
-  const escapedId = CSS.escape(element.id);
-  const label = document.querySelector(`label[for="${escapedId}"]`);
-
-  if (label) {
-    return true;
-  }
-
-  let prevSibling = element.previousElementSibling;
-  while (prevSibling) {
-    if (prevSibling.tagName.toLowerCase() === "label") {
-      return true;
-    }
-    prevSibling = prevSibling.previousElementSibling;
-  }
-
-  let nextSibling = element.nextElementSibling;
-  while (nextSibling) {
-    if (nextSibling.tagName.toLowerCase() === "label") {
-      return true;
-    }
-    nextSibling = nextSibling.nextElementSibling;
-  }
-
-  return false;
-}
-
 function getElementsToTag(
   allElements: HTMLElement[],
   tagLeafTexts: boolean,
@@ -277,12 +273,8 @@ function getElementsToTag(
   const elementsToTag: HTMLElement[] = [];
 
   for (let el of allElements) {
-    if (isEmpty(el) || !elIsClean(el)) {
-      if (!hasLabel(el)) {
-        // if the element is not visible
-        // but has a label then we still tag it.
-        continue;
-      }
+    if (isTextLess(el) || !elIsVisible(el)) {
+      continue;
     }
 
     if (isInteractable(el)) {
@@ -391,7 +383,7 @@ function absolutelyPositionMissingTags() {
 
     const dx = Math.abs(parentCenter.x - tagCenter.x);
     const dy = Math.abs(parentCenter.y - tagCenter.y);
-    if (dx > distanceThreshold || dy > distanceThreshold || !elIsClean(tag)) {
+    if (dx > distanceThreshold || dy > distanceThreshold || !elIsVisible(tag)) {
       tag.style.position = "absolute";
 
       // Ensure the tag is positioned within the screen bounds
