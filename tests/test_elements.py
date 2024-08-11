@@ -1,4 +1,5 @@
 import os
+
 import pytest
 
 
@@ -65,8 +66,6 @@ async def test_combined_elements_page(
     page_text, tag_to_xpath = await tarsier.page_to_text(
         async_page, tag_text_elements=True
     )
-    # print(expected_page_text)
-    # print(page_text)
 
     assert tag_to_xpath == expected_tag_to_xpath, (
         f"tag_to_xpath does not match expected output for "
@@ -74,8 +73,6 @@ async def test_combined_elements_page(
     )
 
     for expected_text in expected_page_text:
-        print(expected_text)
-        print(page_text)
         assert expected_text in page_text, (
             f"Expected text '{expected_text}' not found in page text for {html_file}. "
             f"Got: {page_text}"
