@@ -227,7 +227,7 @@ function create_tagged_span(idNum: number, el: HTMLElement) {
   idSpan.style.webkitTextFillColor = "white";
   idSpan.style.textShadow = "";
   idSpan.style.textDecoration = "none";
-  idSpan.style.letterSpacing = "0px"
+  idSpan.style.letterSpacing = "0px";
 
   idSpan.setAttribute(tarsierDataAttribute, idNum.toString());
 
@@ -355,7 +355,9 @@ function insertTags(
       }
       idNum++;
     } else if (tagLeafTexts) {
-      const textNodes = Array.from(el.childNodes).filter(isNonWhiteSpaceTextNode);
+      const textNodes = Array.from(el.childNodes).filter(
+        isNonWhiteSpaceTextNode,
+      );
       for (let child of textNodes) {
         const parentXPath = getElementXPath(el);
         const textNodeIndex = textNodes.indexOf(child) + 1;
@@ -382,9 +384,9 @@ function absolutelyPositionMissingTags(idToXpath: { [key: number]: string }) {
   */
   const distanceThreshold = 500;
 
-  const tags: NodeListOf<HTMLElement> = document.querySelectorAll(tarsierSelector);
+  const tags: NodeListOf<HTMLElement> =
+    document.querySelectorAll(tarsierSelector);
   tags.forEach((tag) => {
-
     // The parent is the node containing the tag. The reference is the node the tag is attempting to tag
     // These two will differ when the tag is for a textNode as a single parent tag can have multiple textNode children
     const parent = tag.parentElement as HTMLElement;
@@ -396,11 +398,16 @@ function absolutelyPositionMissingTags(idToXpath: { [key: number]: string }) {
       document,
       null,
       XPathResult.FIRST_ORDERED_NODE_TYPE,
-      null
+      null,
     ).singleNodeValue;
 
     if (!reference) {
-      console.error("Reference node not found for tag", tag, "with XPath", xpath);
+      console.error(
+        "Reference node not found for tag",
+        tag,
+        "with XPath",
+        xpath,
+      );
       return;
     }
 
@@ -414,7 +421,10 @@ function absolutelyPositionMissingTags(idToXpath: { [key: number]: string }) {
     }
 
     if (!referenceRect) {
-      console.error("Could not get bounding client rect for reference node", reference);
+      console.error(
+        "Could not get bounding client rect for reference node",
+        reference,
+      );
       return;
     }
 
