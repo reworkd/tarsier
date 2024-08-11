@@ -92,7 +92,7 @@ const isTextInsertable = (el: HTMLElement) =>
   (el.tagName.toLowerCase() === "input" &&
     text_input_types.includes((el as HTMLInputElement).type));
 
-// These tags won't have text but will still be important to tag
+// These tags may not have text but can still be interactable
 const textLessTagWhiteList = ["input", "textarea", "select", "button"];
 
 const isTextLess = (el: HTMLElement) => {
