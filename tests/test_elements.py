@@ -7,7 +7,12 @@ import pytest
 @pytest.mark.parametrize(
     "html_file, expected_tag_to_xpath, expected_page_text, expected_tag_string",
     [
-        ("mock_html/text_only.html", {0: "//html/body/h1/text()"}, ["Hello, World!"], ["[ 0 ]"]),
+        (
+            "mock_html/text_only.html",
+            {0: "//html/body/h1/text()"},
+            ["Hello, World!"],
+            ["[ 0 ]"],
+        ),
         (
             "mock_html/hyperlink_only.html",
             {0: '//html/body/p/a[@id="link1"]'},
