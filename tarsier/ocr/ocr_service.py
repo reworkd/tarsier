@@ -8,7 +8,7 @@ from google.cloud import vision
 
 from tarsier.ocr.types import ImageAnnotatorResponse, ImageAnnotation
 
-OCRProvider = Literal["google", "microsoft"]
+OCRProvider = Literal["google", "microsoft", "dummy"]
 
 
 class OCRService(ABC):
@@ -18,6 +18,18 @@ class OCRService(ABC):
     @abstractmethod
     def annotate(self, image_file: bytes) -> ImageAnnotatorResponse:
         pass
+
+
+class DummyOCRService(OCRService):
+    """
+    A dummy OCR service that does nothing. Useful for when you don't ever use page_to_text
+    """
+
+    def __init__(self) -> None:
+        super().__init__("dummy")
+
+    def annotate(self, image_file: bytes) -> ImageAnnotatorResponse:
+        return []
 
 
 class GoogleVisionOCRService(OCRService):

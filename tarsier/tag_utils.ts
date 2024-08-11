@@ -525,21 +525,21 @@ window.hideNonTagElements = () => {
 };
 
 window.fixNamespaces = (tagName: string): string => {
-    // Namespaces in XML give elements unique prefixes (e.g., "a:tag").
-    // Standard XPath with namespaces can fail to find elements.
-    // The `name()` function returns the full element name, including the prefix.
-    // Using "/*[name()='a:tag']" ensures the XPath matches the element correctly.
-    const validNamespaceTag = /^[a-zA-Z_][\w\-.]*:[a-zA-Z_][\w\-.]*$/;
+  // Namespaces in XML give elements unique prefixes (e.g., "a:tag").
+  // Standard XPath with namespaces can fail to find elements.
+  // The `name()` function returns the full element name, including the prefix.
+  // Using "/*[name()='a:tag']" ensures the XPath matches the element correctly.
+  const validNamespaceTag = /^[a-zA-Z_][\w\-.]*:[a-zA-Z_][\w\-.]*$/;
 
-    // Split the tagName by '#' (ID) and '.' (class) to isolate the tag name part
-    const tagOnly = tagName.split(/[#.]/)[0];
+  // Split the tagName by '#' (ID) and '.' (class) to isolate the tag name part
+  const tagOnly = tagName.split(/[#.]/)[0];
 
-    if (validNamespaceTag.test(tagOnly)) {
-        // If it's a valid namespaced tag, wrap with the name() function
-        return tagName.replace(tagOnly, `*[name()="${tagOnly}"]`);
-    } else {
-        return tagName;
-    }
+  if (validNamespaceTag.test(tagOnly)) {
+    // If it's a valid namespaced tag, wrap with the name() function
+    return tagName.replace(tagOnly, `*[name()="${tagOnly}"]`);
+  } else {
+    return tagName;
+  }
 };
 
 window.revertVisibilities = () => {
