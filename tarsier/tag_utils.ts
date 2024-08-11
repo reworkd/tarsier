@@ -1,16 +1,21 @@
 // noinspection JSUnusedGlobalSymbols
 interface Window {
+  // Playwright's .evaluate method runs javascript code in an isolated scope.
+  // This means that subsequent calls to .evaluate will not have access to the functions defined in this file
+  // since they will be in an inaccessible scope. To circumvent this, we attach the following methods to the
+  // window which is always available globally when run in a browser environment.
   tagifyWebpage: (tagLeafTexts?: boolean) => { [key: number]: string };
   removeTags: () => void;
   hideNonTagElements: () => void;
   revertVisibilities: () => void;
+  fixNamespaces: (tagName: string) => string;
 }
 
 const tarsierId = "__tarsier_id";
 const tarsierSelector = `#${tarsierId}`;
 const reworkdVisibilityAttr = "reworkd-original-visibility";
 
-const elIsClean = (el: HTMLElement) => {
+const elIsVisible = (el: HTMLElement) => {
   const rect = el.getBoundingClientRect();
   const computedStyle = window.getComputedStyle(el);
 
@@ -20,11 +25,38 @@ const elIsClean = (el: HTMLElement) => {
     el.hidden ||
     (el.hasAttribute("disabled") && el.getAttribute("disabled"));
 
-  const isTransparent = computedStyle.opacity === "0";
+  const has0Opacity = computedStyle.opacity === "0";
+  // Often input elements will have 0 opacity but still have some interactable component
+  const isTransparent = has0Opacity && !hasLabel(el);
   const isZeroSize = rect.width === 0 || rect.height === 0;
   const isScriptOrStyle = el.tagName === "SCRIPT" || el.tagName === "STYLE";
   return !isHidden && !isTransparent && !isZeroSize && !isScriptOrStyle;
 };
+
+function hasLabel(element: HTMLElement): boolean {
+  const tagsThatCanHaveLabels = ["input", "textarea", "select", "button"];
+
+  if (!tagsThatCanHaveLabels.includes(element.tagName.toLowerCase())) {
+    return false;
+  }
+
+  const escapedId = CSS.escape(element.id);
+  const label = document.querySelector(`label[for="${escapedId}"]`);
+
+  if (label) {
+    return true;
+  }
+
+  // The label may not be directly associated with the element but may be a sibling
+  const siblings = Array.from(element.parentElement?.children || []);
+  for (let sibling of siblings) {
+    if (sibling.tagName.toLowerCase() === "label") {
+      return true;
+    }
+  }
+
+  return false;
+}
 
 const isNonWhiteSpaceTextNode = (child: ChildNode) => {
   // also check for zero width space directly
@@ -65,10 +97,12 @@ const isTextInsertable = (el: HTMLElement) =>
   (el.tagName.toLowerCase() === "input" &&
     text_input_types.includes((el as HTMLInputElement).type));
 
-const emptyTagWhitelist = ["input", "textarea", "select", "button"];
-const isEmpty = (el: HTMLElement) => {
+// These tags may not have text but can still be interactable
+const textLessTagWhiteList = ["input", "textarea", "select", "button"];
+
+const isTextLess = (el: HTMLElement) => {
   const tagName = el.tagName.toLowerCase();
-  if (emptyTagWhitelist.includes(tagName)) return false;
+  if (textLessTagWhiteList.includes(tagName)) return false;
   if (el.childElementCount > 0) return false;
   if ("innerText" in el && el.innerText.trim().length === 0) {
     // look for svg or img in the element
@@ -109,7 +143,10 @@ function getElementXPath(element: HTMLElement | null) {
       continue;
     }
 
-    let prefix = element.tagName.toLowerCase();
+    let tagName = element.tagName.toLowerCase();
+
+    let prefix = window.fixNamespaces(tagName);
+
     let sibling_index = 1;
 
     let sibling = element.previousElementSibling;
@@ -244,7 +281,7 @@ function getElementsToTag(
   const elementsToTag: HTMLElement[] = [];
 
   for (let el of allElements) {
-    if (isEmpty(el) || !elIsClean(el)) {
+    if (isTextLess(el) || !elIsVisible(el)) {
       continue;
     }
 
@@ -359,7 +396,7 @@ function absolutelyPositionMissingTags() {
 
     const dx = Math.abs(parentCenter.x - tagCenter.x);
     const dy = Math.abs(parentCenter.y - tagCenter.y);
-    if (dx > distanceThreshold || dy > distanceThreshold || !elIsClean(tag)) {
+    if (dx > distanceThreshold || dy > distanceThreshold || !elIsVisible(tag)) {
       tag.style.position = "absolute";
 
       // Ensure the tag is positioned within the screen bounds
@@ -490,6 +527,24 @@ window.hideNonTagElements = () => {
       element.style.visibility = "visible";
     }
   });
+};
+
+window.fixNamespaces = (tagName: string): string => {
+    // Namespaces in XML give elements unique prefixes (e.g., "a:tag").
+    // Standard XPath with namespaces can fail to find elements.
+    // The `name()` function returns the full element name, including the prefix.
+    // Using "/*[name()='a:tag']" ensures the XPath matches the element correctly.
+    const validNamespaceTag = /^[a-zA-Z_][\w\-.]*:[a-zA-Z_][\w\-.]*$/;
+
+    // Split the tagName by '#' (ID) and '.' (class) to isolate the tag name part
+    const tagOnly = tagName.split(/[#.]/)[0];
+
+    if (validNamespaceTag.test(tagOnly)) {
+        // If it's a valid namespaced tag, wrap with the name() function
+        return tagName.replace(tagOnly, `*[name()="${tagOnly}"]`);
+    } else {
+        return tagName;
+    }
 };
 
 window.revertVisibilities = () => {
