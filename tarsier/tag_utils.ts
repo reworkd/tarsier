@@ -355,13 +355,16 @@ function insertTags(
       }
       idNum++;
     } else if (tagLeafTexts) {
-      for (let child of Array.from(el.childNodes).filter(
-        isNonWhiteSpaceTextNode,
-      )) {
-        let parentXPath = getElementXPath(el);
-        let textNodeIndex = Array.from(el.childNodes).filter(isNonWhiteSpaceTextNode).indexOf(child) + 1;
-        idToXpath[idNum] = `(${parentXPath}/text())[${textNodeIndex}]`;
-        let idSpan = create_tagged_span(idNum, el);
+      const textNodes = Array.from(el.childNodes).filter(isNonWhiteSpaceTextNode);
+      for (let child of textNodes) {
+        const parentXPath = getElementXPath(el);
+        const textNodeIndex = textNodes.indexOf(child) + 1;
+
+        idToXpath[idNum] = `${parentXPath}/text()`;
+        if (textNodes.length > 1) {
+          idToXpath[idNum] = `(${parentXPath}/text())[${textNodeIndex}]`;
+        }
+        const idSpan = create_tagged_span(idNum, el);
         el.insertBefore(idSpan, child);
         idNum++;
       }

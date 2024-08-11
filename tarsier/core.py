@@ -36,9 +36,14 @@ class Tarsier(ITarsier):
         tag_to_xpath = (
             await self._tag_page(adapter, tag_text_elements) if not tagless else {}
         )
-        if not tagless and not keep_tags_showing:
+        if tagless:
             await self._remove_tags(adapter)
+
         screenshot = await self._take_screenshot(adapter)
+
+        if not keep_tags_showing:
+            await self._remove_tags(adapter)
+
         return screenshot, tag_to_xpath if not tagless else {}
 
     async def page_to_text(
