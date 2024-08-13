@@ -1,31 +1,73 @@
 // noinspection JSUnusedGlobalSymbols
 interface Window {
+  // Playwright's .evaluate method runs javascript code in an isolated scope.
+  // This means that subsequent calls to .evaluate will not have access to the functions defined in this file
+  // since they will be in an inaccessible scope. To circumvent this, we attach the following methods to the
+  // window which is always available globally when run in a browser environment.
   tagifyWebpage: (tagLeafTexts?: boolean) => { [key: number]: string };
   removeTags: () => void;
   hideNonTagElements: () => void;
   revertVisibilities: () => void;
+  fixNamespaces: (tagName: string) => string;
 }
 
 const tarsierId = "__tarsier_id";
+const tarsierDataAttribute = "data-tarsier-id";
 const tarsierSelector = `#${tarsierId}`;
 const reworkdVisibilityAttr = "reworkd-original-visibility";
 
-const elIsClean = (el: HTMLElement) => {
+const elIsVisible = (el: HTMLElement) => {
   const rect = el.getBoundingClientRect();
   const computedStyle = window.getComputedStyle(el);
 
-  // @ts-ignore
-  const isHidden = computedStyle.visibility === 'hidden' || computedStyle.display === 'none' || el.hidden || el.disabled;
-  const isTransparent = computedStyle.opacity === '0';
+  const isHidden =
+    computedStyle.visibility === "hidden" ||
+    computedStyle.display === "none" ||
+    el.hidden ||
+    (el.hasAttribute("disabled") && el.getAttribute("disabled"));
+
+  const has0Opacity = computedStyle.opacity === "0";
+  // Often input elements will have 0 opacity but still have some interactable component
+  const isTransparent = has0Opacity && !hasLabel(el);
   const isZeroSize = rect.width === 0 || rect.height === 0;
   const isScriptOrStyle = el.tagName === "SCRIPT" || el.tagName === "STYLE";
   return !isHidden && !isTransparent && !isZeroSize && !isScriptOrStyle;
 };
 
+function hasLabel(element: HTMLElement): boolean {
+  const tagsThatCanHaveLabels = ["input", "textarea", "select", "button"];
+
+  if (!tagsThatCanHaveLabels.includes(element.tagName.toLowerCase())) {
+    return false;
+  }
+
+  const escapedId = CSS.escape(element.id);
+  const label = document.querySelector(`label[for="${escapedId}"]`);
+
+  if (label) {
+    return true;
+  }
+
+  // The label may not be directly associated with the element but may be a sibling
+  const siblings = Array.from(element.parentElement?.children || []);
+  for (let sibling of siblings) {
+    if (sibling.tagName.toLowerCase() === "label") {
+      return true;
+    }
+  }
+
+  return false;
+}
+
 const isNonWhiteSpaceTextNode = (child: ChildNode) => {
   // also check for zero width space directly
-  return child.nodeType === Node.TEXT_NODE && child.textContent && child.textContent.trim().length > 0 && child.textContent.trim() !== '\u200B';
-}
+  return (
+    child.nodeType === Node.TEXT_NODE &&
+    child.textContent &&
+    child.textContent.trim().length > 0 &&
+    child.textContent.trim() !== "\u200B"
+  );
+};
 
 const inputs = ["a", "button", "textarea", "select", "details", "label"];
 const isInteractable = (el: HTMLElement) => {
@@ -34,22 +76,34 @@ const isInteractable = (el: HTMLElement) => {
     return false;
   }
 
-  return inputs.includes(el.tagName.toLowerCase()) ||
+  return (
+    inputs.includes(el.tagName.toLowerCase()) ||
     // @ts-ignore
     (el.tagName.toLowerCase() === "input" && el.type !== "hidden") ||
     el.role === "button"
-}
+  );
+};
 
-const text_input_types = ["text", "password", "email", "search", "url", "tel", "number"];
+const text_input_types = [
+  "text",
+  "password",
+  "email",
+  "search",
+  "url",
+  "tel",
+  "number",
+];
 const isTextInsertable = (el: HTMLElement) =>
   el.tagName.toLowerCase() === "textarea" ||
-  ((el.tagName.toLowerCase() === "input" &&
-    text_input_types.includes((el as HTMLInputElement).type)));
+  (el.tagName.toLowerCase() === "input" &&
+    text_input_types.includes((el as HTMLInputElement).type));
 
-const emptyTagWhitelist = ["input", "textarea", "select", "button"];
-const isEmpty = (el: HTMLElement) => {
+// These tags may not have text but can still be interactable
+const textLessTagWhiteList = ["input", "textarea", "select", "button"];
+
+const isTextLess = (el: HTMLElement) => {
   const tagName = el.tagName.toLowerCase();
-  if (emptyTagWhitelist.includes(tagName)) return false;
+  if (textLessTagWhiteList.includes(tagName)) return false;
   if (el.childElementCount > 0) return false;
   if ("innerText" in el && el.innerText.trim().length === 0) {
     // look for svg or img in the element
@@ -72,7 +126,8 @@ function isElementInViewport(el: HTMLElement) {
     isLargerThan1x1 &&
     rect.top >= 0 &&
     rect.left >= 0 &&
-    rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+    rect.bottom <=
+      (window.innerHeight || document.documentElement.clientHeight) &&
     rect.right <= (window.innerWidth || document.documentElement.clientWidth)
   );
 }
@@ -86,17 +141,20 @@ function getElementXPath(element: HTMLElement | null) {
     iframe_str = `iframe[${element.getAttribute("iframe_index")}]`;
   }
 
-  while(element) {
+  while (element) {
     if (!element.tagName) {
       element = element.parentNode as HTMLElement | null;
       continue;
     }
 
-    let prefix = element.tagName.toLowerCase();
+    let tagName = element.tagName.toLowerCase();
+
+    let prefix = window.fixNamespaces(tagName);
+
     let sibling_index = 1;
 
     let sibling = element.previousElementSibling;
-    while(sibling) {
+    while (sibling) {
       if (sibling.tagName === element.tagName) {
         sibling_index++;
       }
@@ -106,7 +164,7 @@ function getElementXPath(element: HTMLElement | null) {
     // Check next siblings to determine if index should be added
     let nextSibling = element.nextElementSibling;
     let shouldAddIndex = false;
-    while(nextSibling) {
+    while (nextSibling) {
       if (nextSibling.tagName === element.tagName) {
         shouldAddIndex = true;
         break;
@@ -139,12 +197,9 @@ function getElementXPath(element: HTMLElement | null) {
 function create_tagged_span(idNum: number, el: HTMLElement) {
   let idStr: string;
   if (isInteractable(el)) {
-    if (isTextInsertable(el))
-      idStr = `[#${idNum}]`;
-    else if (el.tagName.toLowerCase() == 'a')
-      idStr = `[@${idNum}]`;
-    else
-      idStr = `[$${idNum}]`;
+    if (isTextInsertable(el)) idStr = `[#${idNum}]`;
+    else if (el.tagName.toLowerCase() == "a") idStr = `[@${idNum}]`;
+    else idStr = `[$${idNum}]`;
   } else {
     idStr = `[${idNum}]`;
   }
@@ -163,19 +218,22 @@ function create_tagged_span(idNum: number, el: HTMLElement) {
   idSpan.style.margin = "1px";
   idSpan.style.lineHeight = "1.25";
   idSpan.style.letterSpacing = "2px";
-  idSpan.style.zIndex = '2140000046';
-  idSpan.style.clip = 'auto';
-  idSpan.style.height = 'fit-content';
-  idSpan.style.width = 'fit-content';
-  idSpan.style.minHeight = '15px';  // Based on a minimum font size of 10px
-  idSpan.style.minWidth = '23px';   // Based on a minimum font size of 10px
-  idSpan.style.maxHeight = 'unset';
-  idSpan.style.maxWidth = 'unset';
+  idSpan.style.zIndex = "2140000046";
+  idSpan.style.clip = "auto";
+  idSpan.style.height = "fit-content";
+  idSpan.style.width = "fit-content";
+  idSpan.style.minHeight = "15px";
+  idSpan.style.minWidth = "23px";
+  idSpan.style.maxHeight = "unset";
+  idSpan.style.maxWidth = "unset";
   idSpan.textContent = idStr;
-  idSpan.style.webkitTextFillColor = 'white';
-  idSpan.style.textShadow = '';
-  idSpan.style.textDecoration = 'none';
-  idSpan.style.letterSpacing = '0px';
+  idSpan.style.webkitTextFillColor = "white";
+  idSpan.style.textShadow = "";
+  idSpan.style.textDecoration = "none";
+  idSpan.style.letterSpacing = "0px";
+
+  idSpan.setAttribute(tarsierDataAttribute, idNum.toString());
+
   return idSpan;
 }
 
@@ -199,7 +257,7 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
   const elementsToTag = removeNestedTags(rawElementsToTag);
   const idToXpath = insertTags(elementsToTag, tagLeafTexts);
   ensureMinimumTagFontSizes();
-  absolutelyPositionMissingTags();
+  absolutelyPositionMissingTags(idToXpath);
   shrinkCollidingTags();
 
   return idToXpath;
@@ -207,43 +265,54 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
 
 function getAllElementsInAllFrames(): HTMLElement[] {
   // Main page
-  const allElements: HTMLElement[] = Array.from(document.body.querySelectorAll('*'));
+  const allElements: HTMLElement[] = Array.from(
+    document.body.querySelectorAll("*"),
+  );
 
   // Add all elements in iframes
   // NOTE: This still doesn't work for all iframes
-  const iframes = document.getElementsByTagName('iframe');
-  for(let i = 0; i < iframes.length; i++) {
+  const iframes = document.getElementsByTagName("iframe");
+  for (let i = 0; i < iframes.length; i++) {
     try {
       const frame = iframes[i];
-      const iframeDocument = frame.contentDocument || frame.contentWindow?.document;
+      const iframeDocument =
+        frame.contentDocument || frame.contentWindow?.document;
       if (!iframeDocument) continue;
 
-      const iframeElements = Array.from(iframeDocument.querySelectorAll('*')) as HTMLElement[];
-      iframeElements.forEach((el) => el.setAttribute('iframe_index', i.toString()));
+      const iframeElements = Array.from(
+        iframeDocument.querySelectorAll("*"),
+      ) as HTMLElement[];
+      iframeElements.forEach((el) =>
+        el.setAttribute("iframe_index", i.toString()),
+      );
       allElements.push(...iframeElements);
     } catch (e) {
-      console.error('Error accessing iframe content:', e);
+      console.error("Error accessing iframe content:", e);
     }
   }
 
   return allElements;
 }
 
-function getElementsToTag(allElements: HTMLElement[], tagLeafTexts: boolean): HTMLElement[] {
+function getElementsToTag(
+  allElements: HTMLElement[],
+  tagLeafTexts: boolean,
+): HTMLElement[] {
   const elementsToTag: HTMLElement[] = [];
 
-  for(let el of allElements) {
-    if (isEmpty(el) || !elIsClean(el)) {
+  for (let el of allElements) {
+    if (isTextLess(el) || !elIsVisible(el)) {
       continue;
     }
-
 
     if (isInteractable(el)) {
       elementsToTag.push(el);
     } else if (tagLeafTexts) {
       // Append the parent tag as it may have multiple individual child nodes with text
       // We will tag them individually later
-      if (Array.from(el.childNodes).filter(isNonWhiteSpaceTextNode).length >= 1) {
+      if (
+        Array.from(el.childNodes).filter(isNonWhiteSpaceTextNode).length >= 1
+      ) {
         elementsToTag.push(el);
       }
     }
@@ -258,9 +327,8 @@ function removeNestedTags(elementsToTag: HTMLElement[]): HTMLElement[] {
   // In this case there is only one child, and we should remove this nested tag
   // In other cases, we will allow for the nested tagging
 
-  const res = [...elementsToTag]
+  const res = [...elementsToTag];
   elementsToTag.map((el) => {
-
     // Only interactable elements can have nested tags
     if (isInteractable(el)) {
       const elementsToRemove: HTMLElement[] = [];
@@ -273,7 +341,7 @@ function removeNestedTags(elementsToTag: HTMLElement[]): HTMLElement[] {
 
       // Only remove nested tags if there is only a single element to remove
       if (elementsToRemove.length == 1) {
-        for(let element of elementsToRemove) {
+        for (let element of elementsToRemove) {
           res.splice(res.indexOf(element), 1);
         }
       }
@@ -283,7 +351,10 @@ function removeNestedTags(elementsToTag: HTMLElement[]): HTMLElement[] {
   return res;
 }
 
-function insertTags(elementsToTag: HTMLElement[], tagLeafTexts: boolean): { [key: number]: string } {
+function insertTags(
+  elementsToTag: HTMLElement[],
+  tagLeafTexts: boolean,
+): { [key: number]: string } {
   function drillDownAndInsert(element: HTMLElement, idSpan: HTMLSpanElement): void {
     // An <a> tag may just be a wrapper over many elements. (Think an <a> with a <span> and another <span>
     // If these sub children are the only children, they might have styling that mis-positions the tag we're attempting to
@@ -300,15 +371,14 @@ function insertTags(elementsToTag: HTMLElement[], tagLeafTexts: boolean): { [key
     // Base case
     element.prepend(idSpan);
   }
-
   const idToXpath: { [key: number]: string } = {};
   let idNum = 0;
 
-  for(let el of elementsToTag) {
+  for (let el of elementsToTag) {
     idToXpath[idNum] = getElementXPath(el);
-    let idSpan = create_tagged_span(idNum, el);
 
     if (isInteractable(el)) {
+      const idSpan = create_tagged_span(idNum, el);
       if (isTextInsertable(el) && el.parentElement) {
         el.parentElement.insertBefore(idSpan, el);
       } else {
@@ -316,8 +386,18 @@ function insertTags(elementsToTag: HTMLElement[], tagLeafTexts: boolean): { [key
       }
       idNum++;
     } else if (tagLeafTexts) {
-      for(let child of Array.from(el.childNodes).filter(isNonWhiteSpaceTextNode)) {
-        let idSpan = create_tagged_span(idNum, el);
+      const textNodes = Array.from(el.childNodes).filter(
+        isNonWhiteSpaceTextNode,
+      );
+      for (let child of textNodes) {
+        const parentXPath = getElementXPath(el);
+        const textNodeIndex = textNodes.indexOf(child) + 1;
+
+        idToXpath[idNum] = `${parentXPath}/text()`;
+        if (textNodes.length > 1) {
+          idToXpath[idNum] = `(${parentXPath}/text())[${textNodeIndex}]`;
+        }
+        const idSpan = create_tagged_span(idNum, el);
         el.insertBefore(idSpan, child);
         idNum++;
       }
@@ -327,7 +407,7 @@ function insertTags(elementsToTag: HTMLElement[], tagLeafTexts: boolean): { [key
   return idToXpath;
 }
 
-function absolutelyPositionMissingTags() {
+function absolutelyPositionMissingTags(idToXpath: { [key: number]: string }) {
   /*
   Some tags don't get displayed on the page properly
   This occurs if the parent element children are disjointed from the parent
@@ -335,10 +415,50 @@ function absolutelyPositionMissingTags() {
   */
   const distanceThreshold = 500;
 
-  const tags: NodeListOf<HTMLElement> = document.querySelectorAll(tarsierSelector);
+  const tags: NodeListOf<HTMLElement> =
+    document.querySelectorAll(tarsierSelector);
   tags.forEach((tag) => {
+    // The parent is the node containing the tag. The reference is the node the tag is attempting to tag
+    // These two will differ when the tag is for a textNode as a single parent tag can have multiple textNode children
     const parent = tag.parentElement as HTMLElement;
-    const parentRect = parent.getBoundingClientRect();
+
+    const tagId = parseInt(tag.getAttribute(tarsierDataAttribute) || "-1");
+    const xpath = idToXpath[tagId];
+    const reference = document.evaluate(
+      xpath,
+      document,
+      null,
+      XPathResult.FIRST_ORDERED_NODE_TYPE,
+      null,
+    ).singleNodeValue;
+
+    if (!reference) {
+      console.error(
+        "Reference node not found for tag",
+        tag,
+        "with XPath",
+        xpath,
+      );
+      return;
+    }
+
+    let referenceRect: DOMRect | null = null;
+    if (reference.nodeType === Node.TEXT_NODE) {
+      const range = document.createRange();
+      range.selectNodeContents(reference);
+      referenceRect = range.getBoundingClientRect();
+    } else if (reference.nodeType === Node.ELEMENT_NODE) {
+      referenceRect = (reference as Element).getBoundingClientRect();
+    }
+
+    if (!referenceRect) {
+      console.error(
+        "Could not get bounding client rect for reference node",
+        reference,
+      );
+      return;
+    }
+
     let tagRect = tag.getBoundingClientRect();
 
     // Check if the parent is off-screen horizontally
@@ -352,8 +472,8 @@ function absolutelyPositionMissingTags() {
     }
 
     const parentCenter = {
-      x: (parentRect.left + parentRect.right) / 2,
-      y: (parentRect.top + parentRect.bottom) / 2,
+      x: (referenceRect.left + referenceRect.right) / 2,
+      y: (referenceRect.top + referenceRect.bottom) / 2,
     };
 
     const tagCenter = {
@@ -363,14 +483,24 @@ function absolutelyPositionMissingTags() {
 
     const dx = Math.abs(parentCenter.x - tagCenter.x);
     const dy = Math.abs(parentCenter.y - tagCenter.y);
-    if (dx > distanceThreshold || dy > distanceThreshold || !elIsClean(tag)) {
+    if (dx > distanceThreshold || dy > distanceThreshold || !elIsVisible(tag)) {
       tag.style.position = "absolute";
 
       // Ensure the tag is positioned within the screen bounds
-      let leftPosition = Math.max(0, parentRect.left - (tagRect.right + 3 - tagRect.left));
-      leftPosition = Math.min(leftPosition, window.innerWidth - (tagRect.right - tagRect.left));
-      let topPosition = Math.max(0, parentRect.top + 3); // Add some top buffer to center align better
-      topPosition = Math.min(topPosition, Math.max(window.innerHeight, document.documentElement.scrollHeight) - (tagRect.bottom - tagRect.top));
+      let leftPosition = Math.max(
+        0,
+        referenceRect.left - (tagRect.right + 3 - tagRect.left),
+      );
+      leftPosition = Math.min(
+        leftPosition,
+        window.innerWidth - (tagRect.right - tagRect.left),
+      );
+      let topPosition = Math.max(0, referenceRect.top + 3); // Add some top buffer to center align better
+      topPosition = Math.min(
+        topPosition,
+        Math.max(window.innerHeight, document.documentElement.scrollHeight) -
+          (tagRect.bottom - tagRect.top),
+      );
 
       tag.style.left = `${leftPosition}px`;
       tag.style.top = `${topPosition}px`;
@@ -386,20 +516,25 @@ const shrinkCollidingTags = () => {
   for(let i = 0; i < tags.length; i++) {
     const tag = tags[i];
     let tagRect = tag.getBoundingClientRect();
-    let fontSize = parseFloat(window.getComputedStyle(tag).fontSize.split("px")[0]);
+    let fontSize = parseFloat(
+        window.getComputedStyle(tag).fontSize.split("px")[0],
+      );
 
     for(let j = i + 1; j < tags.length; j++) {
       const otherTag = tags[j];
       let otherTagRect = otherTag.getBoundingClientRect();
-      let otherFontSize = parseFloat(window.getComputedStyle(otherTag).fontSize.split("px")[0]);
+      let otherFontSize = parseFloat(
+        window.getComputedStyle(otherTag).fontSize.split("px")[0],
+      );
 
-      while(
-        (tagRect.left < otherTagRect.right &&
-          tagRect.right > otherTagRect.left) &&
-        (tagRect.top < otherTagRect.bottom &&
-          tagRect.bottom > otherTagRect.top) &&
-        fontSize > MIN_FONT_SIZE && otherFontSize > MIN_FONT_SIZE
-        ) {
+      while (
+        tagRect.left < otherTagRect.right &&
+        tagRect.right > otherTagRect.left &&
+        tagRect.top < otherTagRect.bottom &&
+        tagRect.bottom > otherTagRect.top &&
+        fontSize > MIN_FONT_SIZE &&
+        otherFontSize > MIN_FONT_SIZE
+      ) {
         fontSize -= 0.5;
         otherFontSize -= 0.5;
         tag.style.fontSize = `${fontSize}px`;
@@ -419,7 +554,7 @@ window.removeTags = () => {
   showMapElements();
 };
 
-const GOOGLE_MAPS_OPACITY_CONTROL = '__reworkd_google_maps_opacity';
+const GOOGLE_MAPS_OPACITY_CONTROL = "__reworkd_google_maps_opacity";
 
 const hideMapElements = (): void => {
   // Maps have lots of tiny buttons that need to be tagged
@@ -428,45 +563,48 @@ const hideMapElements = (): void => {
   const selectors = [
     'iframe[src*="google.com/maps"]',
     'iframe[id*="gmap_canvas"]',
-    '.maplibregl-map',
-    '.mapboxgl-map',
-    '.leaflet-container',
+    ".maplibregl-map",
+    ".mapboxgl-map",
+    ".leaflet-container",
     'img[src*="maps.googleapis.com"]',
     '[aria-label="Map"]',
-    '.cmp-location-map__map',
+    ".cmp-location-map__map",
     '.map-view[data-role="mapView"]',
-    '.google_Map-wrapper',
-    '.google_map-wrapper',
-    '.googleMap-wrapper',
-    '.googlemap-wrapper',
-    '.ls-map-canvas',
-    '.gmapcluster',
-    '#googleMap',
-    '#googleMaps',
-    '#googlemaps',
-    '#googlemap',
-    '#google_map',
-    '#google_maps',
-    '#MapId',
-    '.geolocation-map-wrapper',
-    '.locatorMap',
+    ".google_Map-wrapper",
+    ".google_map-wrapper",
+    ".googleMap-wrapper",
+    ".googlemap-wrapper",
+    ".ls-map-canvas",
+    ".gmapcluster",
+    "#googleMap",
+    "#googleMaps",
+    "#googlemaps",
+    "#googlemap",
+    "#google_map",
+    "#google_maps",
+    "#MapId",
+    ".geolocation-map-wrapper",
+    ".locatorMap",
   ];
 
-  document.querySelectorAll(selectors.join(', ')).forEach(element => {
+  document.querySelectorAll(selectors.join(", ")).forEach((element) => {
     const currentOpacity = window.getComputedStyle(element).opacity;
     // Store current opacity
-    element.setAttribute('data-original-opacity', currentOpacity);
+    element.setAttribute("data-original-opacity", currentOpacity);
 
-    (element as HTMLElement).style.opacity = '0';
+    (element as HTMLElement).style.opacity = "0";
   });
-}
+};
 
 const showMapElements = () => {
-  const elements = document.querySelectorAll(`[${GOOGLE_MAPS_OPACITY_CONTROL}]`);
-  elements.forEach(element => {
-    (element as HTMLElement).style.opacity = element.getAttribute('data-original-opacity') || '1';
+  const elements = document.querySelectorAll(
+    `[${GOOGLE_MAPS_OPACITY_CONTROL}]`,
+  );
+  elements.forEach((element) => {
+    (element as HTMLElement).style.opacity =
+      element.getAttribute("data-original-opacity") || "1";
   });
-}
+};
 
 window.hideNonTagElements = () => {
   const allElements = getAllElementsInAllFrames();
@@ -478,11 +616,29 @@ window.hideNonTagElements = () => {
     }
 
     if (!element.id.startsWith(tarsierId)) {
-      element.style.visibility = 'hidden';
+      element.style.visibility = "hidden";
     } else {
-      element.style.visibility = 'visible';
+      element.style.visibility = "visible";
     }
   });
+};
+
+window.fixNamespaces = (tagName: string): string => {
+  // Namespaces in XML give elements unique prefixes (e.g., "a:tag").
+  // Standard XPath with namespaces can fail to find elements.
+  // The `name()` function returns the full element name, including the prefix.
+  // Using "/*[name()='a:tag']" ensures the XPath matches the element correctly.
+  const validNamespaceTag = /^[a-zA-Z_][\w\-.]*:[a-zA-Z_][\w\-.]*$/;
+
+  // Split the tagName by '#' (ID) and '.' (class) to isolate the tag name part
+  const tagOnly = tagName.split(/[#.]/)[0];
+
+  if (validNamespaceTag.test(tagOnly)) {
+    // If it's a valid namespaced tag, wrap with the name() function
+    return tagName.replace(tagOnly, `*[name()="${tagOnly}"]`);
+  } else {
+    return tagName;
+  }
 };
 
 window.revertVisibilities = () => {
@@ -490,9 +646,10 @@ window.revertVisibilities = () => {
   allElements.forEach((el) => {
     const element = el as HTMLElement;
     if (element.getAttribute(reworkdVisibilityAttr)) {
-      element.style.visibility = element.getAttribute(reworkdVisibilityAttr) || "true";
+      element.style.visibility =
+        element.getAttribute(reworkdVisibilityAttr) || "true";
     } else {
-      element.style.removeProperty('visibility');
+      element.style.removeProperty("visibility");
     }
   });
-}
+};

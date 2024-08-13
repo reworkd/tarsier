@@ -44,7 +44,6 @@ jobs:
       - name: Run ruff check
         run: poetry run ruff format --check .
 
-
   mypy:
     runs-on: ubuntu-latest
     steps:
@@ -69,7 +68,7 @@ jobs:
           cache: "npm"
           cache-dependency-path: package-lock.json
       - name: Compile TypeScript
-        run: npm ci && npm run build
+        run: npm ci && npm run lint && npm run build
       - name: Install poetry
         run: pipx install poetry
       - uses: actions/setup-python@v5

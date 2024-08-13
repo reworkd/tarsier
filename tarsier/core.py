@@ -26,25 +26,51 @@ class Tarsier(ITarsier):
         self._js_utils = load_js(self._JS_TAG_UTILS)
 
     async def page_to_image(
-        self, driver: AnyDriver, tag_text_elements: bool = False, tagless: bool = False
-    ) -> Tuple[bytes, Dict[int, str]]:
+        self,
+        driver: AnyDriver,
+        tag_text_elements: bool = False,
+        tagless: bool = False,
+        keep_tags_showing: bool = False,
+    ) -> Tuple[bytes, TagToXPath]:
         adapter = adapter_factory(driver)
         tag_to_xpath = (
             await self._tag_page(adapter, tag_text_elements) if not tagless else {}
         )
-        screenshot = await self._take_screenshot(adapter)
-        if not tagless:
+        if tagless:
             await self._remove_tags(adapter)
+
+        screenshot = await self._take_screenshot(adapter)
+
+        if not keep_tags_showing:
+            await self._remove_tags(adapter)
+
         return screenshot, tag_to_xpath if not tagless else {}
 
     async def page_to_text(
-        self, driver: AnyDriver, tag_text_elements: bool = False, tagless: bool = False
+        self,
+        driver: AnyDriver,
+        tag_text_elements: bool = False,
+        tagless: bool = False,
+        keep_tags_showing: bool = False,
     ) -> Tuple[str, TagToXPath]:
         image, tag_to_xpath = await self.page_to_image(
-            driver, tag_text_elements, tagless
+            driver, tag_text_elements, tagless, keep_tags_showing
         )
         page_text = self._run_ocr(image)
         return page_text, tag_to_xpath
+
+    async def page_to_image_and_text(
+        self,
+        driver: AnyDriver,
+        tag_text_elements: bool = False,
+        tagless: bool = False,
+        keep_tags_showing: bool = False,
+    ) -> Tuple[bytes, str, TagToXPath]:
+        image, tag_to_xpath = await self.page_to_image(
+            driver, tag_text_elements, tagless, keep_tags_showing
+        )
+        page_text = self._run_ocr(image)
+        return image, page_text, tag_to_xpath
 
     @staticmethod
     async def _take_screenshot(adapter: BrowserAdapter) -> bytes:
@@ -65,7 +91,7 @@ class Tarsier(ITarsier):
     async def _tag_page(
         self, adapter: BrowserAdapter, tag_text_elements: bool = False
     ) -> Dict[int, str]:
-        await adapter.run_js(self._js_utils)
+        await self._load_tarsier_utils(adapter)
 
         script = f"return window.tagifyWebpage({str(tag_text_elements).lower()});"
         tag_to_xpath = await adapter.run_js(script)
@@ -73,7 +99,14 @@ class Tarsier(ITarsier):
         return {int(key): value for key, value in tag_to_xpath.items()}
 
     async def _remove_tags(self, adapter: BrowserAdapter) -> None:
-        await adapter.run_js(self._js_utils)
+        await self._load_tarsier_utils(adapter)
         script = "return window.removeTags();"
 
         await adapter.run_js(script)
+
+    async def remove_tags(self, driver: AnyDriver) -> None:
+        adapter = adapter_factory(driver)
+        await self._remove_tags(adapter)
+
+    async def _load_tarsier_utils(self, adapter: BrowserAdapter) -> None:
+        await adapter.run_js(self._js_utils)
