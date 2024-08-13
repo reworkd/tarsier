@@ -501,9 +501,9 @@ function absolutelyPositionMissingTags(idToXpath: { [key: number]: string }) {
       return; // Skip to the next tag
     }
 
-    const parentCenter = {
-      x: (referenceRect.left + referenceRect.right) / 2,
-      y: (referenceRect.top + referenceRect.bottom) / 2,
+    const referenceTopLeft = {
+      x: referenceRect.left,
+      y: referenceRect.top,
     };
 
     const tagCenter = {
@@ -511,8 +511,8 @@ function absolutelyPositionMissingTags(idToXpath: { [key: number]: string }) {
       y: (tagRect.top + tagRect.bottom) / 2,
     };
 
-    const dx = Math.abs(parentCenter.x - tagCenter.x);
-    const dy = Math.abs(parentCenter.y - tagCenter.y);
+    const dx = Math.abs(referenceTopLeft.x - tagCenter.x);
+    const dy = Math.abs(referenceTopLeft.y - tagCenter.y);
     if (dx > distanceThreshold || dy > distanceThreshold || !elIsVisible(tag)) {
       tag.style.position = "absolute";
 
