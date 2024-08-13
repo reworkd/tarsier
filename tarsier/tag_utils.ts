@@ -372,6 +372,17 @@ function insertTags(
   elementsToTag: HTMLElement[],
   tagLeafTexts: boolean,
 ): { [key: number]: string } {
+  function trimTextNodeStart(element: HTMLElement) {
+    // Trim leading whitespace from the element's text content
+    // This way, the tag will be inline with the word and not textwrap
+    // Element text
+    if (!element.firstChild || element.firstChild.nodeType !== Node.TEXT_NODE) {
+      return;
+    }
+    const textNode = element.firstChild as Text;
+    textNode.textContent = textNode.textContent!.trimStart();
+  }
+
   function drillDownAndInsert(element: HTMLElement, idSpan: HTMLSpanElement): void {
     // An <a> tag may just be a wrapper over many elements. (Think an <a> with a <span> and another <span>
     // If these sub children are the only children, they might have styling that mis-positions the tag we're attempting to
@@ -403,15 +414,17 @@ function insertTags(
       }
       idNum++;
     } else if (tagLeafTexts) {
-      const textNodes = Array.from(el.childNodes).filter(
+      trimTextNodeStart(el);
+      const validTextNodes = Array.from(el.childNodes).filter(
         isNonWhiteSpaceTextNode,
       );
-      for (let child of textNodes) {
+      const allTextNodes = Array.from(el.childNodes).filter(child => child.nodeType === Node.TEXT_NODE);
+      for(let child of validTextNodes) {
         const parentXPath = getElementXPath(el);
-        const textNodeIndex = textNodes.indexOf(child) + 1;
+        const textNodeIndex = allTextNodes.indexOf(child) + 1;
 
         idToXpath[idNum] = `${parentXPath}/text()`;
-        if (textNodes.length > 1) {
+        if (validTextNodes.length > 1) {
           idToXpath[idNum] = `(${parentXPath}/text())[${textNodeIndex}]`;
         }
         const idSpan = create_tagged_span(idNum, el);
