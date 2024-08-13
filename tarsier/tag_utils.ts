@@ -29,7 +29,8 @@ const elIsVisible = (el: HTMLElement) => {
   const has0Opacity = computedStyle.opacity === "0";
   // Often input elements will have 0 opacity but still have some interactable component
   const isTransparent = has0Opacity && !hasLabel(el);
-  const isZeroSize = rect.width === 0 || rect.height === 0;
+  const isDisplayContents = computedStyle.display === "contents";
+  const isZeroSize = (rect.width === 0 || rect.height === 0) && !isDisplayContents; // display: contents elements have 0 width and height
   const isScriptOrStyle = el.tagName === "SCRIPT" || el.tagName === "STYLE";
   return !isHidden && !isTransparent && !isZeroSize && !isScriptOrStyle;
 };
