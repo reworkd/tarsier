@@ -123,13 +123,29 @@ function isElementInViewport(el: HTMLElement) {
   const rect = el.getBoundingClientRect();
 
   const isLargerThan1x1 = rect.width > 1 || rect.height > 1;
+
+  let body = document.body, html = document.documentElement;
+  const height = Math.max(
+    body.scrollHeight,
+    body.offsetHeight,
+    html.clientHeight,
+    html.scrollHeight,
+    html.offsetHeight
+  );
+  const width = Math.max(
+    body.scrollWidth,
+    body.offsetWidth,
+    html.clientWidth,
+    html.scrollWidth,
+    html.offsetWidth
+  );
+
   return (
     isLargerThan1x1 &&
     rect.top >= 0 &&
     rect.left >= 0 &&
-    rect.bottom <=
-      (window.innerHeight || document.documentElement.clientHeight) &&
-    rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+    rect.bottom <= height &&
+    rect.right <= width
   );
 }
 
