@@ -237,7 +237,7 @@ function create_tagged_span(idNum: number, el: HTMLElement) {
   return idSpan;
 }
 
-const MIN_FONT_SIZE = 10;
+const MIN_FONT_SIZE = 11;
 const ensureMinimumTagFontSizes = () => {
   const tags = Array.from(document.querySelectorAll(tarsierSelector)) as HTMLElement[];
   tags.forEach((tag) => {
