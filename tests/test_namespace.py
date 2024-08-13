@@ -50,7 +50,9 @@ async def test_fix_namespaces(browser_adapter_with_js):
 
     for value in test_cases:
         input_tag, expected_output = value
-        result = await browser_adapter_with_js.run_js(f"fixNamespaces('{input_tag}')")
+        result = await browser_adapter_with_js.run_js(
+            f"window.fixNamespaces('{input_tag}')"
+        )
 
         assert (
             result == expected_output

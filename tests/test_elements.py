@@ -44,6 +44,16 @@ import pytest
             ["Enter text here"],
             ["[ # 0 ]"],
         ),
+        (
+            "mock_html/br_elem.html",
+            {
+                0: "(//html/body/div/text())[1]",
+                1: "(//html/body/div/text())[2]",
+                2: "(//html/body/div/text())[3]",
+            },
+            ["168 North Brent Street, Suite 401", "Ventura, CA 93003", "805-948-5093"],
+            ["[ 0 ]", " [ 1 ]", "[ 2 ]"],
+        ),
     ],
 )
 async def test_combined_elements_page(

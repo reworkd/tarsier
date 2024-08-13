@@ -345,9 +345,8 @@ function insertTags(
   for (let el of elementsToTag) {
     idToXpath[idNum] = getElementXPath(el);
 
-    let idSpan = create_tagged_span(idNum, el);
-
     if (isInteractable(el)) {
+      const idSpan = create_tagged_span(idNum, el);
       if (isTextInsertable(el) && el.parentElement) {
         el.parentElement.insertBefore(idSpan, el);
       } else {
