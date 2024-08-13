@@ -64,10 +64,12 @@ def chrome_driver():
     driver.quit()
 
 
-@pytest.fixture(params=[
-    # "microsoft", # TODO: Uncomment once microsoft OCR is better. Basic tarsier text tests fail with it right now
-    "google",
-])
+@pytest.fixture(
+    params=[
+        # "microsoft", # TODO: Uncomment once microsoft OCR is better. Basic tarsier text tests fail with it right now
+        "google",
+    ]
+)
 def credentials(request):
     provider: str = request.param
     env_variable = f"TARSIER_{provider.upper()}_OCR_CREDENTIALS"
