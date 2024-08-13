@@ -463,8 +463,8 @@ function absolutelyPositionMissingTags(idToXpath: { [key: number]: string }) {
 
     // Check if the parent is off-screen horizontally
     if (
-      parentRect.right < 0 ||
-      parentRect.left > (window.innerWidth || document.documentElement.clientWidth)
+      referenceRect.right < 0 ||
+      referenceRect.left > (window.innerWidth || document.documentElement.clientWidth)
     ) {
       // Parent is off-screen horizontally, remove the tag
       tag.remove();
@@ -517,8 +517,8 @@ const shrinkCollidingTags = () => {
     const tag = tags[i];
     let tagRect = tag.getBoundingClientRect();
     let fontSize = parseFloat(
-        window.getComputedStyle(tag).fontSize.split("px")[0],
-      );
+      window.getComputedStyle(tag).fontSize.split("px")[0],
+    );
 
     for(let j = i + 1; j < tags.length; j++) {
       const otherTag = tags[j];
