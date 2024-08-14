@@ -37,14 +37,13 @@ Tarsier visually tags interactable elements on a page via brackets + an ID e.g. 
 In doing this, we provide a mapping between elements and IDs for an LLM to take actions upon (e.g. `CLICK [23]`).
 We define interactable elements as buttons, links, or input fields that are visible on the page; Tarsier can also tag all textual elements if you pass `tag_text_elements=True`.
 
-Furthermore, we've developed an OCR algorithm to convert a page screenshot into a whitespace-structured string (almost like ASCII art) that an LLM *even without vision* can understand.
+Furthermore, we've developed an OCR algorithm to convert a page screenshot into a whitespace-structured string (almost like ASCII art) that an LLM _even without vision_ can understand.
 Since current vision-language models still lack fine-grained representations needed for web interaction tasks, this is critical.
 On our internal benchmarks, unimodal GPT-4 + Tarsier-Text beats GPT-4V + Tarsier-Screenshot by 10-20%!
 
-Tagged Screenshot             |  Tagged Text Representation
-:-------------------------:|:-------------------------:
-![tagged](https://github.com/reworkd/tarsier/blob/main/.github/assets/tagged.png)  |  ![tagged](https://github.com/reworkd/tarsier/blob/main/.github/assets/tagged_text.png)
-
+|                                 Tagged Screenshot                                 |                               Tagged Text Representation                               |
+| :-------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: |
+| ![tagged](https://github.com/reworkd/tarsier/blob/main/.github/assets/tagged.png) | ![tagged](https://github.com/reworkd/tarsier/blob/main/.github/assets/tagged_text.png) |
 
 ## Installation
 
@@ -71,6 +70,7 @@ an endpoint
   "endpoint": "<enter_your_api_endpoint>"
 }
 ```
+
 These values can be found in the keys and endpoint section of the computer vision resource. See the instructions at https://learn.microsoft.com/en-us/answers/questions/854952/dont-find-your-key-and-your-endpoint
 
 Otherwise, basic Tarsier usage might look like the following:
@@ -114,6 +114,7 @@ if __name__ == '__main__':
 ```
 
 Keep in mind that Tarsier tags different types of elements differently to help your LLM identify what actions are performable on each element. Specifically:
+
 - `[#ID]`: text-insertable fields (e.g. `textarea`, `input` with textual type)
 - `[@ID]`: hyperlinks (`<a>` tags)
 - `[$ID]`: other interactable elements (e.g. `button`, `select`)

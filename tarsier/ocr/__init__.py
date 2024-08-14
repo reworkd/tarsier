@@ -1,4 +1,5 @@
 from .ocr_service import (
+    DummyOCRService,
     GoogleVisionOCRService,
     MicrosoftAzureOCRService,
     OCRService,
@@ -8,6 +9,7 @@ from .types import ImageAnnotatorResponse
 
 
 __all__ = [
+    "DummyOCRService",
     "OCRService",
     "OCRProvider",
     "GoogleVisionOCRService",
