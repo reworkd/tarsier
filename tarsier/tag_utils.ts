@@ -9,7 +9,7 @@ interface ColouredElem {
   width: number;
   height: number;
   isFixed: boolean;
-  fixedPosition: string;  // 'top', 'bottom', 'none'
+  fixedPosition: string; // 'top', 'bottom', 'none'
   boundingBoxX: number;
   boundingBoxY: number;
 }
@@ -28,7 +28,13 @@ interface Window {
   getElementHtmlByXPath: (xpath: string) => string;
   createTextBoundingBoxes: () => void;
   documentDimensions: () => { width: number; height: number };
-  getElementBoundingBoxes: (xpath: string) => { text: string; top: number; left: number; width: number; height: number }[];
+  getElementBoundingBoxes: (xpath: string) => {
+    text: string;
+    top: number;
+    left: number;
+    width: number;
+    height: number;
+  }[];
   checkHasTaggedChildren: (xpath: string) => boolean;
   setElementVisibilityToHidden: (xpath: string) => void;
   reColourElements: (colouredElems: ColouredElem[]) => ColouredElem[];
@@ -633,7 +639,11 @@ window.revertVisibilities = () => {
 function hasDirectTextContent(element: HTMLElement): boolean {
   const childNodesArray = Array.from(element.childNodes);
   for (let node of childNodesArray) {
-    if (node.nodeType === Node.TEXT_NODE && node.textContent && node.textContent.trim().length > 0) {
+    if (
+      node.nodeType === Node.TEXT_NODE &&
+      node.textContent &&
+      node.textContent.trim().length > 0
+    ) {
       return true;
     }
   }
@@ -644,242 +654,278 @@ window.hideNonColouredElements = () => {
   const allElements = document.body.querySelectorAll("*");
   allElements.forEach((el) => {
     const element = el as HTMLElement;
-    if (element.style.visibility){
+    if (element.style.visibility) {
       element.setAttribute(reworkdVisibilityAttr, element.style.visibility);
     }
 
-    if (!element.hasAttribute('data-colored') || element.getAttribute('data-colored') !== 'true') {
-      element.style.visibility = 'hidden';
+    if (
+      !element.hasAttribute("data-colored") ||
+      element.getAttribute("data-colored") !== "true"
+    ) {
+      element.style.visibility = "hidden";
     } else {
-      element.style.visibility = 'visible';
+      element.style.visibility = "visible";
     }
   });
-}
+};
 
 function getNextColors(totalTags: number): string[] {
-    let colors = [];
-    let step = Math.ceil(256 / Math.cbrt(totalTags));  // Start with the initial step size
+  let colors = [];
+  let step = Math.ceil(256 / Math.cbrt(totalTags)); // Start with the initial step size
 
-    while (colors.length < totalTags) {
-        colors = [];  // Reset the colors array for each iteration
-        for (let r = 0; r < 256; r += step) {
-            for (let g = 0; g < 256; g += step) {
-                for (let b = 0; b < 256; b += step) {
-                    colors.push(`rgb(${r}, ${g}, ${b})`);
-                    if (colors.length >= totalTags) {
-                        // Stop generating colors once we reach the required amount
-                        break;
-                    }
-                }
-                if (colors.length >= totalTags) {
-                    break;
-                }
-            }
-            if (colors.length >= totalTags) {
-                break;
-            }
+  while (colors.length < totalTags) {
+    colors = []; // Reset the colors array for each iteration
+    for (let r = 0; r < 256; r += step) {
+      for (let g = 0; g < 256; g += step) {
+        for (let b = 0; b < 256; b += step) {
+          colors.push(`rgb(${r}, ${g}, ${b})`);
+          if (colors.length >= totalTags) {
+            // Stop generating colors once we reach the required amount
+            break;
+          }
         }
-
-        if (colors.length < totalTags) {
-            step--;  // Decrease the step to increase the number of generated colors
-            if (step <= 0) {
-                throw new Error("Step cannot be reduced further.");
-            }
+        if (colors.length >= totalTags) {
+          break;
         }
+      }
+      if (colors.length >= totalTags) {
+        break;
+      }
     }
 
-    // Optional: Shuffle colors to randomize the distribution
-    for (let i = colors.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [colors[i], colors[j]] = [colors[j], colors[i]];
+    if (colors.length < totalTags) {
+      step--; // Decrease the step to increase the number of generated colors
+      if (step <= 0) {
+        throw new Error("Step cannot be reduced further.");
+      }
     }
+  }
 
-    return colors.slice(0, totalTags);  // Ensure we return exactly totalTags colors
+  // Optional: Shuffle colors to randomize the distribution
+  for (let i = colors.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [colors[i], colors[j]] = [colors[j], colors[i]];
+  }
+
+  return colors.slice(0, totalTags); // Ensure we return exactly totalTags colors
 }
-
 
 function colorDistance(color1: string, color2: string): number {
   const rgb1 = color1.match(/\d+/g)!.map(Number);
   const rgb2 = color2.match(/\d+/g)!.map(Number);
   return Math.sqrt(
     Math.pow(rgb1[0] - rgb2[0], 2) +
-    Math.pow(rgb1[1] - rgb2[1], 2) +
-    Math.pow(rgb1[2] - rgb2[2], 2)
+      Math.pow(rgb1[1] - rgb2[1], 2) +
+      Math.pow(rgb1[2] - rgb2[2], 2),
   );
 }
 
-function assignColors(elements: HTMLElement[], colors: string[]): Map<HTMLElement, string> {
-    const colorAssignments = new Map<HTMLElement, string>();
-    const assignedColors = new Set<string>();
+function assignColors(
+  elements: HTMLElement[],
+  colors: string[],
+): Map<HTMLElement, string> {
+  const colorAssignments = new Map<HTMLElement, string>();
+  const assignedColors = new Set<string>();
 
-    elements.forEach(element => {
-        let bestColor: string | null = null;
-        let maxMinDistance = -1;
+  elements.forEach((element) => {
+    let bestColor: string | null = null;
+    let maxMinDistance = -1;
 
-        colors.forEach(color => {
-            if (assignedColors.has(color)) return;
+    colors.forEach((color) => {
+      if (assignedColors.has(color)) return;
 
-            let minDistance = Infinity;
-            assignedColors.forEach(assignedColor => {
-                const distance = colorDistance(color, assignedColor);
-                minDistance = Math.min(minDistance, distance);
-            });
+      let minDistance = Infinity;
+      assignedColors.forEach((assignedColor) => {
+        const distance = colorDistance(color, assignedColor);
+        minDistance = Math.min(minDistance, distance);
+      });
 
-            if (minDistance > maxMinDistance) {
-                maxMinDistance = minDistance;
-                bestColor = color;
-            }
-        });
-
-        if (bestColor) {
-            colorAssignments.set(element, bestColor);
-            assignedColors.add(bestColor);
-        } else {
-            // Fallback: Assign the first unassigned color if no bestColor is found
-            const remainingColors = colors.filter(c => !assignedColors.has(c));
-            bestColor = remainingColors[0];
-            colorAssignments.set(element, bestColor);
-            assignedColors.add(bestColor);
-        }
+      if (minDistance > maxMinDistance) {
+        maxMinDistance = minDistance;
+        bestColor = color;
+      }
     });
 
-    return colorAssignments;
+    if (bestColor) {
+      colorAssignments.set(element, bestColor);
+      assignedColors.add(bestColor);
+    } else {
+      // Fallback: Assign the first unassigned color if no bestColor is found
+      const remainingColors = colors.filter((c) => !assignedColors.has(c));
+      bestColor = remainingColors[0];
+      colorAssignments.set(element, bestColor);
+      assignedColors.add(bestColor);
+    }
+  });
+
+  return colorAssignments;
 }
 
 function transformXPath(xpath: string): string {
-    return xpath.replace(/\/(\w+):(\w+)/g, '/*[name()="$1:$2"]');
+  return xpath.replace(/\/(\w+):(\w+)/g, '/*[name()="$1:$2"]');
 }
 
 window.colourBasedTagify = (tagLeafTexts = false): ColouredElem[] => {
-    const tagMapping = window.tagifyWebpage(tagLeafTexts);
-    window.removeTags();
+  const tagMapping = window.tagifyWebpage(tagLeafTexts);
+  window.removeTags();
 
-    const viewportWidth = window.innerWidth;
-    // Collect elements that have a bounding box > 0
-    const elements: HTMLElement[] = [];
-    Object.keys(tagMapping).forEach(id => {
-        let xpath = tagMapping[parseInt(id)];
-        const node = document.evaluate(xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+  const viewportWidth = window.innerWidth;
+  // Collect elements that have a bounding box > 0
+  const elements: HTMLElement[] = [];
+  Object.keys(tagMapping).forEach((id) => {
+    let xpath = tagMapping[parseInt(id)];
+    const node = document.evaluate(
+      xpath,
+      document,
+      null,
+      XPathResult.FIRST_ORDERED_NODE_TYPE,
+      null,
+    ).singleNodeValue;
 
-        if (node instanceof HTMLElement) {
-            const rect = node.getBoundingClientRect();
-            if (rect.width > 0 && rect.height > 0 && rect.left >= 0 && rect.right <= viewportWidth) {
-                node.setAttribute('data-id', id);
-                elements.push(node);
-            }
-        }
+    if (node instanceof HTMLElement) {
+      const rect = node.getBoundingClientRect();
+      if (
+        rect.width > 0 &&
+        rect.height > 0 &&
+        rect.left >= 0 &&
+        rect.right <= viewportWidth
+      ) {
+        node.setAttribute("data-id", id);
+        elements.push(node);
+      }
+    }
+  });
+
+  const totalTags = elements.length;
+  const colors = getNextColors(totalTags);
+  const colorAssignments = assignColors(elements, colors);
+
+  const colorMapping: ColouredElem[] = [];
+  const bodyRect = document.body.getBoundingClientRect();
+  const attribute = "data-colored";
+  const taggedElements = new Set(Object.values(tagMapping));
+
+  elements.forEach((element) => {
+    const id = parseInt(element.getAttribute("data-id")!);
+    const color = colorAssignments.get(element)!;
+    const rect = element.getBoundingClientRect();
+    const midpoint: [number, number] = [rect.left, rect.top];
+    const normalizedMidpoint: [number, number] = [
+      (midpoint[0] - bodyRect.left) / bodyRect.width,
+      (midpoint[1] - bodyRect.top) / bodyRect.height,
+    ];
+    const idSymbol = createIdSymbol(id, element);
+    const { isFixed, fixedPosition } = getFixedPosition(element);
+
+    colorMapping.push({
+      id,
+      idSymbol,
+      color,
+      xpath: tagMapping[id],
+      midpoint,
+      normalizedMidpoint,
+      width: rect.width,
+      height: rect.height,
+      isFixed,
+      fixedPosition,
+      boundingBoxX: rect.x,
+      boundingBoxY: rect.y,
     });
 
-    const totalTags = elements.length;
-    const colors = getNextColors(totalTags);
-    const colorAssignments = assignColors(elements, colors);
+    element.style.setProperty("background-color", color, "important");
+    element.style.setProperty("color", color, "important");
+    element.style.setProperty("border-color", color, "important");
+    element.style.setProperty("opacity", "1", "important");
+    element.setAttribute(attribute, "true");
 
-    const colorMapping: ColouredElem[] = [];
-    const bodyRect = document.body.getBoundingClientRect();
-    const attribute = 'data-colored';
-    const taggedElements = new Set(Object.values(tagMapping));
+    if (element.tagName.toLowerCase() === "a") {
+      const computedStyle = window.getComputedStyle(element);
+      if (computedStyle.backgroundImage !== "none") {
+        element.style.backgroundImage = "none";
+      }
 
-    elements.forEach(element => {
-        const id = parseInt(element.getAttribute('data-id')!);
-        const color = colorAssignments.get(element)!;
-        const rect = element.getBoundingClientRect();
-        const midpoint: [number, number] = [rect.left, rect.top];
-        const normalizedMidpoint: [number, number] = [
-            (midpoint[0] - bodyRect.left) / bodyRect.width,
-            (midpoint[1] - bodyRect.top) / bodyRect.height
-        ];
-        const idSymbol = createIdSymbol(id, element);
-        const { isFixed, fixedPosition } = getFixedPosition(element);
+      let hasTextChild = false;
+      let hasImageChild = false;
+      let boundingBoxGreaterThanZero = rect.width > 0 && rect.height > 0;
+      let hasUnTaggedTextElement = false;
 
-        colorMapping.push({
-            id,
-            idSymbol,
-            color,
-            xpath: tagMapping[id],
-            midpoint,
-            normalizedMidpoint,
-            width: rect.width,
-            height: rect.height,
-            isFixed,
-            fixedPosition,
-            boundingBoxX: rect.x,
-            boundingBoxY: rect.y
-        });
-
-        element.style.setProperty('background-color', color, 'important');
-        element.style.setProperty('color', color, 'important');
-        element.style.setProperty('border-color', color, 'important')
-        element.style.setProperty('opacity', '1', 'important')
-        element.setAttribute(attribute, 'true');
-
-        if (element.tagName.toLowerCase() === 'a') {
-            const computedStyle = window.getComputedStyle(element);
-            if (computedStyle.backgroundImage !== 'none') {
-                element.style.backgroundImage = 'none';
-            }
-
-            let hasTextChild = false;
-            let hasImageChild = false;
-            let boundingBoxGreaterThanZero = rect.width > 0 && rect.height > 0;
-            let hasUnTaggedTextElement = false;
-
-            // Check for text nodes and images within child elements
-            Array.from(element.children).forEach(child => {
-                const childElement = child as HTMLElement; // Type assertion to HTMLElement
-                if (childElement.textContent && childElement.textContent.trim().length > 0) {
-                    hasTextChild = true;
-                }
-                if (childElement.tagName.toLowerCase() === 'img') {
-                    hasImageChild = true;
-                }
-                // Check if child element itself is not tagged
-                const childXpath = getElementXPath(childElement);
-                if (!taggedElements.has(childXpath) && childElement.textContent && childElement.textContent.trim().length > 0) {
-                    hasUnTaggedTextElement = true;
-                }
-            });
-
-            if ((!hasTextChild && !hasImageChild && !hasDirectTextContent(element) && !boundingBoxGreaterThanZero) || hasUnTaggedTextElement) {
-                element.style.width = `${rect.width}px`;
-                element.style.height = `${rect.height}px`;
-                element.style.display = 'block';
-            }
+      // Check for text nodes and images within child elements
+      Array.from(element.children).forEach((child) => {
+        const childElement = child as HTMLElement; // Type assertion to HTMLElement
+        if (
+          childElement.textContent &&
+          childElement.textContent.trim().length > 0
+        ) {
+          hasTextChild = true;
         }
+        if (childElement.tagName.toLowerCase() === "img") {
+          hasImageChild = true;
+        }
+        // Check if child element itself is not tagged
+        const childXpath = getElementXPath(childElement);
+        if (
+          !taggedElements.has(childXpath) &&
+          childElement.textContent &&
+          childElement.textContent.trim().length > 0
+        ) {
+          hasUnTaggedTextElement = true;
+        }
+      });
 
-        Array.from(element.children).forEach(child => {
-            const childXpath = getElementXPath(child as HTMLElement);
-            const childComputedStyle = window.getComputedStyle(child);
-            if (!taggedElements.has(childXpath) && childComputedStyle.display !== 'none') {
-                (child as HTMLElement).style.visibility = 'hidden';
-            }
-        });
+      if (
+        (!hasTextChild &&
+          !hasImageChild &&
+          !hasDirectTextContent(element) &&
+          !boundingBoxGreaterThanZero) ||
+        hasUnTaggedTextElement
+      ) {
+        element.style.width = `${rect.width}px`;
+        element.style.height = `${rect.height}px`;
+        element.style.display = "block";
+      }
+    }
+
+    Array.from(element.children).forEach((child) => {
+      const childXpath = getElementXPath(child as HTMLElement);
+      const childComputedStyle = window.getComputedStyle(child);
+      if (
+        !taggedElements.has(childXpath) &&
+        childComputedStyle.display !== "none"
+      ) {
+        (child as HTMLElement).style.visibility = "hidden";
+      }
     });
+  });
 
-    return colorMapping;
+  return colorMapping;
 };
 
-
-window.getElementHtmlByXPath = function(xpath: string): string {
+window.getElementHtmlByXPath = function (xpath: string): string {
   try {
-    const result = document.evaluate(xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null);
+    const result = document.evaluate(
+      xpath,
+      document,
+      null,
+      XPathResult.FIRST_ORDERED_NODE_TYPE,
+      null,
+    );
     const element = result.singleNodeValue as HTMLElement | null;
-    return element ? element.outerHTML : 'No element matches the provided XPath.';
+    return element
+      ? element.outerHTML
+      : "No element matches the provided XPath.";
   } catch (error) {
-    console.error('Error evaluating XPath:', error);
-    return '';
+    console.error("Error evaluating XPath:", error);
+    return "";
   }
 };
 
 function createIdSymbol(idNum: number, el: HTMLElement): string {
-  console.log("createIdSymbol called")
+  console.log("createIdSymbol called");
   let idStr: string;
   if (isInteractable(el)) {
-    if (isTextInsertable(el))
-      idStr = `[#${idNum}]`;
-    else if (el.tagName.toLowerCase() == 'a')
-      idStr = `[@${idNum}]`;
-    else
-      idStr = `[$${idNum}]`;
+    if (isTextInsertable(el)) idStr = `[#${idNum}]`;
+    else if (el.tagName.toLowerCase() == "a") idStr = `[@${idNum}]`;
+    else idStr = `[$${idNum}]`;
   } else {
     idStr = `[${idNum}]`;
   }
@@ -887,39 +933,53 @@ function createIdSymbol(idNum: number, el: HTMLElement): string {
 }
 
 window.createTextBoundingBoxes = () => {
-  const style = document.createElement('style');
+  const style = document.createElement("style");
   document.head.appendChild(style);
   if (style.sheet) {
-      style.sheet.insertRule(`
+    style.sheet.insertRule(
+      `
           .highlighted-word {
               border: 0.5px solid orange;
               display: inline-block;
               visibility: visible;
           }
-      `, 0);
+      `,
+      0,
+    );
   }
 
   function applyHighlighting(root: Document | HTMLElement) {
-    root.querySelectorAll('body *').forEach(element => {
-      if (['SCRIPT', 'STYLE', 'IFRAME', 'INPUT', 'TEXTAREA'].includes(element.tagName)) {
+    root.querySelectorAll("body *").forEach((element) => {
+      if (
+        ["SCRIPT", "STYLE", "IFRAME", "INPUT", "TEXTAREA"].includes(
+          element.tagName,
+        )
+      ) {
         return;
       }
       let childNodes = Array.from(element.childNodes);
-      childNodes.forEach(node => {
-        if (node.nodeType === 3 && node.textContent && node.textContent.trim().length > 0) {
-          let textContent = node.textContent.replace(/\u00A0/g, ' '); // Replace non-breaking space with regular space
-          if (element.hasAttribute('selected')) {
+      childNodes.forEach((node) => {
+        if (
+          node.nodeType === 3 &&
+          node.textContent &&
+          node.textContent.trim().length > 0
+        ) {
+          let textContent = node.textContent.replace(/\u00A0/g, " "); // Replace non-breaking space with regular space
+          if (element.hasAttribute("selected")) {
             // Create an outer span for elements with the 'selected' attribute
-            let span = document.createElement('span');
-            span.className = 'tarsier-highlighted-word';
+            let span = document.createElement("span");
+            span.className = "tarsier-highlighted-word";
             span.textContent = textContent;
             if (node.parentNode) {
               node.parentNode.replaceChild(span, node);
             }
           } else {
             // Create multiple inner spans for individual words or groups of words
-            let newHTML = textContent.replace(/(\([\w\s',&-:]+\)|[\w',&-:]+[\w",\-\/\[\]]*[?.!,;:]?)/g, '<span class="tarsier-highlighted-word">$1</span>');
-            let tempDiv = document.createElement('div');
+            let newHTML = textContent.replace(
+              /(\([\w\s',&-:]+\)|[\w',&-:]+[\w",\-\/\[\]]*[?.!,;:]?)/g,
+              '<span class="tarsier-highlighted-word">$1</span>',
+            );
+            let tempDiv = document.createElement("div");
             tempDiv.innerHTML = newHTML;
             while (tempDiv.firstChild) {
               element.insertBefore(tempDiv.firstChild, node);
@@ -933,76 +993,87 @@ window.createTextBoundingBoxes = () => {
 
   applyHighlighting(document);
 
-  document.querySelectorAll('iframe').forEach(iframe => {
-      try {
-          iframe.contentWindow?.postMessage({ action: 'highlight' }, '*');
-      } catch (error) {
-          console.error("Error accessing iframe content: ", error);
-      }
+  document.querySelectorAll("iframe").forEach((iframe) => {
+    try {
+      iframe.contentWindow?.postMessage({ action: "highlight" }, "*");
+    } catch (error) {
+      console.error("Error accessing iframe content: ", error);
+    }
   });
 };
 
 window.documentDimensions = () => {
   return {
     width: document.documentElement.scrollWidth,
-    height: document.documentElement.scrollHeight
+    height: document.documentElement.scrollHeight,
   };
 };
 
 window.getElementBoundingBoxes = (xpath: string) => {
-  const element = document.evaluate(xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue as HTMLElement | null;
+  const element = document.evaluate(
+    xpath,
+    document,
+    null,
+    XPathResult.FIRST_ORDERED_NODE_TYPE,
+    null,
+  ).singleNodeValue as HTMLElement | null;
   if (element) {
     // Check if any child elements have the 'selected' attribute
-    const selectedChild = element.querySelector('option[selected]');
+    const selectedChild = element.querySelector("option[selected]");
 
     if (selectedChild) {
       const parentRect = element.getBoundingClientRect();
-      return [{
-        text: selectedChild.textContent || '',
-        top: parentRect.top,
-        left: parentRect.left,
-        width: parentRect.width,
-        height: parentRect.height
-      }];
+      return [
+        {
+          text: selectedChild.textContent || "",
+          top: parentRect.top,
+          left: parentRect.left,
+          width: parentRect.width,
+          height: parentRect.height,
+        },
+      ];
     }
 
     // Get all children with the 'tarsier-highlighted-word' class
-    const words = element.querySelectorAll('.tarsier-highlighted-word');
-    const boundingBoxes = Array.from(words).map(word => {
-      const rect = (word as HTMLElement).getBoundingClientRect();
-      return {
-        text: word.textContent || '',
-        top: rect.top,
-        left: rect.left,
-        width: rect.width,
-        height: rect.height
-      };
-    }).filter(box =>
-      box.width > 0 &&
-      box.height > 0 &&
-      box.top >= 0 &&
-      box.left >= 0
-    );
+    const words = element.querySelectorAll(".tarsier-highlighted-word");
+    const boundingBoxes = Array.from(words)
+      .map((word) => {
+        const rect = (word as HTMLElement).getBoundingClientRect();
+        return {
+          text: word.textContent || "",
+          top: rect.top,
+          left: rect.left,
+          width: rect.width,
+          height: rect.height,
+        };
+      })
+      .filter(
+        (box) =>
+          box.width > 0 && box.height > 0 && box.top >= 0 && box.left >= 0,
+      );
     return boundingBoxes;
   } else {
     return [];
   }
 };
 
-function getFixedPosition(element: HTMLElement): { isFixed: boolean, fixedPosition: string } {
+function getFixedPosition(element: HTMLElement): {
+  isFixed: boolean;
+  fixedPosition: string;
+} {
   let isFixed = false;
-  let fixedPosition = 'none';
+  let fixedPosition = "none";
   let currentElement: HTMLElement | null = element;
 
   while (currentElement) {
     const style = window.getComputedStyle(currentElement);
-    if (style.position === 'fixed') {
+    if (style.position === "fixed") {
       isFixed = true;
       const rect = currentElement.getBoundingClientRect();
       if (rect.top === 0) {
-        fixedPosition = 'top';
+        fixedPosition = "top";
       } else if (rect.bottom === window.innerHeight) {
-        fixedPosition = 'bottom';
+        fixedPosition = "bottom";
       }
       break;
     }
@@ -1012,8 +1083,14 @@ function getFixedPosition(element: HTMLElement): { isFixed: boolean, fixedPositi
   return { isFixed, fixedPosition };
 }
 
-window.checkHasTaggedChildren = (xpath: string) : boolean => {
-  const element = document.evaluate(xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue as HTMLElement | null;
+window.checkHasTaggedChildren = (xpath: string): boolean => {
+  const element = document.evaluate(
+    xpath,
+    document,
+    null,
+    XPathResult.FIRST_ORDERED_NODE_TYPE,
+    null,
+  ).singleNodeValue as HTMLElement | null;
   if (element) {
     const taggedChildren = element.querySelector('[data-colored="true"]');
     return !!taggedChildren;
@@ -1022,11 +1099,19 @@ window.checkHasTaggedChildren = (xpath: string) : boolean => {
 };
 
 window.setElementVisibilityToHidden = (xpath: string) => {
-  const element = document.evaluate(xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue as HTMLElement | null;
+  const element = document.evaluate(
+    xpath,
+    document,
+    null,
+    XPathResult.FIRST_ORDERED_NODE_TYPE,
+    null,
+  ).singleNodeValue as HTMLElement | null;
   if (element) {
-    element.style.visibility = 'hidden';
+    element.style.visibility = "hidden";
   } else {
-    console.error(`Tried to hide element. Element not found for XPath: ${xpath}`);
+    console.error(
+      `Tried to hide element. Element not found for XPath: ${xpath}`,
+    );
   }
 };
 
@@ -1035,9 +1120,15 @@ window.reColourElements = (colouredElems: ColouredElem[]): ColouredElem[] => {
   const colors = getNextColors(totalTags);
 
   // Get elements based on the xpaths
-  const elements: HTMLElement[] = colouredElems.map(elem => {
-    const element = document.evaluate(elem.xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue as HTMLElement;
-    element.setAttribute('data-id', elem.id.toString());
+  const elements: HTMLElement[] = colouredElems.map((elem) => {
+    const element = document.evaluate(
+      elem.xpath,
+      document,
+      null,
+      XPathResult.FIRST_ORDERED_NODE_TYPE,
+      null,
+    ).singleNodeValue as HTMLElement;
+    element.setAttribute("data-id", elem.id.toString());
     return element;
   });
 
@@ -1046,21 +1137,27 @@ window.reColourElements = (colouredElems: ColouredElem[]): ColouredElem[] => {
   const bodyRect = document.body.getBoundingClientRect();
 
   // Update the colours and return the updated ColouredElems
-  const updatedColouredElems = colouredElems.map(elem => {
-    const element = document.evaluate(elem.xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue as HTMLElement;
+  const updatedColouredElems = colouredElems.map((elem) => {
+    const element = document.evaluate(
+      elem.xpath,
+      document,
+      null,
+      XPathResult.FIRST_ORDERED_NODE_TYPE,
+      null,
+    ).singleNodeValue as HTMLElement;
     const color = colorAssignments.get(element)!;
     const rect = element.getBoundingClientRect();
     const midpoint: [number, number] = [rect.left, rect.top];
     const normalizedMidpoint: [number, number] = [
       (midpoint[0] - bodyRect.left) / bodyRect.width,
-      (midpoint[1] - bodyRect.top) / bodyRect.height
+      (midpoint[1] - bodyRect.top) / bodyRect.height,
     ];
 
-    element.style.setProperty('background-color', color, 'important');
-    element.style.setProperty('color', color, 'important');
-    element.style.setProperty('border-color', color, 'important')
-    element.style.setProperty('opacity', '1', 'important')
-    element.setAttribute('data-colored', 'true');
+    element.style.setProperty("background-color", color, "important");
+    element.style.setProperty("color", color, "important");
+    element.style.setProperty("border-color", color, "important");
+    element.style.setProperty("opacity", "1", "important");
+    element.setAttribute("data-colored", "true");
 
     return {
       ...elem,
@@ -1070,7 +1167,7 @@ window.reColourElements = (colouredElems: ColouredElem[]): ColouredElem[] => {
       width: rect.width,
       height: rect.height,
       boundingBoxX: rect.x,
-      boundingBoxY: rect.y
+      boundingBoxY: rect.y,
     };
   });
 
@@ -1078,7 +1175,7 @@ window.reColourElements = (colouredElems: ColouredElem[]): ColouredElem[] => {
 };
 
 window.disableTransitionsAndAnimations = () => {
-  const style = document.createElement('style');
+  const style = document.createElement("style");
   style.innerHTML = `
     *, *::before, *::after {
       transition-property: none !important;
@@ -1096,12 +1193,12 @@ window.disableTransitionsAndAnimations = () => {
       animation-play-state: paused !important;
     }
   `;
-  style.id = 'disable-transitions';
+  style.id = "disable-transitions";
   document.head.appendChild(style);
 };
 
 window.enableTransitionsAndAnimations = () => {
-  const style = document.getElementById('disable-transitions');
+  const style = document.getElementById("disable-transitions");
   if (style) {
     style.remove();
   }

@@ -27,15 +27,21 @@ def format_text(ocr_text: ImageAnnotatorResponse) -> str:
         # Calculate the canvas width based on the longest line
         longest_line = max(
             line_cluster.values(),
-            key=lambda line: sum(len(token["text"]) + 1 for token in line)
+            key=lambda line: sum(len(token["text"]) + 1 for token in line),
         )
 
         max_sum_text_lengths = sum(len(token["text"]) + 1 for token in longest_line)
-        canvas_width = int(max_sum_text_lengths * 1.5)  # Adding a buffer to ensure it fits
+        canvas_width = int(
+            max_sum_text_lengths * 1.5
+        )  # Adding a buffer to ensure it fits
 
         # Print debug information
-        print(f"Longest line based on text lengths: {' '.join(token['text'] for token in longest_line)}")
-        print(f"Determined canvas_width based on max_sum_text_lengths: {max_sum_text_lengths}")
+        print(
+            f"Longest line based on text lengths: {' '.join(token['text'] for token in longest_line)}"
+        )
+        print(
+            f"Determined canvas_width based on max_sum_text_lengths: {max_sum_text_lengths}"
+        )
         print(f"Final canvas_width: {canvas_width}")
 
     else:
@@ -48,7 +54,7 @@ def format_text(ocr_text: ImageAnnotatorResponse) -> str:
     empty_space_height = letter_height + 5
     max_previous_line_height = empty_space_height
 
-    def adjust_canvas_width(new_width: int):
+    def adjust_canvas_width(new_width: int) -> None:
         nonlocal canvas, canvas_width
         if new_width > canvas_width:
             print(f"Adjusting canvas width from {canvas_width} to {new_width}")
@@ -101,9 +107,13 @@ def format_text(ocr_text: ImageAnnotatorResponse) -> str:
                     canvas[i][x + j] = char
                 else:
                     # Print the error information
-                    print(f"Error: Trying to access canvas[{i}][{x + j}] which is out of bounds.")
+                    print(
+                        f"Error: Trying to access canvas[{i}][{x + j}] which is out of bounds."
+                    )
                     print(f"Annotation text: {text}")
-                    print(f"Annotation midpoint_normalized: {annotation['midpoint_normalized']}")
+                    print(
+                        f"Annotation midpoint_normalized: {annotation['midpoint_normalized']}"
+                    )
                     print(f"Canvas width: {canvas_width}, i: {i}, x: {x}, j: {j}")
                     print(f"Canvas line length: {len(canvas[i])}")
 

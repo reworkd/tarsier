@@ -1,5 +1,4 @@
 import asyncio
-import json
 import os
 from pathlib import Path
 from statistics import median
@@ -18,9 +17,9 @@ load_dotenv()
 
 
 def google_creds() -> Dict[str, str]:
-    creds = json.loads(os.environ.get("TARSIER_GOOGLE_OCR_CREDENTIALS", ""))
-    if creds:
-        return creds
+    # creds = json.loads(os.environ.get("TARSIER_GOOGLE_OCR_CREDENTIALS", ""))
+    # if creds:
+    #     return creds
 
     return {
         "type": os.getenv("TYPE") or "",
@@ -69,7 +68,9 @@ async def snapshot_example(
         await page.wait_for_timeout(3000)
         image, _ = await tarsier.page_to_image(page, tag_text_elements=True)
         # page_text, _ = await tarsier.page_to_text(page, tag_text_elements=True)
-        page_text_colour_tagged, _ = await tarsier.page_to_text_colour_tag(page, tag_text_elements=True)
+        page_text_colour_tagged, _ = await tarsier.page_to_text_colour_tag(
+            page, tag_text_elements=True
+        )
         await page.close()
 
         # Create the directory if it doesn't exist
@@ -81,7 +82,8 @@ async def snapshot_example(
 
         with open(example_path / "ocr.txt", "w") as f:
             page_text_with_token_count = (
-                page_text_colour_tagged + f"\nToken count: {counter.count(page_text_colour_tagged)}"
+                page_text_colour_tagged
+                + f"\nToken count: {counter.count(page_text_colour_tagged)}"
             )
             f.write(page_text_with_token_count)
             print(f"{prefix} Writing OCR text to {example_path / 'ocr.txt'}")
@@ -105,7 +107,7 @@ async def generate_snapshots() -> None:
             snapshot_example(i, semaphore, browser, example, snapshots_path, tarsier)
             for i, example in enumerate(examples)
             if example.source == "mhtml"
-            if example.source == "mhtml" and example.id == '7JjuuOO8Ibt83UkNQA2bG'
+            if example.source == "mhtml" and example.id == "7JjuuOO8Ibt83UkNQA2bG"
         ]
         await asyncio.gather(*tasks)
         # mhtml_examples = [ex for ex in examples if ex.source == "mhtml"][:3]
