@@ -87,23 +87,24 @@ OESTERREICHISCHE NATIONALBANK
 powered by ✓ consentmanager.net
 
    Datenschutz - Einstellungen
-                 [ @ 2 ] DE | [ @ 3 ] EN [ @ 4 ] Presse [ @ 5 ] Publikationen [ @ 6 ] Termine  [ @ 7 ] Kontakt | [ @ 8 ] Karriere | [ @ 9 ] FAQ [ @ 10 ] Service | [ @ 11 ] Barrierefreiheit | [ @ 12 ] Newsletter
+                [ @ 2 ] DE | [ @ 3 ] EN [ @ 4 ] Presse  [ @ 5 ] Publikationen [ @ 6 ] Termine  [ @ 7 ] Kontakt | [ @ 8 ] Karriere | [ @ 9 ] FAQ [ @ 10 ] Service | [ @ 11 ] Barrierefreiheit | [ @ 12 ] Newsletter
                  [ @ 13 ] X | [ @ 14 ]   [ @ 15 ] O [ @ 16 ] in  [ @ 17 ]    [ @ 18 ] .. [ @ 19 ] +
                                                                                                                                                                                                 **ONB**
                 [ 21 ] Sicherheit durch Stabilität.                                                                                                                       OESTERREICHISCHE NATIONALBANK
-                                                                                                                                                                  [ @ 20 ] ]                          EUROSYSTEM
+                                                                                                                                                                  [ @ 20 ]                            EUROSYSTEM
                                                                                                                                                                                                                          [ # 29 ]
-                [ $ 22 ] Über         [ $ 23 ] Der       [ $ 24 ] Geldpolitik           [ $ 25 ] Finanzmarkt             [ $ 26 ] Statistik         [ $ 27 ] Meldewesen             [ $ 28 ] Zahlungsverkehr              [ 320 ]
+                [ $ 22 ] Über        [ $ 23 ] Der        [ $ 24 ] Geldpolitik           [ $ 25 ] Finanzmarkt             [ $ 26 ] Statistik         [ $ 27 ] Meldewesen             [ $ 28 ] Zahlungsverkehr              [ 320 ]
                      uns                Euro
 
 
-                  [ @ 31 ] Über uns                     [ @ 49 ] Home [ @ 50 ] Über uns @ 51 ] Rechtliche Grundlagen [ 52 ] Geschäftsbestimmungen der OeNB
+                   @ 31 ] Über uns                      [ @ 49 ] Home [ @ 50 ] Über uns > @ 51 ] Rechtliche Grundlagen [ 52 ] Geschäftsbestimmungen der OeNB
+                  [
                   [ @ 32 ] Aufgaben
                                                         **[ 53 ] Geschäftsbestimmungen der OeNB**
                   [ @ 33 ] Organisation
                                                         > [ 54 ] Geschäftsbedingungen für den Zahlungsverkehr
-                  [ @ 34 ] Rechtliche Grundlagen
-                                                          [ 57 ] Geschäftsbestimmungen für geldpolitische Geschäfte und Verfahren
+                  [ @ 34 ] Rechtliche Grundlagen ✓
+                                                        > [ 57 ] Geschäftsbestimmungen für geldpolitische Geschäfte und Verfahren
                    [ @ 35 ] Europa- u.
                    bundesrechtliche Grundlagen          > [ 58 ] Geschäftsbestimmungen für das Depotgeschäft ( Kreditinstitute )
                                                         > [ 59 ] Additional Terms and Conditions
@@ -142,4 +143,4 @@ powered by ✓ consentmanager.net
 
              [ @ 91 ] Sitemap | [ @ 92 ] Impressum und Haftung | [ @ 93 ] Datenschutz | [ @ 94 ] Amtssignatur - Bildmarke | [ @ 95 ] Barrierefreiheitserklärung | [ 96 ] Copyright © 2024 Oesterreichische Nationalbank
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1324
+Token count: 1328

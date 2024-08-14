@@ -1,9 +1,9 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 1 ] Contact Us      [ @ 2 ] Clinical Trials    [ @ 3 ] Careers     [ @ 4 ] Pay a Bill     [ $ 5 ] Ways to Give       [ $ 6 ] Urgent Care  |   [ $ 7 ] MyLifespan
+[ @ 1 ] Contact Us      [ @ 2 ] Clinical Trials   [ @ 3 ] Careers      [ @ 4 ] Pay a Bill    [ $ 5 ] Ways to Give       [ $ 6 ] Urgent Care |    [ $ 7 ] MyLifespan
 
   [ @ 8 ]            Lifespan Delivering health with care
 
-                                      [ @ 10 ] Find A Provider          [ $ 11 ] Centers & Services ▾         [ @ 12 ] Patients & Visitors        [ $ 13 ] Locations ▾        [ @ 14 ] Lifespan Living         **[ $ 15 ] Q**
+                                         [ @ 10 ] Find A Provider         [ $ 11 ] Centers & Services ▾         [ @ 12 ] Patients & Visitors        [ $ 13 ] Locations ▾        [ @ 14 ] Lifespan Living        **[ $ 15 ] Q**
 
 
 
@@ -22,12 +22,12 @@
 
   [ @ 18 ] Lifespan Home [ 19 ] Lifespan Locations
 
-  [ 20 ] AREA [ 21 ] ] ( 33 )
+  [ 20 ] AREA [ 21 ] ( 33 )
                                                                 [ # 26
                                                                         Search for a Lifespan Location                                                                                                    [ $ 27 ] Search
 
   [ 22 ] LIFESPAN HOSPITAL / AFFILIATE          +
-  [ 23 ] ( 8 )
+  [ 23 ] ] ( 8 )
                                                                     [ 28 ] Featured Location
 
   [ 24 ] LOCATION TYPE [ 25 ] ( 7 )             +
@@ -164,11 +164,11 @@
           BROWN UNIVERSITY
 
 
-        [ @ 127 ] LIFESPAN REMOTE ACCESS                                                                                                                           [ @ 128 ] f     @ 129 ]         @ 130 ]         @ 131 ]
-                                                                                                                                                                                   [              [               [
+        [ @ 127 ] LIFESPAN REMOTE ACCESS                                                                                                                                                                                   ( 0 ° )
+                                                                                                                                                                     [ @ 128 ]      [ @ 129 ]       [ @ 130 ]      [ @ 131 ]
 
   [ @ 132 ] © 2022 Lifespan Health System   [ @ 133 ] Corporate Compliance    [ @ 134 ] Notice of Non - Discrimination [ @ 135 ] Privacy Policy  [ @ 136 ] Terms of Use    [ @ 137 ] Careers   [ @ 138 ] Financial Assistance
      [ 139 ] By clicking" Accept All Cookies", you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and [ $ 140 ] Cookies Settings [ $ 141 ] Reject All [ $ 142 ] Accept All Cookies
      assist in our marketing efforts.                                                                                                                                                                                        [ $ 143
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1764
+Token count: 1765

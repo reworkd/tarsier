@@ -1,19 +1,18 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 1 ]                 [ # 3 ]
-                                                                            [ $ 5 ]                                                                            $ 8 ] Supplier Registration    [ $ 9 ] Sign In
-                                                                            Bid Solicitations ✓    [ @ 6 ] -    [ @ 7 ] Advanced                               [
-                                      Search ...
-  **NJ START**
+                                                                             Bid Solic [ $ 5 ] ons ✓ [ @ 6 ]    [ @ 7 ] Advanced                               [ $ 8 ] Supplier Registration  [ $ 9 ] Sign In
+           **START**                  Search ...
+   **NJ**
 
 
                  + [ 11 ] Advanced Search
 
 
-        [ 12 ] Results
+               [ 12 ] Results
 
-                                                                        [ 13 ] 1-15 of [ 14 ] [ 15 ] < [ 16 ] [ 17 ] [ 18 ] >>                                          [ @ 21 ]   [ @ 20 ]  [ @ 19 ] A
+                                                                       [ 13 ] 1-15 of 15 « <      [ 16 ] 1  > >                                                         [ @ 21 ]   [ @ 20 ]  [ @ 19 ] A
                  [ 22 ] Bid Solicitation 23 ] Alternate Id     [ 24 ] Contract / Blanket                                            [ 27 ] Bid Opening                            [ 29 ] Awarded
-                                        [                     #                       [ 25 ] Buyer           [ 26 ] Description     Date                   [ 28 ] Bid Holder List Vendor ( s )
+                                        [                                             [ 25 ] Buyer           [ 26 ] Description     Date                   [ 28 ] Bid Holder List Vendor ( s )
                                                                                                              [ 32 ] T2761 Non - OEM
                                                                                                             Automotive Parts and
                  @ 30 ]                                                                                     Accessories for Light   [ 33 ] 03/19/2024
@@ -88,8 +87,9 @@
                  [ @ 86 ] ] 23DPP00796                                                [ 87 ] Maria Maguire                          14:00:59
                                                                                                             Delinquent Tax
                                                                                                             Accounts
-                                                                        [ 90 ] 1-15 of [ 91 ] [ 92 ]: < [ 93 ] [ 94 ] [ 95 ] >>                                         [ @ 98 ]   [ @ 97 ]  [  96 ]
+                                                                                                            <   <<
+                                                                       [ 90 ] 1-15 of 15 << <     [ 93 ] 1                                                              [ @ 98 ]   [ @ 97 ]  [  96 ]
 
             [ 99 ]
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1356
+Token count: 1338
