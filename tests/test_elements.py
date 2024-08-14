@@ -61,7 +61,7 @@ import pytest
             },
             ["Display contents"],
             ["[ 0 ]"],
-        )
+        ),
     ],
 )
 async def test_combined_elements_page(
