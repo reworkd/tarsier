@@ -382,22 +382,38 @@ function insertTags(
     textNode.textContent = textNode.textContent!.trimStart();
   }
 
-  function drillDownAndInsert(element: HTMLElement, idSpan: HTMLSpanElement): void {
+  function getElementToInsertInto(element: HTMLElement, idSpan: HTMLSpanElement): HTMLElement {
     // An <a> tag may just be a wrapper over many elements. (Think an <a> with a <span> and another <span>
     // If these sub children are the only children, they might have styling that mis-positions the tag we're attempting to
     // insert. Because of this, we should drill down among these single children to insert this tag
-    if (element.childNodes.length === 1) {
-      const child = element.childNodes[0];
+
+    // Some elements might just be empty. They should not count as "children" and if there are candidates to drill down
+    // into when these empty elements are considered, we should drill
+    const childrenToConsider = Array.from(element.childNodes).filter(
+      (child) => {
+        if (child.nodeType === Node.TEXT_NODE) {
+          return true;
+        }
+
+        return !(child.nodeType === Node.ELEMENT_NODE && (isTextLess(child as HTMLElement) || !elIsVisible(child as HTMLElement)));
+      }
+    );
+
+    if (childrenToConsider.length === 1) {
+      const child = childrenToConsider[0];
       // Also check its a span or P tag
-      const elementsToDrillDown = ["span", "p", "h1", "h2", "h3", "h4", "h5", "h6"];
+      const elementsToDrillDown = ["div", "span", "p", "h1", "h2", "h3", "h4", "h5", "h6"];
       if (child.nodeType === Node.ELEMENT_NODE && elementsToDrillDown.includes((child as HTMLElement).tagName.toLowerCase())) {
-        return drillDownAndInsert(child as HTMLElement, idSpan);
+        return getElementToInsertInto(child as HTMLElement, idSpan);
       }
     }
 
+    trimTextNodeStart(element);
+
     // Base case
-    element.prepend(idSpan);
+    return element;
   }
+
   const idToXpath: { [key: number]: string } = {};
   let idNum = 0;
 
@@ -409,7 +425,9 @@ function insertTags(
       if (isTextInsertable(el) && el.parentElement) {
         el.parentElement.insertBefore(idSpan, el);
       } else {
-        drillDownAndInsert(el, idSpan);
+        const insertionElement = getElementToInsertInto(el, idSpan);
+        insertionElement.prepend(idSpan)
+        absolutelyPositionTagIfMisaligned(idSpan, el);
       }
       idNum++;
     } else if (tagLeafTexts) {
@@ -436,7 +454,7 @@ function insertTags(
   return idToXpath;
 }
 
-function absolutelyPositionMissingTags(idToXpath: { [key: number]: string }) {
+function absolutelyPositionTagIfMisaligned(tag: HTMLElement, parent: HTMLElement) {
   /*
   Some tags don't get displayed on the page properly
   This occurs if the parent element children are disjointed from the parent
