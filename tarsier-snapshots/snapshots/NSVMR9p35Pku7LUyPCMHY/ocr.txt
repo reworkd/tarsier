@@ -1,11 +1,11 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-四
-   [ @ 10 ] HOME [ 0 ] - [ @ 11 ] MINISTRY OF FINANCE [ 1 ] - [ @ 12 ] NT INFORMATION [ 2 ] - [ @ 13 ] BUDGET INFORMATION [ 3 ] - [ @ 14 ] INVESTOR RELATIONS [ 4 ] - [ @ 15 ] PUBLICATIONS [ 5 ] -
-[ @ 16 ] LEGISLATION [ 6 ] - [ @ 17 ] DIVISIONS [ 7 ] - [ @ 18 ] CAREERS [ 8 ] - [ @ 19 ] PAIA [ 9 ] - [ 20 ] POPIA
+**四**
+[ @ 10 ] HOME [ 0 ] - [ @ 11 ] MINISTRY OF FINANCE [ 1 ] - [ @ 12 ] NT INFORMATION [ 2 ] - [ @ 13 ] BUDGET INFORMATION [ 3 ] - [ @ 14 ] INVESTOR RELATIONS [ 4 ] - [ @ 15 ] PUBLICATIONS [ 5 ] -
+[ @ 16 ] LEGISLATION [ 6 ] - [ @ 17 ] DIVISIONS [ 7 ] - [ @ 18 ] CAREERS [ 8 ] - [ @ 19 ] PAIA [ 9 ] - [ @ 20 ] POPIA
                                                                                                                                                                             Central Supplier
                                                                                                                  **vulekamali**                     **Tender O**            Database
                                                                                                                                                                     RETIREMENT
-                        national                                                                                                             **BUDGET REFORM**
+                         national                                                                                                            **BUDGET REFORM**
                                           treasury
                          Department:
                          National Treasury
@@ -13,55 +13,51 @@
 
 
        [ @ 23 ] Ministry of Finance              [ @ 51 ] Legislation [ 50 ] - Government Notices
-       [ @ 24 ] National Treasury Inforr                   [ @ 52 ] Amendments to Money Laundering and Terrorist Financing Control Regulations, 2002,                   In        [ 53 ]
-                                                          Terms of Financial Intelligence Centre Act,        2001 ( Gazette 47302 )                                               ( 171kb )
-       [ @ 25 ] Budget Information                                                                                                                                                [ 55 ]
-                                                           [ @ 54 ] Publication of Government Gazette Required in Terms of Section 15 ( 1 ) of the Division of
+       [ @ 24 ] National Treasury Inform                   [ @ 52 ] Amendments to Money Laundering and Terrorist Financing Control Regulations, 2002, In                          [ 53 ]
+                                                          Terms of Financial Intelligence Centre Act, 2001 ( Gazette 47302 )                                                      ( 171kb )
+       [ @ 25 ] Budget Information                         [ @ 54 ] Publication of Government Gazette Required in Terms of Section 15 ( 1 ) of the Division of                    [ 55 ]
        [ @ 26 ] Investor Relations                        Revenue Act, 2022 ( Act no. 5 of 2022 )                                                                                 ( 3,315kb )
-                                                          [ @ 56 ] Government Notice: Financial Sector Regulations, 2018: Disestablishment of Transitional                        [ 57 ]
+                                                          [ @ 56 ] Government Notice: Financial Sector Regulations, 2018: Disestablishment of Transitional                        [ 57 ] ]
        [ @ 27 ] Communications and M                      Management Committee of Financial Sector Conduct Authority in Terms of Regulation 3 ( 1 )                               ( 190kb )
-        @ 28 ] Publications                                [ @ 58 ] Government Notice: Determination of Limit on Amount of Remuneration for Purposes of                           [ 59 ]
-       [                                                                                                                                                                          ( 817kb )
-                                                          Determination of Contribution in Terms of Section 6 of the Unemployment Insurance Contributions
-       [ @ 29 ] Research                                  Act
-                                                           [ @ 60 ] Notice in Terms of Paragraph ( b ) ( x ) ( cc ) of the Proviso to Definition of" Retirement Annuity           [ 61 ]
-       [ @ 30 ] Legislation                               Fund"                                                                                                                   ( 791kb )
- ► [ @ 31 ] PFMA                                           [ @ 62 ] Gazette - Draft Amendments to Regulation 28                                                                   [ 63 ]
-                                                                                                                                                                                  ( 301kb )
- ► [ @ 32 ] MFMA                                                                                                                                                                  [ 65 ]
- ‣ @ 33 ] Other Acts                                       [ @ 64 ] Government Notice - Second draft conduct of financial institutions bill, 2020: Publication for
-                                                          public comment                                                                                                          ( 180kb )
-     @ 34 ] Bills
-    [ @ 35 ] Draft Bills                                   [ @ 66 ] Local Government: Municipal Finance Management Act, 2003: Exemption from Act                                  [ 67 ]
-                                                                                                                                                                                  ( 233kb )
-    [ @ 36 ] Government Notices                            [ @ 68 ] Determination of Rate of Levy for 2018 Tax Period and Payment Date In Terms of Section 3 of [ 69 ]
-    [ @ 37 ] Regulations                                  Merchant Shipping ( International Oil Pollution Compensation Fund ) Contributions Act, 2013                             ( 12,251kb )
+                                                           [ @ 58 ] Government Notice: Determination of Limit on Amount of Remuneration for Purposes of                           [ 59 ]
+       [ @ 28 ] Publications                              Determination of Contribution in Terms of Section 6 of the Unemployment Insurance Contributions                         ( 817kb )
+                                                          Act
+       [ @ 29 ] Research                                                                                                                                                          [ 61 ]
+                                                           [ @ 60 ] Notice in Terms of Paragraph ( b ) ( x ) ( cc ) of the Proviso to Definition of" Retirement Annuity           ( 791kb
+       [ @ 30 ] Legislation                               Fund"                                                                                                                          )
+                                                           [ @ 62 ] Gazette - Draft Amendments to Regulation 28                                                                   [ 63 ]
+ ► [ @ 31 ] PFMA                                                                                                                                                                  ( 301kb )
+ ► [ @ 32 ] MFMA                                           [ @ 64 ] Government Notice - Second draft conduct of financial institutions bill, 2020: Publication for                [ 65 ]
+     @ 33 ] Other Acts                                    public comment                                                                                                         ( 180kb )
+   [ @ 34 ] Bills                                          [ @ 66 ] Local Government: Municipal Finance Management Act, 2003: Exemption from Act                                  [ 67 ]
+   [ @ 35 ] Draft Bills                                                                                                                                                           ( 233kb )
+   [ @ 36 ] Government Notices                             [ @ 68 ] Determination of Rate of Levy for 2018 Tax Period and Payment Date In Terms of Section 3 of [ 69 ]
+   [ @ 37 ] Regulations                                   Merchant Shipping ( International Oil Pollution Compensation Fund ) Contributions Act, 2013                             ( 12,251kb )
                                                            [ @ 70 ] Notice in respect of formula for purposes of determination of amount for purposes of                          [ 71 ]
        [ @ 38 ] Divisions                                 paragraph ( b ) of the definition of living annuity.                                                                    ( 1,355kb )
                                                            [ @ 72 ] Notice in respect of amount of value of assets that may be paid in lumpsum for purposes of                    [ 73 ]
-       [ @ 39 ] Documents: Public con                                                                                                                                             ( 899kb )
-                                                          paragraph ( c ) of definition of living annuity.
-       [ @ 40 ] Contacts                                   [ @ 74 ] Notice of Commencement for the Financial Sector Regulation Act                                                [ 75 ]
-                                                                                                                                                                                  ( 188kb )
-  萬    [ @ 41 ] FAQ                                        [ @ 76 ] Financial Sector Regulation Act, 2017: Correction of General Notice 142 of 2019                               [ 77 ]
-                                                                                                                                                                                  ( 150kb )
-       [ @ 42 ] Graduate Recruitment                       [ @ 78 ] Amendments to the Regulations in terms of the Financial Sector Regulation Act                                 [ 79 ]
-                                                          Amendment of Schedule 2 of the South African Reserve Bank Act                                                           ( 634kb )
+       [ @ 39 ] Documents: Public com                     paragraph ( c ) of definition of living annuity.                                                                        ( 899kb )
+                                                           [ @ 74 ] Notice of Commencement for the Financial Sector Regulation Act                                                [ 75 ]
+       [ @ 40 ] Contacts                                                                                                                                                          ( 188kb )
+                                                           [ @ 76 ] Financial Sector Regulation Act, 2017: Correction of General Notice 142 of 2019                               [ 77 ]
+       [ @ 41 ] FAQ                                                                                                                                                               ( 150kb )
+                                                           [ @ 78 ] Amendments to the Regulations in terms of the Financial Sector Regulation Act                                 [ 79 ]
+       [ @ 42 ] Graduate Recruitment                      Amendment of Schedule 2 of the South African Reserve Bank Act                                                           ( 634kb )
        [ @ 43 ] Careers                                    [ @ 80 ] Financial Sector Regulation Act, 2017: Correction of General Notice 142 of 2019                               [ 81 ]
                                                                                                                                                                                   ( 150kb )
        [ @ 44 ] Supplier Database Form                     [ @ 82 ] Commencement of certain provisions of the Financial Intelligence Centre Amendment Act,                        [ 83 ]
                                                           2017                                                                                                                    ( 264kb )
-       [ @ 45 ] Tender Info
-                                                           [ @ 84 ] Notice in Terms of Section 12T of Income Tax Act, 1962, in Respect of Person or Entity that                   [ 85 ]
-       [ @ 46 ] Transversal Contracts                     may Administer Financial Instrument or Policy as Tax Free Investment                                                   ( 211kb )
-                                                           [ @ 86 ] Government Gazette No. 39770: Publication of National Treasury's Language Policy.                             [ 87 ]
+       [ @ 45 ] Tender Info                                [ @ 84 ] Notice in Terms of Section 12T of Income Tax Act,         1962,  in Respect of Person or Entity that          [ 85 ]
+                                                          may Administer Financial Instrument or Policy as Tax Free Investment                                                    ( 211kb )
+       [ @ 46 ] Transversal Contracts                                                                                                                                             [ 87 ]
+                                                           [ @ 86 ] Government Gazette No. 39770: Publication of National Treasury's Language Policy
        [ @ 47 ] Promotion of Access to                                                                                                                                            ( 1,972kb )
-       [ @ 48 ] Protection of Personal I                   [ @ 88 ] Income Tax Act ( 58/1962 ): Regulations in terms of Section 12T ( 8 ) ( Gazette 39765 )
-                                                                                                                                                                                  ( 1,818kb )
-       [ @ 49 ] Statistics                                 [ @ 90 ] Regulations in terms of section 12T ( 8 ) of the Income Tax Act, 1962, on the requirements for                [ 91 ]
-                                                          tax free investment                                                                                                     ( 127kb )
-                                                           [ @ 92 ] Invitation for comment on draft amendment to MFMA: Supply Chain Management Regulations [ ( 93 863kb ]                )
-                                                          ( Gazette 39460 )
+                                        In                 [ @ 88 ] Income Tax Act ( 58/1962 ): Regulations in terms of Section 12T ( 8 ) ( Gazette 39765 ).
+       [ @ 48 ] Protection of Personal                                                                                                                                            ( 1,818kb )
+                                                           [ @ 90 ] Regulations in terms of section 12T ( 8 ) of the Income Tax Act, 1962, on the requirements for                [ 91 ]
+       [ @ 49 ] Statistics                                tax free investment                                                                                                     ( 127kb )
+                                                           [ @ 92 ] Invitation for comment on draft amendment to MFMA: Supply Chain Management Regulations [ 93 ]
+                                                          ( Gazette 39460 )                                                                                                       ( 863kb )
                                                            [ @ 94 ] Income Tax Act ( 58/1962 ): Notice in terms of section 12T of the Income Tax Act, 1962: In                    [ 95 ]
                                                           respect of persons or entities that may administer financial Instruments or policies as tax free                        ( 348kb )
                                                           investments ( Gazette 38508 )
@@ -70,34 +66,34 @@
 
 
 
-                                                  [ 98 ] Treasury Links                                         [ 99 ] Links
-                                                    [ 100 ] ( @ 117 ) RSA Retailbonds                             [ 134 ] ( @ 157 ] New Development Bank
-                                                    [ 101 ] ( @ 118 ) Investor Relations                          [ 135 ] ( @ 158 ] South African Revenue Service
-                                                    [ 102 ] ⚫ ( @ 119 ] Co - operative Banks Development Agency   [ 136 ] ( @ 159 ) SARS Tax Statistics
-                                                    [ 103 ] ( @ 120 ] Office of the Chief Procurement Officer     [ 137 ] ( 140 ) Davis Tax Committee
-                                                    [ 104 ] ( @ 121 ) Committee of 10 ( C10 )                     [ 138 ] ( 161 ) South African Reserve Bank
-                                                    [ 105 ] ( @ 122 ] Office of the Accountant General            [ 139 ] ( @ 162 ] Financial Intelligence Centre
-                                                    [ 106 ] ( @ 123 ] Tender Bulletins                            ( 140 ) ( 163 ) Statistics SA
-                                                    [ 107 ] [ @ 124 ] Development Co - operation Information      [ 141 ] ( @ 164 ] Government Employees Pension Fund
-                                                   System                                                         [ 142 ] ( @ 165 ] Public Investment Corporation
-                                                    [ 108 ] [ 125 ] MFMA                                          [ 143 ] ⚫ ( @ 166 ] Financial Services Board
-                                                    [ 109 ] @ 124 PEMA                                            [ 144 ] ( @ 167 ] Development Bank of Southern Africa
-                                                    [ 110 ] ( @ 127 ) Standard Chart of Accounts ( SCOA )         ( 145 ) ▪ ( @ 168 ] The Government Technical Advisory Centre
-                                                    [ 111 ] @ 128 ] Neighbourhood Development Partnership         [ 146 ] ( @ 169 ) Financial and Fiscal Commission
-                                                   Grant                                                          [ 147 ] ( @ 170 ) Accounting Standards Board
-                                                    [ 112 ] ( @ 129 ] Register for Tender Defaulters              [ 148 ] ( 171 ) South Africa Government Online
-                                                    [ 113 ] ( @ 130 ] Database of Restricted Suppliers            [ 149 ] ( 172 ) Auditor - General
-                                                    [ 114 ] • [ 131 ] Central Supplier Database                   [ 150 ] ( @ 173 ] Provincial Treasuries
-                                                    [ 115 ] ( @ 132 ) e Tender Publication Portal                 [ 151 ] ( @ 174 ] Collaborative Africa Budget Reform Initiative
-                                                    [ 116 ] [ @ 133 ] Cities Support Programme                    ( CABRI )
+                                                  [ 98 ] Treasury Links                                          [ 99 ] Links
+                                                    [ 100 ] [ @ 117 ] RSA Retailbonds                             [ 134 ] [ @ 157 ] New Development Bank
+                                                    [ 101 ] @ 118 ] Investor Relations                            [ 135 ]  @ 158 ] South African Revenue Service
+                                                    [ 102 ] [ @ 119 ] Co - operative Banks Development Agency     [ 136 ] [ @ 159 ] SARS Tax Statistics
+                                                    [ 103 ] [ @ 120 ] Office of the Chief Procurement Officer     [ 137 ] [ @ 160 ] Davis Tax Committee
+                                                    [ 104 ] [ @ 121 ] Committee of 10 ( C10 )                     [ 138 ] [ @ 161 ] South African Reserve Bank
+                                                    [ 105 ] @ 1221 Office of the Accountant General               [ 139 ]  @ 162 ] Financial Intelligence Centre
+                                                    [ 106 ] [ @ 123 ] Tender Bulletins                            [ 140 ] ] [ @ 163 ] Statistics SA
+                                                    [ 107 ] [ @ 124 ] Development Co - operation Information      [ 141 ] • [ @ 164 ] Government Employees Pension Fund
+                                                   System                                                         [ 142 ] • [ @ 165 ] Public Investment Corporation
+                                                    [ 108 ] [ @ 125 ] MFMA                                        [ 143 ]  @ 1661 Financial Services Board
+                                                    [ 109 ] [ 126 ] PFMA                                          [ 144 ] [ @ 167 ] Development Bank of Southern Africa
+                                                    [ 110 ] [ @ 127 ] Standard Chart of Accounts ( SCOA )         [ 145 ] [ @ 168 ] The Government Technical Advisory Centre
+                                                    [ 111 ] ] - [ @ 128 ] Neighbourhood Development Partnership   [ 146 ] [ 169 ] Financial and Fiscal Commission
+                                                   Grant                                                          [ 147 ] [ 1701 Accounting Standards Board
+                                                    [ 112 ] [ @ 129 ] Register for Tender Defaulters              [ 148 ] [ @ 171 ] South Africa Government Online
+                                                    [ 113 ] @ 130 ] Database of Restricted Suppliers              [ 149 ] ] - [ @ 172 ] Auditor - General
+                                                    [ 114 ]. [ @ 131 ] ] Central Supplier Database                [ 150 ] [ 173 ] Provincial Treasuries
+                                                    [ 115 ] [ @ 132 ] eTender Publication Portal                  [ 151 ] [ @ 174 ] Collaborative Africa Budget Reform
+                                                    [ 116 ] • [ @ 133 ] Cities Support Programme                  Initiative ( CABRI )
                                                                                                                   [ 152 ] [ 175 ] Jobs Fund
-                                                                                                                  [ 153 ] @ 176 ] Independent Regulatory Board for Auditors
+                                                                                                                  [ 153 ] [ @ 176 ] Independent Regulatory Board for Auditors
                                                                                                                   ( IRBA )
                                                                                                                   [ 154 ] [ @ 177 ] The Office of the Tax Ombud
-                                                                                                                  ( 155 ) ( @ 178 ] Vukuzenzele
-                                                                                                                  [ 156 ] [ @ 179 ] International Development Cooperation
+                                                                                                                  [ 155 ]  @ 1781 Vukuzenzele
+                                                                                                                  [ 156 ] ] [ @ 179 ] International Development Cooperation
 
- [ @ 183 ] Webmaster                          [ @ 184 ] Home [ 180 ]       [ @ 185 ] About Us [ 181 ]       [ @ 186 ] Contact Us [ 182 ]                      Copyright © The
-                                                                                                                                                             National Treasury
+ [ @ 183 ] Webmaster                          [ @ 184 ] Home [ 180 ]       [ @ 185 ] About Us [ 181 ]       [ @ 186 ] Contact Us [ 182 ]                       Copyright © The
+                                                                                                                                                            National Treasury
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2169
+Token count: 2167

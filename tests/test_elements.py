@@ -54,6 +54,14 @@ import pytest
             ["168 North Brent Street, Suite 401", "Ventura, CA 93003", "805-948-5093"],
             ["[ 0 ]", " [ 1 ]", "[ 2 ]"],
         ),
+        (
+            "mock_html/display_contents.html",
+            {
+                0: "//html/body/div/text()",
+            },
+            ["Display contents"],
+            ["[ 0 ]"],
+        ),
     ],
 )
 async def test_combined_elements_page(

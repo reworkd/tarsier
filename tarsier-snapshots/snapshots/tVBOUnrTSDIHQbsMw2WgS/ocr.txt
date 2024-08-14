@@ -1,137 +1,116 @@
----------------------------------------------------------------------------------------------------------------------
-[ 1 ]                  [ $ 3 ] [ $ 4 ]   $ 5 ]  [ @ 6 ]    [ $ 7 ]                       [ $ 8 ] [ @ 10 ] [ @ 11 ]
-                                          [
-     OpenAl           Research   API✓  ChatGPT    Safety  Company                         Search Log in 7  Try ChatGPT
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 1 ]                                                                                                                      [ @ 10 ] Log in 7
+                              [ $ 3 ] Research  [ $ 4 ] API✓ [ $ 5 ] ChatGPT ✓ [ @ 6 ] Safety [ $ 7 ] Company ✓    [ $ 8 ] Search
+       OpenAl                                                                                                                     [ @ 11 ] Try ChatGPT >
 
 
 
-  [ @ 12 ]
-  Careers
-                                                              [ 14 ] San Francisco, California, United States -
-  **[ 13 ]**                                                  Applied Al Engineering
-               **Engineering**
+
+   [ @ 12 ] Careers
+                                                                                       [ 14 ] San Francisco, California, United States - Applied Al
+   **[ 13 ] Engineering**                                                             Engineering
   **Manager - Fine**
-  **Tuning API**
+   **Tuning API**
 
 
 
-  [ @ 15 ]            [ 16 ] About the Team
-  Apply now >
-                      [ 17 ] Our team brings OpenAl's most capable technology to the world
-                      through our products. Most recently, we released ChatGPT, GPT - 4, the
-                      Whisper API, and DALL - E. We empower consumers and developers alike to
-                      use and access our start - of - the - art Al models, allowing them to do things
-                      that they've never been able to before.
-                      [ 18 ] Across all product lines, we ensure that these powerful tools are used
-                      responsibly. This is a key part of OpenAl's path towards safely deploying
-                      broadly beneficial Artificial General Intelligence ( AGI ). Safety is more
-                      important to us than unfettered growth.
+   [ @ 15 ] Apply now >        [ 16 ] About the Team
+                               [ 17 ] Our team brings OpenAl's most capable technology to the world through our
+                              products. Most recently, we released ChatGPT, GPT - 4, the Whisper API, and DALL - E.
+                              We empower consumers and developers alike to use and access our start - of - the - art
+                              Al models, allowing them to do things that they've never been able to before.
+                               [ 18 ] Across all product lines, we ensure that these powerful tools are used
+                              responsibly. This is a key part of OpenAl's path towards safely deploying broadly
+                              beneficial Artificial General Intelligence ( AGI ). Safety is more important to us than
+                              unfettered growth.
 
-                      [ 19 ] About the Role
-                      [ 20 ] We are looking for an experienced engineering manager to support our
-                      Fine Tuning API team - the team that enables our API developers to
-                      customize their models via fine - tuning. This is a unique team that spans
-                      both research and applied Al tech stacks. You will work closely with our
-                      research team to bring the core technology that trained GPT - 4 into the
-                      hands of all of our API developers. You will also collaborate with our
-                      product teams to build a world - class model customization experience for
-                      our API developers. Above all, you will be responsible for ensuring the safe
-                      deployment of a product that can push the performance of our models to
-                      new heights.
-                      [ 21 ] In this role, you will:
-                        [ 22 ] Manage, build out, and mentor a team of high performing software
-                       and research engineers.
-                      ⚫ [ 23 ] Work with our product team to craft both the technical and product
-                       vision for the future of our fine tuning API.
-                        [ 24 ] Collaborate closely with research teams to push to the boundaries
-                       of what is possible with large language model customization.
-                      ⚫ [ 25 ] Create a diverse, equitable, and inclusive culture that makes all feel
-                       welcome while enabling radical candor and the challenging of group
-                       think
+                               [ 19 ] About the Role
+                               [ 20 ] We are looking for an experienced engineering manager to support our Fine
+                              Tuning API team - the team that enables our API developers to customize their
+                              models via fine - tuning. This is a unique team that spans both research and applied Al
+                              tech stacks. You will work closely with our research team to bring the core
+                              technology that trained GPT - 4 into the hands of all of our API developers. You will
+                              also collaborate with our product teams to build a world - class model customization
+                              experience for our API developers. Above all, you will be responsible for ensuring the
+                              safe deployment of a product that can push the performance of our models to new
+                              heights.
+                               [ 21 ] In this role, you will:
+                                 [ 22 ] Manage, build out, and mentor a team of high performing software and
+                                research engineers.
+                                 [ 23 ] Work with our product team to craft both the technical and product vision for
+                                the future of our fine tuning API.
+                              .  [ 24 ] Collaborate closely with research teams to push to the boundaries of what is
+                                 possible with large language model customization.
+                                 [ 25 ] Create a diverse, equitable, and inclusive culture that makes all feel welcome
+                                while enabling radical candor and the challenging of group think
+                               [ 26 ] You might thrive in this role if you:
 
-                      [ 26 ] You might thrive in this role if you:
-                        [ 27 ] Have 3+ years of experience managing high performing and diverse
-                       software engineering teams, and 6+ years of experience working with
-                       production software systems.
-                        [ 28 ] Have prior experience working with training and inference of large
-                       language models, especially in production environments.
-                      ⚫ [ 29 ] Have familiarity with the latest Al research and working knowledge
-                       of how these systems are efficiently implemented
-                      ⚫ [ 30 ] Own problems end - to - end, and are willing to pick up whatever
-                       knowledge you're missing to get the job done
-                      • [ 31 ] Have the ability to move fast in an environment where things are
-                       sometimes loosely defined and may have competing priorities or
-                       deadlines
-                      [ 32 ] We are an equal opportunity employer and do not discriminate on the
-                      basis of race, religion, national origin, gender, sexual orientation, age,
-                      veteran status, disability or any other legally protected status. Pursuant to
-                      the San Francisco Fair Chance Ordinance, we will consider qualified
-                      applicants with arrest and conviction records.
-                      [ 33 ] We are committed to providing reasonable accommodations to
-                      applicants with disabilities, and requests can be made via this
-                      [ @ 35 ] link [ 34 ].
-                      [ @ 36 ] OpenAl US Applicant Privacy Policy
+                              •  [ 27 ] Have 3+ years of experience managing high performing and diverse software
+                                engineering teams, and 6+ years of experience working with production software
+                                systems.
+                                 [ 28 ] Have prior experience working with training and inference of large language
+                                models, especially in production environments.
+                                 [ 29 ] Have familiarity with the latest Al research and working knowledge of how
+                                these systems are efficiently implemented
+                              ⚫ [ 30 ] Own problems end - to - end, and are willing to pick up whatever knowledge
+                                you're missing to get the job done
+                              ⚫ [ 31 ] Have the ability to move fast in an environment where things are sometimes
+                                loosely defined and may have competing priorities or deadlines
+                               [ 32 ] We are an equal opportunity employer and do not discriminate on the basis of
+                              race, religion, national origin, gender, sexual orientation, age, veteran status, disability
+                              or any other legally protected status. Pursuant to the San Francisco Fair Chance
+                              Ordinance, we will consider qualified applicants with arrest and conviction records.
+                               [ 33 ] We are committed to providing reasonable accommodations to applicants with
+                              disabilities, and requests can be made via this [ @ 35 ] link [ 34 ].
+                               [ @ 36 ] OpenAI US Applicant Privacy Policy
 
 
 
-                      [ 37 ] Compensation, Benefits and Perks
-                      [ 38 ] Total compensation also includes generous equity and benefits.
-                      ⚫ [ 39 ] Medical, dental, and vision insurance for you and your family
-                        [ 40 ] Mental health and wellness support
-                      ⚫ [ 41 ] 401 ( k ) plan with 4 % matching
-                        [ 42 ] Unlimited time off and 18+ company holidays per year
-                      . [ 43 ] Paid parental leave ( 20 weeks ) and family -
-                                                           planning support
-                        [ 44 ] Annual learning & development stipend ( $ 1,500 per year )
-                      [ 45 ] Annual Salary Range
-                      [ 46 ] $ 300,000 [ 47 ] [ 48 ] $ 450,000 USD
+                               [ 37 ] Compensation, Benefits and Perks
+                               [ 38 ] Total compensation also includes generous equity and benefits.
+                              ⚫ [ 39 ] Medical, dental, and vision insurance for you and your family
+                                 [ 40 ] Mental health and wellness support
+                              ⚫ [ 41 ] 401 ( k ) plan with 4 % matching
+                                 [ 42 ] Unlimited time off and 18+ company holidays per year
+                                 [ 43 ] Paid parental leave ( 20 weeks ) and family - planning support
+                                 [ 44 ] Annual learning & development stipend ( $ 1,500 per year )
+                               [ 45 ] Annual Salary Range
+                               [ 46 ] $ 300,000 [ 47 ] - [ 48 ] $ 450,000 USD
 
-                      [ 49 ] About OpenAl
-                      [ 50 ] OpenAl is an Al research and deployment company dedicated to
-                      ensuring that general - purpose artificial intelligence benefits all of humanity.
-                      We push the boundaries of the capabilities of Al systems and seek to safely
-                      deploy them to the world through our products. Al is an extremely powerful
-                      tool that must be created with safety and human needs at its core, and to
-                      achieve our mission, we must encompass and value the many different
-                      perspectives, voices, and experiences that form the full spectrum of
-                      humanity.
-                      [ 51 ] At OpenAl, we believe artificial intelligence has the potential to help
-                      people solve immense global challenges, and we want the upside of Al to
-                      be widely shared. Join us in shaping the future of technology.
+                               [ 49 ] About OpenAl
+                               [ 50 ] OpenAl is an Al research and deployment company dedicated to ensuring that
+                              general - purpose artificial intelligence benefits all of humanity. We push the
+                              boundaries of the capabilities of Al systems and seek to safely deploy them to the
+                              world through our products. Al is an extremely powerful tool that must be created
+                              with safety and human needs at its core, and to achieve our mission, we must
+                              encompass and value the many different perspectives, voices, and experiences that
+                              form the full spectrum of humanity.
+                               [ 51 ] At OpenAl, we believe artificial intelligence has the potential to help people solve
+                              immense global challenges, and we want the upside of Al to be widely shared. Join
+                              us in shaping the future of technology.
 
-                      [ @ 52 ]
-                      Apply now >
+                               [ @ 52 ] Apply now >
 
 
 
 
 
-  [ @ 53 ]                                [ 54 ] Research     [ 59 ] API          [ 64 ] ChatGPT      [ 68 ] Company
-     Open Al                              [ @ 55 ]            [ @ 60 ]            [ @ 65 ]            [ @ 69 ]
-                                          Overview            Overview            Overview           About
-                                          [ @ 56 ]            [ @ 61 ]            [ @ 66 ]            [ @ 70 ]
-                                          Index               Data privacy        Enterprise          Blog
-                                          [ @ 57 ]            [ @ 62 ]            [ @ 67 ]            [ @ 71 ]
-                                          GPT - 4             Pricing             Try ChatGPT >       Careers
-                                          [ @ 58 ]            [ @ 63 ]                                [ @ 72 ]
-                                          DALL - E 3          Docs 7                                  Charter
-                                                                                                      [ @ 73 ]
-                                                                                                     Security
-                                                                                                      [ @ 74 ]
-                                                                                                      Customer stories
-                                                                                                      [ @ 75 ]
-                                                                                                     Safety
+  [ @ 53 ]                                                 [ 54 ] Research             [ 59 ] API                  [ 64 ] ChatGPT             [ 68 ] Company
+      Open Al                                              [ @ 55 ] Overview           [ @ 60 ] Overview           [ @ 65 ] Overview           [ @ 69 ] About
+                                                           [ @ 56 ] Index              [ @ 61 ] Data privacy       [ @ 66 ] Enterprise         [ @ 70 ] Blog
+                                                           [ @ 57 ] GPT - 4            [ @ 62 ] Pricing            [ @ 67 ] Try ChatGPT >      [ @ 71 ] Careers
+                                                           [ @ 58 ] DALL - E 3         [ @ 63 ] Docs 7                                        [ @ 72 ] Charter
+                                                                                                                                               [ @ 73 ] Security
+                                                                                                                                               [ @ 74 ] Customer stories
+                                                                                                                                              [ @ 75 ] Safety
 
 
 
 
 
-  [ 76 ] OpenAl © 2015–2023               [ @ 80 ] [ @ 81 ] [ @ 82 ] [ @ 83 ] [ @ 84 ]
-  [ @ 77 ]                                Twitter YouTube GitHub  SoundCloud LinkedIn
-  Terms & policies
-  [ @ 78 ]
-  Privacy policy
-  [ @ 79 ]                                   [ $ 85 ]
-  Brand guidelines                        Back to top ↑
----------------------------------------------------------------------------------------------------------------------
-Token count: 1546
+   [ 76 ] OpenAl © 2015–2023                               [ @ 80 ] Twitter [ @ 81 ] YouTube [ @ 82 ] GitHub [ @ 83 ] SoundCloud [ @ 84 ] LinkedIn
+   [ @ 77 ] Terms & policies
+   [ @ 78 ] Privacy policy
+   [ @ 79 ] Brand guidelines                               [ $ 85 ] Back to top ↑
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1498

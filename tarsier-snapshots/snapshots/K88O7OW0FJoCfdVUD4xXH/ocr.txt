@@ -1,253 +1,194 @@
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ ]         Medium                                                                                                                                                      [ @ 1 ]  Get started
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ ]          Medium                                                                                                                                                          [ @ 1 ]  Get started
 
-                                                                                                               MM M                      M              MMM
-                                                                                                           M              M M                    MM M
-                                                                        M           MM                 MM             MMM MMM                           M
-[ 2 ]                                                                                                                         M M                M
-                                                                                            M          M              M                  M MM
-       **Stay curious.**                                                            MM                     MMMM               M M                   MM
-                                                                                                               M MM                  M M                    MM
-                                                                                                                                                 MM M
- **[ 3 ] Discover stories, thinking, and expertise from writers on May MopMMMM**
-                                                                                               M M                M M MM MM M
-                                                                            M           MM M                      M           MMMMM MM
-                                                                                                                              M M M                             M
-            [ $ 4 ] Start reading
-                                                                                                                      M M                        MMMMM
-                                                                                    M              MM             M M MMMMMM
-                                                                                                                                             MMM M
-                                                                                                   MM             M MM MM                                   MM
+                                                                                                                 MM M                       M               MMM
+                                                                                                             M               M M                    MM M
+                                                                          M           MM                 MM              MMM MMM                            M
+                                                                                                                                 M M                M
+                                                                                                                                            M MM
+                     **[ 2 ]**                                                                                                   M M                    MM
+                                       **Stay curiousMMMM**
+                                                                                                                 M MM                   M M                     MM
+                                                                                                         MMM MMMM                                   MM M
+                    [ 3 ] Discover stories, thinking, and expertise MomMwriter on Many Ndric. MM M
+                                                                              M           MM M                       M           MMMMM MM
+                                                                                                                                 M M M                              M
+                                                                                                                         M M                        MMMMM
+                         [ $ 4 ] Start reading
+                                                                                      M               MM             M M MMMMMM
+                                                                                                                                                MMM M
+                                                                                                      MM             M MM MM                                    MM
+                                                                                                             MM M                        MMM                    M
 
-             [ 5 ] Trending on Medium
-       [ 6 ] [ 7 ]         [ 8 ]
-                           The Bold Italic
-                [ @ 9 ]
-                Why now is the best time to live in San Francisco
-                [ 10 ] Dec 1 [ 11 ] [ 12 ] 6 min read
-       [ 13 ]                            [ 16 ] in [ @ 17 ]
-               [ 14 ]      [ 15 ]              UX Collective
-                           Natalie Worth
-                [ @ 18 ]
-                Is technology harming our brains?
-                [ 19 ] Nov 27 [ 20 ] [ 21 ] 4 min read
-       **[ 22**                                  [ 25 ] in [ @ 26 ]
-              ] [ 23 ]     [ 24 ]             。        The Writing Cooperative
-                           Eva Lesko Natiello
-                [ @ 27 ]
-                How a Professor's One Piece of Advice Influenced My Entire Writing Career
-                [ 28 ] Nov 28 [ 29 ] [ 30 ] 5 min read
-       [ 31 ] [ 32                        [ 34 ] in [ @ 35 ]
-                     ]     [ 33 ]               The Generator
-                           Thomas Smith
-                [ @ 36 ]
-                Did OpenAl Secretly Create a Brain - Like Intelligence After All?
-                                                  [ $ 401
-                [ 37 ] Nov 26 [ 38 ] [ 39 ] 5 min read
-
-       [ 41 ]                           [ 44 ] in @ 45 ]
-                [ @ 42 ]   [ @ 43 ]           The Airbnb Tech Blog
-                           Clark Wright
-                [ @ 46 ]
-                Data Quality Score: The next chapter of data quality at Airbnb
-                [ 47 ] Nov 28 [ 48 ] [ 49 ] min read
-       [ 50 ] [                          [ 53 ] in [ @ 54 ]
-                   51 ]    [ @ 52 ]            The Taoist Online
-                           Luka Bönisch
-                [ @ 55 ]
-                The Problem You Think You Have Is Never the Real Problem
-                [ 56 ] Nov 23 [ 57 ] [ 58 ] 9 min read
+                           [ 5 ] Trending on Medium
+                     [ 6 ] [ @ 7 ] 7 [ @ 8 ] The Bold Italic
+                              [ @ 9 ] Why now is the best time to live in San Francisco
+                              [ 10 ] Dec 1 [ 11 ] [ 12 ] 6 min read
+                     [ 13 ] [ 14 ]       [ 15 ] Natalie Worth [ 16 ] in [ @ 17 ] UX Collective
+                              [ @ 18 ] Is technology harming our brains?
+                              [ 19 ] Nov 27 [ 20 ] [ 21 ] 4 min read
+                     [ 22 ] [ 23 ]       [ 24 ] Eva Lesko Natiello    [ 25 ] in [ @ 26 ] The Writing Cooperative
+                              [ @ 27 ] How a Professor's One Piece of Advice Influenced My Entire Writing Career
+                              [ 28 ] Nov 28 [ 29 ] [ 30 ] 5 min read
+                     [ 31 ] [ 32 ]       [ @ 33 ] Thomas Smith [ 34 ] in [ @ 35 ] The Generator
+                              [ @ 36 ] Did OpenAl Secretly Create a Brain - Like Intelligence After All?
+                              [ 37 ] Nov 26 [ 38 ] [ 39 ] 5 min read [ $ 40 ] +
+                     [ 41 ] [ 42 ]       [ 43 ] Clark Wright [ 44 ] in [ @ 45 ] The Airbnb Tech Blog
+                              [ @ 46 ] Data Quality Score: The next chapter of data quality at Airbnb
+                              [ 47 ] Nov 28 [ 48 ] [ 49 ] 9 min read
+                     [ 50 ] [ 51 ]       [ 52 ] Luka Bönisch [ 53 ] in [ @ 54 ] The Taoist Online
+                              [ @ 55 ] The Problem You Think You Have Is Never the Real Problem
+                              [ 56 ] Nov 23 57 ] [ 5819 min read
 
 
- [ 59 ] Discover more of what matters to you
-       [ @ 60 ]             [ @ 61 ]            [ @ 62 ]          [ @ 63 ]                 [ @ 64 ]      [ @ 65 ]             [ @ 66 ]                 [ @ 67 ]           [ @ 68 ]
-         Programming          Data Science        Technology         Self Improvement        Writing        Relationships       Machine Learning         Productivity       Politics
+                    [ 59 ] Discover more of what matters to you
+                       [ @ 60 ] Programming         [ @ 61 ] Data Science       [ @ 62 ] Technology       [ @ 63 ] Self Improvement        [ @ 64 ] Writing     [ @ 65 ] Relationships      [ @ 66 ] Machine Learning
 
-       [ @ 69 ] See more topics
+                       [ @ 67 ] Productivity      [ @ 68 ] Politics
 
-
-       [ @ 70 ]                                                                                       [ @ 77 ]
-                [ @ 71 ]
-                Colleen Wheeler McCreary
-       [ @ 72 ]
-
-      Why I've Ripped Out Performance Reviews for Over a Decade                                              EMPLOYEE
-
-       [ 73 ] Nov 27 [ 74 ] [ 75 ] 5 min read                                         [ @ 76 ]                 PERFORMANCE
-
-                                                                                                                EVALUATION
-                                                                                                                  Name :
-                                                                                                                   Department itle: raisal
-
-                                    [ 80 ] in [ @ 81 ]                                                [ @ 88 ]
-       [ @ 78 ]     [ @ 79 ]              Pinterest Design
-                   Minnie Bredouw
-       [ @ 82 ]
-      The science behind inspiration and how to design more of it into your life
-                                       [ @ 86 ]
-       [ 83 ] Nov 9 [ 84 ] [ 85 ] 8 min read                                          [ @ 87 ]
-                                        Inspiration
+                    [ @ 69 ] See more topics
 
 
-                                [ 91 ] in [ @ 92 ]                                                    [ @ 99 ]
-       [ @ 89 ]     [ @ 90 ]          The Medium Blog
-                   Alex Benzer
-       [ @ 93 ]
-       Become a Friend of Medium                                                                           Friend of
-                                        [ @ 97 ]                                                           Medium
-       [ 94 ] Nov 27 [ 95 ] [ 96 ] 4 min read Medium                                  [ @ 98 ]
+                    [ @ 70 ]                                                                                         [ [ @ 77 ]
+                              [ @ 71 ] Colleen Wheeler McCreary
+                     [ @ 72 ] Why I've Ripped Out Performance Reviews for Over a Decade
+
+                     [ 73 ] Nov 27 [ 74 ] [ 75 ] 5 min read                                          [ @ 76 ]                EMPLOYEE
+
+                                                                                                                               PERFORMANCE
+
+                                                                                                                                EVALUATION
+                                                                                                                                  Name :  :
+                                                                                                                                   Department tle: raisal
+
+                    [ @ 78 ]     [ @ 79 ] Minnie Bredouw [ 80 ] in [ @ 81 ] Pinterest Design                          [ @ 88 ]
+                    [ @ 82 ] The science behind inspiration and how to design more of it into
+                    your life
+                    [ 83 ] Nov 9 [ 84 ] [ 85 ] 8 min read [ @ 86 ] Inspiration                       [ @ 87 ] [
 
 
-                                          [ 102 ] in [ @ 103 ]                                        [ @ 111 ]
-       [ @ 100 ] M. [ @ 101 ]                     The Memoirist
-                     Jacqueline Dooley
-       [ @ 104 ]
-      Sometimes The Cracks Get Too Big to Hold a Friendship Together
-                                            [ @ 108 ] [ $ 109 ]
-       [ 105 ] Nov 13 [ 106 ] [ 107 ] ] 7 min read Memoir +                          [ @ 110 ]
+
+                    [ @ 89 ] • [ @ 90 ] Alex Benzer [ 91 ] in [ @ 92 ] The Medium Blog                                [ @ 99 ]
+                    [ @ 93 ] Become a Friend of Medium
+                    [ 94 ] Nov 27 [ 95 ] [ 96 ] 4 min read [ @ 97 ] Medium                           [ @ 98 ] [            Friend of
+                                                                                                                           Medium
 
 
-       [ @ 112 ]                                                                                      [ @ 120 ]
-                  [ @ 113 ]
-                 Bryce Roberts                                                                                  INDIE
-       [ @ 114 ]
-       The Indie Era of Startups
-                                            [ @ 118 ]                                                    THE INDIE ERA OF
-       [ 115 ] Nov 28 [ 116 ] [ 117 ] min read                                       [ @ 119 ]
-                                             Startup                                                          STARTUPS
+
+                    [ @ 100 ] M. [ @ 101 ] Jacqueline Dooley     [ 102 ] in [ @ 103 ] The Memoirist                   [ @ 111 ]
+                    [ @ 104 ] Sometimes The Cracks Get Too Big to Hold a Friendship Together
+                     [ 105 ] Nov 13 [ 106 ] [ 107 ] ] 7 min read [ @ 108 ] Memoir [ $ 109 ] +       [ @ 110 ]
 
 
-        @ 121 ]                     [ 123 ] in [ @ 124 ]                                              [ @ 131 ]
-       [             [ @ 122 ]              Earth Genome
-                     Cameron Kruse
-       [ @ 125 ]
-       Food Twin: Stress Testing the U.S. Food System
-                                            [ @ 129 ]
-       [ 126 ] Nov 16 [ 127 ] [ 128 ] 8 min read Climate Change                      [ @ 130 ]
+
+                     [ @ 112 ]                                                                                       [ @ 120 ]
+                               [ @ 113 ] Bryce Roberts
+                                                                                                                                INDIE
+                     [ @ 114 ] The Indie Era of Startups
+                     [ 115 ] Nov 28 [ 116 ] [ 117 ] 7 min read [ @ 118 ] Startup                    [ @ 119 ]           THE INDIE ERA OF
+                                                                                                                              STARTUPS
 
 
-       [ @ 132 ]                     [ 134 ] in [ @ 135 ]                                             [ @ 143 ]
-                     [ @ 133 ]              Better Humans
-                     Jane Elliott PhD
-       [ @ 136 ]                                                                                                  FOLLOW
-       The Trouble With Teachability
-                                            [ @ 140 ]      [ $ 141 ]                                               THESE
-       [ 137 ] Nov 23 [ 138 ] [ 139 ] 6 min read                                     [ @ 142 ]                     STEPS
-                                             Psychology
+                    [ @ 121 ]      [ @ 122 ] Cameron Kruse [ 123 ] in [ @ 124 ] Earth Genome                          [ @ 131 ]
+                    [ @ 125 ] Food Twin: Stress Testing the U.S. Food System
+                    [ 126 ] Nov 16 [ 127 ] [ 128 ] 8 min read [ @ 129 ] Climate Change              [ @ 130 ]
 
 
-       [ @ 144 ]                  [ 146 ] in [ @ 147 ]                                                [ @ 155 ]
-                     [ @ 145 ]            Middle - Pause
-                     Mary DeVries
-       [ @ 148 ]
-      What I Wish We'd Done at the First Sign Mom Was Losing Her Memory
-                                            [ @ 152 ]    [ $ 153 ]
-       [ 149 ] Aug 11 [ 150 ] [ 151 ] 8 min read Dementia  +                         [ @ 154 ] +
+
+                    [ @ 132 ]      [ @ 133 ] Jane Elliott PhD [ 134 ] in [ @ 135 ] Better Humans                      [ @ 143 ]
+                    [ @ 136 ] The Trouble With Teachability
+                                                                                                                                  FOLLOW
+                     [ 137 ] Nov 23 [ 138 ] [ 139 ] 6 min read [ @ 140 ] Psychology [ $ 141 ] +     [ @ 142 ]
+                                                                                                                                   THESE
+                                                                                                                                   STEPS
 
 
-       [ @ 156 ]                                                                                        [ @ 165 ]
-                  [ @ 157 ] 0                                                                             The No Homework
-                 Biz Stone
-                                                                                                       Policy
-       [ @ 158 ]
-       The No Homework Policy
-                                            [ @ 162 ]      [ $ 163 ]
-       [ 159 ] Nov 21 [ 160 ] [ 161 ] 4 min read             +                        [ @ 164 ]
-                                             High School
+                    [ @ 144 ]      [ @ 145 ] Mary DeVries [ 146 ] in [ @ 147 ] Middle - Pause                         [ @ 155 ]
+                    [ @ 148 ] What I Wish We'd Done at the First Sign Mom Was Losing Her
+                    Memory
+                     [ 149 ] Aug 11 [ 150 ] [ 151 ] 8 min read [ @ 152 ] Dementia [ $ 153 ]         [ @ 154 ]
 
-       [ @ 166 ]                                [ 168 ] in [ @ 169 ]                                       [ @ 177 ]
-                   SYNERGY [ @ 167 ]                    SYNERGY
-                                Pernoste & Dahl                                                              How to Read a Poem
-       [ @ 170 ]
-       How to Read a Poem
-                                            [ @ 174 ] [ $ 175 ]
-       [ 171 ] Nov 9 [ 172 ] [ 173 ] 10 min read          +                              [ @ 176 ]
-                                             Blog
 
-       [ @ 178 ]                                                             [ @ 186 ]
-                  [ @ 179 ]                                                    The Corporate Governance Failure at the Heart
-                 Duane Valz
-                                                                            of Sam Altman's Ouster from OpenAl
-       [ @ 180 ]
-      The Corporate Governance Failure at the Heart of
-       Sam Altman's Ouster from OpenAl
-                                             [ @ 184 ]     [ @ 185 ]
-       [ 181 ] Nov 20 [ 182 ] [ 183 ] 12 min read Governance
 
-                                                  [ 189 ] in [ @ 190 ]                    [ @ 198 ]
-       [ @ 187 ] ILLUMINATION [ @ 188 ]                   ILLUMINATION
-                                      Mike Grindle                                          Frutiger Aero: When the Future
-       [ @ 191 ]                                                                          Looked Optimistic
-       Frutiger Aero: When the Future Looked Optimistic
-                                            [ @ 195 ] [ 196 ]
-       [ 192 ] Nov 11 [ 193 ] [ 194 ] 8 min read Design +                [ @ 197 ]
+                     [ @ 156 ]                                                                                          [ @ 165 ]
+                               [ @ 157 ] Biz Stone ❤                                                                      The No Homework
+                                                                                                                       Policy
+                    [ @ 158 ] The No Homework Policy
+                    [ 159 ] Nov 21 [ 160 ] [ 161 ] 4 min read [ @ 162 ] High School [ $ 163 ] +       [ @ 164 ]
 
-                                              [ 201 ] in [ @ 202 ]                                       [ @ 210 ]
-       [ @ 199 ]   Fanfare [ @ 200 ]                 Fanfare                                                       40 with
-                             Jessicah Lahitou                                                               Being
-       [ @ 203 ]                                                                                         Beyoncé
-       Being 40 with Beyoncé
-                                            [ @ 207 ] [ $ 208 ]
-       [ 204 ] Oct 14 [ 205 ] [ 206 ] 6 min read Music                                  [ @ 209 ]
+                    [ @ 166 ] SYNERGY [ @ 167 ] Pernoste & Dahl [ 168 ] i      [ @ 169 ] SYNERGY                           [ @ 177 ]
+                     @ 170 ] How to Read a Poem                                                                              How to Read a Poem
+                    [
+                    [ 171 ] Nov 9 [ 172 ] [ 173 ] 10 min read [ @ 174 ] Blog [ $ 175 ] +                 [ @ 176 ]
 
-                                                           [ 213 ] in [ @ 214 ]                      [ @ 221 ]
-       [ @ 211 ]  Towards Data Science [ @ 212 ]                  Towards Data Science
-                                              Ty Stephens                                             From Punch Cards to
-       [ @ 215 ]                                                                                    ChatGPT
-       From Punch Cards to ChatGPT
-                                           [ @ 219 ]
-       [ 216 ] Nov 1 [ 217 ] [ 218 ] 9 min read ChatGPT                            [ @ 220 ]
+                    [ @ 178 ]                 Valz                                          [ @ 186 ]
+                               [ @ 179 ] Duane
+                                                                                              The Corporate Governance Failure at the Heart
+                                                                                           of Sam Altman's Ouster from OpenAl
+                    [ @ 180 ] The Corporate Governance Failure at the
+                    Heart of Sam Altman's Ouster from OpenAl
+                                                                           [ @ 185 ]
+                    [ 181 ] Nov 20 [ 182 ] [ 183 ] 12 min read [ @ 184 ] Governance
 
-       [ @ 222 ]                                                                                               [ @ 231 ]
-                  [ @ 223 ]                                                                                           Long View
-                 Vicki Tan                                                                                       The
-       [ @ 224 ]
-       The Long View
-                                             [ @ 228 ]     [ $ 229 ]
-       [ 225 ] Oct 26 [ 226 ] [ 227 ] 17 min read Technology                                  [ @ 230 ]
+                    [ @ 187 ]                       [ @ 188 ] Mike Grindle                                [ @ 198 ]
+                       ILLUMINATION                 [ 189 ] in [ @ 190 ] ILLUMINATION                       Frutiger Aero: When the Future
+                                                                                                          Looked Optimistic
+                    [ @ 191 ] Frutiger Aero: When the Future Looked Optimistic
+                    [ 192 ] Nov 11 [ 193 ] [ 194 ] 8 min read [ @ 195 ] Design [ $ 196 ] + [ @ 197 ]
 
-                                                        [ 234 ] in [ @ 235 ]           [ @ 242 ]
-       [ @ 232 ]   The Medium Blog [ @ 233 ] ]                  The Medium Blog          What We're Reading: Are
-                                         Adrienne Gibbs                                                                you busy or
-       [ @ 236 ]                                                                      are you productive?
-      What We're Reading: Are you busy or are you productive?
-                                            [ @ 240 ]
-       [ 237 ] Nov 25 [ 238 ] [ 239 ] 4 min read What Were Reading   [ @ 241 ]
+                    [ @ 199 ]   Fanfare [ @ 200 ] Jessicah Lahitou [ 201 ] in [ @ 202 ] Fanfare                          [ @ 210 ]
+                                                                                                                            Being 40 with
+                    [ @ 203 ] Being 40 with Beyoncé                                                                      Beyoncé
+                     [ 204 ] Oct 14 [ 205 ] [ 206 ] 6 min read [ @ 207 ] Music [ $ 208 ] +             [ @ 209 ]
 
-                                                     [ 245 ] in [ @ 246 ]          [ @ 254 ]
-       [ @ 243 ]  Age of Empathy [ @ 244 ]        。         Age of Empathy           Why Non - Traditional Thanksgivings Can
-                                       Holly Pettit
-       [ @ 247 ]                                                                  Be the Best Thanksgivings
-      Why Non - Traditional Thanksgivings Can Be the Best
-       Thanksgivings
-                                            [ @ 251 ]             [ @ 253 ]
-       [ 248 ] Nov 11 [ 249 ] [ 250 ] 6 min read            [ $ 252 ] ]
-                                             Thanksgiving         W
+                    [ @ 211 ]                              [ @ 212 ] Ty Stephens                                    [ @ 221 ]
+                       Towards Data Science                [ 213 ] in [ @ 214 ] Towards Data Science                  From Punch Cards to
+                                                                                                                    ChatGPT
+                     [ @ 215 ] From Punch Cards to ChatGPT
+                     [ 216 ] Nov 1 [ 217 ] [ 218 ] 9 min read [ @ 219 ] ChatGPT                   [ @ 220 ]
 
-                                                  [ 257 ] in [ @ 258 ]                  [ @ 266 ]
-       [ @ 255 ] The Startup [ @ 256 ] ]                 The Startup
-                                  Joe McCormick                                           How I Learned to Solve the Rubik's
-       [ @ 259 ]                                                                       Cube in 30 Seconds
-       How I Learned to Solve the Rubik's Cube in 30 Seconds
-                                                 [ @ 263 ] [ $ 264 ]
-       [ 260 ] Jan 27, 2021 [ 261 ] [ 262 ] 9 min read Puzzle +       [ @ 265 ]
+                    [ @ 222 ]                                                                                                  [ @ 231 ]
+                               [ @ 223 ] Vicki Tan
+                                                                                                                                 The Long View
+                    [ @ 224 ] ] The Long View
+                    [ 225 ] Oct 26 [ 226 ] [ 227 ] 17 min read [ @ 228 ] Technology [ $ 229 ] +              [ @ 230 ]
 
-       [ @ 267 ]                             [ @ 268 ]                                             [ @ 277 ]
-         Spark: Elevating Scholarship [ 269 ]      [ @ 270 ] r for Institutional Diversity           Safety for Black College
-       on Social Issues                           Spark: Elevating Scholarship on Social Issues    Students
-       [ @ 271 ]
-       Safety for Black College Students
-                                            [ @ 275 ]
-       [ 272 ] Nov 14 [ 273 ] [ 274 ] 6 min read    Education                     [ @ 276 ]
-                                             Higher
+                     [ @ 232 ] ]                   [ @ 233 ] Adrienne Gibbs                           [ @ 242 ]
+                       The Medium Blog             [ 234 ] in [ @ 235 ] The Medium Blog                 What We're Reading: Are you busy or
+                                                                                                      are you productive?
+                    [ @ 236 ] What We're Reading: Are you busy or are you
+                    productive?
+                                                                                     [ @ 241 ]
+                     [ 237 ] Nov 25 [ 238 ] [ 239 ] 4 min read [ @ 240 ] What Were Reading
 
-       [ @ 278 ]                                                                                     [ @ 287 ]
-                  [ @ 279 ] 。                                                                          Five. Hundred. Million.
-                 Biz Stone
-                                                                                                    Dollars.
-       [ @ 280 ]
-       Five. Hundred. Million. Dollars.
-                                            [ @ 284 ]     [ $ 285 ]
-       [ 281 ] Nov 15 [ 282 ] ] [ [ 283 ] 9 min read Technology                    [ @ 286 ]
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2813
+                    [ @ 243 ]                    [ @ 244 ] Holly Pettit →                         [ @ 254 ]
+                      Age of Empathy             [ 245 ] in [ @ 246 ] Age of Empathy                Why Non - Traditional Thanksgivings Can
+                                                                                                  Be the Best Thanksgivings
+                    [ @ 247 ] Why Non - Traditional Thanksgivings Can Be the
+                    Best Thanksgivings
+                                                                                   [ @ 253 ]
+                                                                                   [ $ 252 M ]
+                    [ 248 ] Nov 11 [ 249 ] [ 250 ] 6 min read [ @ 251 ] Thanksgiving
+
+                    [ @ 255 ] The Startup [ @ 256 ] Joe McCormick [ 257 ] in [ @ 258 ] The Startup     [ @ 266 ]
+                                                                                                         How I Learned to Solve the Rubik's
+                     [ @ 259 ] How I Learned to Solve the Rubik's Cube in 30                           Cube in 30 Seconds
+                    Seconds
+                                                                                       [ @ 265 ]
+                                                                                  [ $ 264 ]
+                     [ 260 ] Jan 27, 2021 [ 261 ] ] [ [ 262 ] 9 min read [ @ 263 ] Puzzle " W
+
+                    [ @ 267 ]                                                                                      [ @ 277 ]
+                       Spark: Elevating                 [ @ 268 ] National Center for Institutional Diversity        Safety for Black College
+                    Scholarship on Social               [ 269 ] in [ @ 270 ] Spark: Elevating Scholarship on Soci ... Students
+                    Issues
+                    [ @ 271 ] Safety for Black College Students
+                     [ 272 ] Nov 14 [ 273 ] [ [ 274 ] 6 min read [ @ 275 ] Higher Education      [ @ 276 ]
+
+                    [ @ 278 ]                                                                                       [ @ 287 ]
+                               [ @ 279 ] Biz Stone ✪                                                                   Five. Hundred. Million.
+                                                                                                                    Dollars.
+                     [ @ 280 ] Five. Hundred. Million. Dollars.
+                    [ 281 ] Nov 15 [ 282 ] ] [ [ 283 ] 9 min read [ @ 284 ] Technology [ $ 285 ] + [ @ 286 ]
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 2695

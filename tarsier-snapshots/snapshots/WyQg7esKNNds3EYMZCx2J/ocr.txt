@@ -1,69 +1,72 @@
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 0 ]
-                                                                          Center            [ @ 2 ] Bureau of Procurement
-                                               @ Supplier Service
-        PA            Marketplace
-        3 ]                                                                                                                                                                                                       [ @ 4 ] ✓ e - mail
-      [ @
-     [ 5 ] Solicitation Search                                                                            [ @ 6 ] HELP
-     [ @ 7 ]                                                                                                                                                                                                                [ @ 8 ]
-    < Back                                                                                                                                                                                                            B & W Mode
-                                                                                                         [ 9 ] Search Solicitations
-           [ 10 ]  All suppliers wishing to do business with the Commonwealth must register at [ @ 11 ]" https://www.budget.pa.gov/Services/ForVendors/Pages/Vendor-Registration.aspx".
-            [ 12 ] [ 13 ] Enter Search Criteria
-                No fields required. The more detail you give, the fewer results will appear.
-                                    [ 14 ] Solicitation #: [ # 15 ] ] ]                                            [ 16 ] Agency:    [ $ 17 ]
-                   [ 18 ] Solicitation Title or Description: [ # 19 ] ]                                            [ 20 ] County:    [ $ 21 ]                        [ $ 22 ] ( $ 23 ] Statewide ( $ 24 ] ( $ 25 ) Multiple
-                                                      [ $ 27 ]
-                                 [ 26 ] Solicitation Type:                                                                                      VBE goal
-                                                       [ $ 28 ) [ $ 29 ] View Small Business Procurements [ $ 30 ] ( $ 31 ) View procurements with an SDB or
-                                                         [ $ 33 ] ( $ 34 ] Service [ $ 35 ] [ $ 36 ] Service & Materials [ $ 37 ] [ $ 38 ] Agency Construction [ $ 39 ] $ 40 ] All
-                             [ 32 ] Advertisement Type:
-                                                         [ $ 41 ] $ 42 ] Materials [ $ 43 ] [ 44 ] PW Construction [ $ 45 ) [ $ 46 ] Real Estate
-            [ 47 ] Bid Open Date ( mm / dd / yyyy ): [ # 49 ]            [ 48 ]                Solicitations Posted Since ( mm / dd / yyyy ): [ # 50 ]
-                                                                                                                                                                                                    [ $ 51 ] arch [ $ 52 ] ncel
-                                                                                                                                                                                        [ $ 53 ] View Current Records [ $ 54 ]
-                                                                                                                                                                                        [ $ 55 ] View Archived Records [ $ 56 ]
- [ 58 ] Search Result - Hover your mouse over the Description or Title text to get more details. ( Internet Explorer Only )
-     Click on Solicitation Title for details
-     [ 59 ] No. of records per page: [ $ 60 ]                                                                                                                                                             [ $ 61 ] port Search Results
-                                                                                                         [ 62 ] List of Current Solicitations
-                                          [ @ 65 ] Solicitation                                                                                                                          [ @ 72 ] Bid                [ @ 74 ] Contact
-      [ @ 63 ] Solicitation # [ @ 64 ] Types                   [ @ 66 ] Description  [ @ 67 ] Agency       [ @ 68 ] County    [ @ 69 ] Amended [ @ 70 ] Solicitation [ @ 71 ] Solicitation Opening    [ @ 73 ] Status
-                                                 Title                                                                              Date            Start Date           Due Date           Date                        Person
-                                             [ 77 ] 23Ne Sgl 84   [ 78 ] Delivery Of                                                                                 [ 84 ] 3/7/2024 2:00:00 [ 85 ] 3/7/2024            [ 87 ] Steven
-      [ @ 75 ] 6100060507     [ 76 ] IFB                       Aggregate 1000 Tons     [ 80 ] Game     [ 81 ] Northumberland     [ 82 ] 2/16/2024   [ 83 ] 2/20/2024                                    [ 86 ] Created
-                                             Woodrat Project          [ 79 ]          Commission                                                                            PM            2:00:00 PM                     Walthius
-                                                                    O
-                                           [ 90 ] Motorcycle Fleet [ 91 ] The Motorcycles                                                                           [ 97 ] 2/26/2024 11:30:00 [ 98 ] 2/26/2024         [ 100 ] Anthony
-      [ @ 88 ] 6100060200     [ 89 ] IFB        Purchase       Purchased Will Be [ 92 ] [ 93 ] Transportation [ 94 ] Statewide  [ 95 ] 2/16/2024    [ 96 ] 1/29/2024        AM            11:31:00 AM    [ 99 ] Open     Marazas
-                                             [ 103 ] 23Ne Sgl 13 [ 104 ] The Pa Game                                                                                 [ 110 ] 3/7/2024 2:00:00 [ 111 ] 3/7/2024         [ 113 ] Zachary
-      [ @ 101 ] 6100060533    [ 102 ] IFB    Chungus Planting   Commission Forestry    [ 106 ] Game        [ 107 ] Sullivan     [ 108 ] 2/16/2024  [ 109 ] 2/16/2024                                     [ 112 ] Open
-                                                                                      Commission                                                                            PM            2:00:00 PM                      Barrick
-                                                 Project            D [ 105 ]
-                                             [ 116 ] Performance [ 117 ] This Rfp Requires                                                                          [ 123 ] 3/5/2024 12:00:00 [ 124 ] 3/5/2024
-       [ @ 114 ] RFP 44-22   [ 115 ] RFP                       Performance Anal [ 118 ] [ 119 ] Human     [ 120 ] Statewide     [ 121 ] 2/16/2024  [ 122 ] 1/18/2024                                    [ 125 ] Open [ 126 ] Teresa Allen
-                                             Analysis Services                          Services                                                                            PM            12:01:00 PM
-                                            [ 129 ] 23Nc Sgl 100 [ 130 ] The Northcentral                                                                            [ 136 ] 3/5/2024 2:00:00 [ 137 ] 3/5/2024         [ 139 ]
-      [ @ 127 ] 6100060532    [ 128 ] IFB                         Region Of The        [ 132 ] Game         [ 133 ] Centre      [ 134 ] 2/16/2024  [ 135 ] 2/16/2024                                    [ 138 ] Open        Zachary
-                                           Three Gates Seedling                       Commission                                                                            PM            2:00:00 PM                      Barrick
-                                                                   Pen [ 131 ] ...
-                                            [ 142 ] 23Whm Deer [ 143 ] The Pennsylvania [ 145 ] Game                                                                [ 149 ] 3/19/2024 2:00:00 [ 150 ] 3/19/2024         [ 152 ] Derek
-      [ @ 140 ] 6100060516    [ 141 ] IFB   Fence Install Nc D  Game Commission       Commission           [ 146 ] Multiple     [ 147 ] 2/16/2024  [ 148 ] 2/20/2024        PM            2:00:00 PM   [ 151 ] Created    Deibler
-                                                                     [ 144 ]
-                                            [ 155 ] 23Whm Fy24 [ 156 ] The Pennsylvania [ 158 ] Game                                                                [ 162 ] 3/19/2024 2:00:00 [ 163 ] 3/19/2024        [ 165 ] Zachary
-      [ @ 153 ] 6100060478    [ 154 ] IFB Deer Fence Install No C Game Commission     Commission            [ 159 ] Tioga       [ 160 ] 2/16/2024  [ 161 ] 2/16/2024        PM            2:00:00 PM    [ 164 ] Open      Barrick
-                                                                     [ 157 ]
-        [ @ 166 ] DGS C-                   [ 168 ] East         [ 169 ] This Project Is A 171 ] General                                                             [ 175 ] 2/28/2024 2:00:00 [ 176 ] 2/28/2024        [ 178 ] Sharon
-      0948-0100 Phase 1       [ 167 ] IFB          Wing Water Rebid Standard L [ 170 ] [                   [ 172 ] Dauphin      [ 173 ] 2/16/2024  [ 174 ] 2/16/2024                                    [ 177 ] Open
-                                             Intrusion Repairs                          Services                                                                                          2:00:00 PM                    Hindermyer
-             Rebid
-                                               [ 181 ] Account [ 182 ] The Pennsylvania                                                                             [ 188 ] 3/14/2024 3:00:00 [ 189 ] 3/14/2024        [ 191 ] Christine
-      [ @ 179 ] 6100059385 [ 180 ] RFP      Verification Services Fiscal Code Was     [ 184 ] Budget       [ 185 ] Dauphin      [ 186 ] 2/16/2024  [ 187 ] 2/15/2024        PM            12:00:00 PM    [ 190 ] Open    Bennett
-                                                                    A [ 183 ]
-                                           [ 194 ] 23Whm Sgl 264 [ 195 ] The Pennsylvania [ 197 ] Game                                                              [ 201 ] 2/22/2024 2:00:00 [ 202 ] 2/22/2024        [ 204 ] Zachary
-      [ @ 192 ] 6100060255    [ 193 ] IFB      Sb 464 Roof      Game Commission       Commission           [ 198 ] Dauphin      [ 199 ] 2/16/2024   [ 200 ] 1/8/2024        PM            2:00:00 PM     [ 203 ] Open     Barrick
-                                              Replacement            [ 196 ]
-      [ 205 ] 1 [ @ 206 ] 2 [ @ 207 ] 3 [ @ 208 ] 4 [ @ 209 ] 5 [ @ 210 ] 6 [ @ 211 ] 7 [ @ 212 ] 8 [ @ 213 ] 9 [ @ 214 ] 10 [ @ 215 ] ...
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2207
+                                                              **[ 1 ] Supplier Service Center**                [ @ 2 ] Bureau of Procurement
+                    **PA e**       Marketplace
+                  [ @ 3 ]                                                                                                                                                                                                                      [ @ 4 ] ✓ e - mail
+                 [ 5 ] Solicitation Search                                                                                    [ @ 6 ] HELP
+                 [ @ 7 ] ]                                                                                                                                                                                                                               [ [ @ 8 ]
+                 < Back                                                                                                                                                                                                                         > B & W Mode
+                                                                                                                             [ 9 ] Search Solicitations
+                              [ 10 ] All suppliers wishing to do business with the Commonwealth must register at [ @ 11 ]" https://www.budget.pa.gov/Services/ForVendors/Pages/Vendor-Registration.aspx".
+                             [ 13 ] Enter Search Criteria
+                             [ 12 ] ] No fields required. The more detail you give, the fewer results will appear.
+                                                  [ 14 ] Solicitation #: [ # 15 ] ]                                                      [ 16 ] Agency:
+                                [ 18 ] Solicitation Title or Description: [ [ # 19 ] ]                                                   [ 20 ] County:   [ $ 17 ]                                [ $ 23 ] ] Statewide [ $ 25 ] ] Multiple
+                                               [ 26 ] Solicitation Type:                                                                                  [ $ 211                       [ $ 22 ]          [ $ 24 ]
+                                                                           [ $ 29 ] View Small Business Procurements           [ $ 31 ] View procurements with an SDB or VBE goal
+                                                                                              [ $ 27 ]
+                                                                              [ $ 34 ] Service [ $ 28 ] $ 36 ] Service & Materials    [ $ 38 ] Agency [ $ 30 ] truction  [ $ 40 ] All
+                                           [ 32 ] Advertisement Type:
+                                                                              [ $ 42 ] Materials [ $ 33144 ] PW Constr [ $ 35 ]       [ $ 46 ] Real Estate $ 37 ]                         [ $ 39 ]
+                             [ 47 ] Bid Open Date ( mm / dd / yyyy ): [ [ # 49 ] ]               $ 41 ]                [ $ 43 ] tations Posted Since ( mm / $ 45 ] YY ): [ # 50 ]
+                                                                                                                                                                                                                                 Search      Cancel
+                                                                                                                                                                                                                  [ $ 53 ] View Current Records
+                                                                                                                                                                                                   [ $ 51 ]    [ $ 52155 ] View Archived Records
+                 [ 57 ] Search Result - Hover your mouse over the Description or Title text to get more details. ( Internet Explorer Only )                                                                          [ $ 54 ]
+                 [ 58 ] Click on Solicitation Title for details
+                                                                                                                                                                                                                     [ $ 56 ]
+                  [ 59 ] No. of records per page: 10 ▾                                                                                                                                                                                  Export Search Results
+                                                                                                                             [ 62 ] List of Current Solicitations
+                                                                                                                                                   [ @ 69 Amended         70 Solicitation [ @ 71 ]  Solicitation    [ @ 72 ] Bid                  @ 74 ] Contact
+                  [ @ 63 ] Solicitation # [ @ 64 ] Types [ @ 65 ] Solicitation      ] Description      [ @ 67 ] Agency         [ @ 68 ] County           ]             [ @ ]                                        Opening      [ @ 73 ]
+                                                                 Title         [ $ 60 ]                                                                   Date             Start Date            Due [ $ 61 ]                            Status      Person
+                                                                                                                                                                                                                       Date
+                                                                                   [ 78 ] Delivery Of                                                                                         [ 84 ] 3/7/2024 2:00:00 [ 85 ] 3/7/2024                [ 87 ] Steven
+                   [ @ 75 ] 6100060507      [ 76 ] IFB      [ 77 ] 23Ne Sgl 84  Aggregate 1000 Tons       [ 80 ] Game      [ 81 ] Northumberland      [ 82 ] 2/16/2024     [ 83 ] 2/20/2024                                         [ 86 ] Created
+                                                            Woodrat Project            [ [ 79 ] ...      Commission                                                                                  PM             2:00:00 PM                        Walthius
+                                                                                     O
+                                                           90 ] Motorcycle Fleet [ 91 ] The Motorcycles                                                                                      [ 97 ] 2/26/2024 11:30:00 [ 98 ] 2/26/2024             [ 100 ] Anthony
+                   [ @ 88 ] 6100060200      [ 89 ] IFB    [                       Purchased Will Be  [ 93 ] Transportation     [ 94 ] Statewide       [ 95 ] 2/16/2024     [ 96 ] 1/29/2024                                          [ 99 ] Open
+                                                               Purchase                92 ]                                                                                                          AM             11:31:00 AM                       Marazas
+                                                                                       [
+                                                            [ 103 ] 23Ne Sgl 13  [ 104 ] The Pa Game     [ 106 ] Game                                                                        [ 110 ] 3/7/2024 2:00:00 [ 111 ] 3/7/2024              [ 113 ] Zachary
+                  [ @ 101 ] 6100060533      [ 102 ] IFB     Chungus Planting    Commission Forestry      Commission            [ 107 ] Sullivan       [ 108 ] 2/16/2024   [ 109 ] 2/16/2024          PM             2:00:00 PM      [ 112 ] Open       Barrick
+                                                                Project              D [ 105 ]
+                                                           [ 116 ] Performance [ 117 ] This Rfp Requires [ 119 ] Human                                                                           [ 123 ] 3/5/2024  [ 124 ] 3/5/2024
+                   [ @ 114 ] RFP 44-22     [ 115 ] RFP      Analysis Services       Performance            Services           [ 120 ] Statewide      [ 121 ] 2/16/2024    [ 122 ] 1/18/2024       12:00:00 PM       12:01:00 PM     [ 125 ] Open  [ 126 ] Teresa Allen
+                                                                                   Anal [ 118 ].
+                                                           [ 129 ] 23Nc         [ 130 ] The Northcentral                                                                                     [ 136 ] 3/5/2024 2:00:00 [ 137 ] 3/5/2024              [ 139 ] Zachary
+                  [ @ 127 ] 6100060532     [ 128 ] IFB               Sgl 100       Region Of The         [ 132 ] Game           [ 133 ] Centre       [ 134 ] 2/16/2024     [ 135 ] 2/16/2024                                        [ 138 ] Open
+                                                          Three Gates Seedling                           Commission                                                                                  PM             2:00:00 PM                         Barrick
+                                                                                    Pen [ 131 ]
+                                                                               [ 143 ] The Pennsylvania                                                                                         [ 149 ] 3/19/2024
+                   @ 140 ] 6100060516      [ 141 ] IFB     [ 142 ] 23Whm Deer    Game Commission         [ 145 ] Game          [ 146 ]               [ 147 ] 2/16/2024    [ 148 ] 2/20/2024                        [ 150 ] 3/19/2024 [ 151 ] Created [ 152 ] Derek
+                  [                                        Fence Install Nc D                            Commission                  Multiple                                                     2:00:00 PM        2:00:00 PM                         Deibler
+                                                                                      [ 144 ]
+                                                           [ 155 ] 23Whm Fy24  [ 156 ] The Pennsylvania                                                                                         [ 162 ] 3/19/2024  [ 163 ] 3/19/2024                [ 165 ] Zachary
+                  [ @ 153 ] 6100060478      [ 154 ] IFB                          Game Commission         [ 158 ] Game           [ 159 ] Tioga         [ 160 ] 2/16/2024   [ 161 ] 2/16/2024                                         [ 164 ] Open
+                                                         Deer Fence Install No C                         Commission                                                                               2:00:00 PM        2:00:00 PM                         Barrick
+                                                                                      [ 157 ]
+                    [ @ 166 ] DGS C-                      [ 168 ] East Wing Water [ 169 ] This Project Is A 171 ] General                                                                       [ 175 ] 2/28/2024  [ 176 ] 2/28/2024                [ 178 ] Sharon
+                  0948-0100 Phase 1         [ 167 ] IFB                            Rebid Standard       [                      [ 172 ] Dauphin        [ 173 ] 2/16/2024   [ 174 ] 2/16/2024                                         [ 177 ] Open
+                          Rebid                             Intrusion Repairs         [ 170 ] ..           Services                                                                               2:00:00 PM        2:00:00 PM                       Hindermyer
+                                                                                     L
+                                                              181 ] Account    [ 182 ] The Pennsylvania                                                                                         [ 188 ] 3/14/2024  [ 189 ] 3/14/2024                [ 191 ] Christine
+                  [ @ 179 ] 6100059385 [ 180 ] RFP           [                    Fiscal Code Was       [ 184 ] Budget         [ 185 ] Dauphin       [ 186 ] 2/16/2024    [ 187 ] 2/15/2024                                         [ 190 ] Open
+                                                           Verification Services                                                                                                                  3:00:00 PM        12:00:00 PM                       Bennett
+                                                                                     A [ 183 ] ...
+                                                          [ 194 ] 23Whm Sgl 264 [ 195 ] The Pennsylvania [ 197 ] Game                                                                           [ 201 ] 2/22/2024 [ 202 ] 2/22/2024                 [ 204 ] Zachary
+                  [ @ 192 ] 6100060255      [ 193 ] IFB       Sb 464 Roof        Game Commission                               [ 198 ] Dauphin        [ 199 ] 2/16/2024    [ 200 ] 1/8/2024       2:00:00 PM        2:00:00 PM      [ 203 ] Open       Barrick
+                                                              Replacement             [ 196 ]           Commission
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 2204
