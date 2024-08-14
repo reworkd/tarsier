@@ -273,9 +273,8 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
   const rawElementsToTag = getElementsToTag(allElements, tagLeafTexts);
   const elementsToTag = removeNestedTags(rawElementsToTag);
   const idToXpath = insertTags(elementsToTag, tagLeafTexts);
-  ensureMinimumTagFontSizes();
-  absolutelyPositionMissingTags(idToXpath);
   shrinkCollidingTags();
+  ensureMinimumTagFontSizes();
 
   return idToXpath;
 };
