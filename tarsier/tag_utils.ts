@@ -100,7 +100,7 @@ const isTextInsertable = (el: HTMLElement) =>
     text_input_types.includes((el as HTMLInputElement).type));
 
 // These tags may not have text but can still be interactable
-const textLessTagWhiteList = ["input", "textarea", "select", "button"];
+const textLessTagWhiteList = ["input", "textarea", "select", "button", "a"];
 
 const isTextLess = (el: HTMLElement) => {
   const tagName = el.tagName.toLowerCase();
@@ -356,8 +356,8 @@ function removeNestedTags(elementsToTag: HTMLElement[]): HTMLElement[] {
       });
 
       // Only remove nested tags if there is only a single element to remove
-      if (elementsToRemove.length == 1) {
-        for (let element of elementsToRemove) {
+      if (elementsToRemove.length <= 2) {
+        for(let element of elementsToRemove) {
           res.splice(res.indexOf(element), 1);
         }
       }
@@ -391,8 +391,10 @@ function insertTags(
     // into when these empty elements are considered, we should drill
     const childrenToConsider = Array.from(element.childNodes).filter(
       (child) => {
-        if (child.nodeType === Node.TEXT_NODE) {
+        if (isNonWhiteSpaceTextNode(child)) {
           return true;
+        } else if (child.nodeType === Node.TEXT_NODE) {
+          return false;
         }
 
         return !(child.nodeType === Node.ELEMENT_NODE && (isTextLess(child as HTMLElement) || !elIsVisible(child as HTMLElement)));
@@ -427,7 +429,7 @@ function insertTags(
       } else {
         const insertionElement = getElementToInsertInto(el, idSpan);
         insertionElement.prepend(idSpan)
-        absolutelyPositionTagIfMisaligned(idSpan, el);
+        absolutelyPositionTagIfMisaligned(idSpan, insertionElement);
       }
       idNum++;
     } else if (tagLeafTexts) {
@@ -454,108 +456,68 @@ function insertTags(
   return idToXpath;
 }
 
-function absolutelyPositionTagIfMisaligned(tag: HTMLElement, parent: HTMLElement) {
+function absolutelyPositionTagIfMisaligned(tag: HTMLElement, reference: HTMLElement) {
   /*
   Some tags don't get displayed on the page properly
   This occurs if the parent element children are disjointed from the parent
   In this case, we absolutely position the tag to the parent element
   */
-  const distanceThreshold = 500;
 
-  const tags: NodeListOf<HTMLElement> =
-    document.querySelectorAll(tarsierSelector);
-  tags.forEach((tag) => {
-    // The parent is the node containing the tag. The reference is the node the tag is attempting to tag
-    // These two will differ when the tag is for a textNode as a single parent tag can have multiple textNode children
-    const parent = tag.parentElement as HTMLElement;
+  let tagRect = tag.getBoundingClientRect();
+  if (!(tagRect.width === 0 || tagRect.height === 0)) {
+    return;
+  }
 
-    const tagId = parseInt(tag.getAttribute(tarsierDataAttribute) || "-1");
-    const xpath = idToXpath[tagId];
-    const reference = document.evaluate(
-      xpath,
-      document,
-      null,
-      XPathResult.FIRST_ORDERED_NODE_TYPE,
-      null,
-    ).singleNodeValue;
+  const distanceThreshold = 250;
 
-    if (!reference) {
-      console.error(
-        "Reference node not found for tag",
-        tag,
-        "with XPath",
-        xpath,
-      );
-      return;
-    }
+  // Check if the expected position is off-screen horizontally
+  const expectedTagPositionRect = reference.getBoundingClientRect();
+  if (
+    expectedTagPositionRect.right < 0 ||
+    expectedTagPositionRect.left > (window.innerWidth || document.documentElement.clientWidth)
+  ) {
+    // Expected position is off-screen horizontally, remove the tag
+    tag.remove();
+    return; // Skip to the next tag
+  }
 
-    let referenceRect: DOMRect | null = null;
-    if (reference.nodeType === Node.TEXT_NODE) {
-      const range = document.createRange();
-      range.selectNodeContents(reference);
-      referenceRect = range.getBoundingClientRect();
-    } else if (reference.nodeType === Node.ELEMENT_NODE) {
-      referenceRect = (reference as Element).getBoundingClientRect();
-    }
+  const referenceTopLeft = {
+    x: expectedTagPositionRect.left,
+    y: expectedTagPositionRect.top,
+  };
 
-    if (!referenceRect) {
-      console.error(
-        "Could not get bounding client rect for reference node",
-        reference,
-      );
-      return;
-    }
+  const tagCenter = {
+    x: (tagRect.left + tagRect.right) / 2,
+    y: (tagRect.top + tagRect.bottom) / 2,
+  };
 
-    let tagRect = tag.getBoundingClientRect();
+  const dx = Math.abs(referenceTopLeft.x - tagCenter.x);
+  const dy = Math.abs(referenceTopLeft.y - tagCenter.y);
+  if (dx > distanceThreshold || dy > distanceThreshold || !elIsVisible(tag)) {
+    tag.style.position = "absolute";
 
-    // Check if the parent is off-screen horizontally
-    if (
-      referenceRect.right < 0 ||
-      referenceRect.left > (window.innerWidth || document.documentElement.clientWidth)
-    ) {
-      // Parent is off-screen horizontally, remove the tag
-      tag.remove();
-      return; // Skip to the next tag
-    }
+    // Ensure the tag is positioned within the screen bounds
+    let leftPosition = Math.max(
+      0,
+      expectedTagPositionRect.left - (tagRect.right + 3 - tagRect.left),
+    );
+    leftPosition = Math.min(
+      leftPosition,
+      window.innerWidth - (tagRect.right - tagRect.left),
+    );
+    let topPosition = Math.max(0, expectedTagPositionRect.top + 3); // Add some top buffer to center align better
+    topPosition = Math.min(
+      topPosition,
+      Math.max(window.innerHeight, document.documentElement.scrollHeight) -
+        (tagRect.bottom - tagRect.top),
+    );
 
-    const referenceTopLeft = {
-      x: referenceRect.left,
-      y: referenceRect.top,
-    };
+    tag.style.left = `${leftPosition}px`;
+    tag.style.top = `${topPosition}px`;
 
-    const tagCenter = {
-      x: (tagRect.left + tagRect.right) / 2,
-      y: (tagRect.top + tagRect.bottom) / 2,
-    };
-
-    const dx = Math.abs(referenceTopLeft.x - tagCenter.x);
-    const dy = Math.abs(referenceTopLeft.y - tagCenter.y);
-    if (dx > distanceThreshold || dy > distanceThreshold || !elIsVisible(tag)) {
-      tag.style.position = "absolute";
-
-      // Ensure the tag is positioned within the screen bounds
-      let leftPosition = Math.max(
-        0,
-        referenceRect.left - (tagRect.right + 3 - tagRect.left),
-      );
-      leftPosition = Math.min(
-        leftPosition,
-        window.innerWidth - (tagRect.right - tagRect.left),
-      );
-      let topPosition = Math.max(0, referenceRect.top + 3); // Add some top buffer to center align better
-      topPosition = Math.min(
-        topPosition,
-        Math.max(window.innerHeight, document.documentElement.scrollHeight) -
-          (tagRect.bottom - tagRect.top),
-      );
-
-      tag.style.left = `${leftPosition}px`;
-      tag.style.top = `${topPosition}px`;
-
-      parent.removeChild(tag);
-      document.body.appendChild(tag);
-    }
-  });
+    tag.parentElement && tag.parentElement.removeChild(tag);
+    document.body.appendChild(tag);
+  }
 }
 
 const shrinkCollidingTags = () => {
