@@ -1,10 +1,9 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 0 ]
-                                                                                    [ @ 1 ] About [ @ 2 ] Companies                                                [ @ 3 ] Startup Jobs [ @ 4 ] Find a Co - Founder                                                                                 [ 8 ] Apply for [ 10 ] W2024 [ 9 ] batch.                                                    [ @ 11 ] Apply
-                                                             **Y**                  [ @ 5 ] Library                    [ @ 6 ] SAFE [ @ 7 ] Resources
+                                                                                    [ @ 1 ] About [ @ 2 ] Companies                                                [ @ 3 ] Startup Jobs                            [ 4 ] Find a Co - Founder                                                        [ 8 ] Apply for [ 10 ] W2024 [ 9 ] batch.                                                    [ @ 11 ] Apply
+                                                             Y                      [ @ 5 ] Library                    [ @ 6 ] SAFE [ @ 7 ] Resources
 
-                                    [ 12 ]
-                                                        Careers at Y Combinator
+                                                        **[ 12 ] Careers at Y Combinator**
 
 
                                                         [ 13 ] Working at Y Combinator is a unique opportunity to help founders build their companies at all stages, and offers
@@ -74,9 +73,8 @@
 
 
 
-                                                        [ @ 18 ]                                  [ 19 ] Programs                                                                  [ 24 ] Company                                                                [ 34 ] Resources                                                     [ 42 ] Make something people want.
-                                                                                                  [ @ 20 ] YC Program                                                              [ @ 25 ] YC Blog                                                              [ @ 35 ] Startup Directory                                                                                                      [ @ 43 ] Apply
-                                                             **Y**
+                                                                                                  [ 19 ] Programs                                                                  [ 24 ] Company                                                                [ 34 ] Resources                                                     [ 42 ] Make something people want.
+                                                             **Y**                                [ @ 20 ] YC Program                                                              [ @ 25 ] YC Blog                                                              [ @ 35 ] Startup Directory                                                                                                      [ @ 43 ] Apply
                                                                                                   [ @ 21 ] Startup School                                                          [ @ 26 ] Contact                                                              [ @ 36 ] Startup Library
                                                                                                   [ @ 22 ] Work at a Startup.                                                      [ @ 27 ] Press                                                                [ @ 37 ] Investors
                                                                                                   [ @ 23 ] Co - Founder Matching.                                                  [ @ 28 ] People                                                               [ @ 38 ] SAFE
@@ -91,4 +89,4 @@
                                                          [ 49 ] © 2023 Y Combinator
                                                                                                                                                                                                                                                                                                                                               +                       ( 0 )                  lin
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1388
+Token count: 1381

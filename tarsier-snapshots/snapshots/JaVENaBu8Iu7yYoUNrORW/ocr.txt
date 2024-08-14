@@ -1,75 +1,72 @@
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ 14 ]
-                **Our Locations**
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[ 14 ] Our Locations**
 
-                 [ $ 15 ] Search Locations                                                          [ $ 17 ] Search Services
-                 [ # 16 ]                                                                          [ $ 18 ] Services
+                 [ $ 15 ] Search Locations                                                            [ $ 17 ] Search Services
+                 [ # 16 ]                                                                             [ $ 18 ] Services
                    Search by location name
-                                                                                                                                                               [ @ 19 ] Clear Filters
+                                                                                                                                                                   [ @ 19 ] Clear Filters
 
 
-                 [ @ 20 ]                                               [ @ 26 ]                                                [ @ 32 ]
+                 [ @ 20 ]                                                 [ @ 26 ]                                                 [ @ 32 ]
 
-                                              Иванов
-
-
+                                               Boons W                                                                                                 E3
 
 
-                 [ 21 ] Houston Healthcare - Perry                      [ 27 ] Houston Healthcare - Warner                      [ 33 ] Roy H." Sonny" Watson Health
-                                                                        Robins                                                  Pavilion
+
+
+                 [ 21 ] Houston Healthcare - Perry                        [ 27 ] Houston Healthcare - Warner                       [ 33 ] Roy H." Sonny" Watson Health
+                                                                          Robins                                                   Pavilion
                  [ 22 ] 1120 Morningside Drive
-                [ 23 ] ] Perry, GA 31069                                [ 28 ] 1601 Watson Boulevard                            [ 34 ] 233 North Houston Road
-                 [ 24 ] ( 478 ) 987-3600                                [ 29 ] Warner Robins, GA 31093                          [ 35 ] Warner Robins, GA 31093
-                 [ 25 ] More Information                                [ 30 ] ( 478 ) 922-4281                                 [ 36 ] More Information
-                                                                        [ 31 ] More Information
+                 [ 23 ] Perry, GA 31069                                   [ 28 ] 1601 Watson Boulevard                             [ 34 ] 233 North Houston Road
+                 [ 24 ] ( 478 ) 987-3600                                  [ 29 ] Warner Robins, GA 31093                           [ 35 ] Warner Robins, GA 31093
+                 [ 25 ] More Information                                  [ 30 ] ( 478 ) 922-4281                                  [ 36 ] More Information
+                                                                          [ 31 ] More Information
 
-                [ @ 37 ]                                                [ @ 43 ]                                                [ @ 49 ]
-                                                                                                                  +
-                                                                                                                MED - STOP
-                             -MED - STOP
-
-
-
-                 [ 38 ] Bonaire Med - Stop - an                         [ 44 ] Lake Joy Med - Stop - an                         [ 50 ] Pavilion Med - Stop - an
-                Outpatient Department of Houston                        Outpatient Department of Houston                        Outpatient Department of Houston
-                Healthcare                                              Healthcare                                              Healthcare
-                [ 39 ] 520 Georgia Highway 247 South,                   [ 45 ] 1118 Highway 96                                  [ 51 ] 233 North Houston Road, Suite
-                Suite 501                                               [ 46 ] Kathleen, GA 31047                               140 A, E1 Entrance
-                [ 40 ] Bonaire, GA 31005                                [ 47 ] ( 478 ) 975-6890                                 [ 52 ] Warner Robins, GA 31093
-                [ 41 ] ( 478 ) 352-7110                                 [ 48 ] More Information                                 [ 53 ] ( 478 ) 975-6720
-                [ 42 ] More Information                                                                                         [ 54 ] More Information
-
-                [ @ 55 ]                                                [ @ 61 ]                                                [ @ 67 ]
-
-                            W3                                                                                                                     E3
+                 [ @ 37 ]                                                 [ @ 43 ]                                                 [ @ 49 ]
+                                                                                                                  MED - STOP
+                              -MED - STOP
 
 
 
+                 [ 38 ] Bonaire Med - Stop - an                           [ 44 ] Lake Joy Med - Stop - an                          [ 50 ] Pavilion Med - Stop - an
+                 Outpatient Department of Houston                         Outpatient Department of Houston                         Outpatient Department of Houston
+                 Healthcare                                               Healthcare                                               Healthcare
+                 [ 39 ] 520 Georgia Highway 247 South,                    [ 45 ] 1118 Highway 96                                   [ 51 ] 233 North Houston Road, Suite 140
+                 Suite 501                                                [ 46 ] Kathleen, GA 31047                               A, E1 Entrance
+                 [ 40 ] Bonaire, GA 31005                                 [ 47 ] ( 478 ) 975-6890                                  [ 52 ] Warner Robins, GA 31093
+                 [ 41 ] ( 478 ) 352-7110                                  [ 48 ] More Information                                  [ 53 ] ( 478 ) 975-6720
+                 [ 42 ] More Information                                                                                           [ 54 ] More Information
 
-                [ 56 ] Cary W. Martin Conference                        [ 62 ] Health Connections - Cardiac                     [ 68 ] Houston Behavioral Health
-                Center                                                  and Pulmonary Rehabilitation                            Associates
-                 [ 57 ] 233 North Houston Road, W3                      [ 63 ] 1601 Watson Boulevard                            [ 69 ] 233 North Houston Road, E3
-                [ 58 ] Warner Robins, GA 31093                          [ 64 ] Warner Robins, GA 31093                          Entrance, Suite 103
-                [ 59 ] ( 478 ) 733-9507                                 [ 65 ] ( 478 ) 322-5143                                 [ 70 ] Warner Robins, GA 31093
-                                                                                                                                [ 71 ] ( 478 ) 352-7001
-                [ 60 ] More Information                                 [ 66 ] More Information
-                                                                                                                                [ 72 ] More Information
+                 [ @ 55 ]                                                 [ @ 61 ]                                                 [ @ 67 ]
 
-                [ @ 73 ]                                                [ @ 79 ]                                                [ @ 85 ]
+                            W3                                                                                                                         E3
+
+
+
+
+                 [ 56 ] Cary W. Martin Conference                         [ 62 ] Health Connections - Cardiac                      [ 68 ] Houston Behavioral Health
+                 Center                                                  and Pulmonary Rehabilitation                              Associates
+                 [ 57 ] 233 North Houston Road, W3                        [ 63 ] 1601 Watson Boulevard                             [ 69 ] 233 North Houston Road, E3
+                 [ 58 ] Warner Robins, GA 31093                           [ 64 ] Warner Robins, GA 31093                           Entrance, Suite 103
+                 [ 59 ] ( 478 ) 733-9507                                  [ 65 ] ( 478 ) 322-5143                                  [ 70 ] Warner Robins, GA 31093
+                 [ 60 ] More Information                                  [ 66 ] More Information                                  [ 71 ] ( 478 ) 352-7001
+                                                                                                                                   [ 72 ] More Information
+
+                 [ @ 73 ]                                                 [ @ 79 ]                                                 [ @ 85 ]
 
                             W3
 
 
 
 
-                 [ 74 ] Houston ENT Associates                          [ 80 ] Houston Family Care at Bonaire                   [ 86 ] Houston Family Care at Perry
-                 [ 75 ] 233 North Houston Road, W3 -                    [ [ 81 ] 127 Old Highway 96, Suite B                    [ 87 ] 1057 Morningside Drive
-                Suite 171                                               [ 82 ] Bonaire, GA 31005                                [ 88 ] Perry, GA 31069
-                 [ 76 ] Warner Robins, GA 31093                         [ 83 ] ( 478 ) 352-7143                                 [ 89 ] ( 478 ) 218-1801
-                 [ 77 ] ( 478 ) 352-7050                                [ 84 ] More Information                                 [ 90 ] More Information
+                 [ 74 ] Houston ENT Associates                            [ 80 ] Houston Family Care at Bonaire                    [ 86 ] Houston Family Care at Perry
+                 [ 75 ] 233 North Houston Road, W3 -                      [ 81 ] 127 Old Highway 96, Suite B                       [ 87 ] 1057 Morningside Drive
+                 Suite 171                                                [ 82 ] Bonaire, GA 31005                                 [ 88 ] Perry, GA 31069
+                 [ 76 ] Warner Robins, GA 31093                           [ 83 ] ] ( 478 ) 352-7143                                [ 89 ] ( 478 ) 218-1801
+                 [ 77 ] ( 478 ) 352-7050                                  [ 84 ] More Information                                  90 ] More Information
+                                                                                                                                   [
                  [ 78 ] More Information
 
-                                                                                                                    > [ @ 91 ]    [ 92 ] Page [ # 94 ] 1 [ 93 ] of [ 95      [ @ 96 ]
-                                                                                                                                                                    ] 3
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 961
+                                                                                                                       [ @ 91 ]      [ 92 ] Page [ # 94 ] 1  [ 93 ] of [ 95 ] 3  [ @ 96 ]
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 956

@@ -1,169 +1,146 @@
---------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
 III
- = [ @ 0 ] Start Here [ @ 1 ] Explore                       [ @ 2 ] IH INDIE HACKERS                       [ @ 3 ] [ @ 4 ] LOG IN [ @ 5 ] SIGN UP
+ = [ @ 0 ] Start Here [ @ 1 ] Explore                         [ @ 2 ] IH INDIE HACKERS                           [ @ 3 ] [ @ 4 ] LOG IN [ @ 5 ] SIGN UP
 
 
 
-                                    **[ 15 ] Generating $ 200K monthly**
-                                      **revenue with an online photo**
-                                                              **editor**
+                                      **[ 10 ] Generating $ 200K monthly**
+                                        **revenue with an online photo**
+                                                                 **editor**
 
-                                                          [ 16 ] by [ @ 17 ] Leo Askan
-
-
-                                   [ 18 ] Ivan is the founder of Photopea - an online photo editor - generating
-     [ @ 6 ] ^ [ 7 ] 4 [ 8 ] Likes
-                                   $ 200K / month with 3 million unique visitors monthly in his 10th year.
-     [ $ 9 ] [ $ 10 ] 0 Bookmarks
-                                   [ 19 ] He started his project as a hobby and then started to earn money.
-     [ @ 11 ] [ 12 ] 1 [ 13 ] Comment
-                                   [ 20 ] --
-               [ $ 14 ]            [ 21 ] Here is the short form of interview and for more details, check our
-                 Report
-                                   website.
-                                   [ @ 23 ] https://saastrappers.com/interviews/ivan-kutskir-photopea/
-                                   [ 22 ] | --
-
-                                   [ 24 ] Question: Can you give us some information about your background?
-                                   [ 25 ] Answer: I was born in Ukraine and moved to Czechia with my
-                                   parents when I was 11. When I turned 18, I came to Prague to study at the
-                                   university.
-
-                                   [ 26 ] Question: What did you study in the university?
-                                   [ 27 ] Answer: My major was in computer science.
-
-                                   [ 28 ] Question: And at that time, I guess you were busy with flash games
-                                   and other stuff, right?
-                                   [ 29 ] Answer: Yes, that's correct. I actually started making flash games
-                                   even before going to university. I began playing with flash around when I
-                                   was 15.
-
-                                   [ 30 ] Question: Is it something related to your family, or was it your
-                                   interest?
-                                   [ 31 ] Answer: It was more of a personal interest. My two cousins, who are
-                                   three years older than me, had a computer. I got really excited about it,
-                                   which led me to want my own computer. I got my first computer around
-                                   2013 or 14. When I got it, I immediately started learning things like how to
-                                   make websites. It was the beginning of the internet era here in Czechia,
-                                   and we had limited internet access initially.
-
-                                   [ 32 ] Question: You were coding and developing flash games, and you
-                                   started to earn money from those games, right?
-                                   [ 33 ] Answer: Yes, that's right. When I was in high school, around 15 or 16
-                                   years old, I began connecting with people who needed Flash games or
-                                   animations. I started making some money before university by doing these
-                                   freelance projects.
-
-                                   [ 34 ] Question: What led you to focus on Photopea after flash games?
-                                   [ 35 ] Answer: Well, during my high school years, Flash was owned by
-                                   Macromedia, later bought by Adobe. I used Adobe Photoshop back then
-                                   and was quite proficient with it. While I continued making some flash
-                                   games for money during my first years at the university, my main focus
-                                   was on my studies. However, I got really excited about the web
-                                   technologies emerging around then, like the Google Chrome browser, web
-                                   games without Flash, web GL, and other new web technologies. I saw that
-                                   web - based applications could be much more performant than they were
-                                   five years ago with Internet Explorer. So, I transitioned from making Flash
-                                   games to developing JavaScript games and monetized them with ads.
-
-                                   [ 36 ] Question: You found the missing feature of Adobe and decided to
-                                   create your own Photoshop service, right?
-                                   [ 37 ] Answer: Yes, exactly. As I was working on these games and other
-                                   projects, I came up with the idea to make a web - based viewer for PSD
-                                   files. I wasn't aiming to create an editor at first; I just wanted a platform
-                                   where one could open a PSD file, and the JavaScript would process and
-                                   analyze the file to provide a preview of its content, like showing how many
-                                   layers are there.
-
-                                   [ 38 ] Question: Adobe didn't offer any features like this at the time, right?
-                                   [ 39 ] Answer: Correct. Back then, if you wanted to open a PSD file, you
-                                   had to buy Photoshop. There was no other way. You could open PSD files
-                                   in GIMP, but it would open them without any styles or adjustment layers,
-                                   so it wasn't accurate.
-
-                                   [ 40 ] Question: Do you have any advice for bootstrappers?
-                                   [ 41 ] Answer: One crucial piece of advice is to genuinely enjoy what you
-                                   are doing. Your project should be something you're passionate about,
-                                   almost like a hobby. If you're excited about your work, it will feel less like a
-                                   task and more like something you're eager to spend time on. For me,
-                                   working on Photopea was akin to playing an instrument; it was something
-                                   I did for enjoyment, not just as a job.
-
-                                   [ 42 ] When starting out, don't be intimidated by the idea of entering a
-                                   crowded market or tackling complex tasks. Begin by focusing on the core,
-                                   essential features of your product, the ones that are most important and
-                                   useful. These don't have to be numerous or complicated; even a simplified
-                                   version of an existing product can be valuable if it addresses specific
-                                   needs effectively. For example, I focused on essential features in
-                                   Photopea that were either poorly implemented or missing in other
-                                   software.
-
-                                   [ 43 ] It's also important to recognize that you don't need to have everything
-                                   figured out from the start. You can develop your product gradually. Start
-                                   with the most important features and build from there. This approach
-                                   reduces the risk of feeling overwhelmed and allows you to adapt and
-                                   respond to user feedback.
-
-                                   [ 44 ] --
-                                   [ 45 ] For more details, check our website.
-                                   [ @ 47 ] https://saastrappers.com/interviews/ivan-kutskir-photopea/
-                                   [ 46 ] --
-
-                                   [ @ 48 ] - Leo Askan [ @ 49 ] on November 26, 2023
+                                                             [ 11 ] by [ @ 12 ] Leo Askan
 
 
-                                    [ $ 50 ] 4   [ $ 51 ] 0  [ $ 52 ]
+                                     [ 13 ] Ivan is the founder of Photopea - an online photo editor - generating
+         [ @ 6 ] ^ 4 Likes
+                                    $ 200K / month with 3 million unique visitors monthly in his 10th year.
+         [ $ 7 ] 0 Bookmarks
+                                    [ 14 ] He started his project as a hobby and then started to earn money.
+         [ @ 8 ]  1 Comment
+                                    [ 15 ] --
+           [ $ 9 ] A Report         [ 16 ] Here is the short form of interview and for more details, check our
+                                    website.
+                                    [ @ 18 ] https://saastrappers.com/interviews/ivan-kutskir-photopea/
+                                     [ 17 ] --
+
+                                    [ 19 ] Question: Can you give us some information about your background?
+                                     [ 20 ] Answer: I was born in Ukraine and moved to Czechia with my
+                                    parents when I was 11. When I turned 18, I came to Prague to study at the
+                                    university.
+
+                                    [ 21 ] Question: What did you study in the university?
+                                    [ 22 ] Answer: My major was in computer science.
+
+                                     [ 23 ] Question: And at that time, I guess you were busy with flash games
+                                    and other stuff, right?
+                                     [ 24 ] Answer: Yes, that's correct. I actually started making flash games
+                                    even before going to university. I began playing with flash around when I
+                                    was 15.
+
+                                    [ 25 ] Question: Is it something related to your family, or was it your
+                                    interest?
+                                    [ 26 ] Answer: It was more of a personal interest. My two cousins, who are
+                                    three years older than me, had a computer. I got really excited about it,
+                                    which led me to want my own computer. I got my first computer around
+                                    2013 or 14. When I got it, I immediately started learning things like how to
+                                    make websites. It was the beginning of the internet era here in Czechia,
+                                    and we had limited internet access initially.
+
+                                    [ 27 ] Question: You were coding and developing flash games, and you
+                                    started to earn money from those games, right?
+                                     [ 28 ] Answer: Yes, that's right. When I was in high school, around 15 or 16
+                                    years old, I began connecting with people who needed Flash games or
+                                    animations. I started making some money before university by doing these
+                                    freelance projects.
+
+                                    [ 29 ] Question: What led you to focus on Photopea after flash games?
+                                     [ 30 ] Answer: Well, during my high school years, Flash was owned by
+                                    Macromedia, later bought by Adobe. I used Adobe Photoshop back then
+                                    and was quite proficient with it. While I continued making some flash
+                                    games for money during my first years at the university, my main focus
+                                    was on my studies. However, I got really excited about the web
+                                    technologies emerging around then, like the Google Chrome browser, web
+                                    games without Flash, web GL, and other new web technologies. I saw that
+                                    web - based applications could be much more performant than they were
+                                    five years ago with Internet Explorer. So, I transitioned from making Flash
+                                    games to developing JavaScript games and monetized them with ads.
+
+                                    [ 31 ] Question: You found the missing feature of Adobe and decided to
+                                    create your own Photoshop service, right?
+                                     [ 32 ] Answer: Yes, exactly. As I was working on these games and other
+                                    projects, I came up with the idea to make a web - based viewer for PSD
+                                    files. I wasn't aiming to create an editor at first; I just wanted a platform
+                                    where one could open a PSD file, and the JavaScript would process and
+                                    analyze the file to provide a preview of its content, like showing how many
+                                    layers are there.
+
+                                    [ 33 ] Question: Adobe didn't offer any features like this at the time, right?
+                                    [ 34 ] Answer: Correct. Back then, if you wanted to open a PSD file, you
+                                    had to buy Photoshop. There was no other way. You could open PSD files
+                                    in GIMP, but it would open them without any styles or adjustment layers,
+                                    so it wasn't accurate.
+
+                                     [ 35 ] Question: Do you have any advice for bootstrappers?
+                                    [ 36 ] Answer: One crucial piece of advice is to genuinely enjoy what you
+                                    are doing. Your project should be something you're passionate about,
+                                    almost like a hobby. If you're excited about your work, it will feel less like a
+                                    task and more like something you're eager to spend time on. For me,
+                                    working on Photopea was akin to playing an instrument; it was something
+                                    I did for enjoyment, not just as a job.
+
+                                     [ 37 ] When starting out, don't be intimidated by the idea of entering a
+                                    crowded market or tackling complex tasks. Begin by focusing on the core,
+                                    essential features of your product, the ones that are most important and
+                                    useful. These don't have to be numerous or complicated; even a simplified
+                                    version of an existing product can be valuable if it addresses specific
+                                    needs effectively. For example, I focused on essential features in
+                                    Photopea that were either poorly implemented or missing in other
+                                    software.
+
+                                    [ 38 ] It's also important to recognize that you don't need to have everything
+                                    figured out from the start. You can develop your product gradually. Start
+                                    with the most important features and build from there. This approach
+                                    reduces the risk of feeling overwhelmed and allows you to adapt and
+                                    respond to user feedback.
+
+                                    [ 39 ] --
+                                    [ 40 ] For more details, check our website.
+                                     [ @ 42 ] https://saastrappers.com/interviews/ivan-kutskir-photopea/
+                                     [ 41 ] --
+
+                                    [ @ 43 ] - Leo Askan [ @ 44 ] on November 26, 2023
 
 
-
-                                     [ @ 53 ] Say something nice to leventaskan ...
+                                      [ $ 45 ] 4   [ $ 46 ] 0   [ $ 47 ]
 
 
 
-                                    [ @ 54 ] POST COMMENT
-
-                                 [ @ 55 ] [ 56 ] Reassuring to see that it's totally alright if your product evolves from a basic
-                                      MVP over time.
-                                   1
-                                      [ 57 ] I've definitely moved one step at a time to bring my current project together
-                                     and it has shape - shifted significantly over the last 2 years.
-                                      [ @ 58 ] OddNugget [ 59 ] [ @ 60 ] 8 hours ago [ 61 ] [ @ 62 ] REPLY
-
-
-                                                     [ 63 ] Trending on Indie Hackers
-
-                                   [ @ 64 ]                           [ @ 67 ]
+                                      [ @ 48 ] Say something nice to leventaskan ...
 
 
 
+                                      [ @ 49 ] POST COMMENT
+
+                                   [ @ 50 ] [ 51 ] Reassuring to see that it's totally alright if your product evolves from a basic
+                                       MVP over time.
+                                     1
+                                       [ 52 ] I've definitely moved one step at a time to bring my current project together
+                                       and it has shape - shifted significantly over the last 2 years.
+                                       [ @ 53 ] OddNugget [ 54 ] [ 55 ] 8 hours ago [ 56 ] [ @ 57 ] REPLY
 
 
-                                     [ 65 ] Showcase Your Black        [ 68 ] How I got 21k + views on
-                                     Friday Cyber Monday Deals         Reddit for my product launch
-
-                                         [ 66 ] 70 comments →              [ 69 ] 30 comments →
-
-                                   [ @ 70 ]                           [ @ 73 ]
+                                                       [ 58 ] Trending on Indie Hackers
 
 
 
 
 
-                                     [ 71 ] Building a $ 1M ARR        [ 74 ]" The key is to invest little,
-                                     portfolio of side hustles with a ... launch fast, and kill fast."
 
-                                         [ 72 ] 23 comments →              [ 75 ] 22 comments →
+                                       [ @ 59 ]                           [ @ 60 ]
+                                       Showcase Your Black Friday         How I got 21k + views on Reddit
+                                      Cyber Monday Deals                  for my product launch
 
-
-
-
-                                                  [ 76 ] Stay informed as an indie hacker.
-                                                [ 77 ] Market insights that help you start and grow your
-                                                                business.
-                                                                  [ # 78 ]
-                                                                                       [ $ 80 ]
-                                                                                        > →
-                                              Enter email address
+                                           70 comments →                      30 comments →
 
 
 
@@ -171,17 +148,38 @@ III
 
 
 
-                     [ @ 81 ] IH INDIE HACKERS [ 82 ] by [ @ 83 ] @csallen [ @ 100 ] COMMUNITY [ @ 107 ] PRODUCTS [ @ 113 ] LEARN
-                                                            [ @ 101 ] Groups     [ @ 108 ] All Products [ @ 114 ] Explore
-                     [ 84 ] Learn from the founders behind hundreds of
-                    profitable online businesses, and connect with [ @ 102 ] Meetups [ @ 109 ] Highest Revenue [ @ 115 ] Start Here
-                    others who are starting and growing their own [ @ 103 ] Top Today [ @ 110 ] Side Projects [ @ 116 ] Podcasts
-                    companies.                              [ @ 104 ] Top This Week [ @ 111 ] Self - Funded @ 117 ] Contribute →
-                                                                                                      [
-                     [ @ 86 ] Indie Hackers, Inc. [ 87 ] [ @ 88 ] FAQ [ @ 105 ] Top This Month [ @ 112 ] Add Yours →
-                     [ 89 ] [ 90 ] Terms [ 91 ] [ 92 ] Privacy [ 93 ]. [ @ 106 ] Join →
-                     [ @ 94 ] Manage Cookies [ 85 ] / [ @ 95 ] Policy [ 96 ].
-                     [ @ 97 [ [ @ 99 ]
-                     f yo
---------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2061
+                                       [ @ 61 ]                            [ @ 62 ]
+                                       Building a $ 1M ARR portfolio of   " The key is to invest little, launch
+                                       side hustles with a full - time job fast, and kill fast."
+
+                                           23 comments →                      22 comments →
+
+
+
+
+                                                    [ 63 ] Stay informed as an indie hacker.
+                                                  [ 64 ] Market insights that help you start and grow your
+                                                                   business.
+                                                                     [ # 65 ]
+                                                                                           [ $ 67
+                                                Enter email address
+
+
+
+
+
+
+
+                     [ @ 68 ] IH INDIE HACKERS [ 69 ] by [ @ 70 ] @csallen [ @ 87 ] COMMUNITY [ @ 94 ] PRODUCTS [ @ 100 ] LEARN
+                                                                 [ @ 88 ] Groups     [ @ 95 ] All Products [ @ 101 ] Explore
+                      [ 71 ] Learn from the founders behind hundreds of
+                     profitable online businesses, and connect with others [ @ 89 ] Meetups [ @ 96 ] Highest Revenue [ @ 102 ] Start Here
+                     who are starting and growing their own companies. [ @ 90 ] Top Today [ @ 97 ] Side Projects [ @ 103 ] Podcasts
+                                                                 [ @ 91 ] Top This Week [ @ 98 ] Self - Funded [ @ 104 ] Contribute →
+                     [ @ 73 ] Indie Hackers, Inc. [ 74 ] [ @ 75 ] FAQ [ 76 ]
+                      [ @ 77 ] Terms [ 78 ] [ @ 79 ] Privacy [ 80 ] [ @ 92 ] Top This Month [ @ 99 ] Add Yours →
+                     [ @ 81 ] Manage Cookies [ 72 ] / [ @ 82 ] Policy [ 83 ] [ 84 ] [ @ 93 ] Join →
+                      [ @ 8 [ @ 86 ]                     f
+                      YO
+--------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 2010

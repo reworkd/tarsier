@@ -9,14 +9,13 @@
                              HEALTH
                                                                   ㅁ
 
-                                                                                                                                                                                       ப
+      ☐                                                                                                                                                                                ப
                    **[ 12 ] Baptist Health ENT Partners**
 
 
 
-           [ 13 ]
-                   About this Location
-               [ 14 ] Providing a full range of medical and surgical services for disorders and diseases of the head and neck, the team at Baptist Health ENT Partners is ready to serve you! We're
+                    [ 13 ] About this Location
+                   [ 14 ] Providing a full range of medical and surgical services for disorders and diseases of the head and neck, the team at Baptist Health ENT Partners is ready to serve you! We're
                    located conveniently in the Morrow Tower at Baptist Medical Center South to provide expert care when you need it most. Appointments are now available!
 
 
@@ -28,7 +27,7 @@
                                                [ @ 23 ] Show Map
 
 
-             [ 24 ] Common conditions we treat:
+                    [ 24 ] Common conditions we treat:
                   ☐ [ 25 ] Acid Reflux                                              [ 26 ] Apnea
                      [ 27 ] Balance Disorders                                    ☐ [ 28 ] Deviated ( Nasal ) Septum
                      [ 29 ] Ear Diseases and Tumors                                 [ 30 ] Facial Fractures and Lacerations
@@ -36,12 +35,11 @@
                      [ 33 ] Lips / Tongue Tie                                       [ 34 ] Meniere's Disease
                      [ 35 ] Obstructive Sleep                                    ☐ [ 36 ] Sinonasal Diseases and Tumors
                      [ 37 ] Sinus Infections                                        [ 38 ] Smell / Taste Disorders
-                     [ 39 ] Swallowing Disorders                                    [ 40 ] Thyroid and Parathyroid Diseases and Tumors
+                  ☐  [ 39 ] Swallowing Disorders                                    [ 40 ] Thyroid and Parathyroid Diseases and Tumors
                      [ 41 ] Vocal Cord Polyps and Nodules
 
 
-           [ 42 ]
-                   Providers at this Location
+                    **[ 42 ] Providers at this Location**
 
 
 
@@ -85,6 +83,6 @@
                                                                                                                                                      in
 
 
-                    [ @ 75 ] Terms of Use [ @ 76 ] Sitemap   [ @ 77 ] Language Assistance                      [ 78 ] Copyright 2023 © Baptist Health. [ 79 ] All Rights Reserved.
+                    [ @ 75 ] Terms of Use ⚫ [ @ 76 ] Sitemap [ @ 77 ] Language Assistance                      [ 78 ] Copyright 2023 © Baptist Health. [ 79 ] All Rights Reserved.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 855
+Token count: 863

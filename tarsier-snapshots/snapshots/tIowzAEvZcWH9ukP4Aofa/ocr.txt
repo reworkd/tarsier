@@ -1,34 +1,31 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-$ 2 ] [ @ 3 ]                                  [ @ 4 ] PEOPLE      [ @ 5 ] CAPABILITIES          [ @ 6 ] ACHIEVEMENTS            [ @ 7 ] INSIGHTS       [ @ 8 ] GLOBAL CITIZENSHIP                  [ $ 9 ] [ $ 10
+$ 2 ] [ @ 3 ]                                  [ @ 4 ] PEOPLE      [ @ 5 ] CAPABILITIES          [ @ 6 ] ACHIEVEMENTS            [ @ 7 ] INSIGHTS        [ @ 8 ] GLOBAL CITIZENSHIP                 [ $ 9 ] [ $ 10
       [                                                                                                                                                                                                          h
              LATHAM & WATKINS LLP
 
 
 
-[ 11 ]
-               **People**
+               **[ 11 ] People**
 
 
 
 
 
-                                                                                                                                                                                                    [ $ 12 ]
-         **# 13 ] Search by Name**
-                                                                                                                                                                                                    **10**
+               [ # 13 ]                                                                                                                                                                             [ $ 12 ]
+               **Search by Name**
 
-                 [ 14 ] Practice                                 [ $ 15 ]       [ 16 ] Industry                                  [ $ 17 ] く     [ 18 ] Office                                   [ $ 19 ] く
+                 [ 14 ] Practice                                 [ [ $ 15 ] ] く [ 16 ] Industry                                  [ $ 17 ]       [ 18 ] Office                                    [ $ 19 ] く
 
-                 [ 20 ] Title                                    [ [ $ 21 ] く   [ 22 ] School                                    [ $ 23 ] ▼
+                 [ 20 ] Title                                    [ [ $ 21 ] く    [ 22 ] School                                   [ $ 23 ] ▼
 
 
 
 
        [ 24 ] RESULTS [ 27 ] 1 [ 25 ] [ 28 ] 20 [ 26 ] OF [ 29 ] 3,705
 
-          Manuel ( Manny ) A. Abascal                                                                             Douglas Abernethy
+         Manuel ( Manny ) A. Abascal                                                                              Douglas Abernethy
                                                               [ @ 30 ] Manuel ( Manny ) A.
-                                                                                                                                                                      [ @ 35 ] Douglas Abernethy
-                                                             Abascal
+                                                             Abascal                                                                                                  [ @ 35 ] Douglas Abernethy
                                                                                                                                                                       [ 36 ] Partner
                                                               [ 31 ] Partner
                                                                                                                                                                       [ 37 ] London
@@ -37,7 +34,7 @@ $ 2 ] [ @ 3 ]                                  [ @ 4 ] PEOPLE      [ @ 5 ] CAPAB
                                                               [ 34 ] +1.213.891.7889
 
 
-                                                                                                                 Nathan Ajiashvili
+                                                                                                                  Nathan Ajiashvili
                                                               [ @ 40 ] Christian Adams                                                                                [ @ 45 ] Nathan Ajiashvili
                                                               [ 41 ] Partner                                                                                          [ 46 ] Partner
                                                               [ 42 ] Dubai                                                                                            [ 47 ] New York
@@ -45,7 +42,7 @@ $ 2 ] [ @ 3 ]                                  [ @ 4 ] PEOPLE      [ @ 5 ] CAPAB
                                                               [ 44 ] +971.4.704.6420                                                                                  [ 49 ] +1.212.906.2916
 
 
-         Hamad M. Al - Hoshan                                                                                     Basil Al - Jafari
+          Hamad M. Al - Hoshan                                                                                    Basil Al - Jafari
                                                               [ @ 50 ] Hamad M. Al - Hoshan                                                                           [ @ 55 ] Basil Al - Jafari
                                                               [ 51 ] Partner                                                                                          [ 56 ] Partner
                                                               [ 52 ] New York                                                                                         [ 57 ] Dubai
@@ -53,7 +50,7 @@ $ 2 ] [ @ 3 ]                                  [ @ 4 ] PEOPLE      [ @ 5 ] CAPAB
                                                               [ 54 ] +1.212.906.1210                                                                                  [ 59 ] +971.4.704.6403
 
 
-         Salman Al - Sudairi                                                                                     Mary Rose Alexander
+         Salman Al - Sudairi                                                                                      Mary Rose Alexander
                                                               [ @ 60 ] Salman Al - Sudairi                                                                            [ @ 65 ] Mary Rose Alexander
                                                               [ 61 ] Partner                                                                                          [ 66 ] Partner
                                                               [ 62 ] Riyadh                                                                                           [ 67 ] Chicago
@@ -77,7 +74,7 @@ $ 2 ] [ @ 3 ]                                  [ @ 4 ] PEOPLE      [ @ 5 ] CAPAB
                                                               [ 84 ] +44.20.7710.4502                                                                                 [ 89 ] +1.312.876.7724
 
 
-          David S. Allinson                                                                                      José María Alonso
+         David S. Allinson                                                                                        José María Alonso
                                                               [ @ 90 ] David S. Allinson                                                                              [ @ 95 ] José María Alonso
                                                               [ 91 ] Partner                                                                                          [ 96 ] Partner
                                                               [ 92 ] New York                                                                                         [ 97 ] Madrid
@@ -85,7 +82,7 @@ $ 2 ] [ @ 3 ]                                  [ @ 4 ] PEOPLE      [ @ 5 ] CAPAB
                                                               [ 94 ] +1.212.906.1749                                                                                  [ 99 ] +34.91.791.5113
 
 
-          Marissa Alter - Nelson                                                                                  Carlos Alvarez
+         Marissa Alter - Nelson                                                                                   Carlos Alvarez
                                                               [ @ 100 ] Marissa Alter - Nelson                                                                        [ @ 105 ] Carlos Alvarez
                                                               [ 101 ] Partner                                                                                         [ 106 ] Partner
                                                               [ 102 ] New York                                                                                        [ 107 ] New York
@@ -95,8 +92,7 @@ $ 2 ] [ @ 3 ]                                  [ @ 4 ] PEOPLE      [ @ 5 ] CAPAB
          Melissa S. Alwang
                                                                                                                                                                       [ @ 115 ] Arash Aminian
                                                               [ @ 110 ] Melissa S. Alwang
-                                                                                                                                                                      Baghai
-                                                              [ 111 ] Partner
+                                                              [ 111 ] Partner                                                                                         Baghai
                                                                                                                                                                       [ 116 ] Partner
                                                               [ 112 ] New York
                                                               [ 113 ] melissa.alwang@lw.com                                                                           [ 117 ] Los Angeles
@@ -113,10 +109,11 @@ $ 2 ] [ @ 3 ]                                  [ @ 4 ] PEOPLE      [ @ 5 ] CAPAB
 
 
           [ $ 130 ] 1 [ $ 131 ] 2  [ $ 132 ] 3  [ $ 133 ] 4 [ $ 134 ] 5 [ $ 135 ]
+                                                                        >
 
 
 
-          [ @ 137 ] SUBSCRIBE             [ @ 138 ] NEWSROOM           [ @ 139 ] OFFICES       [ @ 140 ] MEDIA CONTACTS             [ @ 141 ] ABOUT US        [ @ 142 ] ALUMNI       [ @ 143 ] CAREERS
+          [ @ 137 ] SUBSCRIBE             [ @ 138 ] NEWSROOM           [ @ 139 ] OFFICES       [ @ 140 ] MEDIA CONTACTS             [ @ 141 ] ABOUT US         [ @ 142 ] ALUMNI      [ @ 143 ] CAREERS
 
 
        [ 186 ] The Cookies We Use
@@ -125,9 +122,10 @@ $ 2 ] [ @ 3 ]                                  [ @ 4 ] PEOPLE      [ @ 5 ] CAPAB
       improve it, but we will only do so with your consent. We use a cookie to remember your preferences.   go,  [ @ 156 ] Dubai, [ @ 157 ] Düsseldorf, [ @ 158 ] Frankfurt, [ @ 159 ] Hamburg, [ @ 160 ] Hong Kong,
       You can access and change your preferences at any time by clicking on the gear icon. [ @ 188 ] Cookie
       Policy                                                                                                2166 ] Manchester GSO,   [ @ 167 ] Milan, [ @ 168 ] Munich, [ @ 169 ] New York, [ @ 170 ] Orange County,
-                                                                                                            n Valley, [ @ 177 ] Singapore, [ @ 178 ] Tel Aviv, [ @ 179 ] Tokyo, and [ @ 180 ] Washington, D.C.
-       [ $ 191 ] Cookies Settings                                  [ $ 190 ] ACCEPT ALL COOKIES
-                                                                                                             182 ] Site Map  [ @ 183 ] Privacy  [ @ 184 ] Scam Warning   [ @ 185 ] Attorney Advertising & Terms of Use
+                                                                                                            n Valley, [ @ 177 ] Singapore, [ @ 178 ] Tel Aviv, [ 179 ] Tokyo, and [ @ 180 ] Washington, D.C.
+       [ $ 191 ] Cookies Settings
+                                                                   [ $ 190 ] ACCEPT ALL COOKIES
+                                                                                                             182 ] Site Map   [ @ 183 ] Privacy [ @ 184 ] Scam Warning   [ @ 185 ] Attorney Advertising & Terms of Use
                                                                    [ $ 189 ] REJECT ALL COOKIES
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1839
+Token count: 1835

@@ -1,5 +1,5 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 122 ]                         ㅁ                                                                                                                                                   [ @ 1 ] ONE EQUITY PARTNERS
+- [ @ 0 ]                                                                                                                                             [ @ 1 ] ONE EQUITY PARTNERS
 
 
                                                                                           [ @ 2 ]
@@ -7,8 +7,8 @@
 
                                              [ @ 3 ] Home      [ @ 4 ] About Us      [ @ 10 ] Services     [ @ 15 ] Our Hospitals       [ @ 16 ] FAQs      [ @ 17 ] Careers      [ @ 18 ] Contact Us
 
-                                     [ 19 ] All [ 20 ] Arizona   [ 21 ] California [ 22 ] Colorado  [ 23 ] Idaho  [ 24 ] Indiana   [ 25 ] Montana    [ 26 ] New Mexico    [ 27 ] Ohio
-                                     [ 28 ] South Carolina   [ 29 ] Texas  [ 30 ] Utah  [ 31 ] Wisconsin   [ 32 ] Wyoming
+                                     [ 19 ] All [ 20 ] Arizona   [ 21 ] California [ 22 ] Colorado   [ 23 ] Idaho  [ 24 ] Indiana   [ 25 ] Montana    [ 26 ] New Mexico    [ 27 ] Ohio
+                                     [ 28 ] South Carolina   [ 29 ] Texas  [ 30 ] Utah   [ 31 ] Wisconsin   [ 32 ] Wyoming
                                   [ @ 33 ]                                                    [ @ 35 ]                                                    [ @ 37 ]
 
 
@@ -186,6 +186,6 @@
                                   [ @ 109 ] Read More
 
 
-                                  [ 121 ] © Copyright - Ernest Health | 1024 N. Galloway Ave., Suite 102, Mesquite, Texas 75149                                                                              ㅁ
+                                  [ 121 ] © Copyright - Ernest Health | 1024 N. Galloway Ave., Suite 102, Mesquite, Texas 75149                                                                              [ @ 1
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1444
+Token count: 1442

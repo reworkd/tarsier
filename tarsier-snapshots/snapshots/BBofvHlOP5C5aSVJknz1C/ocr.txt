@@ -34,7 +34,7 @@
 
                                 [ 36 ] 2017 Government Notices
                            [ 37 ] Title
-                          [ @ 38 ] Government Notice No. 41321,15 December 2017: SASA                                        [ @ 39 ] Download
+                           [ @ 38 ] Government Notice No. 41321, 15 December 2017: SASA                                      [ @ 39 ] Download
                            [ @ 40 ] Government Notice No. 40667,04 March 2017                                                [ @ 41 ] Download
                            [ @ 42 ] Government Notice No. 41321, 15 December 2017: NEPA                                      [ @ 43 ] Download
 
@@ -284,4 +284,4 @@
 
                        [ 453 ] Copyright: Department of Basic Education 2021 [ @ 454 ] Terms Of Use [ @ 455 ] Privacy Statement
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 6472
+Token count: 6473

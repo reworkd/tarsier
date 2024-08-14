@@ -1,68 +1,69 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ ] [ @ 1 ]                                                                                                                                                 [ 2 ] +92519219971           [ 4 ] info@moitt.gov.pk
-                     [ @ 5 ]
-                                                [ 6 ] MINISTRY OF INFORMATION TECHNOLOGY & TELECOMMUNICATION                                                                                                       [ # 8 ]
-                                                [ 7 ] Government of Pakistan                                                                                                                                               [ $ 9 ]
+                                     [ @ 5 ]  JMINISTRY OF INFORMATION TECHNOLOGY & TELECOMMUNICATION
+                                                                                                                                                                                                                   [ # 6 ]
+                                     Government of Pakistan                                                                                                                                                                [ $ 7 ]
                                                                                                                                                                                       Click to Search
-                        [ @ 10 ] Home      [ @ 11 ] About Us       [ @ 12 ] News & Events          [ @ 13 ] Policies      [ @ 14 ] Legislation       [ @ 15 ] Projects       [ @ 16 ] Public Notice       [ @ 17 ] Feedback
-                        [ @ 18 ] Careers & Training        [ @ 19 ] Contact Us
+                        [ @ 8 ] Home     [ @ 9 ] About Us        [ @ 10 ] News Events           [ @ 11 ] Policies       [ @ 12 ] Legislation      [ @ 13 ] Projects       [ @ 14 ] Public Notice        [ @ 15 ] Feedback
+                        [ @ 16 ] Careers & Training        [ @ 17 ] Contact Us
 
-                                                                                                           [ 20 ] REGULATIONS
+                                                                                                           [ 18 ] REGULATIONS
 
-                       [ 21 ] Sr. No [ 22 ] Regulations
-                          [ 23 ]       [ @ 24 ] Access Promotion ( Amendment ) Regulations, 2016
-                          [ 25 ] 2     [ @ 26 ] Telecom Consumer Protection ( Amendment ) Regulations, 2016
-                          [ 27 ]       [ @ 28 ] Regulations for Technical Implementation of Mobile Banking, 2016
-                          [ 29 ]       [ @ 30 ] Class Licensing & Registration ( Amendment ) Regulations, 2016
-                          [ 31 ] 5     [ 32 ] Broadband Quality of Service Regulations, 2014
-                          [ 33 ] 6     [ @ 34 ] Telecom Consumers Protection ( Amendment ) Regulations, 2012
-                          [ 35 ] 7     [ @ 36 ] Subscriber Antecedents Verification ( 2nd Amendment ) Regulations, 2012
-                          [ 37 ] 8     [ @ 38 ] Cellular Mobile Network Quality of Service ( Amendment ) Regulations, 2012
-                          [ 39 ] 9     [ @ 40 ] Pakistan Telecommunication Authority ( Functions & Powers ) ( Amendment ) Regulations, 2012
-                          [ 41 ] 10    [ @ 42 ] Telecommunication and Terminal Equipment Installer Regulations, 2012
-                          [ 43 ] 11    [ @ 44 ] Subscribers Antecedents Verification ( Amendment ) Regulations, 2012
-                          [ 45 ] 12    [ @ 46 ] Mobile Virtual Network Operation ( MVNO ) Regulations, 2012
-                          [ 47 ] 13    [ @ 48 ] Telecom Consumer Protection ( Amendment ) Regulations, 2011
-                          [ 49 ] 14    [ @ 50 ] Numbering Allocation and Administration Regulations, 2011
-                         [ 51 ] 15     [ @ 52 ] Cellular Mobile Quality of Service Regulations, 2011
-                         [ 53 ] 16     [ 54 ] Access Promotion Regulations, 2005
-                          [ 55 ] 17    [ 56 ] Access Promotion Regulations, 2005 Amendments
-                          [ 57 ] 18    [ 58 ] Subscribers Antecedents Verification Regulations, 2010
-                          [ 59 ] 19   [ [ 60 ] GPRS / EDGE Service Quality of Service Standards Regulations, 2010
-                          [ 61 ] 20    [ 62 ] Telecommunication System Clock
-                          [ 63 ] 21    [ 64 ] Telecom Consumers Protection ( Amendment ) Regulations, 2010
-                         [ 65 ] 22     [ 66 ] Amendment in Class Licensing and Registration Regulations
-                          [ 67 ] 23    [ 68 ] Monitoring and Reconciliation of Telephony Traffic Regulations, 2010
-                          [ 69 ] 24    [ 70 ] Interconnection Dispute Resolution ( Amendment ) Regulations, 2010
-                         [ 71 ] 25     [ 72 ] Protection from SPAM, Unsolicited fraudulent and obnoxious communication Regulations 2009
-                          [ 73 ] 26    [ 74 ] Telecom Consumer Protection Regulations 2009
-                          [ 75 ] 27    [ 76 ] Protection from Health Related Effects of Radio Base Station Antenna Regulations 2008
-                          [ 77 ] 28    [ 78 ] Monitoring and Reconciliation of International Telephony Traffic Regulations 2008
-                          [ 79 ] 29   [ [ 80 ] Amendments - PTA ( Functions & Powers ), Regulations 2006
-                         [ 81 ] 30     [ 82 ] Amendments - Class Licensing and Registration Regulations 2007
+                       [ 19 ] Sr. No [ 20 ] Regulations
+                          [ 21 ]       [ @ 22 ] Access Promotion ( Amendment ) Regulations, 2016
+                          [ 23 ] 2     [ @ 24 ] Telecom Consumer Protection ( Amendment ) Regulations, 2016
+                          [ 25 ]       [ @ 26 ] Regulations for Technical Implementation of Mobile Banking, 2016
+                          [ 27 ]       [ @ 28 ] Class Licensing & Registration ( Amendment ) Regulations, 2016
+                          [ 29 ] 5     [ 30 ] Broadband Quality of Service Regulations, 2014
+                          [ 31 ] 6     [ @ 32 ] Telecom Consumers Protection ( Amendment ) Regulations, 2012
+                          [ 33 ] 7     [ @ 34 ] Subscriber Antecedents Verification ( 2nd Amendment ) Regulations, 2012
+                          [ 35 ] 8     [ @ 36 ] Cellular Mobile Network Quality of Service ( Amendment ) Regulations, 2012
+                          [ 37 ] 9     [ @ 38 ] Pakistan Telecommunication Authority ( Functions & Powers ) ( Amendment ) Regulations, 2012
+                          [ 39 ] 10    [ @ 40 ] Telecommunication and Terminal Equipment Installer Regulations, 2012
+                          [ 41 ] 11    [ @ 42 ] Subscribers Antecedents Verification ( Amendment ) Regulations, 2012
+                          [ 43 ] 12    [ @ 44 ] Mobile Virtual Network Operation ( MVNO ) Regulations, 2012
+                          [ 45 ] 13    [ @ 46 ] Telecom Consumer Protection ( Amendment ) Regulations, 2011
+                          [ 47 ] 14    [ @ 48 ] Numbering Allocation and Administration Regulations, 2011
+                         [ 49 ] 15     [ @ 50 ] Cellular Mobile Quality of Service Regulations, 2011
+                          [ 51 ] 16    [ 52 ] Access Promotion Regulations, 2005
+                          [ 53 ] 17    [ 54 ] Access Promotion Regulations, 2005 Amendments
+                          [ 55 ] 18    [ 56 ] Subscribers Antecedents Verification Regulations, 2010
+                          [ 57 ] 19    [ 58 ] GPRS / EDGE Service Quality of Service Standards Regulations, 2010
+                          [ 59 ] 20    [ 60 ] Telecommunication System Clock
+                          [ 61 ] 21    [ 62 ] Telecom Consumers Protection ( Amendment ) Regulations, 2010
+                          [ 63 ] 22    [ 64 ] Amendment in Class Licensing and Registration Regulations
+                         [ 65 ] 23    [ [ 66 ] Monitoring and Reconciliation of Telephony Traffic Regulations, 2010
+                         [ [ 67 ] 24   [ 68 ] Interconnection Dispute Resolution ( Amendment ) Regulations, 2010
+                          [ 69 ] 25    [ 70 ] Protection from SPAM, Unsolicited fraudulent and obnoxious communication Regulations 2009
+                          [ 71 ] 26    [ 72 ] Telecom Consumer Protection Regulations 2009
+                          [ 73 ] 27    [ 74 ] Protection from Health Related Effects of Radio Base Station Antenna Regulations 2008
+                          [ 75 ] 28   [ [ 76 ] Monitoring and Reconciliation of International Telephony Traffic Regulations 2008
+                          [ 77 ] 29   [ [ 78 ] Amendments - PTA ( Functions & Powers ), Regulations 2006
+                         [ 79 ] 30    [ [ 80 ] Amendments - Class Licensing and Registration Regulations 2007
 
 
-                     [ 83 ] Quick Links                                                     [ 91 ] Find Us                                                          [ 92 ] Get in Touch
+                     [ 81 ] Quick Links                                                     [ 89 ] Find Us                                                          [ 90 ] Get in Touch
 
-                      [ @ 84 ] Official Email Login                                                                                                                 [ # 93 ]
-                      [ @ 85 ] National Job Portal ( NJP )                                                                                                            Enter Name
+                      [ @ 82 ] Official Email Login                                                                                                                 [ # 91 ]
+                      [ @ 83 ] National Job Portal ( NJP )                                                                                                            Enter Name
                                                                                             House
-                      [ @ 86 ] Electronic Certification Accreditation Council ( ECAC )      باؤل پنجاب
-                                                                                                                                   PAEC Headquarters                [ # 94 ]
+                      [ @ 84 ] Electronic Certification Accreditation Council ( ECAC )      باؤل پنجاب
+                                                                                                                                   PAEC Headquarters                [ # 92 ]
                                                                                                                                        کوارٹرز ہیڈ سی ای اے پی
-                      [ @ 87 ] Pakistan Telecommunication Authority                                                                                                   Enter Email
+                      [ @ 85 ] Pakistan Telecommunication Authority                                                                                                   Enter Email
                                                                                                        Aviation Division
-                      [ @ 88 ] Pakistan Software Houses Association ( PASHA )                            Kohsar Block,           Ministry of
-                                                                                                       Pak Secretariat           Human Rights                       [ # 95 ]
-                      [ @ 89 ] Frequency Allocation Board                                                   پاک ، بلاک کہسار     حقوق انسانی وزارت    Intellige
-                                                                                                                سیکریٹیریٹ                                            Enter Subject
-                      [ @ 90 ] Establishment of Public Complaints Resolution Mechanism
-                                                                                            Sindh house colony flats                                                [ # 96 ]
+                      [ @ 86 ] Pakistan Software Houses Association ( PASHA )                            Kohsar Block,           Ministry of
+                                                                                                       Pak Secretariat           Human Rights                       [ # 93 ]
+                      [ @ 87 ] Frequency Allocation Board                                                   پاک ، بلاک کہسار     حقوق انسانی وزارت    Intellige
+                                                                                                                سیکریٹیریٹ
+                                                                                                                                                                      Enter Subject
+                      [ @ 88 ] Establishment of Public Complaints Resolution Mechanism
+                                                                                            Sindh house colony flats                                                [ # 94 ]
                                                                                                                                       BISP Headquarters               Enter Message ( Max words 250 )
 
                                                                                                                                             Economic Affairs
-                                                                                                                                                                                                                    [ $ 97 ] SUBMIT
+                                                                                                                                                                                                                    [ $ 95 ] SUBMIT
 
-                     [ 98 ] Copyright © 2023, Ministry of IT and Telecom. All Rights Reserved
+                     [ 96 ] Copyright © 2023, Ministry of IT and Telecom. All Rights Reserved
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1249
+Token count: 1248

@@ -75,7 +75,6 @@
 
 
                         [ 34 ] Hybrid work at Stripe
-
                         [ 35 ] Our Chicago, Dublin, and Singapore teams spend at least 50 % of their time in their
                         local offices. We believe that more in - person interactions will contribute to better results
                         for our employees and Stripe. Increased office time allows for improved collaboration,
@@ -99,14 +98,15 @@
 
 
 
-                         **[ 46 ] We look forward to hearing from you**
+                         [ 46 ] We look forward to hearing from you
+
                          [ 47 ] At Stripe, we're looking for people with passion, grit, and integrity. You're encouraged to
                          apply even if your experience doesn't precisely match the job description. Your skills and
                          passion will stand out - and set you apart - especially if your career has taken some
                          extraordinary twists and turns. At Stripe, we welcome diverse perspectives and people who
                          think rigorously and aren't afraid to challenge assumptions. Join us.
 
-                           [ 48 ] Apply Now >
+                           [ @ 48 ] Apply Now >
 
 
 
@@ -116,7 +116,7 @@
 
 
                         [ @ 49 ]                          [ 114 ] Products                  [ 139 ] Solutions                [ 161 ] Resources
-                        Strine [ $ 50 ] United States     [ @ 115 ] Atlas                  [ @ 140 ] Startups                [ @ 162 ] Guides
+                        strine [ $ 50 ] United States     [ @ 115 ] Atlas                  [ @ 140 ] Startups                [ @ 162 ] Guides
                            [ $ 97 ] English ( United States ) [ @ 116 ] Billing            [ @ 141 ] Enterprises             [ @ 163 ] Customer Stories
                                                           [ @ 117 ] Capital                [ @ 142 ] SaaS                    [ @ 164 ] Blog
                                                           [ @ 118 ] Checkout               [ @ 143 ] Platforms               [ @ 165 ] Annual Conference
@@ -125,7 +125,7 @@
                                                           [ @ 121 ] Corporate Card         [ @ 146 ] Crypto                  [ @ 168 ] Sitemap
                                                           [ @ 122 ] Data Pipeline           [ @ 147 ] Creator Economy        [ @ 169 ] Cookie Settings
                                                           [ @ 123 ] Elements               [ @ 148 ] Embedded Finance        [ @ 170 ] Your Privacy Choices
-                                                          [ @ 124 ] Financial Connections   [ @ 149 ] Global Businesses      [ @ 171 ] Coverage transparency
+                                                          [ @ 124 ] Financial Connections  [ @ 149 ] Global Businesses.      [ @ 171 ] Coverage transparency
                                                           [ @ 125 ] Identity               [ @ 150 ] Finance Automation
                                                           [ @ 126 ] Invoicing                                                [ 172 ] Company
                                                                                            [ 151 ] Integrations & Custom     [ @ 173 ] Jobs
@@ -145,9 +145,9 @@
                                                           [ @ 135 ] Sigma
                                                                                            [ @ 158 ] API Status              [ 181 ] +1 888 926 2289
                                                           [ @ 136 ] Tax
-                       **THE**                                                              [ @ 159 ] API Changelog
+                         **THE**                                                            [ @ 159 ] API Changelog
                                                           [ @ 137 ] Terminal
                                                                                            [ @ 160 ] Build a Stripe App.
-                        [ 113 ] 2023 Stripe, Inc.         [ @ 138 ] Treasury
+                        [ 113 ] 2023 Stripe, Inc ..       [ @ 138 ] Treasury
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1891
+Token count: 1892

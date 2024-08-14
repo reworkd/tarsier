@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 0 ] Links [ @ 1 ] FAQ's                                                                                       [ # 2 ]
+[ @ 0 ] Links [ @ 1 ] FAQ's                                                                                        [ # 2 ]
                                                                                                                                                                Search                    [ $ 3 ]
 
 
@@ -21,9 +21,9 @@
                                                 [ @ 23 ] Acts administrated by the Minister of Police, supplied by JUTA
                                                 [ @ 24 ] 2010 FIFA World Cup SA Special Measures Act, 2006 ( Act No. 11 of 2006 )
                                                 [ @ 25 ] South African Police Service Amendment Act, 2008 ( Act No. 57 of 2008 )
-                                                    ⚫ [ @ 26 ] Commencement of the South African Police Service Ammendment Act, 2008 ( Act No. 57 of 2008 )
-                                             .  [ @ 27 ] Promotion of Access to Information Act, 2000 ( Act No. 2 of 2000 )
-                                             .   @ 28 ] Films and Publications Act, 1996 ( Act No. 65 of 1996 )
+                                                    • [ @ 26 ] Commencement of the South African Police Service Ammendment Act, 2008 ( Act No. 57 of 2008 )
+                                                [ @ 27 ] Promotion of Access to Information Act, 2000 ( Act No. 2 of 2000 )
+                                             .. [ @ 28 ] Films and Publications Act, 1996 ( Act No. 65 of 1996 )
                                              ....      [ @ 29 ] Amendments: Child Pornography Offences
                                                 [ @ 30 ] Protection of Constitutional Democracy Against Terrorist and Related Activities Act, 2004 ( Act No. 33 of 2004 )
                                                 [ @ 31 ] Liquor Act, 2003 ( Act No. 59 of 2003 )
@@ -47,4 +47,4 @@
                                                [ @ 43 ] Be Alert!                   IE 7 and higher                                                   [ 58 ] GPS Coordinates: S25.74790 E28.18901
                                                [ @ 44 ] Crime Stop
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 872
+Token count: 867

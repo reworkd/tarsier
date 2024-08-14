@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 1 ]                                                                                                                       [ @ 10 ] Log in 7
-                              [ $ 3 ] Research [ $ 4 ] API✓ [ $ 5 ] ChatGPT   [ @ 6 ] Safety [ $ 7 ] Company ✓     [ $ 8 ] Search
+[ @ 1 ]                                                                                                                      [ @ 10 ] Log in 7
+                              [ $ 3 ] Research  [ $ 4 ] API✓ [ $ 5 ] ChatGPT ✓ [ @ 6 ] Safety [ $ 7 ] Company ✓    [ $ 8 ] Search
        OpenAl                                                                                                                     [ @ 11 ] Try ChatGPT >
 
 
@@ -97,7 +97,7 @@
 
 
    [ @ 57 ]                                                [ 58 ] Research             [ 63 ] API                  [ 68 ] ChatGPT             [ 72 ] Company
-      **OpenAl**                                           [ @ 59 ] Overview           [ @ 64 ] Overview           [ @ 69 ] Overview           [ @ 73 ] About
+      OpenAl                                               [ @ 59 ] Overview           [ @ 64 ] Overview           [ @ 69 ] Overview           [ @ 73 ] About
                                                            [ @ 60 ] Index              [ @ 65 ] Data privacy       [ @ 70 ] Enterprise         [ @ 74 ] Blog
                                                            [ @ 61 ] GPT - 4            [ @ 66 ] Pricing            [ @ 71 ] Try ChatGPT >      [ @ 75 ] Careers
                                                            [ @ 62 ] DALL - E 3         [ @ 67 ] Docs 7                                        [ @ 76 ] Charter
@@ -114,4 +114,4 @@
    [ @ 82 ] Privacy policy
    [ @ 83 ] Brand guidelines                               [ $ 89 ] Back to top ↑
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1477
+Token count: 1476

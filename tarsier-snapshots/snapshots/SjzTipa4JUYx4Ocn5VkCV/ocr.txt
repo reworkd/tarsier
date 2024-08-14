@@ -108,7 +108,7 @@ ANTHROPIC
                                                   [ 58 ] The easiest way to understand our research directions is to read our [ @ 67 ] recent research [ 59 ]. This research
                                                  continues many of the directions our team worked on prior to Anthropic, including: [ @ 68 ] GPT - 3 [ 60 ],
                                                   [ @ 69 ] Circuit - Based Interpretability [ 61 ], [ @ 70 ] Multimodal Neurons [ 62 ], [ @ 71 ] Scaling Laws [ 63 ], [ @ 72 ] AI
-                                                 & Compute [ 64 ], [ @ 73 ] Concrete Problems in AI Safety [ 65 ], and [ @ 74 ] Learning from Human Preferences [ 66 ].
+                                                 & Compute [ 64 ], [ @ 73 ] Concrete Problems in AI Safety [ 65 ], and [ @ 74 ] Learning from Human Preferences [ 66 ] ].
 
                                                   [ 75 ] Come work with us!
                                                   [ 76 ] Anthropic is a public benefit corporation based in San Francisco. We offer competitive compensation and
@@ -125,4 +125,4 @@ ANTHROPIC
 
                                                                                        [ @ 78 ] ] Jobs powered by   LEVER
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1964
+Token count: 1965

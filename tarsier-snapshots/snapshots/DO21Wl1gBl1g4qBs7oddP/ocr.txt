@@ -1,91 +1,91 @@
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 0 ]                                                                                     [ @ 7 ] Newsletter  [ 8 ] Contact                                                 [ 14 ] myInfineon     [ @ 25 ]  Cart
-                                                                                                                                                      [ 9 ] Where to Buy [ 10 ] English
-                      infineon
-                                           [ @ 1 ] Products           [ @ 2 ] Applications           [ @ 3 ] Design Support                [ @ 4 ] Community             [ @ 5 ] About Infineon             [ @ 6 ] Careers
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 0 ]                                                                                                                                                                                                      @ 25 ] Cart
+                                                                                                                    [ @ 7 ] Newsletter   [ @ 8 ] Contact  [ @ 9 ] Where to Buy [ 10 ] English          [ 14 ] myInfineon        [
+                      Infineon
+                                            [ @ 1 ] Products           [ @ 2 ] Applications             [ @ 3 ] Design Support                [ @ 4 ] Community              [ @ 5 ] About Infineon              [ @ 6 ] Careers
 
 
 
-             All
+              All
 
 
 
-                    All
+                     All
 
 
 
-                    Products
+                     Products
 
 
 
-                    Applications
+                     Applications
 
-                    Design Support
-
-
-
-                    Downloads
+                     Design Support
 
 
 
-                    Careers
+                     Downloads
 
 
 
-                    Press
+                     Careers
 
 
 
-                    Cross Reference
+                     Press
+
+
+
+                     Cross Reference
                       ☑
-                    Discontinued Products
+                     Discontinued Products
 
 
 
-                        Search                     **Q**
+                        Search                       **Q**
 
-                      [ @ 69 ] Home       [ @ 70 ] Products       [ @ 71 ] Power       [ @ 72 ] MOSFET ( SI / SIC )     [ @ 73 ] Silicon Carbide CoolSICTM MOSFET            [ @ 74 ] Silicon Carbide MOSFET Modules
-                      [ 75 ] DF14MR12W1M1HF_B67
-                                                                                                                                                                                                             Follow
-                      **[ 76 ] DF14MR12W1M1HF_B67**                                                                                                                                                Follow this page to get the
-                                                                                                                                                                                                    latest updates about new
-                                                                                                                                                                                                         documentation
-                   [ @ 77 ] Overview                   [ 86 ] Booster 1200 V CoolSiC TM MOSFET Module
-                   [ @ 78 ] Diagrams                   [ @ 89 ] EasyPACKTM 1B [ 87 ] 1200 V, 27 m2 and 2 MPPTs booster module with                                                                        [ @ 113 ] Buy online
-                   [ @ 79 ] Parametrics                [ @ 90 ] CoolSiC ™ MOSFET [ 88 ] enhanced generation 1, NTC and [ @ 91 ] PressFIT Contact Technology
-                   [ @ 80 ] Documents                                                                                                                                                           [ @ 114 ]
-                                                        [ 92 ] Summary of Features                                          [ 105 ] Benefits                                                            Download Data
-                   [ @ 81 ] Order
-                                                          [ 93 ] Best - in - class packages with 12 mm height                  [ 106 ] Outstanding module efficiency which                              Sheet
-                   [ @ 82 ] Design Support                                                                                    enables system cost advantages
-                                                       ⚫ [ 94 ] Combination of leading edge WBG material                                                                                          [ @ 115 ] EN
-                   [ @ 83 ] Videos                        and Easy module packages                                             [ 107 ] System efficiency improvement for                          [ @ 116 ] DE    @ 117 ] CN
-                                                                                                                                                                                                                 [
-                                                       •                                                                      reduced cooling requirements                                         @ 118 ] JA
-                   [ @ 84 ] Training                      [ 95 ] Very low module stray inductance                                                                                                 [
-                                                       •                                                                       [ 108 ] Enabling higher frequency to Increase                       [ 119 ] Share
-                                                          [ 96 ] Wide RBSOA
-                   [ @ 85 ] Support                                                                                           power density                                                     [ 120 ] 00 10 | 2022-11-24 | pdf |
-                                                       •  [ 97 ] 1200 V CoolSiC TM MOSFET with enhanced                                                                                         857 KB
-                                                                                                                               [ 109 ] Best cost performance ratio which leads
-                                                          generation 1 trench technology                                      to reduced
-                                                                                                                                            system costs
-                                                       .  [ 98 ] Enlarged recommended gate drive voltage
-                                                          window from +15 ... + 18 V & 0 ...- 5 V                                                                                               [ @ 121 ]
-                                                       .  [ 99 ] Extended maximum gate - source voltages
-                                                          of +23 V and -10 V
-                                                       ⚫ [ 100 ] [ 102 ] vjop [ 101 ] under overload condition
-                                                          up to 175 ° C
-                                                          [ 103 ] PressFIT pins                                                                                                                                   lafineon ay 18
-                                                                                                                                                                                                               Cool MOSFET
-                                                       •  [ 104 ] Integrated NTC temperature sensor
-                                                                                                                                                                                                   ☐
-                                                                                                                                                                                                                      Typical appearance
-                                                       [ 110 ] Applications
-                                                         [ @ 111 ] Photovoltaic
+                      [ @ 69 ] Home        [ @ 70 ] Products       [ @ 71 ] Power        [ @ 72 ] MOSFET ( SI / SIC )      [ @ 73 ] Silicon Carbide CoolSIC TM MOSFET            [ @ 74 ] Silicon Carbide MOSFET Modules
+                       [ 75 ] DF14MR12W1M1HF_B67
 
-                                                       [ 112 ] Designers who used this product also designed with
+                                                                                                                                                                                                                   Follow
+                      **[ 76 ] DF14MR12W1M1HF_B67**                                                                                                                                                     Follow this page to get the
+                                                                                                                                                                                                        latest updates about new
+                                                                                                                                                                                                              documentation
+                   [ @ 77 ] Overview                     [ 86 ] Booster 1200 V CoolSiC TM MOSFET Module
+                    [ @ 78 ] Diagrams                    [ @ 89 ] EasyPACKTM 1B [ 87 ] 1200 V, 27 m2 and 2 MPPTs booster module with                                                                          [ @ 113 ] Buy online
+                   [ @ 79 ] Parametrics                  [ @ 90 ] CoolSIC ™ MOSFET [ 88 ] enhanced generation 1, NTC and [ 91 ] PressFIT Contact Technology
+                   [ @ 80 ] Documents                                                                                                                                                                         [ @ 114 ] Download
+                                                         [ 92 ] Summary of Features                                            [ 105 ] Benefits                                                                      Sheet
+                                                                                                                                                                                                              Data
+                    [ @ 81 ] Order
+                                                            [ 93 ] Best - in - class packages with 12 mm height                   [ 106 ] Outstanding module efficiency which
+                    [ @ 82 ] Design Support                                                                                       enables system cost advantages                                       [ @ 115 ] EN
+                                                            [ 94 ] Combination of leading edge WBG material                                                                                            @ 116 ] DE [ @ 117 ] CN
+                                                                                                                                                                                                       [
+                   [ @ 83 ] Videos                          and Easy module packages                                              [ 107 ] System efficiency improvement for                            [ @ 118 ] JA
+                                                                                                                                  reduced cooling requirements                                          119 ] Share
+                   [ @ 84 ] Training                    ⚫ [ 95 ] Very low module stray inductance                                                                                                       [
+                                                         •   96 ] Wide RBSOA                                                      [ 108 ] Enabling higher frequency to Increase                      [ 120 ] 00 10 | 2022-11-24 | pdf |
+                                                            [                                                                                                                                        857 KB
+                   [ @ 85 ] Support                                                                                               power density
+                                                         •  [ 97 ] 1200 V CoolSiCTM MOSFET with enhanced
+                                                                                                                                  [ 109 ] Best cost performance ratio which leads
+                                                            generation 1 trench technology                                        to reduced
+                                                                                                                                                system costs
+                                                         •  [ 98 ] Enlarged recommended gate drive voltage                                                                                           [ @ 121 ]
+                                                            window from +15 ... + 18 V & 0 ...- 5 V
+                                                         •  [ 99 ] Extended maximum gate - source voltages
+                                                            of +23 V and -10 V
+                                                        ⚫ [ 100 ] [ 102 ] vjop [ 101 ] under overload condition
+                                                            up to 175 ° C
+                                                                                                                                                                                                                       Infineon HOSFET ay
+                                                        ⚫ [ 103 ] PressFIT pins                                                                                                                                     Cool
+                                                         •  [ 104 ] Integrated NTC temperature sensor                                                                                                   ☐
+                                                                                                                                                                                                                            Typical appearance
+                                                         [ 110 ] Applications
+                                                           [ @ 111 ] Photovoltaic
 
+                                                         [ 112 ] Designers who used this product also designed with
 
 
 
@@ -96,103 +96,104 @@
 
 
 
-                                                       [ 122 ] Diagrams
-                                                       [ @ 124 ]
 
+                                                         **[ 122 ] Diagrams**
+                                                         [ @ 124 ]
 
 
 
-                                                                                                                                                                本
-                                                                                             °
-                                                                                                                                                                本
-                                                                                             о
-                                                                                                                                                                本
+                                                                                               о
+                                                                                                                                                                     本
+                                                                                               °
 
+                                                                                               °
 
+                                                                                               °
 
+                                                                                                       Z Z                                                                                        ← N
 
 
 
 
 
 
-                                                        **[ 126 ] Parametrics**
 
-                                                         [ 127 ] Parametrics                                                        [ 128 ] DF14MR12W1M1HF_B67
-                                                         [ 129 ] Applications                                                      [ 130 ] ESS; EV Charger; Solar; UPS
-                                                         [ 131 ] ] Configuration                                                    [ 132 ] Booster
-                                                         [ 133 ] Dimensions ( length )                                             [ 134 ] 62.8 mm
-                                                         [ 135 ] Dimensions ( width )                                               [ 136 ] 33.8 mm
-                                                         [ 137 ] Features                                                          [ 138 ] PressFIT
-                                                         [ 139 ] Housing                                                            [ 140 ] Easy 1B
-                                                         [ 141 ] Qualification                                                      [ 142 ] Industrial
-                                                         [ 143 ]   [ 145 ] DS ( on ) [ 144 ] ( @Tj 25 ° C )                         [ 146 ] 27 mQ
+                                                         **[ 126 ] Parametrics**
 
+                                                          [ 127 ] Parametrics                                                          [ 128 ] DF14MR12W1M1HF_B67
+                                                          [ 129 ] Applications                                                         [ 130 ] ESS; EV Charger; Solar; UPS
+                                                          [ 131 ] Configuration                                                        [ 132 ] Booster
+                                                          [ 133 ] Dimensions ( length )                                                [ 134 ] 62.8 mm
+                                                          [ 135 ] Dimensions ( width )                                                 [ 136 ] 33.8 mm
+                                                          [ 137 ] Features                                                             [ 138 ] PressFIT
+                                                          [ 139 ] Housing                                                              [ 140 ] Easy 1B
+                                                          [ 141 ] Qualification                                                        [ 142 ] Industrial
+                                                          [ 143 ] R [ 145 ] DS ( on ) [ 144 ] ( @Tj = 25 ° C )                         [ 146 ] 27 mQ
 
-                                                        [ 147 ] Documents
-                                                         [ @ 149 ] Login [ 148 ] to mylnfineon to see all documents available
 
-                                                       + [ 150 ] Expand all
+                                                         **[ 147 ] Documents**
+                                                           [ @ 149 ] Login [ 148 ] to mylnfineon to see all documents available
 
-                                                        + [ @ 151 ] Data Sheets
+                                                         + [ 150 ] Expand all
 
-                                                        **+ [ @ 152 ] Application Notes**
+                                                         **+ [ @ 151 ] Data Sheets**
 
-                                                        + [ @ 153 ] Product Qualification Report
+                                                         **+ [ @ 152 ] Application Notes**
 
-                                                        + [ @ 154 ] Whitepaper
+                                                         **+ [ @ 153 ] Product Qualification Report**
 
-                                                        **+ [ @ 155 ] Article**
+                                                         + @ 154 ] Whitepaper
 
-                                                       **+ [ @ 156 ] Material Content Data Sheet**
+                                                         **+ [ @ 155 ] Article**
 
-                                                        **+ [ @ 157 ] Editorials**
+                                                         + [ @ 156 ] Material Content Data Sheet
 
-                                                        **+ [ @ 158 ] Product Selection Guide**
+                                                         + [ @ 157 ] Editorials
 
+                                                         **+ [ @ 158 ] Product Selection Guide**
 
-                                                       **[ 159 ] Order**
 
-                                                         [ 160 ] Sales Product Name                  [ 161 ] DF14MR12W1M1HF_B67
-                                                         [ 162 ] OPN        [ 163 ] Info             [ 164 ] DF14MR12W1M1HFB67BPSA1
-                                                         [ 165 ] Product Status                      [ 166 ] active and preferred
-                                                         [ 167 ] Infineon Package name               [ 168 ] AG - EASY1B
-                                                         [ 169 ] Standard Package name
-                                                         [ 170 ] Order online                            [ @ 171 ] Buy or
-                                                         [ 172 ] Completely lead free                [ 173 ] ] no
-                                                         [ 174 ] Halogen free                        [ 175 ] no
-                                                         [ 176 ] RoHS compliant                      [ 177 ] yes
-                                                         [ 178 ] Packing Size                        [ 179 ] 24
-                                                         [ 180 ] Packing Type                        [ 181 ] TRAY
-                                                         [ 182 ] Moisture Level                      [ 183 ] NA
-                                                         [ 184 ] Moisture Packing                    [ 185 ] NON DRY
+                                                         **[ 159 ] Order**
 
+                                                          [ 160 ] Sales Product Name                    [ 161 ] DF14MR12W1M1HF_B67
+                                                          [ 162 ] OPN         [ 163 ] Info              [ 164 ] DF14MR12W1M1HFB67BPSA1
+                                                          [ 165 ] Product Status                        [ 166 ] active and preferred
+                                                          [ 167 ] Infineon Package name                 [ 168 ] AG - EASY1B
+                                                          [ 169 ] Standard Package name
+                                                          [ 170 ] Order online                              [ @ 171 ] Buy
+                                                          [ 172 ] Completely lead free                  [ 173 ] no
+                                                          [ 174 ] Halogen free                         [ 175 ] no
+                                                          [ 176 ] RoHS compliant                        [ 177 ] yes
+                                                          [ 178 ] Packing Size                          [ 179 ] 24
+                                                          [ 180 ] Packing Type                          [ 181 ] TRAY
+                                                          [ 182 ] Moisture Level                        [ 183 ] NA
+                                                          [ 184 ] Moisture Packing                      [ 185 ] NON DRY
 
-                                                        **[ 186 ] Design Support**
 
-                                                           [ # 187 ]  Search for a topic                                                                      [ $ 188 ]   a                             [ @ 189 ] Clear All
-                                                           [ $ 190 ] Application                                   [ $ 191 ] Type
-                                                            No options available                                     [ $ 192 ] Please select
+                                                         **[ 186 ] Design Support**
 
-                                                       [ @ 193 ] All ( 1 )      [ @ 194 ] PCB Design Data ( 1 )
-                                                          [ 195 ] PCB Design Data
-                                                         [ @ 196 ]    [ 197 ] stp                                                                                                                        [ @ 200 ] Download
-                                                                       [ 198 ] DF14MR12W1M1HF_B67 - 3D-
-                                                            ☐         Model                                                                                                               [ 201 ] Share          [ @ 202 ] EN
-                                                                      [ 199 ] 01 00 | 2023-02-13 | 3.4 MB
+                                                             [ # 187 ]  Search for a topic                                                                        [ $ 188 ]   Q                              [ @ 189 ] Clear All
+                                                             [ $ 190 ] Application                                   [ $ 192 ] Type
+                                                               [ $ 191 ] No options available                          [ $ 193 ] Please select
 
+                                                         [ @ 194 ] All ( 1 )     [ @ 195 ] PCB Design Data ( 1 )
+                                                           [ 196 ] PCB Design Data
+                                                           [ @ 197 ]    [ 198 ] stp                                                                                                                           [ @ 201 ] Download
+                                                                        [ 199 ] DF14MR12W1M1HF_B67 - 3D-
+                                                              ☐         Model                                                                                                                  [ 202 ] Share           [ @ 203 ] EN
+                                                                        [ 200 ] 01 00 | 2023-02-13 | 3.4 MB
 
-                                                        **[ 203 ] Videos**
 
-                                                        + [ @ 204 ] PressFIT technology
+                                                         **[ 204 ] Videos**
 
-                                                        **+ [ @ 205 ] CoolSiC TM MOSFET 1200 V M1H | webcast**
+                                                         + [ @ 205 ] PressFIT technology
 
+                                                         + [ @ 206 ] CoolSiC TM MOSFET 1200 V M1H | webcast
 
-                                                       **[ 206 ] Training**
 
-                                                               [ @ 207 ] Introduction to SiC reliability
+                                                         **[ 207 ] Training**
 
+                                                                [ @ 208 ] Introduction to SiC reliability
 
 
 
@@ -209,48 +210,49 @@
 
 
 
-                                                               [ 208 ] This training covers the properties of Silicon Carbide which change the way how an inverter is designed compared to Si - chips. With
-                                                              that in mind, we explain SiC specific degradation mechanisms and how to ensure that SiC devices survive in the application, considering
-                                                              these special failure modes, by applying the reliability tests Infineon developed. These are internally mandatory for SiC device
-                                                              qualifications to ensure better quality, safety, and reliable device performance for years.
+                                                                [ 209 ] This training covers the properties of Silicon Carbide which change the way how an inverter is designed compared to Si - chips. With
+                                                               that in mind, we explain SiC specific degradation mechanisms and how to ensure that SiC devices survive in the application, considering
+                                                                these special failure modes, by applying the reliability tests Infineon developed. These are internally mandatory for SiC device
+                                                                qualifications to ensure better quality, safety, and reliable device performance for years.
 
-                                                        **+ [ @ 209 ] CoolSiCTM MOSFET in servo drive application**
+                                                         + @ 210 ] CoolSiC TM MOSFET in servo drive application
 
-                                                       **+ [ @ 210 ] How to choose gate driver for SiC MOSFETs and SiC MOSFET modules**
+                                                         **+ [ @ 211 ] How to choose gate driver for SiC MOSFETs and SiC MOSFET modules**
 
 
-                                                       **[ 211 ] Support**
+                                                         **[ 212 ] Support**
+                                                         [ # 213 ]
+                                                                                                                                                                                                                                   [ $ 214 ]
+                                                          Search the FAQs! Enter your search terms ...
 
-                                                       [ # 212 ]                                                                                                                                                               [ $ 213 ]
-                                                         Search the FAQs! Enter your search terms ...
+                                                         [ 215 ] Top 6 FAQs. Use the search bar above to show more!
 
-                                                       [ 214 ] Top 6 FAQs. Use the search bar above to show more!
+                                                             [ 216 ] Technical Support                                     [ 231 ] Partner Finder for support,                          [ 236 ] Package information
+                                                                                                                          software, hardware, dev tools, ...
+                                                             [ 217 ] The best way to reach out to our                                                                                   [ 237 ] The package information is
+                                                            Applications Engineers is through our                         [ 232 ] Infineon's global network of                         available on [ @ 239 ] our
+                                                             [ @ 227 ] Infineon Developer                                 partners offer products and services                          homepage [ 238 ]. Please note, that
+                                                            Community                                                     that complement our semiconductor                            they are divided into the subcategories
+                                                             [ 218 ] Our Applications Engineers ...                       device solutions to accelerate your                          " Leaded and through - hole"," Surface ...
+                                                                                                                          development efforts and time to mark ...
+                                                                                      + [ @ 230 ] Read more                                            [ @ 235 ] Read more                                          [ @ 240 ] Read more
 
-                                                           [ 215 ] Technical Support                                    [ 230 ] Partner Finder for support,                         [ 235 ] Package information
-                                                [ 225 ]                                                                software, hardware, dev tools, ...
-                                                           [ 216 ] The best way to reach out to our                                                                                [ 236 ] The package information is
-                                                           Applications Engineers is through our                       [ 231 ] Infineon's global network of                        available on [ @ 238 ] our
-                                                           [ @ 226 ] Infineon Developer                                partners offer products and services                        homepage [ 237 ]. Please note, that
-                                                           Community                                                   that complement our semiconductor                           they are divided into the subcategories
-                                                           [ 217 ] Our Applications Engineers ...                      device solutions to accelerate your                         " Leaded and through - hole"," Surface ...
-                                                                                                                       development efforts and time to mark ...
-                                                                                       [ @ 229 ] Read more                                         [ @ 234 ] Read more                                         [ @ 239 ] Read more
+                                                             [ 241 ] Notes on processing                                   [ 252 ] Design - in support                                  [ 258 ] Simulation
+                                                                                                                                                                                        Parameters / SPICE models
+                                                             [ 242 ] Information regarding reflow                          [ 253 ] We offer design - in support for
+                                                            profile, soldering temperature,                               your application.                                             [ 259 ] Please visit our Simulation Model
+                                                            soldering profile and further processing                      [ 254 ] You can use our Infineon Solution                     Finder on the internet at
+                                                            notes for most of the discrete products                       Finder:                                                       [ @ 263 ] https://www.infineon.com/si
+                                                            are mentioned in the Application Not ...                      [ @ 256 ] https: //www.infineon.com/s ...                     mulation
+                                                                                                                                                                                        [ 260 ] Please select" Simulation Mod ...
+                                                                                      + [ @ 251 ] Read more                                         + [ @ 257 ] Read more                                         + [ @ 264 ] Read more
 
-                                                           [ 240 ] Notes on processing                                  [ 251 ] Design - in support                                [ 257 ] Simulation
-                                                                                                                                                                                   Parameters / SPICE models
-                                                           [ 241 ] Information regarding reflow                        [ 252 ] We offer design - in support for
-                                                           profile, soldering temperature,                             your application.                                            [ 258 ] Please visit our Simulation Model
-                                                           soldering profile and further processing                    [ 253 ] You can use our Infineon Solution                   Finder on the internet at
-                                                           notes for most of the discrete products                     Finder:                                                      [ @ 262 ] https://www.infineon.com/si
-                                                           are mentioned in the Application Not ...                    [ @ 255 ] https: //www.infineon.com/s ...                   mulation
-                                                                                                                                                                                    [ 259 ] Please select" Simulation Mod ....
-                                                                                    + [ @ 250 ] Read more                                       + [ @ 256 ] Read more                                       + [ @ 263 ] Read more
 
+                                                         [ @ 265 ]                                      [ @ 266 ]                                                 Live chat                          [ @ 267 ]
+                                                                                                                   Call us toll - free                            with our Support Center                        Ask our community
+                                                                     Ask for technical support                                a call back                                                                        for support
+                                                                                                                   or request
 
-                                                       [ @ 264 ]                                     [ @ 265 ]                                                Live chat                         [ @ 266 ]
-                                                                                                                Call us toll - free                           with our Support Center                       Ask our community
-                                                                   Ask for technical support                               a call back.                                                                     for support
-                                                                                                                or request
 
 
 
@@ -387,12 +389,11 @@
 
 
 
+                                                                          [ 268 ] Follow us      [ @ 269 ]         [ @ 270 ]         [ @ 271 ]        [ @ 272 ]         [ @ 273 ]
 
-                                                        [ 267 ] Follow us           **[ @ 268 ]**           **[ @ 269 ]**          **[ @ 270 ]**           **[ @ 271 ]**           **[ @ 272 ]**
-
-                                                                                                                                                                                                                                      Start
-                                                                                                                                                                                                                                      Chatbot
-                   [ 273 ] © 1999 - 2023 Infineon Technologies AG              [ @ 274 ] Usage of this website is subject to our Usage Terms        [ @ 275 ] Imprint     [ @ 276 ] Contact     [ @ 277 ] Privacy Policy
-                                                                               [ @ 278 ] Glossary
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                                                                                                                                                            Start
+                                                                                                                                                                                                                                            Chatbot
+                   [ 274 ] © 1999 - 2023 Infineon Technologies AG                [ @ 275 ] Usage of this website is subject to our Usage Terms          [ @ 276 ] Imprint     [ @ 277 ] Contact      [ @ 278 ] Privacy Policy
+                                                                                 [ @ 279 ] Glossary
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Token count: 2495

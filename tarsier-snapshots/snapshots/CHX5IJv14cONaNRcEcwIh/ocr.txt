@@ -14,15 +14,15 @@
                                                                                                                                                                                                           job openings and apply for positions
                                                                                                                                                                                                           online.
                                                                                                                                                                                                            [ 46 ] Wachtell,    Lipton, Rosen & Katz
-                                    New York                        - ( 11 ) Full time
+                                     New York                         -   [ 11 ]   Full   time
                                                                                                                                                                                                              [ $ 47 ] Read More ▾
-                                                                        [ 13 ] Posted 30+ Days Ago
+                                                                         [ 13 ] Posted 30+ Days Ago
                                                                          [ 15 ] 230000048
                                                                                                                                                                                                            [ 48 ] Introduce Yourself
-                    [ 16 ] [ 17 ] Summary:
-                           The Senior Legal Billing and Data Analyst is highly skilled and experienced in billing management, expertise in
-                           E - billing processes, advanced knowledge of the Thomson Reuters 3E product suite as well as experience in                                                                                       [ $ 49 ] Get Started
-                           conflict resolution, collections, and managing unbilled accounts.
+                           [ 17 ] Summary:
+                           [ 16 ] The Senior Legal Billing and Data Analyst is highly skilled and experienced in billing management,
+                           expertise in E - billing processes, advanced knowledge of the Thomson Reuters 3E product suite as well as                                                                                        [ $ 49 ] Get Started
+                           experience in conflict resolution, collections, and managing unbilled accounts.
 
                            [ 18 ] Essential Duties and Responsibilities:
                                •   [ 19 ] Assist with day - to - day operations of the billing team, ensuring accuracy, timeliness, and
@@ -45,7 +45,7 @@
                            [ 29 ] Knowledge, Skills, and Abilities Required:
                                .   [ 30 ] Strong expertise in E - billing systems, electronic invoicing, and compliance with client billing
                                    guidelines.
-                               .   [ 31 ] Advanced user of the Thomson Reuters 3E product suite, Power BI proficiency in generating
+                               .    [ 31 ] Advanced user of the Thomson Reuters 3E product suite, Power BI proficiency in generating
                                    reports and metrics.
                                .   [ 32 ] Experience in collections, with a proven track record of effectively managing outstanding
                                    invoices and resolving payment issues.
@@ -75,6 +75,6 @@
                                                                                                                                  [ @ 50 ] Privacy Policy
 
                                                                                                                                            workday
-                                                                                                                           [ 51 ] 2023 Workday, Inc. All rights reserved.
+                                                                                                                           [ 51 ] © 2023 Workday, Inc. All rights reserved.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1008
+Token count: 1010

@@ -152,7 +152,7 @@
                                                                                                                                                          demanded but [ 125 ] technologically challenging [ 124 ] feature.
                                                                                          Sophina today Beer B to write a task list for each agenda item
 
-                                                                                                                                                                                                                                                      [ @ 133 ]
+                                                                                                                                                                                                                                                       [ @ 133 ]
                                                                        [ 126 ] Intheon
                                                                        [ 127 ] Intheon builds neural [ 129 ] data processing infrastructure [ 128 ] used by
                                                                       labs across the world to simplify their brainwave analysis pipelines.
@@ -172,18 +172,19 @@
                                                                                     PCA      23
 
                                                                                                                                                                                                                  [ @ 149 ]
-                                                                       [ 142 ] Bunch Inc                                                                                                                                                                                                   Time ( s )       27000
+                                                                         142 ] Bunch Inc                                                                                                                                                                                    10000          Time 20000 ( a ) 30000
+                                                                       [
                                                                                                                                                                                                                                                      man, dumb curl, 10lb.12: 00.mp4: Work / Rep Graph
-                                                                                                                                                                                                                                                     Wight b
-                                                                       [ 143 ] Bunch builds enterprise - grade video & [ 145 ] computer                                                                                                              Average PPS
-                                                                      vision [ 144 ] software while exploring related high risk - reward                                                                                                             work  Total: 0.34
+                                                                                                                                                                                                                                                     Weight b
+                                                                       [ 143 ] Bunch builds enterprise - grade video & [ 145 ] computer                                                                                                              Average PPS:
+                                                                      vision [ 144 ] software while exploring related high risk - reward                                                                                                             work  Total: 0.390
                                                                                                                                                                                                                                                           0.067
                                                                       projects.
                                                                                                                                                                                                                                                          0.045
                                                                        [ 146 ] I deployed [ 148 ] tensorflow.js [ 147 ] pose detection models
                                                                       client - side for a project virtualizing expensive gym equipment.                                                                                                                  0015-
 
-                                                                                                                                                                                                                                                                                           Time ( s )                     36000
+                                                                                                                                                                                                                                                                                           Time ( s )
 
 
                                                                   **[ 150 ] Publications**
@@ -302,4 +303,4 @@
                                                                     [ 295 ] The source code for this site is based on [ [ @ 297 ] Andrej Karpathy's personal website [ 296 ].
                                                                     [ 298 ] Feel free to reach out to chat!
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 5120
+Token count: 5121

@@ -5,7 +5,7 @@
                                                          [ 1 ] Engineering Manager, Service
                                                         Foundation
                                                          [ 2 ] at Reddit [ @ 3 ] ( View all jobs )
-                                                         [ 4 ] Toronto, Canada
+                                                        [ 4 ] Toronto, Canada
                                                          [ 5 ] Reddit is a community of communities where people can dive into anything through experiences
                                                         built around their interests, hobbies, and passions. Our mission is to bring community, belonging, and
                                                         empowerment to everyone in the world. Reddit users submit, vote, and comment on content, stories,
@@ -60,30 +60,30 @@
 
                                                                       [ $ 44 ] Phone * [ # 45 ]
 
-                                                                 [ $ 46 ] Resume / CV [ $ 47 ] Attach, [ @ 48 ] Dropbox, [ @ 49 ] Google Drive,
+                                                                  [ $ 46 ] Resume / CV [ $ 47 ] Attach,      [ @ 48 ] Dropbox,     [ @ 49 ] Google Drive,
                                                                                           [ $ 50 ] or enter manually
                                                                                           [ 51 ] ( File types: pdf, doc, docx, txt, rtf )
                                                                  [ $ 52 ] Cover Letter    [ $ 53 ] Attach,   [ @ 54 ] Dropbox,     [ @ 55 ] Google Drive,
-                                                               [ $ 56 ] or enter manually
+                                                                [ $ 56 ] or enter manually
                                                                [ 57 ] ( File types: pdf, doc, docx, txt, rtf )
 
                                                                [ 58 ] LinkedIn Profile
                                                                 [ # 59 ]
 
-                                                               [ 60 ] How did you hear about this job? [ 61 ]
+                                                               [ 60 ] How did you hear about this job? [ 61 ] *
                                                                 [ # 62 ]
 
                                                                [ 63 ] Are you currently authorized to work in Canada? [ 64 ]
                                                                  [ @ 65 ]
                                                                [ # 67 ]
                                                                [ 68 ] Do you now, or will you in the future, require immigration sponsorship to work at Reddit?
-                                                               [ 69 ] *
+                                                                [ 69 ] *
                                                                  [ @ 70 ]
                                                                [ # 72 ]
                                                                [ 73 ] By selecting" I agree," I understand that the information I have provided as part of this job
-                                                               application will be processed in accordance with Reddit's Candidate Privacy Policy. [ [ 74 ]
+                                                               application will be processed in accordance with Reddit's Candidate Privacy Policy. [ 74 ]
                                                                [ @ 75 ] Reddit's Candidate Privacy Policy
-                                                                 [ [ @ 76 ]
+                                                                 [ @ 76 ] ]
                                                                [ # 78 ]
 
                                                                [ 79 ] Reddit Canada Equal Employment Information
@@ -104,40 +104,42 @@
                                                                from all backgrounds.
                                                                 [ 85 ] Answering these questions will not impact your application, nor will this information be
                                                                shared with anyone making a hiring decision.
-                                                               [ 86 ] What gender identity do you most closely identify with? [ [ 87 ] ] *
-                                                               [ $ 8918 ] Agender
-                                                               [ $ 9110 ] Genderfluid
-                                                               [ $ 9312 ] Gender non - conforming
-                                                               [ $ 9514 ) Genderqueer
-                                                               [ $ 9716 ) Female
-                                                               [ $ 991 ] Male
-                                                               [ $ 1011 ] Non - binary
-                                                               [ $ 10312 ] Not listed
+                                                               [ 86 ] What gender identity do you most closely identify with? [ 87 ] *
+                                                               [ $ 89 ] ] Agender
+                                                               [ $ 91 ] ] Genderfluid
+                                                               [ $ 93 ] ] ] Gender non - conforming
+                                                               [ $ 95 ] ] Genderqueer
+                                                               [ $ Fazil 97 ] Female
+                                                               [ $ 99 ] ] ] Male
+                                                               [ $ 101 ] ] Non - binary
+                                                               [ $ 103 ] ] Not listed
                                                                [ $ 105 ] I don't wish to answer
-                                                                [ 106 ] Are you a person of transgender experience? [ 107 ] ( Select one ) [ 108 ] ]
+                                                               [ 106 ] Are you a person of transgender experience? [ 107 ] ( Select one ) [ 108 ] *
                                                                [ $ 110 ] ] Yes
-                                                               [ $ 112 ] No
-                                                               [ $ 1143 ] I don't wish to answer
-                                                               [ 115 ] What sexual orientation do you most closely identify with? [ 116 ] ]
+                                                               [ $ 112 ]  No
+                                                               [ $ 114 114 ] I don't wish   answer
+                                                                [ 115 ] What sexual orientation do you most closely identify with? [ 116 ] ] *
                                                                [ $ 118 ] ] Asexual
-                                                               [ $ 1201 ) Bisexual
-                                                               [ $ 122 ] ] Gay
-                                                               [ $ 12413 ] Heterosexual
-                                                               [ $ 12615 ) Lesbian
-                                                               [ $ 12817 ] Pansexual
-                                                               $ 1301 ] Queer
-                                                                $ 13211 ] Not listed
-                                                               [ $ 13413 ] I don't wish to answer
+                                                               [ $ 120 ]  Bisexual
+                                                               [ $ 1221 ] Gay
+                                                               $ 124 ] ] Heterosexual
+                                                               [
+                                                               [ $ 126 ] Lesbian
+                                                               [ $ 128 ]  Pansexual
+                                                               [ $ 130 ] ] ] Queer
+                                                               [ $ 1321 ] Not listed
+                                                               $ 134 ] ] I don't wish to answer
+                                                               [
 
 
                                                                                                                                                      [ $ 135 ] mit   Application
 
 
-                                                                                                                                              Powered by                greenhouse
-                                                                                                                                       [ 136 ]                [ @ 137 ]
+                                                                                                                                               Powered by               greenhouse
+                                                                                                                                        [ 136 ]               [ @ 137 ]
                                                                                                                                                      Read our            Privacy Policy
-                                                                                                                                             [ 138 ]            [ @ 139 ]
+                                                                                                                                              [ 138 ]           [ @ 139 ]
                                                                                                                                                                                                                                                                                                                         Privacy - Terms
 [ $ 141 ]
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1738
+Token count: 1751

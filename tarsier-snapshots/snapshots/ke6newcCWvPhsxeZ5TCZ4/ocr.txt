@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 11 ] [ @ 1 [ @ ]
-                         [ @ 3 ] About   [ @ 4 ] News     [ @ 5 ] Blog   [ @ 6 ] Give    [ @ 7 ] Contact   [ @ 8 ] Bill Pay  [ @ 9 ] Hospital Pricing  [ @ 10 ] Patient Portal Login
+[ @ 11 ] @ 1 [ 1 ]
+                         [ @ 3 ] About   [ @ 4 ] News     [ @ 5 ] Blog   [ @ 6 ] Give   [ @ 7 ] Contact    [ @ 8 ] Bill Pay  [ @ 9 ] Hospital Pricing [ @ 10 ] Patient Portal Login
                                                                                                                          [ @ 2 ]  [ [ 1 ] ]
            [ @ 14 ] Find a Service / Provider [ @ 15 ] Locations   [ @ 16 ] Services   [ @ 17 ] For Patients  [ @ 18 ] Volunteer   [ @ 19 ] Careers & Education    [ @ 20 ] ( 607 ) 737-4100 ㅁ
 
@@ -29,9 +29,9 @@
 
 
 
-    [ 28 ] St. Joseph's Hospital
+           [ 28 ] St. Joseph's Hospital
 
-      [ 29 ] Founded by the Sisters of St. Joseph of Rochester with the citizens of Elmira, NY, St. Joseph's Hospital is a Catholic community hospital for people of all faiths. Our healthcare
+           [ 29 ] Founded by the Sisters of St. Joseph of Rochester with the citizens of Elmira, NY, St. Joseph's Hospital is a Catholic community hospital for people of all faiths. Our healthcare
           providers practice with a deep respect for the dignity of each person, and strive to heal, as Jesus did, in mind, body, and spirit, all who come to us. As part of Arnot Health, we are
           able to ensure your access to the highest quality care.
 
@@ -55,10 +55,10 @@
 
 
                                                                                                                                                                                     [ # 51 ]
-                      **Arnot Health**                            [ @ 47 ] Patient Portal Login           [ @ 49 ] Privacy
-                          It's what we do                                                                                                                                     [ @ 52 ] [ @ 5: [ @ 54 ]
+                     **Arnot Health**                            [ @ 47 ] Patient Portal Login            [ @ 49 ] Privacy
+                         It's what we do                                                                                                                                      [ @ 52 ] [ @ 5 [ @ 54 ]
            [ @ 46 ]
-                                                                  [ @ 48 ] Social Media Guidelines        [ @ 50 ] Corporate Compliance
-                                                                                                                                                                 [ 55 ] 2023 Arnot Health
+                                                                 [ @ 48 ] Social Media Guidelines         [ @ 50 ] Corporate Compliance
+                                                                                                                                                                  [ 55 ] 2023 Arnot Health
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 711
+Token count: 709

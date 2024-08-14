@@ -1,11 +1,9 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 84 ] [ @ 0 ] ]
+WILSON
+          [ @CONSINI
 
+           ㅁ  [ $ 1 ] MENU
 
-           WILSON
-           SONSINI
-
-           [ $ 1 ] MENU
 
 
 
@@ -22,7 +20,8 @@
                                             [ @ 6 ] hbavasi@wsgr.com
                                                P [ @ 8 ] 206-883-2662
 
-                                                       ㅁ        [ $ 12 ]
+
+                                              [ @ 9 ]        [ $ 10 ]    [ @ 11 ]      [ $ 12 ]
 
                                                                                                                                                          [ 25 ] FOCUS AREAS
                                                                                                                                                          [ @ 26 ] Digital Health
@@ -137,21 +136,21 @@
 
 
 
-                                                                       [ @ 67 ]    Search                                          [ @ 72 ] Alumni
-                                                                       | [ aa2 ] ட          wsgr.com
-                                                                        [  85 ]             T                              Rosati. All Rights Reserved.
-                                                                       [ @ 68 ] INSIGHTS                                           [ @ 73 ] Mailing List Signup
+                                                                        [ @ 67 ]                                                    [ @ 72 ] Alumni
+                                                                       [ ]          Search wsgr.com
+                                                                           @ 80 ]    [ @ 81 ] = [ @ 82 ] = [ @ 83 ]                  [ 84 ] Reserved.
+                                                                        [ @ 68 ] INSIGHTS                                           [ @ 73 ] Mailing List Signup
 
-                                                                       [ @ 69 ] ABOUT US                                           [ @ 74 ] Employee Login
+                                                                        [ @ 69 ] ABOUT US                                           [ @ 74 ] Employee Login
 
-                                                                       **[ @ 70 ] VALERS ON**                                      [ @ 75 ] Client FTP Portal
-                                                                           **SONSINI**                                             [ @ 76 ] Privacy Policy
+                                                                       **[ @ 70 ] MEERS ON**                                        [ @ 75 ] Client FTP Portal
+                                                                             **SONSINI**                                            [ @ 76 ] Privacy Policy
 
-                                                                                                                                   [ @ 77 ] Terms of Use
+                                                                                                                                    [ @ 77 ] Terms of Use
 
-                                                                                                                                   [ 78 ] Accessibility
+                                                                                                                                    [ 78 ] Accessibility
 
      [ 86 ] By clicking" Accept All Cookies," you agree to the storing of cookies on your device to help us analyze traffic, enhance your experience, [ $ 87 ] Cookie Settings [ $ 88 ] Disable All $ 89 ] Accept All Cookies
     and provide you with tailored content.                                                                                                                                              [                               [ $ 90 ]
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1352
+Token count: 1367

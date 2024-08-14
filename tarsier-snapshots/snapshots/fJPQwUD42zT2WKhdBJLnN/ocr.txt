@@ -1,11 +1,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 55 ] [ @ 0 ] ]
+WILSON
+           [ @CONSINI
 
+            ㅁ  [ $ 1 ] MENU
 
-            WILSON
-            SONSINI
-
-            [ $ 1 ] MENU
 
 
 
@@ -23,8 +21,7 @@
                                                [ @ 6 ] salsheimer@wsgr.com
                                                   D [ @ 8 ] 212-453-2832
 
-                                                           ㅁ
-                                              ☐      ☐              [ $ 12 ]
+                                                 [ @ 9 ]         [ $ 10 ]     [ @ 11 ]       [ $ 12 ]
                                                                                                                                                                    [ 17 ] FOCUS AREAS
                                                                                                                                                                    [ @ 18 ] Corporate
                                                                                                                                                                    [ @ 19 ] Corporate Governance
@@ -84,21 +81,21 @@
 
 
 
-                                                                            [ @ 38 ]    Search                                              [ @ 43 ] Alumni
-                                                                            [ τε ] L              wsgr.com
-                                                                             [  56 ]                                               Rosati. All Rights Reserved.
-                                                                            [ @ 39 ] INSIGHTS                                               [ @ 44 ] Mailing List Signup
+                                                                             [ @ 38 ]    Search                                              [ @ 43 ] Alumni
+                                                                              [ * ]                wsgr.com
+                                                                             5 @ 51 ]       [ 52 ]           [ @ 53 ]         [ @ 54 ]        [ 55 ] Reserved.
+                                                                             [ @ 39 ] INSIGHTS                                               [ @ 44 ] Mailing List Signup
 
-                                                                            [ @ 40 ] ABOUT US                                               [ @ 45 ] Employee Login
+                                                                             [ @ 40 ] ABOUT US                                               [ @ 45 ] Employee Login
 
-                                                                            **[ @ 41 ] VATEERS ON**                                         [ @ 46 ] Client FTP Portal
-                                                                                **SONSINI**                                                 [ @ 47 ] Privacy Policy
+                                                                            **[ @ 41 ] MEERS ON**                                            [ @ 46 ] Client FTP Portal
+                                                                                  **SONSINI**                                                [ @ 47 ] Privacy Policy
 
-                                                                                                                                            [ @ 48 ] Terms of Use
+                                                                                                                                             [ @ 48 ] Terms of Use
 
-                                                                                                                                            [ 49 ] Accessibility
+                                                                                                                                             [ 49 ] Accessibility
 
      [ 57 ] By clicking" Accept All Cookies," you agree to the storing of cookies on your device to help us analyze traffic, enhance your experience, [ $ 58 ] Cookie Settings [ $ 59 ] Disable All  [ $ 60 ] Accept All Cookies
      and provide you with tailored content.                                                                                                                                                                                            [ $ 61 ]
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 743
+Token count: 757

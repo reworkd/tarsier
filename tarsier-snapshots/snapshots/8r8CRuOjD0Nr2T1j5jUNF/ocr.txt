@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 1 ] LOEB &            2 ] EN                                                                            @ 6 ]                                          [ $
-                                  [          [ @ 3 ] 中文               [ @ 4 ] PEOPLE        [ @ 5 ] INSIGHTS       [      SERVICES          [ @ 7 ] ABOUT               **8 ]**
+[ @ 1 ] LOEB &            2 ] EN                                                                                                                           [ $
+                                  [          [ @ 3 ] 中文                 [ @ 4 ] PEOPLE       [ @ 5 ] INSIGHTS        [ @ 6 ] SERVICES        [ @ 7 ] ABOUT              **8 ]**
             " LOEB LLP                                                                                                                                                            **$ 9 ]**
 
 
@@ -19,9 +19,9 @@
 
 
 
-        [ $ 20 ] OVERVIEW                                        [ 23 ] Shantanu Alam works as a litigation paralegal and has extensive experience in the financial services
-                                                                 industry. His expertise includes assessing risk, developing compliance policies and procedures, and
-        [ $ 21 ] CREDENTIALS                                     providing effective pre - litigation advice.
+        [ $ 20 ] OVERVIEW                                        [ 23 ] Shantanu Alam works as a litigation paralegal and has extensive experience in the financial
+                                                                 services industry. His expertise includes assessing risk, developing compliance policies and
+        [ $ 21 ] CREDENTIALS                                     procedures, and providing effective pre - litigation advice.
 
 
                                                                  **[ 24 ] CREDENTIALS**
@@ -58,4 +58,4 @@
     on our website. We also share information about your use of our site with our social media, advertising and analytics partners. If we [ $ 49 ] Reject All [ $ 50 ] Accept Cookies    [ $ 51 ]
     have detected an opt - out preference signal then it will be honored. Further information is available in our [ @ 48 ] Cookie Policy.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 646
+Token count: 645

@@ -7,20 +7,20 @@
 
 
               [ @ 10 ] PEDIATRICS [ @ 11 ] FIND A LOCATION
-        [ 12 ]
-              Comer Children's - Merrillville
+               **[ 12 ] Comer Children's - Merrillville**
                                                                                                                                          ☐
 
-              **[ @ 13 ] 99 E. 86th Ave.**                                                                                                 ☐
+              **[ @ 13 ] 99 E. 86th Ave.**                                                                                               ☐
               Suite C
-              **Merrillville, IN 46410**
+              Merrillville, IN 46410
 
                [ @ 14 ] 773-702-6169
               [ 18 ] Services and Specialties Offered:
+                                                                                      University of Chicag
               [ @ 19 ] Hepatology ( Liver Disease ) [ 15 ], [ @ 20 ] Liver Disease [ 16 ],
               [ @ 21 ] Liver Transplant [ 17 ] ] | [ @ 22 ] More
               [ 24 ] Insurance Accepted:
-              [ 23 ] Aetna POS, Aetna HMO ( specialists only ), Aetna PPO I [ @ 25 ] More
+               [ 23 ] Aetna POS, Aetna HMO ( specialists only ), Aetna PPO I [ @ 25 ] More
 
                       [ @ 26 ] Get Directions
 
@@ -31,12 +31,12 @@
                         [ 28 ] UChicago Medicine in Merrillville offers comprehensive specialty care that's
                         closer to home.                                                                 [ 48 ] At This Location
                         [ 29 ] Specialties at this location include:
-                                                                                                            [ @ 49 ] 17 Doctors □
+                                                                                                            [ @ 49 ] 17 Doctors О
                         [ 30 ] Adult:
 
-                                                                                                            [ @ 50 ] 14     ☐
+                                                                                                            [ @ 50 ] 14    ㅁ
                             [ 31 ] Hepatology, including chronic liver disease                              Conditions Treated
-                          ⚫ [ 32 ] Liver transplant, including pre- and post- liver transplantation care
+                            [ 32 ] Liver transplant, including pre- and post- liver transplantation care
 
                         [ 33 ] Pediatric:
 
@@ -45,34 +45,34 @@
                             [ 36 ] Pediatric hematology / oncology
                             [ 37 ] Pediatric otolaryngology ( ENT )
                             [ 38 ] Pediatric gastroenterology
-                            [ 39 ] Pediatric infectious Diseases
-                          ⚫ [ 40 ] Pediatric neurosurgery
+                          ⚫ [ 39 ] Pediatric infectious Diseases
+                            [ 40 ] Pediatric neurosurgery
                             [ 41 ] Pediatric rheumatology
-                          • [ 42 ] Pediatric surgery
-                            [ 43 ] Pediatric neurology
+                          ⚫ [ 42 ] Pediatric surgery
+                          ⚫ [ 43 ] Pediatric neurology
 
 
-                           [ @ 44 ] Directions & Parking
+                           [ @ 44 ] Directions & Parking                            ☐
 
-                           [ @ 45 ] Adult Services and Specialties
+                           [ @ 45 ] Adult Services and Specialties                  ☐
 
-                           [ @ 46 ] Pediatric Services and Specialties              ☐
+                                                                                    ☐
+                           [ @ 46 ] Pediatric Services and Specialties
 
-                                                                                    ㅁ
-                           [ @ 47 ] Insurance Accepted
+                           [ @ 47 ] Insurance Accepted                              ☐
                                                             **Connecticut**
                         nk Tank Networking
                         Technology Group
                                                E 84th Pl      Members Source Northwest Indiana
-                                               **Frontage** S    Credit Union REALTORS® ...
+                                              **Frontage**  St   Credit Union REALTORS ® ...
                                                                 Luxury Kutz
                                   Horizon Bank Rd
                                                          CarePointe Ear,
                           RGIS Inventory   Peoples Bank  Nose, Throat & Sinus
                             Specialists                                                N
-                                        Meyers Glaros +              Pain Physicians
-                                                          **cticut** of Indiana
-                             SUPERPSYCHED                  St
+                                        Meyers Glaros                Pain Physicians
+                                                                     of Indiana
+                             SUPERPSYCHED
                                  SUPPORT     CHILDREN & FAMILY
                                                MEDICINE CLINIC
                                                                         **Virginia**
@@ -83,15 +83,16 @@
 
 
                                              [ @ 52 ] Pay a Bill         [ @ 54 ] Refer a Patient     [ @ 56 ] Contact Us
-                **[ 51 ] I'd Like to**       [ @ 53 ] Get Directions     [ @ 55 ] Make a Donation     [ @ 57 ] Make an
-                                                                                                                 Appointment
+                **[ 51 ] I'd Like to**                                            a
+                                             [ @ 53 ] Get Directions     [ @ 55 ] Make Donation       [ @ 57 ] Make an Appointment
 
 
 
                      AT THE FOREFRONT OF KIDS MEDICINE [ @ 61 ] Conditions & Services [ @ 68 ] About Us [ @ 75 ] Biological Sciences [ @ 78 ] Privacy Practices
-                     UChicago Medicine      @ 62 ] Patients & Visitors [ @ 69 ] News  Division              [ @ 79 ] Website
-                                           [                                                                         Privacy Policy
-                     Comer Children's      [ @ 63 ] Healthcare   [ @ 70 ] Media       [ @ 76 ] Pritzker School of [ @ 80 ] Legal Disclaimer
+                     UChicago Medicine      @ 62 ] Patients & Visitors @ 69 ] News    Division              [ @ 79 ] Website Privacy Policy
+                                           [                     [
+                                            @ 63 ] Healthcare    [ @ 70 ] Media       [ @ 76 ] Pritzker School of @ 80 ] Legal Disclaimer
+                     Comer Children's      [                                                                [
                                            Professionals                              Medicine
                                                                  [ @ 71 ] Careers                           [ @ 81 ] Employee Login
                                            [ @ 64 ] Research                          [ @ 77 ] University of Chicago
@@ -99,21 +100,20 @@
               [ 58 ] The University of Chicago Medicine
                                            [ @ 65 ] UChicago Medicine [ @ 73 ] Contact Us
               5841 S. Maryland Avenue Chicago, IL
-              60637 [ @ 59 ]               [ @ 66 ] Community    [ @ 74 ] JCAHO Public Notice
-                       773-702-1000
+              606371 [ @ 59 ] 773-702-1000 [ @ 66 ] Community    [ @ 74 ] JCAHO Public Notice
                                            Engagement
                                            [ @ 67 ] International Patients
               [ @ 60 ]
               Appointments:
               1-888-824-0200
 
-              [ @ 82 ] [ @ 83 ] [ @ 84 ] [ @ 85 ] [ 86 ]
+               ☐    ☐    ◉    ㅁ ㅁ
 
 
 
 
 
-            [ 87 ] © 2023 The University of Chicago Medical Center. All rights reserved.
+              [ 87 ] © 2023 The University of Chicago Medical Center. All rights reserved.
  Comer Footer Background
 -------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1085
+Token count: 1078

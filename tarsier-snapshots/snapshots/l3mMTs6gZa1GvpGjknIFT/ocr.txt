@@ -1,14 +1,15 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ 1 ] Job Posting
-                      **[ @ 0 ] Cahill**                                                                                                     [ 2 ] Today is Wednesday, December 13, 2023
-                   [ 3 ] Tax Associate
+                      **[ @ ] Cahill**                                                                                                        [ 2 ] Today is Wednesday, December 13, 2023
+
+                      [ 3 ] Tax Associate
                         [ $ 5 ] Job ID: [ 4 ] 1013            [ $ 7 ] Position: [ 6 ] Associate     [ $ 9 ] Location: [ 8 ] New York      [ $ 11 ] Practice
                                                                                                                                          Area:         [ 10 ] Tax
                         [ $ 13 ] Open Date: [ 12 ] Wednesday, June 22, [ $ 14 ] Pay Type:           [ $ 16 ] Job
-                        2022                                                                       Function:     [ 15 ] Legal
+                       2022                                                                        Function:     [ 15 ] Legal
                         [ $ 17 ] Job Description:
                           [ 18 ] We are seeking a tax associate with two to four years of tax experience. Prior
-                         law firm experience preferred.
+                          law firm experience preferred.
                           [ 19 ] We regularly represent issuers and underwriters in connection with the tax
                           aspects of capital market transactions, including bank financings, securities offerings,
                           exchange offers, tender offers, and consent solicitations. Experience in this area is
@@ -20,7 +21,7 @@
 
                         [ $ 24 ] Job Requirements:
 
-                                                                                                                                    [ $ 25 ] Back         [ $ 26 ] Apply Now
+                                                                                                                                    [ $ 25 ] Back          [ $ 26 ] Apply Now
 
 
 
@@ -33,4 +34,4 @@
                                                       [ @ 27 ] www.micronsystems.com [ @ 28 ] About Micron Systems [ @ 29 ] Privacy Policy [ @ 30 ] Terms & Conditions
                                                                             [ 31 ] © Copyright 2023 Micron Systems, Inc. All rights reserved.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 413
+Token count: 411

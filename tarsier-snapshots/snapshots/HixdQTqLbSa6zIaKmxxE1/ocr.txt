@@ -2,7 +2,7 @@
 [ @ 0 ] Go
  to the
  main                                            Search ...                                                         [ $ 4 ]                                                                                                 ▼
-               @CNMV      COMISIÓN                                                                                                     [ @ 5 ] Investors                     [ @ 6 ] Contact us               [ $ 7 ] English
+              **[ 1 ]** CNMV COMISIÓN                                                                                                  [ @ 5 ] Investors                     [ @ 6 ] Contact us               [ $ 7 ] English
  content                  NACIONAL
                           DEL MERCADO
                           DE VALORES
@@ -20,13 +20,13 @@
      [ @ 14 ] Legislation                         establecimientos financieros de crédito, sobre liquidez, normas prudenciales y obligaciones de información.
      [ @ 15 ] Publications and                     [ @ 29 ] Real Decreto 817/2023 [ 28 ], de 8 de noviembre, que establece un entorno controlado de pruebas para el ensayo del cumplimiento de la propuesta de Reglamento del Parlamento
     Statistics ☐                                  Europeo y del Consejo por el que se establecen normas armonizadas en materia de inteligencia artificial.
-     [ @ 16 ] Regulated sectors                    [ @ 31 ] Real Decreto 816/2023 [ 30 ], de 8 de noviembre, por el que se modifica el Reglamento de desarrollo de la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión
+     [ @ 16 ] Regulated sectors                    [ @ 31 ] Real Decreto 816/2023 [ 30 ] ], de 8 de noviembre, por el que se modifica el Reglamento de desarrollo de la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión
                                                   Colectiva, aprobado por el Real Decreto 1082/2012, de 13 de julio. [ 32 ] ( Este Real Decreto entrará en vigor a los 20 días de su publicación en el BOE ).
      [ @ 17 ] Virtual Office
-                                                   [ @ 34 ] Real Decreto 815/2023 [ 33 ] ], de 8 de noviembre, por el que se desarrolla la Ley 6/2023, de 17 de marzo, de los Mercados de Valores y de los Servicios de Inversión, en relación
+                                                   [ @ 34 ] Real Decreto 815/2023 [ 33 ], de 8 de noviembre, por el que se desarrolla la Ley 6/2023, de 17 de marzo, de los Mercados de Valores y de los Servicios de Inversión, en relación
                                                   con los registros oficiales de la Comisión Nacional del Mercado de Valores, la cooperación con otras autoridades y la supervisión de empresas de servicios de inversión.
-                                              [ 37 ] [ 36 ] Real Decreto 814/2023 [ 35 ], de 8 de noviembre, sobre instrumentos financieros, admisión a negociación, registro de valores negociables e infraestructuras de mercado. ( Este Real
-                                                  Decreto entrará en vigor a los veinte días de su publicación en el BOE. El artículo 111 entrará en vigor el día siguiente de la publicación de este Real Decreto en el BOE )
+                                                   [ @ 36 ] Real Decreto 814/2023 [ 35 ] ], de 8 de noviembre, sobre instrumentos financieros, admisión a negociación, registro de valores negociables e infraestructuras de mercado. ( [ 37 ] Este
+                                                  Real Decreto entrará en vigor a los veinte días de su publicación en el BOE. El artículo 111 entrará en vigor el día siguiente de la publicación de este Real Decreto en el BOE )
                                                    [ @ 39 ] Real Decreto 813/2023 [ 38 ], de 8 de noviembre, sobre el régimen jurídico de las empresas de servicios de inversión y de las demás entidades que prestan servicios de
                                                   inversión. [ 40 ] ( Este Real Decreto entrará en vigor a los 20 días de su publicación en el BOE ).
                                                    [ @ 42 ] Resolución de 8 de noviembre de 2023 [ 41 ], de la Secretaría General del Tesoro y Financiación Internacional, por la que se actualiza el Anexo 1 incluido en la Resolución de 4
@@ -84,16 +84,15 @@
                                                    [ @ 94 ] Ley Orgánica 9/2022 [ 93 ], de 28 de julio, por la que se establecen normas que faciliten el uso de información financiera y de otro tipo para la prevención, detección,
                                                   investigación o enjuiciamiento de infracciones penales, de modificación de la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas y otras
                                                   disposiciones conexas y de modificación de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
-                                                   [ @ 96 ] Ley Orgánica 6/2022, [ 95 ] de 12 de julio, complementaria de la Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación, de modificación de la
+                                                   [ @ 96 ] Ley Orgánica 6/2022, [ 95 ] ] de 12 de julio, complementaria de la Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación, de modificación de la
                                                   Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
-                                                   [ @ 98 ] Real Decreto - ley 11/2022 [ 97 ], de 25 de junio, por el que se adoptan y se prorrogan determinadas medidas para responder a las consecuencias económicas y sociales de la
+                                                  [ @ 98 ] Real Decreto - ley 11/2022 [ 97 ], de 25 de junio, por el que se adoptan y se prorrogan determinadas medidas para responder a las consecuencias económicas y sociales de la
                                                   guerra en Ucrania, para hacer frente a situaciones de vulnerabilidad social y económica, y para la recuperación económica y social de la isla de La Palma.
 
 
-                                                                                                                                                           [ @ 104 ]
-               [ @ 99 ] Site       [ @ 100 ] Links    [ @ 101 ] Legal note    [ @ 102 ] Data              [ @ 103 ]                                        [ 105 ] @CNMV_MEDIOS
-                          map                                                              protection             Accesibility
-                                                                                                                                                           [ @ 107 ] [ 108 ] @CNMV_IP      [ @ 113 ] [ @ 114 ] [ @ 115 ]
-                                                                                                                                                           [ @ 110 ] [ 111 ] @CNMV_IFI
+                                                                                                                                                           [ @ 104 ] ] @ CNMV_MEDIOS         ☐             ☐
+                                                                                                                                                                                                   L
+               [ @ 99 ] Site map   [ @ 100 ] Links    [ @ 101 ] Legal note    [ @ 102 ] Data protection   [ @ 103 ] Accesibility                           [ @ 105 ] @CNMV_IP
+                                                                                                                                                           [ @ 106 ] @CNMV_IFI            [ @ 107 ] [ @ 108 ] [ @ 109 ] ]
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 3468
+Token count: 3469

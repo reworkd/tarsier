@@ -1,7 +1,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**මිට**                                                                                                                                                                                                   [ @ 0 ]
-                                         @ 21 Inside McDermott                 @ 31 Law Students              [ @ 4 ] Experienced                   [ @ 5 ] Staff                     [ @ 6 ] Alumni          [ @ 7 ] Apply
-                                                                                                             Lawyers                               Professionals                                             Now
+[ @ 0 ]
+                                       [ @ 2 ] Inside McDermott             [ @ 3 ] Law Students             [ @ 4 ] Experienced                   [ @ 5 ] Staff                      [ @ 6 ] Alumni         [ @ 7 ] Apply
+                                       ☐                                     ☐                              Lawyers                                Professionals                                             Now
 
 
 
@@ -80,7 +80,7 @@
 
 
 
-                      **[ @ 9 ] HOME [ 10 ] [ @ 11 ] Experienced Lawyers Jobs [ 12 ] [ 13 ] 1L - 2024 Inclusion Fellowship - Washington, DC**                                         [ @ 34 ] Apply Now
+                      **[ @ 9 ] HOME [ 10 ] [ @ 11 ] Experienced Lawyers Jobs [ 12 ] [ 13 ] 1L - 2024 Inclusion Fellowship - Washington, DC**                                        [ @ 34 ] Apply Now
 
 
                                                                                                                                                                                       [ 35 ] Location
@@ -163,7 +163,8 @@
 
 
                                                                                                                      McDermott
-                                                                                                       [ @ 43 ] Will & Emery
+                                                                                                       **[ @ 43 ] Will &**
+                                                                                                                             **Emery**
 
                                  [ @ 44 ]    Alumni All  [ @ 45 ] Temporary Visitor Policy         [ @ 46 ] Legal Notices / Imprint       [ @ 47 ] Privacy & Cookie Policy          [ @ 48 ]     Terms of Use
                                 [ @ 49 ] Client Connect         [ @ 50 ]     McDermott Remote Desktop          [ @ 51 ] Subscription Preferences           [ @ 52 ] Contact Us         [ @ 53 ] Apply Now
@@ -176,4 +177,4 @@
 
                                                                                        [ 64 ] Attorney Advertising [ 65 ] © 2023 McDermott Will & Emery
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1212
+Token count: 1216

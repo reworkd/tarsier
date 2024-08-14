@@ -1,51 +1,50 @@
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ $ 8 ]
-                **[ X** **@ 6 ]**                                       [ 9 ] Post
-                                                               [ @ 12 ] [ @ 13 ]                                                                       [ $ 15 ]
-                [ @ 7 ]                                                Asim Shrestha ☑                                                                ***
-              ®
-                                                                        [ @ 14 ]
-                         Settings
-                                                                       @asimdotshrestha
-                                                               [ 16 ] SF is not ready for this boye
-                                                               [ @ 17 ]
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 6 ] X                                   [ $ 8 ] ← [ 9 ] Post
+
+                 [ @ 7 ]      Settings                       @ 12 ] [ @ 13 ] Asim Shrestha ✔                                                     [ $ 15 ]
+                                                                     [ @ 14 ] @asimdotshrestha                                                   ***
+                                                             [ 16 ] SF is not ready for this boye
+                                                             [ @ 17 ]
 
 
 
 
 
 
-                                                                                                                                                                        [ 30 ] New to X?
-                                                                                                                                                                       [ 31 ] Sign up now to get your own personalized
-                                                                                                                                                                       timeline!
-                                                                                                                                                                                   G Sign up with Google
-                                                                                                                                                                          [ $ 32 ]
-                                                                                                                                                                                      Sign up with Apple
-                                                                                                                                                                          [ @ 33 ]
-                                                                                                                                                                                       Create account
-                                                                                                                                                                       [ 34 ] By signing up, you agree to the [ @ 37 ] Terms of
-                                                                                                                                                                       Service [ 35 ] and [ @ 38 ] Privacy Policy [ 36 ], including
-                                                                                                                                                                       [ @ 39 ] Cookie Use.
 
-                                                                                                                                                                        [ 40 ] Relevant people
-                                                                                                                                                                        [ $ 41 ]
-                                                                                                                                                                         @ 42 [ @ 43 ]
-                                                                                                                                                                                Asim Shrestha ☑                   [ $ 45 ]
-                                                                                                                                                                                 [ @ 44 ]                         Follow
-                                                                                                                                                                                 @asimdotshrestha
-                                                                                                                                                                                 [ 46 ] Cofounder, [ @ 47 ] @ReworkdAl
-                                                                                                                                                                                 [ 48 ] YC S23. Working on Al agents
-                                                               [ @ 18 ] 9:30 AM - Nov 25, 2023 [ 19 ] [ 20 ] 2,506 [ 21 ] Views
+                                                                                                                                                                  [ 28 ] New to X?
+                                                                                                                                                                 [ 29 ] Sign up now to get your own personalized
+                                                                                                                                                                 timeline!
+                                                                                                                                                                            G Sign up with Google
 
-                                                               [ @ 22 ] [ 23 ] 23 [ 24 ] Likes
-                                                                                                                                                                           [ 49 ] Trends are unavailable.
-                                                                [ $ 25 ]             [ $ 26 ]              [ $ 27 ]             [ $ 28 ]              [ $ 29 ]
-                                                                                     27                                         ☐                     ↑
-                                                                                                                                                                        [ @ 50 ] Terms of Service [ @ 51 ] Privacy Policy
-                                                                                                                                                                        [ @ 52 ] Cookie Policy [ @ 53 ] Accessibility
-                                                                                                                                                                        [ @ 54 ] Ads info [ $ 55 ] [ 56 ] 2023 X Corp.
-                                                                                                                                                                                        More ...
-                                                            [ 0 ] Don't miss what's happening                                                                                                      [ @ 2 ]         [ @ 3 ]
-                                                            [ 1 ] People on X are the first to know.                                                                                               Log in         Sign up
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 534
+                                                                                                                                                                         [ $ 30 ]  Sign up with Apple
+
+                                                                                                                                                                            [ @ 31 ] Create account
+                                                                                                                                                                 [ 32 ] By signing up, you agree to the [ @ 35 ] Terms of
+                                                                                                                                                                 Service [ 33 ] and [ @ 36 ] Privacy Policy [ 34 ], including
+                                                                                                                                                                 [ @ 37 ] Cookie Use.
+
+                                                                                                                                                                  [ 38 ] Relevant people
+
+                                                                                                                                                                  [ $ 39 ] @ 40 [ @ 4.sim $ ❤        $ 43 ] Follow
+                                                                                                                                                                                                    [
+                                                                                                                                                                                [ @ 42 ] @asim
+                                                                                                                                                                                [ 44 ] Cofounder,
+                                                                                                                                                                                [ @ 45 ] @ReworkdAl [ 46 ] YC S23.
+                                                             [ @ 18 ] 9:30 AM - Nov 25, 2023 [ 19 ]   [ 20 ] 2,506 [ 21 ] ] Views                                               Working on Al agents
+
+                                                             [ @ 22 ] 23 Likes
+                                                             [ $ 23 ]             [ $ 24 ]            。 [ $ 25 ]                                                    [ 47 ] Trends are unavailable.
+                                                                                                                                                [ $ 27 ]
+                                                                                                                            [ $ 26 ] ☐
+                                                                                  27                                                             ↑
+
+                                                                                                                                                                 [ @ 48 ] Terms of Service [ @ 49 ] Privacy Policy
+                                                                                                                                                                  [ @ 50 ] Cookie Policy [ @ 51 ] Accessibility
+                                                                                                                                                                  [ @ 52 ] Ads info [ $ 53 ] More ...
+                                                                                                                                                                  [ 54 ] 2023 X Corp.
+
+                                                          [ 0 ] Don't miss what's happening                                                                                     [ @ 2 ] Log in      [ @ 3 ] Sign up
+                                                          [ 1 ] People on X are the first to know.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 494

@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 1 ]                                                                                                                      [ @ 10 ] Log in
-                              [ $ 3 ] Research [ $ 4 ] API  [ $ 5 ] ChatGPT   [ @ 6 ] Safety [ $ 7 ] Company       [ $ 8 ] Search
+[ @ 1 ] ]                                                                                                                    [ @ 10 ] Log in
+                              [ $ 3 ] Research  [ $ 4 ] API ✓ [ $ 5 ] ChatGPT ✓ [ @ 6 ] Safety [ $ 7 ] Company     [ $ 8 ] Search
        OpenAl                                                                                                                     [ @ 11 ] Try ChatGPT >
 
 
@@ -32,8 +32,7 @@
                               users.
 
                                [ 21 ] In this role, you will:
-
-                              •  [ 22 ] Own the development of new customer - facing ChatGPT and OpenAI API
+                                 [ 22 ] Own the development of new customer - facing ChatGPT and OpenAI API
                                 features and product experiences end - to - end
                               •  [ 23 ] Talk to users to understand their problems and design solutions to address
                                 them

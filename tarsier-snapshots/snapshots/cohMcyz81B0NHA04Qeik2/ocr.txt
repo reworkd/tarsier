@@ -1,14 +1,13 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ 0 ] Make sure you renew your Medicaid or Arkids coverage! [ @ 1 ] Learn More                                  $ 2 ] *
-                                                                                                                                                               [
-         [ @ 11 ]
-                                         [ # 3 ] What can I help you find? [ $ 4 ] [ @ 5 ] Patient Portal [ @ 6 ] SCMC [ @ 7 ] [ @ 8 ] [ 9 ] [ @ 10 ] ( 870 ) 262-1200
-         **White River W**
-                                             [ @ 12 ]       [ @ 13 ] FIND A           [ @ 14 ]                      [ @ 15 ] MEDICAL           [ @ 16 ]
-                     HEALTH
-                                            HOME            PROVIDER                  INFORMATION                  SERVICES                    ABOUT
-             Caring Beyond Healthcare
-                                                                                      DESK                                                     ԱՏ
+[ 0 ] Make sure you renew your Medicaid or Arkids coverage! [ @ 1 ] Learn More
+                                                                                                                                                               [ $ 2 ] *
+
+         [ @ 11 ]                        [ # 3 ] What can I help you find? [ $ 4 ] [ @ 5 ] Patient Portal [ @ 6 ] SCMC [ @ 7 ] [ @ 8 ] [ @ 9 ] [ @ 10 ] ( 870 ) 262-1200
+
+         **White River W [ @ 12 ] HOME**                 [ @ 13 ] FIND        [ @ 14 ] INFORMATION              [ @ 15 ] MEDICAL           [ @ 16 ] ABOUT
+                  HEALTH                                A                     DESK                              SERVICES                   us
+            Caring Beyond Healthcare
+                                                         PROVIDER
 
                                     [ 17 ] WHITE RIVER HEALTH ORTHOPAEDICS & SPORTS MEDICINE
                                                 [ @ 19 ] HOME [ 18 ] | [ 20 ] WHITE RIVER HEALTH ORTHOPAEDICS & SPORTS MEDICINE
@@ -31,10 +30,10 @@
                                                                   [ $ 32 ] ㅁ  [ 44 ] ( 870 ) 793-7585
                                                                           ㅁ   [ @ 45 ] ( 800 ) 585-2371
                                                                   [ $ 33 ] ㅁ  [ 46 ] Monday - Thursday 8:00 am - 5:00 pm
-                                                                  [ $         [ 47 ] Closed for lunch: Noon - 1:00 pm
-                                                                   34 ]
-                     [ @ 35 ] le                                              [ 48 ] Appointments are available online using telemedicine. Our staff will be happy to
-                     [ $ 36 ] Keyboard shortcuts [ 37 ] Map data © 2023 [ @ 38 ] Terms [ @ 39 ] Report a map error answer your questions about telemedicine when making your appointment.
+                                                                  [ $ 34      [ 47 ] Closed for lunch: Noon - 1:00 pm
+                                                                    ]
+                      @ 35 ]                                                  [ 48 ] Appointments are available online using telemedicine. Our staff will be happy to
+                    [ $ 36 ] Keyboard shortcuts [ 37 ] Map data © 2023 [ @ 38 ] Terms [ @ 39 ] Report a map error answer your questions about telemedicine when making your appointment.
 
                                                                                  [ @ 49 ] PATIENT PORTAL
 
@@ -101,7 +100,7 @@
           ☐
             [ @ 119 ] About WRH                ☐ [ @ 126 ] Careers                                                                  White River Health
                                                                                                  PERFORMANCE                        10,870 followers
-         ☐  [ @ 120 ] Campus Map                  [ @ 127 ] Cost of Care                                                     **W**
+         ☐  [ @ 120 ] Campus Map                  [ @ 127 ] Cost of Care                                                      **W**
                                                                                                      LEADERSHIP                          **EPILEPSY**
             [ @ 121 ] Contact Us                  [ @ 128 ] Donate Now
           ☐                                                                                            AWARD 2022                        AWARENESS MONTH
@@ -123,4 +122,4 @@
 
          [ 134 ] Copyright 2020 © White River Health System. [ 135 ] All Rights Reserved                      [ 136 ] Designed & Hosted by [ @ 137 ] AceOne Technologies
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1656
+Token count: 1647

@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 1 ]                                                                                                                                     [ @ 10 ] Log in 7
-                                  [ $ 3 ] Research   [ $ 4 ] API✓  [ $ 5 ] ChatGPT     [ @ 6 ] Safety  [ $ 7 ] Company ✓       [ $ 8 ] Search
+                                  [ $ 3 ] Research   [ $ 4 ] API✓  [ $ 5 ] ChatGPT ✓   [ @ 6 ] Safety  [ $ 7 ] Company ✓        [ $ 8 ] Search
        OpenAl                                                                                                                                   [ @ 11 ] Try ChatGPT >
 
 
@@ -48,7 +48,7 @@
                                     [ 30 ] Strong background in technology policy, including Al.
                                      [ 31 ] Experience creating clear and concise writing, distilling complex concepts into
                                     simple, explainable, and persuasive ideas.
-                                     [ 32 ] Experience analyzing complex legislation.
+                                    [ 32 ] Experience analyzing complex legislation.
                                  ⚫ [ 33 ] Experience engaging with regulators and / or policymakers.
                                   •  [ 34 ] International policy experience, particularly in the EU and UK.
 
@@ -106,4 +106,4 @@
    [ @ 79 ] Privacy policy
    [ @ 80 ] Brand guidelines                                     [ $ 86 ] Back to top ↑
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1362
+Token count: 1363

@@ -7,12 +7,12 @@
                                                                                                                                                                     [ @ 5
                                                                                                                                                                     ☑
                                                                                                                                                                     [ $ 58
-             **[ 9 ] Joelle A. Berle**
-       [ 10 ] Partner
+            **[ 9 ] Joelle A. Berle**
+             [ 10 ] Partner
 
 
 
-            [ @ 11 ] Los Angeles
+             [ @ 11 ] Los Angeles
             [ @ 12 ] T +1.310.979.8452
             [ @ 13 ] Email
 
@@ -49,16 +49,15 @@
 
 
 
-       [ 25 ] Areas of Focus
+             [ 25 ] Areas of Focus
 
-
-        [ 26 ] Services
+             [ 26 ] Services
               [ @ 27 ] Litigation [ @ 28 ] Commercial Litigation [ @ 29 ] Environmental
 
 
 
 
-       [ 30 ]
+
 
 
 
@@ -81,4 +80,4 @@
             [ 59 ] 2023 [ 60 ] [ 61 ] Baker & Hostetler LLP [ @ 62 ] Privacy Policy | [ @ 63 ] Service Terms | [ @ 66 ] in [ @ 67 ] [ @ 68 ] [ @ 69 ] O [ @ 70 ] [ @ 71 ]
                                              [ @ 64 ] California Privacy Notice | [ @ 65 ] Contact Us
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 597
+Token count: 591

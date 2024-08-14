@@ -1,30 +1,30 @@
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ ]      **O'Melveny**                                                                                                                                                                                                                        [ @ 1 ]   Login to Portal
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**@ O'Melveny**                                                                                                                                                                                                                             [ @ 1 ]   Login to Portal
 
-[ 2 ] ublic Company Associate
-     [ $ 4 ] Job ID:   [ 3 ] 1236                                      [ $ 6 ] Position:  [ 5 ] Associate                                [ $ 8 ] Location:  [ 7 ] Newport Beach                             [ $ 9 ] Practice
-                                                                                                                                                                                                           Area:
-     [ $ 11 ] Open Date: [ 10 ] Wednesday, March 23, 2022              [ $ 13 ] Job                                                      [ $ 14 ] Contact:
-                                                                       Function:          [ 12 ] Legal
+  [ 2 ] Public Company Associate
+     [ $ 4 ] Job ID:   [ 3 ] 1236                                     [ $ 6 ] Position:  [ 5 ] Associate                                [ $ 8 ] Location:  [ 7 ] Newport Beach                           [ $ 9 ] Practice
+                                                                                                                                                                                                         Area:
+     [ $ 11 ] Open Date: [ 10 ] Wednesday, March 23, 2022             [ $ 13 ] Job                                                      [ $ 14 ] Contact:
+                                                                      Function:          [ 12 ] Legal
      [ $ 15 ] Job Description:
-[ 16 ] Melveny is seeking   third or fourth year associate to join the Public Company Advisory group within its Capital Markets practice. Qualified candidates should have demonstrated experience advising public companies on a wide variety of securities law
-    Compliance, disclosure and corporate governance matters.    This position will work closely with other members of the Public Company Advisory group to assist with day - to - day securities law counseling, SEC reporting and corporate governance matters for our
-    growing public company client base. Our public company clients span diverse industries - from technology to healthcare / life sciences to real estate / REITS to retail / consumer services - and range from decades - old Fortune 500 public companies to newly - public
-    emerging growth companies and smaller reporting companies.      In this position, there will also be opportunities to work on more of the transactional elements of the practice for our public company clients, including capital markets offerings. Superior academic
-    credentials and strong communication skills are required, and the ideal candidate will have a solid understanding of the securities laws and a demonstrated interest in public company compliance and corporate governance.
-[ 17 ] he salary range in Newport Beach for this role is $ 250,000 - $ 295,000 and represents the firm's good faith minimum and maximum range for this role at the time of posting. The actual compensation offered to a candidate will be dependent on a variety of factors
-    including, but not limited to, the candidate's experience, qualifications, and location.
+     [ 16 ] O'Melveny is seeking a third or fourth year associate to join the Public Company Advisory group within its Capital Markets practice. Qualified candidates should have demonstrated experience advising public companies on a wide variety of securities law
+    compliance, disclosure and corporate governance matters. This position will work closely with other members of the Public Company Advisory group to assist with day - to - day securities law counseling, SEC reporting and corporate governance matters for our
+    growing public company client base. Our public company clients span diverse industries - from technology to healthcare / life sciences to real estate / REITs to retail / consumer services - and range from decades - old Fortune 500 public companies to newly - public
+    emerging growth companies and smaller reporting companies. In this position, there will also be opportunities to work on more of the transactional elements of the practice for our public company clients, including capital markets offerings. Superior academic
+    credentials and strong communication skills are required, and the ideal candidate will have a solid understanding of the securities laws and a demonstrated interest public company compliance and corporate governance.
+     [ 17 ] The salary range in Newport Beach for this role is $ 250,000 - $ 295,000 and represents the firm's good faith minimum and maximum range for this role at the time of posting. The actual compensation offered to a candidate will be dependent on a variety of
+    factors including, but not limited to, the candidate's experience, qualifications, and location.
 
-[ 18 ] andidates may submit an application via the" Apply Now" button below. Submissions from search firms should be sent to [ 20 ] lateralresumes@omm.com [ 19 ].
+     [ 18 ] Candidates may submit an application via the" Apply Now" button below. Submissions from search firms should be sent to [ @ 20 ] lateralresumes@omm.com [ 19 ]
 
 
      [ $ 21 ] Job Requirements:
 
-                                                                                                                                                                                                                     [ $ 22 ] Back                 [ $ 23 ] Apply Now
+                                                                                                                                                                                                                  [ $ 22 ] Back                  [ $ 23 ] Apply Now
 
-                                                                                                                               MICRON
-                                                                                                                              SYSTEMS
-                                                                           [ @ 24 ] www.micronsystems.com      [ @ 25 ] About Micron Systems.    [ @ 26 ] Privacy Policy  [ @ 27 ] Terms & Conditions
-                                                                                                        [ 28 ] © Copyright 2023 Micron Systems, Inc. All rights reserved.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 597
+                                                                                                                              MICRON
+                                                                                                                            SYSTEMS
+                                                                          [ @ 24 ] www.micronsystems.com      [ @ 25 ] About Micron Systems.   [ @ 26 ] Privacy Policy  [ @ 27 ] Terms & Conditions
+                                                                                                       [ 28 ] © Copyright 2023 Micron Systems, Inc. All rights reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 595

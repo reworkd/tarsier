@@ -26,7 +26,7 @@
 
                          [ @ 15 ] HOME         [ @ 16 ] FIND A LOCATION           [ 17 ] LOCATION SEARCH RESULTS
 
-                           [ 18 ] Enter Keyword to Select a Location      [ 25 ] List View    [ 26 ] Map View      [ 27 ] Compare
+                           [ 18 ] Enter Keyword to Select a Location      [ 25 ] List View    [ 26 ] Map View     [ 27 ] Compare
                          [ # 19 ]
                            [ 20 ] Select Type
                          [ # 21 ]

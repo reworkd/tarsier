@@ -1,16 +1,14 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ 1 ]
+[ @ 1 ] ]
    **Excela Health**
 
-                                                  [ @ 2 ] Pay Bill [ @ 3 ] Contact Us [ @ 4 ] Careers [ @ 5 ] About Us O Search             [ @ 8 ] 877-771-1234
+                                                  [ @ 2 ] Pay Bill [ @ 3 ] Contact Us [ @ 4 ] Careers [ @ 5 ] About Us [ 6 ] Search         [ @ 8 ] 877-771-1234
                                     [ @ 9 ] Find a Doctor [ @ 10 ] Locations [ @ 11 ] Services [ @ 39 ] Patients & Visitors [ @ 60 ] Patient Portal [ @ 61 ] Giving
 
 
-    [ 62 ]
-             **Our Locations**
-             [ $ 64 ] Search Locations                     [ $ 66 ] ] Category                          [ $ 68 ] Services
+             **[ 62 ] Our Locations**
+             [ $ 64 ] Search Locations                     [ $ 66 ] Category                            [ $ 68 ] Services
              [ # 65 ]                                      [ $ 67 ]       All Categories                [ $ 69 ]        All Services
-                                                    Q
                Search Term
                                                                                                                                 [ @ 70 ] Clear Filters
 
@@ -36,6 +34,6 @@
    Center - Excela Square at
    Latrobe
    [ 85 ] Specialty Office or Clinic
-  Treet100 Excola Health Drive.
+   res1100 Excela Health Drive
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 Token count: 383

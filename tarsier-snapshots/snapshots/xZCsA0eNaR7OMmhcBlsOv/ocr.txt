@@ -1,19 +1,18 @@
--------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 2 ]
 
 
              **UVA Health**
-                                              [ @ 3 ] APPOINTMENTS  [ @ 4 ] BILLING [ @ 5 ] CLINICAL TRIALS [ @ 6 ] CAREERS  [ @ 7 ] MYCHART
+                                               [ @ 3 ] APPOINTMENTS  [ @ 4 ] BILLING [ @ 5 ] CLINICAL TRIALS [ @ 6 ] CAREERS  [ @ 7 ] MYCHART
 
-                                                                                                                [ # 13 ]
-          [ @ 8 ] Find          [ @ 9 ] Services          [ @ 10 ] Locations           [ @ 11 ] Patients
-                                                                                                                      SEARCH          [ $ 14 ]
-         a Doctor                                                                     & Visitors
+                                                                                                                 [ # 13 ]
+          [ @ 8 ] Find          [ @ 9 ] Services           [ @ 10 ] Locations           [ @ 11 ] Patients
+                                                                                                                       SEARCH          [ $ 14 ]
+         a Doctor                                                                      & Visitors
 
 
-**回**
-[ 15 ]
-       Location Details
+
+       **[ 15 ] Location Details**
 
        [ @ 16 ] Home   [ @ 17 ] Find A Location ☐ [ 18 ] UVA Medical Park Zion Crossroads
 
@@ -27,27 +26,27 @@
 
        [ @ 24 ] 434.924.5227
        [ 25 ] Location hours:
-         [ 26 ] Monday: 7:15 AM - 5:00 PM
+          [ 26 ] Monday: 7:15 AM - 5:00 PM
           [ 27 ] Tuesday: 7:15 AM - 5:00 PM
           [ 28 ] Wednesday: 7:15 AM - 5:00 PM
           [ 29 ] Thursday: 7:15 AM - 5:00 PM
           [ 30 ] Friday: 7:15 AM - 5:00 PM
-         [ 31 ] Saturday: Closed
-         [ 32 ] Sunday: Closed
+          [ 31 ] Saturday: Closed
+          [ 32 ] Sunday: Closed
        [ 34 ] Lab hours [ 33 ]: Monday - Friday, 8 a.m. - 5 p.m.
        [ 36 ] Free parking: [ 35 ] Convenient, on - site patient parking.
 
 
        **[ 49 ] Onsite Conveniences**
 
-                                                                                                                              UNIVERSITY VIRGINIA
+                                                                                                                                UNIVERSITY VIRGINIA
        [ 50 ] UVA Medical Park Zion Crossroads offers varying levels of care, from diagnostic services to post-
        procedure follow - up and prevention. Services that were once available only at UVA are now offered right in
        your community. This building is located just off I - 64 at exit 136, with ample parking and easy access.
        [ 51 ] Available Services
 
        ⚫ [ @ 52 ] Imaging
-         [ @ 53 ] Pharmacy
+          [ @ 53 ] Pharmacy
           [ @ 54 ] Labs
 
        **[ 55 ] UVA Primary and Specialty Care Zion Crossroads**
@@ -69,27 +68,28 @@
             **UVAHealth**
 
 
-                     [ 69 ] 1215 Lee Street         [ 72 ] UVA HEALTH           [ 78 ] COMMUNITY             [ 84 ] PATIENTS & VISITORS
+                     [ 69 ] 1215 Lee Street          [ 72 ] UVA HEALTH           [ 78 ] COMMUNITY              [ 84 ] PATIENTS & VISITORS
                      [ 70 ] Charlottesville, VA 22903
-                                                    [ @ 73 ] About Us           [ @ 79 ] Find a Job | Careers [ @ 85 ] Contact a Patient
-                     d [ @ 71 ] Map & Directions     [ @ 74 ] Clinical Trials   [ @ 80 ] Donate              [ @ 86 ] Give Feedback
-                                                    [ @ 75 ] News               [ @ 81 ] Volunteer           [ @ 87 ] Medical Records
-                                                    [ @ 76 ] Services           [ @ 82 ] Patient Referrals   [ @ 88 ] Pay your Bill
-                                                     [ @ 77 ] Quality & Safety  [ @ 83 ] Request Privileges  [ @ 89 ] Getting Financial Assistance
+                                                     [ @ 73 ] About Us           [ @ 79 ] Find a Job | Careers [ @ 85 ] Contact a Patient
+                     d [ @ 71 ] Map & Directions     [ @ 74 ] Clinical Trials    [ @ 80 ] Donate               [ @ 86 ] Give Feedback
+                                                     [ @ 75 ] News               [ @ 81 ] Volunteer            [ @ 87 ] Medical Records
+                                                     [ @ 76 ] Services           [ @ 82 ] Patient Referrals    [ @ 88 ] Pay your Bill
+                                                     [ @ 77 ] Quality & Safety   [ @ 83 ] Request Privileges   [ @ 89 ] Getting Financial Assistance
 
-                     [ 0
-       с * **j'** **i'**
+        [            [
+       с  **j**
 
-        [ @ 98 ] Patient Rights & Policies [ 99 ] | [ @ 100 ] Web Privacy [ 101 ] [ 102 ] Report Accessibility Barrier [ 103 ] |
-
-
-   [ 104 ] © 2023 Rector and Visitors of the University of Virginia.
+        [ @ 98 ] Patient Rights & Policies [ 99 ] [ 100 ] Web Privacy [ 101 ] [ 102 ] Report Accessibility Barrier [ 103 ] |
 
 
-                              QUILADENIO
-       [ @ 105 ]                    [ @ 106 ]                         [ @ 107 ]                         [ @ 108 ]
-              [ 111 ] We use cookies and similar tools to improve your web experience.
-       [ @ 109 ]                         [ @ 110 ]                                                             ☐ [ $ 113 ] ACCEPT
+       [ 104 ] © 2023 Rector and Visitors of the University of Virginia.
+
+
+
+                               QUILADENIO         .
+       [ @ 105 ]                    [ @ 106 ]                          [ @ 107 ]                         [ @ 108 ]
+               [ 111 ] We use cookies and similar tools to improve your web experience.
+       [ @ 109 ]                         [ @ 110 ]                                                              ☐ [ $ 113 ] ACCEPT
                [ $ 112 ] Read our privacy_policy
--------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1074
+---------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1065

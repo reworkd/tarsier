@@ -11,9 +11,9 @@
                **[ 10 ] DIFC Legal Database**
 
 
-          [ 11 ] The unique structure of DIFC gives it a robust regulatory and legal framework that provides the Centre's clients with a
-               safe and secure platform to conduct their business confidently. All business registered at DIFC are subject to the laws of
-               the Centre that have been enacted to administer day - to - day operations of the firms and individuals in the DIFC.
+               [ 11 ] The unique structure of DIFC gives it a robust regulatory and legal framework that provides the Centre's clients with
+               a safe and secure platform to conduct their business confidently. All business registered at DIFC are subject to the laws
+               of the Centre that have been enacted to administer day - to - day operations of the firms and individuals in the DIFC.
 
 
 
@@ -78,40 +78,31 @@
                                                    DIFC Law No. 3 of 2004
                                                                                                                                                [ @ 80 ]
                                                     [ 78 ] Law relating to Application of DIFC Laws DIFC Law No. 10 of 2005 [ @ 79 ] More info →
-
-                                                                                                                                               [ @ 83 ]
+                                                                                                                                              **lo**
                                                     [ 81 ] Leasing Law DIFC Law No. 1 of 2020.                            [ @ 82 ] More info →
-
-                                                                                                                                               [ @ 86 ]
+                                                                                                                                              **lo**
                                                     [ 84 ] Limited Liability Partnership Law DIFC Law No. 5 of 2004       [ @ 85 ] More info →
-
-                                                                                                                                               [ @ 89 ]
+                                                                                                                                              **lo**
                                                     [ 87 ] Limited Partnership Law DIFC Law No. 4 of 2006                 [ @ 88 ] More info →
-
-                                                                                                                                               [ @ 92 ]
+                                                                                                                                              **lo**
                                                     [ 90 ] Netting Law DIFC Law No. 2 of 2014                             [ @ 91 ] More info →
-
-                                                                                                                                               [ @ 95 ]
+                                                                                                                                              **lo**
                                                     [ 93 ] Non Profit Incorporated Organisations Law DIFC Law No. 6 of 2012 [ @ 94 ] More info →
-                                                                                                                                             **lo**
-
+                                                                                                                                              **lo**
                                                     [ 96 ] Operating Law - DIFC Law No. 7 of 2018                         [ @ 97 ] More info →
                                                                                                                                              **lo**
                                                     [ 99 ] Payment System Settlement Finality Law DIFC Law No. 1 of
                                                                                                                         [ @ 100 ] More info →
-                                                   2009                                                                                      **lo**
-
+                                                   2009
+                                                                                                                                             **lo**
                                                     [ 102 ] Personal Property Law DIFC Law No. 9 of 2005                [ @ 103 ] More info →
                                                                                                                                              **lo**
-
                                                     [ 105 ] Real Property Law DIFC Law No. 10 of 2018                   [ @ 106 ] More info →
                                                                                                                                              **lo**
-
                                                     [ 108 ] Strata Title Law DIFC Law No. 5 of 2007                     [ @ 109 ] More info →
                                                                                                                                              **lo**
-
                                                     [ 111 ] Trust Law DIFC Law No. 4 of 2018                             [ @ 112 ] More info →
-                                                                                                                                             **lo**
+
 
 
 
@@ -142,4 +133,4 @@
                                                                                                                      Download on the     Available on the
                                                                  f           O          in          X                App Store           Google Play
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1688
+Token count: 1678

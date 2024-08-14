@@ -1,68 +1,59 @@
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 0 ]                                                                                                                                [ @ 1 ] State Agencies
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 0 ]                                                                                                                            [ @ 1 ] State Agencies
 
-                               OKLAHOMA
-                [ @ 2 ]        Office of Management
-                               & Enterprise Services
+                             OKLAHOMA
+               [ @ 2 ]       Office of Management
+                             & Enterprise Services
 
                    [ @ 4 ] Home [ 3 ] / Solicitation Search
 
-                 [ @ 5 ] Home                **[ 16 ] Solicitation Search**
+                [ @ 5 ] Home                **[ 16 ] Solicitation Search**
 
-                 [ @ 6 ] Open / Pending                                                                                              [ $ 17 ] anced Search
-                 Solicitations Search
-                                              [ $ 18 ] Enter Solicitation Number:
-                 [ @ 7 ] Awarded              [ # 19 ]
-                 Solicitations Search
+                [ @ 6 ] Open / Pending                                                                                          [ $ 17 ] anced Search
+                Solicitations Search
+                                             [ $ 18 ] Enter Solicitation Number:
+                [ @ 7 ] Awarded              [ # 19 ]
+                Solicitations Search
 
-                 [ @ 8 ] Cancelled            [ $ 20 ] Enter Keyword:
-                 Solicitations Search
-                                              [ # 21 ]
-                 [ @ 9 ] Statewide
+                [ @ 8 ] Cancelled            [ $ 20 ] Enter Keyword:
+                Solicitations Search
+                                             [ # 21 ]
+                [ @ 9 ] Statewide
                 Contract Search
-                                              [ $ 22 ] ch [ $ 23 ]
-                 [ @ 10 ] Agency Login         [ @ 25 ] [ @ 26 ]     [ @ 27 ] Description  [ @ 28 ]   [ @ 29 ] [ @ 30 ]   [ @ 31 ]     [ @ 32 ]
-                                               SW       Solicitation                    Amendments Status     Closing    Closing     Awarded
-                 [ @ 11 ] Central              Number Number                                                    Date    Date Status     Date
-                 Purchasing                                          [ 35 ] Environmental
-                                               [ 33 ] ] [ @ 34 ]                           [ 36 ] 3    [ 37 ]   [ 38 ]     [ 39 ]      [ 40 ] ] -
-                                               SW0139 0900000551                                     Pending 08/22/2022  Changed
-                 [ @ 12 ] Helpful Hints                                                              Award
-                                               [ 41 ]   [ @ 42 ]     [ 43 ] Radar / Lidar  [ 44 ] 0    [ 45 ]   [ 46 ]     [ 47 ]      [ 48 ] -
-                 [ @ 13 ] Contact Us           SW0140 0900000584
-                                                                                                     Pending 03/22/2024  Original
-                                                                                                     Award
-                 [ @ 14 ] State of             [ 49 ] ] Not [ @ 50 ] [ 51 ] DHS Legal      [ 52 ] 0    [ 53 ]   [ 54 ]     [ 55 ]      [ 56 ]
-                 Oklahoma Website
-                                              found    21000268                                       Open   06/02/2020  Original
+                                             [ $ 22 ] ch [ $ 23 ]
+                [ @ 10 ] Agency Login        [ @ 25 ] SW  [ @ 26 ] Solicitation [ @ 27 ] Description [ @ 28 ] Amendments [ @ 29 ] Status [ @ 30 ] Closing [ @ 31 ] Closing [ @ 32 ] Awarded
+                                             Number       Number                                                               Date       Date Status      Date
+                [ @ 11 ] Central             [ 33 ] SW0139 [ @ 34 ] 0900000551 [ 35 ] Environmental [ 36 ] 3   [ 37 ] Pending [ 38 ] 08/22/2022 [ 39 ] Changed [ 40 ] -
+                Purchasing                                                                                       Award
+                                             [ 41 ] SW0140 [ @ 42 ] ] 0900000584 [ 43 ] Radar / Lidar [ 44 ] 0 [ 45 ] Pending [ 46 ] 03/22/2024 [ 47 ] Original [ 48 ] -
+                [ @ 12 ] Helpful Hints
+                                                                                                                 Award
+                                             [ 49 ] Not   [ @ 50 ] 21000268 [ 51 ] DHS Legal      [ 52 ] 0     [ 53 ] Open [ 54 ] 06/02/2020 [ 55 ] Original [ 56 ] -
+                [ @ 13 ] Contact Us
+                                             found
+                                             [ 57 ] Not   [ @ 58 ] 2650000386 [ 59 ] The intent of [ 60 ] 0    [ 61 ] Open [ 62 ] 04/08/2021 [ 63 ] ] Original [ 64 ] -
+                [ @ 14 ] State of            found
+                Oklahoma Website
+                                             [ 65 ] Not   [ @ 66 ] 4520011467 [ 67 ] ALL          [ 68 ] 1     [ 69 ] Pending [ 70 ] 12/31/2023 [ 71 ] Original [ 72 ] -
+                                             found                                                               Award
+                                             [ 73 ] SW0818 [ @ 74 ] OK - MA- [ 75 ] Professional  [ 76 ] 2     [ 77 ] Pending [ 78 ] 05/18/2023 [ 79 ] Original [ 80 ] -
+                                                          818                                                    Award
+                                             [ 81 ] SW0173 [ @ 82 ] SW0173 [ 83 ] Electronic      [ 84 ] 0     [ 85 ] Pending [ 86 ] 03/16/2023 [ 87 ] Original [ [ 88 ] -
+                                                                                                                 Award
+                                             [ 89 ] SW1034S [ @ 90 ] SW1034S [ 91 ] Sharp         [ 92 ] 0     [ 93 ] Open [ 94 ] 02/09/2021 [ 95 ] Original [ [ 96 ] -
 
-                                               [ 57 ] Not [ @ 58 ]   [ 59 ] The intent of this [ 60 ] 0 [ 61 ]  [ 62 ]     [ 63 ]      [ 64 ]
-                                              found    2650000386                                     Open   04/08/2021  Original
+                                             [ 24 ] List of Solicitations
 
-                                               [ 65 ] ] Not [ @ 66 ] [ 67 ] ALL            [ 68 ] 1    [ 69 ]   [ 70 ] ]   [ [ 71 ]    [ 72 ]
-                                              found    4520011467                                    Pending 12/31/2023  Original
-                                                                                                     Award
-                                               [ 73 ]   [ @ 74 ] OK- [ 75 ] Professional   [ 76 ] 2    [ 77 ]   [ 78 ]     [ 79 ]      [ 80 ]
-                                              SW0818 MA - 818                                        Pending 05/18/2023  Original
-                                                                                                     Award
-                                               [ 81 ]   [ @ 82 ]     [ 83 ] ] Electronic   [ 84 ] 0    [ 85 ]   [ 86 ]     [ 87 ]      [ 88 ] -
-                                              SW0173 SW0173                                          Pending 03/16/2023  Original
-                                                                                                     Award
-                                               [ 89 ]  [ @ 90 ]      [ 91 ] Sharp          [ 92 ] 0    [ 93 ]   [ 94 ]     [ 95 ]     [ 96 ] -
-                                              SW1034S SW1034S                                         Open   02/09/2021  Original
-
-                                              [ 24 ] List of Solicitations
-
-                                                                                          [ $ 97 ] urn to Home
+                                                                                       [ $ 97 ] rn to Home
 
 
 
 
-               [ @ 98 ]                                                                                                                                 [ @ 99 ] Back to top ^
-                         OKLAHOMA
-                         Office of Management
-                         & Enterprise Services
+               [ @ 98 ]                                                                                                                            [ @ 99 ] Back to top ^
+                        OKLAHOMA
+                        Office of Management
+                        & Enterprise Services
 
-                [ @ 100 ] Oklahoma.gov  [ @ 101 ] Policies [ @ 102 ] Accessibility [ @ 103 ] Feedback                        [ 104 ] Copyright @ [ 106 ] 2024 [ 105 ] State of Oklahoma
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 961
+               [ @ 100 ] Oklahoma.gov [ @ 101 ] Policies [ @ 102 ] Accessibility [ @ 103 ] Feedback                       [ 104 ] Copyright @ [ 106 ] 2024 [ 105 ] State of Oklahoma
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 886

@@ -1,8 +1,8 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ 0 ] Arnot Health offers Same - Day Orthopedic Appointments Monday - Friday.                     Click [ @ 2 ] here [ 1 ] to request an appointment.
-                                                                                                                                                                                                                        [ @ 11 ] [ @ 1: [ @ 13 ]
-                             [ @ 3 ] About       [ @ 4 ] News        [ @ 5 ] Blog       [ @ 6 ] Give      [ @ 7 ] Contact        [ @ 8 ] Bill Pay      [ @ 9 ] Hospital Pricing        [ @ 10 ] Patient Portal Login
-             [ @ 14 ] Find a Service / Provider         [ @ 15 ] Locations       [ @ 16 ] Services        [ @ 17 ] For Patients       [ @ 18 ] Volunteer       [ @ 19 ] Careers & Education            [ @ 20 ] ( 607 ) 737-4100     ㅁ
+                                                                                                                                                                                                                        [ @ 11 ] [ @ 1 [ @ 13 ]
+                             [ @ 3 ] About       [ @ 4 ] News        [ @ 5 ] Blog       [ @ 6 ] Give       [ @ 7 ] Contact       [ @ 8 ] Bill Pay      [ @ 9 ] Hospital Pricing        [ @ 10 ] Patient Portal Login
+             [ @ 14 ] Find a Service / Provider         [ @ 15 ] Locations        [ @ 16 ] Services       [ @ 17 ] For Patients       [ @ 18 ] Volunteer       [ @ 19 ] Careers & Education            [ @ 20 ] ( 607 ) 737-4100     ㅁ
 
 
 
@@ -19,7 +19,7 @@
                                                                                                               [ 24 ] Arnot Ogden Medical Center tops the list of preferred healthcare facilities
                                                                                                              in the region. Founded in 1888, it is a not - for - profit, 256 - bed tertiary medical
                                                                                                              facility with specialty services for cardiovascular care, cancer care, women's
-                                                                                                             health services and maternity, emergency medicine, and surgery.
+                                                                                                              health services and maternity, emergency medicine, and surgery.
                                                                                                               [ 25 ] Elmira, NY 14905
                                                                                                               [ @ 26 ] 607-737-4100
 
@@ -27,7 +27,7 @@
                                                                                                               **[ @ 27 ] Ira Davenport Memorial Hospital**
                                                                                                               [ 28 ] Ira Davenport Memorial Hospital, located in Bath, NY, is a not - for - profit,
                                                                                                              35 - bed acute care hospital. Sharing the hospital campus is the adjoining Ira
-                                                                                                             Davenport Memorial Hospital SNF / HRF, a 120 - bed skilled nursing facility.
+                                                                                                              Davenport Memorial Hospital SNF / HRF, a 120 - bed skilled nursing facility.
                                                                                                               [ 29 ] Bath, NY 14810
                                                                                                               [ @ 30 ] 607-776-8500
 
@@ -42,11 +42,10 @@
 
 
 
-                   [ 35 ]
-                            Walk - In Care Info
-
-                       [ 36 ] No appointment non - emergency care for adults and children older than 6 months of age. Learn more about [ @ 38 ] Arnot Health Walk - in Care [ 37 ]. 607-
-                             737-4499
+                             **[ 35 ] Walk - In Care Info**
+                             나
+                             [ 36 ] No appointment non - emergency care for adults and children older than 6 months of age. Learn more about [ @ 38 ] Arnot Health Walk - in Care [ 37 ]
+                            607-737-4499
 
                                 [ 39 ] Horseheads                                           [ 48 ] Erwin                                                [ 57 ] Eastside
 
@@ -64,10 +63,10 @@
 
 
                                                                                                                                                                                                                            [ # 71 ]
-                           **Arnot Health**                                     [ @ 67 ] Patient Portal Login                    [ @ 69 ] Privacy
-                                It's what we do                                                                                                                                                                     [ @ 72 ] [ @ 7: [ @ 74 ]
+                          **Arnot Health**                                      [ @ 67 ] Patient Portal Login                    [ @ 69 ] Privacy
+                               It's what we do                                                                                                                                                                      [ @ 72 ] [ @ 7 [ @ 74 ]
              [ @ 66 ]
                                                                                 [ @ 68 ] Social Media Guidelines                 [ @ 70 ] Corporate Compliance
-                                                                                                                                                                                                    [ 75 ] 2023    Arnot Health
+                                                                                                                                                                                                     [ 75 ] 2023   Arnot Health
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Token count: 1068

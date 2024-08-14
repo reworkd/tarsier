@@ -1,8 +1,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 0 ]
-                             @ 21Inside McDermott      @ 3 Law Students      [ @ 4 ] Experienced        [ @ 5 ] Staff           [ @ 6 ] Alumni   [ @ 7 ] Apply
-                                                      ☐
-         M                                                                   Lawyers                    Professionals                            Now
+                           [ @ 2 ] Inside McDermott  [ @ 3 ] Law Students   [ @ 4 ] Experienced         @ 5 ] Staff             [ @ 6 ] Alumni  [ @ 7 ] Apply
+         M                 ☐                          ☐                     Lawyers                    Professionals                            Now
 
 
 
@@ -80,22 +79,22 @@
 
 
 
-                                                                                                                                                         ↑
+                                                                                                                                                        ↑
                 [ @ 9 ] HOME [ 10 ] [ @ 11 ] Experienced Lawyers Jobs [ 12 ] [ 13 ] 1L - 2024 Inclusion Fellowship - Washington, DC [ @ 34 ] Apply Now
 
 
-                                                                                                                                [ 35 ] Location
-                                                                                                                                [ 36 ] Washington, D.C.
+                                                                                                                               [ 35 ] Location
+                                                                                                                               [ 36 ] Washington, D.C.
         [ 14 ] McDermott Will & Emery LLP is doing Big Law better by fostering your dream career in a warm, inclusive environment.
         Weve been recognized as Vaults # 1 Law Firm for Associate Satisfaction for three consecutive years ( 2022-2024 ) and are a Top [ 37 ] Position
-        Workplaces winner in five national categories.                                                                          [ 38 ] Summer Associates
+        Workplaces winner in five national categories.                                                                         [ 38 ] Summer Associates
 
         [ 15 ] Our focus on career acceleration begins on day one, with every employee receiving personalized guidance, structured
-                                                                                                                                [ 39 ] Open Date
+                                                                                                                               [ 39 ] Open Date
         mentorship and confidential career coaching. Youll become part of our award - winning culture, which prioritizes authenticity and [ 40 ] December 15, 2023
         happiness. And youll enjoy our industry - leading approach to compensation and benefits. We support your physical, mental, and
         emotional health and were the first firm to offer billable hours for wellness. Plus, lawyers and staff professionals receive [ 41 ] Job ID
-                                                                                                                                [ 42 ] 203
+                                                                                                                               [ 42 ] 203
         generous compensation packages; our individual merit - based system enabled 65 % of our associates to earn above the Cravath
         scale in 2022.
 
@@ -160,8 +159,9 @@
 
 
 
-                                                                                   McDermott
-                                                                         [ @ 43 ] Will & Emery
+                                                                                  McDermott
+                                                                        **[ @ 43 ] Will &**
+                                                                                        **Emery**
 
                        [ @ 44 ] Alumni All [ @ 45 ] Temporary Visitor Policy [ @ 46 ] Legal Notices / Imprint [ @ 47 ] Privacy & Cookie Policy [ @ 48 ] Terms of Use
                       [ @ 49 ] Client Connect [ @ 50 ] McDermott Remote Desktop [ @ 51 ] Subscription Preferences [ @ 52 ] Contact Us [ @ 53 ] Apply Now
@@ -174,4 +174,4 @@
 
                                                              [ 64 ] Attorney Advertising [ 65 ] © 2023 McDermott Will & Emery
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1150
+Token count: 1158

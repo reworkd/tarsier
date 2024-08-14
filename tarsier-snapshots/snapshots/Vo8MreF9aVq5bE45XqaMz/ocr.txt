@@ -1,60 +1,60 @@
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 0 ]                                                                                       [ # 1 ] Search             [ $ 2 ]     [ 3 ] MyHealth
-                         LEGACY
-                         HEALTH                                                                                                                    [ @ 4 ] Contact Us
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 0 ] ]                                                                                       [ # 1 ] ] Search            [ $ 2 ]    [ 3 ] MyHealth
+                        LEGACY
+                        HEALTH                                                                                                                       [ @ 4 ] Contact Us
                [ @ 5 ] Doctors & Locations [ @ 6 ] Services & Resources [ @ 7 ] Patients & Visitors [ @ 8 ] Giving & Support [ @ 9 ] About [ @ 10 ] For Health Professionals
+                   [ $ 11 ] Choose one:                                       [ $ 15 ] Name or keyword:
+                                                           ☐
+                        [ $ 12 ] Locations     [ 13 ] OR
+                                                            [ $ 14 ] Doctors  [ # 16 ]
 
-              [ $ 11 ] Choose one:                                           [ $ 15 ] Name or keyword:
-                                                          [ $ 14 ]
-                     [ $ 12 ] Locations      [ 13 ] OR
-                                                          Doctors            [ # 16 ]
-
-              [ $ 17 ] Filter by:
-                  [ $ 18 ]                    [ $ 19                       [ $ 20 ] Zip      [ $ 22 ]
-                      cation Type                 ] vices                  Code                                                              [ $ 23 ] Search
-                                 ◉                                         [ # 21 ]                    日
-                                                                                   ☐                                                        [ $ 24 ] Clear Filters
+                   [ $ 17 ] Filter by:
+                  [ $ 18                       [ $ 19                       [ $ 20 ] Zip      [ $ 22 ]
+                      ] ation Type                 ] vices                  Code                                                               [ $ 23 ] Search
+                                  日                                         [ # 21 ]                     日
+                                                                                    ☐                                                         [ $ 24 ] Clear Filters
 
                [ 26 ] Showing [ 25 ] 1-25 of 261 [ 27 ] location results
-               [ 28 ] Check with your insurance to see which providers are included in your network. [ @ 29 ] [ @ 30 ]?
-               Learn more.
+               [ 28 ] Check with your insurance to see which providers are included in your network. [ @ 30 ]?
+               [ @ 29 ] Learn more.
 
-                  [ @ 31 ]                  [ @ 32 ] Carl Peterson Clinical Education Center
-                                              [ @ 33 ] 300 N. Graham Street [ @ 35 ] [ 37+
-                                              Legacy Emanuel Medical Center
-                                                                                  More
-                                              Portland, OR, 97227
-                                              [ @ 34 ] 503-413-2200
-
-
+                  [ @ 31 ] ]                [ @ 32 ] Carl Peterson Clinical Education Center
+                                               [ @ 33 ] 300 N. Graham Street  [ @ 35 ] +
+                                               Legacy Emanuel Medical Center
+                                                                              More
+                                               Portland, OR, 97227
+                                               [ @ 34 ] 503-413-2200
 
 
-                  [ @ 38 ]                  [ @ 39 ] Green Gables Guest House at Legacy
-                                           Good Samaritan Medical Center
-                                              [ @ 40 ] 2183 N.W. Northrup St. [ @ 44 ] [ **44+**
-                                              Portland, OR, 97210                 More
-                                              [ @ 41 ] Campus Map
-                   Green Gables               [ @ 42 ] Mapa del Campus
+
+
+                  [ @ 36 ]                  [ @ 37 ] Green Gables Guest House at Legacy
+                                            Good Samaritan Medical Center
+                                               [ @ 38 ] 2183 N.W. Northrup St. [ @ 42 ] +
+                                               Portland, OR, 97210
+                                                                              More
+                                               [ @ 39 ] Campus Map
+                   Green Gables                [ @ 40 ] Mapa del Campus
                    Guest House
-                                              [ @ 43 ] 503-413-7848
+                                               [ @ 41 ] 503-413-7848
 
 
 
 
 
-             [ @ 299 ]                                                                                                                                With Us
-                                                               [ 306 ] Our Organization [ 310 ] For Patients                      [ 316 ] Connect
-                    LEGACY                                     [ @ 307 ] Careers                 [ @ 311 ] Clinical Trials        [ @ 317 ] Join Our Newsletter
-                    HEALTH                                                                                                                      Us
-                                                               [ @ 308 ] Volunteering            [ @ 312 ] Financial Assistance   [ @ 318 ] Contact
-             [ 300 ] Our mission is good health for our        [ @ 309 ] Doing Business With Us  [ @ 313 ] Interpreter Services
-            people, our patients, our communities and our                                        @ 314 ] Medical Records
-                                                                                                 [
+             [ @ 249 ]                                                                                                                                  With Us
+                                                                [ 256 ] Our Organization [ 260 ] For Patients                       [ 266 ] Connect
+                     LEGACY                                     [ @ 257 ] Careers                 [ @ 261 ] Clinical Trials         [ @ 267 ] Join Our Newsletter
+                    HEALTH                                                                                                                        Us
+                                                                [ @ 258 ] Volunteering            [ @ 262 ] Financial Assistance    [ @ 268 ] Contact
+             [ 250 ] Our mission is good health for our         [ @ 259 ] Doing Business With Us  [ @ 263 ] Interpreter Services
+            people, our patients, our communities and our                                         [ @ 264 ] Medical Records
             world. Above all, we will do the right thing.
-                                                                                                 [ @ 315 ] Pay a Bill
-            [ @ 301 ]    [ @ 302 ]                             [ 319 ] © 2023 Legacy Health [ 320 ] | [ @ 321 ] Terms of Use [ 322 ] | [ @ 323 ] Privacy Policy [ 324 ] |
-                                                               [ @ 325 ] Notice of Nondiscrimination [ 326 ] | [ @ 327 ] No Surprise Billing [ 328 ] | [ @ 329 ] Capital Reporting [ 330 ] |
-             [ @ 303 ]     [ @ 304 ] in                        [ @ 331 ] Do Not Sell or Share My Personal Information
-             [ @ 305 ]
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 749
+                                                                                                  [ @ 265 ] Pay a Bill
+             [ @ 251 ] **f [ @ 252 ]**
+                                                                [ 269 ] © 2023 Legacy Health [ 270 ] [ @ 271 ] Terms of Use [ 272 ] | [ @ 273 ] Privacy Policy [ 274 ] |
+                                                                [ @ 275 ] Notice of Nondiscrimination [ 276 ] [ @ 277 ] No Surprise Billing [ 278 ] [ @ 279 ] Capital Reporting [ 280 ] |
+             [ @ 253 ] O [ @ 254 ] in                           [ @ 281 ] Do Not Sell or Share My Personal Information
+             [ @ 255 ] ►
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 747
