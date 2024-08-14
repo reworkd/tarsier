@@ -1,53 +1,56 @@
 -----------------------------------------------------------------------------------------------------------------------------
-[ @ 1 ] Select a School [ @ 2 ] Language ☐ [ @ 3 ]                      [ @ 7 ] Login [ # 5 ] Search ... [ @ 6 ]
-                                                                [ @ 4 ]
-                       [ @ 8 ]                                           [ @ 9 ]
-                                                           **[ 10 ] FLAGSTONE**
-                              ✔ELEMENTARY
-                                                             **ELEMENTARY**
-                                                          [ 11 ] 104 Lovington St, Castle Rock, CO 80104
+a School  [ @ 2 ]    ㅁ                                                 [ # 5 ] Search ...   ㅁ
+                        [ @ 1 ] Select           ㅁ                                            [ @ 7 ] Login
+                                         Language       [ @ 4 ] Flyers
+                                                                        [ @ 9 ]
+                                 [ @ 8 ]
+                                                             **FLAGSTONE**
+                        **Flagstone** ELEMENTARY
+                                                            **ELEMENTARY**
+                                                          104 Lovington St, Castle Rock, CO 80104
 
-                         [ @ 12 ] Home [ @ 13 ] About [ @ 14 ] Registration [ @ 15 ] Classrooms [ @ 16 ] Parents [ @ 17 ] BASE [ @ 18 ] State Testing
+                         [ @ 10 ] Home [ @ 11 ] About [ @ 12 ] Registration [ @ 13 ] Classrooms [ @ 14 ] Parents [ @ 15 ] BASE [ @ 16 ] State Testing
 
-                         [ @ 19 ] Thursday Blast [ @ 20 ] Open Enrollment
+                         [ @ 17 ] Thursday Blast [ @ 18 ] Open Enrollment
 
-                         [ @ 22 ] Administrative & [ @ 25 ] FLAGSTONE ELEMENTARY [ 26 ] / [ @ 27 ] ABOUT [ 28 ] [ 29 ] ADMINISTRATIVE & OFFICE
-                         Office Staff          STAFF
-                         [ @ 23 ] Classified Staff  ADMINISTRATIVE & OFFICE STAFF
-                         [ @ 24 ] Student Support Staff
-
-
-
-
-
-
-                                                       [ 31 ] Meg Jacques       [ 34 ] Angela Tucker      [ 37 ] Ashley Solano
-                                                        [ 32 ] Principal       [ 35 ] Assistant Principal [ 38 ] Principal's Secretary
-                                                         [ @ 33 ] Email           [ @ 36 ] Email            [ @ 39 ] Email
+                         [ @ 20 ] Administrative & [ @ 23 ] FLAGSTONE ELEMENTARY [ 24 ] / [ @ 25 ] ABOUT [ 26 ] [ 27 ] ADMINISTRATIVE & OFFICE
+                        Office Staff          STAFF
+                         [ @ 21 ] Classified Staff ADMINISTRATIVE & OFFICE STAFF
+                         [ @ 22 ] Student Support Staff
 
 
 
 
 
 
-
-                                                        [ 40 ] Pam Cavit      [ 43 ] Candice Lopez Trejo [ 46 ] Kay Livingstone
-                                                         [ 41 ] Registrar        [ 44 ] School Nurse     [ 47 ] Building Engineer
-                                                         [ @ 42 ] Email            [ @ 45 ] Email           [ @ 48 ] Email
-
-
-                                                       [ 49 ] Odessa Morris
-                                                      [ 50 ] Health Assistant
-                                                         [ @ 51 ] Email
+                                                      [ 29 ] Meg Jacques       [ 32 ] Angela Tucker     [ 35 ] Ashley Solano
+                                                       [ 30 ] Principal      [ 33 ] Assistant Principal [ 36 ] Principal's Secretary
+                                                        [ @ 31 ] Email           [ @ 34 ] Email           [ @ 37 ] Email
 
 
 
 
-                       [ 52 ] FLAGSTONE ELEMENTARY                                                     **fo**
-                       [ 53 ] Principal: Meg Jacques
-                       [ 54 ] 104 Lovington St, Castle Rock, CO 80104
-                       [ 55 ] Phone [ 56 ] 303-387-5225 [ 57 ] | Fax [ 58 ] 303-387-5226
 
-                                           [ 61 ] Website by [ @ 63 ] SchoolMessenger Presence [ 62 ]. 2024 SchoolMessenger Corporation. All rights reserved.
+
+
+                                                       [ 38 ] Pam Cavit      [ 41 ] Candice Lopez Trejo [ 44 ] Kay Livingstone
+                                                       [ 39 ] Registrar        [ 42 ] School Nurse     [ 45 ] Building Engineer
+                                                        [ @ 40 ] Email           [ @ 43 ] Email           [ @ 46 ] Email
+
+
+                                                      [ 47 ] Odessa Morris
+                                                     [ 48 ] Health Assistant
+                                                        [ @ 49 ] Email
+
+
+
+
+                      [ 50 ] FLAGSTONE ELEMENTARY
+                                                                                                     **fo**
+                      [ 51 ] Principal: Meg Jacques
+                      [ 52 ] 104 Lovington St, Castle Rock, CO 80104
+                      [ 53 ] Phone [ 54 ] 303-387-5225 [ 55 ] | Fax [ 56 ] 303-387-5226
+
+                                          [ 59 ] Website by [ @ 61 ] SchoolMessenger Presence [ 60 ]. © 2024 SchoolMessenger Corporation. All rights reserved.
 -----------------------------------------------------------------------------------------------------------------------------
-Token count: 509
+Token count: 514

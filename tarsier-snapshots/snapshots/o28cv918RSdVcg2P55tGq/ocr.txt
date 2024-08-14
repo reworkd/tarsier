@@ -1,19 +1,19 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 0 ]
-                                                                                                                                                                         [ 2 ] MENU [ $ 1 ] =
-     **THealth**
+[ @ 0 ]                                                                                                                                                                   MENU
+                                                                                                                                                                                         [ $ 1 ]
+               **Health**
 
 
 
 
-              **[ 23 ]**
-              **Montgomery**
-              **Building**
-              [ @ 24 ] 9275 Montgomery Road
+              **[ 21 ] Montgomery**
+             **Building**
+             [ @ 22 ] 9275 Montgomery Road
              Cincinnati, OH 45242
-              **[ @ 25 ] 513-936-4510**
 
-                 [ 26 ] UC Health Montgomery Building is centrally located on Montgomery
+              [ @ 23 ] 513-936-4510
+
+                 [ 24 ] UC Health Montgomery Building is centrally located on Montgomery
                 Road, with easy access to providers and parking. Home to a wide range of
                 healthcare services, our providers offer evidence - based care that's tailored to
                 you.
@@ -23,17 +23,14 @@
 
 
 
- [ 27 ]
-             **Montgomery Building Map**
+              **[ 25 ] Montgomery Building Map.**
 
 
-              1 [ 28 ] Montgomery Building
-                  [ 29 ] 9275 Montgomery Road
-                  [ 30 ] Cincinnati, OH 45242.
-                  [ @ 31 ] 513-936-4510
-                  [ @ 32 ] Get Directions
-
-
+             1 [ 26 ] Montgomery Building
+                  [ 27 ] 9275 Montgomery Road.
+                  [ 28 ] Cincinnati, OH 45242
+                  [ @ 29 ] 513-936-4510
+                  [ @ 30 ] Get Directions
 
 
 
@@ -43,67 +40,67 @@
 
 
 
-                                                                                                                                                             [ @ 42 ] See All Locations >
+
+
+                                                                                                                                                             [ @ 40 ] See All Locations >
 
 
 
 
 
-        [ 43 ] PRACTICES
+              [ 41 ] PRACTICES
 
-                [ 44 ] Chiropractic                        [ 46 ] Digestive Diseases                 [ 49 ] Endocrinology, Diabetes &           [ 51 ] General Internal Medicine
-                [ 45 ] Suite 250                           [ 47 ] Suite 100                          Metabolism                                 [ 52 ] Suite 200
-                                                           [ @ 48 ] 513-475-7505                     [ 50 ] Suite 100                           [ @ 53 ] 513-936-4510
-                [ 54 ] Heart Care                          [ 57 ] Lab Services                       [ 60 ] Nephrology                          [ @ 63 ] Orthopaedics & Sports
-                [ 55 ] Suite 100                           [ 58 ] Suite 150                          [ 61 ] Suite 100                           Medicine
-                [ @ 56 ] 513-475-8521                      [ @ 59 ] 513-936-4568                      [ @ 62 ] 513-475-8525                      [ 64 ] Suite 100
-                                                                                                                                                [ @ 65 ] 513-475-8690
-                [ @ 66 ] Orthopaedics & Sports             [ 69 ] Primary Care                       [ 72 ] Pulmonary
-               Medicine                                    [ 70 ] Suite 200                          [ 73 ] Suite 100
-                [ 67 ] Suite 300                           [ @ 71 ] 513-936-4510
-                [ @ 68 ] 513-475-8690
+                [ 42 ] Chiropractic                        [ 44 ] Digestive Diseases                  [ 47 ] Endocrinology, Diabetes &          [ 49 ] General Internal Medicine
+                [ 43 ] Suite 250                           [ 45 ] Suite 100                          Metabolism                                 [ 50 ] Suite 200
+                                                           [ @ 46 ] 513-475-7505                      [ 48 ] Suite 100                          [ @ 51 ] 513-936-4510
+                [ 52 ] Heart Care                          [ 55 ] Lab Services                        [ 58 ] Nephrology                         [ @ 61 ] Orthopaedics & Sports
+                [ 53 ] Suite 100                           [ 56 ] Suite 150                           [ 59 ] Suite 100                          Medicine
+                [ @ 54 ] 513-475-8521                      [ @ 57 ] 513-936-4568                     [ @ 60 ] 513-475-8525                       [ 62 ] Suite 100
+                                                                                                                                                [ @ 63 ] 513-475-8690
+                [ @ 64 ] Orthopaedics & Sports             [ 67 ] Primary Care                       [ 70 ] Pulmonary
+               Medicine                                    [ 68 ] Suite 200                           [ 71 ] Suite 100
+                [ 65 ] Suite 300                           [ @ 69 ] 513-936-4510
+                [ @ 66 ] 513-475-8690
 
-                                                                         [ 74 ] <<   [ 75 ]     [ 76 ] 1   [ 77 ]     [ 78 ] >>
-
-
-
-
-
-
-                                                                                      [ 79 ] CONTACT US
-            [ 80 ] At UC Health, we lead the region in scientific discoveries and embrace a spirit of purpose - offering our patients and their families something beyond everyday
-                                                                              healthcare. At UC Health, we offer hope.
-
-                                                                                                [ @ 81 ]
-                                                                                    [ 82 ] For more information,
-                                                                                                 call:
-                                                                                          [ 83 ] 513-936-4510
-
-
-
-
-
-                                                                                         [ $ 84 ] Back to Top
-
-
-               UC Health                                                                                                            [ @ 91 ]   [ @ 92 ]    [ @ 93 ]   [ @ 94 ]   [ @ 95 ]
-                                                                                                                                   D           ►                      ►
-                                                                                                                                    Faceb      Instag      Linkec     Twitte     YouTu
-             [ @ 85 ] Employees & Staff
-              [ @ 86 ] Joint Commission Accreditation
-              [ @ 87 ] Leadership
-              [ @ 88 ] Supplier Diversity & Community Engagement
-              [ @ 89 ] UC Health Code of Conduct
-             [ @ 90 ] UC Health Foundation
+                                                                          [ 72 ]      [ 73 ]    [ 74 ] 1   [ 75 ]     [ 76 ]
 
 
 
 
 
 
-              [ 101 ] © 2023 UC Health. All rights reserved.            [ @ 96 ] Privacy   [ @ 97 ] Terms &     [ @ 98 ] Notice of         [ @ 99 ] Non-            [ @ 100 ] Advertising
-                                                                       Policy              Conditions           Privacy Practices         Discrimination            Disclosure
-                                                                                                                                          Policy
+                                                                                      [ 77 ] CONTACT US
+                     [ 78 ] At UC Health, we lead the region in scientific discoveries and embrace a spirit of purpose - offering our patients and their families something beyond
+                                                                         everyday healthcare. At UC Health, we offer hope.
+
+                                                                                                [ @ 79 ]
+                                                                                    For more information, call:
+                                                                                            513-936-4510
+
+
+
+
+
+                                                                                         [ $ 80 ] Back to Top
+
+
+               UC Health                                                                                                            [ @ 87 ]   [ @ 88 ]    [ @ 89 ]   [ @ 90 ]    [ @ 91 ]
+                                                                                                                                               ►
+                                                                                                                                    Faceb      Instag      Linkec     Twitte     YouT
+             [ @ 81 ] Employees & Staff
+              [ @ 82 ] Joint Commission Accreditation
+             [ @ 83 ] Leadership
+              [ @ 84 ] Supplier Diversity & Community Engagement
+              [ @ 85 ] UC Health Code of Conduct
+             [ @ 86 ] UC Health Foundation
+
+
+
+
+
+
+              [ 97 ] © 2023 UC Health. All rights reserved.             [ @ 92 ] Privacy   [ @ 93 ] Terms &      [ @ 94 ] Notice of        [ @ 95 ] Non-              [ @ 96 ] Advertising
+                                                                       Policy              Conditions            Privacy Practices         Discrimination Policy     Disclosure
 
 
 Welcome to UC Health
@@ -119,4 +116,4 @@ here ...
 
 Welcome to UC Health. Can I help answer something for you?
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 958
+Token count: 930
