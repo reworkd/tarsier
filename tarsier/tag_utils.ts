@@ -30,7 +30,8 @@ const elIsVisible = (el: HTMLElement) => {
   // Often input elements will have 0 opacity but still have some interactable component
   const isTransparent = has0Opacity && !hasLabel(el);
   const isDisplayContents = computedStyle.display === "contents";
-  const isZeroSize = (rect.width === 0 || rect.height === 0) && !isDisplayContents; // display: contents elements have 0 width and height
+  const isZeroSize =
+    (rect.width === 0 || rect.height === 0) && !isDisplayContents; // display: contents elements have 0 width and height
   const isScriptOrStyle = el.tagName === "SCRIPT" || el.tagName === "STYLE";
   return !isHidden && !isTransparent && !isZeroSize && !isScriptOrStyle;
 };
@@ -124,20 +125,21 @@ function isElementInViewport(el: HTMLElement) {
 
   const isLargerThan1x1 = rect.width > 1 || rect.height > 1;
 
-  let body = document.body, html = document.documentElement;
+  let body = document.body,
+    html = document.documentElement;
   const height = Math.max(
     body.scrollHeight,
     body.offsetHeight,
     html.clientHeight,
     html.scrollHeight,
-    html.offsetHeight
+    html.offsetHeight,
   );
   const width = Math.max(
     body.scrollWidth,
     body.offsetWidth,
     html.clientWidth,
     html.scrollWidth,
-    html.offsetWidth
+    html.offsetWidth,
   );
 
   return (
@@ -256,14 +258,18 @@ function create_tagged_span(idNum: number, el: HTMLElement) {
 
 const MIN_FONT_SIZE = 11;
 const ensureMinimumTagFontSizes = () => {
-  const tags = Array.from(document.querySelectorAll(tarsierSelector)) as HTMLElement[];
+  const tags = Array.from(
+    document.querySelectorAll(tarsierSelector),
+  ) as HTMLElement[];
   tags.forEach((tag) => {
-    let fontSize = parseFloat(window.getComputedStyle(tag).fontSize.split("px")[0]);
+    let fontSize = parseFloat(
+      window.getComputedStyle(tag).fontSize.split("px")[0],
+    );
     if (fontSize < MIN_FONT_SIZE) {
       tag.style.fontSize = `${MIN_FONT_SIZE}px`;
     }
   });
-}
+};
 
 window.tagifyWebpage = (tagLeafTexts = false) => {
   window.removeTags();
@@ -357,7 +363,7 @@ function removeNestedTags(elementsToTag: HTMLElement[]): HTMLElement[] {
 
       // Only remove nested tags if there is only a single element to remove
       if (elementsToRemove.length <= 2) {
-        for(let element of elementsToRemove) {
+        for (let element of elementsToRemove) {
           res.splice(res.indexOf(element), 1);
         }
       }
@@ -382,7 +388,10 @@ function insertTags(
     textNode.textContent = textNode.textContent!.trimStart();
   }
 
-  function getElementToInsertInto(element: HTMLElement, idSpan: HTMLSpanElement): HTMLElement {
+  function getElementToInsertInto(
+    element: HTMLElement,
+    idSpan: HTMLSpanElement,
+  ): HTMLElement {
     // An <a> tag may just be a wrapper over many elements. (Think an <a> with a <span> and another <span>
     // If these sub children are the only children, they might have styling that mis-positions the tag we're attempting to
     // insert. Because of this, we should drill down among these single children to insert this tag
@@ -397,15 +406,34 @@ function insertTags(
           return false;
         }
 
-        return !(child.nodeType === Node.ELEMENT_NODE && (isTextLess(child as HTMLElement) || !elIsVisible(child as HTMLElement)));
-      }
+        return !(
+          child.nodeType === Node.ELEMENT_NODE &&
+          (isTextLess(child as HTMLElement) ||
+            !elIsVisible(child as HTMLElement))
+        );
+      },
     );
 
     if (childrenToConsider.length === 1) {
       const child = childrenToConsider[0];
       // Also check its a span or P tag
-      const elementsToDrillDown = ["div", "span", "p", "h1", "h2", "h3", "h4", "h5", "h6"];
-      if (child.nodeType === Node.ELEMENT_NODE && elementsToDrillDown.includes((child as HTMLElement).tagName.toLowerCase())) {
+      const elementsToDrillDown = [
+        "div",
+        "span",
+        "p",
+        "h1",
+        "h2",
+        "h3",
+        "h4",
+        "h5",
+        "h6",
+      ];
+      if (
+        child.nodeType === Node.ELEMENT_NODE &&
+        elementsToDrillDown.includes(
+          (child as HTMLElement).tagName.toLowerCase(),
+        )
+      ) {
         return getElementToInsertInto(child as HTMLElement, idSpan);
       }
     }
@@ -428,7 +456,7 @@ function insertTags(
         el.parentElement.insertBefore(idSpan, el);
       } else {
         const insertionElement = getElementToInsertInto(el, idSpan);
-        insertionElement.prepend(idSpan)
+        insertionElement.prepend(idSpan);
         absolutelyPositionTagIfMisaligned(idSpan, insertionElement);
       }
       idNum++;
@@ -437,8 +465,10 @@ function insertTags(
       const validTextNodes = Array.from(el.childNodes).filter(
         isNonWhiteSpaceTextNode,
       );
-      const allTextNodes = Array.from(el.childNodes).filter(child => child.nodeType === Node.TEXT_NODE);
-      for(let child of validTextNodes) {
+      const allTextNodes = Array.from(el.childNodes).filter(
+        (child) => child.nodeType === Node.TEXT_NODE,
+      );
+      for (let child of validTextNodes) {
         const parentXPath = getElementXPath(el);
         const textNodeIndex = allTextNodes.indexOf(child) + 1;
 
@@ -456,7 +486,10 @@ function insertTags(
   return idToXpath;
 }
 
-function absolutelyPositionTagIfMisaligned(tag: HTMLElement, reference: HTMLElement) {
+function absolutelyPositionTagIfMisaligned(
+  tag: HTMLElement,
+  reference: HTMLElement,
+) {
   /*
   Some tags don't get displayed on the page properly
   This occurs if the parent element children are disjointed from the parent
@@ -474,7 +507,8 @@ function absolutelyPositionTagIfMisaligned(tag: HTMLElement, reference: HTMLElem
   const expectedTagPositionRect = reference.getBoundingClientRect();
   if (
     expectedTagPositionRect.right < 0 ||
-    expectedTagPositionRect.left > (window.innerWidth || document.documentElement.clientWidth)
+    expectedTagPositionRect.left >
+      (window.innerWidth || document.documentElement.clientWidth)
   ) {
     // Expected position is off-screen horizontally, remove the tag
     tag.remove();
@@ -521,15 +555,17 @@ function absolutelyPositionTagIfMisaligned(tag: HTMLElement, reference: HTMLElem
 }
 
 const shrinkCollidingTags = () => {
-  const tags = Array.from(document.querySelectorAll(tarsierSelector)) as HTMLElement[];
-  for(let i = 0; i < tags.length; i++) {
+  const tags = Array.from(
+    document.querySelectorAll(tarsierSelector),
+  ) as HTMLElement[];
+  for (let i = 0; i < tags.length; i++) {
     const tag = tags[i];
     let tagRect = tag.getBoundingClientRect();
     let fontSize = parseFloat(
       window.getComputedStyle(tag).fontSize.split("px")[0],
     );
 
-    for(let j = i + 1; j < tags.length; j++) {
+    for (let j = i + 1; j < tags.length; j++) {
       const otherTag = tags[j];
       let otherTagRect = otherTag.getBoundingClientRect();
       let otherFontSize = parseFloat(
@@ -553,9 +589,8 @@ const shrinkCollidingTags = () => {
         otherTagRect = otherTag.getBoundingClientRect();
       }
     }
-
   }
-}
+};
 
 window.removeTags = () => {
   const tags = document.querySelectorAll(tarsierSelector);
