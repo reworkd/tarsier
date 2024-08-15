@@ -1,146 +1,145 @@
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 0 ] Apply Now
-                                                    reddit
+                                                                      reddit
 
-                                       [ 1 ] Engineering Manager, Service
-                                      Foundation
-                                       [ 2 ] at Reddit [ @ 3 ] ( View all jobs )
-                                       [ 4 ] Toronto, Canada
-                                       [ 5 ] Reddit is a community of communities where people can dive into anything through experiences built
-                                      around their interests, hobbies, and passions. Our mission is to bring community, belonging, and
-                                      empowerment to everyone in the world. Reddit users submit, vote, and comment on content, stories,
-                                      and discussions about the topics they care about the most. From pets to parenting, there's a community
-                                      for everybody on Reddit and with over 50 million daily active users, it is home to the most open and
-                                      authentic conversations on the internet. For more information, visit [ @ 7 ] redditinc.com [ 6 ].
-                                       [ 8 ] ] The Developer Experience team designs, develops, and support tools and processes that make
-                                      common developer workflows efficient and reliable.
-                                      [ [ 9 ] Some Of Our Present And Future Challenges Include
-                                                [ 10 ] Building a strong cloud staging development story for the entire company.
-                                                [ 11 ] Re - envisioning our service frameworks and tooling integrations to increase developer
-                                               efficiency, confidence, and service reliability.
-                                       [ 12 ] You Will
-                                           ⚫ [ 13 ] Steer: Work with the team to select, scope, and drive high leverage projects that align with
-                                               Reddit's goals.
-                                           ⚫ [ 14 ] Build: Build out your team to execute on a strategy and create more efficient, more reliable
-                                               developer workflows.
-                                                [ 15 ] Amplify: Mentor your ICs and be a leader for the Developer Experience team.
-                                                [ 16 ] Collaborate: Work together with a variety of teams across Reddit Engineering.
-                                                [ 17 ] Evolve: Learn and improve your own technical and non - technical abilities.
-                                       [ 18 ] What we're looking for
-                                                [ 19 ] 3+ years with technical leadership over high performing engineering teams.
-                                                [ 20 ] 3+ years experience working on developer tools, library development, API design.
-                                                [ 21 ] 3+ years experience developing and managing teams focused in Go and Python
-                                                [ 22 ] Strong focus on user experience, usability, scalability, and quality. You are an undying
-                                               advocate for the user, and you have               deep intuition for how people think and how they interact
-                                               with software at scale.
-                                               [ 23 ] High empathy, excellent communication skills, and the ability to find compromise working
-                                               across the entire engineering org.
-                                       [ 24 ] Benefits:
-                                                [ 25 ] Comprehensive Health benefits
-                                                [ 26 ] Retirement Savings plan with matching contributions
-                                                [ 27 ] Workspace benefits for your home office
-                                                [ 28 ] Personal & Professional development funds
-                                                [ 29 ] Family Planning Support
+                                                         [ 1 ] Engineering Manager, Service
+                                                        Foundation
+                                                         [ 2 ] at Reddit [ @ 3 ] ( View all jobs )
+                                                        [ 4 ] Toronto, Canada
+                                                         [ 5 ] Reddit is a community of communities where people can dive into anything through experiences
+                                                        built around their interests, hobbies, and passions. Our mission is to bring community, belonging, and
+                                                        empowerment to everyone in the world. Reddit users submit, vote, and comment on content, stories,
+                                                        and discussions about the topics they care about the most. From pets to parenting, there's a
+                                                        community for everybody on Reddit and with over 50 million daily active users, it is home to the most
+                                                        open and authentic conversations on the internet. For more information, visit [ @ 7 ] redditinc.com [ 6 ].
+                                                         [ 8 ] ] The Developer Experience team designs, develops, and support tools and processes that make
+                                                        common developer workflows efficient and reliable.
+                                                         [ 9 ] Some Of Our Present And Future Challenges Include
+                                                             ⚫ [ 10 ] Building a strong cloud staging development story for the entire company.
+                                                                  [ 11 ] Re - envisioning our service frameworks and tooling integrations to increase developer
+                                                                 efficiency, confidence, and service reliability.
+                                                         [ 12 ] You Will
+                                                                  [ 13 ] Steer: Work with the team to select, scope, and drive high leverage projects that align with
+                                                                 Reddit's goals.
+                                                                  [ 14 ] Build: Build out your team to execute on a strategy and create more efficient, more reliable
+                                                                 developer workflows.
+                                                                 [ 15 ] Amplify: Mentor your ICs and be a leader for the Developer Experience team.
+                                                             ⚫ [ 16 ] Collaborate: Work together with a variety of teams across Reddit Engineering.
+                                                                  [ 17 ] Evolve: Learn and improve your own technical and non - technical abilities.
+                                                         [ 18 ] What we're looking for
+                                                             ⚫ [ 19 ] 3+ years with technical leadership over high performing engineering teams.
+                                                                  [ 20 ] 3+ years experience working on developer tools, library development, API design.
+                                                                  [ 21 ] 3+ years experience developing and managing teams focused in Go and Python
+                                                                  [ 22 ] Strong focus on user experience, usability, scalability, and quality. You are an undying
+                                                                 advocate for the user, and you have deep intuition for how people think and how they interact
+                                                                 with software at scale.
+                                                                  [ 23 ] High empathy, excellent communication skills, and the ability to find compromise working
+                                                                 across the entire engineering org.
+                                                         [ 24 ] Benefits:
+                                                              •   [ 25 ] Comprehensive Health benefits
+                                                                  [ 26 ] Retirement Savings plan with matching contributions
+                                                                  [ 27 ] Workspace benefits for your home office
+                                                                  [ 28 ] Personal      Professional development funds
+                                                                  [ 29 ] Family Planning Support
+                                                                  [ 30 ] Flexible Vacation & Reddit Global Days Off
+                                                         [ 31 ] # LI - remote, # LI - JS5
+                                                         [ 32 ] Reddit is committed to providing reasonable accommodations for qualified individuals with
+                                                        disabilities and disabled veterans in our job application procedures. If you need assistance or an
+                                                        accommodation due to a disability, please contact us at
+                                                         [ @ 33 ] ApplicationAssistance@Reddit.com [ 34 ].
 
-
-
-                                             ...... [ 30 ] Flexible Vacation   Reddit Global Days Off
-                                       [ 31 ] # LI - remote, # LI - JS5
-                                       [ 32 ] Reddit is committed to providing reasonable accommodations for qualified individuals with
-                                      disabilities and disabled veterans in our job application procedures. If you need assistance or an
-                                      accommodation due to a disability, please contact us at [ @ 33 ] ApplicationAssistance@Reddit.com [ 34 ]
-
-                                             [ 35 ] Apply for this Job                                                                         [ 37 ] [ 36 ] Required
-                                                  in Apply With LinkedIn
+                                                                [ 35 ] Apply for this Job                                                                        [ 37 ] [ 36 ] Required
+                                                                    in Apply With LinkedIn
 
 
-                                              [ $ 38 ] First Name       [ # 39 ]
+                                                                [ $ 38 ] First Name       [ # 39 ]
 
-                                              [ $ 40 ] Last Name * [ # 41 ]
+                                                                 [ $ 40 ] Last Name       [ # 41 ]
 
-                                                     [ $ 42 ] Email * [ # 43 ]
+                                                                       [ $ 42 ] Email     [ # 43 ]
 
-                                                    [ $ 44 ] Phone      [ # 45 ]
+                                                                      [ $ 44 ] Phone * [ # 45 ]
 
-                                               [ $ 46 ] Resume / CV [ $ 47 ] Attach,       [ @ 48 ] Dropbox, [ @ 49 ] Google Drive,
-                                                                         [ $ 50 ] or enter manually
-                                                                        [ 51 ] ( File types: pdf, doc, docx, txt, rtf )
-                                               [ $ 52 ] ] Cover Letter   [ $ 53 ] Attach, [ @ 54 ] Dropbox, [ @ 55 ] Google Drive,
-                                             [ $ 56 ] or enter manually
-                                             [ 57 ] ( File types: pdf, doc, docx, txt, rtf )
+                                                                  [ $ 46 ] Resume / CV [ $ 47 ] Attach,      [ @ 48 ] Dropbox,     [ @ 49 ] Google Drive,
+                                                                                          [ $ 50 ] or enter manually
+                                                                                          [ 51 ] ( File types: pdf, doc, docx, txt, rtf )
+                                                                 [ $ 52 ] Cover Letter    [ $ 53 ] Attach,   [ @ 54 ] Dropbox,     [ @ 55 ] Google Drive,
+                                                                [ $ 56 ] or enter manually
+                                                               [ 57 ] ( File types: pdf, doc, docx, txt, rtf )
 
-                                              [ 58 ] LinkedIn Profile
-                                             [ # 59 ]
+                                                               [ 58 ] LinkedIn Profile
+                                                                [ # 59 ]
 
-                                             [ 60 ] How did you hear about this job? [ 61 ] *
-                                             [ # 62 ]
+                                                               [ 60 ] How did you hear about this job? [ 61 ] *
+                                                                [ # 62 ]
 
-                                             [ [ 63 ] Are you currently authorized to work in Canada? [ 64 ]
+                                                               [ 63 ] Are you currently authorized to work in Canada? [ 64 ]
+                                                                 [ @ 65 ]
+                                                               [ # 67 ]
+                                                               [ 68 ] Do you now, or will you in the future, require immigration sponsorship to work at Reddit?
+                                                                [ 69 ] *
+                                                                 [ @ 70 ]
+                                                               [ # 72 ]
+                                                               [ 73 ] By selecting" I agree," I understand that the information I have provided as part of this job
+                                                               application will be processed in accordance with Reddit's Candidate Privacy Policy. [ 74 ]
+                                                               [ @ 75 ] Reddit's Candidate Privacy Policy
+                                                                 [ @ 76 ] ]
+                                                               [ # 78 ]
 
-                                             [ # 67 ]
-                                             [ 68 ] Do you now, or will you in the future, require immigration sponsorship to work at Reddit?
-                                              [ 69 ] *
-                                                 70
-                                             [ # 72 ]
-                                             [ 73 ] ] By selecting" I agree," I understand that the information I have provided as part of this job
-                                                                                                                                                           *
-                                             application will be processed in accordance with Reddit's Candidate Privacy Policy. [ 74 ]
-                                             [ @ 75 ] Reddit's Candidate Privacy Policy
-                                                 701
-                                             [ # 78 ]
-
-                                              [ 79 ] Reddit Canada Equal Employment Information
-                                             [ 80 ] Reddit is proud to be an equal opportunity employer, and is committed to building a
-                                             workforce representative of the diverse communities we serve. To bring community and
-                                             belonging to everyone in the world, Reddit's employees must represent communities and
-                                             redditors on our platform.
-                                             [ 81 ] The Company is committed to treating all people in a way that allows them to maintain
-                                             their dignity and independence. We believe in integration and equal opportunity.
-                                             Accommodations are available throughout the recruitment process and applicants with a
-                                             disability may request to be accommodated throughout the recruitment process.
-                                             [ 82 ] We will work with all applicants to accommodate their individual accessibility needs
-                                             [ 83 ] Our vision at Reddit is to have workforce representative of people with different
-                                             perspectives and experiences, including but not limited to, gender, race and ethnicity, sexual
-                                             orientation, age, national origin, religion, and political views.
-                                             [ 84 ] We invite you to self - identify across the identities below so we can better understand our
-                                             talent pools and assess our effectiveness in attracting and recruiting people to Reddit from all
-                                             backgrounds.
-                                             [ 85 ] Answering these questions will not impact your application, nor will this information be
-                                             shared with anyone making a hiring decision.
-                                             [ 86 ] ] What gender identity do you most closely identify with? [ [ 87 ]
-                                             [ 89 ]  Agender
-                                             [ 591 ] 10 Genderfluid
-                                            [ 593 ] 12 ) Gender non - conforming
-                                             [ 595 ] 14 ) Genderqueer
-                                             [ 597 ]  Female
-                                            [ 399 ]   Male
-                                             [ 101 ] 10 Non - binary
-                                            [ $ 103112 Not listed
-                                            [ $ 105 ] 14 ] I don't wish to answer
-                                             [ 106 ] Are you a person of transgender experience? [ 107 ] ( Select one ) [ 108 ] ] *
-                                             [ 5110 ] Yes
-                                             ( $ 112 ] No
-                                            [ 5114 ] 3 I don't wish to answer
-                                              [ 115 ] ] What sexual orientation do you most closely identify with? [ 116 ] *
-                                             ( $ 118 ]. Asexual
-                                             ( $ 1.2015 Bisexual
-                                             $ 1.22 ] Gay
-                                             [ $ 1.2413 ) Heterosexual
-                                             ( $ 1.2615 ) Lesbian
-                                             ( $ 1.2837 ) Pansexual
-                                             ssoy     Queer
-                                             [ 81321  Not listed
-                                            [ 5134113 ) I don't wish to answer
-
-
-                                                                                                                                    [ $ 135 ] bmit Application
+                                                               [ 79 ] Reddit Canada Equal Employment Information
+                                                               [ 80 ] Reddit is proud to be an equal opportunity employer, and is committed to building a
+                                                               workforce representative of the diverse communities we serve. To bring community and
+                                                               belonging to everyone in the world, Reddit's employees must represent communities and
+                                                               redditors on our platform.
+                                                               [ 81 ] The Company is committed to treating all people in a way that allows them to maintain
+                                                               their dignity and independence. We believe in integration and equal opportunity.
+                                                               Accommodations are available throughout the recruitment process and applicants with a
+                                                               disability may request to be accommodated throughout the recruitment process.
+                                                               [ 82 ] We will work with all applicants to accommodate their individual accessibility needs
+                                                               [ 83 ] Our vision at Reddit is to have a workforce representative of people with different
+                                                               perspectives and experiences, including but not limited to, gender, race and ethnicity, sexual
+                                                               orientation, age, national origin, religion, and political views.
+                                                               [ 84 ] We invite you to self - identify across the identities below so we can better understand
+                                                               our talent pools and assess our effectiveness in attracting and recruiting people to Reddit
+                                                               from all backgrounds.
+                                                                [ 85 ] Answering these questions will not impact your application, nor will this information be
+                                                               shared with anyone making a hiring decision.
+                                                               [ 86 ] What gender identity do you most closely identify with? [ 87 ] *
+                                                               [ $ 89 ] ] Agender
+                                                               [ $ 91 ] ] Genderfluid
+                                                               [ $ 93 ] ] ] Gender non - conforming
+                                                               [ $ 95 ] ] Genderqueer
+                                                               [ $ Fazil 97 ] Female
+                                                               [ $ 99 ] ] ] Male
+                                                               [ $ 101 ] ] Non - binary
+                                                               [ $ 103 ] ] Not listed
+                                                               [ $ 105 ] I don't wish to answer
+                                                               [ 106 ] Are you a person of transgender experience? [ 107 ] ( Select one ) [ 108 ] *
+                                                               [ $ 110 ] ] Yes
+                                                               [ $ 112 ]  No
+                                                               [ $ 114 114 ] I don't wish   answer
+                                                                [ 115 ] What sexual orientation do you most closely identify with? [ 116 ] ] *
+                                                               [ $ 118 ] ] Asexual
+                                                               [ $ 120 ]  Bisexual
+                                                               [ $ 1221 ] Gay
+                                                               $ 124 ] ] Heterosexual
+                                                               [
+                                                               [ $ 126 ] Lesbian
+                                                               [ $ 128 ]  Pansexual
+                                                               [ $ 130 ] ] ] Queer
+                                                               [ $ 1321 ] Not listed
+                                                               $ 134 ] ] I don't wish to answer
+                                                               [
 
 
-                                                                                                                            Powered by                greenhouse
-                                                                                                                     [ 136 ]                [ @ 137 ]
-                                                                                                                                   Read our            Privacy Policy
-                                                                                                                            [ 138 ] ]         [ @ 139 ]
-                                                                                                                                                                                                                                                                                    Privacy - Terms
+                                                                                                                                                     [ $ 135 ] mit   Application
+
+
+                                                                                                                                               Powered by               greenhouse
+                                                                                                                                        [ 136 ]               [ @ 137 ]
+                                                                                                                                                     Read our            Privacy Policy
+                                                                                                                                              [ 138 ]           [ @ 139 ]
+                                                                                                                                                                                                                                                                                                                        Privacy - Terms
 [ $ 141 ]
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1731
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1751

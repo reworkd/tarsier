@@ -1,33 +1,31 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 0 ]
-                                                                               [ @ 1 ] Careers [ @ 2 ] Donate [ @ 3 ] Education [ @ 4 ] About
-                                                                               [ @ 5 ] Quality & Safety
-                                                                                                                                                      [ # 6 ]
-                                                                                                                          Website Search
-                          **Michigan Health**                                                                                                       [ $ 7 ] )
-     **MMy**      UNIVERSITY OF MICHIGAN HEALTH
-                                                                                                                                       **My Chart**
-                                                                                                                          [ @ 8 ] LOG IN  [ @ 9 ] LEARN MORE
+                                                                                     [ @ 1 ] Careers [ @ 2 ] Donate [ @ 3 ] Education [ @ 4 ] About [ @ 5 ] Quality & Safety
+                                                                                                                                                       [ # 6 ]
+                                                                                                                             Website Search
+                                                                                                                                                     [ $ 7 ] )
+                    **My Michigan Health**
+                   UNIVERSITY OF MICHIGAN          HEALTH
+                                                                                                                                         **My Chart**
+                                                                                                                              [ @ 8 ] LOG IN [ @ 9 ] LEARN MORE
 
-       [ @ 10 ] CARE &            [ @ 11 ] FIND A DOCTOR           [ @ 12 ] LOCATIONS &            [ @ 13 ] PATIENTS &           [ $ 14 ] QUICKLINKS +
-        TREATMENT                                                         PHONE                         VISITORS
+        [ @ 10 ] CARE &           [ @ 11 ] FIND A DOCTOR          [ @ 12 ] LOCATIONS &            [ @ 13 ] PATIENTS &           [ $ 14 ] QUICKLINKS +
+         TREATMENT                                                        PHONE                        VISITORS
 
-    [ @ 17 ] Home [ 15 ] > [ @ 18 ] Locations & Phone [ 16 ] > [ 19 ] Profile                                           [ 20 ] TEXT A A A
-                                                                                                                       SIZER
-     [ @ 21 ] New Search
-    **CT**  **Scanning**
+     [ @ 17 ] Home [ 15 ] ] > [ @ 18 ] Locations & Phone [ 16 ] > [ 19 ] Profile                                          [ 20 ] TEXT
+                                                                                                                          SIZER
+             [ @ 24 ] New Search
+             **[ 25 ] CT Scanning**
 
-                                               [ @ 23 ] ( 989 ) 633-5252
-                                                                                                [ 47 ] Hours of Operation
-                                               [ 24 ] Alternate: [ @ 25 ] ( 888 ) 367-2778
-                                                                                                [ $ 48 ]
-                                               [ 26 ] CT Scanning                               [ 49 ] Thursday:                      [ 50 ] 8:00 AM-5:00PM
-                                              [ 27 ] MyMichigan Medical Center Clare
-                                               [ 291703 N. McEwan Street                        [ 51 ] CT Scans are by available by Appointment Only, Monday -
-                                              [ [ 30 ] Clare [ 28 ], [ 31 ] MI [ 32 ] 48617     Saturday.
-                                                 [ @ 33 ] Get Driving Directions
-
-
+                                                           [ @ 26 ] ( 989 ) 633-5252
+                                                                                                                  [ 50 ] Hours of Operation
+                                                           [ 27 ] Alternate: [ @ 28 ] ( 888 ) 367-2778
+                                                                                                                  Thursday: [ $ 51 ]
+                                                           [ 29 ] CT Scanning                                                      8:00 AM-5:00PM
+                                                           [ 30 ] MyMichigan Medical Center Clare
+                                                           [ 32 ] 703 N. McEwan Street                            [ 52 ] CT Scans are by available by
+                                                           [ 33 ] Clare [ 31 ], [ 34 ] MI [ 35 ] 48617           Appointment Only, Monday - Saturday.
+                                                              [ @ 36 ] Get Driving Directions
 
 
 
@@ -37,30 +35,32 @@
 
 
 
-[ 52 ] About
-[ 53 ] A computerized tomography scan ( CT or CAT scan ) uses computers and and combinations of X - rays to create images of the bodies organs, bones and
-    other tissues. These images provide more detailed information than normal X - ray images. They can show the soft tissues, blood vessels, and bones in
-    various parts of the body. A CT scan may be used to visualize the:
-    [ 54 ] abdomen
-    [ 55 ] chest
-    [ 56 ] head
-    [ 57 ] heart
-    [ 58 ] knee
-    [ 59 ] spine
-    [ 60 ] etc.
+
+
+             **[ 53 ] About**
+             [ 54 ] A computerized tomography scan ( CT or CAT scan ) uses computers and and combinations of X - rays to create images of the bodies organs, bones
+             and other tissues. These images provide more detailed information than normal X - ray images. They can show the soft tissues, blood vessels, and bones
+             in various parts of the body. A CT scan may be used to visualize the:
+                [ 55 ] abdomen
+                [ 56 ] chest
+                [ 57 ] head
+              • [ 58 ] heart
+                [ 59 ] knee
+                [ 60 ] spine
+                [ 61 ] etc.
 
 
 
-   [ 61 ] MyMichigan Health                                  [ 69 ] Follow Us Online                                   [ 77 ] Stay Connected
-   [ 62 ] 4000 Wellness Drive
-   [ 63 ] Midland, MI 48670                                  [ @ 70 ]  [ @ 71 ]  [ @ 72 ]   [ @ 73 ]  [ @ 74 ]         [ @ 78 ] Access MyMichigan
-                                                              **f**                          Tube     **in**
-   [ @ 64 ] Contact Us                                                                                                 [ @ 79 ] E - Newsletter Sign - Up
-                       [ @ 65 ] Notice of Non - Discrimination |
-                                                             [ @ 75 ]  [ @ 76 ]
-    [ @ 66 ] Privacy Policy [ @ 67 ] Terms of Service
-                                                             BLOG
-   [ 68 ] Tax - exempt status: 501 ( c ) ( 3 )
-[ 80 ] 2023 MyMichigan Health. [ 81 ] All rights reserved
+
+   [ 62 ] MyMichigan Health                                  [ 70 ] Follow Us Online                                   [ 78 ] Stay Connected
+   [ 63 ] 4000 Wellness Drive
+   [ 64 ] Midland, MI 48670                                  [ @ 71 ] [ @ 72 ] [ @ 73 ] [ @ 74 ] [ @ 75 ]  [ @ 76 ]    [ @ 79 ] Access MyMichigan
+                                                                                         Tube     in       BLOG
+                                                              **f**                                                    [ @ 80 ] E - Newsletter Sign - Up
+   [ @ 65 ] Contact Us [ @ 66 ] Notice of Non - Discrimination
+                                                             [ @ 77 ]
+    [ @ 67 ] Privacy Policy [ @ 68 ] Terms of Service
+   [ 69 ] Tax - exempt status: 501 ( c ) ( 3 )
+   [ 81 ] © 2023 MyMichigan Health. [ 82 ] All rights reserved
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 733
+Token count: 721

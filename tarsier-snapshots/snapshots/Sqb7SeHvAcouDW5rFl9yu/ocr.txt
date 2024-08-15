@@ -1,46 +1,45 @@
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 1 ] [ @ 2 ] [ @ 3 ] [ @ 4 ] [ @ 5 ]
-                                                                                                                                                                   [ @ 6 ]       [ 7 ] [ 8 ] Accessibility                     ] 9 [ عربي
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 1 ] [ @ 2 ] [ @ 3 ] [ 4 ] [   5 ]
+                                                           ㅁ                                                                                                  [ @ 6 ]   | Accessibility                 ] 7 [ عربي
+                             ☐
 
-                                                                                                                EXPO                    إكسبو
-                                                                                                                2023                    2023
-                    ]    10 [ ات           المعلوم وتكنولوجيا الاتصالات وزارة                       [ @ 11 ] DOHA                      الدوحة
-                                 Ministry of Communications and Information Technology                          QATAR                     قطر
-                                                                       State of Qatar - قطر دولة
+                                                                                                        EXPO               إكسبو
+                                                    وتكنولوجيا الات                                     2023                2023
+                              [ @ 8 ] L       المعلوم                       الاتصــ وزارة       [ @ 9 ] DOHA               الدوحة
+                                      Ministry of Communications and Information State of Qatar Technology قطر دولة QATAR     قطر
 
-                 [ @ 12 ] Home          [ @ 13 ] About Us                 [ @ 14 ] Services                [ @ 15 ] Media Center                  [ @ 16 ] Legislations and Policies                        [ @ 17 ] Contact Us
-                 [ @ 18 ] Home             [ @ 19 ] Legislations And Policies                [ 20 ] Laws
+                           [ @ 10 ] Home       [ @ 11 ] About Us □         [ @ 12 ] Services ☐        [ @ 13 ] Media Center ☐          [ @ 14 ] Legislations and Policies              [ @ 15 ] Contact Us
+                           [ @ 16 ] Home        [ @ 17 ] Legislations And Policies    ☐ [ 18 ] Laws
 
-    [ 21 ]
-                 Laws
+                            **[ 19 ] Laws**
 
 
-                      [ @ 22 ]                                                                [ @ 23 ]
-                          Telecommunications Law of                                                Qatar's e - Commerce Law
-                          Qatar
-
+                                    [ @ 20 ] Telecommunications                                 [ @ 21 ] Qatar's e - Commerce
+                                   Law of Qatar                                                 Law
+                                                                                                  ☐
 
 
 
 
-                 [ @ 24 ] About                                             [ @ 29 ] Useful Pages                                    @ 35 ] Useful Links                                   [ 42 ] Contact
-                     [ @ 25 ] About Us                                          [ @ 30 ] Services                                      [ @ 36 ] Amiri Diwan                                [ 43 ] We provide several optional
-                                                                                                                                                                                           ways for you to get in touch with us.
-                     [ @ 26 ] News                                              [ @ 31 ] Laws                                          [ @ 37 ] Hukoomi
-                     [ @ 27 ] Events                                            [ @ 32 ] Strategies                                    [ @ 38 ] Communications                                  [ @ 44 ] +974 4473 3333
-                     [ @ 28 ] Contact Us                                       [ @ 33 ] Policies                                      Regulatory Authority
-                                                                                                                                                                                                [ @ 45 ] info@mcit.gov.qa
-                                                                                [ @ 34 ] Our Apps                                      [ @ 39 ] Digital Incubation Center
-                                                                                                                                       [ @ 40 ] Mada                                       [ @ 46 ] f [ @ 47 ] ] ▼ [ @ 48 ]
-                                                                                                                                       [ @ 41 ] View All Links                               O [ @ 49 ] in
+                           [ @ 22 ] About                                   [ @ 27 ] Useful Pages                         [ @ 33 ] Useful Links                           [ 40 ] Contact
+                              [ @ 23 ] About Us                                 [ @ 28 ] Services                            [ @ 34 ] Amiri Diwan                         [ 41 ] We provide several optional
+                                                                                                                                                                         ways for you to get in touch with us.
+                               [ @ 24 ] News                                    [ @ 29 ] Laws                                [ @ 35 ] Hukoomi
+                               [ @ 25 ] Events                                  [ @ 30 ] Strategies                          [ @ 36 ] Communications                         [ @ 42 ] +974 4473 3333
+                               [ @ 26 ] Contact Us                                                                           Regulatory Authority
+                                                                                [ @ 31 ] Policies                                                                             [ @ 43 ] info@mcit.gov.qa
+                                                                                                                             [ @ 37 ] Digital Incubation Center
+                                                                                [ @ 32 ] Our Apps
+                                                                                                                             [ @ 38 ] Mada                               [ @ 44 ] f [ @ 45 ]                [ @ 46 ]
+                                                                                                                             [ @ 39 ] View All Links                              [ @ 47 ]
+                                                                                                                                                                                            in
 
-                                                             [ @ 51 ]                         [ @ 52 ]                          [ @ 53 ]
-                 [ @ 50 ]                                                  حكومة
-                المعلومات وتكنولوجيا الاتصالات وزارة                       الرقمية قطر                   | الحكيمي الاتصال مركز Qatar                      [ @ 54 ] Privacy Policy          [ @ 55 ] Accessibility         [ @ 56 ] Sitemap
-                Ministry of Communications and Information Technology      Qatar Digital      DGCC               Cont
-                                                                                              9                                 ) ) ) الوعد
-                                                                           Government                                          #See you in 2022
-                                                                                                                                                                                                                      $ 59 ]
-                 [ 57 ] Copyright © 2023 - All Rights Reserved                                                                                                                                                      [ 58 ] Go to top
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 680
+                                                                [ @ 49 ]                    [ @ 50 ]                    [ @ 51 ]
+                           [ @ 48 ]                                              حكوم
+                           المعلومات وتكنولوجيا الاتصالات وزارة             الرقمية قطر     DGEE | الحكيمي Оматение الاتصال Сомент С مركز Qatar [ @ 52 ] Privacy Policy   [ @ 53 ] Accessibility    [ @ 54 ] Sitemap
+                           Ministry of Communications and Information Technology Qatar Digital                          ٢٠٢٢ الوعد
+                                                                            Government      9                           #See you in 2022
+                                                                                                                                                                                                             $ 57 ]
+                           [ 55 ] Copyright © 2023 - All Rights Reserved                                                                                                                      [ 56 ] Go to top
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 699

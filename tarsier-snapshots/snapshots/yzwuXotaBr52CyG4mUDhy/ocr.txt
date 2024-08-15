@@ -1,25 +1,34 @@
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 1 ]     [ @ 2 ]      [ @ 3 ]   [ @ 4 ]                                                   [ $ 5 ]
-        [ 0 ] Reworkd                                                    Home                    Github     Docs                                                   the Waitlist >
-                                                                                   AgentGPT                                                                   Join
-               [ @ 6 ] Reworkd raises a $ 1.25M pre - seed >
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 1 ]   [ @ 2 ]    [ @ 3 ]  [ @ 4 ]
+       [ 0 ] Reworkd                                                    Home                Github    Docs                                            [ $ 5 ] Join the Waitlist >
+                                                                                AgentGPT
 
 
-             **[ 7 ] Web**
-            **Extraction.**
-            **[ 8 ] At Scale.**
-            [ 9 ] 100x your data extraction with AI that
-            generates & repairs web scrapers on the fly.
-            Extract structured data from thousands of sites-
-            no developers needed.
 
 
-         [ $ 10 ]     [ 11 ] Manufacturing                  ☑     [ 13 ] E - comme [ $ 23 ]
-                      [ 12 ] Collect product data                 [ 14 ] Get competitor
+             [ @ 6 ] Reworkd raises a $ 1.25M pre - seed >
 
-                       [ $ 24 ]
-                   Join the Waitlist >
-                                [ 25 ] [ 20 ]                                                                            [ @ 31 ] Careers [ @ 32 ]    [ @ 33 ] Privacy [ @ 34 ] Terms
-   [ 35 ] © 2023 Reworkd AI, Inc.       [ 27 ] Backed By [ @ 28 ] Y Combinator [ 29 ] and [ @ 30 ] Panache Ventures                      Status
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 290
+
+           **[ 7 ]** **Web**
+           **Extraction.**
+                  **] At Scale.**
+          **[ 8**
+           [ 9 ] 100x your data extraction with Al that generates &
+          repairs web scrapers on the fly. Extract structured data
+          from thousands of sites - no developers needed.
+
+
+                  [ 11 ] Manufacturing   **        ☑    [ 13 ] E - commerce
+        [ $ 10 ]                                                              [ $ 23 ]
+                  [ 12 ] Collect product data           [ 14 ] Get competitor prices
+
+
+             [ $ 24 ] ☑ Join the Waitlist >
+
+
+
+
+                           [ @ 25 [ @ 26 ]
+   [ 35 ] 2023 Reworkd Al, Inc.     [ 27 ] Backed By [ @ 28 ] Y Combinator [ 29 ] and [ @ 30 ] Panache Ventures  [ @ 31 ] Careers [ @ 32 ] Status [ @ 33 ] Privacy [ @ 34 ] Terms
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 293

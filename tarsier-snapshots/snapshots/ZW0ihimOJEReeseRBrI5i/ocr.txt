@@ -1,45 +1,43 @@
-----------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 1 ] SEARCH
-    CHTELL,   LIPTON,   ROSEN & KATZ
- [ @ 0 ]
-                                                                    [ @ 2 ] THE FIRM [ @ 3 ] ATTORNEYS [ @ 4 ] PRACTICES [ @ 5 ] CAREERS [ @ 6 ] CONTACT
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 1 ] SEARCH □
+    WACHTELL, LIPTON, ROSEN & KATZ
+                                                                                                                                                                                                                                                                [ @ 2 ] THE FIRM                          [ @ 3 ] ATTORNEYS                                [ @ 4 ] PRACTICES                              [ @ 5 ] CAREERS                            [ @ 6 ] CONTACT
 
 
 
-                                                             **[ 23 ] Jill Barton**
+                                                                                                                                                                                                              **[ 23 ] Jill Barton**
 
-                                                             [ 24 ] Jill Barton is an associate in Wachtell Lipton's Corporate Department.
-                                                             [ 25 ] Jill received her J.D., [ 29 ] magna cum laude [ 26 ], from the University of
-                                                             Pennsylvania Law School, where she was elected to the Order of the Coif and served as
-                                                             a Senior Editor for the [ 30 ] University of Pennsylvania Law Review [ 27 ]. She received her
-                                                             A.B., [ 31 ] magna cum laude [ 28 ], in Classics from Princeton University. Prior to attending
-                                                             law school, Jill was an analyst at Goldman Sachs.
+                                                                                                                                                                                                              [ 24 ] Jill Barton is an associate in Wachtell Lipton's Corporate Department.
+                                                                                                                                                                                                              [ 25 ] Jill received her J.D.,                                       [ 29 ] magna cum laude [ 26 ], from the University of Pennsylvania Law
+                                                                                                                                                                                                            School, where she was elected to the Order of the Coif and served as a Senior Editor for the
+                                                                                                                                                                                                             [ 30 ] University of Pennsylvania Law Review [ 27 ]. She received her A.B.,                                                                                                                       [ 31 ] magna cum laude [ 28 ].
+                                                                                                                                                                                                             in Classics from Princeton University. Prior to attending law school, Jill was an analyst at Goldman
+                                                                                                                                                                                                             Sachs.
 
 
 
-         DOWNLOAD VCARD              DOWNLOAD DDC
-                  [ @ 7 ]                     [ @ 8 ]
+                               DOWNLOAD VCARD                                                                         DOWNLOAD PDF
+                                                              [ @ 7 ]                                                                               [ @ 8 ]
 
- [ 9 ] Associate, Corporate
-  [ 11 ] P: [ 10 ] 212.403.1012
- [ 13 ] F: [ 12 ] 212.403.2312
-  [ @ 14 ] JEBarton@wlrk.com
+       **[ 9 ] Associate, Corporate**
+       [ 11 ] P: [ 10 ] 212.403.1012
+       [ 13 ] F: [ 12 ] 212.403.2312
+       [ @ 14 ] JEBarton@wlrk.com
 
-  [ 15 ] Education
-  [ @ 17 ] Princeton University [ 16 ], A.B. 2016, [ 18 ] magna
- cum laude
-  [ @ 21 ] University of Pennsylvania Law School [ 19 ], J.D.
- 2021, [ 22 ] magna cum laude [ 20 ], Order of the Coif
-
+       [ 15 ] Education
+       [ @ 17 ] Princeton University [ 16 ], A.B. 2016, [ 18 ] magna cum laude
+       [ @ 21 ] University of Pennsylvania Law School [ 19 ], J.D. 2021,
+       [ 22 ] magna cum laude [ 20 ], Order of the Coif
 
 
 
 
 
-                                                   Wachtell, Lipton,       RosEN & KATZ
+
+                                                                                                                                                                                   Wachtell, Lipton, RosEN & KATZ
 
 
-                                                       [ 32 ] 51 West 52nd Street, New York, NY 10019
-                                          [ 33 ] t. 212.403.1000 or 800.848.0301 / [ @ 34 ] Attorney Advertising and Other Notices
-----------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 444
+                                                                                                                                                                                               [ 32 ] 51 West 52nd Street, New York, NY 10019
+                                                                                                                                                       [ 33 ] ] t. 212.403.1000 or 800.848.0301 / [ @ 34 ] Attorney Advertising and Other Notices
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 471

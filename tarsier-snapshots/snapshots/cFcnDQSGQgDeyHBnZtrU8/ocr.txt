@@ -1,252 +1,224 @@
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 0 ] ) wa.gov            [ @ 1 ]    Services      [ @ 2 ]   Agencies       [ @ 3 ]    Social                                                                                                                                             [ @ 4 ]
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+iowa.gov?         [ @ 1 ] Services  [ @ 2 ] Agencies  [ @ 3 ] Social                                                                                                                         [ @ 4 ] ୪
 [ @ 5 ] Jump to Navigation
-[ @ 6 ]  Home
+[ @ 6 ] Home
 [ @ 7 ] lowa Department of Administrative Services
-    ⚫ [ @ 8 ] Home
-        [ @ 9 ] DAS Core
-    ⚫ [ @ 10 ] General Services
-    ⚫ [ @ 11 ] Human Resources
-    ⚫ [ @ 12 ] Procurement & Fleet
-        [ @ 13 ] State Accounting
+      [ @ 8 ] Home
+     [ @ 9 ] DAS Core
+   ⚫ [ @ 10 ] General Services
+     [ @ 11 ] Human Resources
+   ⚫ [ @ 12 ] Procurement & Fleet
+   ⚫ [ @ 13 ] State Accounting
 
-[ 14 ] u are here
+[ 14 ] You are here
 [ @ 18 ] Procurement & Fleet [ 15 ] > [ @ 19 ] Vendors [ 16 ] > [ @ 20 ] How to Do Business [ 17 ] > Bidding Opportunities
 
-   **tate of Iowa Bid Opportunities**
-[ @ 22 ] State of Iowa Awarded Contracts                                                                                          [ @ 23 ] State of Iowa Closed Bid Opportunities
-**[ 24earch Active Bid Opportunity Listing**
+**[ 21 ] State of Iowa Bid Opportunities**
+[ @ 22 ] State of Iowa Awarded Contracts                                                                [ @ 23 ] State of Iowa Closed Bid Opportunities
+**[ 24 ] Search Active Bid Opportunity Listing**
 
-                                                                 [ $ 25 ] Agencies
-                                                                 [ # 26 ]
-                                                                   Keyword Search
-[ $ 27 ] Show 15 ✓ entries
-                                                                                                                                                                          [ 32 ] Effective            [ 33 ] Expiration +
-                [ 28 ] Bid Number                              [ 29 ] Agency                     [ 30 ] Contact               [ 31 ] Title                                Date                       Date
-                                [ # 34 ]                                [ # 35 ]                       [ # 36 ]                             [ # 37 ]                            [ # 38 ]                    [ # 39 ]
-              Bid Number                                    Agency                            Contact                       Title                                       Effective Date             Expiration Date
-    +          [ @ 40 ] ED - 021624KS - 001                  [ 41 ] Education, Dept Of         [ 42 ] Jill Borgeson         [ 43 ] Farm to School Virtual Field          [ 44 ] 2/18/2024           [ 45 ] 3/1/2024              [ @ 46 ]         [ @ 47 ]
-                                                                                                                            Trip Content Writing
-     +         [ @ 48 ] 283 - RFP - 0829-2024                [ 49 ] Administrative             [ 50 ] Central               [ 51 ] Iowa Vocational                       [ 52 ] 2/18/2024           [ 53 ] 3/1/2024              [ @ 54 ]         [ @ 55 ]
-                                                            Services, Dept                     Procurement                  Rehabilitation Services
-     +         [ @ 56 ] RFQ20240216DCILAB                    [ 57 ] Public Safety, Dept        [ 58 ] Andrew Pries          [ 59 ] Service contract for 3500             [ 60 ] 2/18/2024           [ 61 ] 2/23/2024             [ @ 62 ]         [ @ 63 ]
-                                                             Of                                                             Genetic Analyzer DNA
-                                                                                                                            instruments
-     +         [ @ 64 ] 005 - RFB - 0821-2024                [ 65 ] Administrative             [ 66 ] Randy Bennett          [ 67 ] Meat Ends and Pieces for             [ 68 ] 2/17/2024           [ 69 ] 3/5/2024              [ @ 70 ]         [ @ 71 ]
-                                                             Services, Dept                                                 CDC Warehouse
-               [ @ 72 ] 005 - RFP - 0779-2024                [ 73 ] Administrative             [ 74 ] Sara Grier            [ 75 ] Independent Reviewer                  [ 76 ] 2/17/2024           [ 77 ] 3/12/2024              [ @ 78 ]        [ @ 79 ]
-                                                             Services, Dept
-     +         [ @ 80 ] RFP937300-01                         [ 81 ] Administrative             [ 82 ] Construction          [ 83 ] Terrace Hill Retaining Wall           [ 84 ] 2/16/2024           [ 85 ] 3/7/2024               [ @ 86 ]        [ @ 87 ]
-                                                             Services, Dept                    Procurement                  Repairs
-               [ @ 88 ] 005 - RFB - 0819-2024                [ 89 ] Administrative             [ 90 ] Randy Bennett         [ 91 ] Food Items for CDC                    [ 92 ] 2/16/2024           [ 93 ] 3/4/2024               [ @ 94 ]        [ @ 95 ]
-                                                             Services, Dept                                                 Warehouse
-     +         [ @ 96 ] 005 - RFP - 0741-2024                [ 97 ] Administrative             [ 98 ] Craig Trotter         [ 99 ] DOC Secondary Education               [ 100 ] 2/16/2024          [ 101 ] 4/11/2024            [ @ 102 ]       [ @ 103 ]
-                                                             Services, Dept                                                 Programs
-               [ @ 104 ] RFP 936800-01                       [ 105 ] Administrative            [ 106 ] Construction         [ 107 ] IMHI Reynolds Bldg North             [ 108 ] 2/15/2024          [ 109 ] 3/6/2024             [ @ 110 ]        @ 111 ]
-                                                             Services, Dept                    Procurement                  Annex Roof Replacement
-               [ @ 112 ] 005 - RFB - 0808-2024               [ 113 ] Administrative            [ 114 ] Randy                [ 115 ] Food Items for CDC                   [ 116 ] 2/14/2024          [ 117 ] 2/29/2024            [ @ 118 ]       [ @ 119 ]
-                                                             Services, Dept                    Bennett                      Warehouse
-     +         [ @ 120 ] 005 - RFB - 0813-2024               [ 121 ] Administrative            [ 122 ] Randy                [ 123 ] Power Soak Table for                 [ 124 ] 2/14/2024          [ 125 ] 2/29/2024            [ @ 126 ]       [ @ 127 ]
-                                                             Services, Dept                    Bennett                      Anamosa State Penitentiary
+                                                    [ $ 25 ] Agencies
+                                                    [ # 26 ]
+                                                      Keyword Search
+[ $ 27 ] Show 15  entries
+                                                                                                                                                [ 32 ] Effective   [ 33 ] Expiration +
+            [ 28 ] Bid Number                    [ 29 ] Agency               [ 30 ] Contact         [ 31 ] Title                                Date               Date
+                         [ # 34 ]                        [ # 35 ]                  [ # 36 ]                         [ # 37 ]                        [ # 38 ]            [ # 39 ]
+          Bid Number                           Agency                      Contact                Title                                       Effective Date      Expiration Date
+   +      [ @ 40 ] ED - 021624KS - 001          [ 41 ] Education, Dept Of   [ 42 ] Jill Borgeson   [ 43 ] Farm to School Virtual Field Trip Content [ 44 ] 2/18/2024 [ 45 ] 3/1/2024   [ @ 46 ]    [ @ 47 ]
+                                                                                                  Writing
+   +
+           [ @ 48 ] 283 - RFP - 0829-2024       [ 49 ] Administrative       [ 50 ] Central         [ 51 ] Iowa Vocational Rehabilitation Services [ 52 ] 2/18/2024 [ 53 ] 3/1/2024      [ @ 54 ]   [ @ 55 ]
+                                               Services, Dept               Procurement
+   +       [ @ 56 ] RFQ20240216DCILAB           [ 57 ] Public Safety, Dept Of [ 58 ] Andrew Pries  [ 59 ] Service contract for 3500 Genetic    [ 60 ] 2/18/2024   [ 61 ] 2/23/2024      [ @ 62 ]   [ @ 63 ]
+                                                                                                  Analyzer DNA instruments
+           [ @ 64 ] 005 - RFB - 0821-2024       [ 65 ] Administrative       [ 66 ] Randy Bennett   [ 67 ] Meat Ends and Pieces for CDC         [ 68 ] 2/17/2024   [ 69 ] 3/5/2024       [ @ 70 ]   [ @ 71 ]
+                                               Services, Dept                                     Warehouse
+   +       [ @ 72 ] 005 - RFP - 0779-2024       [ 73 ] Administrative       [ 74 ] Sara Grier      [ 75 ] Independent Reviewer                 [ 76 ] 2/17/2024   [ 77 ] 3/12/2024     [ @ 78 ]    [ @ 79 ]
+                                               Services, Dept
+           [ @ 80 ] RFP937300-01                [ 81 ] Administrative       [ 82 ] Construction    [ 83 ] Terrace Hill Retaining Wall Repairs  [ 84 ] 2/16/2024   [ 85 ] 3/7/2024       [ @ 86 ]   [ @ 87 ]
+                                               Services, Dept               Procurement
+   +
+           [ @ 88 ] 005 - RFB - 0819-2024       [ 89 ] Administrative       [ 90 ] Randy Bennett   [ 91 ] Food Items for CDC Warehouse         [ 92 ] 2/16/2024   [ 93 ] 3/4/2024       [ @ 94 ]   [ @ 95 ]
+                                               Services, Dept
+          [ @ 96 ] 005 - RFP - 0741-2024        [ 97 ] Administrative       [ 98 ] Craig Trotter   [ 99 ] DOC Secondary Education Programs     [ 100 ] 2/16/2024  [ 101 ] 4/11/2024    [ @ 102 ]   [ @ 103 ]
+                                               Services, Dept
+   +       [ @ 104 ] RFP 936800-01              [ 105 ] Administrative      [ 106 ] Construction   [ 107 ] IMHI Reynolds Bldg North Annex Roof [ 108 ] 2/15/2024  [ 109 ] 3/6/2024     [ @ 110 ]   [ @ 111 ]
+                                               Services, Dept               Procurement            Replacement
+   +       [ @ 112 ] 005 - RFB - 0808-2024      [ 113 ] Administrative      [ 114 ] Randy Bennett  [ 115 ] Food Items for CDC Warehouse        [ 116 ] 2/14/2024  [ 117 ] 2/29/2024    [ @ 118 ]   [ @ 119 ]
+                                               Services, Dept
 
-       +
-               [ @ 128 ] Automatic Door Service              [ 129 ] Administrative            [ 130 ] Michael              [ 131 ] 005 - RFB - 0809-2024                [ 132 ] 2/14/2024          [ 133 ] 2/28/2024            [ @ 134 ]       [ @ 135 ]
-               and Repair, New Unit Sales                    Services, Dept                    Bradbury
+     +
+           [ @ 1201005 - RFB - 0813-2024        [ 121 ] Administrative      [ 122 ] Randy Bennett  [ 123 ] Power Soak Table for Anamosa State  [ 124 ] 2/14/2024  [ 125 ] 2/29/2024    [ @ 126 ]   [ @ 127 ]
+                                               Services, Dept                                      Penitentiary
+   +      [ @ 128 ] Automatic Door Service and  [ 129 ] Administrative      [ 130 ] Michael        [ 131 ] 005 - RFB - 0809-2024               [ 132 ] 2/14/2024  [ 133 ] 2/28/2024    [ @ 134 ]   [ @ 135 ]
+          Repair, New Unit Sales               Services, Dept               Bradbury
+           [ @ 136 ] RFP 938000-01              [ 137 ] Administrative      [ 138 ] Construction   [ 139 ] DAS AGS Cabin Roof Replacement      [ 140 ] 2/14/2024  [ 141 ] 3/12/2024    [ @ 142 ]   [ @ 143 ]
+                                               Services, Dept               Procurement
+   +       [ @ 144 ] 005 - RFB - 0759-2024      [ 145 ] Administrative      [ 146 ] Michael        [ 147 ] Casters                             [ 148 ] 2/14/2024  [ 149 ] 2/28/2024    [ @ 150 ]   [ @ 151 ]
+                                               Services, Dept               Bradbury
+           [ @ 152 ] RFB922300-02               [ 153 ] Administrative      [ 154 ] Construction   [ 155 ] DOC CCF Kitchen & Laundry Addition  [ 156 ] 2/12/2024  [ 157 ] 3/7/2024     [ @ 158 ]   [ @ 159 ]
+                                               Services, Dept               Procurement
+   +
+           [ @ 160 ] RFB938100-01               [ 161 ] Administrative      [ 162 ] Construction   [ 163 ] ISD Elem. School & Outreach Bid. Fire [ 164 ] 2/12/2024 [ 165 ] 3/5/2024    [ @ 166 ]   [ @ 167 ]
+                                               Services, Dept               Procurement           Alarm Replacement
+          [ @ 168 ] RFB936200-01                [ 169 ] Administrative      [ 170 ] Michael        [ 171 ] CBC District 2 Marshalltown         [ 172 ] 2/12/2024  [ 173 ] 3/1/2024     [ @ 174 ]   [ @ 175 ]
+                                               Services, Dept               Bradbury               Geothermal System Replacement
+           [ @ 176 ] RFB FY2024 # 179           [ 177 ] Transportation      [ 178 ] Jean Gustafson [ 179 ] Hot Mix Asphalt - Statewide         [ 180 ] 2/11/2024  [ 181 ] 3/6/2024     [ @ 182 ]   [ @ 183 ]
+           [ @ 184 ] RFB FY2024 # 184           [ 185 ] Transportation      [ 186 ] Jean Gustafson [ 187 ] Miscellaneous Vehicle Use Items     [ 188 ] 2/11/2024  [ 189 ] 3/6/2024     [ @ 190 ]   [ @ 191 ]
+   +       [ @ 192 ] RFB FY2024 # 180           [ 193 ] Transportation      [ 194 ] Jean Gustafson [ 195 ] UPM Cold Mix and Cold Mix Patching  [ 196 ] 2/11/2024  [ 197 ] 3/6/2024     [ @ 198 ]   [ @ 199 ]
+                                                                                                   Material in Bulk
+           [ @ 200 ] RFB FY2024 # 185           [ 201 ] Transportation      [ 202 ] Reese Polich   [ 203 ] Tandem Axle Trailer, 20 - Ton Deck - Over [ 204 ] 2/11/2024 [ 205 ] 3/7/2024 [ @ 206 ]  [ @ 207 ]
+                                                                                                   Tag Tilt Deck
+          [ @ 208 ] RFB FY2024 # 523            [ 209 ] Transportation      [ 210 ] Jerrod Okland  [ 211 ] Lath                                [ 212 ] 2/10/2024  [ 213 ] 2/19/2024    [ @ 214 ]   [ @ 215 ]
+   +       [ @ 216 ] RFB FY2024 # 181           [ 217 ] Transportation      [ 218 ] Reese Polich   [ 219 ] Cab / Chassis with Platform Body and [ 220 ] 2/9/2024  [ 221 ] 3/6/2024     [ @ 222 ]   [ @ 223 ]
+                                                                                                   Centerline Broom
+   +       [ @ 224 ] RFB FY2024 # 522           [ 225 ] Transportation      [ 226 ] Tanner         [ 227 ] Rotation Cylinder and Various Parts [ 228 ] 2/9/2024   [ 229 ] 2/27/2024    [ @ 230 ]   [ @ 231 ]
+                                                                            Thomsen
+   +       [ @ 232 ] RFB FY2024 # 178           [ 233 ] Transportation      [ 234 ] Reese Polich   [ 235 ] Tandem Axle Semi - Tractors         [ 236 ] 2/9/2024   [ 237 ] 3/5/2024     [ @ 238 ]   [ @ 239 ]
+   +
+           [ @ 240 ] RFB937800-01               [ 241 ] Administrative      [ 242 ] Construction   [ 243 ] DOC 6JD CR Hinzman Window           [ 244 ] 2/9/2024   [ 245 ] 3/6/2024     [ @ 246 ]   [ @ 247 ]
+                                               Services, Dept               Procurement            Replacement
+   +       [ @ 248 ] 005 - RFB - 0792-2024      [ 249 ] Administrative      [ 250 ] Sara Grier     [ 251 ] Mobile OWI Vehicle                  [ 252 ] 2/9/2024   [ 253 ] 3/7/2024     [ @ 254 ]   [ @ 255 ]
+                                               Services, Dept
+   +
+           [ @ 256 ] 23-03-12-01                [ 257 ] Natural Resources,  [ 258 ] DNR            [ 259 ] Lundie Wetland - Shallow Water      [ 260 ] 2/8/2024   [ 261 ] 2/22/2024    [ @ 262 ]   [ @ 263 ]
+                                               Dept Of                      Construction           Excavation, Big Marsh Wildlife Management
+                                                                                                  Area, Butler
+   +
+           [ @ 264 ] 005 - RFP - 0768-2024      [ 265 ] Administrative      [ 266 ] Craig Trotter  [ 267 ] K - 5 Mathematics Instructional Materials [ 268 ] 2/8/2024 [ 269 ] 2/29/2024 [ @ 270 ]  [ @ 271 ]
+                                               Services, Dept
+   +
+           [ @ 272 ] 005 - RFP - 0770-2024      [ 273 ] Administrative      [ 274 ] Craig Trotter  [ 275 ] 6-12 Literacy Instructional Materials [ 276 ] 2/8/2024 [ 277 ] 2/29/2024    [ @ 278 ]   [ @ 279 ]
+                                               Services, Dept
+   +
+           [ @ 280 ] EL - 25-001                [ 281 ] Department of Health [ 282 ] Robert        [ 283 ] Residential Substance Abuse Treatment [ 284 ] 2/8/2024 [ 285 ] 3/21/2024    [ @ 286 ]   [ @ 287 ]
+                                               and Human Services           Warrington
+           [ @ 288 ] RFB FY24 # 516             [ 289 ] Transportation      [ 290 ] Teri Schulz    [ 291 ] Lawncare Services at various rest area [ 292 ] 2/8/2024 [ 293 ] 3/4/2024    [ @ 294 ]   [ @ 295 ]
+                                                                                                   locations for 2024
+   +       [ @ 296 ] 005 - RFP - 0766-2024      [ 297 ] Administrative      [ 298 ] Craig Trotter  [ 299 ] 6-12 Mathematic Instructional Materials [ 300 ] 2/8/2024 [ 301 ] 2/29/2024  [ @ 302 ]   [ @ 303 ]
+                                               Services, Dept
+   +       [ @ 304 ] 005 - RFP - 0771-2024      [ 305 ] Administrative      [ 306 ] Craig Trotter  [ 307 ] K - 5 Literacy Instructional Materials [ 308 ] 2/8/2024 [ 309 ] 2/29/2024   [ @ 310 ]   [ @ 311 ]
+                                               Services, Dept
+   +       [ @ 312 ] RFB FY2024 # 503           [ 313 ] Transportation      [ 314 ] Jean Gustafson [ 315 ] Statewide Painting Crew Parts and   [ 316 ] 2/7/2024   [ 317 ] 2/19/2024    [ @ 318 ]   [ @ 319 ]
+                                                                                                   Supplies
+   +       [ @ 320 ] RFB FY2024 # 520           [ 321 ] Transportation      [ 322 ] Kyle Williams  [ 323 ] LEATHER GLOVES FOR INVENTORY        [ 324 ] 2/7/2024   [ 325 ] 2/23/2024    [ @ 326 ]   [ @ 327 ]
+                                                                                                   & FIELD
+           [ @ 328 ] JUV - 25 - CB - 4-001      [ 329 ] Judicial            [ 330 ] Mindy Johnson  [ 331 ] Comprehensive Family Therapy and    [ 332 ] 2/7/2024   [ 333 ] 3/29/2024    [ @ 334 ]   [ @ 335 ]
+                                                                                                   Transitional Services
+   +
+           [ @ 336 ] DCAT3-25-001               [ 337 ] Department of Health [ 338 ] Amy Huntington [ 339 ] Restorative Strategies             [ 340 ] 2/7/2024   [ 341 ] 4/3/2024     [ @ 342 ]   [ @ 343 ]
+                                               and Human Services
+           [ @ 344 ] 24CRDWBKFULL - 0002R       [ 345 ] Natural Resources,  [ 346 ] Philip Payton  [ 347 ] Iowa Wildlife Action Plan Assistance [ 348 ] 2/5/2024  [ 349 ] 3/15/2024    [ @ 350 ]   [ @ 351 ]
+          RFP                                  Dept Of
+   +       [ @ 352 ] RFB FY2024 # 515           [ 353 ] Transportation      [ 354 ] Tanner         [ 355 ] Solvent Recycler                    [ 356 ] 2/5/2024   [ 357 ] 2/19/2024    [ @ 358 ]   [ @ 359 ]
+                                                                            Thomsen
+   +       [ @ 360 ] RFB93600-01                [ 361 ] Administrative      [ 362 ] Construction   [ 363 ] IPBS Fire Alarm Replacement         [ 364 ] 2/5/2024   [ 365 ] ] 2/29/2024  [ @ 366 ]   [ @ 367 ]
+                                               Services, Dept               Procurement
+   +
+           [ @ 368 ] FWBP - EIS - 25-007        [ 369 ] Department of Health. [ 370 ] Melanie Mathes [ 371 ] More Options for Maternal Support [ 372 ] 2/5/2024   [ 373 ] 6/10/2024    [ @ 374 ]   [ @ 375 ]
+                                               and Human Services                                  Program Pregnancy Support Services
+                                                                                                   Providers
+   +
+           [ @ 376 ] RFB FY2024 # 518           [ 377 ] Transportation      [ 378 ] Tanner         [ 379 ] Compression Spring Trip Assembly    [ 380 ] 2/5/2024   [ 381 ] 2/19/2024    [ @ 382 ]   [ @ 383 ]
+                                                                            Thomsen
+   +
+           [ @ 384 ] 005 - RFB - 0780-2024      [ 385 ] Administrative      [ 386 ] Randy Bennett  [ 387 ] Micro Market Fixtures for the       [ 388 ] 2/4/2024   [ 389 ] 2/19/2024    [ @ 390 ]   [ @ 391 ]
+                                               Services, Dept                                      Department of the Blind
+   +       [ @ 392 ] 005 - RFB - 0767-2024      [ 393 ] Administrative      [ 394 ] Katelyn Howells [ 395 ] Iowa Veterans Cemetery Snow        [ 396 ] 2/3/2024   [ 397 ] 2/19/2024    [ @ 398 ]   [ @ 399 ]
+                                               Services, Dept                                      Removal
+   +       [ @ 400 ] RFP 116                    [ 401 ] Anamosa - lowa Prison [ 402 ] Ruthanne     [ 403 ] WAREWASH AND LAUNDRY                [ 404 ] 2/3/2024   [ 405 ] 3/1/2024     [ @ 406 ]   [ @ 407 ]
+                                               Industries                   Mosser                 CHEMICALS AND SERVICE
+   +
+           [ @ 408 ] 005 - RFP - 0743-2024      [ 409 ] Administrative      [ 410 ] Craig Trotter  [ 411 ] PREA AUDITS - DOC                   [ 412 ] 2/2/2024   [ 413 ] 3/1/2024     [ @ 414 ]   [ @ 415 ]
+                                               Services, Dept
+   +       [ @ 416 ] JUV - 25 - TR - 03-001     [ 417 ] Judicial            [ 418 ] Mary Loops     [ 419 ] Juvenile Court Care Coordination    [ 420 ] 2/2/2024   [ 421 ] 3/25/2024    [ @ 422 ]   [ @ 423 ]
+                                                                                                   Services
+   +
+          [ @ 424 ] RFB FY2024 # 208 Addendum   [ 425 ] Transportation      [ 426 ] Jean Gustafson [ 427 ] Tile Line Replacement               [ 428 ] 2/1/2024   [ 429 ] 2/22/2024    [ @ 430 ]   [ @ 431 ]
+          1
+           [ @ 432 ] JUV - 25 - LS - 1-001      [ 433 ] Judicial            [ 434 ] Mandy Thurm    [ 435 ] Enhanced Supportive Services        [ 436 ] 2/1/2024   [ 437 ] 3/30/2024    [ @ 438 ]   [ @ 439 ]
 
-       +
-               [ @ 136 ] RFP 938000-01                       [ 137 ] Administrative            [ 138 ] Construction          [ 139 ] DAS AGS Cabin Roof                  [ 140 ] 2/14/2024          [ 141 ] 3/12/2024            [ @ 142 ]       [ @ 143 ]
-                                                             Services, Dept                    Procurement                  Replacement
-     +         [ @ 144 ] 005 - RFB - 0759-2024               [ 145 ] Administrative            [ 146 ] Michael              [ 147 ] Casters                              [ 148 ] 2/14/2024          [ 149 ] 2/28/2024           [ [ @ 150 ]      [ @ 151 ]
-                                                            Services, Dept                     Bradbury
-     +         [ @ 152 ] RFB922300-02                        [ 153 ] Administrative            [ 154 ] Construction         [ 155 ] DOC CCF Kitchen &                    [ 156 ] 2/12/2024          [ 157 ] 3/7/2024             [ @ 158 ]       [ @ 159 ]
-                                                             Services, Dept                    Procurement                  Laundry Addition
-               [ @ 160 ] RFB938100-01                        [ 161 ] Administrative            [ 162 ] Construction         [ 163 ] ISD Elem. School &                   [ 164 ] 2/12/2024          [ 165 ] 3/5/2024             [ @ 166 ]       [ @ 167 ]
-                                                             Services, Dept                    Procurement                  Outreach Bid. Fire Alarm
-                                                                                                                            Replacement
-    +
-               [ @ 168 ] RFB936200-01                        [ 169 ] Administrative            [ 170 ] Michael              [ 171 ] CBC District 2                       [ 172 ] 2/12/2024          [ 173 ] 3/1/2024             [ @ 174 ]       [ @ 175 ]
-                                                             Services, Dept                    Bradbury                     Marshalltown Geothermal
-                                                                                                                            System Replacement
-    +
-               [ @ 176 ] RFB FY2024 # 179                    [ 177 ] Transportation            [ 178 ] Jean                 [ 179 ] Hot Mix Asphalt -                    [ 180 ] 2/11/2024          [ 181 ] 3/6/2024             [ @ 182 ]       [ @ 183 ]
-                                                                                               Gustafson                    Statewide
-     +         [ @ 184 ] RFB FY2024 # 184                    [ 185 ] Transportation            [ 186 ] Jean                 [ 187 ] Miscellaneous Vehicle                [ 188 ] 2/11/2024          [ 189 ] 3/6/2024             [ @ 190 ]       [ @ 191 ]
-                                                                                               Gustafson                    Use Items
-     +         [ @ 192 ] RFB FY2024 # 180                    [ 193 ] Transportation            [ 194 ] Jean                 [ 195 ] UPM Cold Mix and Cold                [ 196 ] 2/11/2024          [ 197 ] 3/6/2024             [ @ 198 ]       [ @ 199 ]
-                                                                                               Gustafson                    Mix Patching Material in Bulk
-    +          [ @ 200 ] RFB FY2024 # 185                    [ 201 ] Transportation            [ 202 ] Reese Polich         [ 203 ] Tandem Axle Trailer, 20-             [ 204 ] 2/11/2024          [ 205 ] 3/7/2024             [ @ 206 ]       [ @ 207 ]
-                                                                                                                            Ton Deck - Over Tag Tilt Deck
-    +
-               [ @ 208 ] RFB FY2024 # 523                    [ 209 ] Transportation            [ 210 ] Jerrod Okland        [ 211 ] Lath                                 [ 212 ] 2/10/2024          [ 213 ] 2/19/2024            [ @ 214 ]       [ @ 215 ]
-     +         [ @ 216 ] RFB FY2024 # 181                    [ 217 ] Transportation            [ 218 ] Reese Polich         [ 219 ] Cab / Chassis with Platform          [ 220 ] 2/9/2024           [ 221 ] 3/6/2024             [ @ 222 ]       [ @ 223 ]
-                                                                                                                            Body and Centerline Broom
-     +         [ @ 224 ] RFB FY2024 # 522                    [ 225 ] Transportation            [ 226 ] Tanner               [ 227 ] Rotation Cylinder and                [ 228 ] 2/9/2024           [ 229 ] 2/27/2024            [ @ 230 ]       [ @ 231 ]
-                                                                                               Thomsen                      Various Parts
-    +          [ @ 232 ] RFB FY2024 # 178                    [ 233 ] Transportation            [ 234 ] ] Reese Polich       [ 235 ] Tandem Axle Semi-                    [ 236 ] 2/9/2024           [ 237 ] 3/5/2024             [ @ 238 ]       [ @ 239 ]
-                                                                                                                            Tractors
-     +         [ @ 240 ] RFB937800-01                        [ 241 ] Administrative            [ 242 ] Construction         [ 243 ] DOC 6JD CR Hinzman                   [ 244 ] 2/9/2024           [ 245 ] 3/6/2024             [ @ 246 ]       [ @ 247 ]
-                                                             Services, Dept                    Procurement                  Window Replacement
-     +         [ @ 248 ] 005 - RFB - 0792-2024               [ 249 ] Administrative            [ 250 ] Sara Grier           [ 251 ] Mobile OWI Vehicle                   [ 252 ] 2/9/2024           [ 253 ] 3/7/2024             [ @ 254 ]       [ @ 255 ]
-                                                             Services, Dept
-               [ @ 256 ] 23-03-12-01                         [ 257 ] Natural                   [ 258 ] DNR                  [ 259 ] Lundie Wetland - Shallow             [ 260 ] 2/8/2024           [ 261 ] 2/22/2024            [ @ 262 ]       [ @ 263 ]
-                                                             Resources, Dept Of               Construction                  Water Excavation, Big Marsh
-                                                                                                                            Wildlife Management Area,
-                                                                                                                            Butler
-               [ @ 264 ] 005 - RFP - 0768-2024               [ 265 ] Administrative            [ 266 ] Craig Trotter        [ 267 ] K - 5 Mathematics                    [ 268 ] 2/8/2024           [ 269 ] 2/29/2024            [ @ 270 ]       [ @ 271 ]
-                                                             Services, Dept                                                 Instructional Materials
-    +
-               [ @ 272 ] 005 - RFP - 0770-2024               [ 273 ] Administrative            [ 274 ] Craig Trotter        [ 275 ] 6-12 Literacy Instructional          [ 276 ] 2/8/2024           [ 277 ] 2/29/2024            [ @ 278 ]       [ @ 279 ]
-                                                             Services, Dept                                                 Materials
-     +         [ @ 280 ] EL - 25-001                         [ 281 ] Department of             [ 282 ] Robert                [ 283 ] Residential Substance               [ 284 ] 2/8/2024           [ 285 ] 3/21/2024            [ @ 286 ]       [ @ 287 ]
-                                                             Health and Human                 Warrington                    Abuse Treatment
-                                                             Services
-    +
-               [ @ 288 ] RFB FY24 # 516                      [ 289 ] Transportation            [ 290 ] Teri Schulz          [ 291 ] Lawncare Services at                 [ 292 ] 2/8/2024           [ 293 ] 3/4/2024             [ @ 294 ]       [ @ 295 ]
-                                                                                                                            various rest area locations for
-                                                                                                                            2024
-               [ @ 296 ] 005 - RFP - 0766-2024               [ 297 ] Administrative            [ 298 ] Craig Trotter        [ 299 ] 6-12 Mathematic                      [ 300 ] 2/8/2024           [ 301 ] 2/29/2024            [ @ 302 ]       [ @ 303 ]
-                                                             Services, Dept                                                 Instructional Materials
-    +          [ @ 304 ] 005 - RFP - 0771-2024               [ 305 ] Administrative            [ 306 ] Craig Trotter        [ 307 ] K - 5 Literacy Instructional         [ 308 ] 2/8/2024           [ 309 ] 2/29/2024            [ @ 310 ]       [ @ 311 ]
-                                                             Services, Dept                                                 Materials
-     +         [ @ 312 ] RFB FY2024 # 503                    [ 313 ] Transportation            [ 314 ] Jean                 [ 315 ] Statewide Painting Crew              [ 316 ] 2/7/2024           [ 317 ] 2/19/2024            [ @ 318 ]       [ @ 319 ]
-                                                                                               Gustafson                    Parts and Supplies
-     +         [ @ 320 ] RFB FY2024 # 520                    [ 321 ] Transportation            [ 322 ] Kyle Williams        [ 323 ] LEATHER GLOVES FOR                   [ 324 ] 2/7/2024           [ 325 ] 2/23/2024            [ @ 326 ]       [ @ 327 ]
-                                                                                                                            INVENTORY & FIELD
      +
-               [ @ 328 ] JUV - 25 - CB - 4-001               [ 329 ] Judicial                  [ 330 ] Mindy                [ 331 ] Comprehensive Family                 [ 332 ] 2/7/2024           [ 333 ] 3/29/2024            [ @ 334 ]       [ @ 335 ]
-                                                                                               Johnson                      Therapy and Transitional
-                                                                                                                            Services
-     +
-               [ @ 336 ] DCAT3-25-001                        [ 337 ] Department of             [ 338 ] Amy                  [ 339 ] Restorative Strategies               [ 340 ] 2/7/2024           [ [ 341 ] 4/3/2024           [ @ 342 ]       [ @ 343 ]
-                                                             Health and Hu                     Huntington
-                                                             Services
-               [ @ 344 ] 24CRDWBKFULL - 0002R                [ 345 ] Natural                   [ 346 ] Philip Payton        [ 347 ] Iowa Wildlife Action Plan            [ 348 ] 2/5/2024           [ 349 ] 3/15/2024            [ @ 350 ]       [ @ 351 ]
-               RFP                                           Resources, Dept Of                                             Assistance
-     +         [ @ 352 ] RFB FY2024 # 515                    [ 353 ] Transportation            [ 354 ] Tanner                [ 355 ] Solvent Recycler                    [ 356 ] 2/5/2024           [ 357 ] 2/19/2024            [ @ 358 ]       [ @ 359 ]
-                                                                                               Thomsen
-               [ @ 360 ] RFB93600-01                         [ 361 ] Administrative            [ 362 ] Construction         [ 363 ] IPBS Fire Alarm                      [ 364 ] 2/5/2024           [ 365 ] 2/29/2024            [ @ 366 ]       [ @ 367 ]
-                                                             Services, Dept                    Procurement                  Replacement
-               [ @ 368 ] FWBP - EIS - 25-007                 [ 369 ] Department of             [ 370 ] Melanie              [ 371 ] More Options for Maternal            [ 372 ] 2/5/2024           [ 373 ] 6/10/2024            [ @ 374 ]       [ @ 375 ]
-                                                             Health and Human                  Mathes                       Support Program Pregnancy
-                                                            Services                                                        Support Services Providers
-     +         [ @ 376 ] RFB FY2024 # 518                    [ 377 ] Transportation            [ 378 ] Tanner               [ 379 ] Compression Spring Trip              [ 380 ] 2/5/2024           [ 381 ] 2/19/2024            [ @ 382 ]       [ @ 383 ]
-                                                                                               Thomsen                      Assembly
-    +
-               [ @ 384 ] 005 - RFB - 0780-2024               [ 385 ] Administrative            [ 386 ] Randy                [ 387 ] Micro Market Fixtures for            [ 388 ] 2/4/2024           [ 389 ] 2/19/2024            [ @ 390 ]       [ @ 391 ]
-                                                             Services, Dept                    Bennett                      the Department of the Blind
-    +          [ @ 392 ] 005 - RFB - 0767-2024               [ 393 ] Administrative            [ 394 ] Katelyn              [ 395 ] Iowa Veterans Cemetery               [ 396 ] 2/3/2024           [ 397 ] 2/19/2024            [ @ 398 ]       [ @ 399 ]
-                                                             Services, Dept                    Howells                      Snow Removal
-     +
-               [ @ 400 ] RFP 116                             [ 401 ] Anamosa - lowa            [ 402 ] Ruthanne             [ 403 ] WAREWASH AND                         [ 404 ] 2/3/2024           [ 405 ] 3/1/2024             [ @ 406 ]       [ @ 407 ]
-                                                             Prison Industries                 Mosser                       LAUNDRY CHEMICALS AND
-                                                                                                                            SERVICE
-               [ @ 408 ] 005 - RFP - 0743-2024               [ 409 ] Administrative            [ 410 ] Craig Trotter         [ 411 ] PREA AUDITS - DOC                   [ 412 ] 2/2/2024           [ 413 ] 3/1/2024             [ @ 414 ]       [ @ 415 ]
-                                                             Services, Dept
-     +         [ @ 416 ] JUV - 25 - TR - 03-001              [ 417 ] Judicial                  [ 418 ] Mary Loops           [ 419 ] Juvenile Court Care                  [ 420 ] ] 2/2/2024         [ 421 ] 3/25/2024            [ @ 422 ]       [ @ 423 ]
-                                                                                                                            Coordination Services
-               [ @ 424 ] RFB FY2024 # 208                    [ 425 ] Transportation            [ 426 ] Jean                  [ 427 ] Tile Line Replacement               [ 428 ] 2/1/2024           [ 429 ] 2/22/2024           [ @ 430 ]        [ @ 431 ]
-              Addendum 1                                                                       Gustafson
-    +
-               [ @ 432 ] JUV - 25 - LS - 1-001               [ 433 ] Judicial                  [ 434 ] Mandy Thurm          [ 435 ] Enhanced Supportive                  [ 436 ] 2/1/2024           [ 437 ] 3/30/2024            [ @ 438 ]       [ @ 439 ]
-                                                                                                                            Services
-     +
-               [ @ 440 ] 23-06-53-01                         [ 441 ] Natural                   [ 442 ] DNR                   [ 443 ] FEMA Flood Repairs,                 [ 444 ] 1/31/2024          [ 445 ] 2/22/2024            [ @ 446 ]       [ @ 447 ]
-                                                             Resources, Dept Of                Construction                 Wapsipinicon State Park, Jones
-                                                                                                                            County
-    +
-               [ @ 448 ] 24-06-49-02                         [ 449 ] Natural                   [ 450 ] DNR                  [ 451 ] Sanitary Sewer                       [ 452 ] 1/31/2024          [ 453 ] 2/22/2024            [ @ 454 ]       [ @ 455 ]
-                                                             Resources, Dept Of               Construction                  Improvements, Maquoketa
-                                                                                                                            Caves State Park, Jackson
-                                                                                                                            County
-               [ @ 456 ] RFB FY24 # 114                      [ 457 ] Transportation            [ 458 ] Teri Schulz          [ 459 ] New sewer force main                 [ 460 ] 1/31/2024          [ 461 ] 2/29/2024            [ @ 462 ]       [ @ 463 ]
-                                                                                                                            piping and dual lift station at
-                                                                                                                            IDOT West Burlington
-                                                                                                                            Maintenance Facility.
-     +
-               [ @ 464 ] 22-01-30-06                         [ 465 ] Natural                   [ 466 ] DNR                  [ 467 ] Road Maintenance, Spirit             [ 468 ] 1/31/2024          [ 469 ] 2/22/2024            [ @ 470 ]       [ @ 471 ]
-                                                             Resources, Dept Of                Construction                 Lake Hatchery, Dickinson
-                                                                                                                            County
-     +         [ @ 472 ] 21-01-67-05                         [ 473 ] Natural                   [ 474 ] DNR                  [ 475 ] Visitor Center Water                 [ 476 ] 1/31/2024          [ 477 ] 2/22/2024            [ @ 478 ]       [ @ 479 ]
-                                                             Resources, Dept Of                Construction                 Mitigation, Lewis and Clark
-                                                                                                                            State Park, Monona Co
-    +
-               [ @ 480 ] RFB FY24 # 105                      [ 481 ] Transportation            [ 482 ] Teri Schulz          [ 483 ] Electrical upgrade at the            [ 484 ] 1/31/2024          [ 485 ] 3/5/2024             [ @ 486 ]       [ @ 487 ]
-                                                                                                                            Marshalltown Maintenance
-                                                                                                                            Facility
-    +          [ @ 488 ] 23-06-53-02                         [ 489 ] Natural                   [ 490 ] DNR                  [ 491 ] Replacement of Bulk Fuel             [ 492 ] 1/30/2024          [ 493 ] 2/29/2024            [ @ 494 ]       [ @ 495 ]
-                                                             Resources, Dept Of                Construction                 Tanks, Wapsipinicon &
-                                                                                                                            Palisades Kepler State Parks,
-                                                                                                                            Jones & Linn County
-               [ @ 496 ] RFB935700-01                        [ 497 ] Administrative            [ 498 ] Construction         [ 499 ] DOC MPCF IPI Roof                    [ 500 ] 1/29/2024          [ 501 ] 2/20/2024            [ @ 502 ]       [ @ 503 ]
-                                                             Services, Dept                    Procurement                  Replacement
-    +
-               [ @ 504 ] 024.1 Cut Paper-                    [ 505 ] AEA Purchasing            [ 506 ] Joni Puffett         [ 507 ] Cut Paper & Envelopes                [ 508 ] 1/29/2024          [ 509 ] 3/13/2024            [ @ 510 ]       [ @ 511 ]
-               Summer
+           [ @ 440 ] 23-06-53-01                [ 441 ] Natural Resources,  [ 442 ] DNR            [ 443 ] FEMA Flood Repairs, Wapsipinicon    [ 444 ] 1/31/2024  [ 445 ] 2/22/2024    [ @ 446 ]   [ @ 447 ]
+                                               Dept Of                      Construction           State Park, Jones County
+   +       [ @ 448 ] 24-06-49-02                [ 449 ] Natural Resources,  [ 450 ] DNR            [ 451 ] Sanitary Sewer Improvements,        [ 452 ] 1/31/2024  [ 453 ] 2/22/2024    [ @ 454 ]   [ @ 455 ]
+                                               Dept Of                      Construction           Maquoketa Caves State Park, Jackson
+                                                                                                   County
+   +
+          [ @ 456 ] RFB FY24 # 114              [ 457 ] Transportation      [ 458 ] Teri Schulz    [ 459 ] New sewer force main piping and dual [ 460 ] 1/31/2024 [ 461 ] 2/29/2024    [ @ 462 ]   [ @ 463 ]
+                                                                                                  lift station at IDOT West Burlington
+                                                                                                   Maintenance Facility.
+   +
+           [ @ 464 ] 22-01-30-06                [ 465 ] Natural Resources,  [ 466 ] DNR            [ 467 ] Road Maintenance, Spirit Lake       [ 468 ] 1/31/2024  [ 469 ] 2/22/2024    [ @ 470 ]   [ @ 471 ]
+                                               Dept Of                      Construction           Hatchery, Dickinson County
+   +
+           [ @ 472 ] 21-01-67-05                [ 473 ] Natural Resources,  [ 474 ] DNR            [ 475 ] Visitor Center Water Mitigation, Lewis [ 476 ] 1/31/2024 [ 477 ] 2/22/2024  [ @ 478 ]   [ @ 479 ]
+                                               Dept Of                      Construction           and Clark State Park, Monona Co
+   +
+           [ @ 480 ] RFB FY24 # 105             [ 481 ] Transportation      [ 482 ] Teri Schulz    [ 483 ] Electrical upgrade at the Marshalltown [ 484 ] 1/31/2024 [ 485 ] 3/5/2024   [ @ 486 ]   [ @ 487 ]
+                                                                                                   Maintenance Facility
+   +
+           [ @ 488 ] 23-06-53-02                [ 489 ] Natural Resources,  [ 490 ] DNR            [ 491 ] Replacement of Bulk Fuel Tanks,     [ 492 ] 1/30/2024  [ 493 ] 2/29/2024    [ @ 494 ]   [ @ 495 ]
+                                                Dept Of                     Construction          Wapsipinicon & Palisades Kepler State Parks,
+                                                                                                   Jones & Linn County
+   +
+           [ @ 496 ] RFB935700-01               [ 497 ] Administrative      [ 498 ] Construction   [ 499 ] DOC MPCF IPI Roof Replacement       [ 500 ] 1/29/2024  [ 501 ] 2/20/2024    [ @ 502 ]   [ @ 503 ]
+                                               Services, Dept               Procurement
+   +       [ @ 504 ] 024.1 Cut Paper - Summer   [ 505 ] AEA Purchasing      [ 506 ] Joni Puffett   [ 507 ] Cut Paper & Envelopes               [ 508 ] 1/29/2024  [ 509 ] 3/13/2024    [ @ 510 ]   [ @ 511 ]
+           [ @ 512 ] MED - 25-001               [ 513 ] Department of Health [ 514 ] Traci         [ 515 ] Medicaid Revenue Collections and    [ 516 ] 1/27/2024  [ 517 ] 4/11/2024    [ @ 518 ]   [ @ 519 ]
+                                               and Human Services           McCaughey              Estate Recovery
+   +       [ @ 520 ] 24ESDWQBPPAYT - 0055       [ 521 ] Natural Resources,  [ 522 ] Philip Payton  [ 523 ] Beach Risk Reduction Planning Project [ 524 ] 1/26/2024 [ 525 ] 2/23/2024   [ @ 526 ]   [ @ 527 ]
+                                               Dept Of
+           [ @ 528 ] RFB FY2024 # 174           [ 529 ] Transportation      [ 530 ] Reese Polich   [ 531 ] ( 1-80 Phase 3 Fiber Optic Splicing ) [ 532 ] 1/24/2024 [ 533 ] 2/23/2024   [ @ 534 ]   [ @ 535 ]
+   +       [ @ 536 ] RFP936500-01               [ 537 ] Administrative      [ 538 ] Construction   [ 539 ] DAS MON Front Porch Column          [ 540 ] 1/22/2024  [ 541 ] 2/20/2024    [ @ 542 ]   [ @ 543 ]
+                                               Services, Dept               Procurement            Repair / Replacement
+   +       [ @ 544 ] RFP922600-02               [ 545 ] Administrative      [ 546 ] Construction   [ 547 ] Montauk Site Work Archeological     [ 54811/22/2024    [ 549 ] 2/20/2024    [ @ 550 ]   [ @ 551 ]
+                                               Services, Dept               Procurement            Survey
+   +
+           [ @ 552 ] RFB FY2024 # 170           [ 553 ] Transportation      [ 554 ] Jean Gustafson [ 555 ] Weed Control Herbicides             [ 556 ] 1/21/2024  [ 557 ] 2/20/2024    [ @ 558 ]   [ @ 559 ]
+           [ @ 560 ] 0-2024-1                   [ 561 ] IPERS               [ 562 ] Justin Alliss  [ 563 ] TSB & Bid Ops Posting               [ 564 ] 1/19/2024  [ 565 ] 2/23/2024    [ @ 566 ]   [ @ 567 ]
+   +       [ @ 568 ] 23-03-17-07                [ 569 ] Natural Resources,  [ 570 ] DNR            [ 571 ] Shelter Roof Replacements ( REBID ), [ 572 ] 1/17/2024 [ 573 ] 2/22/2024    [ @ 574 ]   [ @ 575 ]
+                                               Dept Of                      Construction           McIntosh Woods State Park, Cerro Gordo
+                                                                                                   County
 
-       +       [ @ 512 ] MED - 25-001                        [ 513 ] Department of             [ 514 ] Traci                [ 515 ] Medicaid Revenue                     [ 516 ] 1/27/2024          [ 517 ] 4/11/2024            [ @ 518 ]       [ @ 519 ]
-                                                             Health and Human                  McCaughey                    Collections and Estate Recovery
-                                                             Services
-     +         [ @ 520 ] 24ESDWQBPPAYT - 0055                [ 521 ] Natural                   [ 522 ] Philip Payton        [ 523 ] Beach Risk Reduction                 [ 524 ] 1/26/2024          [ 525 ] 2/23/2024            [ @ 526 ]       [ @ 527 ]
-                                                             Resources, Dept Of                                             Planning Project
-     +
-               [ @ 528 ] RFB FY2024 # 174                    [ 529 ] Transportation            [ 530 ] Reese Polich         [ 531 ] ( 1-80 Phase 3 Fiber Optic           [ 532 ] 1/24/2024          [ 533 ] 2/23/2024            [ @ 534 ]       [ @ 535 ]
-                                                                                                                            Splicing )
-               [ @ 536 ] RFP936500-01                        [ 537 ] Administrative            [ 538 ] Construction         [ 539 ] DAS MON Front Porch                  [ 540 ] 1/22/2024          [ 541 ] 2/20/2024            [ @ 542 ]       [ @ 543 ]
-                                                             Services, Dept                    Procurement                  Column Repair / Replacement
-    +
-               [ @ 544 ] RFP922600-02                        [ 545 ] Administrative            [ 546 ] Construction         [ 547 ] Montauk Site Work                    [ 548 ] 1/22/2024          [ 549 ] 2/20/2024            [ @ 550 ]       [ @ 551 ]
-                                                             Services, Dept                    Procurement                  Archeological Survey
-     +
-               [ @ 552 ] RFB FY2024 # 170                    [ 553 ] Transportation            [ 554 ] Jean                 [ 555 ] Weed Control Herbicides              [ 556 ] 1/21/2024          [ 557 ] 2/20/2024            [ @ 558 ]       [ @ 559 ]
-                                                                                               Gustafson
-     +
-               [ @ 560 ] O - 2024-1                          [ 561 ] IPERS                     [ 562 ] Justin Alliss        [ 563 ] TSB & Bid Ops Posting                [ 564 ] 1/19/2024          [ 565 ] 2/23/2024            [ @ 566 ]       [ @ 567 ]
-               [ @ 568 ] 23-03-17-07                         [ 569 ] Natural                   [ 570 ] DNR                  [ 571 ] Shelter Roof                         [ 572 ] 1/17/2024          [ 573 ] 2/22/2024            [ @ 574 ]       [ @ 575 ]
-                                                             Resources, Dept Of                Construction                 Replacements ( REBID ),
-                                                                                                                            McIntosh Woods State Park,
-                                                                                                                            Cerro Gordo County
-               [ @ 576 ] 4091N25001                          [ 577 ] Department of             [ 578 ] Charles              [ 579 ] Pharmacy Management                  [ 580 ] 1/12/2024          [ 581 ] 4/30/2024            [ @ 582 ]       [ @ 583 ]
-                                                             Health and Human                  McCardle                     Services
-                                                             Services
-               [ @ 584 ] RFP MED - 25-006                    [ 585 ] Department of             [ 586 ] Lisa Burk            [ 587 ] Medicaid Program                     [ 588 ] 12/21/2023         [ 589 ] 6/30/2024            [ @ 590 ]       [ @ 591 ]
-                                                             Health and Human                                               Integrity Professional Services
-                                                             Services
-     +         [ @ 592 ] FWBP - CPS - 26-001-                [ 593 ] Department of             [ 594 ] Ryan                 [ 595 ] Notice of Intent to Release          [ 596 ] 11/8/2023          [ 597 ] 8/31/2025            [ @ 598 ]       [ @ 599 ]
-               NOIR                                          Health and Human                  Roovaart
-                                                             Services
-               [ @ 600 ] MED - 25-002                        [ 601 ] Department of             [ 602 ] Pauline              [ 603 ] Quality Improvement                  [ 604 ] 11/4/2023          [ 605 ] 7/1/2024             [ @ 606 ]       [ @ 607 ]
-                                                             Health and Human                  Rutherford                   Organization Services for lowa
-                                                             Services                                                       Medicaid
-    +          [ @ 608 ] FWBP - CC - 25-001                  [ 609 ] Department of             [ 610 ] Melanie              [ 611 ] Child Care Resource and              [ 612 ] 11/3/2023          [ 613 ] 6/28/2024            [ @ 614 ]       [ @ 615 ]
-                                                             Health and Human                  Mathes                       Referral ( CCR & R ) Services
-                                                             Services
-               [ @ 616 ] FWBP - EIS - 24-117                 [ 617 ] Department of             [ 618 ] Kelly                [ 619 ] More Options for Maternal            [ 620 ] 10/13/2023         [ 621 ] 3/1/2024             [ @ 622 ]       [ @ 623 ]
-                                                             Health and Human                 Simmons                       Support Program Pregnancy
-                                                             Services                                                       Support Services Providers
-               [ @ 624 ] MHDS 24-009                         [ [ 625 ] Department of           [ 626 ] Gloria               [ 627 ] Iowa Certified Community             [ 628 ] 9/30/2023          [ 629 ] 3/31/2024            [ @ 630 ]       [ @ 631 ]
-                                                             Health and Human                  Symons                       Behavioral Health Clinic
-                                                             Services                                                       ( ССВНС )
+     +     [ @ 576 ] 4091N25001                 [ 577 ] Department of Health [ 578 ] Charles       [ 579 ] Pharmacy Management Services        [ 580 ] 1/12/2024  [ 581 ] 4/30/2024    [ @ 582 ]   [ @ 583 ]
+                                               and Human Services           McCardle
 
-       +
-               [ @ 632 ] MED - 24-004                        [ 633 ] Human Services            [ 634 ] Shannon              [ 635 ] Notice of Intent to Issue            [ 636 ] 2/13/2023          [ 637 ] 9/15/2024            [ @ 638 ]       [ @ 639 ]
-                                                            Administration                     Garland                      RFP for IOWA DENTAL
-                                                                                                                            WELLNESS PLAN AND HAWKI
-                                                                                                                            DENTAL PAHP
+     +
+           [ @ 584 ] RFP MED - 25-006           [ 585 ] Department of Health [ 586 ] Lisa Burk     [ 587 ] Medicaid Program Integrity Professional [ 588 ] 12/21/2023 [ 589 ] 6/30/2024 [ @ 590 ]  [ @ 591 ]
+                                               and Human Services                                  Services
+   +       [ @ 592 ] FWBP - CPS - 26-001 - NOIR [ 593 ] Department of Health [ 594 ] Ryan Roovaart [ 595 ] Notice of Intent to Release         [ 596 ] 11/8/2023  [ 597 ] 8/31/2025    [ @ 598 ]   [ @ 599 ]
+                                               and Human Services
+   +       [ @ 600 ] MED - 25-002               [ 601 ] Department of Health [ 602 ] Pauline       [ 603 ] Quality Improvement Organization    [ 604 ] 11/4/2023  [ 605 ] 7/1/2024     [ @ 606 ]   [ @ 607 ]
+                                               and Human Services           Rutherford             Services for lowa Medicaid
+   +
+           [ @ 608 ] FWBP - CC - 25-001         [ 609 ] Department of Health [ 610 ] Melanie Mathes [ 611 ] Child Care Resource and Referral   [ 612 ] 11/3/2023  [ 613 ] 6/28/2024    [ @ 614 ]   [ @ 615 ]
+                                               and Human Services                                 ( CCR & R ) Services
+   +
+           [ @ 616 ] FWBP - EIS - 24-117        [ 617 ] Department of Health [ 618 ] Kelly Simmons [ 619 ] More Options for Maternal Support   [ 620 ] 10/13/2023 [ 621 ] 3/1/2024     [ @ 622 ]   [ @ 623 ]
+                                               and Human Services                                  Program Pregnancy Support Services
+                                                                                                   Providers
+   +       [ @ 624 ] MHDS 24-009                [ 625 ] Department of Health [ 626 ] Gloria Symons [ 627 ] Iowa Certified Community Behavioral [ 628 ] 9/30/2023  [ 629 ] 3/31/2024    [ @ 630 ]   [ @ 631 ]
+                                               and Human Services                                  Health Clinic ( CCBHC )
+           [ @ 632 ] MED - 24-004               [ 633 ] Human Services      [ 634 ] Shannon        [ 635 ] Notice of Intent to Issue RFP for IOWA [ 636 ] 2/13/2023 [ 637 ] 9/15/2024  [ @ 638 ]   [ @ 639 ]
+                                               Administration               Garland                DENTAL WELLNESS PLAN AND HAWKI
+                                                                                                   DENTAL PAHP
 [ 640 ] Showing 1 to 75 of 75 entries
 **[ @ 641 ] Procurement**
-        [ @ 642 ] Vendors
-            °   [ @ 643 ] ] How to Do Business
-                    ■ [ @ 644 ] Bidding Opportunities
-            о   [ @ 645 ] Purchasing Contacts
-[ 646 ] ] Phone: [ 652 ]                  [ 653 ] General Questions [ 647 ]: [ @ 654 ] CustServ.DAS@iowa.gov [ 655 ] Building and Grounds [ 648 ]: [ @ 656 ] CustServ.GSE@iowa.gov
-[ 657 ] Human Resources Questions [ [ 649 ]: [ @ 658 ] CustServHRE@iowa.gov [ 659 ] Hours of Operation [ 650 ]: [ 660 ]
-        [ @ 661 ] Home
-        [ @ 662 ] DAS Core
-    ⚫ [ @ 663 ] General Services
-    ⚫ [ @ 664 ] ] Human Resources
-    ⚫ [ @ 665 ] ] Procurement & Fleet
-    ⚫ [ @ 666 ] State Accounting
-[ 667 6718 ] ] sign in or [ @ 669 ] create account
-[ 670 ] 4 Iowa Department of Administrative Services
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 7204
+      [ @ 642 ] Vendors
+        ⚫ [ @ 643 ] ] How to Do Business
+              ■ [ @ 644 ] Bidding Opportunities
+        ⚫ [ @ 645 ] Purchasing Contacts
+[ 651 ] Phone [ 646 ]: [ 652 ] ]   [ 653 ] General Questions [ 647 ]: [ @ 654 ] CustServ.DAS@iowa.gov [ 655 ] Building and Grounds [ 648 ]: [ @ 656 ] CustServ.GSE@iowa.gov
+[ 657 ] Human Resources Questions [ 649 ]: [ @ 658 ] CustServHRE@iowa.gov [ 659 ] Hours of Operation [ 650 ]: [ 660 ]
+     [ @ 661 ] Home
+   ⚫ [ @ 662 ] DAS Core
+     [ @ 663 ] General Services
+     [ @ 664 ] Human Resources
+   ⚫ [ @ 665 ] Procurement & Fleet
+     [ @ 666 ] State Accounting
+[ @ 668 ] sign in [ 667 ] or [ @ 669 ] create account
+[ 670 ] 2024 Iowa Department of Administrative Services
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 7002
