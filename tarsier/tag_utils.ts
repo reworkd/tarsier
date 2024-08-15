@@ -287,10 +287,13 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
   shrinkCollidingTags();
   ensureMinimumTagFontSizes();
 
-  return Object.entries(idToTagMeta).reduce((acc, [id, meta]) => {
-    acc[parseInt(id)] = meta.xpath;
-    return acc ;
-  }, {} as { [key: number]: string });
+  return Object.entries(idToTagMeta).reduce(
+    (acc, [id, meta]) => {
+      acc[parseInt(id)] = meta.xpath;
+      return acc;
+    },
+    {} as { [key: number]: string },
+  );
 };
 
 function getAllElementsInAllFrames(): HTMLElement[] {
@@ -457,7 +460,7 @@ function insertTags(
 
   for (let el of elementsToTag) {
     idToTagMetadata[idNum] = {
-      xpath: getElementXPath(el)
+      xpath: getElementXPath(el),
     };
 
     if (isInteractable(el)) {
@@ -485,7 +488,7 @@ function insertTags(
         idToTagMetadata[idNum] = {
           xpath: parentXPath,
           textNodeIndex: textNodeIndex,
-        }
+        };
 
         const idSpan = create_tagged_span(idNum, el);
         el.insertBefore(idSpan, child);
@@ -667,7 +670,10 @@ window.hideNonTagElements = () => {
     const element = el as HTMLElement;
 
     if (element.style.visibility) {
-      element.setAttribute(reworkdVisibilityAttribute, element.style.visibility);
+      element.setAttribute(
+        reworkdVisibilityAttribute,
+        element.style.visibility,
+      );
     }
 
     if (!element.id.startsWith(tarsierId)) {
