@@ -11,10 +11,15 @@ interface Window {
   fixNamespaces: (tagName: string) => string;
 }
 
+interface TagMetadata {
+  xpath: string;
+  textNodeIndex?: number; // Used if the tag refers to specific TextNode elements within the tagged ElementNode
+}
+
 const tarsierId = "__tarsier_id";
 const tarsierDataAttribute = "data-tarsier-id";
 const tarsierSelector = `#${tarsierId}`;
-const reworkdVisibilityAttr = "reworkd-original-visibility";
+const reworkdVisibilityAttribute = "reworkd-original-visibility";
 
 const elIsVisible = (el: HTMLElement) => {
   const rect = el.getBoundingClientRect();
@@ -174,7 +179,7 @@ function getElementXPath(element: HTMLElement | null) {
 
     let sibling = element.previousElementSibling;
     while (sibling) {
-      if (sibling.tagName === element.tagName) {
+      if (sibling.tagName === element.tagName && sibling.id != tarsierId) {
         sibling_index++;
       }
       sibling = sibling.previousElementSibling;
@@ -278,11 +283,17 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
   const allElements = getAllElementsInAllFrames();
   const rawElementsToTag = getElementsToTag(allElements, tagLeafTexts);
   const elementsToTag = removeNestedTags(rawElementsToTag);
-  const idToXpath = insertTags(elementsToTag, tagLeafTexts);
+  const idToTagMeta = insertTags(elementsToTag, tagLeafTexts);
   shrinkCollidingTags();
   ensureMinimumTagFontSizes();
 
-  return idToXpath;
+  return Object.entries(idToTagMeta).reduce(
+    (acc, [id, meta]) => {
+      acc[parseInt(id)] = meta.xpath;
+      return acc;
+    },
+    {} as { [key: number]: string },
+  );
 };
 
 function getAllElementsInAllFrames(): HTMLElement[] {
@@ -376,7 +387,7 @@ function removeNestedTags(elementsToTag: HTMLElement[]): HTMLElement[] {
 function insertTags(
   elementsToTag: HTMLElement[],
   tagLeafTexts: boolean,
-): { [key: number]: string } {
+): { [key: number]: TagMetadata } {
   function trimTextNodeStart(element: HTMLElement) {
     // Trim leading whitespace from the element's text content
     // This way, the tag will be inline with the word and not textwrap
@@ -444,11 +455,13 @@ function insertTags(
     return element;
   }
 
-  const idToXpath: { [key: number]: string } = {};
+  const idToTagMetadata: { [key: number]: TagMetadata } = {};
   let idNum = 0;
 
   for (let el of elementsToTag) {
-    idToXpath[idNum] = getElementXPath(el);
+    idToTagMetadata[idNum] = {
+      xpath: getElementXPath(el),
+    };
 
     if (isInteractable(el)) {
       const idSpan = create_tagged_span(idNum, el);
@@ -472,10 +485,11 @@ function insertTags(
         const parentXPath = getElementXPath(el);
         const textNodeIndex = allTextNodes.indexOf(child) + 1;
 
-        idToXpath[idNum] = `${parentXPath}/text()`;
-        if (validTextNodes.length > 1) {
-          idToXpath[idNum] = `(${parentXPath}/text())[${textNodeIndex}]`;
-        }
+        idToTagMetadata[idNum] = {
+          xpath: parentXPath,
+          textNodeIndex: textNodeIndex,
+        };
+
         const idSpan = create_tagged_span(idNum, el);
         el.insertBefore(idSpan, child);
         idNum++;
@@ -483,7 +497,7 @@ function insertTags(
     }
   }
 
-  return idToXpath;
+  return idToTagMetadata;
 }
 
 function absolutelyPositionTagIfMisaligned(
@@ -656,7 +670,10 @@ window.hideNonTagElements = () => {
     const element = el as HTMLElement;
 
     if (element.style.visibility) {
-      element.setAttribute(reworkdVisibilityAttr, element.style.visibility);
+      element.setAttribute(
+        reworkdVisibilityAttribute,
+        element.style.visibility,
+      );
     }
 
     if (!element.id.startsWith(tarsierId)) {
@@ -689,9 +706,9 @@ window.revertVisibilities = () => {
   const allElements = getAllElementsInAllFrames();
   allElements.forEach((el) => {
     const element = el as HTMLElement;
-    if (element.getAttribute(reworkdVisibilityAttr)) {
+    if (element.getAttribute(reworkdVisibilityAttribute)) {
       element.style.visibility =
-        element.getAttribute(reworkdVisibilityAttr) || "true";
+        element.getAttribute(reworkdVisibilityAttribute) || "true";
     } else {
       element.style.removeProperty("visibility");
     }

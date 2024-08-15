@@ -2,6 +2,8 @@ import os
 
 import pytest
 
+from tarsier import Tarsier, DummyOCRService
+
 
 @pytest.mark.asyncio
 @pytest.mark.parametrize(
@@ -9,7 +11,7 @@ import pytest
     [
         (
             "mock_html/text_only.html",
-            {0: "//html/body/h1/text()"},
+            {0: "//html/body/h1"},
             ["Hello, World!"],
             ["[ 0 ]"],
         ),
@@ -33,7 +35,7 @@ import pytest
             {
                 0: '//html/body/input[1][@id="text"]',
                 1: '//html/body/input[2][@id="checkbox"]',
-                2: "//html/body/p/text()",
+                2: "//html/body/p",
             },
             ["Enter text here", "Some random text"],
             ["[ # 0 ]", "[ $ 1 ]", "[ 2 ]"],
@@ -47,9 +49,9 @@ import pytest
         (
             "mock_html/br_elem.html",
             {
-                0: "(//html/body/div/text())[1]",
-                1: "(//html/body/div/text())[2]",
-                2: "(//html/body/div/text())[3]",
+                0: "//html/body/div",
+                1: "//html/body/div",
+                2: "//html/body/div",
             },
             ["168 North Brent Street, Suite 401", "Ventura, CA 93003", "805-948-5093"],
             ["[ 0 ]", " [ 1 ]", "[ 2 ]"],
@@ -57,7 +59,7 @@ import pytest
         (
             "mock_html/display_contents.html",
             {
-                0: "//html/body/div/text()",
+                0: "//html/body/div",
             },
             ["Display contents"],
             ["[ 0 ]"],
@@ -95,3 +97,20 @@ async def test_combined_elements_page(
             f"Expected tag '{expected_tag}' not found in page text for {html_file}. "
             f"Got: {page_text}"
         )
+
+
+@pytest.mark.asyncio
+async def test_text_nodes_are_query_selectable(async_page):
+    text_node_html_path = os.path.abspath(
+        os.path.join(os.path.dirname(__file__), "mock_html/text_nodes.html")
+    )
+    await async_page.goto(f"file://{text_node_html_path}")
+    tarsier = Tarsier(DummyOCRService())
+    _, tag_to_xpath = await tarsier.page_to_text(async_page, tag_text_elements=True)
+
+    # Query selector will specifically filter out TextNodes within XPath selectors
+    # As a result, the tagged xpath for the text node should belong to the parent
+    # https://github.com/microsoft/playwright/blob/main/packages/playwright-core/src/server/injected/xpathSelectorEngine.ts#L29-L30)
+    assert len(tag_to_xpath) == 2
+    assert await async_page.query_selector(tag_to_xpath[0])
+    assert await async_page.query_selector(tag_to_xpath[1])
