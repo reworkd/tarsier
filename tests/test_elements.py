@@ -101,12 +101,12 @@ async def test_combined_elements_page(
 
 @pytest.mark.asyncio
 async def test_text_nodes_are_query_selectable(async_page):
-    text_node_html_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "mock_html/text_nodes.html"))
+    text_node_html_path = os.path.abspath(
+        os.path.join(os.path.dirname(__file__), "mock_html/text_nodes.html")
+    )
     await async_page.goto(f"file://{text_node_html_path}")
     tarsier = Tarsier(DummyOCRService())
-    _, tag_to_xpath = await tarsier.page_to_text(
-        async_page, tag_text_elements=True
-    )
+    _, tag_to_xpath = await tarsier.page_to_text(async_page, tag_text_elements=True)
 
     # Query selector will specifically filter out TextNodes within XPath selectors
     # As a result, the tagged xpath for the text node should belong to the parent
