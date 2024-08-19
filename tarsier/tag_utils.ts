@@ -18,12 +18,15 @@ interface Window {
   // This means that subsequent calls to .evaluate will not have access to the functions defined in this file
   // since they will be in an inaccessible scope. To circumvent this, we attach the following methods to the
   // window which is always available globally when run in a browser environment.
-  tagifyWebpage: (tagLeafTexts?: boolean) => { [key: number]: string };
+  tagifyWebpage: (tagLeafTexts?: boolean) => { [key: number]: TagMetadata };
   removeTags: () => void;
   hideNonTagElements: () => void;
   revertVisibilities: () => void;
   fixNamespaces: (tagName: string) => string;
-  colourBasedTagify: (tagLeafTexts?: boolean) => ColouredElem[];
+  colourBasedTagify: (tagLeafTexts?: boolean) => {
+    colorMapping: ColouredElem[];
+    insertedIdStrings: string[];
+  };
   hideNonColouredElements: () => void;
   getElementHtmlByXPath: (xpath: string) => string;
   createTextBoundingBoxes: () => void;
@@ -45,6 +48,7 @@ interface Window {
 interface TagMetadata {
   xpath: string;
   textNodeIndex?: number; // Used if the tag refers to specific TextNode elements within the tagged ElementNode
+  idString?: string | undefined;
 }
 
 const tarsierId = "__tarsier_id";
@@ -318,13 +322,7 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
   shrinkCollidingTags();
   ensureMinimumTagFontSizes();
 
-  return Object.entries(idToTagMeta).reduce(
-    (acc, [id, meta]) => {
-      acc[parseInt(id)] = meta.xpath;
-      return acc;
-    },
-    {} as { [key: number]: string },
-  );
+  return idToTagMeta;
 };
 
 function getAllElementsInAllFrames(): HTMLElement[] {
@@ -516,13 +514,14 @@ function insertTags(
         const parentXPath = getElementXPath(el);
         const textNodeIndex = allTextNodes.indexOf(child) + 1;
 
+        const idSpan = create_tagged_span(idNum, el);
+        el.insertBefore(idSpan, child);
+
         idToTagMetadata[idNum] = {
           xpath: parentXPath,
           textNodeIndex: textNodeIndex,
+          idString: idSpan.textContent || "",
         };
-
-        const idSpan = create_tagged_span(idNum, el);
-        el.insertBefore(idSpan, child);
         idNum++;
       }
     }
@@ -765,7 +764,10 @@ window.hideNonColouredElements = () => {
   allElements.forEach((el) => {
     const element = el as HTMLElement;
     if (element.style.visibility) {
-      element.setAttribute(reworkdVisibilityAttr, element.style.visibility);
+      element.setAttribute(
+        reworkdVisibilityAttribute,
+        element.style.visibility,
+      );
     }
 
     if (
@@ -875,9 +877,39 @@ function transformXPath(xpath: string): string {
   return xpath.replace(/\/(\w+):(\w+)/g, '/*[name()="$1:$2"]');
 }
 
-window.colourBasedTagify = (tagLeafTexts = false): ColouredElem[] => {
-  const tagMapping = window.tagifyWebpage(tagLeafTexts);
+window.colourBasedTagify = (
+  tagLeafTexts = false,
+): { colorMapping: ColouredElem[]; insertedIdStrings: string[] } => {
+  const tagMappingWithTagMeta = window.tagifyWebpage(tagLeafTexts);
+  const tagMapping = Object.entries(tagMappingWithTagMeta).reduce(
+    (acc, [id, meta]) => {
+      acc[parseInt(id)] = meta.xpath;
+      return acc;
+    },
+    {} as { [key: number]: string },
+  );
   window.removeTags();
+
+  let insertedIdStrings: string[] = [];
+  Object.entries(tagMappingWithTagMeta).forEach(([id, meta]) => {
+    if (meta.textNodeIndex !== undefined && meta.idString !== undefined) {
+      // Constructing the XPath to directly access the specific text node
+      const xpathWithTextNode = `${meta.xpath}/text()[${meta.textNodeIndex}]`;
+      const textNode = document.evaluate(
+        xpathWithTextNode,
+        document,
+        null,
+        XPathResult.FIRST_ORDERED_NODE_TYPE,
+        null,
+      ).singleNodeValue as Text;
+
+      if (textNode) {
+        // Prepending the ID directly to the text node data
+        textNode.data = `${meta.idString} ${textNode.data}`;
+        insertedIdStrings.push(meta.idString);
+      }
+    }
+  });
 
   const viewportWidth = window.innerWidth;
   // Collect elements that have a bounding box > 0
@@ -1006,8 +1038,7 @@ window.colourBasedTagify = (tagLeafTexts = false): ColouredElem[] => {
       }
     });
   });
-
-  return colorMapping;
+  return { colorMapping, insertedIdStrings };
 };
 
 window.getElementHtmlByXPath = function (xpath: string): string {
@@ -1086,7 +1117,7 @@ window.createTextBoundingBoxes = () => {
           } else {
             // Create multiple inner spans for individual words or groups of words
             let newHTML = textContent.replace(
-              /(\([\w\s',&-:]+\)|[\w',&-:]+[\w",\-\/\[\]]*[?.!,;:]?)/g,
+              /(\[[^\]]*\]|[\w',&-:]+[\w",\-\/\[\]]*[?.!,;:]?)/g,
               '<span class="tarsier-highlighted-word">$1</span>',
             );
             let tempDiv = document.createElement("div");

@@ -35,15 +35,6 @@ def format_text(ocr_text: ImageAnnotatorResponse) -> str:
             max_sum_text_lengths * 1.5
         )  # Adding a buffer to ensure it fits
 
-        # Print debug information
-        print(
-            f"Longest line based on text lengths: {' '.join(token['text'] for token in longest_line)}"
-        )
-        print(
-            f"Determined canvas_width based on max_sum_text_lengths: {max_sum_text_lengths}"
-        )
-        print(f"Final canvas_width: {canvas_width}")
-
     else:
         canvas_width = default_canvas_width
 
@@ -103,21 +94,8 @@ def format_text(ocr_text: ImageAnnotatorResponse) -> str:
 
             # Place the text on the canvas
             for j, char in enumerate(text):
-                if x + j < canvas_width:
-                    canvas[i][x + j] = char
-                else:
-                    # Print the error information
-                    print(
-                        f"Error: Trying to access canvas[{i}][{x + j}] which is out of bounds."
-                    )
-                    print(f"Annotation text: {text}")
-                    print(
-                        f"Annotation midpoint_normalized: {annotation['midpoint_normalized']}"
-                    )
-                    print(f"Canvas width: {canvas_width}, i: {i}, x: {x}, j: {j}")
-                    print(f"Canvas line length: {len(canvas[i])}")
+                canvas[i][x + j] = char
 
-            # Update the last inserted position
             last_x = x + len(text) + 1  # +1 for a space between words
 
         i += 1

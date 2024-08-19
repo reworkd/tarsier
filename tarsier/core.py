@@ -104,29 +104,18 @@ class Tarsier(ITarsier):
     ) -> Tuple[str, TagToXPath]:
         adapter = adapter_factory(driver)
 
-        coloured_elems = await self._colour_based_tagify(adapter, tag_text_elements)
+        coloured_elems, inserted_id_strings = await self._colour_based_tagify(
+            adapter, tag_text_elements
+        )
 
         tag_to_xpath = {elem["id"]: elem["xpath"] for elem in coloured_elems}
         await self._hide_non_coloured_elements(adapter)
-        # await self._disable_transitions(adapter)
+        await self._disable_transitions(adapter)
         coloured_image = await self._take_screenshot(adapter)
-        # await self._enable_transitions(adapter)
-        screenshot_filename = "initial_coloured_screenshot_.png"
-        with open(screenshot_filename, "wb") as file:
-            file.write(coloured_image)
+        await self._enable_transitions(adapter)
 
         detected_colours = await self.check_colors_brute_force(coloured_image)
-        # expected_colours = [
-        #     (
-        #         elem["color"],
-        #         int(elem["boundingBoxX"]),
-        #         int(elem["boundingBoxY"]),
-        #         int(elem["width"]),
-        #         int(elem["height"]),
-        #     )
-        #     for elem in coloured_elems
-        # ]
-        # detected_colours = await self._check_colours_(coloured_image, expected_colours)
+
         # remove the colours from coloured_elems that are not common between detected_colours and coloured_elems
         detected_coloured_elems = [
             elem for elem in coloured_elems if elem["color"] in detected_colours
@@ -139,9 +128,6 @@ class Tarsier(ITarsier):
         undetected_coloured_elems = [
             elem for elem in coloured_elems if elem["color"] not in detected_colours
         ]
-        # # Print the idSymbols of the removed elem`s
-        # for elem in undetected_coloured_elems:
-        #     print(f"No colour found for: {elem['idSymbol']}")
 
         # re colour the undetected elements
         re_coloured_elems = await self._re_colour_elements(
@@ -149,14 +135,9 @@ class Tarsier(ITarsier):
         )
 
         # attempt to detect the missing elements after we have re coloured them
-        # await self._disable_transitions(adapter)
+        await self._disable_transitions(adapter)
         re_coloured_image = await self._take_screenshot(adapter)
-        # await self._enable_transitions(adapter)
-        screenshot_filename = "re_coloured_screenshot_.png"
-
-        # Write the screenshot to a file
-        with open(screenshot_filename, "wb") as file:
-            file.write(re_coloured_image)
+        await self._enable_transitions(adapter)
 
         new_detected_colours = await self.check_colors_brute_force(re_coloured_image)
         # new_expected_colours = [
@@ -168,10 +149,6 @@ class Tarsier(ITarsier):
         new_detected_coloured_elems = [
             elem for elem in re_coloured_elems if elem["color"] in new_detected_colours
         ]
-
-        # # print the idSymbol's of the detected
-        # for elem in new_detected_coloured_elems:
-        #     print(f"New colour found for: {elem['idSymbol']}")
 
         all_detected_coloured_elems = (
             detected_coloured_elems + new_detected_coloured_elems
@@ -212,8 +189,13 @@ class Tarsier(ITarsier):
 
                 if i == 0:
                     # First bounding box is handled differently
+                    annotation_text = (
+                        elem["idSymbol"] + " " + box["text"]
+                        if (elem["idSymbol"] not in inserted_id_strings)
+                        else box["text"]
+                    )
                     tag_annotation = ImageAnnotation(
-                        text=elem["idSymbol"] + " " + box["text"],
+                        text=annotation_text,
                         midpoint=midpoint,
                         midpoint_normalized=normalized_midpoint,
                         width=box["width"] + 48,
@@ -304,18 +286,20 @@ class Tarsier(ITarsier):
         await self._load_tarsier_utils(adapter)
 
         script = f"return window.tagifyWebpage({str(tag_text_elements).lower()});"
-        tag_to_xpath = await adapter.run_js(script)
-
+        tag_to_meta = await adapter.run_js(script)
+        tag_to_xpath = {int(key): meta["xpath"] for key, meta in tag_to_meta.items()}
         return {int(key): value for key, value in tag_to_xpath.items()}
 
     async def _colour_based_tagify(
         self, adapter: BrowserAdapter, tag_text_elements: bool = False
-    ) -> list[ColouredElem]:
+    ) -> tuple[list[ColouredElem], set[str]]:
         await adapter.run_js(self._js_utils)
 
         script = f"return window.colourBasedTagify({str(tag_text_elements).lower()});"
-        coloured_elems = await adapter.run_js(script)
-        return coloured_elems
+        result = await adapter.run_js(script)
+        colour_mapping = result["colorMapping"]
+        inserted_id_strings = result["insertedIdStrings"]
+        return colour_mapping, inserted_id_strings
 
     async def _remove_tags(self, adapter: BrowserAdapter) -> None:
         await self._load_tarsier_utils(adapter)
