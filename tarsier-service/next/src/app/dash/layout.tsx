@@ -1,6 +1,7 @@
 "use client"
 import { RequiredAuthProvider, RedirectToLogin } from "@propelauth/react";
- 
+import { Toaster } from "@/components/ui/toaster"
+
 export default function RootLayout({ children }: Readonly<{children: React.ReactNode}>) {  
   return (
     <html>
@@ -11,6 +12,7 @@ export default function RootLayout({ children }: Readonly<{children: React.React
         >
           {children}
         </RequiredAuthProvider>
+        <Toaster />
       </body>
     </html>
   );

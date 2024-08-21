@@ -11,12 +11,13 @@ RUN pip install --no-cache-dir "poetry==$POETRY_VERSION"
 WORKDIR /app
 USER root
 
-COPY poetry.lock pyproject.toml
+COPY poetry.lock pyproject.toml .
 
 # Install dependencies defined in poetry.lock
-RUN poetry install
+RUN poetry config virtualenvs.create false && poetry install
 
 COPY . .
 
 # Command to run the application
-CMD ["poetry", "run", "python", "src/main.py"]
+# CMD ["poetry", "run", "python", "src/main.py"]
+CMD ["python", "src/main.py"]

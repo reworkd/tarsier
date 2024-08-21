@@ -7,8 +7,8 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table"
+import { BACKEND_BASE } from "@/constants/api"
 
-const BACKEND_BASE_URL = "http://localhost:8000" //import
 type Job = {
   id: string,
   url: string,
@@ -22,7 +22,7 @@ export default function logsTable({ accessToken }: Props) {
 
   useEffect(() => {
     const headers = { 'Authorization': `Bearer ${accessToken}`}
-    fetch(`${BACKEND_BASE_URL}/jobs`, { headers })
+    fetch(`${BACKEND_BASE}/jobs`, { headers })
       .then(r => r.json())
       .then(data => {
         console.log(data)

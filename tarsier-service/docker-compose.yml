@@ -1,16 +1,16 @@
 version: '3.3'
 services:
-  # backend:
-  #   build:
-  #     context: ./service
-  #     dockerfile: Dockerfile
-  #   ports:
-  #     - "8000:8000"
-  #   # restart: always
-  #   volumes:
-  #     - ./service:/app/
-  #   depends_on:
-  #     - db
+  backend:
+    build:
+      context: ./service
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    # restart: always
+    environment:
+      DB_HOST: 'db'
+    depends_on:
+      - db
 
   db:
     image: mysql:8.0

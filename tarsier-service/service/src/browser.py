@@ -25,11 +25,3 @@ async def url_to_page_text(url: str):
         await page.goto(url)
         page_text, tag_to_xpath = await tarsier.page_to_text(page, tagless=True)
         return page_text
-
-
-# asyncio.run(run())
-
-    
-
-
-
