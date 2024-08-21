@@ -154,3 +154,4 @@ cython_debug/
 *.js
 node_modules
 /tests/.env
+gcp.json

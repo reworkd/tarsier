@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "backend"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+package-mode = false
+
+
+[tool.poetry.dependencies]
+python = ">=3.11,<4.0"
+pydantic = "^2.8.2"
+fastapi = {extras = ["standard"], version = "^0.112.1"}
+uvicorn = "^0.30.6"
+playwright = "^1.46.0"
+python-dotenv = "^1.0.1"
+tarsier = "^0.6.38"
+openai = "^1.41.0"
+sqlalchemy = "^2.0.32"
+pymysql = "^1.1.1"
+cryptography = "^43.0.0"
+propelauth-fastapi = "^2.1.16"
+stripe = "^10.8.0"
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
