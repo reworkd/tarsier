@@ -10,10 +10,10 @@ from models import PageTextData, ExtractData, ExtractResponseData
 import stripe
 
 MAX_FREE_REQUESTS_PER_MONTH = 100
-FRONTEND_BASE = "http://localhost:3000"
+FRONTEND_BASE = "https://tarsier.vercel.app"
 
 app = FastAPI()
-origins = [FRONTEND_BASE]
+origins = [FRONTEND_BASE, "http://localhost:3000"]
 app.add_middleware(CORSMiddleware, allow_origins=origins, allow_credentials=True, allow_methods=["*"], allow_headers=["*"])
 stripe.api_key = os.environ["STRIPE_KEY"]
 
