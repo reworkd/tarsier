@@ -1,27 +1,22 @@
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- [ @ 0 ]                                                                                                                                             [ @ 1 ] ONE EQUITY PARTNERS
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[@1] ONE EQUITY PARTNERS
 
 
-                                                                                          [ @ 2 ]
 
 
-                                             [ @ 3 ] Home      [ @ 4 ] About Us      [ @ 10 ] Services     [ @ 15 ] Our Hospitals       [ @ 16 ] FAQs      [ @ 17 ] Careers      [ @ 18 ] Contact Us
+                                                       **[@3] Home [@4] About Us** **[@5] Services [@6] Our Hospitals** **[@7] FAQs [@8] Careers [@9] Contact Us**
 
-                                     [ 19 ] All [ 20 ] Arizona   [ 21 ] California [ 22 ] Colorado   [ 23 ] Idaho  [ 24 ] Indiana   [ 25 ] Montana    [ 26 ] New Mexico    [ 27 ] Ohio
-                                     [ 28 ] South Carolina   [ 29 ] Texas  [ 30 ] Utah   [ 31 ] Wisconsin   [ 32 ] Wyoming
-                                  [ @ 33 ]                                                    [ @ 35 ]                                                    [ @ 37 ]
+                      [10] All  [11] Arizona   [12] California  [13] Colorado   [14] Idaho   [15] Indiana   [16] Montana    [17] New Mexico     [18] Ohio   [19] South Carolina
+                      [20] Texas   [21] Utah    [22] Wisconsin   [23] Wyoming
 
 
 
 
 
-                                          9856
 
-                                  [ @ 34 ] Denver Regional                                    [ @ 36 ] Green Bay                                          [ @ 38 ] Rehabilitation
-                                  **Rehabilitation Hospital**                                 Rehabilitation Hospital                                     Hospital of Southern
-                                                                                                                                                         California
 
-                                  [ @ 39 ]                                                    [ @ 41 ]                                                    [ @ 43 ]
+                    **[@25] Denver Regional**                                **[@27] Green Bay Rehabilitation**                       **[@29] Rehabilitation Hospital of**
+                    **Rehabilitation Hospital**                              **Hospital**                                             **Southern California**
 
 
 
@@ -29,47 +24,35 @@
 
 
 
-                                  [ @ 40 ] Midlands Regional                                  [ @ 42 ] Lexington Regional                                 [ @ 44 ] Trustpoint
-                                  **Rehabilitation Hospital**                                 Rehabilitation Hospital                                     Rehabilitation Hospital of
-                                                                                                                                                          Lubbock
+                    **[@31] Midlands Regional**                              **[@33] Lexington Regional**                             **[@35] Trustpoint Rehabilitation**
+                    **Rehabilitation Hospital**                              **Rehabilitation Hospital**                              **Hospital of Lubbock**
 
-                                  [ @ 45 ]                                                    [ @ 47 ]                                                    [ @ 49 ]
 
 
 
 
 
 
+                    **[@37] Spartanburg Rehabilitation**                     **[@39] Stockton Regional**                              **[@41] Sacramento Rehabilitation**
+                    **Institute**                                            **Rehabilitation Hospital**                              **Hospital**
 
-                                  [ @ 46 ] Spartanburg                                        [ @ 48 ] Stockton Regional                                  [ @ 50 ] Sacramento
-                                  Rehabilitation Institute                                    Rehabilitation Hospital                                     Rehabilitation Hospital
 
-                                  [ @ 51 ]                                                    [ @ 53 ]                                                    [ @ 55 ]
 
 
 
-                                         REHABILITATION HOSPITAL
-                                         OF THE NORTHWEST
 
 
-                                   [ @ 52 ] Rehabilitation                                    [ @ 54 ] Rehabilitation                                     [ @ 56 ] Northern Utah
-                                  Hospital of the Northwest                                   Hospital of Northern                                        Rehabilitation Hospital
-                                                                                              Indiana
+                    **[@43] Rehabilitation Hospital of**                     **[@45] Rehabilitation Hospital of**                     **[@47] Northern Utah**
+                    **the Northwest**                                        **Northern Indiana**                                     **Rehabilitation Hospital**
 
-                                  [ @ 57 ]                                                    [ @ 59 ]                                                    [ @ 61 ]
 
 
-                                                                                                                                                                    WESLACO REGIONAL
-                                                                                                                                                                    REHABILITATION HOSPITAL
 
-                                                                                                                                                              906 S James
 
 
-                                   [ @ 58 ] Rehabilitation                                    [ @ 60 ] Laredo                                             [ @ 62 ] Weslaco Regional
-                                  Hospital of Northern                                        Rehabilitation Hospital                                     Rehabilitation Hospital
-                                  Arizona
 
-                                  [ @ 63 ]                                                    [ @ 65 ]                                                    [ @ 67 ]
+                    **[@49] Rehabilitation Hospital of**                     **[@51] Laredo Rehabilitation**                          **[@53] Weslaco Regional**
+                    **Northern Arizona**                                     **Hospital**                                             **Rehabilitation Hospital**
 
 
 
@@ -77,115 +60,93 @@
 
 
 
-                                  [ @ 64 ] Bakersfield                                        [ @ 66 ] Utah Valley                                        [ @ 68 ] South Texas
-                                  Rehabilitation Hospital                                     Specialty Hospital                                          Rehabilitation Hospital
+                    **[@55] Bakersfield Rehabilitation**                     **[@57] Utah Valley Specialty**                          **[@59] South Texas Rehabilitation**
+                    **Hospital**                                             **Hospital**                                             **Hospital**
 
-                                  [ @ 69 ]                                                    [ @ 71 ]                                                    [ @ 73 ]
 
 
 
 
 
 
+                    **[@61] Rehabilitation Hospital of**                     **[@63] Northern Idaho Advanced**                        **[@65] Northern Colorado**
+                    **Southern New Mexico**                                  **Care Hospital**                                        **Rehabilitation Hospital**
 
-                                  [ @ 70 ] Rehabilitation                                     [ @ 72 ] Northern Idaho                                     [ @ 74 ] Northern Colorado
-                                  Hospital of Southern New                                    Advanced Care Hospital                                      Rehabilitation Hospital
-                                  Mexico
 
-                                  [ @ 75 ]                                                    [ @ 77 ]                                                    [ @ 79 ]
 
 
 
 
 
+                    **[@67] Northern Colorado Long**                         **[@69] Mountain Valley Regional**                       **[@71] Mesquite Specialty**
+                    **Term Acute Hospital**                                  **Rehabilitation Hospital**                              **Hospital**
 
 
-                                  [ @ 76 ] Northern Colorado                                  [ @ 78 ] Mountain Valley                                    [ @ 80 ] Mesquite Specialty
-                                  Long Term Acute Hospital                                    Regional Rehabilitation                                     Hospital
-                                                                                              Hospital
 
-                                  [ @ 81 ]                                                    [ @ 83 ]                                                    [ @ 85 ]
 
 
-                                       4 МЕЗОШИТЕ РЕНАВЕЛА TION
 
 
+                    **[@73] Mesquite Rehabilitation**                        **[@75] Laredo Specialty Hospital**                      **[@77] Greenwood Regional**
+                    **Institute**                                                                                                     **Rehabilitation Hospital**
 
 
-                                   [ @ 82 ] Mesquite                                          [ @ 84 ] Laredo Specialty                                   [ @ 86 ] Greenwood
-                                  Rehabilitation Institute                                    Hospital                                                    Regional Rehabilitation
-                                                                                                                                                          Hospital
 
-                                  [ @ 87 ]                                                    [ @ 89 ]                                                    [ @ 91 ]
 
 
 
 
+                    **[@79] Elkhorn Valley**                                 **[@81] Advanced Care Hospital of**                      **[@83] Advanced Care Hospital of**
+                    **Rehabilitation Hospital**                              **Southern New Mexico**                                  **Montana**
 
 
 
-                                   [ @ 88 ] Elkhorn Valley                                    [ @ 90 ] Advanced Care                                      [ @ 92 ] Advanced Care
-                                  Rehabilitation Hospital                                     Hospital of Southern New                                    Hospital of Montana
-                                                                                              Mexico
 
-                                  [ @ 93 ]                                                    [ @ 95 ]                                                    [ @ 97 ]
 
 
 
+                    **[@85] Lafayette Regional**
+                                                                             **[@87] Rehabilitation Hospital of**                     **[@89] Corpus Christi**
+                    **Rehabilitation Hospital**
+                                                                             **Northwest Ohio**                                       **Rehabilitation Hospital**
 
 
 
-                                   [ @ 94 ] Lafayette Regional
-                                                                                              **[ @ 96 ] Rehabilitation**                                 [ @ 98 ] Corpus Christi
-                                  **Rehabilitation Hospital**
-                                                                                              Hospital of Northwest Ohio                                  Rehabilitation Hospital
 
-                                  [ @ 99 ]                                                    [ @ 101 ]
 
 
 
+                    **[@91] Bloomington Regional**                           **[@93] New Braunfels Regional**
+                    **Rehabilitation Hospital**                              **Rehabilitation Hospital**
 
 
 
+                                                                               **[94] Top 10**
+                                                                               **[95] Recognized in the Nation s Top 10**
+                                                                               [96] Ernest Health s rehabilitation hospitals have been ranked by the Uniform Data System for Medical
+                                                                               Rehabilitation (UDSMR), a non-for-profit corporation that was developed with support from the National
+                                                                               Institute on Disability and Rehabilitation research, a component of the U.S. Department of Education. It
+                                                                               ranks rehabilitation facilities based upon care that is patient-centered, effective, efficient, and timely.
+                                                                               [97] Through UDSMR, our hospitals collaborate with our peers throughout the United States to share
+                                                                               information and establish best practices for patients. This helps us elevate rehabilitative care for everyone
+                                                                               across the United States.
 
-                                  [ @ 100 ] Bloomington                                       [ @ 102 ] New Braunfels
-                                  Regional Rehabilitation                                     Regional Rehabilitation
-                                  Hospital                                                    Hospital
 
 
+                    **[98] About Ernest Health**                               **[101] Guiding Principles**
+                    [99] At Ernest Health, we provide specialized              [102] As our Guiding Principles state, we promote a
+                    medical and rehabilitative services to our patients        healing and nurturing environment where everyone
+                    through our rehabilitation and long-term acute care        is treated with dignity and respect. We are first and
+                    hospitals. We treat patients who often are                 foremost passionate patient caregivers and team
+                    recovering from disabilities caused by injuries or         members, connected at our core by the treatment           [104] 1024 N. Galloway Ave., Suite 102
+                    illnesses, or from chronic or complex medical              needs of our patients.                                    [105] Mesquite, Texas 75149
+                    conditions.                                                                                                          [106] P
+                                                                               [@103] Read More                                          [@107] 972.216.2425
+                    [@100] Read More                                                                                                     [108] F
+                                                                                                                                         [@109] 972.885.7090
+                                                                                                                                         [@110] Email
 
 
-                                                                                                **[ 103 ] Top 10 %**
-                                                  PROUDLY RANKED
-                                                         in the
-                                                                                                **[ 104 ] Recognized in the Nation's Top**
-                                                **TOP 10 %**
-                                                RECOGNIZED NATIONALLY.                          10 %
-                                                    HEALING LOCALLY.
-                                                                                                [ 105 ] Ernest Health's rehabilitation hospitals have been ranked by the Uniform Data System for Medical
-                                                                                                Rehabilitation ( UDSMR ), a non - for - profit corporation that was developed with support from the National
-                                                                                                Institute on Disability and Rehabilitation research, a component of the U.S. Department of Education. It
-                                                                                                ranks rehabilitation facilities based upon care that is patient - centered, effective, efficient, and timely.
-                                                                                                [ 106 ] Through UDSMR, our hospitals collaborate with our peers throughout the United States to share
-                                                                                                information and establish best practices for patients. This helps us elevate rehabilitative care for everyone
-                                                                                                across the United States.
-
-
-
-                                  [ 107 ] About Ernest Health                                   [ 110 ] Guiding Principles
-                                                                                                                                                                          ERNEST HEALTH
-                                   [ 108 ] At Ernest Health, we provide specialized             [ 111 ] As our Guiding Principles state, we promote a
-                                                                                                                                                            $             We are passionate patient caregivers
-                                  medical and rehabilitative services to our patients           healing and nurturing environment where everyone
-                                  through our rehabilitation and long - term acute care        is treated with dignity and respect. We are first and
-                                  hospitals. We treat patients who often are                   foremost passionate patient caregivers and team
-                                  recovering from disabilities caused by injuries or            members, connected at our core by the treatment              [ 114 ] 1024 N. Galloway Ave., Suite 102
-                                  illnesses, or from chronic or complex medical                 needs of our patients.                                       [ 115 ] Mesquite, Texas 75149
-                                  conditions.                                                                                                                [ 116 ] P [ @ 117 ] 972.216.2425 [ 118 ] F
-                                                                                                [ @ 112 ] Read More                                          [ @ 119 ] 972.885.7090 [ 113 ] | [ @ 120 ] Email
-                                  [ @ 109 ] Read More
-
-
-                                  [ 121 ] © Copyright - Ernest Health | 1024 N. Galloway Ave., Suite 102, Mesquite, Texas 75149                                                                              [ @ 1
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1442
+                    [111] Copyright - Ernest Health 1024 N. Galloway Ave., Suite 102, Mesquite, Texas 75149
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1066

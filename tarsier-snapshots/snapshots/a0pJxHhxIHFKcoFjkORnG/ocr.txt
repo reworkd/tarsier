@@ -1,78 +1,68 @@
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-III                                         [ @ 1 ] PEOPLE       [ @ 2 ] PRACTICES         [ @ 3 ] INSIGHTS       [ @ 4 ] INNOVATION        [ @ 5 ] SUSTAINABILITY          [ @ 6 ] CAREERS        [ @ 7 ] ABOUT
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[@1] People [@2] Practices [@3] Insights [@4] Innovation [@5] Sustainability [@6] Careers [@7] About
+           **[$0] Toggle**
+                                                                                                  [@9] Technology & Innovation
+           **navigation**                                                                         [@10] Energy & Infrastructure
+                                                                                                  [@11] Finance                                                             [$16] English
 
-                                                                [ @ 9 ] TECHNOLOGY & INNOVATION
-                                                                [ @ 10 ] ENERGY & INFRASTRUCTURE                                                                        [ # 13 ]
-                         [ @ 8 ]                                                                                        [ $ 16 ] English
-                                                                [ @ 11 ] FINANCE                                                                                         Search for ...                 [ $ 15 ]
-
-                         [ @ 17 ] Home > [ @ 18 ] People   [ 19 ] Weeks, L. Mark
-                                                                                                                                                                                   [ @ 20 ]           [ @ 21 ]
+                                      [@17] Home [@18] People [19] Weeks, L. Mark
 
 
-                                                                                         [ @ 22 ] L. Mark Weeks
-                                                                                         [ 23 ] Senior Counsel
-                                                                                         [ 24 ] New York
+                                                                                                                            [@22] L. Mark Weeks
+                                                                                                                            [23] Senior Counsel
+                                                                                                                            [24] New York
 
-                                                                                         [ 25 ] Mark Weeks is a Senior Counsel in Orrick's M & A and Private
-                                                                                         Equity Group. He has practiced in New York and Tokyo for more than
-                                                                                         30 years and served as office leader of Orrick's Tokyo office from
-                           [ 62 ] D: [ @ 63 ] +1 212 506 5000
-                           [ 64 ] E: [ @ 65 ] mweeks@orrick.com                          2007 to 2017.
+                                                                                                                            **[25] Mark Weeks is a Senior Counsel in Orrick s M&A and**
+                                                                                                                            **Private Equity Group. He has practiced in New York and**
+                                          [62] D:       [@63] +1 212 506 5000
+                                          [64] E:       [@65] mweeks orrick.com                                             **Tokyo for more than 30 years and served as office leader of**
+                                                                                                                            **Orrick s Tokyo office from 2007 to 2017.**
+                                          [66] Address:
+                                          [67] 51 West 52nd Street                                                          [26] He concentrates his practice on mergers and acquisitions, joint ventures, clean technology, life
+                                          [68] New York, NY 10019-6142                                                      sciences, IT and telecommunications asset transfers, strategic investments, and general corporate
+                                          [69] United States                                                                representation for U.S., Japanese and other Asian companies.
+                                                                                                                            [27] Mark speaks, reads and writes fluent Japanese.
+                                                   [@70] vCard
 
-                            [ 66 ] Address:                                              [ 26 ] He concentrates his practice on mergers and acquisitions, joint ventures, clean technology, life sciences, IT and
-                           [ 67 ] 51 West 52nd Street                                    telecommunications asset transfers, strategic investments, and general corporate representation for U.S., Japanese and
-                            [ 68 ] New York, NY 10019-6142                               other Asian companies.
-                            [ 69 ] United States
-                                                                                         [ 27 ] Mark speaks, reads and writes fluent Japanese.
-                           ☐ [ @ 70 ] vCard
-                                                                                            [ @ 28 ] Engagements                                                                                                 ☐
-                         [ 71 ] Practices
-                           [ @ 72 ] Life Sciences Sector
-                                                                                         [ 50 ] Insights                                                                                     [ @ 55 ] Show More
-                           [ @ 73 ] Mergers & Acquisitions
-                           [ @ 74 ] Employment Law & Litigation
-                                                                                            [ @ 51 ] Nikkei Asian Review:" Japanese edge                  [ @ 53 ] Tokyo Office Leader Discusses Impact
-                           [ @ 75 ] IP Counseling & Due Diligence                          over Chinese buyers in M & A may be fleeting"                  of Yen on Japanese M & A Market
-                           [ @ 76 ] Japan                                                   [ 52 ] July.25.2017                                           [ 54 ] March.11.2013
-
-                                                                                                                           STOCK
-                                                                                ㅁ
-                           [ @ 77 ] Admitted In                                                          **EMERGER**
-                                                                                             TRANSACTION       ACQUISITIONS                                                                 日本
-                                                                                                                          ACQUISITION
-                              [ 78 ] New York                                                                                                                                                           PACIFIC
-
-
-
-                                                                                                                                               COMPANY
-                                                                                                                                                                                                         OCEAN
-                           [ @ 79 ] Education
-                           [ @ 82 ] Honors
-                           [ @ 95 ] Languages                                            [ 56 ] News                                                                                         [ @ 61 ] Show More
-                           [ @ 98 ] Memberships                                             [ @ 57 ] Japan Team Recognized in The Legal                    [ @ 59 ] Orrick Japan Team Recognized in 2022
-                                                                                           500 Asia Pacific, 2023 Edition                                 Edition of The Legal 500: Asia Pacific
-                           [ @ 102 ] Speeches                                   ☐            [ 58 ] 1 minute read | January.17.2023                       [ 60 ] January.19.2022
-                            [ @ 121 ] Publications                                                                                                                                 The
-                                                                                                                                                                           **LEGAL**
-                                                                                                                                                                            **500**
+                                                                                                                                 [@28] Engagements
+                                      **[71] Practices**
+                                          [@72] Life Sciences Sector
+                                          [@73] Mergers & Acquisitions
+                                                                                                                            **[50] Insights**                                                                                                                         [@55] Show More
+                                          [@74] Employment Law & Litigation
+                                          [@75] IP Counseling & Due Diligence
+                                                                                                                                [@51] Nikkei Asian Review: Japanese edge                                            [@53] Tokyo Office Leader Discusses Impact
+                                          [@76] Japan                                                                           over Chinese buyers in M&A may be                                                   of Yen on Japanese M&A Market
+                                                                                                                                fleeting"                                                                           [54] March.11.2013
+                                                                                                                                [52] July.25.2017
+                                          [@77] Admitted In
+                                              [78] New York
+                                          [@79] Education
+                                          [@82] Honors
+                                          [@95] Languages
+                                                                                                                            **[56] News**                                                                                                                             [@61] Show More
+                                          [@98] Memberships
+                                                                                                                                [@57] Japan Team Recognized in The                                                  [@59] Orrick Japan Team Recognized in
+                                          [@102] Speeches                                                                       Legal 500 Asia Pacific, 2023 Edition                                                2022 Edition of The Legal 500: Asia
+                                                                                                                                   [58] 1 minute read January.17.2023                                               Pacific [60] January.19.2022
+                                          [@121] Publications
 
 
 
 
-                                                                                                                                                          [ # 146 ]
-                        ㅁㅁㅁㅁ
-                                                                                                                                                           Search entire site                        [ $ 147 ]
 
-                          [ @ 148 ] Legal Notices | [ @ 149 ] Privacy Notice | [ @ 150 ] Cookie Notice | [ @ 151 ] Modern Slavery I [ @ 152 ] Attorney Advertising | [ @ 153 ] Secure Login
-                          [ 154 ] © 2023 Orrick Herrington & Sutcliffe LLP. All rights reserved.
-                          [ @ 155 ] Austin | [ @ 156 ] Beijing | [ @ 157 ] Boston [ @ 158 ] Brussels ( @ 159 ] Chicago [ @ 160 ] Düsseldorf [ @ 161 ] Geneva | [ @ 162 ] Houston [ @ 163 ] London [ @ 164 ] Los Angeles I
-                          [ @ 165 ] Milan | [ @ 166 ] Munich | [ @ 167 ] New York | [ @ 168 ] Orange County [ @ 169 ] Paris [ @ 170 ] Portland | [ @ 171 ] Rome | [ @ 172 ] Sacramento [ @ 173 ] San Francisco |
-                          [ @ 174 ] Santa Monica [ @ 175 ] Seattle | [ @ 176 ] Shanghai | [ @ 177 ] Silicon Valley | [ @ 178 ] Singapore | [ @ 179 ] Taipei I [ @ 180 ] Tokyo | [ @ 181 ] Washington, D.C. I
-                          [ @ 182 ] Wheeling, W.V. ( GOIC )
-     [ 183 ] We and our third party partners use cookies and similar technologies to run the website. Some cookies are strictly necessary.
-    We also use optional cookies to provide a more personalized experience, improve the way our websites work, and support our
-     marketing operations. Optional cookies will only be set with your consent. You can manage your cookie preferences through the                  [ $ 188 ] Cookie Settings     [ $ 189 ] Reject All    [ $ 190 ] Accept All         [ $ 191 ]
-     " Cookie Settings" button. For more information, see our [ @ 186 ] Privacy Notice [ 184 ] and [ @ 187 ] Cookie Notice [ 185 ].
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1271
+
+                                             [@141] Linkedin [@142] Twitter [@143] Facebook [@144] Instagram
+
+                                        [@148] Legal Notices     [@149] Privacy Notice     [@150] Cookie Notice     [@151] Modern Slavery      [@152] Attorney Advertising       [@153] Secure Login
+                                        [154] 2023 Orrick Herrington & Sutcliffe LLP. All rights reserved.
+                                        [@155] Austin [@156] Beijing [@157] Boston [@158] Brussels [@159] Chicago [@160] D sseldorf          [@161] Geneva [@162] Houston [@163] London [@164] Los Angeles            [@165] Milan [@166] Munich [@167] New York      [@168] Orange County
+                                        [@169] Paris [@170] Portland [@171] Rome [@172] Sacramento [@173] San Francisco              [@174] Santa Monica      [@175] Seattle [@176] Shanghai [@177] Silicon Valley      [@178] Singapore [@179] Taipei [@180] Tokyo [@181] Washington, D.C.
+                                        [@182] Wheeling, W.V. (GOIC)
+        [183] We and our third party partners use cookies and similar technologies to run the website. Some cookies are
+        strictly necessary. We also use optional cookies to provide a more personalized experience, improve the way our
+        websites work, and support our marketing operations. Optional cookies will only be set with your consent. You can
+        manage your cookie preferences through the Cookie Settings button. For more information, see our Privacy Notice
+        [184] and Cookie Notice.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 944

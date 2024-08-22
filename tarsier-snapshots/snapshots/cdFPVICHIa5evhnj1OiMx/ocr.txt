@@ -1,30 +1,33 @@
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ $ 1 ] Search            [ $ 2 ]
-            [ @ 0 ] SULLIVAN & CROMWELL LLP
-            [ @ 5 ] Home [ 3 ] [ @ 6 ] Lawyers [ 4 ] [ 7 ] Erik D. Lindauer                                                                                                                 [ $ 8 ]       [ $ 9 ]       [ $ 10 ]
-                                                                                                                                          Erik D. Lindauer Headshot Photo
-
-
-
-            **[ 11 ] Erik D. Lindauer**
-            [ 12 ] Senior Counsel
+----------------------------------------------------------------------------------------------------------------------
+[$1] Search
+       [@3] Home [@4] Lawyers
 
 
 
 
+       **[9] Erik D. Lindauer**
+       **[10] Senior Counsel**
 
-                                                          [ 13 ] New York [ 14 ] + 1-212-558-3548 [ 15 ]             [ @ 16 ] lindauere@sullcrom.com                                                              [ @ 17 ] vCard
 
-                                                          **[ 18 ] Erik Lindauer was a partner in Sullivan & Cromwell's Banking and**
-                                                         **Project Finance groups from 1989 through 2015 and is now senior counsel**
-                                                         **to the Firm. He focuses on transactional banking, secured lending,**
-                                                         **commercial law ( Uniform Commercial Code ), corporate reorganizations**
-                                                         **and bankruptcy. Mr. Lindauer's financing experience includes advising**
-                                                         **clients in a broad range of complex secured and unsecured financings**
-                                                         **including acquisition, project, cable television and media financings. Mr.**
-                                                         **Lindauer oversees continuing legal education for the firm's corporate**
-                                                         **practice, regularly leads training programs in his areas of expertise, and**
-                                                         **previously spent an extended period working in Moscow with American**
-                                                         **and Russian bankers as the legal advisor to the Government Securities**
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 343
+
+
+
+                             **[11] New York [12] +1-212-558-3548** **[@13] lindauere sullcrom.com**  **[@14] vCard**
+
+                              **[15] Erik Lindauer was a partner in Sullivan & Cromwell's**
+                              **Banking and Project Finance groups from 1989 through 2015**
+                              **and is now senior counsel to the Firm. He focuses on**
+                              **transactional banking, secured lending, commercial law**
+                              **(Uniform Commercial Code), corporate reorganizations and**
+                              **bankruptcy. Mr. Lindauer's financing experience includes**
+                              **advising clients in a broad range of complex secured and**
+                              **unsecured financings including acquisition, project, cable**
+                              **television and media financings. Mr. Lindauer oversees**
+                              **continuing legal education for the firm's corporate practice,**
+                              **regularly leads training programs in his areas of expertise, and**
+                              **previously spent an extended period working in Moscow with**
+                              **American and Russian bankers as the legal advisor to the**
+                              **Government Securities Working Group of the**
+                              **Russian-American Bankers Forum.**
+----------------------------------------------------------------------------------------------------------------------
+Token count: 287

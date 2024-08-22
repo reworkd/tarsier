@@ -1,73 +1,68 @@
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 13 ]                                                                                                                                                        **[ @ 1 ]**
-                                            [ 22 ] Children's Therapy Center
-              **w**
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[24] Children s Therapy Center**
 
 
-     [ @ 14 ]  Care & Treatment  ☐                                                                                                           [ 70 ] Washington Health
-                                                                                                                                            System
-     [ @ 15 ]  Patient & Guests  ☐
-                                                                                                                                            [ [ 71 ] We take great pride in the care that
-                                                                                                                                            we provide to patients and families in our
-     [ @ 16 ]  Locations & Practices                                                                                                        community
+                                                                     [@25] View
+                [@14] Care & Treatment                               Larger
+                                                                                                                                                                                                         **[71] Washington Health**
+                                                                     Image
+                [@15] Patient & Guests                                                                                                                                                                   **System**
+                                                                                                                                                                                                         [72] We take great pride in the care
+                [@16] Locations & Practices                                                                                                                                                              that we provide to patients and
+                                                                                                                                                                                                         families in our community
+                [@17] Physician Finder
+                                                                                                                                                                                                           [@73] Outpatient Locations
+                [@18] Giving
+                                                                                                                                                                                                           [@74] Washington Hospital
+                [@19] News & Media                                                                                                                                                                         [@75] Greene
 
-     [ @ 17 ]  Physician Finder
-                                                                                                                                              [ @ 72 ] Outpatient Locations
-                                 ☐
-     [ @ 18 ]   Giving                                                                                                                        [ @ 73 ] Washington Hospital
-                                 ㅁ                                                                                                            [ @ 74 ] Greene
-     [ @ 19 ]  News & Media
-                                                                                                                                              [ @ 75 ] Wilfred R. Cameron Wellness
-     [ @ 20 ]  Career & Education                                                                                                             Center
-                                                                                                                                              [ @ 76 ] Washington Physicians Group
+                [@20] Career & Education                                                                                                                                                                   [@76] Wilfred R. Cameron Wellness
+                                                                                                                                                                                                           Center
+                                                                      [26] Washington Health System Children s Therapy Center is the only center of its kind                                               [@77] Washington Physicians Group
+                                                                      south of Pittsburgh, offering comprehensive children s rehabilitation. We provide speech,
+                                                                      occupational, physical, and social/behavioral therapy services in an outpatient setting for
+                                                                      children age birth through 18 years.
+                                                                      [27] Washington Health System Children s Therapy Center (CTC) is committed to serving
+                                                                      children and their families. CTC s interdisciplinary team works together to help children
+                                                                      reach their potential in physical, cognitive, speech-language, social, and emotional
+                                                                      development.
+                                                                      [28] Our qualified therapists have extensive training and experience treating children with a
+                                                                      variety of disorders including developmental motor or speech delays, Sensory Processing
+                                                                      Disorders, Cerebral Palsy, Attention Deficit Disorder, Autism Spectrum Disorder, Hearing
+                                                                      Loss and Cochlear Implant Rehabilitation, articulation deficits and many others.
+                                                                      [29] For more information about services visit page under Care and Treatment.
 
-                                            [ 24 ] Washington Health System Children's Therapy Center is the only center of its kind south of Pittsburgh,
-                                           offering comprehensive children's rehabilitation. We provide speech, occupational, physical, and
-                                           social / behavioral therapy services in an outpatient setting for children age birth through 18 years.
-                                            [ 25 ] Washington Health System Children's Therapy Center ( CTC ) is committed to serving children and
-                                           their families. CTC's interdisciplinary team works together to help children reach their potential in physical,
-                                            cognitive, speech - language, social, and emotional development.
-                                            [ 26 ] Our qualified therapists have extensive training and experience treating children with a variety of
-                                           disorders including developmental motor or speech delays, Sensory Processing Disorders, Cerebral Palsy,
-                                           Attention Deficit Disorder, Autism Spectrum Disorder, Hearing Loss and Cochlear Implant Rehabilitation,
-                                            articulation deficits and many others.
-                                            [ 27 ] For more information about services visit page under" [ @ 29 ] Care and Treatment [ 28 ]".
-
-                                            [ 30 ] Services
-
-                                              [ 31 ] Physical Therapy                       [ 34 ] Speech - Language Therapy
-                                              [ 32 ] Aquatics Therapy                     • [ 35 ] Behavioral Health Services
-             [ @ 21 ] WHS
-             Team Portal                      [ 33 ] Occupational Therapy
-
-
-                                              [ 36 ] Contact                                       [ 45 ] Office Hours
-                                              [ 37 ] Address [ 38 ] 289 North Avenue, Washington,  [ 46 ] Monday
-                                                           PA 15301                                [ 47 ] 9:00 am - 7:00 pm
-                                              [ 39 ] Phone [ 40 ] ( 724 ) 942-6100                 [ 48 ] Tuesday
-                                              [ 41 ] Fax   [ 42 ] ( 724 ) 942-6104                 [ 49 ] 9:00 am - 7:00 pm
-                                              [ 43 ] Email [ 44 ] CTC6@whs.org                     [ 50 ] Wednesday
-                                                                                                   [ 51 ] 9:00 am - 7:00 pm
-                                                                                                   [ 52 ] Thursday
-                                                                                                   [ 53 ] 9:00 am - 7:00 pm
-                                                                                                   [ 54 ] Friday
-                                                                                                   [ 55 ] 9:00 am - 7:00 pm
+                                                                      **[31] Services**
+                                                                          [32] Physical Therapy                                          [35] Speech-Language Therapy
+                                                                          [33] Aquatics Therapy                                          [36] Behavioral Health Services
+                     [@23] WHS Team Portal                                [34] Occupational Therapy
 
 
+                                                                          **[37] Contact**                                                       **[46] Office Hours**
+                                                                          [38] [39] 289 North Avenue,                                            [47] Monday
+                                                                          Address       Washington, PA 15301                                     [48] 9:00 am - 7:00 pm
+                                                                          [40] [41] (724) 942-6100                                               [49] Tuesday
+                                                                          Phone                                                                  [50] 9:00 am - 7:00 pm
+                                                                          [42] Fax      [43] (724) 942-6104                                      [51] Wednesday
+                                                                          [44] [45] CTC6 whs.org                                                 [52] 9:00 am - 7:00 pm
+                                                                          Email                                                                  [53] Thursday
+                                                                                                                                                 [54] 9:00 am - 7:00 pm
+                                                                                                                                                 [55] Friday
+                                                                                                                                                 [56] 9:00 am - 7:00 pm
 
-                                            [ 56 ] Additional Location ( s )
 
-                                              [ 57 ] McMurray Office                               [ 60 ] Office Hours
-                                              [ 58 ] Address [ [ 59 ] 1000 Waterdam Plaza Drive, Suite [ 61 ] By appointment only.
-                                                           120, McMurray, PA 15317
+                                                                      **[57] Additional Location(s)**
+
+                                                                          **[58] McMurray Office**                                               **[61] Office Hours**
+                                                                          [59] [60] 1000 Waterdam Plaza Drive,                                   [62] By appointment only.
+                                                                          Address       Suite 120, McMurray, PA 15317
 
 
-
-                                            [ 62 ] Forms and Policies
-                                            PDF [ @ 63 ] Case History                         [ @ 67 ] Child_Intake Form
-                                            PDF [ @ 64 ] Intake Instructions                  [ @ 68 ] Medical Records Release
-                                               [ @ 65 ] Registration Sheet                   [ @ 69 ] Consent to Treat
-                                               [ @ 66 ] Health Insurance Benefits Worksheet
+                                                                      **[63] Forms and Policies**
+                                                                            [@64] Case History                                             [@68] Child_Intake_Form
+                                                                            [@65] Intake Instructions                                      [@69] Medical Records Release
+                                                                            [@66] Registration Sheet                                       [@70] Consent to Treat
+                                                                            [@67] Health Insurance Benefits Worksheet
 
 
 
@@ -75,29 +70,30 @@
 
 
 
-                                            [ 77 ] About                      [ 83 ] Site & Legal Information   [ 89 ] Connect with Us            [ 95 ] Stay Connected
-                                             [ @ 78 ] Washington Health System [ @ 84 ] HIPAA - Health Information  [ @ 90 ] 155 Wilson
-                                                                               Privacy                              Avenue, Washington, PA 15301    [ @ ] [ @ ] [ @ 98 ]
-                                             [ @ 79 ] Washington Physicians                                     ☐   @ 91 ] ( 724 ) 225-7000
-                                                                                                                    [
-                                             Group                             [ @ 85 ] Notice of Privacy Practice
-                                                                               ( 108.14 kB )                      ☐ [ @ 92 ] Contact Us           [ 99 ] Emergencies
-                                             [ @ 80 ] Board of Directors                                            [ @ 93 ]
-                                                                                                                         Sponsorships                ☐  [ @ 100 ] DIAL 911 FOR
-                                                                               [ @ 86 ] Disclaimer                                                      ALL EMERGENCIES
-                                             [ @ 81 ] President and CEO
-                                                                               [ @ 87 ] Non - Discrimination Notice
-                                             [ @ 82 ] Senior Leadership        ( 177.98 kB )                        [ @ 94 ] ADA Compliant Website
-                                                                               [ @ 88 ] Language Assistance
-                                                                               Services Information
-                                                                               Información sobre servicios de
-                                                                               asistencia lingüística
-                                                                               语言 协助 服务 信息 ( 148.57 kB )
+                                                                      **[78] About**                                **[84] Site & Legal**                         **[90] Connect with Us**                      **[96] Stay Connected**
+                                                                        [@79] Washington Health System              **Information**                                     [@91] 155 Wilson Avenue,
+                                                                                                                      [@85] HIPAA Health Information                    Washington, PA 15301
+                                                                        [@80] Washington Physicians Group             Privacy
+                                                                                                                                                                        [@92] (724) 225-7000
+                                                                                                                                                                                                                **[100] Emergencies**
+                                                                        [@81] Board of Directors                      [@86] Notice of Privacy Practice                  [@93] Contact Us
+                                                                                                                                                                                                                         [@101] Dial 911 for
+                                                                                                                                                                        [@94] Sponsorships                           all emergencies
+                                                                        [@82] President and CEO
+                                                                                                                      [@87] Disclaimer
+                                                                        [@83] Senior Leadership
+                                                                                                                      [@88] Non-Discrimination Notice                   [@95] ADA Compliant Website
+
+                                                                                                                      [@89] Language Assistance Services
+                                                                                                                      Information
+                                                                                                                      Informaci n sobre servicios de
+                                                                                                                      asistencia ling stica
 
 
 
 
-   [ 103 ] This website uses cookies and third party services to help us understand the way visitors use our website. We can't identify you with them and we don't share data with
-   anyone else. If you click Reject we will set a single cookie to remember your preference.                                   [ @ 104 ] ACCEPT            [ @ 105 ] REJECT
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1227
+                                                                                                 [102] Copyright      2023 Washington Health System All Rights Reserved. Developed by Savvy Fresh Group
+     [104] This website uses cookies and third party services to help us understand the way visitors use our website. We can't identify you with them and we don't share data
+     with anyone else. If you click Reject we will set a single cookie to remember your preference.                                                                                                  [@105] Accept                   [@106] Reject
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1059

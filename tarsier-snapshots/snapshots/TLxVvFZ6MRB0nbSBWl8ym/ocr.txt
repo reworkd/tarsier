@@ -1,53 +1,42 @@
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 1 ] CONTACT US
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[@1] Contact Us
 
 
-                                                                          **Q - CERT**                                                          National Information Security Center                                                                                                                                                                               قالات
-                                                                        (
-                                                                                                                                                                                                                                                                                                                                                                                           وزارة
-                                                                                                                                                                                                                                                                                                                                                       [ @ 3 ]
-                                                                   [ @ 4 ] HOME                    [ @ 5 ] ABOUT Q - CERT                             [ @ 6 ] SERVICES                        [ @ 7 ] LIBRARY                       [ @ 8 ] ALERTS & ADVISORIES                                                                  [ # 12 ]
-                                                                                                                                                                                                                                                                                                                                      [ $ 13 ]
-                                                                   [ @ 9 ] INFOSEC COMMUNITY
 
-                                                                  [ 14 ] National Laws                                                                                                                                                                                                                 [ @ 20 ] THREAT STA LOW
-                                                                   [ @ 15 ] National Laws                                             [ @ 16 ] Qatar E - commerce Bylaws - Arabic 2012                                                                                                                                                                           [ @ 22 ] ABOUT
-                                                                                                                                                                                                                                                                                                          [ @ 21 ] DASHBOARD
-                                                                                                                                      [ @ 17 ] Qatar E - commerce Bylaws - English 2012
-                                                                                                                                      [ @ 18 ] e - Commerce Law Arabic
-                                                                                                                                                                                                                                                                                                                      [ 23 ] Q - CERT REPORT INCIDENT
-                                                                                                                                      [ @ 19 ] e - Commerce Law English                                                                                                                                     @ 24 ] CORPORATE
-                                                                                                                                                                                                                                                                                                           [                                                   [ @ 25 ] PUBLIC
-                                                                                                                                                                                                                                                                                                          [ 26 ] You can report an incident to Q - CERT in one of
-                                                                                                                                                                                                                                                                                                         three ways:
-                                                                                                                                                                                                                                                                                                         ▸ [ 27 ] Call us at +974 4493 3408, ( 24 x 7 service ).
-                                                                                                                                                                                                                                                                                                         ▸ [ 28 ] Email us at incidents@qcert.org
-                                                                                                                                                                                                                                                                                                         ▸ [ 29 ] Complete the incident reporting form.
-                                                                                                                                                                                                                                                                                                                                                 [ @ 31 ] Report Corporate
-                                                                                                                                                                                                                                                                                                           [ @ 30 ] More                                     Incident
 
-                                                                                                                                                                                           OF USE                                                                                                                                                                                      You
-                                                                     [ @ 36 ] ACCESSIBILITY                        [ @ 37 ] PRIVACY POLICY                         [ @ 38 ] TERMS                                                                                                                                    [ 32 ] CONNECT WITH US                                            Tube
-                                                                     [ @ 39 ] About Q - CERT                                      [ @ 44 ] Services                                                                                                                       [ @ 63 ] Library
-                                                                     [ @ 40 ] Vision & Mission                                    [ @ 45 ] Incident Response                                                                                                              [ @ 64 ] Best practices
-                                                                     [ @ 41 ] Activities and Objectives                           [ @ 46 ] Digital Forensics                                                                                                              [ @ 65 ] Legislations
-                                                                     [ @ 42 ] Strategic Projects                                  [ @ 47 ] Malware Analysis Lab                                                                                                           [ @ 66 ] Meridian Library
-                                                                     [ @ 43 ] Technical Projects                                  [ @ 48 ] Security Threat Alert                                                                                                          [ @ 67 ] Standards
-                                                                                                                                  [ @ 49 ] Security Newsletter
-                                                                                                                                  [ @ 50 ] Security Reports
-                                                                                                                                  [ @ 51 ] Cyber Security Awareness
-                                                                                                                                  [ @ 52 ] Penetration Testing
-                                                                                                                                  [ @ 53 ] Specialized Security Advice
-                                                                                                                                  [ @ 54 ] Cyber Security Workforce Development Training
-                                                                                                                                  [ @ 55 ] Government ICT Mission Assurance Library
-                                                                                                                                  [ @ 56 ] Government ICT Mission Assurance Consultancy
-                                                                                                                                  [ @ 57 ] Business Continuity and Disaster Recovery Consultancy
-                                                                                                                                  [ @ 58 ] Critical Sector Organizations Compliance Aid
-                                                                                                                                  [ @ 59 ] Critical Sector Organizations Policy Aid
-                                                                                                                                  [ @ 60 ] Critical Information Infrastructure Protection Advisory
-                                                                                                                                  [ @ 61 ] Critical Information Infrastructure Protection Interdependency Database
-                                                                                                                                  [ @ 62 ] Online Vulnerability Scanning Service ( OVSS )
+                   [@4] Home [@5] About Q-CERT [@6] Services [@7] Library [@8] Alerts & Advisories [@9] InfoSec Community
 
-                                                                                                                                                                                             [ 68 ] Copyright © [ 69 ] 2021-2023 [ 70 ] Q - CERT. All rights reserved.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 775
+                  **[14] National Laws**                                                                                 [@20] Threat Status
+                   [@15] National Laws           [@16] Qatar E-commerce Bylaws - Arabic 2012                                 [@21] Dashboard          [@22] About
+                                                 [@17] Qatar E-commerce Bylaws - English 2012
+                                                 [@18] e-Commerce Law Arabic                                                    [23] Q-CERT Report incident
+                                                 [@19] e-Commerce Law English                                                 [@24] Corporate (active tab) [@25] Public
+                                                                                                                           [26] You can report an incident to Q-CERT in one of
+                                                                                                                           three ways:
+                                                                                                                             [27] Call us at +974 4493 3408,( 24 x 7 service).
+                                                                                                                             [28] Email us at incidents qcert.org
+                                                                                                                             [29] Complete the incident reporting form.
+                                                                                                                              [@30] More    [@31] Report Corporate Incident
+
+                   [@36] Accessibility [@37] Privacy Policy [@38] Terms of Use                                                  [32] Connect with us                                                                                                                                              [@35] Facebook [@34] Twitter [@33] Youtube
+                                   [@39] About Q-CERT                      [@44] Services                                                                                       [@63] Library
+                                   [@40] Vision & Mission                  [@45] Incident Response                                                                              [@64] Best practices
+                                   [@41] Activities and Objectives         [@46] Digital Forensics                                                                              [@65] Legislations
+                                   [@42] Strategic Projects                [@47] Malware Analysis Lab                                                                           [@66] Meridian Library
+                                   [@43] Technical Projects                [@48] Security Threat Alert                                                                          [@67] Standards
+                                                                           [@49] Security Newsletter
+                                                                           [@50] Security Reports
+                                                                           [@51] Cyber Security Awareness
+                                                                           [@52] Penetration Testing
+                                                                           [@53] Specialized Security Advice
+                                                                           [@54] Cyber Security Workforce Development Training
+                                                                           [@55] Government ICT Mission Assurance Library
+                                                                           [@56] Government ICT Mission Assurance Consultancy
+                                                                           [@57] Business Continuity and Disaster Recovery Consultancy
+                                                                           [@58] Critical Sector Organizations Compliance Aid
+                                                                           [@59] Critical Sector Organizations Policy Aid
+                                                                           [@60] Critical Information Infrastructure Protection Advisory
+                                                                           [@61] Critical Information Infrastructure Protection Interdependency Database
+                                                                           [@62] Online Vulnerability Scanning Service (OVSS)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 522

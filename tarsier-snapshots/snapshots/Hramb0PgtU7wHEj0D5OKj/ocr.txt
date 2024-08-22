@@ -1,129 +1,121 @@
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 3 ] Areas of              [ @ 5 ] Career     [ @ 6 ] How We                        [ $ 9 ] Log
-             [ @ 1 ] Meta                                                   [ @ 2 ] Jobs Work         [ @ 4 ] Locations               Work            [ @ 7 ] Blog [ $ 8 ]  in
-                                                                                                                    Programs
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[@2] Jobs [@3] Areas of Work            [@4] Locations [@5] Career Programs                 [@6] How We Work          [@7] Blog                        [$9] Log in
 
 
 
-                                                              **- Generative Al**                                                                              [ $ 11 ] ☐ [ @ 12 ] Apply to Job
-          **[ 10 ] Research Scientist**
+                                                                                                                                                                                                                                       [@12] Apply to Job
+              **[10] Research Scientist - Generative AI**
 
-               [ 14 ] Zurich, Switzerland
-
-
-
-
-                                                [ 15 ] Meta is seeking a Research Scientist to join our Generative Al organization. In this role, you will have the
-                                               opportunity to make a significant impact on the field of image generation by developing novel models and
-                                               algorithms that improve the speed and efficiency of generative Al systems. These models will have direct impact
-                                               on Meta's family of apps with 2 billion plus users. You will also work on fundamental research and be able to
-                                               publish high quality papers in top - tier computer vision conferences. At Meta, you work alongside and learn from
-                                               top minds in the field and have access to uniquely available large scale resources. Join us for this exciting and
-                                               rewarding role.
-
-
-
-                                                [ 16 ] Research Scientist - Generative Al Responsibilities
-                                                •  [ 17 ] Research and develop novel computer vision models in Generative Al, with a focus on efficiency
-                                                •  [ 18 ] Deliver models to production with collaboration across Meta's family of apps
-                                                  [ 19 ] Collaborate with other researchers and engineers across Meta to develop and deploy new models to
-                                                  production
-                                                  [ 20 ] Contribute to research publications and publish at top - tier venues
-
-                                                [ 21 ] Minimum Qualifications
-                                                •  [ 22 ] A PhD in Computer Vision or a relevant technical field
-                                                • [ 23 ] Understanding of modern computer vision concepts like diffusion models, GANS, and LLMs
-                                                • [ 24 ] First author publications in top - tier computer vision venues ( CVPR, NeurIPS, ECCV, ICCV, SIGGRAPH,
-                                                  ICML ... )
-                                                  [ 25 ] Fluency in Python and PyTorch
-
-                                                [ 26 ] Preferred Qualifications
-                                                  [ 27 ] Demonstrated research experience via an internship, work experience, coding competitions, or widely
-                                                  used contributions in open source repositories ( e.g. GitHub )
-                                                  [ 28 ] Industry experience deploying computer vision models to production
-                                               ⚫ [ 29 ] Experience with optimizing model architectures and algorithms for CPU / GPU, mobile, and other types of
-                                                  specialized hardware
-                                                • [ 30 ] Top - tier publications in Generative Al topics ( diffusion models, LLMS ... )
-
-
-                                                   [ 31 ] Start preparing
-                                                   [ 32 ] Learn about how to prepare for your interview with our interview
-                                                  guide, tips, and interactive experiences.
-
-                                                        [ @ 33 ] Visit interview prep
-
-
-
-                                                [ 34 ] Locations
-
-                                                   [ $ 3
-                                                   [ $ 3
-
-                                                   [ $ 3
-
-                                                                 **[ 35 ] Use**       **+ scroll to zoom the map**
+                     [14] Zurich, Switzerland
 
 
 
 
-                                                      [ 40 ] Data Center
-                                                                                                                                                 [ @ 3
-
-                                                [ 41 ] About Meta
-                                                [ 42 ] ] Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook
-                                               launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further
-                                               empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like
-                                               augmented and virtual reality to help build the next evolution in social technology. People who choose to build
-                                               their careers by building with us at Meta help shape a future that will take us beyond what digital connection
-                                               makes possible today - beyond the constraints of screens, the limits of distance, and even the rules of physics.
-                                                [ 43 ] Meta is committed to providing reasonable support ( called accommodations ) in our recruiting processes for
-                                               candidates with disabilities, long term conditions, mental health conditions or sincerely held religious beliefs, or
-                                               who are neurodivergent or require pregnancy - related support. If you need support, please reach out to
-                                                [ @ 45 ] accommodations-ext@fb.com [ 44 ].
+                                                        **[15] Meta is seeking a Research Scientist to join our Generative AI organization. In this role, you will have the**
+                                                        **opportunity to make a significant impact on the field of image generation by developing novel models and**
+                                                        **algorithms that improve the speed and efficiency of generative AI systems. These models will have direct impact**
+                                                        **on Meta's family of apps with 2 billion plus users. You will also work on fundamental research and be able to**
+                                                        **publish high quality papers in top-tier computer vision conferences. At Meta, you work alongside and learn from**
+                                                        **top minds in the field and have access to uniquely available large scale resources. Join us for this exciting and**
+                                                        **rewarding role.**
 
 
 
-                                                [ 46 ] Related Job Openings
-                                                [ @ 47 ] Engineering Manager, Computer Vision     [ @ 49 ] Engineering Manager, Computer Vision -
-                                               ( XR People Tracking ) - Zurich                    Zurich
-                                                [ 48 ] Zurich, Switzerland                        [ 50 ] Zurich, Switzerland
+                                                        [16] Research Scientist - Generative AI Responsibilities
+                                                             **[17] Research and develop novel computer vision models in Generative AI, with a focus on efficiency**
+                                                             **[18] Deliver models to production with collaboration across Meta's family of apps**
+                                                             **[19] Collaborate with other researchers and engineers across Meta to develop and deploy new models to**
+                                                             **production**
+                                                             **[20] Contribute to research publications and publish at top-tier venues**
 
-                                                [ @ 51 ] Research Scientist Intern, Machine       [ @ 53 ] Research Scientist - Mixed Reality
-                                               Perception for Input and Interaction ( PhD )       [ 54 ] Facebook | Zurich, Switzerland +1 More
-                                                [ 52 ] Zurich, Switzerland
+                                                        [21] Minimum Qualifications
+                                                             **[22] A PhD in Computer Vision or a relevant technical field**
+                                                             **[23] Understanding of modern computer vision concepts like diffusion models, GANs, and LLMs**
+                                                             **[24] First author publications in top-tier computer vision venues (CVPR, NeurIPS, ECCV, ICCV, SIGGRAPH,**
+                                                             **ICML...)**
+                                                             **[25] Fluency in Python and PyTorch**
 
-                                                [ @ 55 ] Software Engineer - Unreal Tools         [ @ 57 ] Software Engineer, Computer Vision -
-                                                [ 56 ] Zurich, Switzerland +1 More                Reality Labs
-                                                                                                  [ 58 ] Zurich, Switzerland
+                                                        [26] Preferred Qualifications
+                                                             **[27] Demonstrated research experience via an internship, work experience, coding competitions, or widely**
+                                                             **used contributions in open source repositories (e.g. GitHub)**
+                                                             **[28] Industry experience deploying computer vision models to production**
+                                                             **[29] Experience with optimizing model architectures and algorithms for CPU/GPU, mobile, and other types of**
+                                                             **specialized hardware**
+                                                             **[30] Top-tier publications in Generative AI topics (diffusion models, LLMs...)**
 
-                                                [ @ 59 ] → View All Related Jobs
+
+                                                             [31] Start preparing
+                                                             [32] Learn about how to prepare for your interview with our interview
+                                                             guide, tips, and interactive experiences.
+                                                                     [@33] Visit interview prep
 
 
 
-                    [ 60 ] Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex
-                    ( including pregnancy, childbirth, reproductive health decisions, or related medical conditions ), sexual orientation, gender identity, gender expression, age, status as a protected
-                    veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. You may view our Equal
-                    Employment Opportunity notice [ @ 65 ] here. [ 61 ] We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. We may
-                    use your information to maintain the safety and security of Meta, its employees, and others as required or permitted by law. You may view [ @ 66 ] Meta's Pay Transparency.
-                    Policy, [ @ 67 ] Equal Employment Opportunity is the Law [ 62 ] notice, and [ @ 68 ] Notice to Applicants for Employment and Employees [ 63 ] ] by clicking on their corresponding
-                    links. Additionally, Meta participates in the [ @ 69 ] E - Verify_program [ 64 ] in certain locations, as required by law.
+                                                        [34] Locations
 
-                    [ 70 ] Meta is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need
-                    assistance or an accommodation due to a disability, you may contact us at [ @ 72 ] accommodations-ext@fb.com [ 71 ].
+                                                             [$36] Zoom in
+                                                             [$37] Zoom out
+                                                             [$38] Recenter
 
-                    [ 75 ] About us      [ 80 ] On social    [ 85 ] Our policies  [ 89 ] More                                                                  [ @ 74 ] Report a bug
-                                                                                  resources                                                                [ 73 ]
-                    [ @ 76 ] Company info [ @ 81 ] Facebook  [ @ 86 ] Candidate
-                                                             privacy statement    [ @ 90 ] Family safety                                                  © Meta 2023
-                    [ @ 77 ] Newsroom    [ @ 82 ] Instagram                       center
-                                                             [ @ 87 ] Cookies
-                    [ @ 78 ] Careers FAQs [ @ 83 ] LinkedIn                       [ @ 91 ] Meta for
-                                                             [ @ 88 ] Vaccination business
-                    [ @ 79 ] Looking for [ @ 84 ] Threads    entry policy
-                    contractor roles?
-                                                                                  [ @ 92 ] Meta for
-                                                                                  developers
+                                                                                   **[35] Use**                     **+ scroll to zoom the map**
 
-[ # 93 ]
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1580
+
+
+
+                                                                  [40] Data Center
+
+
+                                                        [41] About Meta
+                                                        **[42] Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook**
+                                                        **launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further**
+                                                        **empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like**
+                                                        **augmented and virtual reality to help build the next evolution in social technology. People who choose to build**
+                                                        **their careers by building with us at Meta help shape a future that will take us beyond what digital connection**
+                                                        **makes possible today**         **beyond the constraints of screens, the limits of distance, and even the rules of physics.**
+                                                        **[43] Meta is committed to providing reasonable support (called accommodations) in our recruiting processes for**
+                                                        **candidates with disabilities, long term conditions, mental health conditions or sincerely held religious beliefs, or**
+                                                        **who are neurodivergent or require pregnancy-related support. If you need support, please reach out to**
+                                                        **accommodations-ext fb.com.**
+
+
+
+                                                        **[45] Related Job Openings**
+                                                        [@46] Engineering Manager, Computer Vision (XR                                 [@48] Engineering Manager, Computer Vision - Zurich
+                                                        People Tracking) - Zurich
+                                                                                                                                       **[49] Zurich, Switzerland**
+                                                        **[47] Zurich, Switzerland**
+                                                        [@50] Research Scientist Intern, Machine Perception                            [@52] Research Scientist       Mixed Reality
+                                                        for Input and Interaction (PhD)
+                                                                                                                                       **[53] Facebook Zurich, Switzerland + 1 More**
+                                                        **[51] Zurich, Switzerland**
+                                                        [@54] Software Engineer - Unreal Tools                                         [@56] Software Engineer, Computer Vision - Reality
+                                                                                                                                       Labs
+                                                        **[55] Zurich, Switzerland + 1 More**
+                                                                                                                                       **[57] Zurich, Switzerland**
+                                                                   [@58] View All Related
+                                                                   Jobs
+
+
+
+              **[59] Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex**
+              **(including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected**
+              **veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. You may view our Equal**
+              **Employment Opportunity notice here. [60] We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. We may use your**
+              **information to maintain the safety and security of Meta, its employees, and others as required or permitted by law. You may view Meta's Pay Transparency Policy, Equal**
+              **Employment Opportunity is the Law [61] notice, and Notice to Applicants for Employment and Employees [62] by clicking on their corresponding links. Additionally, Meta**
+              **participates in the E-Verify program [63] in certain locations, as required by law.**
+              **[69] Meta is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need**
+              **assistance or an accommodation due to a disability, you may contact us at accommodations-ext fb.com.**
+
+              [73] About us                   [78] On social                  [83] Our policies              [87] More                                                                                                                       Report a
+                                                                                                             resources                                                                                                                       bug
+              [@74] Company info              [@79] Facebook                  [@84] Candidate privacy                                                                                                                                  **[71]**
+                                                                              statement                      [@88] Family safety center
+              [@75] Newsroom                  [@80] Instagram
+                                                                              [@85] Cookies                  [@89] Meta for business                                                                                                   **Meta**
+              [@76] Careers FAQs              [@81] LinkedIn
+                                                                              [@86] Vaccination entry        [@90] Meta for developers                                                                                                 **2023**
+              [@77] Looking for contractor    [@82] Threads                   policy
+              roles?
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1472

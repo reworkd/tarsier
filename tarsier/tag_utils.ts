@@ -118,9 +118,7 @@ const isTextNodeAValidWord = (child: ChildNode) => {
   // We don't want to be tagging separator symbols like '|' or '/' or '>' etc
   const trimmedWord = child.textContent?.trim();
   return trimmedWord && (trimmedWord.match(/\w/) || trimmedWord.length > 3); // Regex matches any character, number, or _
-}
-
-
+};
 
 const inputs = ["a", "button", "textarea", "select", "details", "label"];
 const isInteractable = (el: HTMLElement) => {
@@ -383,9 +381,7 @@ function getElementsToTag(
     } else if (tagLeafTexts) {
       // Append the parent tag as it may have multiple individual child nodes with text
       // We will tag them individually later
-      if (
-        Array.from(el.childNodes).filter(isTaggableTextNode).length >= 1
-      ) {
+      if (Array.from(el.childNodes).filter(isTaggableTextNode).length >= 1) {
         elementsToTag.push(el);
       }
     }
@@ -902,6 +898,7 @@ window.colourBasedTagify = (
   window.removeTags();
 
   let insertedIdStrings: string[] = [];
+  console.log(tagMappingWithTagMeta);
   Object.entries(tagMappingWithTagMeta).forEach(([id, meta]) => {
     if (meta.textNodeIndex !== undefined && meta.idString !== undefined) {
       // Constructing the XPath to directly access the specific text node
@@ -1090,9 +1087,9 @@ window.createTextBoundingBoxes = () => {
   if (style.sheet) {
     style.sheet.insertRule(
       `
-          .highlighted-word {
-              border: 0.5px solid orange;
-              display: inline-block;
+          .tarsier-highlighted-word {
+              border: 0px solid orange;
+              display: inline-block !important;
               visibility: visible;
           }
       `,

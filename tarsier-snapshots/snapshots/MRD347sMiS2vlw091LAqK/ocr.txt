@@ -1,136 +1,124 @@
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 1 ] UW Medicine                                                  [ @ 2 ] MyChart Patient Portal [ @ 3 ] For Providers [ @ 4 ] Research [ @ 5 ] School of Medicine [ @ 6 ] Careers [ @ 7 ] Contact Us [ # 8 ]
-    [ @ 9 ] Find care      [ @ 10 ] Make an appointment >       [ @ 11 ] Find health & patient resources       [ @ 12 ] want to ...                                                                                  [ @ 13 ] MAKE A GIFT >
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[@2] MyChart Patient Portal          [@3] For Providers      [@4] Research [@5] School of Medicine             [@6] Careers [@7] Contact Us
+     [@9] Find care            [@10] Make an appointment                   [@11] Find health & patient resources                       [@12] I want to...                                                                                                                                        [@13] Make a Gift
+    COVID-19 Visitor Policy [14]: Vaccine verification or proof of a negative test is no longer required for hospital visitors. COVID symptom, exposure and masking policies
+    remain.
 
-   [ @ 15 ] COVID - 19 Visitor Policy [ 14 ]: Vaccine verification or proof of a negative test is no longer required for hospital visitors. COVID symptom, exposure and masking policies remain.                                         [ $ 16 ] ]
+                                                                                                                   **[17] UW Medical Center**
+                                                                                                                   **Northwest**
+                                                                                                                         **[18] Contact Information**
+                     **[@23] [24] Main Hospital, [25] 1550 N 115th**
+                                                                                                                               [@19] 877.694.4677
+                     **St., [26] Seattle, [27] WA [28] 98133**
+                     [@29] Overview
+                                                                                                                   **[20] Hours**
+                     [@30] Directions                                                                              [21] Always Open
+                                                                                                                   [22] This location is open 24 hours
+                                                                                                                   a day, 7 days a week.
 
-
-                                                                                          **[ 17 ] UW Medical Center -**
-                                                                                          **Northwest**
-
-                                                                                               [ 18 ] Contact Information
-                           [ @ 23 ] [ 24 ] Main Hospital,         [ 25 ] 1550 N
-                           115th St., [ 26 ] Seattle, [ 27 ] WA                                   [ @ 19 ] 877.694.4677
-                           [ 28 ] 98133
-
-                           [ @ 29 ] Overview                                       >
-                                                                                          [ 20 ] Hours
-                                                                                   >      [ 21 ] Always Open
-                           [ @ 30 ] Directions
-                                                                                          [ 22 ] This location is open 24 hours
-                                                                                          a day, 7 days a week.
-
-
-                                                                                           911       [ 31 ] If at any point your symptoms worsen or you feel like you are experiencing a medical
-                                                                                                    emergency, call 911 or proceed to the nearest emergency room.
+                                                                                                                                  [31] If at any point your symptoms worsen or you feel like you are experiencing a medical
+                                                                                                                                  emergency, call 911 or proceed to the nearest emergency room.
 
 
-                           [ @ 33 ] OVERVIEW / RESOURCES                  [ @ 34 ] DIRECTIONS / PARKING
+                     [@33] Overview/ Resources                                 [@34] Directions/ Parking
 
-                           **[ 35 ] Popular clinics located at UW Medical Center - Northwest:**
+                     **[35] Popular clinics located at UW Medical Center - Northwest:**
 
-                                [ @ 36 ] Childbirth Center at UW                               [ @ 43 ] Emergency Department at                               [ @ 50 ] Heart Institute at UW
-                               Medical Center - Northwest                                     UW Medical Center - Northwest                                   Medical Center - Northwest
-                               [ 37 ] Medical Specialties                                      [ 44 ] Medical Specialty                                       [ 51 ] Medical Specialty
-                               [ 38 ] Maternity Care | [ 39 ] Center for                       [ 45 ] Trauma & Emergency Medicine                             [ 52 ] Heart Institute
-                               Obstetrics & Gynecology
-                                                                                                    [ 46 ] Hours Today                                             [ 53 ] Hours Today
-                                     [ 40 ] Hours Today                                             [ 47 ] This location is open 24 hours a                        [ 54 ] 8:00 am - 5:00 pm
-                                     [ 41 ] 12:00 am - 11:59 pm                                     day, 7 days a week.                                            [ @ 55 ] See full location hours ... >
-                                     [ @ 42 ] See full location hours ... >
-                                                                                                    [ 48 ] Contact                                            鬥 [ 56 ] Appointments
-                                                                                                       [ @ 49 ] 206.668.0500                                          [ @ 57 ] 206.363.1004
-
-
-                                [ @ 58 ] Obstetrics and Gynecology
-                               Clinic at UW Medical Center -
-                               Northwest
-                                [ 59 ] Medical Specialties
-                               [ 60 ] Center for Obstetrics &
-                               Gynecology [ 61 ] Gynecology |
-                               [ 62 ] Maternity Care ...
-                                [ @ 63 ] See all specialties ... >
-                                + [ 64 ] Hours Today
-                                     [ 65 ] 8:00 am - 4:00 pm
-                                     [ @ 66 ] See full location hours ... >
-                                     [ 67 ] Appointments
-                                        [ @ 68 ] 206.668.6644
-                                        [ $ 69 ] BOOK ONLINE
+                           [@36] Childbirth Center at UW                                                                 [@43] Emergency Department at                                                                  [@50] Heart Institute at UW
+                           Medical Center - Northwest                                                                    UW Medical Center -                                                                            Medical Center                        Northwest
+                           [37] Medical Specialties                                                                      Northwest [44] Medical Specialty                                                               [51] Medical Specialty
+                           [38] Maternity Care [39] Center for                                                           [45] Trauma & Emergency Medicine                                                               [52] Heart Institute
+                           Obstetrics & Gynecology
+                                                                                                                                  [46] Hours Today                                                                              [53] Hours Today
+                                   [40] Hours Today                                                                               [47] This location is open 24 hours a                                                         [54] 8:00 am - 5:00 pm
+                                   [41] 12:00 am - 11:59 pm                                                                       day, 7 days a week.                                                                           [@55] See full location hours
+                                   [@42] See full location hours
+                                                                                                                                  [48] Contact                                                                                  [56] Appointments
+                                                                                                                                      [@49] 206.668.0500                                                                            [@57] 206.363.1004
 
 
-                                                                                                                                                                                    [ @ 70 ] SEE ALL CLINICS
+                           [@58] Obstetrics and Gynecology
+                           Clinic at UW Medical Center
+                           Northwest
+                           [59] Medical Specialties
+                           [60] Center for Obstetrics &
+                           Gynecology [61] Gynecology [62]
+                           Maternity Care
+                           [@63] See all specialties...
+                                   [64] Hours Today
+                                   [65] 8:00 am - 4:00 pm
+                                   [@66] See full location hours
+                                   [67] Appointments
+                                       [@68] 206.668.6644 [$69] Book Online
 
 
-                           **[ 71 ] Services available at this location include:**
-
-                                 [ 72 ] Anticoagulation therapy                                [ 73 ] Cancer care                                            [ 74 ] Childbirth
-                                [ [ 75 ] Diagnostic imaging                                    [ 76 ] Diagnostic radiology                                   [ 77 ] Emergency services
-                                [ [ 78 ] Gastroenterology ( digestive )                        [ 79 ] Hepatology ( liver )                                   [ 80 ] Hernia repair
-                                 [ 81 ] Hospital medicine                                      [ 82 ] Hyperbaric oxygen therapy                              [ 83 ] ] Laboratory medicine
-                                 [ 84 ] Lung care                                              [ 85 ] ] Medical oncology                                     [ 86 ] Nephrology ( kidney )
-                                 [ 87 ] Palliative care                                        [ 88 ] Physical medicine and rehabilitation                   [ 89 ] Preventive medicine
-                                 [ 90 ] Radiation oncology                                     [ 91 ] Radiology and imaging                                  [ 92 ] Rheumatology ( connective tissue disease )
-                                 [ 93 ] Senior care ( geriatrics )                             [ 94 ] Senior psychiatry ( geriatrics )                       [ 95 ] Travel medicine
-                                 [ 96 ] Urology                                                [ 97 ] Vascular surgery                                       [ 98 ] Women's health
-                                 [ 99 ] Wound care
+                                                                                                                                                                                                                                                                     [@70] See all clinics
 
 
-
-                               [ 100 ] PATIENT RESOURCES                                      [ 106 ] INTRODUCING MYCHART PATIENT                            [ 109 ] CAREERS AT NORTHWEST
-                                                                                             PORTAL
-                                                                                                                                                             [ 110 ] Join our team working at UW
-                               [ @ 101 ] Billing and insurance                 >              [ 107 ] We've merged our patient portals to
-                                                                                                                                                             Medical Center Northwest, a full-
-                                                                                             provide a secure and easy way to manage                         service community medical center offering
-                               [ @ 102 Preparing for your                                    your health and billing records and                             emergency, inpatient and outpatient
-                                                                               >             schedule appointments all in one
-                               ]        appointment                                                                                                          medical, surgical and therapeutic care.
-                                                                                             place ... called MyChart.
-                               [ @ 103 ] Interpreter services                  >                                                                             [ @ 111 Search Northwest campus
-                                                                                                                                                                      jobs
-                               [ @ 104 ] Patient forms                         >
+                     **[71] Services available at this location include:**
+                             [72] Anticoagulation therapy                                                                [73] Cancer care                                                                             [74] Childbirth
+                             [75] Diagnostic imaging                                                                     [76] Diagnostic radiology                                                                    [77] Emergency services
+                             [78] Gastroenterology (digestive)                                                           [79] Hepatology (liver)                                                                      [80] Hernia repair
+                             [81] Hospital medicine                                                                      [82] Hyperbaric oxygen therapy                                                               [83] Laboratory medicine
+                             [84] Lung care                                                                              [85] Medical oncology                                                                        [86] Nephrology (kidney)
+                             [87] Palliative care                                                                        [88] Physical medicine and rehabilitation                                                    [89] Preventive medicine
+                             [90] Radiation oncology                                                                     [91] Radiology and imaging                                                                   [92] Rheumatology (connective tissue disease)
+                             [93] Senior care (geriatrics)                                                               [94] Senior psychiatry (geriatrics)                                                          [95] Travel medicine
+                             [96] Urology                                                                                [97] Vascular surgery                                                                        [98] Women's health
+                             [99] Wound care
 
 
-                                                                                                                                                                [ @ 112 ] EXPLORE ALL UW MEDICINE            >
-                                  [ @ 105 ] VIEW ALL                           >                 [ @ 108 ] LEARN MORE                                           CAREERS
+                          [100] Patient Resources                                                                       [106] Introducing MyChart Patient                                                             [109] CAREERS AT NORTHWEST
+                                                                                                                        Portal
+                                                                                                                                                                                                                      [110] Join our team working at UW Medical
+                          [@101] Billing and insurance                                                                  [107] We ve merged our patient portals to                                                      Center Northwest, a full-service
+                                                                                                                        provide a secure and easy way to manage                                                       community medical center offering
+                          [@102] Preparing for your appointment                                                         your health and billing records and                                                           emergency, inpatient and outpatient
+                                                                                                                        schedule appointments all in one                                                              medical, surgical and therapeutic care.
+                                                                                                                        place...called MyChart.
+                          [@103] Interpreter services
+                                                                                                                                                                                                                       [@111] Search Northwest campus jobs
+                          [@104] Patient forms
 
 
-                           **[ 113 ] Here in North Seattle, it's all about care in your community.**
-
-                           [ 114 ] UW Medical Center - Northwest is a full - service medical center based in North Seattle, offering emergency and inpatient and outpatient medical,
-                           surgical and therapeutic care. The hospital offers personalized, quality care on a beautiful, easy - to - access, 44 - acre campus that includes the
-                           neighboring [ @ 117 ] Northwest Outpatient Medical Center [ 115 ] and [ @ 118 ] Specialty Care Meridian Pavilion [ 116 ].
-                           [ 119 ] UW Medical Center - Northwest is a community - based, non - profit hospital with 281 beds, 2,000 - plus employees and a world - class medical staff
-                           that provides innovative, technologically advanced, patient - centered care.
+                              [@105] View All                                                                                [@108] Learn More                                                                             [@112] Explore all UW Medicine careers
 
 
-                           [ 120 ] LOCATION SPOTLIGHT
-                           [ 121 ] Childbirth Center                                      [ 124 ] World - Class Joint                                     [ 127 ] Vascular Health
-                           [ 122 ] We recognize that every family is                      Care
-                                                                          unique,                                                                         [ 128 ] The multidisciplinary team at the Regional
-                           and we offer many different options to best suit                                                                              Vascular Center tackles acute and chronic
-                                 individual pregnancy and birth needs.                     [ 125 ] We provide a wide range of surgical and
-                           your                                                                                                                          diseases using the latest in diagnostic and
-                                                                                          non - surgical treatment options for a full
-                                                                                                                                                         therapeutic technology.
-                                                                                          spectrum of bone, joint, spine and muscular
-                                                                                          conditions.
+                     **[113] Here in North Seattle, it's all about care in your community.**
+                     [114] UW Medical Center - Northwest is a full-service medical center based in North Seattle, offering emergency and inpatient and outpatient medical,
+                     surgical and therapeutic care. The hospital offers personalized, quality care on a beautiful, easy-to-access, 44-acre campus that includes the
+                     neighboring Northwest Outpatient Medical Center [115] and Specialty Care Meridian Pavilion.
+                     [118] UW Medical Center - Northwest is a community-based, non-profit hospital with 281 beds, 2,000-plus employees and a world-class medical staff
+                     that provides innovative, technologically advanced, patient-centered care.
 
-                              [ @ 123 ] LEARN MORE                                            [ @ 126 ] LEARN MORE                                           [ @ 129 ] LEARN MORE
+
+                     [119] Location Spotlight
+                     **[120] Childbirth Center**                                                                   **[123] World-Class Joint**                                                                   **[126] Vascular Health**
+                     [121] We recognize that every family is unique,                                               **Care**                                                                                      [127] The multidisciplinary team at the Regional
+                     and we offer many different options to best suit                                                                                                                                            Vascular Center tackles acute and chronic
+                                                                                                                   [124] We provide a wide range of surgical and
+                     your individual pregnancy and birth needs.                                                                                                                                                  diseases using the latest in diagnostic and
+                                                                                                                   non-surgical treatment options for a full
+                                                                                                                                                                                                                 therapeutic technology.
+                                                                                                                   spectrum of bone, joint, spine and muscular
+                                                                                                                   conditions.
+
+                         [@122] Learn more                                                                              [@125] Learn more                                                                             [@128] Learn more
 
 
 
-                                                                                                                                                    [ @ 130 ]     / [ @ 131 ]       / [ @ 132 ]       / [ @ 133 ]        / [ @ 134 ]
 
-     [ @ 135 ] Contact Us                                    [ @ 136 ] About UW Medicine                                     [ @ 147 ] UW Medicine Newsroom                          [ @ 148 ] Donate
-     [ @ 137 ] Careers                                       [ @ 138 ] Harborview Medical Center                             [ @ 149 ] UW Medicine Fact Book                         [ @ 150 ] Volunteer
-     [ @ 139 ] UW Medical Center - Montlake                  [ @ 140 ] UW Medical Center     Northwest                       [ @ 151 ] UW.edu                                        [ @ 152 ] Right as Rain Health Blog
-     [ @ 141 ] UW Medicine Primary Care Clinics              [ @ 142 ] Medical Conditions Directory                          [ @ 153 ] Fred Hutchinson Cancer Center                 [ @ 154 ] The Huddle - for employees
-     [ @ 143 ] ] Patient Resources                           [ @ 144 ] UW School of Medicine                                 [ @ 155 ] Airlift Northwest                             [ @ 156 ] Employee Resources
-     [ @ 145 ] UW Medicine Research                          [ @ 146 ] UW Physicians                                         [ @ 157 ] Valley Medical Center                         [ @ 158 ] Give Website Feedback
-                                                                                                                                                                                                [ @ 159 ]     Xedicino
-                           [ 165 ] By continuing you agree to the storing of cookies on your device to enhance site navigation, analyze site usage and assist
-  [ 160 ]                                                                                                                                [ @ 162 ]                [ @ 163 ]                     [ $ 167 ] [ Accept @ 164 ]
-                           in marketing efforts. For more information, see [ [ $ 166 ] Website Policy @ 161 ]
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2022
+       [@134] Contact Us                                                         [@135] About UW Medicine                                                             [@146] UW Medicine Newsroom                                               [@147] Donate
+       [@136] Careers                                                            [@137] Harborview Medical Center                                                     [@148] UW Medicine Fact Book                                              [@149] Volunteer
+       [@138] UW Medical Center           Montlake                               [@139] UW Medical Center           Northwest                                         [@150] UW.edu                                                             [@151] Right as Rain Health Blog
+       [@140] UW Medicine Primary Care Clinics                                   [@141] Medical Conditions Directory                                                  [@152] Fred Hutchinson Cancer Center                                      [@153] The Huddle - for employees
+       [@142] Patient Resources                                                  [@143] UW School of Medicine                                                         [@154] Airlift Northwest                                                  [@155] Employee Resources
+       [@144] UW Medicine Research                                               [@145] UW Physicians                                                                 [@156] Valley Medical Center                                              [@157] Give Website Feedback
+
+
+   [159] Copyright       2023 University of Washington All rights reserved                                                                                         [@160] Online Privacy Statement [@161] Policies and Notices [@162] Copyright And Healthcare Disclaimer    [@163] Website Terms And Conditions Of Use
+                     [164] By continuing you agree to the storing of cookies on your device to enhance site navigation, analyze site usage and assist in
+                                                                                                                                                                                                                                                                                        [$166] Accept
+                     marketing efforts. For more information, see [$165] Website Policy
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1686

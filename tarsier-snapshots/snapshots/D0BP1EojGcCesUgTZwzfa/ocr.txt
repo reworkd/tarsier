@@ -1,115 +1,118 @@
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 1 ]                                                                                                                                     [ @ 10 ] Log in 7
-                                  [ $ 3 ] Research   [ $ 4 ] API✓  [ $ 5 ] ChatGPT ✓   [ @ 6 ] Safety  [ $ 7 ] Company ✓        [ $ 8 ] Search
-       OpenAl                                                                                                                                    [ @ 11 ] Try ChatGPT >
-
-
-
-
-   [ @ 12 ] Careers
-                                                                                                 [ 14 ] San Francisco, California, United States - Legal
-   **[ 13 ] Head of**
-   **Commercial Legal**
-
-
-
-   [ @ 15 ] Apply now >           [ 16 ] About the Team
-                                  [ 17 ] OpenAl's Legal team plays a crucial role in furthering OpenAl's mission by
-                                  tackling innovative, fundamental legal issues in Al. If you're passionate about doing
-                                  significant and unique work as a technology lawyer, this team is for you. The team
-                                  comprises professionals from diverse fields, including technology, Al, privacy, IP,
-                                  corporate, employment, tax law, regulatory, and litigation.
-
-                                  [ 18 ] About the Role
-                                  [ 19 ] OpenAl's Commercial and Go To Market initiatives have experienced significant
-                                  growth, and we are now looking to expand our team with a seasoned legal leader.
-                                  With expertise in large - scale B2B operations, the individual in this high - impact role
-                                  will lead our commercial legal function, fostering excellence within OpenAl and the
-                                  broader Al industry. You will manage our growing commercial legal team and report
-                                  to our Global Head of Product, Privacy and Commercial Counsel.
-                                  [ 20 ] This role is based in San Francisco, CA. We use a hybrid work model of 3 days in
-                                  the office per week and offer relocation assistance to new employees.
-
-                                  [ 21 ] In this role, you will:
-                                  ⚫ [ 23 ] Lead & Scale [ 22 ]: Build, manage, and motivate our commercial legal team to
-                                    meet GTM growth, vendor, and procurement goals.
-                                    [ 25 ] Identify Strategic Partnerships [ 24 ]: Enhance our ability to negotiate and
-                                    form pivotal strategic partnerships.
-                                 ⚫ [ 27 ] Be Hands - on [ 26 ]: Engage personally in intricate deals, working
-                                    collaboratively with various company functions.
-                                     [ 29 ] Define Success Metrics [ 28 ]: Craft and fine - tune metrics to gauge team
-                                    success, reporting, and adapting to shifts in the commercial landscape.
-
-                                  [ 30 ] We expect candidates to bring a blend of experience:
-                                    [ 31 ] 15+ years of legal experience in in - house and law firm roles
-                                  ⚫ [ 32 ] A reputation for being a motivational and supportive leader of high - impact
-                                    teams
-                                    [ 33 ] Successfully scaling tech enterprise / B2B focused Legal teams
-                                    [ 34 ] History of growing and leading teams managing strategic
-                                    partnership / licensing negotiations
-                                     [ 35 ] Partnered closely with cross - functional teams, including Go To Market,
-                                    Finance, Product, Security and more.
-                                     [ 36 ] JD degree from an accredited law school and membership in at least one state
-                                    bar.
-
-                                  [ 37 ] # LI - RA1
-
-
-
-                                  [ 38 ] We are an equal opportunity employer and do not discriminate on the basis of
-                                  race, religion, national origin, gender, sexual orientation, age, veteran status, disability
-                                  or any other legally protected status. Pursuant to the San Francisco Fair Chance
-                                  Ordinance, we will consider qualified applicants with arrest and conviction records.
-                                  [ 39 ] We are committed to providing reasonable accommodations to applicants with
-                                  disabilities, and requests can be made via this [ @ 41 ] link [ 40 ].
-                                  [ @ 42 ] OpenAl US Applicant Privacy Policy
-
-                                  [ 43 ] Compensation, Benefits and Perks
-                                  [ 44 ] Total compensation also includes generous equity and benefits.
-
-                                  •  [ 45 ] Medical, dental, and vision insurance for you and your family
-                                     [ 46 ] Mental health and wellness support
-                                 ⚫ [ 47 ] 401 ( k ) plan with 4 % matching
-                                    [ 48 ] Unlimited time off and 18+ company holidays per year
-                                     [ 49 ] Paid parental leave ( 20 weeks ) and family - planning support
-                                     [ 50 ] Annual learning & development stipend ( $ 1,500 per year )
-                                  [ 51 ] Annual Salary Range
-                                  [ 52 ] $ 365,000 [ 53 ] - [ 54 ] $ 365,000 USD
-
-                                  [ 55 ] About OpenAl
-                                  [ 56 ] OpenAl is an Al research and deployment company dedicated to ensuring that
-                                  general - purpose artificial intelligence benefits all of humanity. We push the
-                                  boundaries of the capabilities of Al systems and seek to safely deploy them to the
-                                  world through our products. Al is an extremely powerful tool that must be created
-                                  with safety and human needs at its core, and to achieve our mission, we must
-                                  encompass and value the many different perspectives, voices, and experiences that
-                                  form the full spectrum of humanity.
-                                  [ 57 ] At OpenAl, we believe artificial intelligence has the potential to help people solve
-                                  immense global challenges, and we want the upside of Al to be widely shared. Join
-                                  us in shaping the future of technology.
-
-                                  [ @ 58 ] Apply now >
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+[$3] Research [$4] API [$5] ChatGPT [@6] Safety [$7] Company                           [$8] Search [@10] Log in [@11] Try ChatGPT
 
 
 
 
 
-   [ @ 59 ]                                                      [ 60 ] Research                [ 65 ] API                      [ 70 ] ChatGPT                 [ 74 ] Company
-       OpenAl                                                    [ @ 61 ] Overview               [ @ 66 ] Overview              [ @ 71 ] Overview              [ @ 75 ] About
-                                                                 [ @ 62 ] Index                 [ @ 67 ] Data privacy           [ @ 72 ] Enterprise            [ @ 76 ] Blog
-                                                                 [ @ 63 ] GPT - 4               [ @ 68 ] Pricing                [ @ 73 ] Try ChatGPT 7         [ @ 77 ] Careers
-                                                                 [ @ 64 ] DALL - E 3            [ @ 69 ] Docs 7                                                [ @ 78 ] Charter
-                                                                                                                                                               [ @ 79 ] Security
-                                                                                                                                                               [ @ 80 ] Customer stories
-                                                                                                                                                               [ @ 81 ] Safety
+  [@12] Careers
+                                                                                **[14] San Francisco, California, United States**
+  **[13] Head of**                                                              **Legal**
+  **Commercial Legal**
+
+
+
+  [@15] Apply now           [16] About the Team
+                            [17] OpenAI's Legal team plays a crucial role in furthering OpenAI's mission
+                            by tackling innovative, fundamental legal issues in AI. If you're passionate
+                            about doing significant and unique work as a technology lawyer, this team
+                            is for you. The team comprises professionals from diverse fields, including
+                            technology, AI, privacy, IP, corporate, employment, tax law, regulatory, and
+                            litigation.
+
+                            [18] About the Role
+                            [19] OpenAI's Commercial and Go To Market initiatives have experienced
+                            significant growth, and we are now looking to expand our team with a
+                            seasoned legal leader. With expertise in large-scale B2B operations, the
+                            individual in this high-impact role will lead our commercial legal function,
+                            fostering excellence within OpenAI and the broader AI industry. You will
+                            manage our growing commercial legal team and report to our Global Head
+                            of Product, Privacy and Commercial Counsel.
+                            [20] This role is based in San Francisco, CA. We use a hybrid work model of
+                            3 days in the office per week and offer relocation assistance to new
+                            employees.
+
+                            [21] In this role, you will:
+                               [23] Lead & Scale [22]: Build, manage, and motivate our commercial
+                               legal team to meet GTM growth, vendor, and procurement goals.
+                               [25] Identify Strategic Partnerships [24]: Enhance our ability to
+                               negotiate and form pivotal strategic partnerships.
+                               [27] Be Hands-on [26]: Engage personally in intricate deals, working
+                               collaboratively with various company functions.
+                               [29] Define Success Metrics [28]: Craft and fine-tune metrics to gauge
+                               team success, reporting, and adapting to shifts in the commercial
+                               landscape.
+
+                            [30] We expect candidates to bring a blend of experience:
+                               [31] 15+ years of legal experience in in-house and law firm roles
+                               [32] A reputation for being a motivational and supportive leader of
+                               high-impact teams
+                               [33] Successfully scaling tech enterprise/B2B focused Legal teams
+                               [34] History of growing and leading teams managing strategic
+                               partnership/licensing negotiations
+                               [35] Partnered closely with cross-functional teams, including Go To
+                               Market, Finance, Product, Security and more.
+                               [36] JD degree from an accredited law school and membership in at
+                               least one state bar.
+
+
+
+
+                            [38] We are an equal opportunity employer and do not discriminate on the
+                            basis of race, religion, national origin, gender, sexual orientation, age,
+                            veteran status, disability or any other legally protected status. Pursuant to
+                            the San Francisco Fair Chance Ordinance, we will consider qualified
+                            applicants with arrest and conviction records.
+                            [39] We are committed to providing reasonable accommodations to
+                            applicants with disabilities, and requests can be made via this link.
+                            [@41] OpenAI US Applicant Privacy Policy
+
+                            [42] Compensation, Benefits and Perks
+                            [43] Total compensation also includes generous equity and benefits.
+                               [44] Medical, dental, and vision insurance for you and your family
+                               [45] Mental health and wellness support
+                               [46] 401(k) plan with 4 matching
+                               [47] Unlimited time off and 18+ company holidays per year
+                               [48] Paid parental leave (20 weeks) and family-planning support
+                               [49] Annual learning & development stipend ( 1,500 per year)
+                            [50] Annual Salary Range
+                            [51] 365,000 [52] 365,000 USD
+
+                            [53] About OpenAI
+                            [54] OpenAI is an AI research and deployment company dedicated to
+                            ensuring that general-purpose artificial intelligence benefits all of humanity.
+                            We push the boundaries of the capabilities of AI systems and seek to safely
+                            deploy them to the world through our products. AI is an extremely powerful
+                            tool that must be created with safety and human needs at its core, and to
+                            achieve our mission, we must encompass and value the many different
+                            perspectives, voices, and experiences that form the full spectrum of
+                            humanity.
+                            [55] At OpenAI, we believe artificial intelligence has the potential to help
+                            people solve immense global challenges, and we want the upside of AI to
+                            be widely shared. Join us in shaping the future of technology.
+
+                            [@56] Apply now
 
 
 
 
 
-   [ 82 ] OpenAl © 2015–2023                                     [ @ 86 ] Twitter  [ @ 87 ] YouTube   [ @ 88 ] GitHub   [ @ 89 ] SoundCloud     [ @ 90 ] LinkedIn
-   [ @ 83 ] Terms & policies
-   [ @ 84 ] Privacy policy
-   [ @ 85 ] Brand guidelines                                     [ $ 91 ] Back to top ↑
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1444
+                                                      [58] Research             [63] API                  [68] ChatGPT              [72] Company
+                                                      [@59] Overview            [@64] Overview            [@69] Overview            [@73] About
+                                                      [@60] Index               [@65] Data privacy        [@70] Enterprise          [@74] Blog
+                                                      [@61] GPT-4               [@66] Pricing             [@71] Try ChatGPT         [@75] Careers
+                                                      [@62] DALL E              [@67] Docs                                          [@76] Charter
+                                                      3                                                                             [@77] Security
+                                                                                                                                    [@78] Customer stories
+                                                                                                                                    [@79] Safety
+
+
+
+
+
+  [80] OpenAI     2015 2023                           [@84] Twitter [@85] YouTube [@86] GitHub [@87] SoundCloud [@88] LinkedIn
+  [@81] Terms & policies
+  [@82] Privacy policy
+  [@83] Brand guidelines                              [$89] Back to top
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1232

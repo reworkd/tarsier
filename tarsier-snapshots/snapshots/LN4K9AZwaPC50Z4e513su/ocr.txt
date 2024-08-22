@@ -1,64 +1,47 @@
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 82 ]       Garnet Health
-                                                                                                                                                                                                                               CLOSE
-                   Find a                                                                  Patients &                                                                                                                     [ @ 56 ]
-              [ @ 9                [ @ 101 ] Locations       [ @ 110 ] Services      [ @ 1                    [ @ 130 ] Giving      [ @ 139 ] Careers      [ @ 14     MyChart
-                   Doctor                                                                  Visitors                                                                                                                       [ @ 57 ] Conta
-
-                                                                                                                                                                                                                          [ @ 58 ] Pay M
-                                                                          **[ 162 ] Find a Location**
-                                                                                                                                                                                                                          [ @ 59 ] Classes
-                    MY ADDRESS                                 [ 167 ]
-                [ $ 163 ]                                           [ 166 ] ES                   [ $ 168 ] FACILITY TYPE                         [ $ 171 ] SERVICE                                                        [ @ 60 ] News
-                                                                            AWAY
-                [ [ # 164 ] ]                                                                    [ $ 169 ]                                      [ $ 172 ]
-                                                                                                     1701 Facility Type                ☐           15173 ] Service                    ☐
-                My Address
-                                                                                                                                                                                                                          [ @ 61 ] Garnet
-                       Use my location
-                   [ 165 ]                                                                                                                                                                                                [ @ 62 ] Medica
-                                                                                                                                                                                                  [ $ 690 ]
-                           Specialty Care                                                                                                                                                                                 [ @ 63 ] Nursing
-         174 ]  [ 175 ]
-                     [ @ 176 ] Alcohol & Substance Abuse
-                     Treatment at Garnet Health Medical
-                                                                                                                                                                                                                          [ @ 64 ] About
-                     Center
-                     [ 177 ] 75 Crystal Run Road                                                                                                                                                                          [ @ 65 ] Patient
-                     [ 178 ] Middletown, New York 10941
-                     [ 179 ] Phone: [ @ 180 ] ( 845 ) 333-7818                                                                                                                                                            [ @ 66 ] For Em
-
-                               [ 182 ] View more info
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[@93] Find a Doctor** **[@101] Locations [@110] Services [@120] Patients & Visitors** **[@130] Giving [@139] Careers [@146] MyChart**
 
 
-         183 ]  [ 184 ]    Specialty Care
-                     [ @ 185 ] Ambulatory Surgery &
-                    Procedure Center at Garnet Health
-                     Medical Center
-                     [ 186 ] 707 East Main Street
-                     [ 187 ] Middletown, New York 10940
-                                                                                                                                                                                                   [ $ 6911
-                     [ 188 ] Phone: [ @ 189 ] ( 845 ) 333-3499
-                                                                                                                                                                                                   [ $ 692 ]
-                               [ 191 ] View more info                        [ @ @gle 693 ]
-                                                                                                                                [ $ 694 ] Keyboard shortcuts [ 695 ] Map data © 2023 Google [ @ 696 ] ] Terms [ @ 697 ] Report a map error
-
-            [ @ 698 ]      Garnet Health                    [ @ 699 ] Pay My Bill        [ @ 700 ] MyChart Login          [ @ 701 ] Donate        [ @ 702 ] Medical Records
-                                                                 [ @ 703 ]          [ @ 704 ]          [ @ 705 ]
+                                                                **[162] Find a Location**
+                                                     **[167] MILES AWAY**
+                                                                                         [$168] Facility Type                             [$171] Service
+                                                                                            [$170] Facility Type                             [$173] Service
+    [$163] My Address
+      **[165] Use my location**
 
 
-              [ 706 ] Patients & Visitors                                                                      [ 717 ] Physicians &                             [ 722 ] Garnet Health
-                                                                                                               Employees
-              [ @ 707 ] Find a Doctor                     [ @ 708 ] Locations                                                                                   [ @ 723 ] About Us
-                                                                                                               [ @ 718 ] Physician Jobs
-              [ @ 709 ] Services                          [ @ 710 ] Patient Support                                                                             [ @ 724 ] Contact Us
-                                                                                                               [ @ 719 ] For Employees
-              [ @ 711 ] Billing & Insurance               [ @ 712 ] Pay My Bill                                                                                 [ @ 725 ] Careers / Jobs
-                                                                                                               [ @ 720 ] Medical Education
-              [ @ 713 ] Patient Stories                   [ @ 714 ] Medical Records                                                                             [ @ 726 ] Disclaimer
-                                                                                                               [ @ 721 ] Nursing Excellence
-              [ @ 715 ] Classes & Events                  [ @ 716 ] Telehealth                                                                                  [ @ 727 ] Privacy Policy
+    **[175]**
+           [@176] Alcohol & Substance Abuse
+           Treatment at Garnet Health Medical
+           Center
+           [177] 75 Crystal Run Road
+           [178] Middletown, New York 10941
+           **[179] Phone: (845) 333-7818**
+                    [182] View more info
 
-              [ 728 ] Copyright © 2023 Garnet Health, All Rights Reserved.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 814
+    **[184]**
+           [@185] Ambulatory Surgery & Procedure
+           Center at Garnet Health Medical
+           Center
+           [186] 707 East Main Street
+           [187] Middletown, New York 10940
+           **[188] Phone: (845) 333-3499**
+                    [191] View more info
+                                                                                                                                          [$694] Keyboard shortcuts [695] Map data 2023 Google [@696] Terms [@697] Report a map error
+                                                           **[@699] Pay My Bill** **[@700] MyChart Login**     **[@701] Donate [@702] Medical Records**
+
+
+    **[706] Patients & Visitors**                                                                                       **[717] Physicians &**                                    **[722] Garnet Health**
+                                                                                                                        **Employees**
+    **[@707] Find a Doctor**                            **[@708] Locations**                                                                                                      **[@723] About Us**
+                                                                                                                        **[@718] Physician Jobs**
+    **[@709] Services**                                 **[@710] Patient Support**                                                                                                **[@724] Contact Us**
+                                                                                                                        **[@719] For Employees**
+    **[@711] Billing & Insurance**                      **[@712] Pay My Bill**                                                                                                    **[@725] Careers / Jobs**
+                                                                                                                        **[@720] Medical Education**
+    **[@713] Patient Stories**                          **[@714] Medical Records**                                                                                                **[@726] Disclaimer**
+                                                                                                                        **[@721] Nursing Excellence**
+    **[@715] Classes & Events**                         **[@716] Telehealth**                                                                                                     **[@727] Privacy Policy**
+    **[728] Copyright 2023 Garnet Health, All Rights Reserved.**
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 529

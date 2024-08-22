@@ -1,92 +1,86 @@
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**NJ START**
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[1] Header Information
+        [2] Bid Number:                         [3] 24DPP00965                                    [4] Description:                              [5] T2761 Non-OEM Automotive Parts and Accessories for Light Duty Vehicles                                     [6] Bid Opening Date:                 [7] 03/19/2024
+                                                                                                                                                (Class 4 or Lower, 15,000 lbs                                                                                                                        02:00:59 PM
+        [8] Purchaser:                          [9] Geoff Longmuir                                [10] Organization:                            [11] Division of Purchase and Property
+        [12] Department:                        [13] DPP - Division of Purchase                   [14] Location:                                [15] FLEET - Commodities Fleet
+                                                and Property
+        [16] Fiscal Year:                       [17] 24                                           [18] Type Code:                               [19] 04 - 04 - RFP/NJCOOP                                                                                      [20] Allow Electronic                 [21] Yes
+                                                                                                                                                                                                                                                               Quote:
+        [22] Alternate Id:                                                                        [23] Required Date:                                                                                                                                          [24] Available Date:                  [25] 01/30/2024
+                                                                                                                                                                                                                                                                                                     09:00:00 AM
+        [26] Info Contact:                                                                        [27] Bid Type:                                [28] OPEN                                                                                                      [29] Informal Bid Flag: [30] No
+        [31] Purchase Method: [32] Blanket
+        [33] Blanket/Contract                   [34] 08/30/2024                                   [35] Blanket/Contract End [36] 08/29/2028
+        Begin Date:                                                                               Date:
+          [37] Pre Bid Conference: [38] Please refer to the Bid Solicitation
+          [39] Bulletin Desc:
+        [40] Ship-to Address:                   [41] Division of Purchase and                     [47] Bill-to Address:                         [48] Division of Purchase and Property                                                                         [54] Print Format:                    [55] Bid Print New
+                                                Property                                                                                        [49] 33 West State Street
+                                                [42] 33 West State Street                                                                       [50] Trenton, NJ 08625
+                                                [43] Trenton, NJ 08625                                                                          [51] US
+                                                [44] US                                                                                         [52] Email: njstart        treas.nj.gov
+                                                [45] Email: njstart        treas.nj.gov                                                         [53] Phone: (609)341-3500
+                                                [46] Phone: (609)341-3500
+        [56] File Attachments:                  [@57] T2761 24DPP00965 Bid Solicitation 1.25.24
+                                                [@58] T2761 24DPP00965 State-Supplied Price Sheet 1.24.24
+                                                [@59] T2761 ATTACHMENT 1 - State of New Jersey Standard Terms and Conditions 1.24.2024
+                                                [@60] T2761 ATTACHMENT 2 - Standard Procurement Forms Packet 1.25.2024
+                                                [@61] T2761 ATTACHMENT 3 - Bidder Data Form 1.24.2024
+        [62] Form Attachments:
+         [63] Required Quote Attachments
 
-  [ 0 ] Bid Solicitation: 24DPP00965
+        [64] T Number:                          [65] T2761
+        [66] NJ Cooperative                     [67] Yes
+        Purchasing:
+        [68] Green Solicitation: [69] No
+        [70] Emergency                          [71] No
+        Solicitation:
+        [72] Small Business                     [73] None
+        Category:
+        [74] Bid Bond                           [75] No
+        Required:
+        [76] Performance Bond [77] No
+        Required:
+        [78] Retainage:                         [79] Refer to Bid Solicitation RFP.
+        [80] Agency
+        Procurement Contact:
+        [81] Contact Email:
 
-       [ 1 ] Header Information
-      [ 2 ] Bid Number:           [ 3 ] 24DPP00965                          [ 4 ] Description:                 [ 5 ] T2761 Non - OEM Automotive Parts and Accessories for Light Duty Vehicles ( Class 4 or [ 6 ] Bid Opening Date:       [ 7 ] 03/19/2024 02:00:59
-                                                                                                               Lower, 15,000 lbs.
-      [ 8 ] Purchaser:                Geoff Longmuir                        [ 10 ] Organization:               [ 11 ] Division of Purchase and Property
-      [ 12 ] Department:          [ 13 ] DPP - Division of Purchase and     [ 14 ] Location:                   [ 15 ] FLEET - Commodities Fleet
-                                  Property
-      [ 16 ] Fiscal Year:         [ 17 ] 24                                 [ 18 ] Type Code:                  [ 19 ] 04-04 RFP / NJCOOP                                                                   [ 20 ] Allow Electronic       [ 21 ] Yes
-                                                                                                                                                                                                          Quote:
-      [ 22 ] Alternate Id:                                                  [ 23 ] Required Date:                                                                                                          [ 24 ] Available Date:        [ 25 ] 01/30/2024 09:00:00
-                                                                                                                                                                                                                                         AM
-      [ 26 ] Info Contact:                                                  [ 27 ] Bid Type:                   [ 28 ] OPEN                                                                                [ 29 ] Informal Bid Flag:      [ 30 ] No
-      [ 31 ] Purchase Method:      [ 32 ] Blanket
-      [ 33 ] Blanket / Contract    [ 34 ] 08/30/2024                       [ 35 ] Blanket / Contract End       [ 36 ] 08/29/2028
-      Begin Date:                                                          Date:
-        [ 37 ] Pre Bid Conference:    [ 38 ] Please refer to the Bid Solicitation
-        [ 39 ] Bulletin Desc:
-      [ 40 ] Ship - to Address:    [ 41 ] Division of Purchase and Property [ 47 ] Bill - to Address:          [ 48 ] Division of Purchase and Property                                                   [ 54 ] Print Format:           [ 55 ] Bid Print New
-                                  [ 42 ] 33 West State Street                                                  [ 49 ] 33 West State Street
-                                  [ 43 ] Trenton, NJ 08625                                                     [ 50 ] Trenton, NJ 08625
-                                   [ 44 ] US                                                                   [ 51 ] US
-                                   [ 45 ] Email: njstart@treas.nj.gov                                          [ 52 ] Email: njstart@treas.nj.gov
-                                   [ 46 ] Phone: (609)341-3500                                                 [ 53 ] Phone: (609)341-3500
-      [ 56 ] File Attachments:     [ @ 57 ] ] T2761 24DPP00965 Bid Solicitation 1.25.24
-                                   [ @ 58 ] ] T2761 24DPP00965 State - Supplied Price Sheet 1.24.24
-                                   [ @ 59 ] ] T2761 ATTACHMENT 1 - State of New Jersey Standard Terms and Conditions 1.24.2024
-                                  [ @ 60 ] ] T2761 ATTACHMENT 2 - Standard Procurement Forms Packet 1.25.2024
-                                   [ @ 61 ] T2761 ATTACHMENT 3 - Bidder Data Form 1.24.2024
-      [ 62 ] Form Attachments:
-      [ 63 ] Required Quote Attachments
+          [82] Item Information
 
-      [ 64 ] T Number:             [ 65 ] T2761
-      [ 66 ] NJ Cooperative        [ 67 ] Yes
-      Purchasing:
-      [ 68 ] Green Solicitation:  [ 69 ] No
-      [ 70 ] Emergency            [ [ 71 ] No
-      Solicitation:
-      [ 72 ] Small Business       [ 73 ] None
-      Category:
-      [ 74 ] Bid Bond              [ 75 ] No
-      Required:
-      [ 76 ] Performance Bond [ [ 77 ] No
-      Required:
-      [ 78 ] Retainage:           [ 79 ] Refer to Bid Solicitation ( RFP ).
-      [ 80 ] Agency
-      Procurement Contact:
-      [ 81 ] Contact Email:
-
-       [ 82 ] Item Information
-
-       [ 83 ] Item # 1: ( 06094 )       [ 84 ] The Bidder must submit its pricing using the State - Supplied Price Sheet accompanying this Bid Solicitation and located on the Attachments Tab. Please refer to Bid Solicitation Section 3.36 State - Supplied Price Sheet
-                                       Instructions for more information.
-        [ 85 ] NIGP Code: [ 87 ] 060-94
-                          [ 86 ] Transmissions, Standard and Automatic, Including Clutch Assemblies and Parts
-
-              [ 88 ] Qty               [ 89 ] Unit Cost                    [ 90 ] UOM                            [ 91 ] Total Discount Amt.                       [ 92 ] Tax Rate                   [ [ 93 ] Tax Amount                   [ 94 ] Total Cost
-                    [ 95 ] 1.0                                 [ 96 ] EA - Each
-         [ 97 ] Manufacturer:                                                                           [ 98 ] Brand:                                                                            [ 99 ] Model:
-         [ 100 ] Make:                                                                                  [ 101 ] Packaging:
+          [83] Item         1: ( 060 - 94 ) [84] The Bidder must submit its pricing using the State-Supplied Price Sheet accompanying this Bid Solicitation and located on the Attachments Tab. Please refer to Bid Solicitation Section 3.36
+                                                  State-Supplied Price Sheet Instructions for more information.
+           [85] NIGP Code: [87] 060-94
+                                    [86] Transmissions, Standard and Automatic, Including Clutch Assemblies and Parts
+                 [88] Qty                      [89] Unit Cost                                [90] UOM                                       [91] Total Discount Amt.                                      [92] Tax Rate                              [93] Tax Amount                                [94] Total Cost
+                        [95] 1.0                                               [96] EA - Each
+            [97] Manufacturer:                                                                                                      [98] Brand:                                                                                                    [99] Model:
+            [100] Make:                                                                                                             [101] Packaging:
 
 
-       [ 102 ] Item # 2: ( 06066 ) [ 103 ] The Bidder must submit its pricing using the State - Supplied Price Sheet accompanying this Bid Solicitation and located on the Attachments Tab. Please refer to Bid Solicitation Section 3.36 State - Supplied Price Sheet
-                                         Instructions for more information.
-        [ 104 ] NIGP Code:  [ 106 ] 060-66
-                            [ 105 ] ] Parts and Accessories, Automotive, Miscellaneous ( Not Otherwise Classified )
-
-              [ 107 ] Qty              [ 108 ] Unit Cost                    [ 109 ] UOM                          [ 110 ] Total Discount Amt.                     [ 111 ] Tax Rate                   [ 112 ] Tax Amount                   [ 113 ] Total Cost
-                    [ 114 ] 1.0                                  [ 115 ] EA - Each
-         [ 116 ] Manufacturer:                                                                           [ 117 ] Brand:                                                                        [ 118 ] Model:
-         [ 119 ] Make:                                                                                   [ 120 ] Packaging:
-
-
-       [ 121 ] Item # 3:  ( 06097 )      [ 122 ] The Bidder must submit its pricing using the State - Supplied Price Sheet accompanying this Bid Solicitation and located on the Attachments Tab. Please refer to Bid Solicitation Section 3.36 State - Supplied Price Sheet
-                                         Instructions for more information.
-        [ 123 ] NIGP Code:  [ 125 ] 060-97
-                            [ 124 ] Windshield Wiper and Washer Assemblies, and Parts, Including Windshield Washer Fluid
-
-              [ 126 ] Qty              [ 127 ] Unit Cost                   [ 128 ] UOM                           [ 129 ] Total Discount Amt.                     [ 130 ] Tax Rate                   [ 131 ] Tax Amount                   [ 132 ] Total Cost
-                    [ 133 ] 1.0                                 [ 134 ] EA - Each
-         [ 135 ] Manufacturer:                                                                            [ 136 ] Brand:                                                                       [ 137 ] Model:
-         [ 138 ] Make:                                                                                    [ 139 ] Packaging:
+          [102] Item          2: ( 060 - 66 ) [103] The Bidder must submit its pricing using the State-Supplied Price Sheet accompanying this Bid Solicitation and located on the Attachments Tab. Please refer to Bid Solicitation Section 3.36
+                                                    State-Supplied Price Sheet Instructions for more information.
+           [104] NIGP Code: [106] 060-66
+                                      [105] Parts and Accessories, Automotive, Miscellaneous (Not Otherwise Classified)
+                 [107] Qty                      [108] Unit Cost                               [109] UOM                                      [110] Total Discount Amt.                                    [111] Tax Rate                            [112] Tax Amount                                [113] Total Cost
+                        [114] 1.0                                                [115] EA - Each
+            [116] Manufacturer:                                                                                                      [117] Brand:                                                                                               [118] Model:
+            [119] Make:                                                                                                              [120] Packaging:
 
 
-                                                                                                                              [ $ 140 ]
-                                                                                                  [ 141 ] Copyright © 2024 Periscope Holdings, Inc. - All Rights Reserved.
-                                                                                                           [ 142 ]
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1645
+          [121] Item          3: ( 060 - 97 ) [122] The Bidder must submit its pricing using the State-Supplied Price Sheet accompanying this Bid Solicitation and located on the Attachments Tab. Please refer to Bid Solicitation Section 3.36
+                                                    State-Supplied Price Sheet Instructions for more information.
+           [123] NIGP Code: [125] 060-97
+                                      [124] Windshield Wiper and Washer Assemblies, and Parts, Including Windshield Washer Fluid
+                 [126] Qty                      [127] Unit Cost                               [128] UOM                                     [129] Total Discount Amt.                                    [130] Tax Rate                             [131] Tax Amount                               [132] Total Cost
+                        [133] 1.0                                               [134] EA - Each
+            [135] Manufacturer:                                                                                                      [136] Brand:                                                                                               [137] Model:
+            [138] Make:                                                                                                              [139] Packaging:
+
+
+
+                                                                                                                       [141] Copyright          2024 Periscope Holdings, Inc. - All Rights Reserved.
+                                                                                                                                  [142] SONJ_SONJ_AWS_PROD_BUYSPEED_2_bso
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1499

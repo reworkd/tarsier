@@ -1,4 +1,5 @@
 import asyncio
+import json
 import os
 from pathlib import Path
 from statistics import median
@@ -17,9 +18,9 @@ load_dotenv()
 
 
 def google_creds() -> Dict[str, str]:
-    # creds = json.loads(os.environ.get("TARSIER_GOOGLE_OCR_CREDENTIALS", ""))
-    # if creds:
-    #     return creds
+    creds = json.loads(os.environ.get("TARSIER_GOOGLE_OCR_CREDENTIALS", ""))
+    if creds:
+        return creds
 
     return {
         "type": os.getenv("TYPE") or "",
@@ -107,7 +108,7 @@ async def generate_snapshots() -> None:
             snapshot_example(i, semaphore, browser, example, snapshots_path, tarsier)
             for i, example in enumerate(examples)
             if example.source == "mhtml"
-            if example.source == "mhtml" and example.id == "7JjuuOO8Ibt83UkNQA2bG"
+            # if example.source == "mhtml" and example.id == "CsjbrXOwtX1rRqggZALRB"
         ]
         await asyncio.gather(*tasks)
         # mhtml_examples = [ex for ex in examples if ex.source == "mhtml"][:3]

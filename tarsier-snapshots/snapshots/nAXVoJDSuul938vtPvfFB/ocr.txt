@@ -1,48 +1,44 @@
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-@ 1 ]      [ $ 2 ] Product [ $ 3 ] Solutions [ $ 4 ] Open Source ✓ [ @ 5 ] Pricing                  [ $ 6 ] Search or jump to ...           [ @ 7 ] Sign in [ @ 8 ] Sign up
-  [
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[$2] Product [$3] Solutions [$4] Open Source               [@5] Pricing                                                                [$6] Search or jump to...                                 [@7] Sign in  [@8] Sign up
 
-      [ @ 9 ] reworkd [ 10 ] / [ @ 11 ] AgentGPT [ 12 ] Public                           [ @ 13 ] Sponsor [ @ 14 ] Notifications [ @ 15 ] Fork 9k [ @ 16 ] Star 27.7k
+          **[@9] reworkd [@10] AgentGPT**    [11] Public                                                                                      [@12] Sponsor [@13] Notifications [@14] Fork 9k                  [@15] Star 27.7k
 
-    [ @ 17 ] < > Code [ @ 18 ] Issues 107 [ @ 19 ] Pull requests 38 [ @ 20 ] Discussions [ @ 21 ] Actions [ @ 22 ] Projects 1 [ @ 23 ] Security [ @ 24 ] Insights [ $ 25 ]
-                                                                                                                                                                 ...
+         **[@16] Code [@17] Issues** 107         **[@18] Pull requests** 38      **[@19] Discussions [@20] Actions [@21] Projects**     1          **[@22] Security [@23] Insights**
+                                                                                                                                                                                                                       [$24] New issue
+     **[25] Integrate with models from other companies [26] 21**
+           [27] Open       asim-shrestha [28] opened this issue                    [29] 2 comments
 
-             [ 27 ]      **Integrate with models from other companies [ 28 ] # 21**                                                              [ $ 26 ] ew issue
-                 [ 29 ] Open [ @ 32 ] asim - shrestha [ 30 ] opened this issue on Apr 11 [ 31 ] 2 comments
+                   asim-shrestha [35] commented                                                                                               [34] Contributor
+                                                                                                                                                                              [78] Assignees
+                                                                                                                                                                              [79] No one assigned
+                   [38] As a user, I may not want to be tied down to OpenAI. There are a lot of companies offering APIs for LLMs. We should
+                   explore what are the best, and provide an interface to select between them
+                                                                                                                                                                              [80] Labels
+                        **[39] 2**                                                                                                                                              [@81] enhancement
 
+                                                                                                                                                                              [82] Projects
+                   psgit [43] commented                                                                                                                                       [83] None yet
+                                                                                                                                              [42] Contributor
+                     edited
+                                                                                                                                                                              [85] Milestone
+                     asim-shrestha [47] great idea
+                                                                                                                                                                              [84] No milestone
+                   [49] I did some initial analysis and it appears that AutoGPT uses Langchain in chain.ts [50] to communicate with OpenAI.
+                   Since Langchain appears to offer support for other LLMs (see e.g.                                                                                          [86] Development
+                   https://github.com/hwchase17/langchain/tree/master/langchain/llms [51] ) then a possible solution might be to parameterize                                 [87] No branches or pull requests
+                   the LLM(s) in chain.ts. Specific settings would have to be provided for supported LLM(s).
+                                                                                                                                                                              [88] 3 participants
+                            yourepicservices [54] added the enhancement [55] label
 
-             [ @ 34 ] [ @ 38 ] asim - shrestha [ 37 ] commented [ @ 39 ] on Apr 11                   [ 36 ] Contributor [ $ 35 ]
-                                                                                                                          [ 82 ] Assignees
-                                                                                                                          [ 83 ] No one assigned
-                      [ 40 ] As a user, I may not want to be tied down to OpenAl. There are a lot of companies offering APIs for LLMs. We should
-                     explore what are the best, and provide an interface to select between them
-                                                                                                                          [ 84 ] Labels
-                      [ 41 ] [ 42 ] 2                                                                                     [ @ 85 ] enhancement
+                   asim-shrestha [64] commented                                                                               [62] Contributor     [63] Author
+                   [67] Hey exactly psgit! Hoping to include models from Cohere, anthropic, google, etc if possible.
 
-                                                                                                                          [ 86 ] Projects
-             [ @ 43 ] [ @ 47 ] psgit [ 46 ] commented [ @ 48 ] on Apr 15 [ 49 ]. [ $ 50 ] d          [ 45 ] Contributor [ $ 44 ]
-                                                                                                                          [ 87 ] None yet
+                            asim-shrestha [68] mentioned this issue
+                       [@72] Use offline private LLMs (Llama, Alpaca, Vicuna*, etc.) 322                                                                      [73] Open
 
-                      [ @ 52 ] @ asim - shrestha [ 51 ] ] great idea                                                      [ 89 ] Milestone
-                      [ 53 ] I did some initial analysis and it appears that AutoGPT uses Langchain in [ @ 56 ] chain.ts [ 54 ] to communicate with [ 88 ] No milestone
-                     OpenAl. Since Langchain appears to offer support for other LLMs ( see e.g.
-                      [ @ 57 ] https://github.com/hwchase17/langchain/tree/master/langchain/llms [ 55 ] ) then a possible solution might be to [ 90 ] Development
-                     parameterize the LLM ( s ) in chain.ts. Specific settings would have to be provided for supported LLM ( s ).
-                                                                                                                          [ 91 ] No branches or pull requests
-
-                            ]                                                                                             [ 92 ] 3 participants
-                        [ @ 60  [ @ 61 ] yourepicservices [ 58 ] added the [ @ 62 ] enhancement [ 59 ] label [ @ 63 ] on Apr 15
-                                                                                                                          [ @ 93 ] [ @ 94 ] [ @ 95 ]
-             [ @ 64 ] [ @ 69 ] asim - shrestha [ 68 ] commented [ @ 70 ] ] on Apr 23       [ 66 ] Contributor [ 67 ] Author [ $ 65 ]
-                     [ 71 ] Hey exactly psgit! Hoping to include models from Cohere, anthropic, google, etc if possible.
-
-                        [ @ 73 ] [ @ 74 ] asim - shrestha [ 72 ] mentioned this issue [ @ 75 ] on Apr 23
-                        [ @ 76 ] Use offline private LLMs ( Llama, Alpaca, Vicuna *, etc. ) # 322            O [ 77 ] Open
-
-
-                 [ @ 79 ] Sign up for free [ 80 ] to join this conversation on GitHub [ 78 ]. Already have an account? [ @ 81 ] Sign in to comment
+            Sign up for free      [76] to join this conversation on GitHub [74]. Already have an account? Sign in to comment
 
 
-                                     [ @ 97 ] [ 98 ] 2023 GitHub, Inc. [ @ 100 ] Terms [ @ 101 ] Privacy [ @ 102 ] Security [ @ 103 ] Status [ @ 104 ] Docs [ @ 105 ] Contact
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 952
+                                                                             [94] 2023 GitHub, Inc.       [@96] Terms [@97] Privacy [@98] Security [@99] Status [@100] Docs [@101] Contact
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 673

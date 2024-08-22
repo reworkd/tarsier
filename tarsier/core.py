@@ -5,7 +5,6 @@ from PIL import Image
 from io import BytesIO
 import json
 
-import numpy as np
 from tarsier._utils import load_js
 from tarsier.adapter import AnyDriver, BrowserAdapter, adapter_factory
 from tarsier.ocr import OCRService, ImageAnnotatorResponse
@@ -140,12 +139,7 @@ class Tarsier(ITarsier):
         await self._enable_transitions(adapter)
 
         new_detected_colours = await self.check_colors_brute_force(re_coloured_image)
-        # new_expected_colours = [
-        #     (elem['color'], int(elem['boundingBoxX']), int(elem['boundingBoxY']),
-        #      int(elem['width']), int(elem['height']))
-        #     for elem in re_coloured_elems
-        # ]
-        # new_detected_colours = await self._check_colours_(re_coloured_image, new_expected_colours)
+
         new_detected_coloured_elems = [
             elem for elem in re_coloured_elems if elem["color"] in new_detected_colours
         ]
@@ -154,7 +148,7 @@ class Tarsier(ITarsier):
             detected_coloured_elems + new_detected_coloured_elems
         )
 
-        # create the bounding boxes
+        # create bounding boxes for each text element
         await self._create_text_bounding_boxes(adapter)
         document_dimensions_script = "return window.documentDimensions();"
         document_dimensions = await adapter.run_js(document_dimensions_script)
@@ -188,7 +182,7 @@ class Tarsier(ITarsier):
                 )
 
                 if i == 0:
-                    # First bounding box is handled differently
+                    # first bounding box is given the idSymbol
                     annotation_text = (
                         elem["idSymbol"] + " " + box["text"]
                         if (elem["idSymbol"] not in inserted_id_strings)
@@ -349,41 +343,6 @@ class Tarsier(ITarsier):
         detected_colors_list = [f"rgb({r}, {g}, {b})" for r, g, b in unique_colors]  # type: ignore
 
         return detected_colors_list
-
-    @staticmethod
-    async def check_colors_targeted(
-        image_bytes: bytes,
-        expected_colours: list[Tuple[str, int, int, int, int]],
-        threshold: int = 30,
-    ) -> list[str]:
-        image = Image.open(BytesIO(image_bytes)).convert("RGB")
-
-        pixels = np.array(image)
-        height, width, _ = pixels.shape
-
-        detected_colours = set()
-
-        for expected_color, box_x, box_y, box_width, box_height in expected_colours:
-            # Ensure the bounding box is within the image dimensions
-            box_x_end = min(box_x + box_width, width)
-            box_y_end = min(box_y + box_height, height)
-
-            # Extract the RGB value from the expected color string
-            expected_rgb = tuple(map(int, expected_color[4:-1].split(",")))
-
-            # Get the region of interest
-            region = pixels[box_y:box_y_end, box_x:box_x_end]
-
-            # Calculate the differences
-            diff = np.abs(region - expected_rgb)
-
-            # Check if any pixel is within the threshold
-            within_threshold = np.all(diff <= threshold, axis=-1)
-
-            if np.any(within_threshold):
-                detected_colours.add(expected_color)
-
-        return list(detected_colours)
 
     @staticmethod
     async def _hide_non_coloured_elements(adapter: BrowserAdapter) -> None:

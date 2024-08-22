@@ -1,112 +1,103 @@
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ $ 1 ]  [ @ 2 ]                       **[ 3 ] Documentation**   [ @ 4 ] API reference                                                                       [ $ 5 ] Sign Up [ $ 6 ] Log In [ $ 7 ]
-                          **OpenAI**
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[@3] Documentation [@4] API reference                                                                                            [$5] Sign Up   [$6] Log In
 
-        [ @ 8 ] Topics
-                                                [ 30 ] Welcome to the OpenAl Developer Forum!                                                                                            [ $ 29 ] ×
-       [ $ 9 ] More
-                                                [ 31 ] What to know before posting a new question:
-        [ $ 10 ] RESOURCES
-                                                1. [ 32 ] Search the forum for similar topics - the question might have been discussed before.
-        [ @ 11 ] Documentation                  2. [ 33 ] If the question relates account issues ( e.g., billing and login issues ), please contact us through our [ @ 35 ] Help Center [ 34 ]
-        [ @ 12 ] API reference                  3. [ 36 ] Please be kind and helpful in conversations!
-        [ @ 13 ] Help center
-        [ $ 14 ] CATEGORIES                   [ @ 37 ] How to address a GPT in its instructions:
-                                                [ @ 38 ] Prompting [ @ 39 ] chatgpt, [ @ 40 ] gpts, [ @ 41 ] assistants
-        [ @ 15 ] Announcements
-        @ 16 ]   API                                                                                                                                                       [ @ 42 ] Nov 19
-        [                                     [ @ 46 ] [ 47 ] luona.dev                                                                        [ @ 48 ] 8d
-        @ 17 ]   Plugins / Actions Dev                                                                                                                                        [ 43 ] 1/4
-        [
-                                                      [ 49 ] I conducted an experiment to figure out how to best address GPTs in their instructions. I gave it 5              [ 44 ] Nov
-        [ @ 18 ] Prompting                            different instruction about the meaning of a made up word in a fantasy language and then asked it
-        [ @ 19 ] Documentation                        about it. I addressed it with
-        [ @ 20 ] All categories                       [ 50 ]" You"," I"," The assistant"," The GPT" and"{ name of the GPT}". I tested each of the 120
-                                                      permutations 6 times. This is what I found out:
-        [ $ 21 ] TAGS                                      [ 52 ] You [ 51 ] is by far the strongest way of addressing a GPT. In over 50 % of the cases, the GPT
-        [ @ 22 ] chatgpt                                   answered with the knowledge associated to" you".
-                                                           [ 54 ] The last instruction [ 53 ] is by far the most convincing instruction, with the last info being
-        [ @ 23 ] gpt - 4                                   returned 50 % of the time.
-        [ @ 24 ] api
-                                                      [ 55 ] Here you can find a [ @ 57 ] detailed write - up of the experiment 74 [ 56 ]
-        [ @ 25 ] plugin - development
-        [ @ 26 ] lost - user
-                                                                                                                                 [ $ 58 ] 11    [ $ 59 ]                   [ @ 45 ] 7d
-        [ @ 27 ] All tags
+  [@8] Topics                                 [30] Welcome to the OpenAI Developer Forum!
+      [$9] More
+                                              [31] What to know before posting a new question:
+      [$10] Resources
+                                                 [32] Search the forum for similar topics - the question might have been discussed before.
+                                                 [33] If the question relates account issues (e.g., billing and login issues), please contact us through our Help Center.
+  [@11] Documentation                            [35] Please be kind and helpful in conversations!
+  [@12] API reference
+  [@13] Help center
+      [$14] Categories                      **[@36] How to address a GPT in its instructions:**
+                                              [@37] Prompting [@38] chatgpt [@39] gpts [@40] assistants
+  [@15] Announcements                                                                                                                                                        [@41] Nov 19
+                                                     [@46] luona.dev                                                                                         [@47] 8d
+  [@16] API                                                                                                                                                                      [42] 1 / 4
+                                                     [48] I conducted an experiment to figure out how to best address GPTs in their instructions. I gave it 5                    [43] Nov
+  [@17] Plugins / Actions Dev                                                                                                                                                    19
+                                                     different instruction about the meaning of a made up word in a fantasy language and then asked it
+  [@18] Prompting                                    about it. I addressed it with
+  [@19] Documentation                                [49] You,   I, The assistant,   The GPT and name of the GPT. I tested each of the 120
+                                                     permutations 6 times. This is what I found out:
+  [@20] All categories
+      [$21] Tags                                           [51] You [50] is by far the strongest way of addressing a GPT. In over 50   of the cases, the GPT
+                                                           answered with the knowledge associated to you.
+  [@22] chatgpt                                            [53] The last instruction [52] is by far the most convincing instruction, with the last info being
+                                                           returned 50   of the time.
+  [@23] gpt-4
+  [@24] api                                          [54] Here you can find a
+                                                     detailed write-up of the experiment
+  [@25] plugin-development                           . 74
+  [@26] lost-user                                                                                                                                                            [@44] 7d
+  [@27] All tags                                                                                                                                    [$56] 11
 
-                                                      [ @ 60 ] Custom GPT Instructions: using 2nd vs. 3rd person
+                                                       [@58] Custom GPT Instructions: using 2nd vs. 3rd person
+                                                      [60] created   [@63] last reply [66] 3     [68] 449       [70] 4     [72] 12 [74] 1
+                                                           [62] 8d       [65] 7d    [67] replies  [69] views   [71] users   [73] likes  [75] link
 
-                                                       [ 62 ] created       [ @ 65 ] last reply  [ 68 ] 3    [ 70 ] 449    [ 72 ] 4
-                                                       [ @ 63 ]   [ 64 ] 8d [ @ 66 ]   [ 67 ] 7d [ 69 ] replies [ 71 ] views [ 73 ] users
-                                                                                                                                              [ $ 61 ] ✓
-                                                       [ 74 ] 12   [ 76 ] 1  [ @ 78 ] L [ @ 79 ] L [ @ 80 ] V
-                                                        [ 75 ] likes [ 77 ] link
 
-                                              [ @ 81 ] [ @ 82 ] anderskkehlet                                                                   [ @ 83 ] 8d
-                                                      [ 84 ] Nice test. It would not have occurred to me to use contradicting info.
+                                                     [@80] anderskkehlet                                                                                     [@81] 8d
+                                                     [82] Nice test. It would not have occurred to me to use contradicting info.
 
-                                                                                                                                   [ $ 85 ] ❤   [ $ 86 ]
 
-                                              [ @ 87 ] [ @ 88 ] LinqLover                                                                       [ @ 89 ] 8d
-                                               L [ 90 ] Very nice! We need for evidence on prompt tuning ( at least there has been posted very few
-                                                      research on this in this forum ).
 
-                                                                                                                                   [ $ 91 ] ❤   [ $ 92 ]
+                                                     [@86] LinqLover                                                                                         [@87] 8d
+                                                     [88] Very nice! We need for evidence on prompt tuning (at least there has been posted very few
+                                                     research on this in this forum).
 
-                                              [ @ 93 ] [ 94 ] vspritola                                                             [ $ 95 ] 1 [ @ 96 ] 7d
-                                                V [ 97 ] This is a fascinating experiment! Interestingly this is also true of humans. We also recall best ( and
-                                                     therefore can act on ) information at the end and the beginning of a text passage. My take on this is that
-                                                      it may be a feature of the training data where it is simulating how people are writing ( i.e. processing )
-                                                      based on text that came before.
-                                                      [ 98 ] Also if you think how you yourself would give or receive instructions best. You and your name
+
+
+                                                     [@92] vspritola                                                                                   [$93] 1 [@94] 7d
+                                                     [95] This is a fascinating experiment! Interestingly this is also true of humans. We also recall best (and
+                                                     therefore can act on) information at the end and the beginning of a text passage. My take on this is that
+                                                     it may be a feature of the training data where it is simulating how people are writing (i.e. processing)
+                                                     based on text that came before.
+                                                     [96] Also if you think how you yourself would give or receive instructions best. You and your name
                                                      would be the most impactful. Granted here there may be some underlying schemas about the name
-                                                      that are not part of the training, but regardless this also aligns with human tendencies.
-                                                      [ 99 ] EDIT: Now after looking deeper into the article, t seems that position 3/5 was still more impactful
+                                                     that are not part of the training, but regardless this also aligns with human tendencies.
+                                                     [97] EDIT: Now after looking deeper into the article, it seems that position 3/5 was still more impactful
                                                      than the beginning. This does not fit as well to the picture, but I see I may have thought about this
-                                                      wrong. The experiment doesn't measure just simple recall, where recency and primacy effects should
-                                                      dominate, but also has a component of solving contradiction. In many cases the last" revision" could be
+                                                     wrong. The experiment doesn t measure just simple recall, where recency and primacy effects should
+                                                     dominate, but also has a component of solving contradiction. In many cases the last revision could be
                                                      the correct one in texts. But this is now pure speculation. Very interesting.
 
-                                                                                                                               [ $ 100 ]      [ $ 101 ]
+                                                                                                                                                      [$98] 1
 
-                                                                                                                                        [ $ 102 ] Reply
-                                              [ 103 ] Related Topics
-                                               [ 104 ] Topic                                                                               [ 105 ] Replies [ 106 ] Views [ 107 ] Activity
-                                               [ @ 108 ] Providing context to the Chat API before a conversation
-                                                 [ @ 109 ] Prompting                                                                          [ $ 115 ] 7 [ 116 ] 10.0k [ @ 117 ] May 8
-                                               [ @ 110 ] ] gpt - 4, [ @ 111 ] gpt - 35 - turbo, [ @ 112 ] chatml, [ @ 113 ] chatml - system, [ @ 114 ] chatml - user
+                                                                                                                                                         [$100] Reply
+                                            [101] Related Topics
+                                                                                                                                                                 [103] [104] [105]
+                                             [102] Topic
+                                                                                                                                                                Replies     Views      Activity
 
-                                               [ @ 118 ] Custom GPT Instructions: using 2nd vs. 3rd person                                   [ $ 124 ] 18 [ 125 ] 1.0k   [ @ 126 ] 14h
-                                               ■ [ @ 119 ] Prompting [ @ 120 ] chatgpt, [ @ 121 ] custom - gpt, [ @ 122 ] custom - instructions, [ @ 123 ] tp - 1
-
-                                               [ @ 127 ] How to provide context so gpt - 3 continues the conversation?                        [ $ 129 ] 1  130 ] 218   [ @ 131 ] Sep 23
-                                                  @ 128 ] API                                                                                             [
-                                                 [
-
-                                               [ @ 132 ] GPT - 4 keeps lying instead of saying" I don't know"!                               [ $ 136 ] 5   137 ] 2.7k   @ 138 ] Jun 21
-                                                                                                                                                          [            [
-                                                 [ @ 133 ] Prompting [ @ 134 ] gpt - 4, [ @ 135 ] hallucinations
-
-                                               [ @ 139 ] Wow in a few lines                                                                                142 ] 1.1k
-                                                                                                                                              [ $ 141 ] 3 [            [ @ 143 ] Jul '22
-                                                 [ @ 140 ] API
+                                              [@106] Providing context to the Chat API before a conversation                                                       [$113] 7  [114] [@115] May 8
+                                                [@107] Prompting [@108] gpt-4 [@109] gpt-35-turbo [@110] chatml [@111] chatml-system [@112] chatml-user                     10.0k
 
 
+                                              [@116] Custom GPT Instructions: using 2nd vs. 3rd person                                                            [$122] 18  [123] [@124] 14h
+                                                [@117] Prompting [@118] chatgpt [@119] custom-gpt [@120] custom-instructions [@121] tp-1                                     1.0k
 
 
+                                              [@125] How to provide context so gpt-3 continues the conversation?                                                   [$127] 1            [@129] Sep 23
+                                                                                                                                                                          [128] 218
+                                                [@126] API
 
 
+                                              [@130] GPT-4 keeps lying instead of saying I don t know                                                              [$134] 5  [135] [@136] Jun 21
+                                                [@131] Prompting [@132] gpt-4 [@133] hallucinations                                                                          2.7k
 
 
-        [ $ 28 ]
+                                              [@137] Wow in a few lines                                                                                            [$139] 3  [140] [@141] Jul '22
+                                                [@138] API                                                                                                                   1.1k
 
-       [ 144 ] OpenAl © 2015–2023                                [ 146 ] Research     [ 149 ] Product             [ 154 ] Safety       [ 157 ] Help       [ 159 ] Developers         [ 163 ] Company
-                                                                 [ @ 147 ] Overview   [ @ 150 ] Overview          [ @ 155 ] Overview   [ @ 158 ] Support  [ @ 160 ] Documentation    [ @ 164 ] About
-       [ 145 ] The OpenAl developer forum is a
-      place to connect with other people                        [ @ 148 ] Index       [ @ 151 ] Customer stories  [ @ 156 ] Security                       [ @ 161 ] Service status  [ @ 165 ] Blog
-      building with OpenAl models.                                                    [ @ 152 ] Safety standards                                          [ @ 162 ] Examples         [ @ 166 ] Careers
-                                                                                      [ @ 153 ] Pricing                                                                              [ @ 167 ] Charter
 
-       [ @ 168 ] Terms & policies [ [ @ 169 ] Privacy policy [ @ 170 ] Brand guidelines                                                           [ @ 171 ]     [ @ 172 ] → [ @ 173 ]      [ @ 174 ] in
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1954
+ **[142] OpenAI**       **2015 2023**                                [144] Research       [147] Product           [152] Safety        [155] Help           [157] Developers       [161] Company
+ [143] The OpenAI developer forum is                                 [@145] Overview      [@148] Overview         [@153] Overview [@156] Support           [@158] Documentation [@162] About
+ a place to connect with other people                                [@146] Index         [@149] Customer stories [@154] Security                          [@159] Service status  [@163] Blog
+ building with OpenAI models.                                                             [@150] Safety standards                                          [@160] Examples        [@164] Careers
+                                                                                          [@151] Pricing                                                                          [@165] Charter
+
+ [@166] Terms & policies [@167] Privacy policy [@168] Brand guidelines
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1507

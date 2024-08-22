@@ -1,92 +1,76 @@
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 0 ]
-                                                                                    [ @ 1 ] About [ @ 2 ] Companies                                                [ @ 3 ] Startup Jobs                            [ 4 ] Find a Co - Founder                                                        [ 8 ] Apply for [ 10 ] W2024 [ 9 ] batch.                                                    [ @ 11 ] Apply
-                                                             Y                      [ @ 5 ] Library                    [ @ 6 ] SAFE [ @ 7 ] Resources
-
-                                                        **[ 12 ] Careers at Y Combinator**
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[@1] About [@2] Companies [@3] Startup Jobs [@4] Find a Co-Founder [@5] Library [@6] SAFE [@7] Resources                    [8] Apply for [10] W2024 [9] batch.             **[@11] Apply**
 
 
-                                                        [ 13 ] Working at Y Combinator is a unique opportunity to help founders build their companies at all stages, and offers
-                                                        unprecedented insight into the greater startup ecosystem. See open positions below across our software, investment and
-                                                        operations teams.
-                                                        [ 14 ] If you'd prefer to work at a startup, you can find thousands of roles at YC startups in engineering, design, recruiting and
-                                                        more at [ 16 ] ycombinator.com/jobs [ 15 ] ].
-
-                                                                         ← All Jobs
-                                                                             Product Engineer, Post Batch
-
-                                                                                                                                                                             Overview                                                                Application
-
-                                                                              Location                                                                                       About the role
-                                                                              San Francisco
-                                                                                                                                                                            Y Combinator is best known for our accelerator batch program, which has helped companies
-                                                                                                                                                                            like Airbnb, Stripe and Instacart get started. What is lesser known are the resources that YC
-                                                                              Туре                                                                                           provides after the batch -- our YC - only hiring platform ( workatastartup.com ), regular event
-                                                                              Full time                                                                                      planning for alumni founders, and internal software platform for helping founders stay in touch.
-                                                                                                                                                                             Our scope keeps increasing, and we're now looking to bring on a Product Engineer to help us
-                                                                              Department                                                                                     scale our impact even more.
-                                                                              Software                                                                                      You'll be working directly with two former YC founders / engineers ( from Twilio, Twitter & Lyft ),
-                                                                                                                                                                             and a small software team full of kind people who are eager to help you get up - to - speed. You'll
-                                                                                                                                                                             be relied upon not only to help us tackle our hefty roadmap, but to also explore how YC can
-                                                                                                                                                                            leverage its unique structural advantages to help our founders hire great people and build their
-                                                                                                                                                                             companies after the batch ends.
-                                                                                                                                                                             In this role, you will:
-                                                                                                                                                                                      • Design and build out new features in entirety. Our particular team focuses on helping
-                                                                                                                                                                                             founders post - batch. This is a range of features / products, with a focus on 1. )
-                                                                                                                                                                                            workatastartup.com ( hiring ) and 2. ) internal software ( helping YC stay in touch with
-                                                                                                                                                                                             founders and YC alumni ).
-                                                                                                                                                                                      • Scope and prioritize items on our post - batch roadmap alongside YC partners and others
-                                                                                                                                                                                             on the YC software team.
-                                                                                                                                                                                      • Analyze usage and engagement from both founders, job - seekers and other users to
-                                                                                                                                                                                             understand what's working / not working, and make things continuously better.
-                                                                                                                                                                            What are we looking for
-                                                                                                                                                                            YC was started by hackers, so we recognize good hackers when we see them. Much like when
-                                                                                                                                                                            we read applications for startups, we're looking to work with people who generally impress us.
-                                                                                                                                                                             If you've written some impressive software before, whether for yourself or a company, that's the
-                                                                                                                                                                             best qualifier we have.
-                                                                                                                                                                             This is a good job for someone who is excited about startups and interested in learning more
-                                                                                                                                                                             about them. You've likely worked at or started a startup, or want to do so in the future.
-                                                                                                                                                                             The software team has a lot of individual responsibility and access to sensitive information, so
-                                                                                                                                                                            we need to hire people we can trust. Your ability to make good trade - offs and exercise good
-                                                                                                                                                                            judgement is particularly important to us.
-
-                                                                                                                                                                             Location: YC is headquartered in the SF Bay Area with employees working from home or from
-                                                                                                                                                                             our offices in San Francisco and Mountain View, CA. Candidates must live in the SF Bay Area or
-                                                                                                                                                                             be willing to relocate.
-                                                                                                                                                                             Compensation: $ 160K to $ 200K + bonus ( depending on skills and experience ).
-                                                                                                                                                                             Benefits: Our full benefits package includes medical, vision, and dental plans, infertility benefit,
-                                                                                                                                                                             STD / LTD, life insurance, commuter benefits, flexible spending account, health savings account,
-                                                                                                                                                                             401 ( k ) + 4 % matching, generous parental leave, paid holidays and flexible paid time off policy.
-                                                                                                                                                                            Work Authorization: This position does not support work authorization / visa sponsorship.
-                                                                                                                                                                             Y Combinator considers qualified applicants with criminal histories, consistent with applicable
-                                                                                                                                                                             federal, state, and local law including San Francisco's Fair Chance Ordinance. Y Combinator is
-                                                                                                                                                                             committed to protecting the privacy of the personal information of job applicants and
-                                                                                                                                                                             complying with the California Consumer Privacy Act. The privacy policy of Ashby, Inc., the
-                                                                                                                                                                             hiring platform used by Y Combinator, governs the collection of such data and can be found
-                                                                                                                                                                             here.
-
-                                                                                                                                                                                                                                                                      Apply for this Job
+                **[12] Careers at Y Combinator**
 
 
-                                                                                                                                                          This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-                                                                                                                                                                                                                             Powered by Ashby
+                **[13] Working at Y Combinator is a unique opportunity to help founders build their companies at all stages, and offers**
+                **unprecedented insight into the greater startup ecosystem. See open positions below across our software, investment and**
+                **operations teams.**
+                **[14] If you'd prefer to work at a startup, you can find thousands of roles at YC startups in engineering, design, recruiting and**
+                **more at ycombinator.com/jobs.**
 
 
 
-                                                                                                  [ 19 ] Programs                                                                  [ 24 ] Company                                                                [ 34 ] Resources                                                     [ 42 ] Make something people want.
-                                                             **Y**                                [ @ 20 ] YC Program                                                              [ @ 25 ] YC Blog                                                              [ @ 35 ] Startup Directory                                                                                                      [ @ 43 ] Apply
-                                                                                                  [ @ 21 ] Startup School                                                          [ @ 26 ] Contact                                                              [ @ 36 ] Startup Library
-                                                                                                  [ @ 22 ] Work at a Startup.                                                      [ @ 27 ] Press                                                                [ @ 37 ] Investors
-                                                                                                  [ @ 23 ] Co - Founder Matching.                                                  [ @ 28 ] People                                                               [ @ 38 ] SAFE
-                                                                                                                                                                                   [ @ 29 ] Careers                                                              [ @ 39 ] Hacker News
-                                                                                                                                                                                   [ @ 30 ] Privacy Policy                                                       [ @ 40 ] Launch YC
-                                                                                                                                                                                   [ @ 31 ] Notice at Collection                                                 [ @ 41 ] YC Deals
-                                                                                                                                                                                   [ @ 32 ] Security
-                                                                                                                                                                                   [ @ 33 ] Terms of Use
 
 
-                                                                                                                                                                                                                                                                                                                     [ @ 44 ]                [ @ 45 ]                [ @ 46 ] ]               [ @ 47 ]                [ @ 48 ]
-                                                         [ 49 ] © 2023 Y Combinator
-                                                                                                                                                                                                                                                                                                                                              +                       ( 0 )                  lin
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1381
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               [@17] Y Combinator     [18] Programs                       [23] Company                      [33] Resources                         **[41] Make something people want.**                   **[@42] Apply**
+                                      [@19] YC Program                    [@24] YC Blog                     [@34] Startup Directory
+                                      [@20] Startup School                [@25] Contact                     [@35] Startup Library
+                                      [@21] Work at a Startup             [@26] Press                       [@36] Investors
+                                      [@22] Co-Founder Matching           [@27] People                      [@37] SAFE
+                                                                          [@28] Careers                     [@38] Hacker News
+                                                                          [@29] Privacy Policy              [@39] Launch YC
+                                                                          [@30] Notice at Collection        [@40] YC Deals
+                                                                          [@31] Security
+                                                                          [@32] Terms of Use
+
+                [48] 2023 Y Combinator                                                                                                                                        [@43] Twitter [@44] Facebook [@45] Instagram [@46] LinkedIn [@47] Youtube
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 393

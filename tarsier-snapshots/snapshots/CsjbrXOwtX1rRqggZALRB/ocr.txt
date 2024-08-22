@@ -1,11 +1,9 @@
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Mount                                                                                                                                        Select Lang [ $ 9 ]            [ 8 ] Powered by [ @ 10 ] Google Translate [ @ 11 ] ]
-              [ @ 1 ]              Sina 12 ] 1-800 - MD - SINAI       [ @ 13 ] MyMountSinai ( MyChart )     [ @ 14 ] Check Symptoms & Get Care        [ @ 15 ] Pay My Bill    [ @ 16 ] For Physicians     [ @ 17 ] Same - Day Appointments      [ @ 18 ] Make a Gift
-                                                                                                                                                                                                                                            [ @ 7 ]
-                                   [ @ 2 ] Find a Doctor                  [ @ 3 ] Request an Appointment                         [ @ 4 ] Our Locations                   [ @ 5 ] Patient Care                 [ @ 6 ] About Us                □
-                                                                                                                                                                                                                                           Search
-    [ @ 24 ] Home                                                                                                                                                                                                            [ 19 ] Share
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[8] Powered by        Translate
+                                                          [12] 1-800-MD-SINAI       [@13] MyMountSinai (MyChart)    [@14] Check Symptoms & Get Care     [@15] Pay My Bill [@16] For Physicians [@17] Same-Day Appointments     [@18] Make a Gift
 
+                       [@2] Find a Doctor                    [@3] Request an Appointment                            [@4] Our Locations                     [@5] Patient Care                    [@6] About Us            [@7] Search
+   [@24] Home                                                                                                                                                                                       [19] Share            [@20] Facebook [@21] Twitter [@22] Linkedin [@23] Email
 
 
 
@@ -19,212 +17,174 @@ Mount                                                                           
 
 
 
-                                                                                                                                                                                      [ 169 ] More in Our Locations
-                                    **[ 25 ] Mount Sinai Locations**
-                                                                                                                                                                                        [ @ 170 ] Select                                  ☐
-                                    [ 26 ] Mount Sinai Health System ( MSHS ) hospitals serve your inpatient medical needs with
-                                   specialists and surgeons trained and experienced in the most advanced treatments. Whether
-                                   you are a New York neighbor, or an international citizen who has traveled thousands of miles
-                                   to reach one of our eight hospitals, MSHS ensures that you will receive the finest care. Our
-                                    highly qualified doctors, nurses, and administrators are dedicated to caring for you with                                                       [ @ 171 ] Find a Doctor                                  ☐
-                                   compassion in our state - of - the art facilities. When you do not need inpatient care, you can
-                                   count on Mount Sinai Health System to care for your [ @ 29 ] Urgent Care [ 27 ] ] needs and to
-                                    provide you the finest ongoing [ @ 30 ] Outpatient Care [ 28 ] at our locations throughout the                                                 [ @ 172 ] Book an Appointment Now                         ☐
-                                    metropolitan area, and beyond.
+                                                                                                                                                                                            **[169] More in Our Locations**
+                       **[25] Mount Sinai Locations**
+                       [26] Mount Sinai Health System (MSHS) hospitals serve your inpatient medical needs with                                                                                [@170] Select
+                       specialists and surgeons trained and experienced in the most advanced treatments. Whether
+                       you are a New York neighbor, or an international citizen who has traveled thousands of miles
+                       to reach one of our eight hospitals, MSHS ensures that you will receive the finest care. Our
+                       highly qualified doctors, nurses, and administrators are dedicated to caring for you with                                                                         [@171] Find a Doctor
+                       compassion in our state-of-the art facilities. When you do not need inpatient care, you can
+                       count on Mount Sinai Health System to care for your Urgent Care [27] needs and to provide
+                       you the finest ongoing Outpatient Care [28] at our locations throughout the metropolitan area,                                                                    [@172] Book an Appointment Now
+                       and beyond.
 
 
 
-                                                                                                                                   [ @ 41 ]
 
 
 
 
-                                       [ @ 34 ] Mount Sinai Beth Israel                                       [ @ 44 ] Mount Sinai Brooklyn
-                                                                                                                                                                                        [ 173 ] Not Feeling Well and
-                                       [ 32 ] 281 First Avenue                                                [ 42 ] ] 3201 Kings Highway
-                                                                                                                                                                                       Unsure What to Do?
-                                       [ 33 ] New York, NY 10003                                              [ 43 ] Brooklyn, NY 11234
-                                       [ @ 35 ] View Map                                                      [ @ 45 ] View Map                                                         [ 174 ] Let us help you find the right
-                                                                                                                                                                                        kind of care
-                                       [ 37 ] Phone: [ 38 ] 212-420-2000 [ 36 ] ]                             [ 47 ] Phone: [ 48 ] 718-252-3000 [ 46 ] ]
-                                      or [ 39 ] 212-857-9980                                                 or [ 49 ] 718-312-7300
-                                                                                                                                                                                           [ @ 175 ] Check Symptoms & Get
-                                          [ @ 40 ] Learn More                                                     [ @ 50 ] Learn More                                                   Care
+                          Mount Sinai Beth Israel                                                          Mount Sinai Brooklyn
+                          [32] 281 First Avenue                                                            [42] 3201 Kings Highway                                                            **[173] Not Feeling Well and**
+                          [33] New York, NY 10003                                                          [43] Brooklyn, NY 11234
+                          View Map                                                                         View Map                                                                           **Unsure What to Do?**
+                                                                                                                                                                                              [174] Let us help you find the right kind
+                          [37] Phone: [38] 212-420-2000 [36] or                                            [47] Phone: [48] 718-252-3000 [46] or                                              of care
+                          [39] 212-857-9980                                                                [49] 718-312-7300
+                              Learn More                                                                      Learn More                                                                          [@175] Check Symptoms & Get Care
 
 
-                                                           [ @ 51 ]                                                               [ @ 61 ]
 
 
 
 
-                                       [ @ 54 ] The Mount Sinai                                               [ @ 64 ] Mount Sinai
-                                      Hospital                                                                Morningside
-                                       [ 52 ] 1 Gustave L. Levy Place                                         [ 62 ] 1111 Amsterdam Avenue
-                                       [ 53 ] New York, NY 10029-6574                                         [ 63 ] New York, NY 10025                                                 [ 176 ] MyMountSinaiⓇApp
-                                       [ @ 55 ] View Map                                                      [ @ 65 ] View Map
-                                                                                                                                                                                        [ 177 ] Manage your health care on the
-                                                                                                                                                                                        go
-                                       [ 57 ] Phone: [ 58 ] 212-241-6500 [ 56 ] ]                             [ 67 ] Phone: [ [ 68 ] 212-523-4000 [ 66 ] ]
-                                      or [ 59 ] 212-590-3300                                                 or [ 69 ] 212-857-9990
-                                                                                                                                                                                           [ @ 178 ] Download
-                                          [ @ 60 ] Learn More                                                     [ @ 70 ] Learn More
+                          The Mount Sinai Hospital                                                         Mount Sinai Morningside
+                          [52] 1 Gustave L. Levy Place                                                     [62] 1111 Amsterdam Avenue
+                          [53] New York, NY 10029-6574                                                     [63] New York, NY 10025
+                          View Map                                                                         View Map
+                                                                                                                                                                                              **[176] MyMountSinai App**
+                          [57] Phone: [58] 212-241-6500 [56] or                                            [67] Phone: [68] 212-523-4000 [66] or                                              [177] Manage your health care on the
+                          [59] 212-590-3300                                                                [69] 212-857-9990                                                                  go
+                              Learn More                                                                      Learn More
+                                                                                                                                                                                                  [@178] Download
 
-                                                                                                                                                                                      [ 179 ] Other Locations
-                                                           [ @ 71 ]                                                                [ @ 81 ]
-                                                                                                                                                                                           [ @ 180 ] Outpatient Locations
-                                                                                                                                                                                           [ @ 181 ] Urgent Care
 
+                                                                                                                                                                                            **[179] Other Locations**
 
-                                       [ @ 74 ] Mount Sinai Queens                                            [ @ 84 ] Mount Sinai South
-                                       [ 72 ] ] 25-10 30th Avenue                                             Nassau
-                                       [ 73 ] Astoria, NY 11102                                               [ 82 ] ] One Healthy Way
-                                       [ @ 75 ] View Map                                                      [ 83 ] Oceanside, NY 11572
-                                                                                                              [ @ 85 ] View Map
-                                       [ 77 ] Phone: [ 78 ] ] 718-932-1000 [ 76 ] ]
-                                      or [ 79 ] 718-289-3100                                                  [ 87 ] Phone: [ 86 ] 877-768-8462
+                                                                                                                                                                                                  [@180] Outpatient Locations
+                                                                                                                                                                                                  [@181] Urgent Care
+                          Mount Sinai Queens                                                               Mount Sinai South Nassau
+                          [72] 25-10 30th Avenue                                                           [82] One Healthy Way
+                          [73] Astoria, NY 11102                                                           [83] Oceanside, NY 11572
+                          View Map                                                                         View Map
+                          [77] Phone: [78] 718-932-1000 [76] or                                            [87] Phone: [86] 877-768-8462
+                          [79] 718-289-3100
+                              Learn More                                                                      Learn More
 
-                                          [ @ 80 ] Learn More                                                     [ @ 88 ] Learn More
 
 
-                                                           [ @ 89 ]                                                                [ @ 99 ]
 
-                                                            kahn School                                                 New Yock Eye and Ear Infirmary of Mouc
-                                                           Sin
 
 
-                                       [ @ 92 ] Mount Sinai West                                              [ @ 102 ] New York Eye and Ear
-                                        90 ] 1000 Tenth Avenue                                               Infirmary of Mount Sinai
-                                       [
-                                       [ 91 ] New York, NY 10019                                              [ 100 ] 310 East 14th Street
-                                       [ @ 93 ] View Map                                                      [ 101 ] New York, NY 10003
-                                                                                                              [ @ 103 ] View Map
-                                       [ 95 ] Phone: [ 96 ] 212-523-4000 [ 94 ] ]
-                                      or [ 97 ] 212-857-9990                                                  [ 104 ] Phone: [ 105 ] 212-979-4000
-                                                                                                                  [ @ 106 ] New York Eye and Ear Infirmary
-                                          [ @ 98 ] Learn More                                                 of Mount Sinai
+                          Mount Sinai West                                                                 New York Eye and Ear
+                          [90] 1000 Tenth Avenue                                                           Infirmary of Mount Sinai
+                          [91] New York, NY 10019                                                          [100] 310 East 14th Street
+                          View Map                                                                         [101] New York, NY 10003
+                                                                                                           View Map
+                          [95] Phone: [96] 212-523-4000 [94] or
+                          [97] 212-857-9990                                                                [104] Phone: [105] 212-979-4000
+                              Learn More                                                                      Learn More
 
 
-                                                           [ @ 107 ]                                                              [ @ 111 ]
-                                                                                                                                     **Mount**
-                                                                                                                                    **Sinai**
-                                                                                                                                   **Spine**
 
-                                       [ @ 109 ] Mount Sinai Doctors                                          [ @ 114 ] The Spine Hospital at
-                                      Faculty Practice                                                        Mount Sinai
-                                       [ 108 ] Mount Sinai Doctors Faculty                                    [ 112 ] 5 East 98th Street, 4th Floor
-                                      Practice offers patients world - class                                  [ 113 ] ] New York, NY 10029
-                                      treatment for a variety of medical                                      [ @ 115 ] View Map
-                                      conditions at numerous locations across
-                                      Manhattan and Brooklyn.                                                 [ 117 ] Phone: [ 118 ] 212-241-8947
-                                                                                                              [ 119 ] 212-241-6980 [ 116 ] ( Billing )
 
-                                          [ @ 110 ] Learn More                                                    [ @ 120 ] Learn More
 
 
-                                                          [ @ 121 ]                                                               [ @ 125 ]
+                          Mount Sinai Doctors Faculty                                                      The Spine Hospital at Mount
+                          Practice                                                                         Sinai
+                          [108] Mount Sinai Doctors Faculty                                                [112] 5 East 98th Street, 4th Floor
+                          Practice offers patients world-class                                             [113] New York, NY 10029
+                          treatment for a variety of medical                                               View Map
+                          conditions at numerous locations across
+                          Manhattan and Brooklyn.                                                          [117] Phone: [118] 212-241-8947
+                                                                                                           [119] 212-241-6980 [116] (Billing)
+                              Learn More                                                                      Learn More
 
-                                                  SING DOWNTOWN
-                                             OUNT
 
 
 
-                                       [ @ 123 ] Mount Sinai                                                  [ @ 128 ] Mount Sinai Kravis
-                                      Downtown Network                                                        Children's Hospital
-                                       [ 122 ] The Mount Sinai Heath System is                                [ 126 ] 1184 Fifth Avenue
-                                      undertaking a sweeping transformation of                                [ 127 ] New York, NY 10029
-                                      Mount Sinai Beth Israel, by investing over                              [ @ 129 ] View Map
-                                      $ 500 million to create the new Mount
-                                      Sinai Downtown network.                                                 [ 130 ] Phone: [ 131 ] 212-241-9500
 
-                                           [ @ 124 ] Learn More                                                   [ @ 132 ] Learn More
 
+                          Mount Sinai Downtown                                                             Mount Sinai Kravis Children's
+                          Network                                                                          Hospital
+                          [122] The Mount Sinai Heath System is                                            [126] 1184 Fifth Avenue
+                          undertaking a sweeping transformation of                                         [127] New York, NY 10029
+                          Mount Sinai Beth Israel, by investing over                                       View Map
+                            500 million to create the new Mount
+                          Sinai Downtown network.                                                          [130] Phone: [131] 212-241-9500
+                              Learn More                                                                      Learn More
 
-                                                           [ @ 133 ]                                                              [ @ 137 ]
 
 
 
 
-                                       [ @ 135 ] The Mount Sinai                                              [ @ 139 ] Urgent Care
-                                      Health Network                                                          [ 138 ] Mount Sinai Health System has
-                                       [ 134 ] ] The Mount Sinai Health Network                              Urgent Care locations throughout the
-                                      is comprised of hundreds of clinical and                               Metropolitan New York area.
-                                      academic relationships throughout the
-                                      greater New York metropolitan area.
 
-                                           [ @ 136 ] Learn More                                                  [ @ 140 ] Learn More
+                          The Mount Sinai Health                                                           Urgent Care
+                          Network                                                                          [138] Mount Sinai Health System has
+                          [134] The Mount Sinai Health Network is                                          Urgent Care locations throughout the
+                          comprised of hundreds of clinical and                                            Metropolitan New York area.
+                          academic relationships throughout the
+                          greater New York metropolitan area.
+                              Learn More                                                                      Learn More
 
 
-                                                          [ @ 141 ]                                                               [ @ 145 ]
-                                                                                                                                                     L
-                                                                                                                          SINGL DOWNTOWN
 
-                                                         Doctors
 
-                                       [ @ 143 ] Mount Sinai Doctors                                          [ @ 146 ] Mount Sinai - Union
-                                      Outpatient Locations                                                   Square
-                                       [ 142 ] As the leading health care                                     [ 147 ] 10 Union Square East
-                                      provider, Mount Sinai Health System                                     [ 148 ] New York, NY 10003
-                                      offers you the type of full - service medical                           [ @ 149 ] View Map
-                                      facilities that you may have come to
-                                      expect at an inpatient hospital facility.
 
-                                          [ @ 144 ] Learn More                                                    [ @ 150 ] Learn More
 
+                          Mount Sinai Doctors                                                              [@146] Mount Sinai-Union Square
+                          Outpatient Locations                                                             [147] 10 Union Square East
+                          [142] As the leading health care provider,                                       [148] New York, NY 10003
+                          Mount Sinai Health System offers you the                                         View Map
+                          type of full-service medical facilities that
+                          you may have come to expect at an
+                          inpatient hospital facility.
+                              Learn More                                                                      [@150] Learn More
 
-                                                          [ @ 151 ]                                                               [ @ 159 ]
 
-                                                                                                                           Mount
-                                                                                                                           Sinai
-                                                                                                                           Behavioral Center
-                                                                                                                           Health
 
 
-                                       [ @ 152 ] The Blavatnik Family                                         [ @ 161 ] Mount Sinai-
-                                      Chelsea Medical Center                                                  Behavioral Health Center
-                                       [ 153 ] 325 West 15th Street                                           [ 162 ] 45 Rivington Street
-                                       [ 154 ] New York, NY 10011                                             [ 163 ] New York, NY 10002
-                                       [ @ 155 ] View Map                                                     [ @ 164 ] View Map
-                                       [ 156 ] Phone: [ 157 ] ] 212-604-6000                                  [ 165 ] Phone: [ 160 ] ] 332-243-1600
 
-                                          [ @ 158 ] Learn More                                                    [ @ 166 ] Learn More
 
+                          [@152] The Blavatnik Family Chelsea                                              Mount Sinai-Behavioral Health
+                          Medical Center                                                                   Center
+                          [153] 325 West 15th Street                                                       [162] 45 Rivington Street
+                          [154] New York, NY 10011                                                         [163] New York, NY 10002
+                          View Map                                                                         View Map
+                          [156] Phone: [157] 212-604-6000                                                  [165] Phone: [160] 332-243-1600
+                              [@158] Learn More                                                               Learn More
 
 
 
-                                       [ @ 167 ] Mount Sinai - Harlem
-                                      Health Center
 
+                          [@167] Mount Sinai-Harlem Health
+                          Center
 
 
-                                          [ @ 168 ] Learn More
+                              [@168] Learn More
 
 
+                                                                   [@182] LinkedIn [@183] Facebook [@184] Twitter [@185] Youtube [@186] Instagram [@187] Pinterest [@188] Tiktok                                         [219] Hospitals
+                                                                                                                                                                                                                   [220] Urgent Care/Walk-In
+                                        [@189] COVID-19 Staff Resources         [@190] Mount Sinai Today Blog       [191] 1-800-MD-SINAI
 
-                                                                                                                                                                                                                [ 219 ] Hospitals
-                                                                                                                                                                                                          [ 220 ] Urgent Care / Walk - In
-                                         [ @ 189 ] COMD - 19 Staff Resources |        [ @ 190 ] Mount Sinai Today Blog      |   [ 191 ] 1-800 - MD - SINAI                                 $ 221 ]
-                                                                                                                                                                                           [       se a location                                1
-                            [ 192 ] Patient Information                     [ 205 ] Research & Education                   [ 212 ] For Health Professionals
-                            [ @ 193 ] MyMountSinai® App                     [ @ 206 ] Icahn School of Medicine at          [ @ 213 ] Transfer a Patient
-                             @ 194 ] Pay My Bill                           Mount Sinai                                                      Sinai Connect
-                            [                                                                                              [ @ 214 ] Mount
-                            [ @ 195 ] No Surprises Act                      [ @ 207 ] Medical Education                    [ @ 215 ] Refer a Patient
-                            [ @ 196 ] International Services                [ @ 208 ] Graduate Education                   [ @ 216 ] Nursing
-                            [ @ 197 ] Mount Sinai Access                    [ @ 209 ] Research                             [ @ 217 ] Hospital Sponsored Programs
-                            [ @ 198 ] Find a Doctor                         [ @ 210 ] Find Faculty                         [ @ 218 ] Medical Staff Services
-                            [ @ 199 ] Check Symptoms & Get Care             [ @ 211 ] Philips School of Nursing
-                            [ @ 200 ] Patient Representatives Offices
-                            [ @ 201 ] Language and Accessibility
-                            [ @ 202 ] Health Library
-                            [ @ 203 ] Clinical Trials
-                            [ @ 204 ] Newsroom
+              [192] Patient Information                             [205] Research & Education                            [212] For Health Professionals
+              [@193] MyMountSinai App                               [@206] Icahn School of Medicine at Mount              [@213] Transfer a Patient
+              [@194] Pay My Bill                                    Sinai                                                 [@214] Mount Sinai Connect
+              [@195] No Surprises Act                               [@207] Medical Education                              [@215] Refer a Patient
+              [@196] International Services                         [@208] Graduate Education                             [@216] Nursing
+              [@197] Mount Sinai Access                             [@209] Research                                       [@217] Hospital Sponsored Programs
+              [@198] Find a Doctor                                  [@210] Find Faculty                                   [@218] Medical Staff Services
+              [@199] Check Symptoms & Get Care                      [@211] Phillips School of Nursing
+              [@200] Patient Representatives Offices
+              [@201] Language and Accessibility
+              [@202] Health Library
+              [@203] Clinical Trials
+              [@204] Newsroom
 
-                                                                  [ 223 ]  2023 [ 222 ] Icahn School of Medicine at Mount Sinai
-                                             [ @ 224 ] Contact Us [ @ 225 ] Careers          [ @ 226 ] Terms & Conditions       [ @ 227 ] Privacy Policy
-                                               [ @ 228 ] HIPAA Privacy Practices      [ @ 229 ] Compliance       [ @ 230 ] Non - Discrimination Notice
-
-                                       [ @ 231 ] Patient Responsibilities    [ @ 232 ] Insurance Information      [ @ 233 ] Vendors     [ @ 234 ] Accessibility
-
-     [ $ 235 ]
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2600
+                                                          [223] 2023 [222] Icahn School of Medicine at Mount Sinai
+                               [@224] Contact Us [@225] Careers [@226] Terms & Conditions [@227] Privacy Policy [@228] HIPAA Privacy Practices [@229] Compliance
+                                [@230] Non-Discrimination Notice    [@231] Patient Responsibilities [@232] Insurance Information [@233] Vendors [@234] Accessibility
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1873

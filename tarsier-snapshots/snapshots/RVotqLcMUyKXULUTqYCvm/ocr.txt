@@ -1,39 +1,295 @@
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 1 ] ]
-   **Excela Health**
-
-                                                  [ @ 2 ] Pay Bill [ @ 3 ] Contact Us [ @ 4 ] Careers [ @ 5 ] About Us [ 6 ] Search         [ @ 8 ] 877-771-1234
-                                    [ @ 9 ] Find a Doctor [ @ 10 ] Locations [ @ 11 ] Services [ @ 39 ] Patients & Visitors [ @ 60 ] Patient Portal [ @ 61 ] Giving
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[@2] Pay Bill [@3] Contact Us [@4] Careers [@5] About Us                 [@8] 877-771-1234
+                                                                       [@9] Find a Doctor [@10] Locations [@11] Services [@39] Patients & Visitors [@60] Patient Portal [@61] Giving
 
 
-             **[ 62 ] Our Locations**
-             [ $ 64 ] Search Locations                     [ $ 66 ] Category                            [ $ 68 ] Services
-             [ # 65 ]                                      [ $ 67 ]       All Categories                [ $ 69 ]        All Services
-               Search Term
-                                                                                                                                [ @ 70 ] Clear Filters
+          **[62] Our Locations**
+          [$64] Search Locations                                [$66] Category                                         [$68] Services
+                                                                **[$67] All Categories [$69] All Services**
+                                                                                                                                                           [@70] Clear Filters
 
-   [ 71 ] Blairsville Medical Park
-   [ [ 72 ] Outpatient Facilities, Laboratory &
-   Imaging, Primary Care
-   [ 73 ] 56 Club Lane
-   [ 74 ] Blairsville, PA 15717
-   [ @ 75 ] 877-771-1234
-   [ @ 76 ] More information
+   **[71] Blairsville Medical Park**
+   [72] Outpatient Facilities, Laboratory & Imaging, Primary
+   Care
+   [73] 56 Club Lane
+   [74] Blairsville, PA 15717
+   [@75] 877-771-1234
+   [@76] More information
 
-   [ 77 ] Excela Advanced Pain
-   Center - Excela Square at
-   Frick
-   [ 78 ] Specialty Office or Clinic
-   [ 79 ] 508 South Church Street
-   [ 80 ] Suite 200
-   [ 81 ] Mount Pleasant, PA 15666
-   [ @ 82 ] 724-542-1937
-   [ @ 83 ] More information
+   **[77] Excela Advanced Pain Center -**
+   **Excela Square at Frick**
+   [78] Specialty Office or Clinic
+   [79] 508 South Church Street
+   [80] Suite 200
+   [81] Mount Pleasant, PA 15666
+   [@82] 724-542-1937
+   [@83] More information
 
-   [ 84 ] Excela Advanced Pain
-   Center - Excela Square at
-   Latrobe
-   [ 85 ] Specialty Office or Clinic
-   res1100 Excela Health Drive
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 383
+   **[84] Excela Advanced Pain Center -**
+   **Excela Square at Latrobe**
+   [85] Specialty Office or Clinic
+   [86] 100 Excela Health Drive
+   [87] Suite 103
+   [88] Latrobe, PA 15650
+   [@89] 724-804-1780
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   [320] 1010 Ligonier Street
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 355

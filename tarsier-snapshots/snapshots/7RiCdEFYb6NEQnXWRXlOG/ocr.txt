@@ -1,27 +1,18 @@
--------------------------------------------------------------------------------------------------------------------------------------
-[ # 1 ] ]         **[ 0 ] todos**
-                                                            [ $ 3 ]
-                                                                  [ $ 4 ] What needs to be done?
-
-                                                            [ $ 5 ]
-                                                                    [ $ 6 ] walk the dog
-
-                                                            [ $ 7 ]  [ $ 8 ] write some code
-
-                                                            [ $ 9 ]
-                                                                    [ $ 10 ] drink coffee
-
-                                                            [ $ 11 ]
-                                                                    [ $ 12 ] bbq steak
-
-                                                            [ $ 13 ]
-                                                                     [ $ 14 ] wash car
-
-                                                              [ 15 ] 3 items left! [ @ 16 ] All [ @ 17 ] Active [ @ 18 ] Comp [ $ 19 ] Clear completed
+------------------------------------------------------------------------------------------------------------------------
+[0] todos
 
 
-                                                                                        [ 20 ] Double - click to edit a todo
-                                                                                      [ 21 ] Created by the TodoMVC Team
-                                                                                        [ 22 ] Part of @ 23 ] ] TodoMVC
--------------------------------------------------------------------------------------------------------------------------------------
-Token count: 195
+
+                                       **[$6] walk the dog**
+                                       **[$8] write some code**
+                                       **[$10] drink coffee**
+                                       **[$12] bbq steak**
+                                       **[$14] wash car**
+                                   [15] 3 items left! [@16] All [@17] Active [@18] Completed [$19] Clear completed
+
+
+                                                     [20] Double-click to edit a todo
+                                                    [21] Created by the TodoMVC Team
+                                                       [22] Part of TodoMVC
+------------------------------------------------------------------------------------------------------------------------
+Token count: 114

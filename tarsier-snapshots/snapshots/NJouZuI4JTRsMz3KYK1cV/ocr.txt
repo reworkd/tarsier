@@ -1,14 +1,13 @@
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 0 ]
-                        [ $ 1 ] RAISE                    [ $ 3 ] BROKERS &      [ $ 4 ] THE   [ $ 5 ] DISCOVER
-                                      [ $ 2 ] INVESTING                                                          [ # 6 ]  Search by Symbol or Name      ] 07 [ عربي
-           DFM           CAPITAL                           MEMBERS            EXCHANGE            DFM
-           المالي دبي سوق
-                                                             [ 12 ]
-                                                              [ 15 ] -9.03 [ 13 ] [ 17 ] TOTAL         [ 19 ] TOTAL                 [ 21 ] TOTAL               MARKET
-      [ 8 ] MARKET [ 9 ] CLOSED V   [ 10 ] DFMGI  [ 11 ] 3969.17             VOLUME    [ 18 ] 92,143,984 VALUE   [ 20 ] 229,873,470.88 TRADES  [ 22 ] 5,318 [ @ 2 WATCH
-                                                              [ 16 ] -0.227 %
-                                                             [ 14 ]
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[$1] Raise                                    [$3] Brokers &                       [$4] The             [$5] Discover
+                                                         [$2] Investing
+                                    Capital                                          Members                       Exchange                        DFM
+                                                                                                                                               [16]
+      [8] [9]                                 [10] [11] [12] -9.03                                      [14] Total         [15]                               [17]                     [18] Total          [19]
+                                                                                                                                               Total
+      Market           closed                 DFMGI            3969.17                                  Volume             92,143,984                         229,873,470.88           Trades              5,318 [@20] Market
+                                                                                                                                               Value
+                                                                                                                                                                                                                    Watch
 
 
 
@@ -16,45 +15,42 @@
 
 
 
-
-                   **[ 24 ] Market Rules**
-
+               **[21] Market Rules**
 
 
 
-               [ 25 ] We are committed to providing issuers, brokers and investors an attractive, efficient and well - regulated market to raise capital and fulfill investment and
-               trading requirements.
-               [ 26 ] We comply with all requirements of the Securities and Commodities Authority's ( SCA ) Rules and Regulations. These rules are closely linked to the
-               operation of the trading system and should be read together with the SCA Rules and Regulations.
-               [ 27 ] Amendments to market rules and guidance are disseminated through the Market Announcements.
 
-               [ 28 ] MARKET RULES [ 29 ] INDEX RULES [ 30 ] RSS ELIGIBLE SECURITIES LIST
+          **[22] We are committed to providing issuers, brokers and investors an attractive, efficient and well-regulated market to raise capital and fulfill investment and**
+          **trading requirements.**
+          **[23] We comply with all requirements of the Securities and Commodities Authority s (SCA) Rules and Regulations. These rules are closely linked to the**
+          **operation of the trading system and should be read together with the SCA Rules and Regulations.**
+          **[24] Amendments to market rules and guidance are disseminated through the Market Announcements.**
 
-
-
-                   [ @ 31 ]  DFM                        Rules                            [ @ 35 ] < DFM
-                                          [ 33 ] Glossary                                                        [ 38 ] Module One
-                             [ 32 ] Glossary Rules                                                 [ 36 ] Module One [ 39 ] General Rules
-                                                                                                   [ 37 ] General Rules
-                                          [ 34 ] DOWNLOAD ↓                                                     [ 40 ] DOWNLOAD ✓
+          [25] Market Rules             [26] Index Rules            [27] RSS Eligible Securities List
 
 
-                   [ @ 41 ]  DFM           44 ] Module Two                               [ @ 47 ]  DFM
-                                          [                                                                     [ 50 ] Module Three
-                             [ 42 ] Module Two 45 ] Listing Rules                                  [ 48 ] Module Three
-                             [ 43 ] Listing Rules [                                                [ 49 ] Membership. [ 51 ] Membership, Trading, And
-                                                                                                  Trading Rules, And Derivatives Derivatives Rules
-                                          [ 46 ] DOWNLOAD ✓
-                                                                                                                [ 52 ] DOWNLOAD ↓
+                                       **[30] Glossary Rules**                                                                                           **[35] Module One**
+                 [@28] [29] Glossary Rules                                                                                        [@32] [33] Module One  **[36] General Rules**
+                                                                                                                                  [34] General Rules
+                                       [31] Download                                                                                                     [37] Download
 
 
-                   [ @ 53 ]  DFM           [ 56 ] Module Four
-                             [ 54 ] Module Four [ 57 ] Penalty Rules
-                             [ 55 ] Penalty Rules
-                                          [ 58 ] DOWNLOAD ✓
+                                       **[41] Module Two**                                                                                               **[47] Module Three**
+                 [@38] [39] Module Two                                                                                            [@44] [45] Module Three
+                 [40] Listing Rules    **[42] Listing Rules**                                                                     [46] Membership,       **[48] Membership, Trading, And Derivatives**
+                                                                                                                                  Trading, And Derivatives
+                                                                                                                                  Rules                  **Rules**
+                                       [43] Download
+                                                                                                                                                         [49] Download
 
 
-                       [ @ 59 ] VIEW ALL SCA'S RULES AND REGULATIONS
+                                       **[53] Module Four**
+                 [@50] [51] Module Four **[54] Penalty Rules**
+                 [52] Penalty Rules
+                                       [55] Download
+
+
+                       [@56] View all SCA's Rules and Regulations
 
 
 
@@ -64,28 +60,25 @@
 
 
 
-                                                               [ 68 ] TELEPHONE              [ 70 ] EMAIL                   [ 72 ] OFFICE HOURS
-                     DFM                                       [ 69 ] +971 4 305 5555         [ 71 ] customerservice@dfm.ae [ 73 ] 8:00 AM-4:00PM / Mon - Fri
-                      المالي دبي سوق
+                                                                                      [65] Telephone                                     [67] Email                                        [69] Office Hours
+                                                                                      **[66] +971 4 305 5555**                           **[68] customerservice dfm.ae**                   **[70] 8:00AM-4:00PM / Mon-Fri**
 
-               [ 60 ] Reception - Mezzanine Floor
-               [ 61 ] World Trade Centre ( Rashid Tower )
-                         Zayed Road                            [ 74 ] QUICK ACCESS          [ 79 ] QUICK LINKS            [ 83 ] RELATED COMPANIES
-               [ 62 ] Sheikh
-               [ 63 ] P.O. Box: 9700                           [ @ 75 ] Market Watch        [ @ 80 ] Listed Securities    [ @ 84 ] Nasdaq Dubai
-               [ 64 ] Dubai, United Arab Emirates              [ @ 76 ] Mobile app          [ @ 81 ] Foreign Ownership    [ @ 85 ] Borse Dubai Limited
-               [ 65 ] Makani Number: [ 66 ] 27608 91214                                                                                 LLC
-                                                               [ @ 77 ] eServices           [ @ 82 ] Investor Relations   [ @ 86 ] Dubai CSD
-                                                               [ @ 78 ] Contact Us                                        [ @ 87 ] Dubai Clear LLC
-                  [ @ 67 ] View Location
+          **[57] Reception - Mezzanine Floor**
+          **[58] World Trade Centre (Rashid Tower)**
+                                                                                      [71] Quick Access                               [76] Quick Links                                [80] Related Companies
+          **[59] Sheikh Zayed Road**
+          **[60] P.O. Box: 9700**                                                     **[@72] Market Watch**                          **[@77] Listed Securities**                     **[@81] Nasdaq Dubai**
+          **[61] Dubai, United Arab Emirates**                                        **[@73] Mobile app**                            **[@78] Foreign Ownership**                     **[@82] Borse Dubai Limited**
+          **[62] Makani Number: [63] 27608 91214**                                    **[@74] eServices**                             **[@79] Investor Relations**                    **[@83] Dubai CSD LLC**
+                                                                                      **[@75] Contact Us**                                                                            **[@84] Dubai Clear LLC**
+               **[@64] View Location**
 
 
 
-                                                                                         [ @ 90 ]      [ @ 91 ]       [ @ 92 ] [ 93 ] [ @ 94 ] [ @ 95 ] [ @ 96 ]
-               [ @ 88 ] Privacy Policy [ @ 89 ] Disclaimer                                   Download on the GET IT ON
-                                                                                             App Store     Google Play        in    ☑      f
+          [@85] Privacy Policy    [@86] Disclaimer
 
-                                                      [ 97 ] COPYRIGHT © 2023 DUBAI FINANCIAL MARKET PJSC. ALL RIGHTS RESERVED
-                                                                  [ @ 98 ]   SUGGESTIONS / COMPLAINTS
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1052
+                                                                          [94] COPYRIGHT       2023 DUBAI FINANCIAL MARKET PJSC. ALL RIGHTS RESERVED
+
+                                                                                                   [@95] Suggestions / Complaints
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 830

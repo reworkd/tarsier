@@ -1,508 +1,523 @@
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Bundesministerium Bundesamt
-              der Justiz     für Justiz
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[@0] Startseite                             [12] Aktualit tendienst
+       [@1] Gesetze / Verordnungen                 [13] Die meist tagesaktuell hier eingetragenen Hinweise auf neu im Bundesgesetzblatt verk ndete Dokumente k nnen als RSS-Feed abonniert werden. Klicken Sie hierzu
+       [2] Aktualit tendienst                      auf das RSS-Symbol             [14] in der Navigationsleiste bzw. Adresszeile Ihres Browsers oder auf den folgenden Link:
+       [@3] Titelsuche                             [15] RSS-Feed: Gesetze im Internet - Aktualit tendienst
+       [@4] Volltextsuche                          [18] Hinweis: [16] Bitte beachten Sie, dass der Internet Explorer 6.0 diese Funktionalit t nicht unterst tzt! Alternativ kann der RSS-Feed auch ber einen externen
+                                                   RSS-Reader abonniert werden.
+       [@5] Translations
+       [@6] Hinweise                               BGBl. 2023 I Nr. 336
+                                                   [19] Sechste Verordnung ber zwingende Arbeitsbedingungen f r die Pflegebranche vom 28. November 2023
+                                                   BGBl. 2023 I Nr. 335
+       [@7] Tastenkombinationen                    [21] Erste Verordnung zur           nderung der Justizaktenaufbewahrungsverordnung vom 28. November 2023
+                                                   BGBl. 2023 I Nr. 334
+       [@8] Landesrecht                            [23] Verordnung zur Regelung der Fortgeltung der gem                         24 Absatz 1 Aufenthaltsgesetz erteilten Aufenthaltserlaubnisse f r vor bergehend Schutzberechtigte aus der
+                                                   Ukraine vom 28. November 2023
+       [@9] Rechtsprechung im Internet             BGBl. 2023 I Nr. 333
+       [@10] Verwaltungsvorschriften im            [25] Verordnung zur Absenkung der Steuers tze im Jahr 2024 nach                           11 Absatz 2 des Luftverkehrsteuergesetzes vom 24. November 2023
+       Internet
+                                                   BGBl. 2023 I Nr. 332
+       [@11] N-Lex                                 [27] Verordnung zur         nderung der Umsatzsteuerzust ndigkeitsverordnung vom 24. November 2023
+                                                   BGBl. 2023 I Nr. 331
+                                                   [29] Verordnung zur Aufhebung der Signatarebenennungsverordnung vom 22. November 2023
+                                                   BGBl. 2023 I Nr. 330
+                                                   [31] Sechste Verordnung zur            nderung der Mindestunterhaltsverordnung vom 29. November 2023
+                                                   BGBl. 2023 I Nr. 329
+                                                   [33] Zweite Verordnung zur           nderung der EEMD-Gebietsvorgabenverordnung und der EEMD-Zulassungsverordnung vom 27. November 2023
+                                                   BGBl. 2023 I Nr. 328
+                                                   [35] Vierzehnte Verordnung zur             nderung der Sozialversicherungsentgeltverordnung vom 27. November 2023
+                                                   BGBl. 2023 I Nr. 327
+                                                   [37] Verordnung zur Ermittlung des Arbeitseinkommens aus der Land- und Forstwirtschaft f r das Jahr 2024 vom 27. November 2023
+                                                   BGBl. 2023 I Nr. 326
+                                                   [39] Verordnung ber den Vorbereitungsdienst f r den gehobenen Steuerdienst des Bundes vom 15. November 2023
+                                                   BGBl. 2023 I Nr. 325
+                                                   [41] Verordnung ber den Vorbereitungsdienst f r den mittleren Steuerdienst des Bundes vom 15. November 2023
+                                                   BGBl. 2023 I Nr. 324
+                                                   [43] Neunundzwanzigste Verordnung zur                  nderung der Zweihundertsiebzehnten Durchf hrungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren f r
+                                                   An- und Abfl ge nach Instrumentenflugregeln zum und vom Flughafen Hannover) vom 14. November 2023
+                                                   BGBl. 2023 I Nr. 323
+                                                   [45] Sechste Verordnung zur            nderung der Schwerbehinderten-Ausgleichsabgabeverordnung vom 24. November 2023
+                                                   BGBl. 2023 I Nr. 322
+                                                   [47] Verordnung ber ma gebende Rechengr                       en der Sozialversicherung f r 2024 vom 24. November 2023
+                                                   BGBl. 2023 I Nr. 321
+                                                   [49] Vierte Verordnung zur Anpassung der H he des Mindestlohns vom 24. November 2023
+                                                   BGBl. 2023 I Nr. 320
+                                                   [51] Verordnung zur         nderung der Zwangsvollstreckungsformular-Verordnung vom 24. November 2023
+                                                   BGBl. 2023 I Nr. 319
+                                                   [53] Verordnung zur         nderung der Notarfachpr fungsverordnung vom 24. November 2023
+                                                   BGBl. 2023 I Nr. 318
+                                                   [55] Zw lfte Verordnung zur           nderung der Verordnung ber Ausnahmen von stra enverkehrsrechtlichen Vorschriften f r Fahrzeuge und Fahrzeugkombinationen mit                                                     berl
+                                                    nge vom 22. November 2023
+                                                   BGBl. 2023 I Nr. 317
+                                                   [57] Achte Verordnung ber zwingende Arbeitsbedingungen im Ger stbauerhandwerk vom 22. November 2023
+                                                   BGBl. 2023 I Nr. 317
+                                                   [59] Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Ger stbauer-Handwerk im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 1.
+                                                   August 2023 vom 22. November 2023
+                                                   BGBl. 2023 I Nr. 316
+                                                   [61] Sechzehnte Verordnung zur              nderung der Zweihundertzweiundzwanzigsten Durchf hrungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren f r
+                                                   An- und Abfl ge nach Instrumentenflugregeln zum und vom Flughafen Bremen) vom 10. November 2023
+                                                   BGBl. 2023 I Nr. 315
+                                                   [63] Drittes Gesetz zur        nderung mautrechtlicher Vorschriften vom 21. November 2023
+                                                   BGBl. 2023 I Nr. 313
+                                                   [65] Viertes Gesetz zur         nderung des Chemikaliengesetzes vom 16. November 2023
+                                                   BGBl. 2023 I Nr. 311
+                                                   [67] Gesetz zur St rkung der risikobasierten Arbeitsweise der Zentralstelle f r Finanztransaktionsuntersuchungen vom 13. November 2023
+                                                   BGBl. 2023 I Nr. 310
+                                                   [69] Gesetz zur Einf hrung einer langfristigen Pauschalentlastung der L nder im Zusammenhang mit Fluchtmigration und zur                                            nderung des Mauergrundst cksgesetzes
+                                                   vom 13. November 2023
+                                                   BGBl. 2023 I Nr. 309
+                                                   [71] Gesetz zur Steigerung der Energieeffizienz und zur                   nderung des Energiedienstleistungsgesetzes vom 13. November 2023
+                                                   BGBl. 2023 I Nr. 309
+                                                   [73] Gesetz zur Steigerung der Energieeffizienz in Deutschland vom 13. November 2023
+                                                   BGBl. 2023 I Nr. 306
+                                                   [75] Zweite Verordnung zur           nderung der Gefl gel-Salmonellen-Verordnung vom 04. November 2023
+                                                   BGBl. 2023 I Nr. 305
+                                                   [77] F nfundsechzigste Verordnung zur Durchf hrung des                        172 des Bundesentsch digungsgesetzes vom 26. Oktober 2023
+                                                   BGBl. 2023 I Nr. 304
+                                                   [79] Verordnung ber die Gew hrung von F rderungen f r Ma nahmen im Sektor Wein vom 04. November 2023
+                                                   BGBl. 2023 I Nr. 304
+                                                   [81] Verordnung zur         nderung weinrechtlicher und hopfenrechtlicher Bestimmungen vom 04. November 2023
+                                                   BGBl. 2023 I Nr. 303
+                                                   [83] Verordnung ber die Zust ndigkeit f r Leistungen der Sozialen Entsch digung f r Berechtigte im Ausland vom 06. November 2023
+                                                   BGBl. 2023 I Nr. 302
+                                                   [85] Verordnung zur Berechnung von Einkommen sowie zur Nichtber cksichtigung von Einkommen und Verm gen bei den Besonderen Leistungen im Einzelfall im
+                                                   Sozialen Entsch digungsrecht vom 06. November 2023
+                                                   BGBl. 2023 I Nr. 301
+                                                   [87] Verordnung zur Durchf hrung des Berufsschadensausgleiches nach                              89 des Vierzehnten Buches Sozialgesetzbuch vom 06. November 2023
+                                                   BGBl. 2023 I Nr. 297
+                                                   [89] Vierte Verordnung zur          nderung der Pflegepersonaluntergrenzen-Verordnung vom 03. November 2023
+                                                   BGBl. 2023 I Nr. 295
+                                                   [91] F nfundvierzigste Verordnung zur               nderung der Zweihundertf nfundf nfzigsten Durchf hrungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Streckenf
+                                                   hrungen, Meldepunkten und Reiseflugh hen f r Fl ge nach Instrumentenflugregeln im kontrollierten Luftraum innerhalb der Bundesrepublik Deutschland) vom 19. Oktober
+                                                   2023
+                                                   BGBl. 2023 I Nr. 294
+                                                   [93] Gesetz zur       nderung des Gesetzes gegen Wettbewerbsbeschr nkungen und anderer Gesetze vom 25. Oktober 2023
+                                                   BGBl. 2023 I Nr. 292
+                                                   [95] Achtundzwanzigste Verordnung zur                 nderung der FS-An- und Abflug-Kostenverordnung vom 30. Oktober 2023
+                                                   BGBl. 2023 I Nr. 291
+                                                   [97] Bekanntmachung der Neufassung des Passgesetzes vom 30. Oktober 2023
+                                                   BGBl. 2023 I Nr. 290
+                                                   [99] Verordnung zur         nderung der Personalausweisverordnung, der Passverordnung, der Aufenthaltsverordnung sowie weiterer Vorschriften vom 30. Oktober 2023
+                                                   BGBl. 2023 I Nr. 289
+                                                   [101] Elftes Gesetz zur         nderung des Weingesetzes vom 24. Oktober 2023
+                                                   BGBl. 2023 I Nr. 287
+                                                   [103] Verordnung zur Bestimmung der f r die Fortschreibung der Regelbedarfsstufen nach                                 28a und f r die Fortschreibung des Teilbetrags nach                    34 Absatz 3a Satz 1
+                                                   des Zw lften Buches Sozialgesetzbuch ma geblichen Prozents tze sowie zur Erg nzung der Anlage zu                                           28 und 34 des Zw lften Buches Sozialgesetzbuch f r das Jahr
+                                                   2024 vom 24. Oktober 2023
+                                                   BGBl. 2023 I Nr. 286
+                                                   [105] Verordnung zur          nderung der Barrierefreie-Informationstechnik-Verordnung vom 24. Oktober 2023
+                                                   BGBl. 2023 I Nr. 285
+                                                   [107] Verordnung ber die Festsetzung der L nderschl sselzahlen und die Ermittlung der Schl sselzahlen f r die Aufteilung des Gemeindeanteils an der Umsatzsteuer
+                                                   nach     5a des Gemeindefinanzreformgesetzes f r die Jahre 2024, 2025 und 2026 vom 17. Oktober 2023
+                                                   BGBl. 2023 I Nr. 284
+                                                   [109] Verordnung ber die Ermittlung der Schl sselzahlen f r die Aufteilung des Gemeindeanteils an der Einkommensteuer f r die Jahre 2024, 2025 und 2026 vom 17.
+                                                   Oktober 2023
+                                                   BGBl. 2023 I Nr. 282
+                                                   [111] Verordnung zur Weiterentwicklung und Anpassung der Vorbereitungsdienste f r den gehobenen nichttechnischen Zolldienst und f r den mittleren nichttechnischen
+                                                   Zolldienst des Bundes vom 19. Oktober 2023
+                                                   BGBl. 2023 I Nr. 282
+                                                   [113] Verordnung ber den Vorbereitungsdienst f r den gehobenen nichttechnischen Zolldienst des Bundes vom 19. Oktober 2023
+                                                   BGBl. 2023 I Nr. 281
+                                                   [115] Verordnung zur         nderung der Erhaltungsmischungsverordnung und der GAPInVeKoS-Verordnung vom 17. Oktober 2023
+                                                   BGBl. 2023 I Nr. 280
+                                                   [117] Gesetz zur       nderung des Geb udeenergiegesetzes, zur                    nderung des B rgerlichen Gesetzbuches, zur                   nderung der Verordnung ber Heizkostenabrechnung, zur
+                                                   nderung der Betriebskostenverordnung und zur                   nderung der Kehr- und berpr fungsordnung vom 16. Oktober 2023
+                                                   BGBl. 2023 I Nr. 278
+                                                   [119] Zweite Verordnung zur            nderung der Satellitendatensicherheitsverordnung vom 16. Oktober 2023
+                                                   BGBl. 2023 I Nr. 277
+                                                   [121] Verordnung zum Schutz von Best nden zur Erzeugung oder zum Erhalt von Obstanbaumaterial sowie Erwerbsobstbest nden vor besonderen unionsgeregelten
+                                                   Nicht-Quarant neschadorganismen vom 13. Oktober 2023
+                                                   BGBl. 2023 I Nr. 277
+                                                   [123] Verordnung zur Neuregelung pflanzengesundheitsrechtlicher Vorschriften vom 13. Oktober 2023
+                                                   BGBl. 2023 I Nr. 276
+                                                   [125] Elfte Verordnung zur          nderung der Verordnung ber Ausnahmen von stra enverkehrsrechtlichen Vorschriften f r Fahrzeuge und Fahrzeugkombinationen mit                                                     berl
+                                                   nge vom 11. Oktober 2023
+                                                   BGBl. 2023 I Nr. 275
+                                                   [127] Verordnung ber die Mitwirkung der Helferinnen und Helfer im Technischen Hilfswerk vom 10. Oktober 2023
+                                                   BGBl. 2023 I Nr. 275
+                                                   [129] Verordnung zur Abl sung der THW-Mitwirkungsverordnung vom 10. Oktober 2023
+                                                   BGBl. 2023 I Nr. 274
+                                                   [131] Verordnung ber die Abgabes tze und das Punktesystem des Einwegkunststofffonds vom 11. Oktober 2023
+                                                   BGBl. 2023 I Nr. 273
+                                                   [133] Zweite Verordnung zur Gew hrung einer au ergew hnlichen Anpassungsbeihilfe f r Erzeuger in bestimmten Agrarsektoren vom 11. Oktober 2023
+                                                   BGBl. 2023 I Nr. 272
+                                                   [135] Gesetz zur Umsetzung der Richtlinie (EU) 2020/1828 ber Verbandsklagen zum Schutz der Kollektivinteressen der Verbraucher und zur Aufhebung der Richtlinie
+                                                   2009/22/EG sowie zur           nderung des Kapitalanleger-Musterverfahrensgesetzes vom 08. Oktober 2023
+                                                   BGBl. 2023 I Nr. 271
+                                                   [137] Gesetz zur Modernisierung des Pass-, des Ausweis- und des ausl nderrechtlichen Dokumentenwesens vom 08. Oktober 2023
+                                                   BGBl. 2023 I Nr. 268
+                                                   [139] Verordnung zur          nderung der Versorgungsreserveabrufverordnung vom 04. Oktober 2023
+                                                   BGBl. 2023 I Nr. 267
+                                                   [141] Verordnung zur Krisendestillation von Wein vom 29. September 2023
+                                                   BGBl. 2023 I Nr. 266
+                                                   [143] Vierundvierzigste Verordnung zur               nderung der Zweihundertf nfundf nfzigsten Durchf hrungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Streckenf
+                                                   hrungen, Meldepunkten und Reiseflugh hen f r Fl ge nach Instrumentenflugregeln im kontrollierten Luftraum innerhalb der Bundesrepublik Deutschland) vom 13.
+                                                   September 2023
+                                                   BGBl. 2023 I Nr. 265
+                                                   [145] Verordnung zur Kennzeichnung von Bio-Lebensmitteln in gemeinschaftlichen Verpflegungseinrichtungen und zur                                           nderung der       ko-Kennzeichenverordnung vom 27.
+                                                   September 2023
+                                                   BGBl. 2023 I Nr. 265
+                                                   [147] Verordnung zur Regelung der Produktion, der Kontrolle und der Kennzeichnung von Bio-Zutaten und Bio-Erzeugnissen sowie zur Auszeichnung des Gesamtanteils
+                                                   an Bio-Lebensmitteln in gemeinschaftlichen Verpflegungseinrichtungen vom 27. September 2023
+                                                   BGBl. 2023 I Nr. 264
+                                                   [149] Zwanzigste Verordnung zur              nderung der Au enwirtschaftsverordnung vom 27. September 2023
+                                                   BGBl. 2023 I Nr. 263
+                                                   [151] Zehnte Verordnung zur            nderung der Zweihundertsechsten Durchf hrungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren f r An- und Abfl ge
+                                                   nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Emden) vom 22. September 2023
+                                                   BGBl. 2023 I Nr. 261
+                                                   [153] Verordnung ber die Pr fung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Gepr fter Berufsspezialist f r Kraftfahrzeug-Servicetechnik oder Gepr fte
+                                                   Berufsspezialistin f r Kraftfahrzeug-Servicetechnik vom 25. September 2023
+                                                   BGBl. 2023 I Nr. 260
+                                                   [155] Verordnung zur          nderung der Verordnung ber die Satzung der Bundesanstalt f r Finanzmarktstabilisierung vom 21. September 2023
+                                                   BGBl. 2023 I Nr. 259
+                                                   [157] Verordnung zur          nderung der Differenzbetragsanpassungsverordnung vom 22. September 2023
+                                                   BGBl. 2023 I Nr. 258
+                                                   [159] Verordnung ber die Pr fung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Gepr fter Berufsspezialist f r Vertrieb oder Gepr fte Berufsspezialistin f r
+                                                   Vertrieb vom 21. September 2023
+                                                   BGBl. 2023 I Nr. 257
+                                                   [161] Verordnung ber die Pr fung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Gepr fter Fachwirt f r Au enwirtschaft oder Gepr fte Fachwirtin f r Au
+                                                   enwirtschaft      Bachelor Professional in Foreign Trade vom 21. September 2023
+                                                   BGBl. 2023 I Nr. 256
+                                                   [163] Verordnung ber die Pr fung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Gepr fter Fachwirt f r Energiewirtschaft oder Gepr fte Fachwirtin f r
+                                                   Energiewirtschaft        Bachelor-Professional in Energiewirtschaft vom 21. September 2023
+                                                   BGBl. 2023 I Nr. 255
+                                                   [165] Verordnung ber die Pr fung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Gepr fter Berufsspezialist f r fremdsprachige Kommunikation oder Gepr
+                                                   fte Berufsspezialistin f r fremdsprachige Kommunikation vom 21. September 2023
+                                                   BGBl. 2023 I Nr. 254
+                                                   [167] Verordnung ber die Pr fung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Gepr fter Fachwirt f r Marketing oder Gepr fte Fachwirtin f r Marketing
+                                                   Bachelor Professional in Marketing vom 21. September 2023
+                                                   BGBl. 2023 I Nr. 253
+                                                   [169] Verordnung ber die Pr fung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Gepr fter Fachwirt f r G terverkehr und Logistik oder Gepr fte
+                                                   Fachwirtin f r G terverkehr und Logistik              Bachelor Professional in Transport Management and Logistics vom 21. September 2023
+                                                   BGBl. 2023 I Nr. 252
+                                                   [171] Verordnung ber die Pr fung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Gepr fter Meister f r Medienproduktion Bild und Ton oder Gepr fte
+                                                   Meisterin f r Medienproduktion Bild und Ton                 Bachelor Professional in Medienproduktion Bild und Ton vom 21. September 2023
+                                                   BGBl. 2023 I Nr. 251
+                                                   [173] Verordnung ber die Pr fung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Gepr fter Fachwirt f r Logistiksysteme oder Gepr fte Fachwirtin f r
+                                                   Logistiksysteme         Bachelor Professional in Logistiksysteme vom 21. September 2023
+                                                   BGBl. 2023 I Nr. 250
+                                                   [175] Vierte Verordnung zur           nderung der Zweihunderteinundf nfzigsten Durchf hrungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren f r An- und
+                                                   Abfl ge nach Instrumentenflugregeln zum und vom Hubschraubersonderlandeplatz Oberschlei heim) vom 13. September 2023
+                                                   BGBl. 2023 I Nr. 249
+                                                   [177] Erste Verordnung zur           nderung der Zweiten Verordnung zur vor bergehenden Abweichung von der Binnenschifffahrt-Sportbootvermietungsverordnung vom 13.
+                                                   September 2023
+                                                   BGBl. 2023 I Nr. 248
+                                                   [179] Besondere Geb hrenverordnung des Bundesministeriums f r Wirtschaft und Klimaschutz f r individuell zurechenbare ffentliche Leistungen in seinem sowie dem
+                                                   Zust ndigkeitsbereich des Bundesamts f r Wirtschaft und Ausfuhrkontrolle f r die Kriegswaffenkontrolle, Ausfuhrkontrolle und Investitionspr fung vom 07. September 2023
+                                                   BGBl. 2023 I Nr. 247
+                                                   [181] Erste Verordnung zur           nderung der Besonderen Geb hrenverordnung des Bundesministeriums f r Umwelt, Naturschutz und nukleare Sicherheit f r individuell
+                                                   zurechenbare ffentliche Leistungen in dessen Zust ndigkeitsbereich vom 05. September 2023
+                                                   BGBl. 2023 I Nr. 241
+                                                   [183] Berichtigung der Verordnung zur Neuordnung der Berufsausbildung zum Verfahrensmechaniker f r Kunststoff- und Kautschuktechnik und zur
+                                                   Verfahrensmechanikerin f r Kunststoff- und Kautschuktechnik vom 06. September 2023
+                                                   BGBl. 2023 I Nr. 240
+                                                   [185] K nstlersozialabgabe-Verordnung 2024 vom 04. September 2023
+                                                   BGBl. 2023 I Nr. 239
+                                                   [187] Verordnung ber die Meisterpr fung in den Teilen I und II im Raumausstatter-Handwerk vom 04. September 2023
+                                                   BGBl. 2023 I Nr. 238
+                                                   [189] Zweite Verordnung zur            nderung der GAP-Direktzahlungen-Verordnung vom 29. August 2023
+                                                   BGBl. 2023 I Nr. 237
+                                                   [191] Siebte Verordnung zur            nderung der Winterbesch ftigungs-Verordnung vom 29. August 2023
+                                                   BGBl. 2023 I Nr. 236
+                                                   [193] Verordnung zum Erlass einer Stra enverkehr-Transportbegleitungsverordnung und zur                                   nderung stra enverkehrsrechtlicher Vorschriften vom 28. August 2023
+                                                   BGBl. 2023 I Nr. 236
+                                                   [195] Stra enverkehr-Transportbegleitungsverordnung vom 28. August 2023
+                                                   BGBl. 2023 I Nr. 235
+                                                   [197] Zweite Verordnung zur            nderung der Zweihundertsiebenundvierzigsten Durchf hrungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren f r An-
+                                                   und Abfl ge nach Instrumentenflugregeln zum und vom Flughafen Berlin Brandenburg) vom 23. August 2023
+                                                   BGBl. 2023 I Nr. 234
+                                                   [199] Dreiundvierzigste Verordnung zur               nderung der Zweihundertf nfundf nfzigsten Durchf hrungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Streckenf
+                                                   hrungen, Meldepunkten und Reiseflugh hen f r Fl ge nach Instrumentenflugregeln im kontrollierten Luftraum innerhalb der Bundesrepublik Deutschland) vom 17. August
+                                                   2023
+                                                   BGBl. 2023 I Nr. 233
+                                                   [201] Verordnung zur Weiterentwicklung der Fachkr fteeinwanderung vom 30. August 2023
+                                                   BGBl. 2023 I Nr. 229
+                                                   [203] Verordnung ber die Zust ndigkeit des Bundesamtes f r Wirtschaft und Ausfuhrkontrolle f r die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem
+                                                   Strompreisbremsegesetz und dem Erdgas-W rme-Preisbremsengesetz vom 22. August 2023
+                                                   BGBl. 2023 I Nr. 228
+                                                   [205] Zweite Verordnung zur            nderung der Eingliederungsmittel-Verordnung 2023 vom 22. August 2023
+                                                   BGBl. 2023 I Nr. 227
+                                                   [207] Bekanntmachung der Neufassung der Gefahrgutverordnung Stra e, Eisenbahn und Binnenschifffahrt vom 18. August 2023
+                                                   BGBl. 2023 I Nr. 226
+                                                   [209] Vierte Verordnung zur           nderung der Zweihundertdreiunddrei igsten Durchf hrungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren f r An- und
+                                                   Abfl ge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Wilhelmshaven JadeWeserAirport ) vom 08. August 2023
+                                                   BGBl. 2023 I Nr. 225
+                                                   [211] Sechsundsechzigste Verordnung zur                  nderung der Zweihundertzw lften Durchf hrungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren f r An-
+                                                   und Abfl ge nach Instrumentenflugregeln zum und vom Flughafen Frankfurt am Main) vom 08. August 2023
+                                                   BGBl. 2023 I Nr. 224
+                                                   [213] Neunte Verordnung zur             nderung der Zweihundertsechsten Durchf hrungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren f r An- und Abfl ge
+                                                   nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Emden) vom 08. August 2023
+                                                   BGBl. 2023 I Nr. 223
+                                                   [215] Dritte Verordnung zur          nderung der Energiesicherungstransportverordnung vom 17. August 2023
+                                                   BGBl. 2023 I Nr. 222
+                                                   [217] Verordnung zur Anpassung des Vergaberechts an die Einf hrung neuer elektronischer Standardformulare ( eForms ) f r EU-Bekanntmachungen und an weitere
+                                                   europarechtliche Anforderungen vom 17. August 2023
+                                                   BGBl. 2023 I Nr. 221
+                                                   [219] Gesetz zur Erleichterung der baulichen Anpassung von Tierhaltungsanlagen an die Anforderungen des Tierhaltungskennzeichnungsgesetzes vom 28. Juli 2023
+                                                   BGBl. 2023 I Nr. 220
+                                                   [221] Gesetz zur Kennzeichnung von Lebensmitteln mit der Haltungsform der Tiere, von denen die Lebensmittel gewonnen wurden vom 17. August 2023
+                                                   BGBl. 2023 I Nr. 219
+                                                   [223] Gesetz zur        nderung des ko-Landbaugesetzes, des ko-Kennzeichengesetzes und des Gesetzes zur                                         nderung des Tierschutzgesetzes               Verbot des K kent tens
+                                                   vom 17. August 2023
+                                                   BGBl. 2023 I Nr. 218
+                                                   [225] Gesetz zur        nderung des Verkehrsstatistikgesetzes und des Berufskraftfahrerqualifikationsgesetzes sowie des Gesetzes zur                                      berarbeitung des Sanktionenrechts
+                                                   Ersatzfreiheitsstrafe, Strafzumessung, Auflagen und Weisungen sowie Unterbringung in einer Entziehungsanstalt vom 16. August 2023
+                                                   BGBl. 2023 I Nr. 217
+                                                   [227] Gesetz zur Weiterentwicklung der Fachkr fteeinwanderung vom 16. August 2023
+                                                   BGBl. 2023 I Nr. 215
+                                                   [229] Achte Verordnung zur            nderung der Europawahlordnung vom 11. August 2023
+                                                   BGBl. 2023 I Nr. 214
+                                                   [231] Berichtigung des Gesetzes zur St rkung der Digitalisierung im Bauleitplanverfahren und zur                                nderung weiterer Vorschriften vom 08. August 2023
+                                                   BGBl. 2023 I Nr. 211
+                                                   [233] Verordnung ber die Organisation der nach dem Hinweisgeberschutzgesetz einzurichtenden externen Meldestelle des Bundes vom 07. August 2023
+                                                   BGBl. 2023 I Nr. 210
+                                                   [235] Zw lfte Verordnung zur            nderung der Verordnung zur Durchf hrung des                    206 der Bundesrechtsanwaltsordnung vom 07. August 2023
+                                                   BGBl. 2023 I Nr. 209
+                                                   [237] Zweite Verordnung zur            nderung der Lebensmittelinformations-Durchf hrungsverordnung vom 03. August 2023
+                                                   BGBl. 2023 I Nr. 208
+                                                   [239] Eisenbahnverkehrs-Verordnung vom 04. August 2023
+                                                   BGBl. 2023 I Nr. 207
+                                                   [241] Verordnung zur Regelung weiterer Voraussetzungen der Erreichbarkeit erwerbsf higer Leistungsberechtigter nach dem Zweiten Buch Sozialgesetzbuch vom 28. Juli
+                                                   2023
+                                                   BGBl. 2023 I Nr. 206
+                                                   [243] Verordnung zur Durchf hrung des ko-Landbaugesetzes vom 26. Juli 2023
+                                                   BGBl. 2023 I Nr. 206
+                                                   [245] Verordnung zur Durchf hrung von Vorschriften ber den kologischen Landbau vom 26. Juli 2023
+                                                   BGBl. 2023 I Nr. 205
+                                                   [247] Gesetz zur Anpassung des Allgemeinen Eisenbahngesetzes an die Verordnung (EU) 2021/782 des Europ ischen Parlaments und des Rates vom 29. April 2021 ber
+                                                   die Rechte und Pflichten der Fahrg ste im Eisenbahnverkehr sowie zur                          nderung des Einf hrungsgesetzes zum B rgerlichen Gesetzbuche vom 26. Juli 2023
+                                                   BGBl. 2023 I Nr. 204
+                                                   [249] Gesetz zur Regelung einzelner dem Schutz der finanziellen Interessen der Union dienender Bestimmungen im Rahmen der Gemeinsamen Agrarpolitik, zur                                                           nderung
+                                                   des Bet ubungsmittelgesetzes sowie zur Aufhebung weiterer Vorschriften vom 26. Juli 2023
+                                                   BGBl. 2023 I Nr. 204
+                                                   [251] Gesetz zur Regelung einzelner dem Schutz der finanziellen Interessen der Union dienender Bestimmungen im Rahmen der Gemeinsamen Agrarpolitik vom 26. Juli
+                                                   2023
+                                                   BGBl. 2023 I Nr. 203
+                                                   [253] Gesetz zur        berarbeitung des Sanktionenrechts               Ersatzfreiheitsstrafe, Strafzumessung, Auflagen und Weisungen sowie Unterbringung in einer Entziehungsanstalt
+                                                   vom 26. Juli 2023
+                                                   BGBl. 2023 I Nr. 202
+                                                   [255] Gesetz zur        nderung des Erdgas-W rme-Preisbremsengesetzes, zur                         nderung des Strompreisbremsegesetzes sowie zur                       nderung weiterer energiewirtschaftlicher,
+                                                   umweltrechtlicher und sozialrechtlicher Gesetze vom 26. Juli 2023
+                                                   BGBl. 2023 I Nr. 201
+                                                   [257] Verordnung zur          nderung der Aufenthaltsverordnung vom 27. Juli 2023
+                                                   BGBl. 2023 I Nr. 200
+                                                   [259] Zweite Verordnung zur            nderung der Verordnung zur Festlegung weiterer Bestimmungen zur Treibhausgasminderung bei Kraftstoffen vom 13. Juli 2023
+                                                   BGBl. 2023 I Nr. 199
+                                                   [261] Verordnung zum Neuerlass der Fahrzeug-Zulassungsverordnung und zur                                nderung weiterer Vorschriften vom 20. Juli 2023
+                                                   BGBl. 2023 I Nr. 198
+                                                   [263] Berichtigung des Gesetzes zur              nderung des Bundeswahlgesetzes und des F nfundzwanzigsten Gesetzes zur                                  nderung des Bundeswahlgesetzes vom 20. Juli
+                                                   2023
+                                                   BGBl. 2023 I Nr. 197
+                                                   [265] Gesetz zur Bek mpfung von Lieferengp ssen bei patentfreien Arzneimitteln und zur Verbesserung der Versorgung mit Kinderarzneimitteln vom 19. Juli 2023
+                                                   BGBl. 2023 I Nr. 196
+                                                   [267] Vierte Verordnung zur           nderung der Tabakerzeugnisverordnung vom 24. Juli 2023
+                                                   BGBl. 2023 I Nr. 194
+                                                   [269] Drittes Gesetz zur         nderung des Tabakerzeugnisgesetzes vom 19. Juli 2023
+                                                   BGBl. 2023 I Nr. 193
+                                                   [271] Luftsicherheits-Schulungsverordnung vom 06. Juli 2023
+                                                   BGBl. 2023 I Nr. 192
+                                                   [273] Verordnung zur Neuregelung der Anzeige von Versicherungsf llen in der gesetzlichen Unfallversicherung vom 17. Juli 2023
+                                                   BGBl. 2023 I Nr. 192
+                                                   [275] Verordnung ber die Anzeige von Versicherungsf llen in der gesetzlichen Unfallversicherung vom 17. Juli 2023
+                                                   BGBl. 2023 I Nr. 191
+                                                   [277] Gesetz zur St rkung der Aus- und Weiterbildungsf rderung vom 17. Juli 2023
+                                                   BGBl. 2023 I Nr. 190
+                                                   [279] Gesetz zur        nderung des Bev lkerungsstatistikgesetzes, des Infektionsschutzgesetzes, personenstands- und dienstrechtlicher Regelungen sowie der
+                                                   Medizinprodukte-Abgabeverordnung vom 17. Juli 2023
+                                                   BGBl. 2023 I Nr. 189
+                                                   [281] F nfte Verordnung zur            nderung der Kanalsteurertarifverordnung vom 14. Juli 2023
+                                                   BGBl. 2023 I Nr. 188
+                                                   [283] Vierzehnte Verordnung zur             nderung der Lotstarifverordnung vom 14. Juli 2023
+                                                   BGBl. 2023 I Nr. 187
+                                                   [285] Verordnung ber die Pr fung zum anerkannten Fortbildungsabschluss Bachelor Professional in Stra enbetriebsmanagement vom 12. Juli 2023
+                                                   BGBl. 2023 I Nr. 186
+                                                   [287] Verordnung zur          nderung der Ersatzbaustoffverordnung und der Brennstoffwechsel-Gasmangellage-Verordnung vom 13. Juli 2023
+                                                   BGBl. 2023 I Nr. 185
+                                                   [289] Zweite Verordnung zur            nderung der Zertifizierte-Mediatoren-Ausbildungsverordnung vom 11. Juli 2023
+                                                   BGBl. 2023 I Nr. 184
+                                                   [291] Gesetz zur        nderung des LNG-Beschleunigungsgesetzes und zur                        nderung des Energiewirtschaftsgesetzes und zur                   nderung des Baugesetzbuchs vom 12. Juli
+                                                   2023
+                                                   BGBl. 2023 I Nr. 183
+                                                   [293] Berichtigung des Gesetzes zur Umsetzung von Artikel 8 Absatz 1 bis 7 der Richtlinie (EU) 2019/904 des Europ ischen Parlaments und des Rates vom 5. Juni 2019
+                                                   ber die Verringerung der Auswirkungen bestimmter Kunststoffprodukte auf die Umwelt vom 07. Juli 2023
+                                                   BGBl. 2023 I Nr. 182
+                                                   [295] Zweite Verordnung zur            nderung der Obst-Gem se-Erzeugerorganisationendurchf hrungsverordnung vom 11. Juli 2023
+                                                   BGBl. 2023 I Nr. 180
+                                                   [297] Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen f r Unterkunft und Heizung f r das Jahr 2023 vom 07. Juli 2023
+                                                   BGBl. 2023 I Nr. 179
+                                                   [299] Verordnung zur          nderung der Heilverfahrensverordnung vom 04. Juli 2023
+                                                   BGBl. 2023 I Nr. 178
+                                                   [301] Zweiundvierzigste Verordnung zur                nderung der Zweihundertf nfundf nfzigsten Durchf hrungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Streckenf
+                                                   hrungen, Meldepunkten und Reiseflugh hen f r Fl ge nach Instrumentenflugregeln im kontrollierten Luftraum innerhalb der Bundesrepublik Deutschland) vom 29. Juni
+                                                   2023
+                                                   BGBl. 2023 I Nr. 173
+                                                   [303] Dreizehnte Verordnung zur             nderung der Ferienreiseverordnung vom 28. Juni 2023
+                                                   BGBl. 2023 I Nr. 172
+                                                   [305] Gesetz zur Regelung der Entsendung von Kraftfahrern und Kraftfahrerinnen im Stra enverkehrssektor und zur grenz berschreitenden Durchsetzung des
+                                                   Entsenderechts vom 28. Juni 2023
+                                                   BGBl. 2023 I Nr. 171
+                                                   [307] Siebente Verordnung zur             nderung der Verordnung ber die Befahrungsabgaben auf dem Nord-Ostsee-Kanal vom 28. Juni 2023
+                                                   BGBl. 2023 I Nr. 170
+                                                   [309] Verordnung zur          nderung der Verordnung zur Gleichstellung von Pr fungszeugnissen der Staatlichen Zeichenakademie Hanau mit den Zeugnissen ber das
+                                                   Bestehen der Abschluss- und Gesellenpr fung in Ausbildungsberufen vom 26. Juni 2023
+                                                   BGBl. 2023 I Nr. 169
+                                                   [311] Verordnung zur         nderung der Ersten Bundesmeldedaten bermittlungsverordnung, der Zweiten Bundesmeldedaten bermittlungsverordnung und der
+                                                   Bundesmeldedatendigitalisierungsverordnung vom 23. Juni 2023
+                                                   BGBl. 2023 I Nr. 168
+                                                   [313] Siebenundzwanzigste Verordnung zur                   nderung der Hundertf nfundsechzigsten Durchf hrungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren
+                                                   f r An- und Abfl ge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz M nchengladbach) vom 02. Juni 2023
+                                                   BGBl. 2023 I Nr. 167
+                                                   [315] Gesetz zur        nderung des Energiesicherungsgesetzes und des Gesetzes gegen Wettbewerbsbeschr nkungen vom 23. Juni 2023
+                                                   BGBl. 2023 I Nr. 166
+                                                   [317] Vierundf nfzigste Verordnung ber das anzurechnende Einkommen nach dem Bundesversorgungsgesetz vom 21. Juni 2023
+                                                   BGBl. 2023 I Nr. 165
+                                                   [319] Achtundzwanzigste Verordnung zur Anpassung des Bemessungsbetrages und von Geldleistungen nach dem Bundesversorgungsgesetz vom 21. Juni 2023
+                                                   BGBl. 2023 I Nr. 164
+                                                   [321] Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und zur Bestimmung weiterer Werte zum 1. Juli 2023 vom 21. Juni 2023
+                                                   BGBl. 2023 I Nr. 163
+                                                   [323] Erste Verordnung zur           nderung der Brennstoffemissionshandelsverordnung vom 21. Juni 2023
+                                                   BGBl. 2023 I Nr. 162
+                                                   [325] Vierzehnte Verordnung zur             nderung der Auslandszuschlagsverordnung vom 20. Juni 2023
+                                                   BGBl. 2023 I Nr. 160
+                                                   [327] Zweite Verordnung zur            nderung der Amateurfunkverordnung vom 21. Juni 2023
+                                                   BGBl. 2023 I Nr. 159
+                                                   [329] Zweite Verordnung zur Novellierung der Trinkwasserverordnung vom 20. Juni 2023
+                                                   BGBl. 2023 I Nr. 158
+                                                   [331] Verordnung zur          nderung der Werkst tten-Mitwirkungsverordnung und der Versorgungsmedizin-Verordnung vom 19. Juni 2023
+                                                   BGBl. 2023 I Nr. 157
+                                                   [333] Verordnung zur          nderung der Steuerberaterplattform- und -postfachverordnung vom 19. Juni 2023
+                                                   BGBl. 2023 I Nr. 156
+                                                   [335] Dritte Verordnung zur          nderung der Lades ulenverordnung vom 17. Juni 2023
+                                                   BGBl. 2023 I Nr. 155
+                                                   [337] Gesetz zur Unterst tzung und Entlastung in der Pflege vom 19. Juni 2023
+                                                   BGBl. 2023 I Nr. 154
+                                                   [339] Gesetz zur Umsetzung der Richtlinie (EU) 2021/2101 im Hinblick auf die Offenlegung von Ertragsteuerinformationen durch bestimmte Unternehmen und
+                                                   Zweigniederlassungen sowie zur               nderung des Verbraucherstreitbeilegungsgesetzes und des Pflichtversicherungsgesetzes vom 19. Juni 2023
+                                                   BGBl. 2023 I Nr. 153
+                                                   [341] Berichtigung der Verordnung zur               nderung abfallrechtlicher Verordnungen vom 15. Juni 2023
+                                                   BGBl. 2023 I Nr. 152
+                                                   [343] Verordnung ber die Gliederung des Jahresabschlusses von Wohnungsunternehmen vom 14. Juni 2023
+                                                   BGBl. 2023 I Nr. 151
+                                                   [345] Verordnung ber die Berufsausbildung zum Kunststoff- und Kautschuktechnologen und zur Kunststoff- und Kautschuktechnologin vom 14. Juni 2023
+                                                   BGBl. 2023 I Nr. 150
+                                                   [347] Verordnung zur Festlegung von Flugverfahren f r An- und Abfl ge nach Instrumentenflugregeln zum und vom Flughafen Frankfurt am Main aufgrund der Au
+                                                   erbetriebnahme der Navigationsanlage Ried DVOR/DME und der Inbetriebnahme der Navigationsanlage Frankenstein DVOR/DME vom 19. April 2023
+                                                   BGBl. 2023 I Nr. 149
+                                                   [349] Verordnung zur          nderung der Verordnung zum Schutz vor sch dlichen Wirkungen nichtionisierender Strahlung bei der Anwendung am Menschen vom 12. Juni 2023
+                                                   BGBl. 2023 I Nr. 148
+                                                   [351] Verordnung zur Modernisierung der Pr fungsverfahren im Recht der Heilberufe vom 07. Juni 2023
+                                                   BGBl. 2023 I Nr. 146
+                                                   [353] Gesetz zur F rderung eines inklusiven Arbeitsmarkts vom 06. Juni 2023
+                                                   BGBl. 2023 I Nr. 143
+                                                   [355] Dreiundzwanzigste Verordnung zur                 nderung von Anlagen des Bet ubungsmittelgesetzes vom 01. Juni 2023
+                                                   BGBl. 2023 I Nr. 142
+                                                   [357] Einundvierzigste Verordnung zur               nderung der Zweihundertf nfundf nfzigsten Durchf hrungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Streckenf
+                                                   hrungen, Meldepunkten und Reiseflugh hen f r Fl ge nach Instrumentenflugregeln im kontrollierten Luftraum innerhalb der Bundesrepublik Deutschland) vom 22. Mai
+                                                   2023
+                                                   BGBl. 2023 I Nr. 140
+                                                   [359] Gesetz f r einen besseren Schutz hinweisgebender Personen sowie zur Umsetzung der Richtlinie zum Schutz von Personen, die Verst                                                   e gegen das Unionsrecht
+                                                   melden vom 31. Mai 2023
+                                                   BGBl. 2023 I Nr. 137
+                                                   [361] Verordnung f r die Durchf hrung der Abschlusspr fung im staatlich anerkannten Ausbildungsberuf Verwaltungsfachangestellte und Verwaltungsfachangestellter
+                                                   Fachrichtung Bundesverwaltung               im Gesch ftsbereich des Bundesministeriums der Verteidigung vom 22. Mai 2023
+                                                   BGBl. 2023 I Nr. 136
+                                                   [363] Gesetz zur        nderung des Gesetzes ber Finanzhilfen des Bundes zum Ausbau der Tagesbetreuung f r Kinder und zur                                          nderung des
+                                                   Kinderbetreuungsfinanzierungsgesetzes vom 23. Mai 2023
+                                                   BGBl. 2023 I Nr. 129
+                                                   [365] Verordnung ber die Berufsausbildung zum Glasapparatebauer und zur Glasapparatebauerin vom 15. Mai 2023
+                                                   BGBl. 2023 I Nr. 128
+                                                   [367] Verordnung ber die Berufsausbildung zum Mediengestalter Digital und Print und zur Mediengestalterin Digital und Print vom 15. Mai 2023
+                                                   BGBl. 2023 I Nr. 120
+                                                   [369] Verordnung ber die Berufsausbildung zum Karosserie- und Fahrzeugbaumechaniker und zur Karosserie- und Fahrzeugbaumechanikerin vom 01. Mai 2023
+                                                   BGBl. 2023 I Nr. 117
+                                                   [371] Siebzehnte Verordnung zur              nderung der Hundertsechsundsiebzigsten Durchf hrungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren f r An-
+                                                   und Abfl ge nach Instrumentenflugregeln zum und vom Flugplatz Kiel-Holtenau) vom 19. April 2023
+                                                   BGBl. 2023 I Nr. 104
+                                                   [373] Erste Verordnung zur           nderung der Elektronische Arzneimittelinformationen-Verordnung vom 19. April 2023
+                                                   BGBl. 2023 I Nr. 101
+                                                   [375] Vierzigste Verordnung zur            nderung der Zweihundertf nfundf nfzigsten Durchf hrungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Streckenf hrungen,
+                                                   Meldepunkten und Reiseflugh hen f r Fl ge nach Instrumentenflugregeln im kontrollierten Luftraum innerhalb der Bundesrepublik Deutschland) vom 28. M rz 2023
+                                                   BGBl. 2023 I Nr. 100
+                                                   [377] Verordnung zur          nderung der Zweiten Bundesmeldedaten bermittlungsverordnung und der Bundesmeldedatenabrufverordnung vom 05. April 2023
+                                                   BGBl. 2023 I Nr. 99
+                                                   [379] Verordnung ber die Berufsausbildung zum Gestalter f r immersive Medien und zur Gestalterin f r immersive Medien vom 05. April 2023
+                                                   BGBl. 2023 I Nr. 88
+                                                   [381] Gesetz zur        nderung des Raumordnungsgesetzes und anderer Vorschriften vom 22. M rz 2023
+                                                   BGBl. 2023 I Nr. 75
+                                                   [383] Sechzehnte Verordnung zur               nderung der Hundertsiebenundf nfzigsten Durchf hrungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren f r An-
+                                                   und Abfl ge nach Instrumentenflugregeln zum und vom Flughafen Schwerin-Parchim) vom 08. M rz 2023
+                                                   BGBl. 2023 I Nr. 74
+                                                   [385] Zweite Verordnung zur            nderung der Hundertsechsundf nfzigsten Durchf hrungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren f r An- und
+                                                   Abfl ge nach Sichtflugregeln zum und vom Flughafen Schwerin-Parchim) vom 08. M rz 2023
+                                                   BGBl. 2023 I Nr. 34
+                                                   [387] Erste Verordnung zur           nderung der Zweihundertsiebenundf nfzigsten Durchf hrungsverordnung zur Luftverkehrs-Ordnung (Festlegung von Flugverfahren f r An-
+                                                   und Abfl ge nach Instrumentenflugregeln zum und vom Verkehrslandeplatz Sch nhagen) vom 16. Januar 2023
+                                                   BGBl I 2022, 2422
+                                                   [389] Verordnung ber die Einrichtung und F hrung des Gesellschaftsregisters vom 16. Dezember 2022
+                                                   BGBl I 2022, 1816
+                                                   [391] Verordnung ber die von den Traumaambulanzen in der Sozialen Entsch digung zu erf llenden Qualit tskriterien und die Pflichten der Traumaambulanz vom 20.
+                                                   Oktober 2022
+                                                   BGBl I 2022, 1390
+                                                   [393] Verordnung ber die Berufsausbildung zum Steuerfachangestellten und zur Steuerfachangestellten vom 03. August 2022
+                                                   BGBl I 2022, 1146
+                                                   [395] Gesetz zur Erg nzung der Regelungen zur Umsetzung der Digitalisierungsrichtlinie und zur                                 nderung weiterer Vorschriften vom 15. Juli 2022
+                                                   BGBl I 2022, 928
+                                                   [397] Verordnung ber die Barrierefreiheitsanforderungen f r Produkte und Dienstleistungen nach dem Barrierefreiheitsst rkungsgesetz vom 15. Juni 2022
+                                                   BGBl I 2021, 3932, 3958
+                                                   [399] Gesetz ber die Versorgung der fr heren Soldatinnen und fr heren Soldaten und ihrer Hinterbliebenen vom 20. August 2021
+                                                   BGBl I 2021, 3932
+                                                   [401] Gesetz ber die Entsch digung der Soldatinnen und Soldaten und zur Neuordnung des Soldatenversorgungsrechts vom 20. August 2021
+                                                   BGBl I 2021, 3436
+                                                   [403] Gesetz zur Modernisierung des Personengesellschaftsrechts vom 10. August 2021
+                                                   BGBl I 2021, 2970
+                                                   [405] Gesetz zur Umsetzung der Richtlinie (EU) 2019/882 des Europ ischen Parlaments und des Rates ber die Barrierefreiheitsanforderungen f r Produkte und
+                                                   Dienstleistungen und zur          nderung anderer Gesetze vom 16. Juli 2021
+                                                   BGBl I 2021, 2598, 2716
+                                                   [407] Bundes-Bodenschutz- und Altlastenverordnung vom 09. Juli 2021
+                                                   BGBl I 2021, 2598
+                                                   [409] Verordnung ber Anforderungen an den Einbau von mineralischen Ersatzbaustoffen in technische Bauwerke vom 09. Juli 2021
+                                                   BGBl I 2021, 2598
+                                                   [411] Verordnung zur Einf hrung einer Ersatzbaustoffverordnung, zur Neufassung der Bundes-Bodenschutz- und Altlastenverordnung und zur                                                   nderung der
+                                                   Deponieverordnung und der Gewerbeabfallverordnung vom 09. Juli 2021
+                                                   BGBl I 2019, 2652
+                                                   [413] Gesetz zur Regelung des Sozialen Entsch digungsrechts vom 12. Dezember 2019
+                                                   BGBl I 2019, 1875
+                                                   [415] Gesetz zur        nderung des Grundsteuergesetzes zur Mobilisierung von baureifen Grundst cken f r die Bebauung vom 30. November 2019
+                                                   BGBl I 2019, 1794
+                                                   [417] Gesetz zur Reform des Grundsteuer- und Bewertungsrechts vom 26. November 2019
+                                                   [419] BGBl. 2023 II Nr. 321
+                                                   [420] F nfzehnte Verordnung zur              nderung rhein- und moselschifffahrtspolizeilicher Vorschriften vom 22. November 2023
+                                                   [421] BGBl. 2023 II Nr. 309
+                                                   [422] Gesetz zu dem Abkommen vom 25. Januar 2022 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Serbien ber die
+                                                   Deutsche Schule in Belgrad vom 26. Oktober 2023
+                                                   [423] BGBl. 2023 II Nr. 308
+                                                   [424] Gesetz zu dem Abkommen vom 7. Februar 2020 zwischen der Bundesrepublik Deutschland und der Republik Angola ber den Luftverkehr vom 20. Oktober 2023
+                                                   [425] BGBl. 2023 II Nr. 307
+                                                   [426] Gesetz zu dem Protokoll vom 18. Januar 2023 zur                     nderung des Abkommens vom 14. Juli 1992 zwischen der Bundesrepublik Deutschland und dem K nigreich
+                                                   Schweden zur Vermeidung der Doppelbesteuerung bei den Steuern vom Einkommen und vom Verm gen sowie bei den Erbschaft- und Schenkungsteuern und zur
+                                                   Leistung gegenseitigen Beistands bei den Steuern (Deutsch-schwedisches Steuerabkommen) vom 20. Oktober 2023
+                                                   [427] BGBl. 2023 II Nr. 299
+                                                   [428] Verordnung zu der Vereinbarung zwischen der Regierung der Bundesrepublik Deutschland und dem Freiwilligenprogramm der Vereinten Nationen (UNV) ber die
+                                                   Errichtung einer Zweigstelle des B ros der Vereinten Nationen f r Projektdienstleistungen (UNOPS) in Bonn vom 19. Oktober 2023
+                                                   [429] BGBl. 2023 II Nr. 271
+                                                   [430] Berichtigung der Vierzehnten Verordnung zur                   nderung rhein- und moselschifffahrtspolizeilicher Vorschriften vom 05. September 2023
+                                                   [431] BGBl. 2023 II Nr. 236
+                                                   [432] Verordnung ber die Inkraftsetzung der nderungen der Ausf hrungsordnung zum Protokoll zum Madrider Abkommen ber die internationale Registrierung von
+                                                   Marken vom 08. August 2023
+                                                   [433] BGBl. 2023 II Nr. 213
+                                                   [434] Gesetz zu dem Protokoll vom 21. Juli 2022 zur                   nderung des Abkommens vom 25. Januar 2010 zwischen der Bundesrepublik Deutschland und der Republik
+                                                   Bulgarien zur Vermeidung der Doppelbesteuerung und der Steuerverk rzung auf dem Gebiet der Steuern vom Einkommen und vom Verm gen vom 28. Juli 2023
+                                                   [435] BGBl. 2023 II Nr. 212
+                                                   [436] Gesetz zu dem Protokoll vom 30. September 2022 zur                        nderung des Abkommens vom 22. Juli 1997 zwischen der Bundesrepublik Deutschland und der Republik
+                                                   Litauen zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Verm gen vom 28. Juli 2023
+                                                   [437] BGBl. 2023 II Nr. 211
+                                                   [438] Gesetz zu dem Protokoll vom 29. September 2022 zur                        nderung des Abkommens vom 21. Februar 1997 zwischen der Bundesrepublik Deutschland und der
+                                                   Republik Lettland zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Verm gen vom 26. Juli 2023
+                                                   [439] BGBl. 2023 II Nr. 210
+                                                   [440] Gesetz zu dem bereinkommen vom 27. Januar 2021 ber die Internationale Organisation f r Navigationshilfen in der Schifffahrt vom 26. Juli 2023
+                                                   [441] BGBl. 2023 II Nr. 163
+                                                   [442] Gesetz zur        nderung des bereinkommens ber die Internationale Seeschifffahrts-Organisation vom 14. Juni 2023
 
-
-     [ @ 0 ] Startseite             [ 12 ] Aktualitätendienst
-     [ @ 1 ] Gesetze /              [ 13 ] Die meist tagesaktuell hier eingetragenen Hinweise auf neu im Bundesgesetzblatt verkündete Dokumente können als RSS - Feed abonniert werden. Klicken Sie hierzu auf das RSS - Symbol [ 14 ]
-     Verordnungen                   in der Navigationsleiste bzw. Adresszeile Ihres Browsers oder auf den folgenden Link:
-     [ 2 ] Aktualitätendienst
-                                    [ 15 ] RSS - Feed: [ @ 17 ] Gesetze im Internet - Aktualitätendienst
-     [ @ 3 ] Titelsuche
-                                    [ 18 ] Hinweis: [ 16 ] Bitte beachten Sie, dass der Internet Explorer 6.0 diese Funktionalität nicht unterstützt! Alternativ kann der RSS - Feed auch über einen externen RSS - Reader abonniert werden.
-     [ @ 4 ] Volltextsuche
-                                     @ 20 ] BGBI. 2023 | Nr. 336
-     [ @ 5 ] Translations           [ 19 ] Sechste Verordnung über zwingende Arbeitsbedingungen für die Pflegebranche vom 28. November 2023
-     [ @ 6 ] Hinweise               [ @ 22 ] BGBI. 2023 | Nr. 335
-                                    [ 21 ] Erste Verordnung zur Änderung der Justizaktenaufbewahrungsverordnung vom 28. November 2023
-                                    [ @ 24 ] BGBI. 2023 | Nr. 334
-     [ @ 7 ] Tastenkombinationen    [ 23 ] Verordnung zur Regelung der Fortgeltung der gemäß § 24 Absatz 1 Aufenthaltsgesetz erteilten Aufenthaltserlaubnisse für vorübergehend Schutzberechtigte aus der Ukraine vom 28. November
-                                    2023
-     [ @ 8 ] Landesrecht            [ @ 26 ] BGBI. 2023 | Nr. 333
-                                    [ 25 ] Verordnung zur Absenkung der Steuersätze im Jahr 2024 nach § 11 Absatz 2 des Luftverkehrsteuergesetzes vom 24. November 2023
-     [ @ 9 ] Rechtsprechung im
-     Internet                       [ @ 28 ] BGBI. 2023 | Nr. 332
-                                    [ 27 ] Verordnung zur Änderung der Umsatzsteuerzuständigkeitsverordnung vom 24. November 2023
-     [ @ 10 ] Verwaltungsvorschriften
-     im Internet                    [ @ 30 ] BGBI. 2023 | Nr. 331
-                                    [ 29 ] Verordnung zur Aufhebung der Signatarebenennungsverordnung vom 22. November 2023
-     [ @ 11 ] N - Lex
-                                    [ @ 32 ] BGBI. 2023 | Nr. 330
-                                    [ 31 ] Sechste Verordnung zur Änderung der Mindestunterhaltsverordnung vom 29. November 2023
-                                    [ @ 34 ] BGBI. 2023 | Nr. 329
-                                    [ 33 ] Zweite Verordnung zur Änderung der EEMD - Gebietsvorgabenverordnung und der EEMD - Zulassungsverordnung vom 27. November 2023
-                                    [ @ 36 ] BGBI. 2023 | Nr. 328
-                                    [ 35 ] Vierzehnte Verordnung zur Änderung der Sozialversicherungsentgeltverordnung vom 27. November 2023
-                                    [ @ 38 ] BGBI. 2023 | Nr. 327
-                                    [ 37 ] Verordnung zur Ermittlung des Arbeitseinkommens aus der Land- und Forstwirtschaft für das Jahr 2024 vom 27. November 2023
-                                    [ @ 40 ] BGBI. 2023 | Nr. 326
-                                    [ 39 ] Verordnung über den Vorbereitungsdienst für den gehobenen Steuerdienst des Bundes vom 15. November 2023
-                                    [ @ 42 ] BGBI. 2023 | Nr. 325
-                                    [ 41 ] Verordnung über den Vorbereitungsdienst für den mittleren Steuerdienst des Bundes vom 15. November 2023
-                                    [ @ 44 ] BGBI. 2023 | Nr. 324
-                                    [ 43 ] Neunundzwanzigste Verordnung zur Änderung der Zweihundertsiebzehnten Durchführungsverordnung zur Luftverkehrs - Ordnung ( Festlegung von Flugverfahren für An- und Abflüge nach
-                                    Instrumentenflugregeln zum und vom Flughafen Hannover ) vom 14. November 2023
-                                    [ @ 46 ] BGBI. 2023 | Nr. 323
-                                    [ 45 ] Sechste Verordnung zur Änderung der Schwerbehinderten - Ausgleichsabgabeverordnung vom 24. November 2023
-                                    [ @ 48 ] BGBI, 2023 | Nr. 322
-                                    [ 47 ] Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2024 vom 24. November 2023
-                                    [ @ 50 ] BGBI. 2023 | Nr. 321
-                                    [ 49 ] Vierte Verordnung zur Anpassung der Höhe des Mindestlohns vom 24. November 2023
-                                    [ @ 52 ] BGBI. 2023 | Nr. 320
-                                    [ 51 ] Verordnung zur Änderung der Zwangsvollstreckungsformular - Verordnung vom 24. November 2023
-                                    [ @ 54 ] BGBI. 2023 | Nr. 319
-                                    [ 53 ] Verordnung zur Änderung der Notarfachprüfungsverordnung vom 24. November 2023
-                                    [ @ 56 ] BGBI. 2023 | Nr. 318
-                                    [ 55 ] Zwölfte Verordnung zur Änderung der Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften für Fahrzeuge und Fahrzeugkombinationen mit Überlänge vom 22. November
-                                    2023
-                                    [ @ 58 ] BGBI. 2023 | Nr. 317
-                                    [ 57 ] Achte Verordnung über zwingende Arbeitsbedingungen im Gerüstbauerhandwerk vom 22. November 2023
-                                    [ @ 60 ] BGBI. 2023 | Nr. 317
-                                    [ 59 ] Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Gerüstbauer - Handwerk im Gebiet der Bundesrepublik Deutschland ( TV Mindestlohn ) vom 1. August 2023 vom 22. November
-                                    2023
-                                    [ @ 62 ] BGBI. 2023 | Nr. 316
-                                    [ 61 ] Sechzehnte Verordnung zur Änderung der Zweihundertzweiundzwanzigsten Durchführungsverordnung zur Luftverkehrs - Ordnung ( Festlegung von Flugverfahren für An- und Abflüge nach
-                                    Instrumentenflugregeln zum und vom Flughafen Bremen ) vom 10. November 2023
-                                    [ @ 64 ] BGBI. 2023 | Nr. 315
-                                    [ 63 ] Drittes Gesetz zur Änderung mautrechtlicher Vorschriften vom 21. November 2023
-                                    [ @ 66 ] BGBI. 2023 | Nr. 313
-                                    [ 65 ] Viertes Gesetz zur Änderung des Chemikaliengesetzes vom 16. November 2023
-                                    [ @ 68 ] BGBI. 2023 | Nr. 311
-                                    [ 67 ] Gesetz zur Stärkung der risikobasierten Arbeitsweise der Zentralstelle für Finanztransaktionsuntersuchungen vom 13. November 2023
-                                    [ @ 70 ] BGBI. 2023 | Nr. 310
-                                    [ 69 ] Gesetz zur Einführung einer langfristigen Pauschalentlastung der Länder im Zusammenhang mit Fluchtmigration und zur Änderung des Mauergrundstücksgesetzes vom 13. November 2023
-                                    [ @ 72 ] BGBI. 2023 | Nr. 309
-                                    [ 71 ] Gesetz zur Steigerung der Energieeffizienz und zur Änderung des Energiedienstleistungsgesetzes vom 13. November 2023
-                                    [ @ 74 ] BGBI. 2023 | Nr. 309
-                                    [ 73 ] Gesetz zur Steigerung der Energieeffizienz in Deutschland vom 13. November 2023
-                                    [ @ 76 ] BGBI. 2023 | Nr. 306
-                                    [ 75 ] Zweite Verordnung zur Änderung der Geflügel - Salmonellen - Verordnung vom 04. November 2023
-                                    [ @ 78 ] BGBI. 2023 | Nr. 305
-                                    [ 77 ] Fünfundsechzigste Verordnung zur Durchführung des § 172 des Bundesentschädigungsgesetzes vom 26. Oktober 2023
-                                    [ @ 80 ] BGBI. 2023 | Nr. 304
-                                    [ 79 ] Verordnung über die Gewährung von Förderungen für Maßnahmen im Sektor Wein vom 04. November 2023
-                                    [ @ 82 ] BGBI. 2023 | Nr. 304
-                                    [ 81 ] Verordnung zur Änderung weinrechtlicher und hopfenrechtlicher Bestimmungen vom 04. November 2023
-                                    [ @ 84 ] BGBI, 2023 | Nr. 303
-                                    [ 83 ] Verordnung über die Zuständigkeit für Leistungen der Sozialen Entschädigung für Berechtigte im Ausland vom 06. November 2023
-                                    [ @ 86 ] BGBI. 2023 | Nr. 302
-                                    [ 85 ] Verordnung zur Berechnung von Einkommen sowie zur Nichtberücksichtigung von Einkommen und Vermögen bei den Besonderen Leistungen im Einzelfall im Sozialen Entschädigungsrecht vom
-                                    06. November 2023
-                                    [ @ 88 ] BGBI. 2023 | Nr. 301
-                                    [ 87 ] Verordnung zur Durchführung des Berufsschadensausgleiches nach § 89 des Vierzehnten Buches Sozialgesetzbuch vom 06. November 2023
-                                    [ @ 90 ] BGBI. 2023 | Nr. 297
-                                    [ 89 ] Vierte Verordnung zur Änderung der Pflegepersonaluntergrenzen - Verordnung vom 03. November 2023
-                                    [ @ 92 ] BGBI. 2023 | Nr. 295
-                                    [ 91 ] Fünfundvierzigste Verordnung zur Änderung der Zweihundertfünfundfünfzigsten Durchführungsverordnung zur Luftverkehrs - Ordnung ( Festlegung von Streckenführungen, Meldepunkten und
-                                    Reiseflughöhen für Flüge nach Instrumentenflugregeln im kontrollierten Luftraum innerhalb der Bundesrepublik Deutschland ) vom 19. Oktober 2023
-                                    [ @ 94 ] BGBI. 2023 | Nr. 294
-                                    [ 93 ] Gesetz zur Änderung des Gesetzes gegen Wettbewerbsbeschränkungen und anderer Gesetze vom 25. Oktober 2023
-                                    [ @ 96 ] BGBI. 2023 | Nr. 292
-                                    [ 95 ] Achtundzwanzigste Verordnung zur Änderung der FS - An- und Abflug - Kostenverordnung vom 30. Oktober 2023
-                                    [ @ 98 ] BGBI. 2023 | Nr. 291
-                                    [ 97 ] Bekanntmachung der Neufassung des Passgesetzes vom 30. Oktober 2023
-                                    [ @ 100 ] BGBI. 2023 | Nr. 290
-                                    [ 99 ] Verordnung zur Änderung der Personalausweisverordnung, der Passverordnung, der Aufenthaltsverordnung sowie weiterer Vorschriften vom 30. Oktober 2023
-                                    [ @ 102 ] BGBI. 2023 | Nr. 289
-                                    [ 101 ] Elftes Gesetz zur Änderung des Weingesetzes vom 24. Oktober 2023
-                                    [ @ 104 ] BGBI. 2023 | Nr. 287
-                                    [ 103 ] Verordnung zur Bestimmung der für die Fortschreibung der Regelbedarfsstufen nach § 28a und für die Fortschreibung des Teilbetrags nach § 34 Absatz 3a Satz 1 des Zwölften Buches
-                                    Sozialgesetzbuch maßgeblichen Prozentsätze sowie zur Ergänzung der Anlage zu §§ 28 und 34 des Zwölften Buches Sozialgesetzbuch für das Jahr 2024 vom 24. Oktober 2023
-                                    [ @ 106 ] BGBI. 2023 | Nr. 286
-                                    [ 105 ] Verordnung zur Änderung der Barrierefreie - Informationstechnik - Verordnung vom 24. Oktober 2023
-                                    [ @ 108 ] BGBI. 2023 | Nr. 285
-                                    [ 107 ] Verordnung über die Festsetzung der Länderschlüsselzahlen und die Ermittlung der Schlüsselzahlen für die Aufteilung des Gemeindeanteils an der Umsatzsteuer nach § 5a des
-                                    Gemeindefinanzreformgesetzes für die Jahre 2024, 2025 und 2026 vom 17. Oktober 2023
-                                    [ @ 110 ] BGBI. 2023 | Nr. 284
-                                    [ 109 ] Verordnung über die Ermittlung der Schlüsselzahlen für die Aufteilung des Gemeindeanteils an der Einkommensteuer für die Jahre 2024, 2025 und 2026 vom 17. Oktober 2023
-                                    [ @ 112 ] BGBI. 2023 | Nr. 282
-                                    [ 111 ] Verordnung zur Weiterentwicklung und Anpassung der Vorbereitungsdienste für den gehobenen nichttechnischen Zolldienst und für den mittleren nichttechnischen Zolldienst des Bundes vom
-                                    19. Oktober 2023
-                                    [ @ 114 ] BGBI. 2023 | Nr. 282
-                                    [ 113 ] Verordnung über den Vorbereitungsdienst für den gehobenen nichttechnischen Zolldienst des Bundes vom 19. Oktober 2023
-                                    [ @ 116 ] BGBI. 2023 | Nr. 281
-                                    [ 115 ] Verordnung zur Änderung der Erhaltungsmischungsverordnung und der GAPInVeKOS - Verordnung vom 17. Oktober 2023
-                                    [ @ 118 ] BGBI. 2023 | Nr. 280
-                                    [ 117 ] Gesetz zur Änderung des Gebäudeenergiegesetzes, zur Änderung des Bürgerlichen Gesetzbuches, zur Änderung der Verordnung über Heizkostenabrechnung, zur Änderung der
-                                    Betriebskostenverordnung und zur Änderung der Kehr- und Überprüfungsordnung vom 16. Oktober 2023
-                                    [ @ 120 ] BGBI. 2023 | Nr. 278
-                                    [ 119 ] Zweite Verordnung zur Änderung der Satellitendatensicherheitsverordnung vom 16. Oktober 2023
-                                    [ @ 122 ] BGBI. 2023 | Nr. 277
-                                    [ 121 ] Verordnung zum Schutz von Beständen zur Erzeugung oder zum Erhalt von Obstanbaumaterial sowie Erwerbsobstbeständen vor besonderen unionsgeregelten Nicht-
-                                    Quarantäneschadorganismen vom 13. Oktober 2023
-                                    [ @ 124 ] BGBI. 2023 | Nr. 277
-                                    [ 123 ] Verordnung zur Neuregelung pflanzengesundheitsrechtlicher Vorschriften vom 13. Oktober 2023
-                                    [ @ 126 ] BGBI. 2023 | Nr. 276
-                                    [ 125 ] Elfte Verordnung zur Änderung der Verordnung über Ausnahmen von straßenverkehrsrechtlichen Vorschriften für Fahrzeuge und Fahrzeugkombinationen mit Überlänge vom 11. Oktober 2023
-                                    [ @ 128 ] BGBI. 2023 | Nr. 275
-                                    [ 127 ] Verordnung über die Mitwirkung der Helferinnen und Helfer im Technischen Hilfswerk vom 10. Oktober 2023
-                                    [ @ 130 ] BGBI. 2023 | Nr. 275
-                                    [ 129 ] Verordnung zur Ablösung der THW - Mitwirkungsverordnung vom 10. Oktober 2023
-                                    [ @ 132 ] BGBI. 2023 | Nr. 274
-                                    [ 131 ] ] Verordnung über die Abgabesätze und das Punktesystem des Einwegkunststofffonds vom 11. Oktober 2023
-                                    [ @ 134 ] BGBI. 2023 | Nr. 273
-                                    [ 133 ] Zweite Verordnung zur Gewährung einer außergewöhnlichen Anpassungsbeihilfe für Erzeuger in bestimmten Agrarsektoren vom 11. Oktober 2023
-                                    [ @ 136 ] BGBI. 2023 | Nr. 272
-                                    [ 135 ] Gesetz zur Umsetzung der Richtlinie ( EU ) 2020/1828 über Verbandsklagen zum Schutz der Kollektivinteressen der Verbraucher und zur Aufhebung der Richtlinie 2009 / 22 / EG sowie zur
-                                    Änderung des Kapitalanleger - Musterverfahrensgesetzes vom 08. Oktober 2023
-                                    [ @ 138 ] BGBI. 2023 | Nr. 271
-                                    [ 137 ] Gesetz zur Modernisierung des Pass-, des Ausweis- und des ausländerrechtlichen Dokumentenwesens vom 08. Oktober 2023
-                                    [ @ 140 ] BGBI. 2023 | Nr. 268
-                                    [ 139 ] Verordnung zur Änderung der Versorgungsreserveabrufverordnung vom 04. Oktober 2023
-                                    [ @ 142 ] BGBI. 2023 | Nr. 267
-                                    [ 141 ] Verordnung zur Krisendestillation von Wein vom 29. September 2023
-                                    [ @ 144 ] BGBI. 2023 | Nr. 266
-                                    [ 143 ] Vierundvierzigste Verordnung zur Änderung der Zweihundertfünfundfünfzigsten Durchführungsverordnung zur Luftverkehrs - Ordnung ( Festlegung von Streckenführungen, Meldepunkten und
-                                    Reiseflughöhen für Flüge nach Instrumentenflugregeln im kontrollierten Luftraum innerhalb der Bundesrepublik Deutschland ) vom 13. September 2023
-                                    [ @ 146 ] BGBI. 2023 | Nr. 265
-                                    [ 145 ] Verordnung zur Kennzeichnung von Bio - Lebensmitteln in gemeinschaftlichen Verpflegungseinrichtungen und zur Änderung der Öko - Kennzeichenverordnung vom 27. September 2023
-                                    [ @ 148 ] BGBI. 2023 | Nr. 265
-                                    [ 147 ] Verordnung zur Regelung der Produktion, der Kontrolle und der Kennzeichnung von Bio - Zutaten und Bio - Erzeugnissen sowie zur Auszeichnung des Gesamtanteils an Bio - Lebensmitteln in
-                                    gemeinschaftlichen Verpflegungseinrichtungen vom 27. September 2023
-                                    [ @ 150 ] BGBI. 2023 | Nr. 264
-                                    [ 149 ] Zwanzigste Verordnung zur Änderung der Außenwirtschaftsverordnung vom 27. September 2023
-                                    [ @ 152 ] BGBI. 2023 | Nr. 263
-                                    [ 151 ] Zehnte Verordnung zur Änderung der Zweihundertsechsten Durchführungsverordnung zur Luftverkehrs - Ordnung ( Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln
-                                    zum und vom Verkehrslandeplatz Emden ) vom 22. September 2023
-                                    [ @ 154 ] BGBI. 2023 | Nr. 261
-                                    [ 153 ] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Berufsspezialist für Kraftfahrzeug - Servicetechnik oder Geprüfte Berufsspezialistin für
-                                    Kraftfahrzeug - Servicetechnik vom 25. September 2023
-                                    [ @ 156 ] BGBI. 2023 | Nr. 260
-                                    [ 155 ] Verordnung zur Änderung der Verordnung über die Satzung der Bundesanstalt für Finanzmarktstabilisierung vom 21. September 2023
-                                    [ @ 158 ] BGBI. 2023 | Nr. 259
-                                    [ 157 ] Verordnung zur Änderung der Differenzbetragsanpassungsverordnung vom 22. September 2023
-                                    [ @ 160 ] BGBI. 2023 | Nr. 258
-                                    [ 159 ] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Berufsspezialist für Vertrieb oder Geprüfte Berufsspezialistin für Vertrieb vom 21.
-                                    September 2023
-                                    [ @ 162 ] BGBI. 2023 | Nr. 257
-                                    [ 161 ] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Fachwirt für Außenwirtschaft oder Geprüfte Fachwirtin für Außenwirtschaft - Bachelor
-                                    Professional in Foreign Trade vom 21. September 2023
-                                    [ @ 164 ] BGBI. 2023 | Nr. 256
-                                    [ 163 ] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Fachwirt für Energiewirtschaft oder Geprüfte Fachwirtin für Energiewirtschaft - Bachelor-
-                                    Professional in Energiewirtschaft vom 21. September 2023
-                                    [ @ 166 ] BGBI. 2023 | Nr. 255
-                                    [ 165 ] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Berufsspezialist für fremdsprachige Kommunikation oder Geprüfte Berufsspezialistin für
-                                   fremdsprachige Kommunikation vom 21. September 2023
-                                    [ @ 168 ] BGBI. 2023 | Nr. 254
-                                    [ 167 ] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Fachwirt für Marketing oder Geprüfte Fachwirtin für Marketing - Bachelor Professional in
-                                    Marketing vom 21. September 2023
-                                    [ @ 170 ] BGBI. 2023 | Nr. 253
-                                    [ 169 ] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Fachwirt für Güterverkehr und Logistik oder Geprüfte Fachwirtin für Güterverkehr und
-                                    Logistik - Bachelor Professional in Transport Management and Logistics vom 21. September 2023
-                                    [ @ 172 ] BGBI. 2023 | Nr. 252
-                                    [ 171 ] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Meister für Medienproduktion Bild und Ton oder Geprüfte Meisterin für Medienproduktion
-                                    Bild und Ton - Bachelor Professional in Medienproduktion Bild und Ton vom 21. September 2023
-                                    [ @ 174 ] BGBI. 2023 | Nr. 251
-                                    [ 173 ] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Fachwirt für Logistiksysteme oder Geprüfte Fachwirtin für Logistiksysteme - Bachelor
-                                    Professional in Logistiksysteme vom 21. September 2023
-                                    [ @ 176 ] BGBI. 2023 | Nr. 250
-                                    [ 175 ] Vierte Verordnung zur Änderung der Zweihunderteinundfünfzigsten Durchführungsverordnung zur Luftverkehrs - Ordnung ( Festlegung von Flugverfahren für An- und Abflüge nach
-                                    Instrumentenflugregeln zum und vom Hubschraubersonderlandeplatz Oberschleißheim ) vom 13. September 2023
-                                    [ @ 178 ] BGBI. 2023 | Nr. 249
-                                    [ 177 ] Erste Verordnung zur Änderung der Zweiten Verordnung zur vorübergehenden Abweichung von der Binnenschifffahrt - Sportbootvermietungsverordnung vom 13. September 2023
-                                    [ @ 180 ] BGBI. 2023 | Nr. 248
-                                    [ 179 ] Besondere Gebührenverordnung des Bundesministeriums für Wirtschaft und Klimaschutz für individuell zurechenbare öffentliche Leistungen in seinem sowie dem Zuständigkeitsbereich des
-                                    Bundesamts für Wirtschaft und Ausfuhrkontrolle für die Kriegswaffenkontrolle, Ausfuhrkontrolle und Investitionsprüfung vom 07. September 2023
-                                    [ @ 182 ] BGBI. 2023 | Nr. 247
-                                    [ 181 ] Erste Verordnung zur Änderung der Besonderen Gebührenverordnung des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit für individuell zurechenbare öffentliche
-                                    Leistungen in dessen Zuständigkeitsbereich vom 05. September 2023
-                                    [ @ 184 ] BGBI. 2023 | Nr. 241
-                                    [ 183 ] Berichtigung der Verordnung zur Neuordnung der Berufsausbildung zum Verfahrensmechaniker für Kunststoff- und Kautschuktechnik und zur Verfahrensmechanikerin für Kunststoff- und
-                                    Kautschuktechnik vom 06. September 2023
-                                    [ @ 186 ] BGBI. 2023 | Nr. 240
-                                    [ 185 ] Künstlersozialabgabe - Verordnung 2024 vom 04. September 2023
-                                    [ @ 188 ] BGBI. 2023 | Nr. 239
-                                    [ 187 ] Verordnung über die Meisterprüfung in den Teilen I und II im Raumausstatter - Handwerk vom 04. September 2023
-                                    [ @ 190 ] BGBI. 2023 | Nr. 238
-                                    [ 189 ] Zweite Verordnung zur Änderung der GAP - Direktzahlungen - Verordnung vom 29. August 2023
-                                    [ @ 192 ] BGBI. 2023 | Nr. 237
-                                    [ 191 ] Siebte Verordnung zur Änderung der Winterbeschäftigungs - Verordnung vom 29. August 2023
-                                    [ @ 194 ] BGBI. 2023 | Nr. 236
-                                    [ 193 ] ] Verordnung zum Erlass einer Straßenverkehr - Transportbegleitungsverordnung und zur Änderung straßenverkehrsrechtlicher Vorschriften vom 28. August 2023
-                                    [ @ 196 ] BGBI. 2023 | Nr. 236
-                                    [ 195 ] Straßenverkehr - Transportbegleitungsverordnung vom 28. August 2023
-                                    [ @ 198 ] BGBI. 2023 | Nr. 235
-                                    [ 197 ] Zweite Verordnung zur Änderung der Zweihundertsiebenundvierzigsten Durchführungsverordnung zur Luftverkehrs - Ordnung ( Festlegung von Flugverfahren für An- und Abflüge nach
-                                    Instrumentenflugregeln zum und vom Flughafen Berlin Brandenburg ) vom 23. August 2023
-                                    [ @ 200 ] BGBI. 2023 | Nr. 234
-                                    [ 199 ] Dreiundvierzigste Verordnung zur Änderung der Zweihundertfünfundfünfzigsten Durchführungsverordnung zur Luftverkehrs - Ordnung ( Festlegung von Streckenführungen, Meldepunkten und
-                                    Reiseflughöhen für Flüge nach Instrumentenflugregeln im kontrollierten Luftraum innerhalb der Bundesrepublik Deutschland ) vom 17. August 2023
-                                    [ @ 202 ] BGBI. 2023 | Nr. 233
-                                    [ 201 ] Verordnung zur Weiterentwicklung der Fachkräfteeinwanderung vom 30. August 2023
-                                    [ @ 204 ] BGBI. 2023 | Nr. 229
-                                    [ 203 ] Verordnung über die Zuständigkeit des Bundesamtes für Wirtschaft und Ausfuhrkontrolle für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Strompreisbremsegesetz und dem
-                                    Erdgas - Wärme - Preisbremsengesetz vom 22. August 2023
-                                    [ @ 206 ] BGBI. 2023 | Nr. 228
-                                    [ 205 ] Zweite Verordnung zur Änderung der Eingliederungsmittel - Verordnung 2023 vom 22. August 2023
-                                    [ @ 208 ] BGBI. 2023 | Nr. 227
-                                    [ 207 ] Bekanntmachung der Neufassung der Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt vom 18. August 2023
-                                    [ @ 210 ] BGBI. 2023 | Nr. 226
-                                    [ 209 ] Vierte Verordnung zur Änderung der Zweihundertdreiunddreißigsten Durchführungsverordnung zur Luftverkehrs - Ordnung ( Festlegung von Flugverfahren für An- und Abflüge nach
-                                    Instrumentenflugregeln zum und vom Verkehrslandeplatz Wilhelmshaven „ JadeWeserAirport" ) vom 08. August 2023
-                                    [ @ 212 ] BGBI. 2023 | Nr. 225
-                                    [ 211 ] Sechsundsechzigste Verordnung zur Änderung der Zweihundertzwölften Durchführungsverordnung zur Luftverkehrs - Ordnung ( Festlegung von Flugverfahren für An- und Abflüge nach
-                                    Instrumentenflugregeln zum und vom Flughafen Frankfurt am Main ) vom 08. August 2023
-                                    [ @ 214 ] BGBI. 2023 | Nr. 224
-                                    [ 213 ] Neunte Verordnung zur Änderung der Zweihundertsechsten Durchführungsverordnung zur Luftverkehrs - Ordnung ( Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln
-                                   zum und vom Verkehrslandeplatz Emden ) vom 08. August 2023
-                                    [ @ 216 ] BGBI. 2023 | Nr. 223
-                                    [ 215 ] Dritte Verordnung zur Änderung der Energiesicherungstransportverordnung vom 17. August 2023
-                                    [ @ 218 ] BGBI. 2023 | Nr. 222
-                                    [ 217 ] Verordnung zur Anpassung des Vergaberechts an die Einführung neuer elektronischer Standardformulare ( „ eForms" ) für EU - Bekanntmachungen und an weitere europarechtliche Anforderungen
-                                    vom 17. August 2023
-                                    [ @ 220 ] BGBI. 2023 | Nr. 221
-                                    [ 219 ] Gesetz zur Erleichterung der baulichen Anpassung von Tierhaltungsanlagen an die Anforderungen des Tierhaltungskennzeichnungsgesetzes vom 28. Juli 2023
-                                    [ @ 222 ] BGBI. 2023 | Nr. 220
-                                    [ 221 ] ] Gesetz zur Kennzeichnung von Lebensmitteln mit der Haltungsform der Tiere, von denen die Lebensmittel gewonnen wurden vom 17. August 2023
-                                    [ @ 224 ] BGBI. 2023 | Nr. 219
-                                    [ 223 ] Gesetz zur Änderung des Öko - Landbaugesetzes, des Öko - Kennzeichengesetzes und des Gesetzes zur Änderung des Tierschutzgesetzes - Verbot des Kükentötens vom 17. August 2023
-                                    [ @ 226 ] BGBI. 2023 | Nr. 218
-                                    [ 225 ] Gesetz zur Änderung des Verkehrsstatistikgesetzes und des Berufskraftfahrerqualifikationsgesetzes sowie des Gesetzes zur Überarbeitung des Sanktionenrechts - Ersatzfreiheitsstrafe,
-                                    Strafzumessung, Auflagen und Weisungen sowie Unterbringung in einer Entziehungsanstalt vom 16. August 2023
-                                    [ @ 228 ] BGBI. 2023 | Nr. 217
-                                    [ 227 ] Gesetz zur Weiterentwicklung der Fachkräfteeinwanderung vom 16. August 2023
-                                    [ @ 230 ] BGBI. 2023 | Nr. 215
-                                    [ 229 ] Achte Verordnung zur Änderung der Europawahlordnung vom 11. August 2023
-                                    [ @ 232 ] BGBI. 2023 | Nr. 214
-                                    [ 231 ] Berichtigung des Gesetzes zur Stärkung der Digitalisierung im Bauleitplanverfahren und zur Änderung weiterer Vorschriften vom 08. August 2023
-                                    [ @ 234 ] BGBI. 2023 | Nr. 211
-                                    [ 233 ] ] Verordnung über die Organisation der nach dem Hinweisgeberschutzgesetz einzurichtenden externen Meldestelle des Bundes vom 07. August 2023
-                                    [ @ 236 ] BGBI. 2023 | Nr. 210
-                                    [ 235 ] Zwölfte Verordnung zur Änderung der Verordnung zur Durchführung des § 206 der Bundesrechtsanwaltsordnung vom 07. August 2023
-                                    [ @ 238 ] BGBI. 2023 | Nr. 209
-                                    [ 237 ] Zweite Verordnung zur Änderung der Lebensmittelinformations - Durchführungsverordnung vom 03. August 2023
-                                    [ @ 240 ] BGBI. 2023 | Nr. 208
-                                    [ 239 ] Eisenbahnverkehrs - Verordnung vom 04. August 2023
-                                    [ @ 242 ] BGBI. 2023 | Nr. 207
-                                    [ 241 ] Verordnung zur Regelung weiterer Voraussetzungen der Erreichbarkeit erwerbsfähiger Leistungsberechtigter nach dem Zweiten Buch Sozialgesetzbuch vom 28. Juli 2023
-                                    [ @ 244 ] BGBI. 2023 | Nr. 206
-                                    [ 243 ] ] Verordnung zur Durchführung des Öko - Landbaugesetzes vom 26. Juli 2023
-                                    [ @ 246 ] BGBI. 2023 | Nr. 206
-                                    [ 245 ] Verordnung zur Durchführung von Vorschriften über den ökologischen Landbau vom 26. Juli 2023
-                                    [ @ 248 ] BGBI. 2023 | Nr. 205
-                                    [ 247 ] Gesetz zur Anpassung des Allgemeinen Eisenbahngesetzes an die Verordnung ( EU ) 2021/782 des Europäischen Parlaments und des Rates vom 29. April 2021 über die Rechte und Pflichten
-                                    der Fahrgäste im Eisenbahnverkehr sowie zur Änderung des Einführungsgesetzes zum Bürgerlichen Gesetzbuche vom 26. Juli 2023
-                                    [ @ 250 ] BGBI. 2023 | Nr. 204
-                                    [ 249 ] Gesetz zur Regelung einzelner dem Schutz der finanziellen Interessen der Union dienender Bestimmungen im Rahmen der Gemeinsamen Agrarpolitik, zur Änderung des
-                                    Betäubungsmittelgesetzes sowie zur Aufhebung weiterer Vorschriften vom 26. Juli 2023
-                                    [ @ 252 ] BGBI. 2023 | Nr. 204
-                                    [ 251 ] Gesetz zur Regelung einzelner dem Schutz der finanziellen Interessen der Union dienender Bestimmungen im Rahmen der Gemeinsamen Agrarpolitik vom 26. Juli 2023
-                                    [ @ 254 ] BGBI. 2023 | Nr. 203
-                                    [ 253 ] Gesetz zur Überarbeitung des Sanktionenrechts- Ersatzfreiheitsstrafe, Strafzumessung, Auflagen und Weisungen sowie Unterbringung in einer Entziehungsanstalt vom 26. Juli 2023
-                                    [ @ 256 ] BGBI. 2023 | Nr. 202
-                                    [ 255 ] Gesetz zur Änderung des Erdgas - Wärme - Preisbremsengesetzes, zur Änderung des Strompreisbremsegesetzes sowie zur Änderung weiterer energiewirtschaftlicher, umweltrechtlicher und
-                                    sozialrechtlicher Gesetze vom 26. Juli 2023
-                                    [ @ 258 ] BGBI. 2023 | Nr. 201
-                                    [ 257 ] Verordnung zur Änderung der Aufenthaltsverordnung vom 27. Juli 2023
-                                    [ @ 260 ] BGBI. 2023 | Nr. 200
-                                    [ 259 ] ] Zweite Verordnung zur Änderung der Verordnung zur Festlegung weiterer Bestimmungen zur Treibhausgasminderung bei Kraftstoffen vom 13. Juli 2023
-                                    [ @ 262 ] BGBI. 2023 | Nr. 199
-                                    [ 261 ] Verordnung zum Neuerlass der Fahrzeug - Zulassungsverordnung und zur Änderung weiterer Vorschriften vom 20. Juli 2023
-                                    [ @ 264 ] BGBI. 2023 | Nr. 198
-                                    [ 263 ] Berichtigung des Gesetzes zur Änderung des Bundeswahlgesetzes und des Fünfundzwanzigsten Gesetzes zur Änderung des Bundeswahlgesetzes vom 20. Juli 2023
-                                    [ @ 266 ] BGBI. 2023 | Nr. 197
-                                    [ 265 ] Gesetz zur Bekämpfung von Lieferengpässen bei patentfreien Arzneimitteln und zur Verbesserung der Versorgung mit Kinderarzneimitteln vom 19. Juli 2023
-                                    [ @ 268 ] BGBI. 2023 | Nr. 196
-                                    [ 267 ] Vierte Verordnung zur Änderung der Tabakerzeugnisverordnung vom 24. Juli 2023
-                                    [ @ 270 ] BGBI. 2023 | Nr. 194
-                                    [ 269 ] Drittes Gesetz zur Änderung des Tabakerzeugnisgesetzes vom 19. Juli 2023
-                                    [ @ 272 ] BGBI. 2023 | Nr. 193
-                                    [ 271 ] Luftsicherheits - Schulungsverordnung vom 06. Juli 2023
-                                    [ @ 274 ] BGBI. 2023 | Nr. 192
-                                    [ 273 ] Verordnung zur Neuregelung der Anzeige von Versicherungsfällen in der gesetzlichen Unfallversicherung vom 17. Juli 2023
-                                    [ @ 276 ] BGBI. 2023 | Nr. 192
-                                    [ 275 ] ] Verordnung über die Anzeige von Versicherungsfällen in der gesetzlichen Unfallversicherung vom 17. Juli 2023
-                                    [ @ 278 ] BGBI. 2023 | Nr. 191
-                                    [ 277 ] Gesetz zur Stärkung der Aus- und Weiterbildungsförderung vom 17. Juli 2023
-                                    [ @ 280 ] BGBI. 2023 | Nr. 190
-                                    [ 279 ] Gesetz zur Änderung des Bevölkerungsstatistikgesetzes, des Infektionsschutzgesetzes, personenstands- und dienstrechtlicher Regelungen sowie der Medizinprodukte - Abgabeverordnung vom
-                                    17. Juli 2023
-                                    [ @ 282 ] BGBI. 2023 | Nr. 189
-                                    [ 281 ] Fünfte Verordnung zur Änderung der Kanalsteurertarifverordnung vom 14. Juli 2023
-                                    [ @ 284 ] BGBI. 2023 | Nr. 188
-                                    [ 283 ] Vierzehnte Verordnung zur Änderung der Lotstarifverordnung vom 14. Juli 2023
-                                    [ @ 286 ] BGBI. 2023 | Nr. 187
-                                    [ 285 ] Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Bachelor Professional in Straßenbetriebsmanagement vom 12. Juli 2023
-                                    [ @ 288 ] BGBI. 2023 | Nr. 186
-                                    [ 287 ] Verordnung zur Änderung der Ersatzbaustoffverordnung und der Brennstoffwechsel - Gasmangellage - Verordnung vom 13. Juli 2023
-                                    [ @ 290 ] BGBI. 2023 | Nr. 185
-                                    [ 289 ] Zweite Verordnung zur Änderung der Zertifizierte - Mediatoren - Ausbildungsverordnung vom 11. Juli 2023
-                                    [ @ 292 ] BGBI. 2023 | Nr. 184
-                                    [ 291 ] Gesetz zur Änderung des LNG - Beschleunigungsgesetzes und zur Änderung des Energiewirtschaftsgesetzes und zur Änderung des Baugesetzbuchs vom 12. Juli 2023
-                                    [ @ 294 ] BGBI. 2023 | Nr. 183
-                                    [ 293 ] Berichtigung des Gesetzes zur Umsetzung von Artikel 8 Absatz 1 bis 7 der Richtlinie ( EU ) 2019/904 des Europäischen Parlaments und des Rates vom 5. Juni 2019 über die Verringerung der
-                                    Auswirkungen bestimmter Kunststoffprodukte auf die Umwelt vom 07. Juli 2023
-                                    [ @ 296 ] BGBI. 2023 | Nr. 182
-                                    [ 295 ] Zweite Verordnung zur Änderung der Obst - Gemüse - Erzeugerorganisationendurchführungsverordnung vom 11. Juli 2023
-                                    [ @ 298 ] BGBI. 2023 | Nr. 180
-                                    [ 297 ] Verordnung zur Festlegung und Anpassung der Bundesbeteiligung an den Leistungen für Unterkunft und Heizung für das Jahr 2023 vom 07. Juli 2023
-                                    [ @ 300 ] BGBI. 2023 | Nr. 179
-                                    [ 299 ] Verordnung zur Änderung der Heilverfahrensverordnung vom 04. Juli 2023
-                                    [ @ 302 ] BGBI. 2023 | Nr. 178
-                                    [ 301 ] ] Zweiundvierzigste Verordnung zur Änderung der Zweihundertfünfundfünfzigsten Durchführungsverordnung zur Luftverkehrs - Ordnung ( Festlegung von Streckenführungen, Meldepunkten und
-                                    Reiseflughöhen für Flüge nach Instrumentenflugregeln im kontrollierten Luftraum innerhalb der Bundesrepublik Deutschland ) vom 29. Juni 2023
-                                    [ @ 304 ] BGBI. 2023 | Nr. 173
-                                    [ 303 ] Dreizehnte Verordnung zur Änderung der Ferienreiseverordnung vom 28. Juni 2023
-                                    [ @ 306 ] BGBI. 2023 | Nr. 172
-                                    [ 305 ] Gesetz zur Regelung der Entsendung von Kraftfahrern und Kraftfahrerinnen im Straßenverkehrssektor und zur grenzüberschreitenden Durchsetzung des Entsenderechts vom 28. Juni 2023
-                                    [ @ 308 ] BGBI. 2023 | Nr. 171
-                                    [ 307 ] Siebente Verordnung zur Änderung der Verordnung über die Befahrungsabgaben auf dem Nord - Ostsee - Kanal vom 28. Juni 2023
-                                    [ @ 310 ] BGBI. 2023 | Nr. 170
-                                    [ 309 ] Verordnung zur Änderung der Verordnung zur Gleichstellung von Prüfungszeugnissen der Staatlichen Zeichenakademie Hanau mit den Zeugnissen über das Bestehen der Abschluss- und
-                                    Gesellenprüfung in Ausbildungsberufen vom 26. Juni 2023
-                                    [ @ 312 ] BGBI. 2023 | Nr. 169
-                                    [ 311 ] Verordnung zur Änderung der Ersten Bundesmeldedatenübermittlungsverordnung, der Zweiten Bundesmeldedatenübermittlungsverordnung und der
-                                    Bundesmeldedatendigitalisierungsverordnung vom 23. Juni 2023
-                                    [ @ 314 ] BGBI. 2023 | Nr. 168
-                                    [ 313 ] Siebenundzwanzigste Verordnung zur Änderung der Hundertfünfundsechzigsten Durchführungsverordnung zur Luftverkehrs - Ordnung ( Festlegung von Flugverfahren für An- und Abflüge nach
-                                    Instrumentenflugregeln zum und vom Verkehrslandeplatz Mönchengladbach ) vom 02. Juni 2023
-                                    [ @ 316 ] BGBI. 2023 | Nr. 167
-                                    [ 315 ] Gesetz zur Änderung des Energiesicherungsgesetzes und des Gesetzes gegen Wettbewerbsbeschränkungen vom 23. Juni 2023
-                                    [ @ 318 ] BGBI. 2023 | Nr. 166
-                                    [ 317 ] Vierundfünfzigste Verordnung über das anzurechnende Einkommen nach dem Bundesversorgungsgesetz vom 21. Juni 2023
-                                    [ @ 320 ] BGBI. 2023 | Nr. 165
-                                    [ 319 ] Achtundzwanzigste Verordnung zur Anpassung des Bemessungsbetrages und von Geldleistungen nach dem Bundesversorgungsgesetz vom 21. Juni 2023
-                                    [ @ 322 ] BGBI. 2023 | Nr. 164
-                                    [ 321 ] Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und zur Bestimmung weiterer Werte zum 1. Juli 2023 vom 21. Juni 2023
-                                    [ @ 324 ] BGBI. 2023 | Nr. 163
-                                    [ 323 ] Erste Verordnung zur Änderung der Brennstoffemissionshandelsverordnung vom 21. Juni 2023
-                                    [ @ 326 ] BGBI. 2023 | Nr. 162
-                                    [ 325 ] Vierzehnte Verordnung zur Änderung der Auslandszuschlagsverordnung vom 20. Juni 2023
-                                    [ @ 328 ] BGBI. 2023 | Nr. 160
-                                    [ 327 ] Zweite Verordnung zur Änderung der Amateurfunkverordnung vom 21. Juni 2023
-                                    [ @ 330 ] BGBI. 2023 | Nr. 159
-                                    [ 329 ] Zweite Verordnung zur Novellierung der Trinkwasserverordnung vom 20. Juni 2023
-                                    [ @ 332 ] BGBI. 2023 | Nr. 158
-                                    [ 331 ] Verordnung zur Änderung der Werkstätten - Mitwirkungsverordnung und der Versorgungsmedizin - Verordnung vom 19. Juni 2023
-                                    [ @ 334 ] BGBI. 2023 | Nr. 157
-                                    [ 333 ] Verordnung zur Änderung der Steuerberaterplattform- und -postfachverordnung vom 19. Juni 2023
-                                    [ @ 336 ] BGBI. 2023 | Nr. 156
-                                    [ 335 ] Dritte Verordnung zur Änderung der Ladesäulenverordnung vom 17. Juni 2023
-                                    [ @ 338 ] BGBI. 2023 | Nr. 155
-                                    [ 337 ] Gesetz zur Unterstützung und Entlastung in der Pflege vom 19. Juni 2023
-                                    [ @ 340 ] BGBI. 2023 | Nr. 154
-                                    [ 339 ] Gesetz zur Umsetzung der Richtlinie ( EU ) 2021/2101 im Hinblick auf die Offenlegung von Ertragsteuerinformationen durch bestimmte Unternehmen und Zweigniederlassungen sowie zur
-                                    Änderung des Verbraucherstreitbeilegungsgesetzes und des Pflichtversicherungsgesetzes vom 19. Juni 2023
-                                    [ @ 342 ] BGBI. 2023 | Nr. 153
-                                    [ 341 ] Berichtigung der Verordnung zur Änderung abfallrechtlicher Verordnungen vom 15. Juni 2023
-                                    [ @ 344 ] BGBI. 2023 | Nr. 152
-                                    [ 343 ] ] Verordnung über die Gliederung des Jahresabschlusses von Wohnungsunternehmen vom 14. Juni 2023
-                                    [ @ 346 ] BGBI. 2023 | Nr. 151
-                                    [ 345 ] Verordnung über die Berufsausbildung zum Kunststoff- und Kautschuktechnologen und zur Kunststoff- und Kautschuktechnologin vom 14. Juni 2023
-                                    [ @ 348 ] BGBI. 2023 | Nr. 150
-                                    [ 347 ] ] Verordnung zur Festlegung von Flugverfahren für An- und Abflüge nach Instrumentenflugregeln zum und vom Flughafen Frankfurt am Main aufgrund der Außerbetriebnahme der
-                                    Navigationsanlage Ried DVOR / DME und der Inbetriebnahme der Navigationsanlage Frankenstein DVOR / DME vom 19. April 2023
-                                    [ @ 350 ] BGBI. 2023 | Nr. 149
-                                    [ 349 ] Verordnung zur Änderung der Verordnung zum Schutz vor schädlichen Wirkungen nichtionisierender Strahlung bei der Anwendung am Menschen vom 12. Juni 2023
-                                    [ @ 352 ] BGBI. 2023 | Nr. 148
-                                    [ 351 ] Verordnung zur Modernisierung der Prüfungsverfahren im Recht der Heilberufe vom 07. Juni 2023
-                                    [ @ 354 ] BGBI. 2023 | Nr. 146
-                                    [ 353 ] Gesetz zur Förderung eines inklusiven Arbeitsmarkts vom 06. Juni 2023
-                                    [ @ 356 ] BGBI. 2023 | Nr. 143
-                                    [ 355 ] Dreiundzwanzigste Verordnung zur Änderung von Anlagen des Betäubungsmittelgesetzes vom 01. Juni 2023
-                                    [ @ 358 ] BGBI. 2023 | Nr. 142
-                                    [ 357 ] Einundvierzigste Verordnung zur Änderung der Zweihundertfünfundfünfzigsten Durchführungsverordnung zur Luftverkehrs - Ordnung ( Festlegung von Streckenführungen, Meldepunkten und
-                                    Reiseflughöhen für Flüge nach Instrumentenflugregeln im kontrollierten Luftraum innerhalb der Bundesrepublik Deutschland ) vom 22. Mai 2023
-                                    [ @ 360 ] BGBI. 2023 | Nr. 140
-                                    [ 359 ] Gesetz für einen besseren Schutz hinweisgebender Personen sowie zur Umsetzung der Richtlinie zum Schutz von Personen, die Verstöße gegen das Unionsrecht melden vom 31. Mai 2023
-                                    [ @ 362 ] BGBI. 2023 | Nr. 137
-                                    [ 361 ] Verordnung für die Durchführung der Abschlussprüfung im staatlich anerkannten Ausbildungsberuf Verwaltungsfachangestellte und Verwaltungsfachangestellter - Fachrichtung
-                                    Bundesverwaltung - im Geschäftsbereich des Bundesministeriums der Verteidigung vom 22. Mai 2023
-                                    [ @ 364 ] BGBI. 2023 | Nr. 136
-                                    [ 363 ] Gesetz zur Änderung des Gesetzes über Finanzhilfen des Bundes zum Ausbau der Tagesbetreuung für Kinder und zur Änderung des Kinderbetreuungsfinanzierungsgesetzes vom 23. Mai 2023
-                                    [ @ 366 ] BGBI. 2023 | Nr. 129
-                                    [ 365 ] Verordnung über die Berufsausbildung zum Glasapparatebauer und zur Glasapparatebauerin vom 15. Mai 2023
-                                    [ @ 368 ] BGBI. 2023 | Nr. 128
-                                    [ 367 ] Verordnung über die Berufsausbildung zum Mediengestalter Digital und Print und zur Mediengestalterin Digital und Print vom 15. Mai 2023
-                                    [ @ 370 ] BGBI. 2023 | Nr. 120
-                                    [ 369 ] Verordnung über die Berufsausbildung zum Karosserie- und Fahrzeugbaumechaniker und zur Karosserie- und Fahrzeugbaumechanikerin vom 01. Mai 2023
-                                    [ @ 372 ] BGBI. 2023 | Nr. 117
-                                    [ 371 ] Siebzehnte Verordnung zur Änderung der Hundertsechsundsiebzigsten Durchführungsverordnung zur Luftverkehrs - Ordnung ( Festlegung von Flugverfahren für An- und Abflüge nach
-                                    Instrumentenflugregeln zum und vom Flugplatz Kiel - Holtenau ) vom 19. April 2023
-                                    [ @ 374 ] BGBI. 2023 | Nr. 104
-                                    [ 373 ] Erste Verordnung zur Änderung der Elektronische Arzneimittelinformationen - Verordnung vom 19. April 2023
-                                    [ @ 376 ] BGBI. 2023 | Nr. 101
-                                    [ 375 ] Vierzigste Verordnung zur Änderung der Zweihundertfünfundfünfzigsten Durchführungsverordnung zur Luftverkehrs - Ordnung ( Festlegung von Streckenführungen, Meldepunkten und
-                                    Reiseflughöhen für Flüge nach Instrumentenflugregeln im kontrollierten Luftraum innerhalb der Bundesrepublik Deutschland ) vom 28. März 2023
-                                    [ @ 378 ] BGBI. 2023 | Nr. 100
-                                    [ 377 ] Verordnung zur Änderung der Zweiten Bundesmeldedatenübermittlungsverordnung und der Bundesmeldedatenabrufverordnung vom 05. April 2023
-                                    [ @ 380 ] BGBI. 2023 | Nr. 99
-                                    [ 379 ] Verordnung über die Berufsausbildung zum Gestalter für immersive Medien und zur Gestalterin für immersive Medien vom 05. April 2023
-                                    [ @ 382 ] BGBI. 2023 | Nr. 88
-                                    [ 381 ] ] Gesetz zur Änderung des Raumordnungsgesetzes und anderer Vorschriften vom 22. März 2023
-                                    [ @ 384 ] BGBI. 2023 | Nr. 75
-                                    [ 383 ] ] Sechzehnte Verordnung zur Änderung der Hundertsiebenundfünfzigsten Durchführungsverordnung zur Luftverkehrs - Ordnung ( Festlegung von Flugverfahren für An- und Abflüge nach
-                                    Instrumentenflugregeln zum und vom Flughafen Schwerin - Parchim ) vom 08. März 2023
-                                    [ @ 386 ] BGBI. 2023 | Nr. 74
-                                    [ 385 ] Zweite Verordnung Änderung der Hundertsechsundfünfzigsten Durchführungsverordnung zur Luftverkehrs - Ordnung ( Festlegung von Flugverfahren für An- und Abflüge nach Sichtflugregeln
-                                    zum und vom Flughafen Schwerin - Parchim ) vom 08. März 2023
-                                    [ @ 388 ] BGBI. 2023 | Nr. 34
-                                    [ 387 ] Erste Verordnung zur Änderung der Zweihundertsiebenundfünfzigsten Durchführungsverordnung zur Luftverkehrs - Ordnung ( Festlegung von Flugverfahren für An- und Abflüge nach
-                                    Instrumentenflugregeln zum und vom Verkehrslandeplatz Schönhagen ) vom 16. Januar 2023
-                                    [ @ 390 ] BGBI | 2022, 2422
-                                    [ 389 ] Verordnung über die Einrichtung und Führung des Gesellschaftsregisters vom 16. Dezember 2022
-                                    [ @ 392 ] BGBI | 2022, 1816
-                                    [ 391 ] Verordnung über die von den Traumaambulanzen in der Sozialen Entschädigung zu erfüllenden Qualitätskriterien und die Pflichten der Traumaambulanz vom 20. Oktober 2022
-                                    [ @ 394 ] BGBI | 2022, 1390
-                                    [ 393 ] Verordnung über die Berufsausbildung zum Steuerfachangestellten und zur Steuerfachangestellten vom 03. August 2022
-                                    [ @ 396 ] BGBI | 2022, 1146
-                                    [ 395 ] Gesetz zur Ergänzung der Regelungen zur Umsetzung der Digitalisierungsrichtlinie und zur Änderung weiterer Vorschriften vom 15. Juli 2022
-                                    [ @ 398 ] BGBI | 2022, 928
-                                    [ 397 ] Verordnung über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen nach dem Barrierefreiheitsstärkungsgesetz vom 15. Juni 2022
-                                    [ @ 400 ] BGBI | 2021, 3932, 3958
-                                    [ 399 ] Gesetz über die Versorgung der früheren Soldatinnen und früheren Soldaten und ihrer Hinterbliebenen vom 20. August 2021
-                                    [ @ 402 ] BGBII 2021, 3932
-                                    [ 401 ] Gesetz über die Entschädigung der Soldatinnen und Soldaten und zur Neuordnung des Soldatenversorgungsrechts vom 20. August 2021
-                                    [ @ 404 ] BGBI | 2021, 3436
-                                    [ 403 ] Gesetz zur Modernisierung des Personengesellschaftsrechts vom 10. August 2021
-                                    [ @ 406 ] BGBI | 2021, 2970
-                                    [ 405 ] Gesetz zur Umsetzung der Richtlinie ( EU ) 2019/882 des Europäischen Parlaments und des Rates über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen und zur Änderung
-                                    anderer Gesetze vom 16. Juli 2021
-                                    [ @ 408 ] BGBI | 2021, 2598, 2716
-                                    [ 407 ] Bundes - Bodenschutz- und Altlastenverordnung vom 09. Juli 2021
-                                    [ @ 410 ] BGBI | 2021, 2598
-                                    [ 409 ] Verordnung über Anforderungen an den Einbau von mineralischen Ersatzbaustoffen in technische Bauwerke vom 09. Juli 2021
-                                    [ @ 412 ] BGBI | 2021, 2598
-                                    [ 411 ] ] Verordnung zur Einführung einer Ersatzbaustoffverordnung, zur Neufassung der Bundes - Bodenschutz- und Altlastenverordnung und zur Änderung der Deponieverordnung und der
-                                    Gewerbeabfallverordnung vom 09. Juli 2021
-                                    [ @ 414 ] BGBI | 2019, 2652
-                                    [ 413 ] Gesetz zur Regelung des Sozialen Entschädigungsrechts vom 12. Dezember 2019
-                                    [ @ 416 ] BGBI | 2019, 1875
-                                    [ 415 ] Gesetz zur Änderung des Grundsteuergesetzes zur Mobilisierung von baureifen Grundstücken für die Bebauung vom 30. November 2019
-                                    [ @ 418 ] BGBI | 2019, 1794
-                                    [ 417 ] Gesetz zur Reform des Grundsteuer- und Bewertungsrechts vom 26. November 2019
-                                    [ 419 ] BGBI. 2023 II Nr. 321
-                                    [ 420 ] Fünfzehnte Verordnung zur Änderung rhein- und moselschifffahrtspolizeilicher Vorschriften vom 22. November 2023
-                                    [ 421 ] BGBI. 2023 II Nr. 309
-                                    [ 422 ] ] Gesetz zu dem Abkommen vom 25. Januar 2022 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Serbien über die Deutsche Schule in Belgrad vom
-                                    26. Oktober 2023
-                                    [ 423 ] BGBI. 2023 II Nr. 308
-                                    [ 424 ] ] Gesetz zu dem Abkommen vom 7. Februar 2020 zwischen der Bundesrepublik Deutschland und der Republik Angola über den Luftverkehr vom 20. Oktober 2023
-                                    [ 425 ] BGBI. 2023 II Nr. 307
-                                    [ 426 ] Gesetz zu dem Protokoll vom 18. Januar 2023 zur Änderung des Abkommens vom 14. Juli 1992 zwischen der Bundesrepublik Deutschland und dem Königreich Schweden zur Vermeidung der
-                                    Doppelbesteuerung bei den Steuern vom Einkommen und vom Vermögen sowie bei den Erbschaft- und Schenkungsteuern und zur Leistung gegenseitigen Beistands bei den Steuern ( Deutsch-
-                                    schwedisches Steuerabkommen ) vom 20. Oktober 2023
-                                    [ 427 ] BGBI. 2023 II Nr. 299
-                                    [ 428 ] Verordnung zu der Vereinbarung zwischen der Regierung der Bundesrepublik Deutschland und dem Freiwilligenprogramm der Vereinten Nationen ( UNV ) über die Errichtung einer Zweigstelle
-                                    des Büros der Vereinten Nationen für Projektdienstleistungen ( UNOPS ) in Bonn vom 19. Oktober 2023
-                                    [ 429 ] BGBI. 2023 II Nr. 271
-                                    [ 430 ] Berichtigung der Vierzehnten Verordnung zur Änderung rhein- und moselschifffahrtspolizeilicher Vorschriften vom 05. September 2023
-                                    [ 431 ] BGBI. 2023 II Nr. 236
-                                    [ 432 ] Verordnung über die Inkraftsetzung der Änderungen der Ausführungsordnung zum Protokoll zum Madrider Abkommen über die internationale Registrierung von Marken vom 08. August 2023
-                                    [ 433 ] BGBI. 2023 II Nr. 213
-                                    [ 434 ] Gesetz zu dem Protokoll vom 21. Juli 2022 zur Änderung des Abkommens vom 25. Januar 2010 zwischen der Bundesrepublik Deutschland und der Republik Bulgarien zur Vermeidung der
-                                    Doppelbesteuerung und der Steuerverkürzung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen vom 28. Juli 2023
-                                    [ 435 ] BGBI. 2023 II Nr. 212
-                                    [ 436 ] Gesetz zu dem Protokoll vom 30. September 2022 zur Änderung des Abkommens vom 22. Juli 1997 zwischen der Bundesrepublik Deutschland und der Republik Litauen zur Vermeidung der
-                                    Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen vom 28. Juli 2023
-                                    [ 437 ] BGBI. 2023 II Nr. 211
-                                    [ 438 ] Gesetz zu dem Protokoll vom 29. September 2022 zur Änderung des Abkommens vom 21. Februar 1997 zwischen der Bundesrepublik Deutschland und der Republik Lettland zur Vermeidung
-                                    der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen vom 26. Juli 2023
-                                    [ 439 ] BGBI. 2023 II Nr. 210
-                                    [ 440 ] Gesetz zu dem Übereinkommen vom 27. Januar 2021 über die Internationale Organisation für Navigationshilfen in der Schifffahrt vom 26. Juli 2023
-                                    [ 441 ] BGBI. 2023 II Nr. 163
-                                    [ 442 ] Gesetz zur Änderung des Übereinkommens über die Internationale Seeschifffahrts - Organisation vom 14. Juni 2023
-
-                                   [ @ 443 ] zum Seitenanfang       [ @ 444 ] Impressum       [ @ 445 ] Datenschutz      [ @ 446 ] Barrierefreiheitserklärung    [ @ 447 ] Feedback - Formular     [ @ 448 ] Seite ausdrucken
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 15761
+                                                 [@443] zum Seitenanfang                  [@444] Impressum                [@445] Datenschutz                [@446] Barrierefreiheitserkl rung                  [@447] Feedback-Formular                    [@448] Seite ausdrucken
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 14486
