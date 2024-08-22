@@ -101,8 +101,11 @@ function hasLabel(element: HTMLElement): boolean {
   return false;
 }
 
+const isTaggableTextNode = (child: ChildNode) => {
+  return isNonWhiteSpaceTextNode(child) && isTextNodeAValidWord(child);
+};
+
 const isNonWhiteSpaceTextNode = (child: ChildNode) => {
-  // also check for zero width space directly
   return (
     child.nodeType === Node.TEXT_NODE &&
     child.textContent &&
@@ -110,6 +113,14 @@ const isNonWhiteSpaceTextNode = (child: ChildNode) => {
     child.textContent.trim() !== "\u200B"
   );
 };
+
+const isTextNodeAValidWord = (child: ChildNode) => {
+  // We don't want to be tagging separator symbols like '|' or '/' or '>' etc
+  const trimmedWord = child.textContent?.trim();
+  return trimmedWord && (trimmedWord.match(/\w/) || trimmedWord.length > 3); // Regex matches any character, number, or _
+}
+
+
 
 const inputs = ["a", "button", "textarea", "select", "details", "label"];
 const isInteractable = (el: HTMLElement) => {
@@ -373,7 +384,7 @@ function getElementsToTag(
       // Append the parent tag as it may have multiple individual child nodes with text
       // We will tag them individually later
       if (
-        Array.from(el.childNodes).filter(isNonWhiteSpaceTextNode).length >= 1
+        Array.from(el.childNodes).filter(isTaggableTextNode).length >= 1
       ) {
         elementsToTag.push(el);
       }
@@ -505,7 +516,7 @@ function insertTags(
     } else if (tagLeafTexts) {
       trimTextNodeStart(el);
       const validTextNodes = Array.from(el.childNodes).filter(
-        isNonWhiteSpaceTextNode,
+        isTaggableTextNode,
       );
       const allTextNodes = Array.from(el.childNodes).filter(
         (child) => child.nodeType === Node.TEXT_NODE,
