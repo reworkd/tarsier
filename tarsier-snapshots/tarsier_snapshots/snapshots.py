@@ -150,7 +150,8 @@ def calculate_image_timing_statistics(snapshots_dir: Path) -> None:
     statistics = {
         "Min screenshot duration": min(screenshot_durations),
         "Max screenshot duration": max(screenshot_durations),
-        "Average screenshot duration": sum(screenshot_durations) / len(screenshot_durations),
+        "Average screenshot duration": sum(screenshot_durations)
+        / len(screenshot_durations),
         "Median screenshot duration": median(screenshot_durations),
         "p50 screenshot duration": percentile(screenshot_durations, 50),
         "p90 screenshot duration": percentile(screenshot_durations, 90),
