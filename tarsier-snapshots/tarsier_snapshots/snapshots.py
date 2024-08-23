@@ -3,6 +3,7 @@ import os
 from pathlib import Path
 from statistics import median
 from typing import Dict
+import time
 
 from bananalyzer import Example
 from bananalyzer.data.examples import get_training_examples
@@ -63,8 +64,12 @@ async def snapshot_example(
         print(f"{prefix} Snapshotting {example.id}")
         await page.goto(example.get_static_url())
         await page.wait_for_timeout(3000)
+        start_time = time.time()
         image, _ = await tarsier.page_to_image(page, tag_text_elements=True)
+        screenshot_duration = time.time() - start_time
+        start_time = time.time()
         page_text, _ = await tarsier.page_to_text(page, tag_text_elements=True)
+        ocr_duration = time.time() - start_time
         await page.close()
 
         # Create the directory if it doesn't exist
@@ -76,7 +81,10 @@ async def snapshot_example(
 
         with open(example_path / "ocr.txt", "w") as f:
             page_text_with_token_count = (
-                page_text + f"\nToken count: {counter.count(page_text)}"
+                page_text
+                + f"\nImage timing: {screenshot_duration:.2f} seconds"
+                + f"\nPage text timing: {ocr_duration:.2f} seconds"
+                + f"\nToken count: {counter.count(page_text)}"
             )
             f.write(page_text_with_token_count)
             print(f"{prefix} Writing OCR text to {example_path / 'ocr.txt'}")
@@ -96,7 +104,7 @@ async def generate_snapshots() -> None:
             snapshot_example(i, semaphore, browser, example, snapshots_path, tarsier)
             for i, example in enumerate(examples)
             if example.source == "mhtml"
-            # if example.source == "mhtml" and example.id == 'h4q2uwr0z0sVFM0q5AV7n'
+            if example.source == "mhtml" and example.id == "h4q2uwr0z0sVFM0q5AV7n"
         ]
         await asyncio.gather(*tasks)
 
