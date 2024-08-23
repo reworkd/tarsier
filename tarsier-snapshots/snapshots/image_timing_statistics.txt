@@ -1,0 +1,7 @@
+Min screenshot duration: 0.15
+Max screenshot duration: 15.14
+Average screenshot duration: 3.330108303249098
+Median screenshot duration: 2.7
+p50 screenshot duration: 2.7
+p90 screenshot duration: 6.670000000000001
+p99 screenshot duration: 13.026000000000005

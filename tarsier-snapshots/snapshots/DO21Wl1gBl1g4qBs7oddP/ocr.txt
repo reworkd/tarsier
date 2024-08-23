@@ -227,28 +227,27 @@
 
                                                          [ 215 ] Top 6 FAQs. Use the search bar above to show more!
 
-                                                             [ 216 ] Technical Support                                     [ 231 ] Partner Finder for support,                          [ 236 ] Package information
+                                                             [ 216 ] Technical Support                                     [ 230 ] Partner Finder for support,                          [ 234 ] Package information
                                                                                                                           software, hardware, dev tools, ...
-                                                             [ 217 ] The best way to reach out to our                                                                                   [ 237 ] The package information is
-                                                            Applications Engineers is through our                         [ 232 ] Infineon's global network of                         available on [ @ 239 ] our
-                                                             [ @ 227 ] Infineon Developer                                 partners offer products and services                          homepage [ 238 ]. Please note, that
+                                                             [ 217 ] The best way to reach out to our                                                                                   [ 235 ] ] The package information is
+                                                            Applications Engineers is through our                         [ 231 ] Infineon's global network of                          available on [ @ 237 ] our
+                                                             [ @ 226 ] Infineon Developer                                 partners offer products and services                          homepage [ 236 ]. Please note, that
                                                             Community                                                     that complement our semiconductor                            they are divided into the subcategories
                                                              [ 218 ] Our Applications Engineers ...                       device solutions to accelerate your                          " Leaded and through - hole"," Surface ...
                                                                                                                           development efforts and time to mark ...
-                                                                                      + [ @ 230 ] Read more                                            [ @ 235 ] Read more                                          [ @ 240 ] Read more
+                                                                                      + [ @ 229 ] Read more                                            [ @ 233 ] Read more                                          [ @ 238 ] Read more
 
-                                                             [ 241 ] Notes on processing                                   [ 252 ] Design - in support                                  [ 258 ] Simulation
+                                                             [ 239 ] Notes on processing                                   [ 248 ] Design - in support                                  [ 254 ] Simulation
                                                                                                                                                                                         Parameters / SPICE models
-                                                             [ 242 ] Information regarding reflow                          [ 253 ] We offer design - in support for
-                                                            profile, soldering temperature,                               your application.                                             [ 259 ] Please visit our Simulation Model
-                                                            soldering profile and further processing                      [ 254 ] You can use our Infineon Solution                     Finder on the internet at
-                                                            notes for most of the discrete products                       Finder:                                                       [ @ 263 ] https://www.infineon.com/si
-                                                            are mentioned in the Application Not ...                      [ @ 256 ] https: //www.infineon.com/s ...                     mulation
-                                                                                                                                                                                        [ 260 ] Please select" Simulation Mod ...
-                                                                                      + [ @ 251 ] Read more                                         + [ @ 257 ] Read more                                         + [ @ 264 ] Read more
+                                                             [ 240 ] Information regarding reflow                          [ 249 ] We offer design - in support for
+                                                            profile, soldering temperature,                               your application.                                             [ 255 ] Please visit our Simulation Model
+                                                            soldering profile and further processing                      [ 250 ] You can use our Infineon Solution                     Finder on the internet at
+                                                            notes for most of the discrete products                       Finder:                                                       [ @ 259 ] https://www.infineon.com/si
+                                                            are mentioned in the Application Not ...                      [ @ 252 ] https: //www.infineon.com/s ...                     mulation
+                                                                                                                                                                                        [ 256 ] Please select" Simulation Mod ...
+                                                                                      + [ @ 247 ] Read more                                         + [ @ 253 ] Read more                                         + [ @ 260 ] Read more
 
-
-                                                         [ @ 265 ]                                      [ @ 266 ]                                                 Live chat                          [ @ 267 ]
+                                                         [ @ 261 ]                                      [ @ 262 ]                                                 Live chat                          [ @ 263 ]
                                                                                                                    Call us toll - free                            with our Support Center                        Ask our community
                                                                      Ask for technical support                                a call back                                                                        for support
                                                                                                                    or request
@@ -389,11 +388,13 @@
 
 
 
-                                                                          [ 268 ] Follow us      [ @ 269 ]         [ @ 270 ]         [ @ 271 ]        [ @ 272 ]         [ @ 273 ]
+                                                                          [ 264 ] Follow us      [ @ 265 ]         [ @ 266 ]         [ @ 267 ]        [ @ 268 ]         [ @ 269 ]
 
                                                                                                                                                                                                                                             Start
                                                                                                                                                                                                                                             Chatbot
-                   [ 274 ] © 1999 - 2023 Infineon Technologies AG                [ @ 275 ] Usage of this website is subject to our Usage Terms          [ @ 276 ] Imprint     [ @ 277 ] Contact      [ @ 278 ] Privacy Policy
-                                                                                 [ @ 279 ] Glossary
+                    [ 270 ] © 1999 - 2023 Infineon Technologies AG               [ @ 271 ] Usage of this website is subject to our Usage Terms          [ @ 272 ] Imprint     [ @ 273 ] Contact      [ @ 274 ] Privacy Policy
+                                                                                 [ @ 275 ] Glossary
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2495
+Image timing: 4.55 seconds
+Page text timing: 4.55 seconds
+Token count: 2496

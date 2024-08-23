@@ -48,7 +48,9 @@ III                                         [ @ 1 ] PEOPLE       [ @ 2 ] PRACTIC
                           [ @ 84 ] Shanghai [ @ 85 ] Silicon Valley | [ @ 86 ] Singapore | [ @ 87 ] Taipei | [ @ 88 ] Tokyo | [ @ 89 ] Washington, D.C. | [ @ 90 ] Wheeling, W.V. ( GOIC )
      [ 91 ] We and our third party partners use cookies and similar technologies to run the website. Some cookies are strictly necessary.
      We also use optional cookies to provide a more personalized experience, improve the way our websites work, and support our
-     marketing operations. Optional cookies will only be set with your consent. You can manage your cookie preferences through the                  [ $ 96 ] Cookie Settings      [ $ 97 ] Reject All    [ $ 98 ] Accept All           [ $ 99 ]
-     " Cookie Settings" button. For more information, see our [ @ 94 ] Privacy Notice [ 92 ] and [ @ 95 ] Cookie Notice [ 93 ].
+     marketing operations. Optional cookies will only be set with your consent. You can manage your cookie preferences through the                  [ $ 95 ] Cookie Settings      [ $ 96 ] Reject All    [ $ 97 ] Accept All           [ $ 98 ]
+     " Cookie Settings" button. For more information, see our [ @ 93 ] Privacy Notice [ 92 ] and [ @ 94 ] Cookie Notice.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 985
+Image timing: 2.36 seconds
+Page text timing: 13.25 seconds
+Token count: 981

@@ -61,32 +61,34 @@
 
 
 
-             [ 83 ] OUR MISSION                                                                     [ 90 ] ACROSS SWEDISH                       [ 96 ] RESOURCES
-             [ 84 ] Improve the health and well - being of each person we serve.                    [ @ 91 ] About Us                           [ @ 97 ] For Caregivers ( our employees )
-                                                                                                    [ @ 92 ] Help us improve health care        [ @ 98 ] Careers
+             [ 83 ] OUR MISSION                                                                     [ 89 ] ACROSS SWEDISH                       [ 95 ] RESOURCES
+             [ 84 ] Improve the health and well - being of each person we serve.                    [ @ 90 ] About Us                           [ @ 96 ] For Caregivers ( our employees )
+                                                                                                    [ @ 91 ] Help us improve health care        [ @ 97 ] Careers
              [ 85 ] OUR VALUES
-                                                                                                    [ @ 93 ] Annual Report to Our Communities   [ @ 99 ] Physician & Provider Careers
+                                                                                                    [ @ 92 ] Annual Report to Our Communities   [ @ 98 ] Physician & Provider Careers
              [ 86 ] Compassion, Dignity, Justice, Excellence, Integrity, Safety.
-                                                                                                    [ @ 94 ] Community Health Needs             [ @ 100 ] Transfer & Operations Center
-             [ @ 88 ] Learn more about our mission, vision and values [ 87 ].                       Assessments and Improvement Plans
-                                                                                                                                                [ @ 101 ] Classes and Events
-                                                                                                    [ @ 95 ] Our Doctors
-                                                                                                                                                [ @ 102 ] Online Bill Pay & Financial Assistance
-                    [ @ 89 ] Contact Us
-                                                                                                                                                [ @ 103 ] Get a Price Estimate
-                                                                                                                                                [ @ 104 ] Pricing Transparency
-                                                                                                                                                [ @ 105 ] Read our blog
+                                                                                                    [ @ 93 ] Community Health Needs             [ @ 99 ] Transfer & Operations Center
+             [ @ 87 ] Learn more about our mission, vision and values.                              Assessments and Improvement Plans
+                                                                                                                                                [ @ 100 ] Classes and Events
+                                                                                                    [ @ 94 ] Our Doctors
+                                                                                                                                                [ @ 101 ] Online Bill Pay & Financial Assistance
+                    [ @ 88 ] Contact Us
+                                                                                                                                                [ @ 102 ] Get a Price Estimate
+                                                                                                                                                [ @ 103 ] Pricing Transparency
+                                                                                                                                                [ @ 104 ] Read our blog
 
 
 
 
-           [ 106 ] CONNECT WITH US
+           [ 105 ] CONNECT WITH US
 
-           [ @ 107 ]    [ @ 108 ]   [ @ 109 ]     [ @ 110 ]
+           [ @ 106 ]    [ @ 107 ]   [ @ 108 ]     [ @ 109 ]
 
-           [ @ 111 ] Disclaimer Terms Of Use | [ @ 112 ] Terms of Use & Privacy Policy | [ @ 113 ] Notice of Nondiscrimination and Communication Assistance | [ @ 114 ] Notice of Privacy Practices
-             [ @ 115 ] Patient Rights
+           [ @ 110 ] Disclaimer Terms Of Use | [ @ 111 ] Terms of Use & Privacy Policy | [ @ 112 ] Notice of Nondiscrimination and Communication Assistance | [ @ 113 ] Notice of Privacy Practices
+             [ @ 114 ] Patient Rights
 
-           [ 116 ] © 2023 Swedish Medical Center. All Rights Reserved.
+           [ 115 ] © 2023 Swedish Medical Center. All Rights Reserved.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1017
+Image timing: 1.60 seconds
+Page text timing: 2.77 seconds
+Token count: 1014

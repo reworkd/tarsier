@@ -95,4 +95,6 @@
 
       [ 109 ] Northside Hospital © 2023 All Rights Reserved [ @ 110 ] Hospital Transparency Information
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+Image timing: 2.27 seconds
+Page text timing: 2.82 seconds
 Token count: 1015

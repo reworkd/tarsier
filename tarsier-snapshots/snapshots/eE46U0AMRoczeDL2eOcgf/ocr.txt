@@ -119,4 +119,6 @@ EB                                                             [ @ 6 ] Jobs [ @ 
                                       [ 125 ] Copyright © 2024 Chesapeake Public Schools. All rights reserved.
                                               [ 126 ] Powered By [ @ 127 ] Thrillshare
 -----------------------------------------------------------------------------------------------------------
+Image timing: 0.67 seconds
+Page text timing: 11.25 seconds
 Token count: 1675

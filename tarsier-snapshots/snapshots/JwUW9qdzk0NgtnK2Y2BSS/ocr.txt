@@ -15,7 +15,7 @@
 
                                 **472K**                            [ @ 19 ] Datasheet                                                                                                     Feedback ]
 
-                              1kV                                                                                                                                                          421 $
+                              1kV                                                                                                                                                          420 $
                                                                     [ @ 20 ] Specsheet                                                                                                     [
                                                                     [ @ 21 ] RoHS Compliance Certificate
                                                                     [ @ 22 ] STEP / CAD
@@ -174,13 +174,15 @@
                                                                                                                                             for the latest information on technology, industry
                                                 [ @ 392 ] Inductors                                                                         trends, events, and new KEMET products.
                                                 [ @ 393 ] Sensors
-                                                                                                                                            [ # 409 ]                     [ $ 412 ]
-                                                [ @ 394 ] Piezo Devices                                                                                                        3BMIT
+                                                                                                                                            [ # 409 ]                     [ $ 411 ]
+                                                [ @ 394 ] Piezo Devices                                                                                                      * UBMIT
                                                 [ @ 395 ] Relays
                                                 [ @ 396 ] Transformers
                                                                                                                                                 [ 410 ] Yes, I agree to receive email from
-                                                                                                                                                KEMET. [ 411 ] *
-   [ 413 ] © 2023 KEMET Corporation. All   [ @ 414 ] Cookies  | [ @ 415 ] Cookies | [ @ 416 ] Privacy | [ @ 417 ] Terms | [ @ 418 ] Do Not Sell My [ @ 419 ] Terms and |
-   rights reserved.                      Settings             Policy.           Policy.            of Use           Information                 Conditions              [ @ 420 ] Disclaimer
+                                                                                                                                                KEMET. *
+   [ 412 ] © 2023 KEMET Corporation. All   [ @ 413 ] Cookies | [ @ 414 ] Cookies | [ @ 415 ] Privacy | [ @ 416 ] Terms | [ @ 417 ] Do Not Sell My [ @ 418 ] Terms and  |
+   rights reserved.                      Settings             Policy.           Policy.            of Use           Information                 Conditions              [ @ 419 ] Disclaimer
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2731
+Image timing: 4.56 seconds
+Page text timing: 6.14 seconds
+Token count: 2726

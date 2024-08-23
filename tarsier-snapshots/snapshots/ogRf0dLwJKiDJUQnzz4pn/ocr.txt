@@ -15,12 +15,12 @@
 
                     ☐ [ @ 19 ] About Us ▾       [ @ 20 ] Services ▼  [ @ 21 ] Digital Participation ▼ [ @ 22 ] Laws and Regulations ▼ [ @ 23 ] Media Center ▾   [ @ 24 ]
 
-                   [ @ 26 ] Home Page / [ @ 27 ] Laws and Regulations [ 28 ] Laws and Regulations
+                    [ @ 26 ] Home Page / [ @ 27 ] Laws and Regulations [ 28 ] Laws and Regulations
 
                     [ 29 ] Laws and Regulations
 
                         [ 31 ] FEDERAL LAW NO.7 CONCERNING THE ISSUANCE OF THE LAW ON PENSIONS AND SOCIAL SECURITY - Issued on 16/2/1999
-                        [ 33 ] LAW ON PENSIONS AND SOCIAL SECURITY                                                                                                           [ @ 112 ]
+                        [ 33 ] LAW ON PENSIONS AND SOCIAL SECURITY                                                                                                           [ @ 111 ]
 
                      [ 34 ] Law on Pension and Social Security                                                  [ 35 ] Date         [ 36 ] File      [ 37 ] File
                                                                                                                                      Size             Туре
@@ -31,7 +31,8 @@ x
 
 
 
-\\
+
+
 Reconnecting
 Start New Conversation
 =
@@ -42,16 +43,16 @@ Type your message ...
 
 
 
+                                                                                                                                                                                                    [ @ 68 ]
                                                                                                                                                                                                     [ @ 69 ]
                                                                                                                                                                                                     [ @ 70 ]
                                                                                                                                                                                                     [ @ 71 ]
                                                                                                                                                                                                     [ @ 72 ]
                                                                                                                                                                                                     [ @ 73 ]
+                                                                                             [ @ 87 ]
                                                                                                                                                                                                     [ @ 74 ]
-                                                                                             [ @ 88 ]
-                                                                                                                                                                                                    [ @ 75 ]
-                                                                                             [ @ 89 ] [ @ 90 ]                                                                                      [ @ 76 ]
-                                                                                                                                                                                                    [ @ 77 ]
+                                                                                             [ @ 88 ] [ @ 89 ]                                                                                      [ @ 75 ]
+                                                                                                                                                                                                    [ @ 76 ]
 
 
 
@@ -98,4 +99,6 @@ by Floatbot
 Are you sure you want to end this conversation?
 NoYes
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 526
+Image timing: 1.57 seconds
+Page text timing: 2.63 seconds
+Token count: 524

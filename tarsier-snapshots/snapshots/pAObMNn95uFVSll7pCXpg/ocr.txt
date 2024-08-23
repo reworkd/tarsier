@@ -84,6 +84,8 @@
                                                                                                                                                 [ @ 80 ] No Patient Left Alone Act
                                                                                                                                                 [ @ 81 ] Facial Covering
                                                                                                                                                 Requirements
-                   [ 82 ] [ 83 ] 2023 [ 84 ] Select Medical Corporation. All Rights Reserved.
+                      [ 82 ] 2023 [ 83 ] Select Medical Corporation. All Rights Reserved.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1295
+Image timing: 2.57 seconds
+Page text timing: 15.96 seconds
+Token count: 1291

@@ -40,7 +40,7 @@
                                                                                                                                                  Paul Wellness H. Broyhill
                                                                                                                                                     Center
 
-                                                                                                                        [ 63 ] AppOrtho
+                                                                                                                        [ @ 63 ] AppOrtho
                        [ @ 46 ] AppFamily Medicine                     [ @ 55 ] AppGastro
                                                                                                                         [ 64 ] 232 Boone Heights Drive, Suite A
                        [ 47 ] 148 Hwy 105 Extension, Suite 102         [ 56 ] 870 State Farm Road, Suite 102            [ 65 ] Boone, NC 28607
@@ -67,12 +67,12 @@
 
                                                                                   OFFICE PLAZA
 
-                                                                       [ 105 ] Grandfather Specialty Clinic             [ 111 ] Harmony Center for Women
+                                                                       [ @ 105 ] Grandfather Specialty Clinic           [ @ 111 ] Harmony Center for Women
                        [ @ 97 ] Elk River Medical Associates
                                                                        [ 106 ] 436 Hospital Drive                       [ 112 ] 381 Deerfield Road
                        [ 98 ] 150 Park Avenue                          [ 107 ] Linville, NC 28646                       [ 113 ] Boone, NC 28607
                        [ 99 ] Banner Elk, NC 28604                     [ 109 ] Phone [ 108 ] ( 828 ) 262-4332           [ 116 ] Phone: [ 114 ] ( 828 ) 268-8970
-                       [ 102 ] Phone: [ 100 ] ( 828 ) 898-5177         [ @ 110 ] Grandfather Specialty Clinic website   [ 117 ] Fax: [ 115 ] ] ( 828 ) 262-1587
+                       [ 102 ] Phone: [ 100 ] ( 828 ) 898-5177         [ @ 110 ] Grandfather Specialty Clinic website   [ 117 ] Fax: [ 115 ] ( 828 ) 262-1587
                        [ 103 ] Fax: [ 101 ] ( 828 ) 898-8306                                                            [ @ 118 ] Harmony Website
                        [ @ 104 ] Elk River Medical Associates website
 
@@ -82,7 +82,7 @@
 
                                                                                   SLOOP OFFICE MEDICAL PLAZA
 
-                                                                       [ 124 ] Tate Clinic                              [ 132 ] Watauga Surgical Group
+                                                                       [ @ 124 ] Tate Clinic                            [ @ 132 ] Watauga Surgical Group
                        [ @ 120 ] Jefferson Specialty Clinic
                                                                        [ 125 ] 436 Hospital Drive, Suite 200            [ 133 ] 965 State Farm Road
                        [ 121 ] 968 US Hwy 221 Business                 [ 126 ] Linville, NC 28646                       [ 134 ] Boone, NC 28607
@@ -135,8 +135,8 @@
 
 
 
-                       [ 195 ] Seby B. Jones Regional Cancer
-                      Center                                           [ 202 ] Wilma Redmond Breast Center
+                       [ @ 195 ] Seby B. Jones Regional Cancer
+                      Center                                           [ @ 202 ] Wilma Redmond Breast Center
                        [ 196 ] Monday - Friday 8:00 am - 5:00 pm       [ 203 ] 336 Deerfield Road
                        [ 197 ] 338 Deerfield Road                      [ 204 ] Boone, NC 28607
                        [ 198 ] Boone, NC 28607                         [ 207 ] Phone: [ 205 ] ( 828 ) 268-9037
@@ -156,38 +156,39 @@
 
                                                                                   OFFICE PLAZA
 
-                                                                       [ 220 ] The Rehabilitation Center Linville
-                       [ @ 212 ] Cannon Memorial Hospital              [ 221 ] 434 Hospital Drive
-                       [ 213 ] 434 Hospital Drive                      [ 222 ] Linville, NC 28646
-                       [ 214 ] Linville, NC 28646                      [ 223 ] Phone [ @ 224 ] ( 828 ) 737-7520
-                       [ 217 ] Phone: [ 215 ] ( 828 ) 737-7000         [ 225 ] Fax [ @ 226 ] ( 828 ) 737-7509
-                       [ 218 ] Fax: [ 216 ] ( 828 ) 737-7401           [ @ 227 ] Rehabilitation Center website
-                       [ @ 219 ] Cannon Memorial Hospital website
+                                                                       [ @ 220 ] The Rehabilitation Center
+                       [ @ 212 ] Cannon Memorial Hospital              Linville
+                       [ 213 ] 434 Hospital Drive                      [ 221 ] 434 Hospital Drive
+                       [ 214 ] Linville, NC 28646                      [ 222 ] Linville, NC 28646
+                       [ 217 ] Phone: [ 215 ] ( 828 ) 737-7000         [ 223 ] Phone [ 224 ] ( 828 ) 737-7520
+                       [ 218 ] Fax: [ 216 ] ( 828 ) 737-7401           [ 225 ] Fax [ 226 ] ( 828 ) 737-7509
+                       [ @ 219 ] Cannon Memorial Hospital website      [ @ 227 ] Rehabilitation Center website
 
 
 
 
 
 
-                       [ 228 ] Appalachian Regional Behavioral Health Locations
+
+                       [ @ 228 ] Appalachian Regional Behavioral Health Locations
 
                                         [ @ 229 ]                                       [ @ 239 ]
 
 
 
-                                 NOOP OFFICE MEDICAL PLAZA
+
 
                        [ @ 230 ] Outpatient Behavioral Health
-                       [ 231 ] Located inside Sloop Medical Office Plaza [ @ 240 ] Appalachian Regional
+                       [ 231 ] Located inside Sloop Medical Office Plaza @ 240 ] Appalachian Regional
+                                                                       [
                        [ 232 ] 436 Hospital Drive, Suite 235           Behavioral Health Hospital
                        [ 233 ] Linville, NC 28646
                                                                        [ 241 ] 432 Hospital Drive
                        [ 236 ] Phone: [ 234 ] ( 828 ) 737-7888         [ 242 ] Linville, NC 28646
-                       [ 237 ] Fax: [ 235 ] ( 828 ) 737-7606
-                                                                       [ 245 ] Phone: [ 243 ] ( 828 ) 737-7071
+                       [ 237 ] Fax: [ 235 ] ( 828 ) 737-7606           [ 245 ] Phone: [ 243 ] ( 828 ) 737-7071
                        [ @ 238 ] Appalachian Regional Behavioral Health [ 246 ] Fax: [ 244 ] ( 828 ) 737-7072
-                      Website
-                                                                       [ @ 247 ] Appalachian Regional Behavioral Health
+                      Website                                                                           Health
+                                                                       [ @ 247 ] Appalachian Regional Behavioral
                                                                        website
 
 
@@ -196,28 +197,29 @@
                        [ 248 ] Appalachian Regional        [ 251 ] ARHS complies with          [ 253 ] You have privacy rights under [ 256 ] Through UnitedHealthcare,
                       Healthcare System | PO Box 2600 |    applicable Federal civil rights laws a federal law that protects your    UMR and HealthSCOPE Benefits
                       336 Deerfield Road | Boone, NC       and does not discriminate on the    health information.                 creates and publishes the Machine-
-                      28607 | ( 828 ) 262-4100             basis of race, color, national origin, [ @ 254 ] Click to view / download Readable Files on behalf of
+                      28607 | ( 828 ) 262-4100             basis of race, color, national origin, ⚫ [ @ 254 ] Click to view / download Readable Files on behalf of
                                                            age, disability, or sex.              our full Notice of Privacy        Appalachian Regional Healthcare
                        [ @ 249 ] Newsroom                               to view our full         Practices >                       System. To link to the Machine-
                                                            • [ @ 252 ] Click
-                       [ @ 250 ] About ARHS                 statement of nondiscrimination                                          Readable Files, please
-                                                                                               ⚫ [ @ 255 ] Click to view our
+                       [ @ 250 ] About ARHS                 statement of nondiscrimination        @ 255 ] Click to view our         Readable Files, please
+                                                                                                 [
                                                                                                  Patient Rights &                   [ @ 257 ] click here.
-                                                                                                 Responsibilities >
-                                                                                                                                    [ 258 ] You have rights and
+                                                                                                 Responsibilities >                 [ 258 ] You have rights and
                                                                                                                                    protections against surprise medical
                                                                                                                                    bills & a right to a good faith
                                                                                                                                    estimate. [ @ 259 ] Click here to
                                                                                                                                    Estimate Your Healthcare Costs.
-                                                                                                                                   ⚫ [ @ 260 ] Click to view your
+                                                                                                                                   • [ @ 260 ] Click to view your
                                                                                                                                      Rights and Protections Against
                                                                                                                                      Surprise Medical Bills
                                                                                                                                    ⚫ [ 261 ] Click to view your right to
-                                                                                                                                     receive a" [ @ 263 ] Good Faith
-                                                                                                                                     Estimate [ 262 ]"
+                                                                                                                                     receive a" [ @ 262 ] Good Faith
+                                                                                                                                     Estimate"
 
 
-                                                                                                                                      [ @ 264 ]       [ @ 265 ]
-                       [ 266 ] Powered by: [ @ 267 ] Big Boom Design                                                              [ 268 ] © 2023 UNC Health Appalachian
+                                                                                                                                     [ @ 263 ]        [ @ 264 ]
+                       [ 265 ] Powered by: [ @ 266 ] Big Boom Design                                                              [ 267 ] © 2023 UNC Health Appalachian
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 3022
+Image timing: 1.44 seconds
+Page text timing: 6.56 seconds
+Token count: 3012

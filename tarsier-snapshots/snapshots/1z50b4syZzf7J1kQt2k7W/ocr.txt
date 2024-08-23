@@ -32,4 +32,6 @@
                    [ @ 56 ] Decreto ministeriale dell' 11 febbraio 2022
                  [ 55 ] Modifica del programma complementare di azione e coesione per la governance dei sistemi di gestione e controllo
 ----------------------------------------------------------------------------------------------------------------------------------
+Image timing: 4.07 seconds
+Page text timing: 3.45 seconds
 Token count: 653

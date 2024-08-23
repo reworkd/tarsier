@@ -57,23 +57,23 @@
                 [ 53 ] Suite 100                           [ 56 ] Suite 150                           [ 59 ] Suite 100                          Medicine
                 [ @ 54 ] 513-475-8521                      [ @ 57 ] 513-936-4568                     [ @ 60 ] 513-475-8525                       [ 62 ] Suite 100
                                                                                                                                                 [ @ 63 ] 513-475-8690
-                [ @ 64 ] Orthopaedics & Sports             [ 67 ] Primary Care                       [ 70 ] Pulmonary
+                [ @ 64 ] Orthopaedics & Sports             [ 67 ] Primary Care                        [ 70 ] Pulmonary
                Medicine                                    [ 68 ] Suite 200                           [ 71 ] Suite 100
                 [ 65 ] Suite 300                           [ @ 69 ] 513-936-4510
                 [ @ 66 ] 513-475-8690
 
-                                                                          [ 72 ]      [ 73 ]    [ 74 ] 1   [ 75 ]     [ 76 ]
+                                                                                                [ 72 ] 1
 
 
 
 
 
 
-                                                                                      [ 77 ] CONTACT US
-                     [ 78 ] At UC Health, we lead the region in scientific discoveries and embrace a spirit of purpose - offering our patients and their families something beyond
+                                                                                      [ 73 ] CONTACT US
+                     [ 74 ] At UC Health, we lead the region in scientific discoveries and embrace a spirit of purpose - offering our patients and their families something beyond
                                                                          everyday healthcare. At UC Health, we offer hope.
 
-                                                                                                [ @ 79 ]
+                                                                                                [ @ 75 ]
                                                                                     For more information, call:
                                                                                             513-936-4510
 
@@ -81,25 +81,25 @@
 
 
 
-                                                                                         [ $ 80 ] Back to Top
+                                                                                         [ $ 76 ] Back to Top
 
 
-               UC Health                                                                                                            [ @ 87 ]   [ @ 88 ]    [ @ 89 ]   [ @ 90 ]    [ @ 91 ]
-                                                                                                                                               ►
-                                                                                                                                    Faceb      Instag      Linkec     Twitte     YouT
-             [ @ 81 ] Employees & Staff
-              [ @ 82 ] Joint Commission Accreditation
-             [ @ 83 ] Leadership
-              [ @ 84 ] Supplier Diversity & Community Engagement
-              [ @ 85 ] UC Health Code of Conduct
-             [ @ 86 ] UC Health Foundation
-
-
-
+               UC Health                                                                                                            [ @ 83 ]   [ @ 84 ]    [ @ 85 ]   [ @ 86 ]    [ @ 87 ]
+                                                                                                                                               >
+                                                                                                                                    Faceb      Instag      Linkec     Twitte     YouTu
+             [ @ 77 ] Employees & Staff
+             [ @ 78 ] Joint Commission Accreditation
+              [ @ 79 ] Leadership
+              [ @ 80 ] Supplier Diversity & Community Engagement
+              [ @ 81 ] UC Health Code of Conduct
+             [ @ 82 ] UC Health Foundation
 
 
 
-              [ 97 ] © 2023 UC Health. All rights reserved.             [ @ 92 ] Privacy   [ @ 93 ] Terms &      [ @ 94 ] Notice of        [ @ 95 ] Non-              [ @ 96 ] Advertising
+
+
+
+              [ 93 ] © 2023 UC Health. All rights reserved.             [ @ 88 ] Privacy   [ @ 89 ] Terms &      [ @ 90 ] Notice of        [ @ 91 ] Non-              [ @ 92 ] Advertising
                                                                        Policy              Conditions            Privacy Practices         Discrimination Policy     Disclosure
 
 
@@ -116,4 +116,6 @@ here ...
 
 Welcome to UC Health. Can I help answer something for you?
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 930
+Image timing: 1.48 seconds
+Page text timing: 1.61 seconds
+Token count: 909

@@ -79,51 +79,53 @@
                                                 [ 43 ] Meta is committed to providing reasonable support ( called accommodations ) in our recruiting processes for
                                                candidates with disabilities, long term conditions, mental health conditions or sincerely held religious beliefs, or
                                                who are neurodivergent or require pregnancy - related support. If you need support, please reach out to
-                                                [ @ 45 ] accommodations-ext@fb.com [ 44 ].
+                                                [ @ 44 ] accommodations-ext@fb.com.
 
 
 
-                                                [ 46 ] Related Job Openings
-                                                [ @ 47 ] Engineering Manager, Computer Vision     [ @ 49 ] Engineering Manager, Computer Vision -
+                                                [ 45 ] Related Job Openings
+                                                [ @ 46 ] Engineering Manager, Computer Vision     [ @ 48 ] Engineering Manager, Computer Vision -
                                                ( XR People Tracking ) - Zurich                    Zurich
-                                                [ 48 ] Zurich, Switzerland                        [ 50 ] Zurich, Switzerland
+                                                [ 47 ] Zurich, Switzerland                        [ 49 ] Zurich, Switzerland
 
-                                                [ @ 51 ] Research Scientist Intern, Machine       [ @ 53 ] Research Scientist - Mixed Reality
-                                               Perception for Input and Interaction ( PhD )       [ 54 ] Facebook | Zurich, Switzerland +1 More
-                                                [ 52 ] Zurich, Switzerland
+                                                [ @ 50 ] Research Scientist Intern, Machine       [ @ 52 ] Research Scientist - Mixed Reality
+                                               Perception for Input and Interaction ( PhD )       [ 53 ] Facebook | Zurich, Switzerland + 1 More
+                                                [ 51 ] Zurich, Switzerland
 
-                                                [ @ 55 ] Software Engineer - Unreal Tools         [ @ 57 ] Software Engineer, Computer Vision -
-                                                [ 56 ] Zurich, Switzerland +1 More                Reality Labs
-                                                                                                  [ 58 ] Zurich, Switzerland
+                                                [ @ 54 ] Software Engineer - Unreal Tools         [ @ 56 ] Software Engineer, Computer Vision -
+                                                [ 55 ] Zurich, Switzerland +1 More                Reality Labs
+                                                                                                  [ 57 ] Zurich, Switzerland
 
-                                                [ @ 59 ] → View All Related Jobs
+                                                [ @ 58 ] → View All Related Jobs
 
 
 
-                    [ 60 ] Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex
+                    [ 59 ] Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex
                     ( including pregnancy, childbirth, reproductive health decisions, or related medical conditions ), sexual orientation, gender identity, gender expression, age, status as a protected
                     veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. You may view our Equal
-                    Employment Opportunity notice [ @ 65 ] here. [ 61 ] We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. We may
-                    use your information to maintain the safety and security of Meta, its employees, and others as required or permitted by law. You may view [ @ 66 ] Meta's Pay Transparency.
-                    Policy, [ @ 67 ] Equal Employment Opportunity is the Law [ 62 ] notice, and [ @ 68 ] Notice to Applicants for Employment and Employees [ 63 ] ] by clicking on their corresponding
-                    links. Additionally, Meta participates in the [ @ 69 ] E - Verify_program [ 64 ] in certain locations, as required by law.
+                    Employment Opportunity notice [ @ 64 ] here. [ 60 ] We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. We may
+                    use your information to maintain the safety and security of Meta, its employees, and others as required or permitted by law. You may view [ @ 65 ] Meta's Pay Transparency.
+                    Policy, [ @ 66 ] Equal Employment Opportunity is the Law [ 61 ] notice, and [ @ 67 ] Notice to Applicants for Employment and Employees [ 62 ] ] by clicking on their corresponding
+                    links. Additionally, Meta participates in the [ @ 68 ] E - Verify_program [ 63 ] in certain locations, as required by law.
 
-                    [ 70 ] Meta is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need
-                    assistance or an accommodation due to a disability, you may contact us at [ @ 72 ] accommodations-ext@fb.com [ 71 ].
+                    [ 69 ] Meta is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need
+                    assistance or an accommodation due to a disability, you may contact us at [ @ 70 ] accommodations-ext@fb.com.
 
-                    [ 75 ] About us      [ 80 ] On social    [ 85 ] Our policies  [ 89 ] More                                                                  [ @ 74 ] Report a bug
-                                                                                  resources                                                                [ 73 ]
-                    [ @ 76 ] Company info [ @ 81 ] Facebook  [ @ 86 ] Candidate
-                                                             privacy statement    [ @ 90 ] Family safety                                                  © Meta 2023
-                    [ @ 77 ] Newsroom    [ @ 82 ] Instagram                       center
-                                                             [ @ 87 ] Cookies
-                    [ @ 78 ] Careers FAQs [ @ 83 ] LinkedIn                       [ @ 91 ] Meta for
-                                                             [ @ 88 ] Vaccination business
-                    [ @ 79 ] Looking for [ @ 84 ] Threads    entry policy
+                    [ 73 ] About us      [ 78 ] On social    [ 83 ] Our policies  [ 87 ] More                                                                  [ @ 72 ] Report a bug
+                                                                                  resources                                                                [ 71 ] ]
+                    [ @ 74 ] Company info [ @ 79 ] Facebook  [ @ 84 ] Candidate
+                                                             privacy statement    [ @ 88 ] Family safety                                                  © Meta 2023
+                    [ @ 75 ] Newsroom    [ @ 80 ] Instagram                       center
+                                                             [ @ 85 ] Cookies
+                    [ @ 76 ] Careers FAQs [ @ 81 ] LinkedIn                       [ @ 89 ] Meta for
+                                                             [ @ 86 ] Vaccination business
+                    [ @ 77 ] Looking for [ @ 82 ] Threads    entry policy
                     contractor roles?
-                                                                                  [ @ 92 ] Meta for
+                                                                                  [ @ 90 ] Meta for
                                                                                   developers
 
-[ # 93 ]
+[ # 91 ]
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1580
+Image timing: 3.56 seconds
+Page text timing: 7.36 seconds
+Token count: 1574

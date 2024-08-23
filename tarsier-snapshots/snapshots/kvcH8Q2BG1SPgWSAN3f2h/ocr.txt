@@ -1,132 +1,129 @@
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 13 [ $ 4 ]
 
-                                                                    [ @ 15 ] Find a          [ @ 16 ] Patients &            [ 17 ] Find a          [ @ 18 ] Medical          [ @ 19 ] Wellness            о
-   SCAPE COD HEALTHCARE                                                **Provic**                  Visitors                 [ # 10 ] cation           Services                      Wise
-    [ @ 5 ]                   [ @ 6 ]                     [ @ 7 ]               @ 8 ]                                                                                   [ $ 11 ]    [ @ 12 ]
-                                                                                                                                                                                           Portal
+                                                                     [ @ 15 ] Find a          [ @ 16 ] Patients &            [ 17 ] Find a          [ @ 18 ] Medical           [ @ 19 ] Wellness            о
+   SCAPE COD HEALTHCARE                                                **Provic**                   Visitors                 [ # 10 ] cation            Services                      Wise
+    [ @ 5 ]                   [ @ 6 ]                     [ @ 7 ]                @ 8 ]                                                                                   [ $ 11 ]    [ @ 12 ]
+                                                                                                                                                                                             Portal
 
-                                                                        [ @ 21 ] Urgent Care: Holiday Hours & Closures
+                                                                         [ @ 21 ] Urgent Care: Holiday Hours & Closures
 
      [ @ 23 ] Home  [ 24 ] Find a Location
 
     [ 25 ] Find a Location
-                                                           **[ 37 ] Find a Location**
-                                                           [ $ 38 ] Location Name                [ $ 40 ] Address, City or ZIP Code                                                [ $ 43 ] Radius
-     [ @ 26 ] Storm Related Closures or Delays             [ # 39 ]                              [ # 41 ]
-                                                                                                                                                                                   Any
-                                                                                                          , City or ZIP Code                  [ $ 42 ] Your Current Location
-                                                                                                Address
-      [ 27 ] Visitation
+                                                            **[ 37 ] Find a Location**
+                                                            [ $ 38 ] Location Name                [ $ 40 ] Address, City or ZIP Code                                                 [ $ 43 ] Radius
+      [ @ 26 ] Storm Related Closures or Delays             [ # 39 ]                              [ # 41 ]
+                                                                                                                                                                                     Any
+                                                                                                           , City or ZIP Code                  [ $ 42 ] Your Current Location
+                                                                                                 Address
+       [ 27 ] Visitation
                                                            [ $ 44 ] Search
       Restrictions
-      [ 28 ] At Cape Cod Healthcare, the
+       [ 28 ] At Cape Cod Healthcare, the
       safety of our patients and staff is our
-      highest priority. Effective May 11, 2023                                                         **[ @ 45 ] Cape Cod Healthcare Pharmacy -**
+      highest priority. Effective May 11, 2023                                                          **[ @ 45 ] Cape Cod Healthcare Pharmacy -**
       we have updated our visitation and
-                                                                                                       **Falmouth**
-      accompaniment policy for CCHC
-      hospitals and facilities.                                                                        [ 48 ] Falmouth Hospital                                            [ 46 ] Main: [ 47 ] 508-495-7520
-                                                                                                       [ 49 ] 100 Ter Heun Drive                                            @ 54 ] Get Driving Directions
-                                                                                                                                                                            [
-          [ @ 29 ] Learn More                                                                          [ 51 ] Falmouth [ 50 ], [ 52 ] MA [ 53 ] 02540
+                         policy for CCHC                                                                **Falmouth**
+      accompaniment
+      hospitals and facilities.                                                                         [ 48 ] Falmouth Hospital                                            [ 46 ] Main: [ 47 ] 508-495-7520
+                                                                                                        [ 49 ] 100 Ter Heun Drive
+                                                                                                                                                                             [ @ 53 ] Get Driving Directions
+          [ @ 29 ] Learn More                                                                           [ 50 ] Falmouth, [ 51 ] MA [ 52 ] 02540
 
-                                                                                                       **[ @ 55 ] Cape Cod Healthcare Pharmacy -**
+                                                                                                        **[ @ 54 ] Cape Cod Healthcare Pharmacy -**
          [ 30 ] receive
-                                                                                                       **Hyannis**
-                                                                                                       [ 58 ] Cape Cod Hospital                                            [ 56 ] Main: [ 57 ] 508-862-5900
-           **[ 31 ] health**                                                                            59 ] 27 Park Street
-                                                                                                       [                                                                    @ 64 ] Get Driving Directions
-                                                                                                                                                                           [
-           news                                                                                        [ 61 ] Hyannis [ 60 ], [ 62 ] MA [ 63 ] 02601
+                                                                                                        **Hyannis**
+                                                                                                        [ 57 ] Cape Cod Hospital                                            [ 55 ] Main: [ 56 ] 508-862-5900
+           **[ 31 ] health**                                                                            [ 58 ] 27 Park Street
+                                                                                                                                                                             [ @ 62 ] Get Driving Directions
+           news                                                                                         [ 59 ] Hyannis, [ 60 ] MA [ 61 ] 02601
 
                [ 32 ] Receive a
-                                                                                                       **[ @ 65 ] Cape Cod Healthcare Urgent Care -**
+                                                                                                        **[ @ 63 ] Cape Cod Healthcare Urgent Care -**
                weekly email of the
-               latest news from                                                                        Falmouth
-               Cape Cod Health                                                                         [ 68 ] 273 Teaticket Highway                                        [ 66 ] Main: [ 67 ] 508-495-8000
-               News.                                                                                   [ 70 ] Falmouth [ 69 ], [ 71 ] MA [ 72 ] 02540                       @ 73 ] Get Driving Directions
-                                                                                                                                                                            [
+               latest news from                                                                         **Falmouth**
+               Cape Cod Health                                                                          [ 66 ] 273 Teaticket Highway                                        [ 64 ] Main: [ 65 ] 508-495-8000
+               News.                                                                                    [ 67 ] Falmouth, [ 68 ] MA [ 69 ] 02540                              [ @ 70 ] Get Driving Directions
 
                    [ @ 33 ] Subscribe
                      to Cape Cod
-                                                                                                       **[ @ 74 ] Cape Cod Hospital**
+                                                                                                        **[ @ 71 ] Cape Cod Hospital**
                      Health News
-                                                                                                       [ 77 ] Cape Cod Hospital                                            [ 75 ] Main: [ 76 ] 508-771-1800
-                                                                                                       [ 78 ] 27 Park Street
-                                                                                                                                                                           [ @ 83 ] Get Driving Directions
-                                                                                                       [ 80 ] Hyannis [ 79 ], [ 81 ] MA [ 82 ] 02601
-                                                                                                                                                               [ @ 84 ] Find a Physician at this Location
+                                                                                                        [ 74 ] Cape Cod Hospital                                            [ 72 ] Main: [ 73 ] 508-771-1800
+                                                                                                        [ 75 ] 27 Park Street
+                                                                                                                                                                             [ @ 79 ] Get Driving Directions
+                                                                                                        [ 76 ] Hyannis, [ 77 ] MA [ 78 ] 02601
+                                                                                                                                                                 [ @ 80 ] Find a Physician at this Location
           [ 34 ] Expert physicians, local
          insight
           [ 35 ] Cape Cod Health News is your
-         go - to source for timely, informative                                                                                     **Cod Surgery Center**
-                                                                                                       **[ @ 85 ] Cape**
+         go - to source for timely, informative                                                           **@ 81 ] Cape Cod Surgery Center**
+                                                                                                        [
          and credible health news. Engaging
-         stories provide the latest health                                                             [ 88 ] 160 Falmouth Road                                            [ 86 ] Main: [ 87 ] 774-361-8700
-         information, with expert advice and                                                           [ 90 ] Mashpee [ 89 ], [ 91 ] MA [ 92 ] 02649                       [ @ 93 ] Get Driving Directions
+         stories provide the latest health                                                              [ 84 ] 160 Falmouth Road                                            [ 82 ] Main: [ 83 ] 774-361-8700
+         information, with expert advice and                                                            [ 85 ] Mashpee, [ 86 ] MA [ 87 ] 02649                               [ @ 88 ] Get Driving Directions
          commentary from local doctors and
          other providers.
           [ 36 ] Through Cape Cod Health News,
          we're keeping our patients, family
-         members, friends and community                                                                **[ @ 94 ] Clark Cancer Center**
+         members, friends and community                                                                 **[ @ 89 ] Clark Cancer Center**
                                                                          CLARK CANCER CENTER
-         members better informed about the                                                             [ 97 ] Falmouth Hospital Medical Office                             [ 95 ] Main: [ 96 ] 508-495-8900
-         often confusing and changing nature                                                           Building
-         of healthcare.                                                                                                                                                   [ @ 103 ] Get Driving Directions
-                                                                                                       [ 98 ] 90 Ter Heun Drive
-                                                                                                                                                              [ @ 104 ] Find a Physician at this Location
-                                                                                                       [ 100 ] Falmouth [ 99 ], [ 101 ] MA
-                                                                                                       [ 102 ] 02540
+         members better informed about the                                                               92 ] Falmouth Hospital Medical Office                              [ 90 ] Main: [ 91 ] 508-495-8900
+                                                                                                        [
+         often confusing and changing nature                                                            Building
+         of healthcare.                                                                                                                                                      [ @ 97 ] Get Driving Directions
+                                                                                                        [ 93 ] 90 Ter Heun Drive
+                                                                                                                                                                 [ @ 98 ] Find a Physician at this Location
+                                                                                                        [ 94 ] Falmouth, [ 95 ] MA [ 96 ] 02540
 
-                                                                                                       **[ @ 105 ] Emergency Center at Cape Cod**
-                                                                                                       **Hospital**
-                                                                                                       [ 108 ] Cape Cod Hospital                                        [ 106 ] Main: [ 107 ] 508-771-1800
-                                                                                                       [ 109 ] 27 Park Street
-                                                                                                                                                                          [ @ 114 ] Get Driving Directions
-                                                                                                       [ 111 ] Hyannis [ 110 ], [ 112 ] MA                    [ @ 115 ] Find a Physician at this Location
-                                                                                                       [ 113 ] 02601
+                                                                                                        **[ @ 99 ] Emergency Center at Cape Cod**
+                                                                                                        **Hospital**
+                                                                                                        [ 102 ] Cape Cod Hospital                                        [ 100 ] Main: [ 101 ] 508-771-1800
+                                                                                                        [ 103 ] 27 Park Street
+                                                                                                                                                                            [ @ 107 ] Get Driving Directions
+                                                                                                        [ 104 ] Hyannis, [ 105 ] MA [ 106 ] 02601              [ @ 108 ] Find a Physician at this Location
+                                                                                 **90**
+                                                                                 90                     **[ @ 109 ] Falmouth Hospital Rehabilitation**
+                                                                                       MEDICA FICE BUILDING **Center**
+                                                                                                        [ 112 ] Falmouth Hospital Medical Office                          [ 110 ] Main: [ 111 ] 508-495-7600
+                                                                                                        Building
+                                                                                                                                                                            [ @ 117 ] Get Driving Directions
+                                                                                                        [ 113 ] 90 Ter Heun Drive
+                                                                                                        [ 114 ] Falmouth, [ 115 ] MA [ 116 ] 02540
 
-
-                                                                                90                     **[ @ 116 ] Falmouth Hospital Rehabilitation**
-                                                                                            FICE BUILDING Center
-                                                                                                       [ 119 ] Falmouth Hospital Medical Office                         [ 117 ] Main: [ 118 ] 508-495-7600
-                                                                                                       Building
-                                                                                                                                                                          [ @ 125 ] Get Driving Directions
-                                                                                                       [ 120 ] 90 Ter Heun Drive
-                                                                                                       [ 122 ] Falmouth [ 121 ], [ 123 ] MA
-                                                                                                       [ 124 ] 02540
-
-                                                                                                       **[ @ 126 ] Heritage at Falmouth**
-                                                                                                       [ 129 ] 140 Ter Heun Drive                                       [ 127 ] Main: [ 128 ] 508-495-1518
-                                                                                                       [ 131 ] Falmouth [ 130 ], [ 132 ] MA                               [ @ 134 ] Get Driving Directions
-                                                                                                       [ 133 ] 02540
-
-
-                                                                                                       **[ @ 135 ] JML Care Center**
-                                                                                                       [ 138 ] 184 Ter Heun Drive                                       [ 136 ] Main: [ 137 ] 508-457-4621
-                                                                                                       [ 140 ] Falmouth [ 139 ], [ 141 ] MA                               [ @ 143 ] Get Driving Directions
-                                                                                                       [ 142 ] 02540
+                                                                                                        **[ @ 118 ] Heritage at Falmouth**
+                                                                                                        [ 121 ] 140 Ter Heun Drive                                        [ 119 ] Main: [ 120 ] 508-495-1518
+                                                                                                        [ 122 ] Falmouth, [ 123 ] MA [ 124 ] 02540                          [ @ 125 ] Get Driving Directions
 
 
 
-                  [ @ 144 ] patient         [ @ 145              [ @ 146 ] view           [ @ 147 ] estimate         [ @ 148 ] request                  [ @ 149 ] find
-                                                    ] pay
-                                                                                                                                                                              [ @ 150 ] access
-                 **help**                   a                    wait                    cost of                    medical                             a
-                                            bill                                                                                                        career               **MyChart**
-                 center                                          times                   care                       records
+                                                                                                        **[ @ 126 ] JML Care Center**
+                                                                                                        [ 129 ] 184 Ter Heun Drive                                       [ 127 ] Main: [ 128 ] 508-457-4621
+                                                                                                        [ 130 ] Falmouth, [ 131 ] MA [ 132 ] 02540                          [ @ 133 ] Get Driving Directions
 
 
 
 
-                                                                   [ @ 152 ] About Us      [ @ 153 ] Careers      [ @ 154 ] Employee & Physician Login | [ @ 155 ] ASL & Interpreter Services
-           **f ♥ ■ @ in**
+                  [ @ 134 ] patient         [ @                  [ @ 136 ] view            [ @ 137 ] estimate         [ @ 138 ] request                    @ 139 ] find
+                                                135 ] pay                                                                                                 [
+                                            a                                                                                                                                  [ @ 140 ] access
+                 **help**                                        wait                     cost of                    medical                              a
+                                            bill                                                                                                          career               **MyChart**
+                 center                                          times                    care                       records
 
-        [ @ 161 ] Patient Help Center                                                                                               [ @ 167 ] Google Translate Disclaimer [ pdf ] G [ @ 166 ] Select Language | ▼
-                                                   [ # 164 ]
-        [ 162 ]                                                                                 [ $ 165 ]
-   [ 1 ] Like most websites, we use cookies and other similar technologies for a number of reasons, such as keeping our website reliable and secure, personalizing content, providing social media features
-   and to better understand how our site is used. By using our site, you are agreeing to our use of these tools. [ 2 ] Lear [ 168 ] e                                                [ @ 169 ]
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1738
+
+
+
+                                                                    [ @ 142 ] About Us      [ @ 143 ] Careers      [ @ 144 ] Employee & Physician Login           [ @ 145 ] ASL & Interpreter Services
+           **fyin**
+
+        [ @ 151 ] Patient Help Center                                                                                                [ @ 157 ] Google Translate Disclaimer [ pdf ] G [ @ 156 ] Select Language | ▼
+                                                    [ # 154 ]
+        [ 152 ]                                                                                  [ $ 155 ]
+   [ 1 ] Like most websites, we use cookies and other similar technologies for a number of reasons, such as keeping our website reliable and secure, personalizing content, providing social media features ☑
+   and to better understand how our site is used. By using our site, you are agreeing to our use of these tools. [ @ 2 ] Lear [ 158 ] Te                                              [ @ 159 ]
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Image timing: 4.56 seconds
+Page text timing: 2.27 seconds
+Token count: 1697

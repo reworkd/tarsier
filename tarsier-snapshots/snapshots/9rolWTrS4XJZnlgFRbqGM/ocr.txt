@@ -2,7 +2,7 @@
 **[ 39 ] Find a Location**
 
                                    [ $ 41 ] Search Locations      [ $ 43 ] Search by Zip Code     [ $ 45 ] Category               [ $ 47 ] Services
-                                   [ # 42 ]                Q      [ # 44 ]                 a      [ $ 46 ]                       [ $ 48 ] Services
+                                  [ # 42 ]                 Q      [ # 44 ]                 a      [ $ 46 ]                       [ $ 48 ] Services
                                     Search Term                    Zip Code
                                                                                                                                           [ @ 49 ] Clear Filters
 
@@ -29,4 +29,6 @@
    [ 65 ] Suite A
     [ 66 ] Fairhope, AL 36532
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
+Image timing: 10.52 seconds
+Page text timing: 4.31 seconds
 Token count: 303

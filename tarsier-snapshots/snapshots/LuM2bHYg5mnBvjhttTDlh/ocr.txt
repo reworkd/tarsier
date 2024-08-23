@@ -3,110 +3,111 @@
 
              Adventist [ @ 8 ]
              HealthCare
-                                                                                                                                                                           Search                 [ # 16 ] ]
-           [ @ 10 ] FIND A DOCTOR      [ @ 11 ] HEALTH SERVICES         [ @ 12 ] LOCATIONS        [ @ 13 ] CLASSES & EVENTS        [ @ 14 ] PATIENTS & VISITORS
+                                                                                                  @ 13 ] CLASSES & EVENTS                                                  Search                 [ # 16 ] ]
+           [ @ 10 ] FIND A DOCTOR      [ @ 11 ] HEALTH SERVICES         [ @ 12 ] LOCATIONS        [                                [ @ 14 ] PATIENTS & VISITORS
                                                                                                                                                                                                   [ $ 17 ]
 
-                                                                 [ @ 19 ] Home [ 20 ] [ @ 21 ] Locations [ 22 ] [ 23 ] Search Results
+                                                                     [ @ 19 ] Home / [ @ 20 ] Locations / [ 21 ] Search Results
 
 
-              **[ 24 ] Locations**
-              [ 25 ] Find an Adventist HealthCare hospital, clinic or other type of location near you in the Maryland and Washington D.C. area.
+              **[ 22 ] Locations**
+              [ 23 ] Find an Adventist HealthCare hospital, clinic or other type of location near you in the Maryland and Washington D.C. area.
 
-                [ 26 ] Refine Search
-                                                                    56 ]              [ @ 37 ] Adventist HealthCare                                    [ @ 48 ] Adventist HealthCare
-                [ $ 27 ] Location Name [ # 28 ] ]                                     Cardiac Associates                                              Cardiac Associates
-                                                                                      [ 38 ] 301-670-3000                                              [ 49 ] 301-634-4800
-                                                                                      [ 40 ] 15225 Shady Grove Road                                    [ 51 ] 12501 Prosperity Drive
-                [ $ 29 ] Location Category                                            [ 41 ] Suite 201                                                 [ 52 ] Suite 300
-               [ $ 30 ] Location                                                      [ 42 ] Rockville [ 39 ], [ 43 ] MD                               [ 53 ] Silver Spring [ 50 ], [ 54 ] MD
-                               Category                                               [ 44 ] 20850                                                     [ 55 ] 20904
-                [ $ 31 ] Radius                                                       [ @ 45 ] Get Driving Directions                                  [ @ 56 ] Get Driving Directions
-                 Any                                                                  [ @ 46 ] Doctors at this Location                                [ @ 57 ] Doctors at this Location
+                [ 24 ] Refine Search
+                                                                     54 ]             [ @ 35 ] Adventist HealthCare                                    [ @ 45 ] Adventist HealthCare
+                [ $ 25 ] Location Name [ # 26 ] ]                                     Cardiac Associates                                              Cardiac Associates
+                                                                                      [ 36 ] 301-670-3000                                              [ 46 ] 301-634-4800
+                                                                                      [ 37 ] 15225 Shady Grove Road                                    [ 47 ] 12501 Prosperity Drive
+                [ $ 27 ] Location Category                                            [ 38 ] Suite 201                                                 [ 48 ] Suite 300
+               [ $ 28 ]                                                               [ 39 ] Rockville, [ 40 ] MD                                      [ 49 ] Silver Spring, [ 50 ] MD.
+                      Location Category                                                                                                                51 ] 20904
+                                                                                      [ 41 ] 20850                                                     [
+                [ $ 29 ] Radius                                                       [ @ 42 ] Get Driving Directions                                  [ @ 52 ] Get Driving Directions
+                 Any                                                                  [ @ 43 ] Doctors at this Location                                [ @ 53 ] Doctors at this Location
 
-                [ $ 32 ] Address, City or ZIP Code
-                [ # 33 ]
-                                                                                      [ @ 59 ] Adventist HealthCare                                    [ @ 70 ] Adventist HealthCare
+                [ $ 30 ] Address, City or ZIP Code
+                [ # 31 ]
+                                                                                      [ @ 55 ] Adventist HealthCare                                    [ @ 65 ] Adventist HealthCare
                  Address, City or ZIP Code                                            Cardiac Associates                                              Choice Nursing
-                                                                                                                                  Nursing PRAIZCare
-                                                                                      [ 60 ] 240-449-1100                                              [ 71 ] 301-592-4600
-               [ $ 34 ] YOUR CURRENT LOCATION                                         [ 62 ] 19735 Germantown Road                                     [ 73 ] 12041 Bournefield Way
-                                                                                      [ 63 ] Suite 190                                                 [ 74 ] Suite B
-                                                                                      [ 64 ] Germantown [ 61 ], [ 65 ] MD                              [ 75 ] Silver Spring [ 72 ], [ 76 ] MD
-               [ $ 35 ] ARCH                                                          [ 66 ] 20874                                                     [ 77 ] 20904
-                                                                                      [ @ 67 ] Get Driving Directions                                  [ @ 78 ] Get Driving Directions
-                                                                                      [ @ 68 ] Doctors at this Location
+                                                                                                                                  Nursing
+                                                                                      [ 56 ] 240-449-1100                                              [ 66 ] 301-592-4600
+               [ $ 32 ] YOUR CURRENT LOCATION                                         [ 57 ] 19735 Germantown Road                                     [ 67 ] 12041 Bournefield Way
+                                                                                      [ 58 ] Suite 190                                                 [ 68 ] Suite B
+                                                                                      [ 59 ] Germantown, [ 60 ] MD                                     [ 69 ] Silver Spring, [ 70 ] MD
+               [ $ 33 ] ARCH                                                          [ 61120874                                                       [ 71 ] 20904
+                                                                                      [ @ 62 ] Get Driving Directions                                  [ @ 72 ] Get Driving Directions
+                                                                                      [ @ 63 ] Doctors at this Location
 
 
-                                                                                      [ @ 81 ] Adventist HealthCare                                    [ @ 90 ] Adventist HealthCare
+                                                                                      [ @ 75 ] Adventist HealthCare                                   [ @ 83 ] Adventist HealthCare
                                                                                       Fort Washington Medical                                         Germantown Emergency
                                                                                       Center                                                          Center
-                                                                               E      [ 82 ] 301-292-7000                                              [ 91 ] 301-444-8000
-                                                                                      [ 84 ] 11711 Livingston Road                                     [ 93 ] 19731 Germantown Road
-                                                                                      [ 85 ] Fort Washington [ 83 ] ],                                 [ 94 ] Germantown [ 92 ], [ 95 ] MD
-                                                                                      [ 86 ] MD [ 87 ] 20744                                           [ 96 ] 20874
-                                                                    [ @ 80 ] FIND A
+                                                                                      [ 76 ] 301-292-7000                                              [ 84 ] 301-444-8000
+                                                                                      [ 77 ] 11711 Livingston Road                                     [ 85 ] 19731 Germantown Road
+                                                                                      [ 78 ] Fort Washington, [ 79 ] MD                                [ 86 ] Germantown,  [ 87 ] MD
+                                                                                      [ 80 ] 20744                                                     [ 88 ] 20874
+                                                                    [ @ 74 ] FIND A
                                                                       DOCTOR
-                                                                                      [ @ 88 ] Get Driving Directions                                  [ @ 97 ] Get Driving Directions
+                                                                                      [ @ 81 ] Get Driving Directions                                  [ @ 89 ] Get Driving Directions
 
 
-                                                                      8 ]             [ @ 100 ] Adventist HealthCare                 109 ]             [ @ 111 ] Adventist HealthCare
+                                                                                      [ @ 92 ] Adventist HealthCare                  100 ]             [ @ 102 ] Adventist HealthCare
                                                                                       Home Assistance                                                 Home Health
                                                                   Assistance                                                            Adventist
-                                                                                      [ 101 ] 301-592-4500                                   HealthCare [ 112 ] 301-592-4400
-                                                                                      [ 103 ] 12041 Bournefield Way                                    [ 114 ] 12041 Bournefield Way
-                                                                                      [ 104 ] Suite B                                                  [ 115 ] Suite B
-                                                                                      [ 105 ] Silver Spring [ 102 ],                                   [ 116 ] Silver Spring [ 113 ],
-                                                                         ] FREE       [ 106 ] MD. [ 107 ] 20904                            ]           [ 117 ] MD [ 118 ] 20904
-                                                                     [ @ 99                                                          [ @ 110 FREE
+                                                                                      [ 93 ] 301-592-4500                                    HealthCare [ 103 ] 301-592-4400
+                                                                                      [ 94 ] 12041 Bournefield Way                                     [ 104 ] 12041 Bournefield Way
+                                                                                      [ 95 ] Suite B                                                   [ 105 ] Suite B
+                                                                                      [ 96 ] Silver Spring, [ 97 ] MD                                  [ 106 ] Silver Spring, [ 107 ] MD.
+                                                                     [ @ 91 ] FREE    [ 98 ] 20904                                    @ 101 ] FREE     [ 108 ] 20904
+                                                                                                                                     [
                                                                    CONSULTATION                                                    CONSULTATION
-                                                                                      [ @ 108 ] Get Driving Directions                                 [ @ 119 ] Get Driving Directions
+                                                                                      [ @ 99 ] Get Driving Directions                                  [ @ 109 ] Get Driving Directions
 
 
-                                                                     120 ]            [ @ 122 ] Adventist HealthCare                 130 ]             [ @ 132 ] Adventist HealthCare
+                                                                     110 ]            [ @ 112 ] Adventist HealthCare                 119 ]             [ @ 121 ] Adventist HealthCare
                                                                                       Imaging                                                         Imaging
-                                                                           ANA        [ 123 ] 240-780-4000                                             [ 133 ] 301-762-8155
-                                                                                      [ 125 ] 12008 Cherry Hill Road                                   [ 135 ] 9711 Medical Center Drive
-                                                                                      [ 126 ] Silver Spring [ 124 ],                                   [ 136 ] Suite 101
-                                                                                      [ 127 ] MD [ 128 ] 20904                                         [ 137 ] Rockville [ 134 ], [ 138 ] MD
-                                                                                                                                                       [ 139 ] 20850
-                                                                    [ @ 121 ] CALL     @ 129 ] Get Driving Directions                [ @ 131 ] CALL
-                                                                   TO SCHEDULE        [                                             TO SCHEDULE
-                                                                                                                                                       [ @ 140 ] Get Driving Directions
-                                                                                                                                                       [ @ 141 ] Doctors at this Location
+                                                                           ANA        [ 113 ] 240-780-4000                                             [ 122 ] 301-762-8155
+                                                                                      [ 114 ] 12008 Cherry Hill Road                                   [ 123 ] 9711 Medical Center Drive
+                                                                                      [ 115 ] Silver Spring, [ 116 ] MD                                [ 124 ] Suite 101
+                                                                                      [ 117 ] 20904                                                    [ 125 ] Rockville, [ 126 ] MD
+                                                                                                                                                       [ 127 ] 20850
+                                                                    [ @ 111 ] CALL    [ @ 118 ] Get Driving Directions               [ @ 120 ] CALL
+                                                                   TO SCHEDULE                                                      TO SCHEDULE
+                                                                                                                                                       [ @ 128 ] Get Driving Directions
+                                                                                                                                                       [ @ 129 ] Doctors at this Location
 
 
 
 
 
-                  ☑       [ 143 ] Sign up for updates [ 142 ] ] about Adventist                     [ # 145 ] Enter email address                                    [ $ 148 ]: RIBE
+                  ☑       [ 131 ] Sign up for updates [ 130 ] about Adventist                       [ # 133 ] Enter email address                                    [ $ 136 ]; RIBE
                           HealthCare and get health tips and news articles in
                           your inbox.
 
 
 
-                                                  [ 149 ] We extend God's care through the ministry of physical, mental and spiritual healing.
+                                                  [ 137 ] We extend God's care through the ministry of physical, mental and spiritual healing.
 
 
-                [ 150 ] Adventist HealthCare                                [ @ 156 ] Newsroom                                              [ 168 ] CONNECT WITH US
-                [ 151 ] 820 West Diamond Ave.
-                [ 152 ] Suite 600                                           [ @ 157 ] High - Quality Care
-                 153 ]            , MD 20878                                                                                                [ @ 169 ]         [ @ 170 ]
-                [     Gaithersburg
-                                                                            [ @ 158 ] Patient Privacy, Responsibilities & Rights
-                [ @ 154 ] 301-315-3030                                      [ @ 159 ] Patient Nondiscrimination
-                                                                                                                                            [ @ 171 ]         [ @ 172 ]
-              لط                                                            [ @ 160 ] Price Transparency
-                [ @ 155 ] Contact Us
-                                                                            [ 161 ] Website: [ @ 164 ] Terms of Service [ 162 ] ] |        **[ @ 173 ] in**
-                                                                            [ @ 165 ] Privacy [ 163 ] | [ @ 166 ] Accessibility
-                                                                            [ @ 167 ] For Healthcare Professionals                          [ 174 ] ¿ HABLA ESPAÑOL?
-                                                                                                                                                   anguage    [ 175 ] ] Powered by [ @ 177 ] Google Translate
-                                                                                                                                           [ $ 176 ]
+                [ 138 ] Adventist HealthCare                                [ @ 144 ] Newsroom                                              [ 154 ] CONNECT WITH US
+                [ 139 ] 820 West Diamond Ave.
+                [ 140 ] Suite 600                                           [ @ 145 ] High - Quality Care
+                                  , MD 20878                                                                                               [ @ 155 ]          [ @ 156 ]
+                [ 141 ] Gaithersburg
+                                                                            [ @ 146 ] Patient Privacy, Responsibilities & Rights
+                [ @ 142 ] 301-315-3030                                      [ @ 147 ] Patient Nondiscrimination
+                                                                                                                                            [ @ 157 ]         [ @ 158 ]
+              لط
+                [ @ 143 ] Contact Us                                        [ @ 148 ] Price Transparency
+                                                                            [ 149 ] Website: [ @ 150 ] Terms of Service |                  [ @ 159 **159** ] **] in**
+                                                                            [ @ 151 ] Privacy | [ @ 152 ] Accessibility
+                                                                            [ @ 153 ] For Healthcare Professionals                          [ 160 ] ¿ HABLA ESPAÑOL?
+                                                                                                                                                  anguage     [ 161 ] ] Powered by [ @ 163 ] Google Translate
+                                                                                                                                           [ $ 162 ]
 
 
 
-                                                                                        [ 178 ] Adventist HealthCare 2023
+                                                                                        [ 164 ] Adventist HealthCare 2023
 
 How can we help you?
 Our health bot can help with common questions and tasks
@@ -119,4 +120,6 @@ Or ask us anything ...
   Reset Conversation   Download Transcript
 Hello! I'm Elle, Adventist HealthCare's chatbot.  How can I help you?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1773
+Image timing: 0.82 seconds
+Page text timing: 1.76 seconds
+Token count: 1721

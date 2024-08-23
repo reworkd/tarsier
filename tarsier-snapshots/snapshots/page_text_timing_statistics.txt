@@ -1,0 +1,7 @@
+Min OCR duration: 0.34
+Max OCR duration: 20.0
+Average OCR duration: 5.081805054151624
+Median OCR duration: 3.96
+p50 OCR duration: 3.96
+p90 OCR duration: 10.72
+p99 OCR duration: 16.381600000000002

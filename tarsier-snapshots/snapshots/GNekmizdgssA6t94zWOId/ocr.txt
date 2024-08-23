@@ -103,4 +103,6 @@
 
                        [ @ 105 ] Site Map        [ @ 106 ] Non - Discrimination Statement      [ @ 107 ] Notice of Privacy Practices       [ @ 108 ] Terms of Use
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Image timing: 8.19 seconds
+Page text timing: 3.36 seconds
 Token count: 1315

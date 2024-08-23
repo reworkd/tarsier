@@ -75,7 +75,7 @@
 
 
                                                                                                                                                Hospital
-                                                                                                                                          Heywood
+                                                                                                                                         Heywood
 
 
                        [ @ 64 ] Ashburnham Family                        [ @ 70 ] Athol Primary Care                        [ @ 77 ] Encompass Primary
@@ -174,4 +174,6 @@
 
                                  [ 161 ] Copyright © 2023 Heywood Hospital. All rights reserved. [ @ 162 ] Policies & Public Documents [ @ 163 ] Staff Access
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Image timing: 3.10 seconds
+Page text timing: 5.91 seconds
 Token count: 1890

@@ -16,11 +16,11 @@
                           [ 20 ] Candidates must have excellent oral and written communication skills, a strong
                          academic background and be admitted to the New York Bar.
                           [ 21 ] This is an excellent opportunity to join a leading, dynamic, and rewarding
-                         practice. More information about our practice can be found [ @ 23 ] here [ 22 ].
+                         practice. More information about our practice can be found [ @ 22 ] ] here.
 
-                        [ $ 24 ] Job Requirements:
+                        [ $ 23 ] Job Requirements:
 
-                                                                                                                                    [ $ 25 ] Back          [ $ 26 ] Apply Now
+                                                                                                                                    [ $ 24 ] Back          [ $ 25 ] Apply Now
 
 
 
@@ -30,7 +30,9 @@
 
 
                                                                                             MICRON SYSTEMS
-                                                      [ @ 27 ] www.micronsystems.com [ @ 28 ] About Micron Systems [ @ 29 ] Privacy Policy [ @ 30 ] Terms & Conditions
-                                                                            [ 31 ] © Copyright 2023 Micron Systems, Inc. All rights reserved.
+                                                      [ @ 26 ] www.micronsystems.com [ @ 27 ] About Micron Systems [ @ 28 ] Privacy Policy [ @ 29 ] Terms & Conditions
+                                                                            [ 30 ] © Copyright 2023 Micron Systems, Inc. All rights reserved.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 411
+Image timing: 0.88 seconds
+Page text timing: 1.03 seconds
+Token count: 408

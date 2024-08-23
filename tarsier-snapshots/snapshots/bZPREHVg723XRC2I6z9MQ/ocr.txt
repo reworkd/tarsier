@@ -9,9 +9,9 @@
                                                             to meet the increased demand from existing clients and to take advantage of additional growth opportunities.
                                                             [ 3 ] Candidate must exhibit Akin's core values: [ 5 ] future - focused, diversity - minded, dedicated to excellence, service-
                                                             oriented and collaborative. [ 4 ] Stellar academic credentials and comparable law firm experience are required.
-                                                            [ 7 ] This position is required to be available to work in person. All employees are required to comply with the firm's
-                                                            employment policies [ 6 ].
-                                                                                                                      [ @ 8 ] × Close
+                                                            [ 6 ] This position is required to be available to work in person. All employees are required to comply with the firm's
+                                                            employment policies.
+                                                                                                                      [ @ 7 ] × Close
 
 
 
@@ -38,10 +38,12 @@
 
 
 
-     [ @ 9 ] Legal
-                          [ @ 10 ] Privacy Policy   [ @ 11 ] Cookie Notice [ @ 12 ] RSS [ @ 13 ] Employee Login     [ 14 ] Attorney Advertising
+    [ @ 8 ] Legal
+                           [ @ 9 ] Privacy Policy   [ @ 10 ] Cookie Notice [ @ 11 ] RSS [ @ 12 ] Employee Login     [ 13 ] Attorney Advertising
     Notices
 
-     [ 15 ] © 2023 Akin Gump Strauss Hauer & Feld LLP
+     [ 14 ] © 2023 Akin Gump Strauss Hauer & Feld LLP
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 264
+Image timing: 3.28 seconds
+Page text timing: 3.43 seconds
+Token count: 260

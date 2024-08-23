@@ -426,4 +426,6 @@
 
                    [ 286 ] Administration fédérale des contributions AFC                                                [ @ 287 ] Conditions d'utilisation [ @ 288 ] Impressum
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Image timing: 2.56 seconds
+Page text timing: 6.22 seconds
 Token count: 7866

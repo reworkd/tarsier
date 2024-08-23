@@ -36,7 +36,7 @@
                                                                                                                                                              Neighborhood Care
          Locations                                                                                                                   Neighborhood Baxter Springs Care H Joplin Sarcode
                                                                                                                                                             Neighborhood Con
-          [ 19 ] We are the area's largest employer and largest provider of healthcare services with                                                   Joplin      Granby
+          [ 19 ] We are the area's largest employer and largest provider of healthcare services with                                                   Joplin       Granby
                                                                                                                                        Mam   Neighborhood Seneca
          two urgent care clinics, dozens of physician clinics and a variety of specialty services.
                                                                                                                                                              Neosho
@@ -229,7 +229,7 @@
 
 
 
-                         [ 92 ] Freeman Heart & Vascular                        [ 95 ] Freeman Heart & Vascular                          [ 98 ] Freeman Heart & Vascular
+                         [ 92 ] Freeman Heart & Vascular                         [ 95 ] Freeman Heart & Vascular                         [ 98 ] Freeman Heart & Vascular
                         Institute    Girard                                     Institute    Grove                                      Institute    McIntosh Circle
 
                          [ 93 ] 417.347.5000                                     [ 96 ] 417.347.8466                                     [ 99 ] 417.347.6400
@@ -527,4 +527,6 @@
                                                                                                                                                   [ 237 ] © 2023 [ 238 ] Freeman Health System
                                                                                                                                                     [ @ 239 ] Privacy [ @ 240 ] Terms of Use
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Image timing: 8.94 seconds
+Page text timing: 10.22 seconds
 Token count: 3164

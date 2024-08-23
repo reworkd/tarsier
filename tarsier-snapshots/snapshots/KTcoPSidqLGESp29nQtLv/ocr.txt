@@ -71,7 +71,7 @@ Skip to Footer
 
             [ @ 94 ] Astria Health Center - Family Medicine and Multi - Specialty
              [ 91 ] 1420 Ahtanum Ridge Dr.
-             [ 92 ] Union Gap, WA 98903
+            [ 92 ] Union Gap, WA 98903
 
             [ 93 ] Phone: 509.454.7700
 
@@ -261,10 +261,12 @@ Skip to Footer
 
 
 
-   [ 235 ] © 2023 Astria Health ⚫ [ @ 238 ] Terms of Use [ 236 ] [ @ 239 ] Notice of Non-
+   [ 235 ] © 2023 Astria Health⚫ [ @ 236 ] Terms of Use ⚫ [ @ 237 ] Notice of Non - Discrimination ⚫
                                                                                                                    O in
-   Discrimination [ 237 ] • [ @ 240 ] Privacy Policy
+   [ @ 238 ] Privacy Policy.
 
                                                                   MADE WITH     INVISIBLE INK
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2498
+Image timing: 1.61 seconds
+Page text timing: 5.99 seconds
+Token count: 2496

@@ -2,7 +2,7 @@
 [ @ 1 ] Foundation                    [ @ 2 ] Articles                  [ @ 3 ] Careers                   [ @ 4 ] Schedule Appointment                        [ @ 5 ] Contact Us
      [ @ 6 ]
                                                                                                                                                                                                                           Patients &
-                                                                        [ @ 7 ] Services                   [ @ 8 ] Locations                   [ @ 9 ] Providers                    [ @ 10 ] About                  [ @Visitors                         [ @ 12 ]
+                                                                        [ @ 7 ] Services                   [ @ 8 ] Locations                   [ @ 9 ] Providers                    [ @ 10 ] About                  [ **@Visitors**                     [ @ 12 ]
                       **Archbold**
 
 
@@ -46,4 +46,6 @@
                                   Ayisyen ( French            ( Russian )                                              ( Portuguese )                                           ( German )                   ( Japanese )
                                   Creole )
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 607
+Image timing: 1.62 seconds
+Page text timing: 6.72 seconds
+Token count: 609

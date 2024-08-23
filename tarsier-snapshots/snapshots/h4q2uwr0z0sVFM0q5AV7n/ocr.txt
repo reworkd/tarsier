@@ -5,227 +5,226 @@
 
                                                              **[ 18 ] Technical Consultant**
 
-                                                    [ 19 ] Solution Engineering    [ 20 ] Remote [ 21 ], ( [ 23 ] United States, [ 22 ] ) [ 24 ] Full Time
 
-                                                                                           [ @ 25 ] Apply
+                                                     0    [ 19 ] Solution Engineering   [ 20 ] Remote ( [ 21 ] United States ) [ 22 ] Full Time
+
+                                                                                           [ @ 23 ] Apply
 
 
-                                                                                                                                  [ @ 71 ] Apply
+                                                                                                                                  [ @ 69 ] Apply
 
-                                           [ 26 ] About Vercel:
-                                           [ 27 ] At Vercel, our mission is to enable developers to create at the moment of [ 72 ] Perks
-                                          inspiration. We are the platform for frontend developers, creating tools millions of
-                                           developers use every day. By unlocking developer potential through the use of      [ 73 ] Generous Gear Credit
+                                           [ 24 ] About Vercel:
+                                           [ 25 ] At Vercel, our mission is to enable developers to create at the moment of [ 70 ] Perks
+                                           inspiration. We are the platform for frontend developers, creating tools millions of
+                                           developers use every day. By unlocking developer potential through the use of       [ 71 ] Generous Gear Credit
                                           open - source tools such as Next.js, React, Svelte, and Turborepo, we enable
-                                          developers to go from idea to global application in seconds.                         [ 74 ] Unlimited PTO
-                                                                                                                              [ 75 ] Stock Options
-                                           [ 28 ] As a globally distributed company, we take pride in our ability to work across
-                                          time zones and continents, fostering collaboration and innovation. Our offices in   [ 76 ] Work Remotely
+                                                                                                                               [ 72 ] Unlimited PTO
+                                          developers to go from idea to global application in seconds.
+                                                                                                                              [ 73 ] Stock Options
+                                           [ 26 ] As a globally distributed company, we take pride in our ability to work across
+                                          time zones and continents, fostering collaboration and innovation. Our offices in   [ 74 ] Work Remotely
                                            San Francisco and New York City serve as hubs for our teams to come together
                                           and develop the tools that empower our users. By joining Vercel, you'll be part of
                                            a team that is deeply committed to open - source technologies and dedicated to
                                            shaping the future of web development.
 
 
-                                           [ 29 ] About the Role:
-                                           [ 30 ] Vercel is looking for a Technical Consultant to assist our Enterprise
+                                           [ 27 ] About the Role:
+                                           [ 28 ] Vercel is looking for a Technical Consultant to assist our Enterprise
                                            customers with technical problems and questions when using Vercel products
                                            and services. Reporting to the Manager of Technical Consulting, the Technical
                                           Consultant will be responsible for informing and training clients in the product's
                                            proper use to enhance the customer experience and improve satisfaction.
 
-                                           [ 31 ] Technical Consultants need to eam our customers' trust and understand
+                                           [ 29 ] Technical Consultants need to eam our customers' trust and understand
                                           technical problems quickly. You will play a major part in the post - sales process
                                            and Enterprise customer journey. Expertise in the technical elements of the
-                                           product and clarity of instruction are important competencies in this position.
+                                          product and clarity of instruction are important competencies in this position.
                                           Success in this role will be demonstrated through improvements in the retention
                                            of Enterprise customers by delivering key technical insights and evaluations to
                                            ensure success both at launch and scale.
 
-                                           [ 32 ] You have a background in frontend development, enjoy technical writing,
+                                           [ 30 ] You have a background in frontend development, enjoy technical writing,
                                            and have a passion for digging deep to find and resolve issues. You are excited
                                            about the opportunity to involve yourself with the technical evolution of both global
                                            brands and new start - ups.
 
-                                           [ 33 ] The Technical Consultant will help establish our reputation as a company
+                                           [ 31 ] The Technical Consultant will help establish our reputation as a company
                                           that is exceptional at helping its customers meet their goals throughout all parts of
                                           the customer journey while engineering solutions to constantly improve the
                                            customer experience.
 
 
-                                           [ 34 ] What You Will Do:
-                                             [ 35 ] Ensure that Enterprise customers are receiving and understanding the
+                                           [ 32 ] What You Will Do:
+                                             [ 33 ] Ensure that Enterprise customers are receiving and understanding the
                                              value of the platform.
-                                           • [ 36 ] Provide product expertise and strategic consultation during the Enterprise
+                                           • [ 34 ] Provide product expertise and strategic consultation during the Enterprise
                                              customer journey.
-                                             [ 37 ] Provide training sessions to Enterprise customers.
-                                           • [ 38 ] Attend onboarding and pre - production calls as a technical authority.
-                                             [ 39 ] Know the Vercel platform and Next.js framework inside and out, learning
+                                             [ 35 ] Provide training sessions to Enterprise customers.
+                                           • [ [ 36 ] Attend onboarding and pre - production calls as a technical authority.
+                                             [ 37 ] Know the Vercel platform and Next.js framework inside and out, learning
                                              daily.
-                                             [ 40 ] Work with other members of CS to provide assistance both internally and
+                                             [ 38 ] Work with other members of CS to provide assistance both internally and
                                              externally.
-                                             [ 41 ] Develop close partnerships with the CSM team to understand customers'
+                                             [ 39 ] Develop close partnerships with the CSM team to understand customers'
                                              goals.
-                                             [ 42 ] Work with external engineering and infrastructure teams to convey
+                                             [ 40 ] Work with external engineering and infrastructure teams to convey
                                              product gaps and needs.
-                                             [ 43 ] Ensure customers have immediate concerns resolved but with a long-
+                                             [ 41 ] Ensure customers have immediate concerns resolved but with a long-
                                              term outlook.
-                                             [ 44 ] Specialize in a few product areas and own that within the team.
-                                             [ 45 ] Improving existing, and identifying new, internal documentation,
+                                             [ 42 ] Specialize in a few product areas and own that within the team.
+                                             [ 43 ] Improving existing, and identifying new, internal documentation,
                                              processes and policies.
-                                             [ 46 ] Assist and coordinate with Customer Success Managers with Enterprise
+                                             [ 44 ] Assist and coordinate with Customer Success Managers with Enterprise
                                              requests.
 
 
-                                           [ 47 ] About You:
-
-                                           • [ 48 ] You lead by example and develop more junior members of the team.
-                                           ⚫ [ 49 ] You understand modern web architecture, frontend development, and
+                                           [ 45 ] About You:
+                                           • [ 46 ] You lead by example and develop more junior members of the team.
+                                             [ 47 ] You understand modern web architecture, frontend development, and
                                              serverless computing.
-                                           ⚫ [ 50 ] You are experienced with incident management and procedure.
-                                             [ 51 ] You are comfortable working with a fully remote, globally distributed team.
-                                             [ 52 ] You have a passion to deliver a customer experience second to none.
-                                           • [ 53 ] Availability to work within a weekend and on - call rotation.
-                                             [ 54 ] 3+ years experience in a customer success, sales, or
+                                             [ 48 ] You are experienced with incident management and procedure.
+                                             [ 49 ] You are comfortable working with a fully remote, globally distributed team.
+                                           • [ 50 ] You have a passion to deliver a customer experience second to none.
+                                           • [ 51 ] Availability to work within a weekend and on - call rotation.
+                                             [ 52 ] 3+ years experience in a customer success, sales, or
                                              onboarding / implementation role at a SaaS company.
-                                           ⚫ [ 55 ] 5+ years experience with front - end web development using React in a
+                                           ⚫ [ 53 ] 5+ years experience with front - end web development using React in a
                                              production setting.
 
 
-                                           [ 56 ] Bonus if You:
+                                           [ 54 ] Bonus if You:
 
-                                           • [ 57 ] ] Have experience using Next.js.
-                                             [ 58 ] Have experience supporting backend runtime environments, especially
+                                           • [ 55 ] Have experience using Next.js.
+                                             [ 56 ] Have experience supporting backend runtime environments, especially
                                              Node.js.
-                                             [ 59 ] Have experience with CDNs and a good understanding of caching
+                                             [ 57 ] Have experience with CDNs and a good understanding of caching
                                              techniques.
-                                             [ 60 ] Work with monorepos and / or custom, complex CI / CD pipelines.
-                                             [ 61 ] Thoroughly understand DNS and can explain this clearly to others.
+                                             [ 58 ] Work with monorepos and / or custom, complex CI / CD pipelines.
+                                             [ 59 ] Thoroughly understand DNS and can explain this clearly to others.
 
 
-                                           [ 62 ] Benefits
-                                             [ 63 ] Stock options
-                                             [ 64 ] Inclusive Healthcare Package
-                                             [ 65 ] Flexible working style - 100 % remote, with teammates located throughout
+                                           [ 60 ] Benefits
+                                           ⚫ [ 61 ] ] Stock options
+                                             [ 62 ] Inclusive Healthcare Package
+                                             [ 63 ] Flexible working style - 100 % remote, with teammates located throughout
                                              the globe
-                                             [ 66 ] Learn and Grow - we provide mentorship and send you to events that
+                                             [ 64 ] Learn and Grow - we provide mentorship and send you to events that
                                              help you build your network and skills
-                                             [ 67 ] Unlimited PTO -4 weeks recommended per year. Take time when you
+                                             [ 65 ] Unlimited PTO - 4 weeks recommended per year. Take time when you
                                              need it.
-                                             [ 68 ] We will provide you the gear you need to do your role, and a WFH
+                                             [ 66 ] We will provide you the gear you need to do your role, and a WFH
                                              budget for you to outfit your space as needed
 
-                                           [ 69 ] The San Francisco, CA OTE pay range for this role is $ 135,000 - $ 186,000.
+                                           [ 67 ] The San Francisco, CA OTE pay range for this role is $ 135,000 - $ 186,000.
                                            This salary range is an estimate. Actual salary will be based on job related skills,
                                            experience and location. Pay ranges outside San Francisco may be adjusted
                                            based on employee location. The total compensation package also includes
                                            benefits and equity - based compensation. Your recruiter can share more about
                                           the specific pay range for your location during the hiring process.
 
-                                           [ 70 ] Vercel is committed to fostering and empowering an inclusive community
+                                           [ 68 ] Vercel is committed to fostering and empowering an inclusive community
                                           within our organization. We do not discriminate on the basis of race, religion,
-                                           color, gender expression or identity, sexual orientation, national origin, citizenship,
-                                          age, marital status, veteran status, disability status, or any other characteristic
+                                          color, gender expression or identity, sexual orientation, national origin, citizenship,
+                                           age, marital status, veteran status, disability status, or any other characteristic
                                            protected by law. Vercel encourages everyone to apply for our available positions,
                                            even if they don't necessarily check every box on the job description.
 
 
 
-                                              [ 77 ] Apply Now
-                                              [ 78 ] Tell us why you'd be good fit for the Technical Consultant role.
-                                              [ # 79 ] First Name                                [ # 80 ] Last Name
+                                              [ 75 ] Apply Now
+                                              [ 76 ] Tell us why you'd be good fit for the Technical Consultant role.
+                                              [ # 77 First Name                                  [ # 78 Last Name
 
-                                              [ # 81 ] janedoe@email.com                         [ # 82 ] +0 123 456 7890
+                                              [ # 79 janedoe@email.com                           [ # 80 ] +0 123 456 7890
 
-                                                [ $ 83 ] Add Resume
-                                              [ 84 ] Resume should be a PDF under 3.5MB.
+                                                [ $ 81 ] Add Resume
+                                              [ 82 ] Resume should be a PDF under 3.5MB.
 
-                                              [ # 85 ] Full Address ( including country )
+                                              [ # 83 ] Full Address ( including country )
 
-                                              [ 86 ] Are you currently based in any of these countries:
-                                                 [ 88 ] United States [ 90 ] Germany [ 92 ] United Kingdom [ 94 ] Australia [ 96 ] Other
-                                              [ $ 87 ]           [ $ 89 ]        [ $ 91 ]              [ $ 93 ]        [ $ 95 ]
-                                              [ 97 ] What timezone are you located in?
-                                                 [ 99 ] EST [ 101 ] CST [ 103 ] MTN  [ 105 ] PST [ 107 ] Other
-                                             [ $ 98 ]     [ $ 100 ]    [ $ 102 ]    [ $ 104 ]    [ $ 106 ]
-                                              [ 108 ] Will you require Visa Sponsorship now, or in the future?
-                                                 [ 110 ] Yes [ 112 ] No
-                                             [ $ 109 ]    [ $ 111 ]
-                                              [ # 113 Desired Salary                             [ # 114 Potential Start Date
+                                              [ 84 ] Are you currently based in any of these countries:
+                                                 [ 86 ] United States [ 88 ] Germany [ 90 ] United Kingdom [ 92 ] Australia [ 94 ] Other
+                                             [ $ 85 ]            [ $ 87 ]        [ $ 89 ]              [ $ 91 ]        [ $ 93 ]
+                                              [ 95 ] What timezone are you located in?
+                                                 [ 97 ] EST [ 99 ] CST  [ 101 ] MTN [ 103 ] PST [ 105 ] Other
+                                             [ $ 96 ]    [ $ 98 ]     [ $ 100 ]    [ $ 102 ]    [ $ 104 ]
+                                              [ 106 ] Will you require Visa Sponsorship now, or in the future?
+                                                 [ 108 ] Yes [ 110 ] No
+                                             [ $ 107 ]    [ $ 109 ]
+                                              [ # 111 ] Desired Salary                           [ # 112 Potential Start Date
 
-                                              [ 115 ] Do you have experience coding / programming?
-                                                 [ 117 ] Yes [ 119 ] No
-                                              [ $ 116 ]   [ $ 118 ]
-                                              [ 120 ] Do you have experience with Next.js or React?
-                                                 [ 122 ] Yes  [ 124 ] No
-                                             [ $ 121 ]    [ $ 123 ]
-                                              [ 125 ] Where did you hear about us?
-                                                 [ 127 ] Facebook  [ 129 ] Twitter [ [ 131 ] LinkedIn [ 133 ] AfroTech [ 135 ] Render ATL
-                                              [ $ 126 126 ] ] 37 ] Latinas in T [ $ 128 ] [ 139 ] Hire [ $ 130 ] Ladies [ $ 132 ] omen Impact [ $ 134 ] ] [ [ 143 ] Other [ $ 136 ] ]
-                                                                   [ $ 138 ]                [ $ 140 ]                 [ $ 142 ]
-                                              [ 144 ] By submitting my application, I acknowledge that I have read and understand Vercel's [ @ 145 ] Job Applicant
+                                              [ 113 ] Do you have experience coding / programming?
+                                                 [ 115 ] Yes [ 117 ] No
+                                              [ $ 114 ]   [ $ 116 ]
+                                              [ 118 ] Do you have experience with Next.js or React?
+                                              O [ 120 ] Yes   [ 122 ] No
+                                              [ $ 119 ]   [ $ 121 ]
+                                              [ 123 ] Where did you hear about us?
+                                                 [ 125 ] Facebook  [ 127 ] Twitter [ [ 129 ] ] LinkedIn [ 131 ] AfroTech [ 133 ] Render ATL
+                                               124 ] 35 ] Latinas in T [ $ 126 ] [ 137 ] Hire [ $ 128 ] Ladies [ $ 130 ] vomen Impact [ $ 132 ] ] [ 141 ] Other [ $ 134 ]
+                                                                    [ $ 136 ]               [ $ 138 ]                 [ $ 140 ]
+                                              [ 142 ] By submitting my application, I acknowledge that I have read and understand Vercel's [ @ 143 ] Job Applicant
                                               Privacy Notice
-                                              O [ 147 ] Acknowledge / Confirm
-                                              [ $ 146 ]
-                                              [ 148 ] How would you describe your gender identity? ( mark all that apply )
-                                                 [ 150 ] Man
-                                              [ $ 149 ] 52 ] Non - binary
-                                             [ $ 151 ] 54 ] Woman
-                                             [ $ 153 ] 56 ] prefer to self - describe
-                                             [ $ 155 ] 58 ] don't wish to answer
-                                             [ $ 157 ]
-                                                  How would you describe your racial / ethnic background? ( mark all that apply )
-                                                 [ 161 ] Black or of African descent
-                                             [ $ 160 ] 53 ] East Asian
-                                             [ $ 162 ] 55 ] Hispanic, Latinx or of Spanish Origin
-                                              [ $ 164 ] 57 ] Indigenous, American Indian or Alaska Native
-                                             [ $ 166 ] 59 ] Middle Eastern or North African
-                                              [ $ 168 ] 71 ] Native Hawaiian or Pacific Islander
-                                              [ $ 170 ] 73 ] South Asian
-                                             [ $ 172 ] 75 ] Southeast Asian
-                                              [ $ 174 ] 77 ] White or European
-                                             [ $ 176 ] 79 ] ] prefer to self - describe
-                                             [ $ 178 ] 31 ] I don't wish to answer
-                                             [ $ 180 ] How would you describe your sexual orientation? ( mark all that apply )
-                                                 [ 184 ] Asexual
-                                             [ $ 183 ] 36 ] Bisexual and / or pansexual
-                                             [ $ 185 ] 38 ] Gay
-                                             [ $ 187 ] 90 ] Heterosexual
-                                              [ $ 189132 ] Lesbian
-                                             [ $ 191194 ] Queer
-                                             [ $ 193 ] 96 ] prefer to self - describe
-                                              [ $ 195 ] 8 ] I don't wish to answer
-                                              [ $ 197 ] o you identify as transgender?
-                                                 [ 201 ] Yes
-                                              $ 2001203 ] No
-                                             [
-                                             [ $ 2021205 ] prefer to self - describe
-                                                     I don't wish to answer
-                                              [ $ 204 ]
-                                             [ $ 206 ] you have a disability or chronic condition ( physical, visual, auditory, cognitive, mental, emotional, or other ) that
+                                                 [ 145 ] Acknowledge / Confirm
+                                             [ $ 144 ]
+                                              [ 146 ] How would you describe your gender identity? ( mark all that apply )
+                                                 [ 148 ] Man
+                                             [ $ 147.50 ] Non - binary
+                                             [ $ 149 ] 52 ] Woman
+                                             [ $ 151 ] 54 ] prefer to self - describe
+                                             [ $ 153 ] 56 ] don't wish to answer
+                                              [ $ 155 ]
+                                              157How would you describe your racial / ethnic background? ( mark all that apply )
+                                                 [ 159 ] Black or of African descent
+                                             [ $ 158 ] 1 ] East Asian
+                                             [ $ 160 ] 53 ] Hispanic, Latinx or of Spanish Origin
+                                              [ $ 162 ] 55 ] Indigenous, American Indian or Alaska Native
+                                              [ $ 164 ] 67 ] Middle Eastern or North African
+                                             [ $ 166 ] 69 ] Native Hawaiian or Pacific Islander
+                                             [ $ 168 ] 71 ] South Asian
+                                             [ $ 170 ] 73 ] ] Southeast Asian
+                                              [ $ 172 ] 75 ] White or European
+                                             [ $ 174 ] 77 ] prefer to self - describe
+                                             [ $ 176 ] 79 ] I don't wish to answer
+                                             [ $ 178 ] How would you describe your sexual orientation? ( mark all that apply )
+                                                 [ 182 ] Asexual
+                                             [ $ 181 ] 34 ] Bisexual and / or pansexual
+                                             [ $ 183 ] 36 ] Gay
+                                             [ $ 185 ] 88 ] Heterosexual
+                                             [ $ 187 ] 30 ] Lesbian
+                                             [ $ 189192 ] Queer
+                                             [ $ 191 ] 94 ] prefer to self - describe
+                                             [ $ 193 ] 6 ] I don't wish to answer
+                                              [ $ 195 ] o you identify as transgender?
+                                                 [ 199 ] Yes
+                                              [ $ 1981201 ] No
+                                             [ $ 200 203 ] I prefer to self - describe
+                                                   5 ] I don't wish to answer
+                                              [ $ 202 ]
+                                             [ $ 204 ] you have a disability or chronic condition ( physical, visual, auditory, cognitive, mental, emotional, or other ) that
                                               substantially limits one or more of your major life activities, including mobility, communication ( seeing, hearing, speaking ),
                                               and learning?
-                                                 [ 210 ] Yes
-                                             [ $ 209 [ ] 212 ] No
-                                              [ $ 211 ] 214 ] I prefer to self - describe
-                                                  216 ] don't wish to answer
-                                             [ $ 213 ]
-                                              [ $ 215 ] e you a veteran or active member of the United States Armed Forces?
-                                                 [ 219 ] Yes, I am a veteran or active member
-                                              [ $ 218 [ ] 221 ] No, I am not a veteran or active member
-                                                 1223 ] ] I prefer to self - describe
-                                             [ $ 220 ]
-                                                 [ 225 ] don't wish to answer
-                                              [ $ 222 ]
-                                              [ $ 224 ]   , include links to your social media profiles.
+                                                 [ 208 ] Yes
+                                              [ $ 207 ] 210 ] No
+                                                  212 ] I prefer to self - describe
+                                              [ $ 209 ]
+                                                  214 ] don't wish to answer
+                                              [ $ 211 ]
+                                              [ $ 213 ] e you a veteran or active member of the United States Armed Forces?
+                                                 [ 217 ] Yes, I am a veteran or active member
+                                              [ $ 216 [ ] 219 ] No, I am not a veteran or active member
+                                                 1221 ] ] I prefer to self - describe
+                                             [ $ 218 ]
+                                                 [ 223 ] don't wish to answer
+                                              [ $ 220 ]
+                                              [ $ 222 ]   , include links to your social media profiles.
                                                   Optionally
-                                              [ # 2 handle                                       [ # 229B ] handle
+                                              [ # 2 handle                                       [ # 2226 ] andle
 
-                                              [ # 2 handle                                       [ # 233 ] portfolio.com
+                                              [ # 2 handle                                       [ # 233p ] portfolio.com
 
-                                                                                                                                       [ $ 235 ] Apply
-
-
+                                                                                                                                       [ $ 233 ] Apply
 
 
 
@@ -237,11 +236,15 @@
 
 
 
-   [ @ 236 ]   [ 237 ] [ 238 ] ] 2023 [ $ 242 ] Product                           [ $ 253 ] Resources                           [ $ 263 ] Company                                [ $ 26 [ $ 2 [ $ 2
-   [ @ 239 ] All systems normal.    [ @ 243 ] Previews    [ @ 244 ] Next.js       [ @ 254 ] Docs        [ @ 255 ] Experts       [ @ 264 ] About       [ @ 265 ] Blog
-                                    [ @ 245 ] Infrastructure [ @ 246 ] v0         [ @ 256 ] Pricing     [ @ 257 ] Guides        [ @ 266 ] Careers     [ @ 267 ] Contact Us
-                                    [ @ 247 ] Edge Functions [ @ 248 ] Turbo      [ @ 258 ] Customers  [ @ 259 ] Help           [ @ 268 ] Next.js Conf [ @ 269 ] Open Source
-                                    [ @ 249 ] Analytics   [ @ 250 ] Enterprise    [ @ 260 ] Integrations [ 261 ] K              [ @ 270 ] Partners    [ @ 271 ] Security
-    [ @ 240 ]  [ @ 241 ] X          [ @ 251 ] Changelog   [ @ 252 ] CLI & API     [ @ 262 ] Templates                           [ @ 272 ] Privacy Policy [ $ 273 ] Legal
+
+
+   [ @ 234 ]     [ 235 ] 2023       [ $ 239 ] Product                             [ $ 250 ] Resources                           [ $ 260 ] Company                                [ $ 2 [ $ 2 [ $ 2
+   [ @ 236 ] ● All systems normal.  [ @ 240 ] Previews    [ @ 241 ] Next.js       [ @ 251 ] Docs       [ @ 252 ] Experts        [ @ 261 ] About       [ @ 262 ] Blog
+                                    [ @ 242 ] Infrastructure [ @ 243 ] v0         [ @ 253 ] Pricing    [ @ 254 ] Guides         [ @ 263 ] Careers    [ @ 264 ] Contact Us
+                                    [ @ 244 ] Edge Functions [ @ 245 ] Turbo      [ @ 255 ] Customers   [ @ 256 ] Help          [ @ 265 ] Next.js Conf [ @ 266 ] Open Source
+                                    [ @ 246 ] Analytics  [ @ 247 ] Enterprise     [ @ 257 ] Integrations [ 258 ] K              [ @ 267 ] Partners    [ @ 268 ] Security
+    [ @ 237 ]  [ @ 238 ] X          [ @ 248 ] Changelog   [ @ 249 ] CLI & API     [ @ 259 ] Templates                           [ @ 269 ] Privacy Policy [ $ 270 ] Legal
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 3101
+Image timing: 5.09 seconds
+Page text timing: 11.79 seconds
+Token count: 3094

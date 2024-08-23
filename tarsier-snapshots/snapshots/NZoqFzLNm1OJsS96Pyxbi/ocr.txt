@@ -52,4 +52,6 @@
              [ 57 ] Site last updated [ 58 ] February 01, 2024 08:49 AM
    [ @ 60 ] [ 55 ] The site is best viewed using IE11 and above, Mozilla Firefox, Safari and Chrome.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Image timing: 0.25 seconds
+Page text timing: 0.95 seconds
 Token count: 751

@@ -615,8 +615,8 @@
                                          [ 712 ] Mayer, Douglas K.                 [ 713 ] Of Counsel
                                          [ 714 ] Litigation & Restructuring and
                                                Finance
-                  [ @ 715 ]                             Heath
-                                         [ 716 ] Mayo, J.                          [ 717 ] Associate
+                  [ @ 715 ]                             Heath                      [ 717 ] Associate
+                                         [ 716 ] Mayo, J.
                                          [ 718 ] Corporate
 
                   [ @ 719 ]                                                        721 ] Of Counsel
@@ -1155,4 +1155,6 @@
                                                      [ 1263 ]                        [ @ 1264 ]
                        [ 1265 ] We are using cookies to give you the best experience on our website. [ $ 1266 ] Accept [ $ 1267 ] Reject [ $ 1268 ] Settings
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 10561
+Image timing: 4.75 seconds
+Page text timing: 13.60 seconds
+Token count: 10560

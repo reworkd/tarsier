@@ -1,7 +1,7 @@
--------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
 K & L GATES
 [ @ 0 ]
-       [ 1 ] Fort Worth Oil, Gas, and Resources Special Projects Lawyer 2                                                            [ @ 5 ] APPLY
+       [ 1 ] Fort Worth Oil, Gas, and Resources Special Projects Lawyer 2                                                         [ @ 5 ] APPLY
        [ 2 ] Lawyers
        [ 3 ] Energy, Infrastructure & Resources
        [ 4 ] Ft. Worth
@@ -13,20 +13,20 @@ K & L GATES
 
 
 
-       [ 6 ] Job Description                                                                                      [ 64 ] Share:
-                                                                                                                           [ @ 65 ] [ @ 66 ] [ @ 67 ] [ @ 68 ]
+       [ 6 ] Job Description                                                                                   [ 63 ] Share:
+                                                                                                                         [ @ 64 ] [ @ 65 ] [ @ 66 ] [ @ 67 ]
        [ 7 ] At K & L Gates, we are looking for smart, imaginative and hard - working people with diverse backgrounds, experiences
        and ideas to join us. Perhaps our search for talented visionaries and your search for important and impactful work lead to
-       the same place.                                                                                              [ 69 ] Department
-                                                                                                                    [ 70 ] Lawyers
+       the same place.                                                                                            [ 68 ] Department
+                                                                                                                  [ 69 ] Lawyers
        [ 8 ] We are seeking to hire a Special Projects Lawyer to join the Oil, Gas & Resources practice in our Fort Worth office. The
-                                                                                                                    [ 71 ] Practice
-       ideal candidate will have a strong commercial litigation background. Experience working in energy is desired but not
-                                                                                                                    [ 72 ] Energy, Infrastructure &
+                                                                                                                  [ 70 ] Practice
+       ideal candidate will have a strong commercial litigation background. Experience working in energy is desired but not        &
+                                                                                                                  [ 71 ] Energy, Infrastructure
        required. The candidate will be exposed to [ 9 ] various energy litigation matters, including eminent domain and upstream oil Resources
        and gas litigation issues involving lease disputes and real property rights.
-                                                                                                                    [ 73 ] Office
-       [ 10 ] Candidates must be self - starters who possess the ability to work independently and as part of a team. We require [ 74 ] Ft. Worth
+                                                                                                                  [ 72 ] Office
+       [ 10 ] Candidates must be self - starters who possess the ability to work independently and as part of a team. We require [ 73 ] Ft. Worth
        strong academic credentials, excellent communication skills, and a commitment to providing the highest quality client
        service.
        [ 11 ] Search firm submissions will not be accepted for this position.
@@ -52,52 +52,52 @@ K & L GATES
        Depending on your eligibility, options for full - time personnel include:
 
             [ 26 ] Medical / Prescription Drug Coverage ( including a Health [ 27 ] Back - up Child / Elder Care and access to a
-           Savings Account feature )                          caregiving concierge
+           Savings Account feature )                        caregiving concierge
 
-            [ 28 ] Dental Insurance                           [ 29 ] Wellness Program
+            [ 28 ] Dental Insurance                          [ 29 ] Wellness Program
 
-            [ 30 ] Vision Insurance                           [ 31 ] Pre - tax Commuting Benefits
+            [ 30 ] Vision Insurance                          [ 31 ] Pre - tax Commuting Benefits
 
             [ 32 ] 401 ( k ) Retirement Plan and Profit Sharing [ 33 ] Business Travel Accident Insurance
 
             [ 34 ] Short- and Long - term Disability Protection [ 35 ] Pet Insurance
 
             [ 36 ] Life Insurance ( including Basic, Supplemental, Spouse,
-                                                              [ 37 ] Health Advocacy Services
-            Child, and Accidental Death and Dismemberment )
+                                                             [ 37 ] Health Advocacy Services
+           Child, and Accidental Death and Dismemberment )
 
           ⚫ [ 38 ] Paid Time Off ( 20 days / year through first 4 years of [ 39 ] Identity Protection / Restoration and Fraud
-            employment; 25 days / year after 5 years of employment ) Insurance
+           employment; 25 days / year after 5 years of employment ) Insurance
 
           ⚫ [ 40 ] Parental Leave ( 18 weeks of which 6 are paid; short- [ 41 ] Student loan refinancing options and access
            term disability may provide additional paid time off ) to a student loan concierge service
 
-            [ 42 ] Paid Holidays ( 12 )                       [ 43 ] Addiction Resources
+            [ 42 ] Paid Holidays ( 12 )                      [ 43 ] Addiction Resources
 
-                                                            • [ 45 ] Breast Milk Delivery and Lactation Support
-            [ 44 ] Family Building Benefits                   Services
+                                                           • [ 45 ] Breast Milk Delivery and Lactation Support
+            [ 44 ] Family Building Benefits                 Services
 
-                                                              [ 47 ] Employees also may be eligible to receive
+                                                             [ 47 ] Employees also may be eligible to receive
             [ 46 ] Flexible Spending Accounts
-                                                              bonuses and certain expense reimbursements
+                                                            bonuses and certain expense reimbursements
 
-                                                              [ 49 ] Professional Development and CLE Credit
+                                                             [ 49 ] Professional Development and CLE Credit
             [ 48 ] Employee Assistance Program
-                                                              Opportunities
+                                                            Opportunities
 
-            [ 50 ] 529 Deductions                             [ 51 ] Relocation
+            [ 50 ] 529 Deductions                            [ 51 ] Relocation
 
-            [ 52 ] Accident Insurance                         [ 53 ] Employee Referral Program
+            [ 52 ] Accident Insurance                        [ 53 ] Employee Referral Program
 
-            [ 54 ] Critical Illness Insurance                 [ 55 ] Hybrid / Remote Work Opportunities
+            [ 54 ] Critical Illness Insurance                [ 55 ] Hybrid / Remote Work Opportunities
 
-                                                            • [ 57 ] Perks including: Technology, Entertainment,
-            [ 56 ] Hospital Indemnity Insurance               and Travel
-                                                                      Discount Programs
+                                                           • [ 57 ] Perks including: Technology, Entertainment,
+            [ 56 ] Hospital Indemnity Insurance             and Travel
+                                                                     Discount Programs
 
-                                                            ⚫ [ 59 ] All other benefits ( such as leaves of absence )
+                                                           ⚫ [ 59 ] All other benefits ( such as leaves of absence )
             [ 58 ] Bereavement Leave
-                                                              required by law
+                                                            required by law
 
        [ 60 ] EQUAL EMPLOYMENT OPPORTUNITY
        [ 61 ] The Firm is an equal opportunity employer. All employment decisions will be based on merit, qualifications,
@@ -109,12 +109,15 @@ K & L GATES
        unlawful harassment including, without limitation, that based on sex, race, age, disability, or national origin. The Firm
        complies with federal and state disability laws and makes reasonable accommodations for applicants and employees with
        disabilities. If you require reasonable accommodation in completing this application, interviewing, or otherwise participating
-       in the employee selection process, please contact [ @ 63 ] askHR@klgates.com [ 62 ].
+       in the employee selection process, please contact [ @ 62 ] askHR@klgates.com.
 
 
 
 
 
-                                                                                                                                       [ 75 ] Powered by **yello**
--------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1560
+                                                                                                                                    [ 74 ] Powered by
+                                                                                                                                               **yello**
+----------------------------------------------------------------------------------------------------------------------------------------------------
+Image timing: 2.58 seconds
+Page text timing: 3.08 seconds
+Token count: 1559

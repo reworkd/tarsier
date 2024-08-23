@@ -505,4 +505,6 @@ Bundesministerium Bundesamt
 
                                    [ @ 443 ] zum Seitenanfang       [ @ 444 ] Impressum       [ @ 445 ] Datenschutz      [ @ 446 ] Barrierefreiheitserklärung    [ @ 447 ] Feedback - Formular     [ @ 448 ] Seite ausdrucken
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Image timing: 2.64 seconds
+Page text timing: 12.04 seconds
 Token count: 15761

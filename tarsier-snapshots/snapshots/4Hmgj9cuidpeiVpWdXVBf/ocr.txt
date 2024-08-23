@@ -93,4 +93,6 @@
                          [ @ 71 ] Legal notices  [ @ 72 ] Privacy | [ @ 73 ] Cookie Notice | [ @ 74 ] Manage Cookies | [ @ 75 ] Fraud and Scams      [ @ 76 ] Attorney Advertising
                                                                                                 [ @ 77 ] Accessibility | [ @ 78 ] Modern Slavery | [ @ 79 ] Contact us | [ @ 80 ] Remote Working | [ @ 81 ] Sitemap
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Image timing: 0.87 seconds
+Page text timing: 5.60 seconds
 Token count: 1037

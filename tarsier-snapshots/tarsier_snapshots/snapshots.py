@@ -64,12 +64,12 @@ async def snapshot_example(
         print(f"{prefix} Snapshotting {example.id}")
         await page.goto(example.get_static_url())
         await page.wait_for_timeout(3000)
-        start_time = time.time()
+        start_time = time.perf_counter()
         image, _ = await tarsier.page_to_image(page, tag_text_elements=True)
-        screenshot_duration = time.time() - start_time
-        start_time = time.time()
+        screenshot_duration = time.perf_counter() - start_time
+        start_time = time.perf_counter()
         page_text, _ = await tarsier.page_to_text(page, tag_text_elements=True)
-        ocr_duration = time.time() - start_time
+        ocr_duration = time.perf_counter() - start_time
         await page.close()
 
         # Create the directory if it doesn't exist
@@ -104,7 +104,7 @@ async def generate_snapshots() -> None:
             snapshot_example(i, semaphore, browser, example, snapshots_path, tarsier)
             for i, example in enumerate(examples)
             if example.source == "mhtml"
-            if example.source == "mhtml" and example.id == "h4q2uwr0z0sVFM0q5AV7n"
+            # if example.source == "mhtml" and example.id == "h4q2uwr0z0sVFM0q5AV7n"
         ]
         await asyncio.gather(*tasks)
 
@@ -137,6 +137,64 @@ def calculate_token_count_statistics(snapshots_dir: Path) -> None:
             f.write(f"{key}: {value}\n")
 
 
+def calculate_image_timing_statistics(snapshots_dir: Path) -> None:
+    screenshot_durations = []
+
+    print(f"Calculating image timing statistics for {snapshots_dir}")
+    for file in snapshots_dir.glob("**/ocr.txt"):
+        with open(file, "r") as f:
+            lines = f.readlines()
+            screenshot_duration = float(lines[-3].split(":")[-1].strip().split()[0])
+            screenshot_durations.append(screenshot_duration)
+
+    statistics = {
+        "Min screenshot duration": min(screenshot_durations),
+        "Max screenshot duration": max(screenshot_durations),
+        "Average screenshot duration": sum(screenshot_durations) / len(screenshot_durations),
+        "Median screenshot duration": median(screenshot_durations),
+        "p50 screenshot duration": percentile(screenshot_durations, 50),
+        "p90 screenshot duration": percentile(screenshot_durations, 90),
+        "p99 screenshot duration": percentile(screenshot_durations, 99),
+    }
+
+    snapshots_dir = Path(__file__).parent.parent / "snapshots"
+
+    with open(snapshots_dir / "image_timing_statistics.txt", "w") as f:
+        print("Writing image timing statistics to image_timing_statistics.txt")
+        for key, value in statistics.items():
+            f.write(f"{key}: {value}\n")
+
+
+def calculate_page_text_timing_statistics(snapshots_dir: Path) -> None:
+    ocr_durations = []
+
+    print(f"Calculating page text timing statistics for {snapshots_dir}")
+    for file in snapshots_dir.glob("**/ocr.txt"):
+        with open(file, "r") as f:
+            lines = f.readlines()
+            ocr_duration = float(lines[-2].split(":")[-1].strip().split()[0])
+            ocr_durations.append(ocr_duration)
+
+    statistics = {
+        "Min OCR duration": min(ocr_durations),
+        "Max OCR duration": max(ocr_durations),
+        "Average OCR duration": sum(ocr_durations) / len(ocr_durations),
+        "Median OCR duration": median(ocr_durations),
+        "p50 OCR duration": percentile(ocr_durations, 50),
+        "p90 OCR duration": percentile(ocr_durations, 90),
+        "p99 OCR duration": percentile(ocr_durations, 99),
+    }
+
+    snapshots_dir = Path(__file__).parent.parent / "snapshots"
+
+    with open(snapshots_dir / "page_text_timing_statistics.txt", "w") as f:
+        print("Writing page text timing statistics to page_text_timing_statistics.txt")
+        for key, value in statistics.items():
+            f.write(f"{key}: {value}\n")
+
+
 if __name__ == "__main__":
     asyncio.run(generate_snapshots())
+    calculate_image_timing_statistics(snapshots_path)
+    calculate_page_text_timing_statistics(snapshots_path)
     calculate_token_count_statistics(snapshots_path)

@@ -41,4 +41,6 @@
                                              [ 38 ]
                                        [ 44 ] Copyright © 2016 [ 45 ] Direction Générale des Impôts          [ @ 46 ] Appels d'offres   [ @ 47 ] Conditions générales d'utilisation [ @ 48 ] Plan du site  [ @ 49 ] Liens utiles
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Image timing: 1.07 seconds
+Page text timing: 3.31 seconds
 Token count: 614

@@ -32,7 +32,7 @@
                               Family
 
                     [ 26 ] Hunt Regional Family                               [ 29 ] Hunt Regional Lab                                   [ 32 ] Hunt Regional Medical
-                    Medicine Royse City                                       Solutions                                                 Center Emergency Department
+                   Medicine Royse City                                        Solutions                                                 Center Emergency Department
                     [ 27 ] 616 E. Lamar St., Royse City, TX 75189 |           [ 30 ] 1216 Church St., Sulphur Springs, TX                [ 33 ] 4215 Joe Ramsey Blvd., Greenville, TX
                    469.902.9550                                               75482 | 903.408.5747                                      75401 | 903.408.5100
 
@@ -81,4 +81,6 @@
                  [ 65 ] © 2023 - Hunt Regional
                  Healthcare                                                                                                                [ @ 66 ]      [  67 ]      [ @ 68 ]      [ @ 69 ]
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Image timing: 0.85 seconds
+Page text timing: 3.57 seconds
 Token count: 890

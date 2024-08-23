@@ -69,33 +69,33 @@ ANTHROPIC
                                                  work. We think AI systems like the ones we're building have enormous social and ethical implications. We think this
                                                  makes representation even more important, and we strive to include a range of diverse perspectives on our team.
 
-                                                  [ 39 ] Compensation and Benefits [ 40 ] *
-                                                  [ 41 ] Anthropic's compensation package consists of three elements: salary, equity, and benefits. We are committed to
+                                                  [ 39 ] Compensation and Benefits *
+                                                  [ 40 ] Anthropic's compensation package consists of three elements: salary, equity, and benefits. We are committed to
                                                  pay fairness and aim for these three elements collectively to be highly competitive with market rates.
 
-                                                  [ 43 ] Equity [ 42 ] ] - On top of this position's salary ( listed above ), equity will be a major component of the total
+                                                  [ 42 ] Equity [ 41 ] - On top of this position's salary ( listed above ), equity will be a major component of the total
                                                  compensation. We aim to offer higher - than - average equity compensation for a company of our size, and communicate
                                                  equity amounts at the time of offer issuance.
 
-                                                  [ 45 ] Benefits [ 44 ] - Benefits we offer include:
-                                                  [ 46 ] - Optional equity donation matching at a 3: 1 ratio, up to 50 % of your equity grant.
-                                                  [ 47 ] - Comprehensive health, dental, and vision insurance for you and all your dependents.
-                                                  [ 48 ] - 401 ( k ) plan with 4 % matching.
-                                                  [ 49 ] ] 21 weeks of paid parental leave.
-                                                  [ 50 ] - Unlimited PTO - most staff take between 4-6 weeks each year, sometimes more!
-                                                  [ 51 ] - Stipends for education, home office improvements, commuting, and wellness.
-                                                  [ 52 ] - Fertility benefits via Carrot.
-                                                  [ 53 ] ] - Daily lunches and snacks in our office.
-                                                  [ 54 ] - Relocation support for those moving to the Bay Area.
+                                                  [ 44 ] Benefits [ 43 ] ] - Benefits we offer include:
+                                                  [ 45 ] - Optional equity donation matching at a 3: 1 ratio, up to 50 % of your equity grant.
+                                                  [ 46 ] - Comprehensive health, dental, and vision insurance for you and all your dependents.
+                                                  [ 47 ] - 401 ( k ) plan with 4 % matching.
+                                                  [ 48 ] 21 weeks of paid parental leave.
+                                                  [ 49 ] - Unlimited PTO - most staff take between 4-6 weeks each year, sometimes more!
+                                                  [ 50 ] - Stipends for education, home office improvements, commuting, and wellness.
+                                                  [ 51 ] - Fertility benefits via Carrot.
+                                                  [ 52 ] ] - Daily lunches and snacks in our office.
+                                                  [ 53 ] - Relocation support for those moving to the Bay Area.
 
-                                                  [ 55 ] * This compensation and benefits information is based on Anthropic's good faith estimate for this position, in San
+                                                  [ 54 ] * This compensation and benefits information is based on Anthropic's good faith estimate for this position, in San
                                                  Francisco, CA, as of the date of publication and may be modified in the future. The level of pay within the range will
                                                  depend on a variety of job - related factors, including where you place on our internal performance ladders, which is
                                                  based on factors including past work experience, relevant education, and performance on our interviews or in a work
                                                  trial.
 
-                                                  [ 56 ] How we're different
-                                                  [ 57 ] We believe that the highest - impact AI research will be big science. At Anthropic we work as a single cohesive
+                                                  [ 55 ] How we're different
+                                                  [ 56 ] We believe that the highest - impact AI research will be big science. At Anthropic we work as a single cohesive
                                                  team on just a few large - scale research efforts. And we value impact advancing our long - term goals of steerable,
                                                  trustworthy AI - rather than work on smaller and more specific puzzles. We view AI research as an empirical
                                                  science, which has as much in common with physics and biology as with traditional efforts in computer science. We're
@@ -105,24 +105,26 @@ ANTHROPIC
                                                  results are almost as valuable as positive discoveries. We do not have boundaries between engineering and research,
                                                  and we expect all of our technical staff to contribute to both as needed.
 
-                                                  [ 58 ] The easiest way to understand our research directions is to read our [ @ 67 ] recent research [ 59 ]. This research
-                                                 continues many of the directions our team worked on prior to Anthropic, including: [ @ 68 ] GPT - 3 [ 60 ],
-                                                  [ @ 69 ] Circuit - Based Interpretability [ 61 ], [ @ 70 ] Multimodal Neurons [ 62 ], [ @ 71 ] Scaling Laws [ 63 ], [ @ 72 ] AI
-                                                 & Compute [ 64 ], [ @ 73 ] Concrete Problems in AI Safety [ 65 ], and [ @ 74 ] Learning from Human Preferences [ 66 ] ].
+                                                  [ 57 ] The easiest way to understand our research directions is to read our [ @ 60 ] recent research [ 58 ]. This research
+                                                 continues many of the directions our team worked on prior to Anthropic, including: [ @ 61 ] GPT - 3, [ @ 62 ] Circuit-
+                                                 Based Interpretability, [ @ 63 ] Multimodal Neurons, [ @ 64 ] Scaling Laws, [ @ 65 ] AI & Compute, [ @ 66 ] Concrete
+                                                 Problems in AI Safety [ 59 ], and [ @ 67 ] Learning from Human Preferences.
 
-                                                  [ 75 ] Come work with us!
-                                                  [ 76 ] Anthropic is a public benefit corporation based in San Francisco. We offer competitive compensation and
+                                                  [ 68 ] Come work with us!
+                                                  [ 69 ] Anthropic is a public benefit corporation based in San Francisco. We offer competitive compensation and
                                                  benefits, optional equity donation matching, generous vacation and parental leave, flexible working hours, and a
                                                  lovely office space in which to collaborate with colleagues.
 
 
-                                                                                          [ @ 77 ] APPLY FOR THIS JOB
+                                                                                          [ @ 70 ] APPLY FOR THIS JOB
 
 
 
 
 
 
-                                                                                       [ @ 78 ] ] Jobs powered by   LEVER
+                                                                                       [ @ 71 ] ] Jobs powered by   LEVER
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1965
+Image timing: 0.38 seconds
+Page text timing: 4.83 seconds
+Token count: 1940

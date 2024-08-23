@@ -101,4 +101,6 @@
        [ 84 ] JK
                [ 86 ] Building Substitute
 -----------------------------------------------------------------------------------------------------------------------
+Image timing: 2.87 seconds
+Page text timing: 8.55 seconds
 Token count: 906

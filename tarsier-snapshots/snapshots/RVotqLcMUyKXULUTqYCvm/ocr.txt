@@ -36,4 +36,6 @@
    [ 85 ] Specialty Office or Clinic
    res1100 Excela Health Drive
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+Image timing: 12.85 seconds
+Page text timing: 6.97 seconds
 Token count: 383

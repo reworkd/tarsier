@@ -1,48 +1,49 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-@ 1 ]      [ $ 2 ] Product [ $ 3 ] Solutions [ $ 4 ] Open Source ✓ [ @ 5 ] Pricing                  [ $ 6 ] Search or jump to ...           [ @ 7 ] Sign in [ @ 8 ] Sign up
-  [
+[ @ 1 ]    [ $ 2 ] Product [ $ 3 ] Solutions [ $ 4 ] Open Source ✓ [ @ 5 ] Pricing                  [ $ 6 ] Search or jump to ...           [ @ 7 ] Sign in [ @ 8 ] Sign up
 
-      [ @ 9 ] reworkd [ 10 ] / [ @ 11 ] AgentGPT [ 12 ] Public                           [ @ 13 ] Sponsor [ @ 14 ] Notifications [ @ 15 ] Fork 9k [ @ 16 ] Star 27.7k
+      [ @ 9 ] reworkd / [ @ 10 ] AgentGPT [ 11 ] Public                                  [ @ 12 ] Sponsor [ @ 13 ] Notifications [ @ 14 ] Fork 9k [ @ 15 ] Star 27.7k
 
-    [ @ 17 ] < > Code [ @ 18 ] Issues 107 [ @ 19 ] Pull requests 38 [ @ 20 ] Discussions [ @ 21 ] Actions [ @ 22 ] Projects 1 [ @ 23 ] Security [ @ 24 ] Insights [ $ 25 ]
+    [ @ 16 ] < > Code [ @ 17 ] Issues 107 [ @ 18 ] Pull requests 38 [ @ 19 ] Discussions [ @ 20 ] Actions [ @ 21 ] Projects 1 [ @ 22 ] Security [ @ 23 ] Insights [ $ 24 ]
                                                                                                                                                                  ...
 
-             [ 27 ]      **Integrate with models from other companies [ 28 ] # 21**                                                              [ $ 26 ] ew issue
-                 [ 29 ] Open [ @ 32 ] asim - shrestha [ 30 ] opened this issue on Apr 11 [ 31 ] 2 comments
+             **[ 26 ]**                                                                                                                          [ $ 25 ] ew issue
+                         **Integrate with models from other companies [ 27 ] # 21**
+                 [ 28 ] Open [ @ 31 ] asim - shrestha [ 29 ] ] opened this issue on Apr 11 [ 30 ] ] · 2 comments
 
 
-             [ @ 34 ] [ @ 38 ] asim - shrestha [ 37 ] commented [ @ 39 ] on Apr 11                   [ 36 ] Contributor [ $ 35 ]
-                                                                                                                          [ 82 ] Assignees
-                                                                                                                          [ 83 ] No one assigned
-                      [ 40 ] As a user, I may not want to be tied down to OpenAl. There are a lot of companies offering APIs for LLMs. We should
+             [ @ 33 ] [ @ 37 ] asim - shrestha [ 36 ] commented [ @ 38 ] on Apr 11                   [ 35 ] Contributor [ $ 34 ]
+                                                                                                                          [ 79 ] Assignees
+                                                                                                                          [ 80 ] No one assigned
+                      [ 39 ] As a user, I may not want to be tied down to OpenAI. There are a lot of companies offering APIs for LLMs. We should
                      explore what are the best, and provide an interface to select between them
-                                                                                                                          [ 84 ] Labels
-                      [ 41 ] [ 42 ] 2                                                                                     [ @ 85 ] enhancement
+                                                                                                                          [ 81 ] Labels
+                         [ 40 ] ] 2                                                                                       [ @ 82 ] enhancement
 
-                                                                                                                          [ 86 ] Projects
-             [ @ 43 ] [ @ 47 ] psgit [ 46 ] commented [ @ 48 ] on Apr 15 [ 49 ]. [ $ 50 ] d          [ 45 ] Contributor [ $ 44 ]
-                                                                                                                          [ 87 ] None yet
+                                                                                                                          [ 83 ] Projects
+             [ @ 41 ] [ @ 45 ] psgit [ 44 ] commented [ @ 46 ] on Apr 15 [ $ 47 ] ▼                  [ 43 ] Contributor [ $ 42 ] [ 84 ] None yet
 
-                      [ @ 52 ] @ asim - shrestha [ 51 ] ] great idea                                                      [ 89 ] Milestone
-                      [ 53 ] I did some initial analysis and it appears that AutoGPT uses Langchain in [ @ 56 ] chain.ts [ 54 ] to communicate with [ 88 ] No milestone
+                     [ @ 49 ] @ asim - shrestha [ 48 ] ] great idea de                                                    [ 86 ] Milestone
+                      [ 50 ] I did some initial analysis and it appears that AutoGPT uses Langchain in [ @ 53 ] chain.ts [ 51 ] ] to communicate with [ 85 ] ] No milestone
                      OpenAl. Since Langchain appears to offer support for other LLMs ( see e.g.
-                      [ @ 57 ] https://github.com/hwchase17/langchain/tree/master/langchain/llms [ 55 ] ) then a possible solution might be to [ 90 ] Development
+                      [ @ 54 ] https://github.com/hwchase17/langchain/tree/master/langchain/llms [ 52 ] ) then a possible solution might be to [ 87 ] Development
                      parameterize the LLM ( s ) in chain.ts. Specific settings would have to be provided for supported LLM ( s ).
-                                                                                                                          [ 91 ] No branches or pull requests
+                                                                                                                         [ 88 ] No branches or pull requests
 
-                            ]                                                                                             [ 92 ] 3 participants
-                        [ @ 60  [ @ 61 ] yourepicservices [ 58 ] added the [ @ 62 ] enhancement [ 59 ] label [ @ 63 ] on Apr 15
-                                                                                                                          [ @ 93 ] [ @ 94 ] [ @ 95 ]
-             [ @ 64 ] [ @ 69 ] asim - shrestha [ 68 ] commented [ @ 70 ] ] on Apr 23       [ 66 ] Contributor [ 67 ] Author [ $ 65 ]
-                     [ 71 ] Hey exactly psgit! Hoping to include models from Cohere, anthropic, google, etc if possible.
+                                                                                                                          [ 89 ] 3 participants
+                        [ @ 57 ] & [ @ 58 ] yourepicservices [ 55 ] added the [ @ 59 ] enhancement [ 56 ] label [ @ 60 ] on Apr 15
+                                                                                                                          [ @ 90 ] [ @ 91 ] [ @ 92 ]
+             [ @ 61 ] [ @ 66 ] asim - shrestha [ 65 ] commented [ @ 67 ] on Apr 23         [ 63 ] Contributor [ 64 ] Author [ $ 62 ]
+                      [ 68 ] Hey exactly psgit! Hoping to include models from Cohere, anthropic, google, etc if possible.
 
-                        [ @ 73 ] [ @ 74 ] asim - shrestha [ 72 ] mentioned this issue [ @ 75 ] on Apr 23
-                        [ @ 76 ] Use offline private LLMs ( Llama, Alpaca, Vicuna *, etc. ) # 322            O [ 77 ] Open
-
-
-                 [ @ 79 ] Sign up for free [ 80 ] to join this conversation on GitHub [ 78 ]. Already have an account? [ @ 81 ] Sign in to comment
+                        [ @ 70 ] [ @ 71 ] asim - shrestha [ 69 ] mentioned this issue [ [ @ 72 ] on Apr 23
+                        [ @ 73 ] Use offline private LLMs ( Llama, Alpaca, Vicuna *, etc. ) # 322              [ 74 ] Open
 
 
-                                     [ @ 97 ] [ 98 ] 2023 GitHub, Inc. [ @ 100 ] Terms [ @ 101 ] Privacy [ @ 102 ] Security [ @ 103 ] Status [ @ 104 ] Docs [ @ 105 ] Contact
+                 [ @ 76 ] Sign up for free [ 77 ] to join this conversation on GitHub [ 75 ]. Already have an account? [ @ 78 ] Sign in to comment
+
+
+                                      [ @ 94 ] [ 95 ] 2023 GitHub, Inc. [ @ 97 ] Terms [ @ 98 ] Privacy [ @ 99 ] Security [ @ 100 ] Status [ @ 101 ] Docs [ @ 102 ] Contact
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 952
+Image timing: 6.59 seconds
+Page text timing: 1.33 seconds
+Token count: 946

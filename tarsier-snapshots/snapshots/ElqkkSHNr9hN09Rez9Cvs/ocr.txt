@@ -2,9 +2,9 @@
 [ @ 2 ] MyChart     [ @ 3 ] Find Care Now      [ @ 4 ] Donate     [ @ 5 ] Careers    [ @ 6 ] 540-536-8000
      [ @ 1 ]
                                                              ABOUT                FIND A                   OUR                      OUR                PATIENTS &                CONTACT
-     **VValleyHealth**                                  [ @ 7               [ @                  [ @                      [ @ 10                   [ @                     @ 12                          ]
+     **VValleyHealth**                                  [ @ 7               [ @                  [ @                       [ @ 10                  [ @                      @ 12                         ]
                                                                                                     ⁹                                                                      [                       [ @ 13
-                                                                US               DOCTOR                LOCATIONS                 SERVICES               VISITORS                     US
+                                                                US               DOCTOR                LOCATIONS                 SERVICES                VISITORS                    US
                   Healthier, together.
 
 
@@ -70,54 +70,56 @@
                 for ...                                                   Date ...
                  [ 68 ] Heart & Vascular                                  [ 73 ] Primary Care
                  [ 69 ] Winchester Medical Center's Heart &               [ 74 ] It's no surprise that the pandemic
-                Vascular Center has received the                         delayed routine care for many people,
-                American Heart Association's Gold Get                    which means now it's time to make
-                With The Guidelines® - AFIB Quality ...                  wellness checks, yearly vaccinations and
+                Vascular Center has received the                          delayed routine care for many people,
+                American Heart Association's Gold Get                     which means now it's time to make
+                With The Guidelines® - AFIB Quality ...                   wellness checks, yearly vaccinations and
                  [ 70 ] Continue Reading
                                                                           [ 75 ] Continue Reading
 
-                 [ $ 166 ]   [ 168 ] 1 [ 167 ] / [ 169 ] 20 [ $ 170 ]                                              All
-                                                                                                 [ @ 171 ] View
+                 [ $ 166 ]   [ 167 ] 1 / [ 168 ] 20 [ $ 169 ]                                                      All
+                                                                                                 [ @ 170 ] View
 
 
 
 
-                 [ 172 ] Related Providers
-                 [ @ 173 ]                             [ @ 178 ]                             [ @ 183 ]
-
-
-
-
-
-
-
-
-
-                 [ 174 ] David J. LeCronier,           [ 179 ] Jeffrey S. Lessar,            [ 184 ] Neal S. Gaither,
-                 [ 175 ] DO                            [ 180 ] MD                            [ 185 ] MD, FACC, FSCAI
-                 [ 176 ] Pulmonary Medicine,           [ 181 ] Pulmonary Medicine            [ 186 ] Cardiology
-                Intensivist / Critical Care            [ 182 ] View Profile                  [ 187 ] View Profile
-                 [ 177 ] View Profile
-
-                 [ $ 198 ]                               [ $ 202 ]                                @ 203 ] View All
-                             [ 200 ] 1 [ 199 ] / [ 201 ] 3                                       [
+                 [ 171 ] Related Providers
+                 [ @ 172 ]                             [ @ 177 ]                             [ @ 182 ]
 
 
 
 
 
-       [ @ 204 ] ABOUT US                    [ @ 205 ] OUR LOCATIONS               [ @ 206 ] OUR SERVICES                [ @ 207 ] PATIENTS &                [ @ 216 ]
+
+
+
+
+                 [ 173 ] David J. LeCronier,           [ 178 ] Jeffrey S. Lessar,            [ 183 ] Neal S. Gaither,
+                 [ 174 ] DO                            [ 179 ] MD                            [ 184 ] MD, FACC, FSCAI
+                 [ 175 ] Pulmonary Medicine,           [ 180 ] Pulmonary Medicine            [ 185 ] Cardiology
+                Intensivist / Critical Care            [ 181 ] View Profile
+                                                                                             [ 186 ] View Profile
+                 [ 176 ] View Profile
+
+                 [ $ 197 ]   [ 198 ] 1 / [ 199 ] 3 [ $ 200 ]                                     [ @ 201 ] View All
+
+
+
+
+
+       [ @ 202 ] ABOUT US                    [ @ 203 ] OUR LOCATIONS               [ @ 204 ] OUR SERVICES                [ @ 205 ] PATIENTS &                 [ @ 214 ]
                                                                                                                          VISITORS
-                                                                                                                                                              [ 218 ] 220 Campus Blvd.
-       [ @ 208 ] CONTACT US                  [ @ 209 ] CAREERS                     [ @ 210 ] CITRIX                      [ @ 211 ] NEWS
-                                                                                                                                                              [ 219 ] Winchester [ 217 ], [ 220 ] VA
-       [ @ 212 ] EVENTS CALENDAR             [ @ 213 ] PHOTO GALLERY               [ @ 214 ] FOR PHYSICIANS &            [ @ 215 ] VIDEO LIBRARY              [ 221 ] 22601
-                                                                                   EMPLOYEES                                                                 [ @ 222 ] 540-536-8000
-                                                                                                                                                             [ @ 223 ]    [ @ 224 ]   [ @ 225 ]    [ @ 226 ]   [ @ 227 ]
+                                                                                                                                                              [ 215 ] 220 Campus Blvd.
+       [ @ 206 ] CONTACT US                  [ @ 207 ] CAREERS                     [ @ 208 ] CITRIX                      [ @ 209 ] NEWS
+                                                                                                                                                              [ 216 ] Winchester, [ 217 ] VA
+       [ @ 210 ] EVENTS CALENDAR             [ @ 211 ] PHOTO GALLERY               [ @ 212 ] FOR PHYSICIANS &            [ @ 213 ] VIDEO LIBRARY              [ 218 ] 22601
+                                                                                   EMPLOYEES                                                                  [ @ 219 ] 540-536-8000
+                                                                                                                                                             [ @ 220 ]    [ @ 221 ]    [ @ 222 ]   [ @ 223 ]    [ @ 224 ]
 
 
 
 
-        [ 233 ] Copyright © 2023 [ @ 232 ] Privacy Policy. [ @ 231 ] Site Map [ @ 230 ] Notice of Privacy Practices [ @ 229 ] Non - Discrimination Statement [ @ 228 ] Accessibility        [ @ 234 ]
+        [ 230 ] Copyright © 2023 [ @ 229 ] Privacy Policy. [ @ 228 ] Site Map [ @ 227 ] Notice of Privacy Practices [ @ 226 ] Non - Discrimination Statement [ @ 225 ] Accessibility         [ @ 231 ]
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1331
+Image timing: 4.30 seconds
+Page text timing: 4.54 seconds
+Token count: 1319

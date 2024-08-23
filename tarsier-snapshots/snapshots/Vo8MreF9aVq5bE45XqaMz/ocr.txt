@@ -39,22 +39,30 @@
                                                [ @ 41 ] 503-413-7848
 
 
+                  [ @ 43 ]                  [ @ 44 ] Labcorp at Legacy Bridgeport
+                                               [ @ 45 ] 18010 SW McEwan       [ @ 49 ]
+                                               Road                           Schedule
+                                               Lake Oswego, OR, 97035
+                                               [ @ 46 ] 503-413-1234          [ @ 50 ] +
+
 
 
 
              [ @ 249 ]                                                                                                                                  With Us
                                                                 [ 256 ] Our Organization [ 260 ] For Patients                       [ 266 ] Connect
                      LEGACY                                     [ @ 257 ] Careers                 [ @ 261 ] Clinical Trials         [ @ 267 ] Join Our Newsletter
-                    HEALTH                                                                                                                        Us
-                                                                [ @ 258 ] Volunteering            [ @ 262 ] Financial Assistance    [ @ 268 ] Contact
+                    HEALTH
+                                                                [ @ 258 ] Volunteering            [ @ 262 ] Financial Assistance    [ @ 268 ] Contact Us
              [ 250 ] Our mission is good health for our         [ @ 259 ] Doing Business With Us  [ @ 263 ] Interpreter Services
-            people, our patients, our communities and our                                         [ @ 264 ] Medical Records
+             people, our patients, our communities and our                                        [ @ 264 ] Medical Records
             world. Above all, we will do the right thing.
                                                                                                   [ @ 265 ] Pay a Bill
-             [ @ 251 ] **f [ @ 252 ]**
-                                                                [ 269 ] © 2023 Legacy Health [ 270 ] [ @ 271 ] Terms of Use [ 272 ] | [ @ 273 ] Privacy Policy [ 274 ] |
-                                                                [ @ 275 ] Notice of Nondiscrimination [ 276 ] [ @ 277 ] No Surprise Billing [ 278 ] [ @ 279 ] Capital Reporting [ 280 ] |
-             [ @ 253 ] O [ @ 254 ] in                           [ @ 281 ] Do Not Sell or Share My Personal Information
-             [ @ 255 ] ►
+             [ @ 251 ]     [ @ 252 ]                            [ 269 ] © 2023 Legacy Health | [ @ 270 ] Terms of Use | [ @ 271 ] Privacy Policy | [ @ 272 ] Notice of Nondiscrimination |
+                                                                [ @ 273 ] No Surprise Billing [ @ 274 ] Capital Reporting | [ @ 275 ] Do Not Sell or Share My Personal Information
+             [ @ 253 ]     [ @ 254 ] in
+
+             [ @ 255 ]
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 747
+Image timing: 3.12 seconds
+Page text timing: 10.78 seconds
+Token count: 794

@@ -23,7 +23,7 @@
 
                         [ @ 13 ] APPLY                  [ @ 14 ] SHORTLIST □
 
-                                                                                                   [ @ 93 ]
+                                                                                                   [ @ 92 ]
                                                                                                    Find out about our
                                                                                                    affinity networks
            **[ 15 ] Job Description**
@@ -41,17 +41,17 @@
            attract, retain and develop exceptional talent. Whilst our approach is global, we must ensure that
            our processes and employee experiences are as seamless as possible, driving self - service and
            optimising automation.
-                                                                                                   **[ 94 ] Hear from our**
+                                                                                                   **[ 93 ] Hear from our**
            [ 20 ] This role straddles both the Global HR and Global IT functions and you will be working with
            functional stakeholders as well as solution architects and internal subject matter experts, to **people**
            continually transform our HR operations globally.
-                                                                                                   [ 95 ] The Clifford Chance Careers Podcast
+                                                                                                   [ 94 ] The Clifford Chance Careers Podcast
            [ 21 ] You will have line management responsibility for the People Services Systems Team, features our colleagues from across the
            ensuring a high level of engagement and performance, fostering their ongoing development, and globe, discussing career advice, new
            promoting a mindset of continual improvement.                                           trends in the industry and giving unique
                                                                                                    insights into their personal journeys.
            [ 22 ] Who you will work with
-                                                                                                     [ @ 96 ] READ MORE
+                                                                                                     [ @ 95 ] READ MORE
            [ 23 ] You will work closely with the Global Head of People Services Delivery and the Global HR
            Product Manager. You will partner with the Global HR leadership, functional business owners,
            Global HR IT systems, HR Data & Analytics, Risk & Compliance, Data Privacy, and functional
@@ -198,10 +198,10 @@
            improvement.
            [ 81 ] Our goal is to deliver an equality of opportunity, an equality of aspiration and an equality of
            experience to everyone who works in our firm.
-           [ 82 ] Find out more about our inclusive culture [ @ 84 ] here [ 83 ].
-           [ 85 ] # IND1 # LI - JS1
+           [ 82 ] Find out more about our inclusive culture [ @ 83 ] here.
+           [ 84 ] # IND1 # LI - JS1
 
-              [ @ 86 ] Apply       [ @ 87 ] Shortlist ☐
+              [ @ 85 ] Apply       [ @ 86 ] Shortlist □
 
 
                  Clifford Chance London: Questions with ...
@@ -215,30 +215,31 @@
             Watch on  YouTube
 
 
-           [ $ 88 ] SHARE [ @ 90 ] [ @ 89 ] □ [ @ 91 ]   [ @ 92 ] @
+           [ $ 87 ] SHARE [ @ 89 ] [ @ 88 ] ☐ [ @ 90 ]   [ @ 91 ] @
 
 
 
 
-      **[ 97 ] Join our community of**
+      **[ 96 ] Join our community of**
       **bright minds**                                  BE PROUD.
-                                           **up to our talent BE CLIFFORD CHANCE**
-              **find the role you are looking for? Sign**
-      **[ 98 ] Can't**
+                                      ? Sign up to our talent BE CLIFFORD CHANCE
+      [ 97 ] Can't find the role you are looking for
       community today
 
-          [ @ 99 ] REGISTER
+          [ @ 98 ] REGISTER
 
 
 
-           [ @ 103 ] About [ @ 104 ] Accessibility [ @ 105 ] Legal [ @ 106 ] Contact [ @ 107 ] Privacy       Start your job search
-                                                                                                                             here [ @ 109 ]
-           Us         Statement            Statements       us          policy
-                                                                                                        [ # 108 ]
+           [ @ 102 ] About [ @ 103 ] Accessibility [ @ 104 ] Legal [ @ 105 ] Contact [ @ 106 ] Privacy       **Start**
+                                                                                                                 **your job search here [ 108**
+           Us         Statement            Statements       us          policy                                                      ]
+                                                                                                        [ # 107 ]
 
 
 
-           [ 110 ] Connect with us: □ [ @ 112 ] □ [ @ 111 ] [ 113 ]
-           [ 114 ] Clifford Chance
+           [ 109 ] Connect with us: □ [ @ 111 ] □ [ @ 110 ] □ [ @ 112 ]
+           [ 113 ] Clifford Chance
 ---------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2799
+Image timing: 1.59 seconds
+Page text timing: 4.16 seconds
+Token count: 2795

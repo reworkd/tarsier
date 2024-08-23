@@ -1,80 +1,81 @@
----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 [ @ 1 ] My Health Records [ @ 2 ] Hospital Charges [ @ 3 ] Giving / Donating
 
-            [ @ 5 ]                             a Provider @ 7 ] Search For Services @ 8 ] Locations
-                    West Tennessee       [ @ 6 ] Find    [                   [
-                     HEALTHCARE ™                                                                                      [ @ 4 ] Q
-                                         [ @ 9 ] Careers [ @ 10 ] Pay a Bill
+             [ @ 5 ]                       @ 6 ] Find a Provider @ 7 ] Search For Services @ 8 ] Locations
+                     West Tennessee        [                [                    [
+                      HEALTHCARE ™                                                                                           [ @ 4 ] Q
+                                           [ @ 9 ] Careers [ @ 10 ] Pay a Bill
 
-                                              A [ 11 ] COVID - 19 Resources [ @ 13 ] Click here for details [ 12 ].
+                                                  A [ 11 ] COVID - 19 Resources [ @ 12 ] Click here for details.
 
 
-      [ @ 16 ] HOME [ 14 ] [ @ 17 ] LOCATIONS [ 15 ] [ 18 ] WEST TENNESSEE INTERVENTIONAL PAIN ( DYERSBURG )
-                                                                                                        **[ 27 ] West Tennessee**
-                                                                                                       Interventional Pain
-      **[ 19 ] West Tennessee Interventional Pain**
-                                                                                                       **( Dyersburg )**
-                                                                                                        [ 28 ] 420 Wilkinson Dr, Dyersburg, TN
+      [ @ 13 ] ] HOME [ @ 14 ] LOCATIONS [ 15 ] WEST TENNESSEE INTERVENTIONAL PAIN ( DYERSBURG )
+                                                                                                             **[ 24 ] West Tennessee**
+                                                                                                             Interventional Pain
+      **[ 16 ] West Tennessee Interventional Pain**
+                                                                                                             **( Dyersburg )**
+                                                                                                             [ 25 ] 420 Wilkinson Dr, Dyersburg, TN
       **( Dyersburg )**
-                                                                                                       38024, USA
-                                                                                                        [ @ 29 ] ( 731 ) 288-3960
+                                                                                                             38024, USA
+                                                                                                             [ @ 26 ] ( 731 ) 288-3960
 
-                                                                                                          [ @ 30 ] GET DIRECTIONS
-
-
-                                                                                                        [ 31 ] General Hours
-                                                                                                        [ 32 ] Wednesday [ 33 ] 8am - 4:30 pm
-                                                                                                        [ 34 ] Friday [ 35 ] 8am - 4:30 pm
+                                                                                                                [ @ 27 ] GET DIRECTIONS
 
 
-
-                                                                             West Tennessee
-                                                                              HEALTHCARE
-                                                                              Gastroenterology
-                                                                              Outpatient
-                                                                              Surgical Services
-                                                                              420 Wilkinson Drive
+                                                                                                             [ 28 ] General Hours
+                                                                                                             [ 29 ] Wednesday [ 30 ] 8am - 4:30 pm
+                                                                                                             [ 31 ] Friday [ 32 ] 8am - 4:30 pm
 
 
 
-
-      [ @ 20 ] About [ @ 21 ] Patient Services
-
-      [ 22 ] About
+                                                                                  West Tennessee
+                                                                                  HEALTHCARE
+                                                                                  Gastroenterology
+                                                                                  Outpatient
+                                                                                  Surgical Services
+                                                                                  420 Wilkinson Drive
 
 
 
 
-      [ 23 ] Patient Services
-     • [ 24 ] Diagnostic Procedure
-       [ 25 ] Surgical Procedures
-     • [ 26 ] Therapeutic Procedures
+      [ @ 17 ] About [ @ 18 ] Patient Services
+
+      [ 19 ] About
 
 
 
-                                      **[ 36 ] Questions? [ 37 ] Call [ @ 38 ] 731-541-5000**
 
-                                                   [ @ 39 ] [ @ 40 ] f [ @ 41 ] [ 42 ]
+      [ 20 ] Patient Services
+      • [ 21 ] Diagnostic Procedure
+        [ 22 ] Surgical Procedures
+      • [ 23 ] Therapeutic Procedures
 
 
-               [ 43 ] About Us            [ 50 ] Patients & Visitors [ 61 ] Health Care Professionals [ 68 ] Affiliations
-               [ @ 44 ] About Us          [ @ 51 ] Request Medical Records [ @ 62 ] Referring and Transferring
-                                                                                                [ @ 69 ]
-               [ @ 45 ] ] Community Needs [ @ 52 ] Disability / FMLA Patients
-                                                                                                Vanderbilt Health
-               Assessment                 [ @ 53 ] Billing & Financial [ @ 63 ] EpicCare Link
-                                                                                                Affiliated Network
-               [ @ 46 ] Locations         Assistance                 [ @ 64 ] Research
-               [ @ 47 ] Nondiscrimination Policy [ @ 54 ] Insurance  [ @ 65 ] For Employees
-               [ @ 48 ] Sponsorship Request [ @ 55 ] Education Information [ @ 66 ] Careers
-               [ @ 49 ] Support Groups    [ @ 56 ] Quality & Safety  [ @ 67 ] ] Medical Staff Office
-                                          [ @ 57 ] Giving / Donating
-                                          [ @ 58 ] Volunteering
-                                          [ @ 59 ] Greeting Card
-                                          [ @ 60 ] Meet My Loved One
 
-               [ 70 ] Problem with the website? Please send us  [ @ 73 ] Site Map [ @ 74 ] Terms of Use
-               [ @ 72 ] feedback [ 71 ].                        [ @ 75 ] Privacy Policy - Avisos Privacidad
-               [ 76 ] © 2023 West Tennessee Healthcare
----------------------------------------------------------------------------------------------------------------------------------
-Token count: 766
+                                         **[ 33 ] Questions? [ 34 ] Call [ @ 35 ] 731-541-5000**
+
+                                                      [ @ 36 ] [ @ 37 ] f [ @ 38 ] [ @ 39 ] ►
+
+
+                [ 40 ] About Us              [ 47 ] Patients & Visitors  [ 58 ] Health Care Professionals [ 65 ] Affiliations
+                [ @ 41 ] About Us            [ @ 48 ] Request Medical Records [ @ 59 ] Referring and Transferring
+                                                                         Patients                    [ @ 66 ]
+                [ @ 42 ] Community Needs     [ @ 49 ] Disability / FMLA                              Vanderbilt Health
+                Assessment                   [ @ 50 ] Billing & Financial [ @ 60 ] EpicCare Link
+                                                                                                      Affiliated Network
+                [ @ 43 ] Locations          Assistance                   [ @ 61 ] Research
+                [ @ 44 ] Nondiscrimination Policy [ @ 51 ] Insurance     [ @ 62 ] For Employees
+                [ @ 45 ] Sponsorship Request [ @ 52 ] Education Information [ @ 63 ] Careers
+                [ @ 46 ] Support Groups      [ @ 53 ] Quality & Safety   [ @ 64 ] Medical Staff Office
+                                             [ @ 54 ] Giving / Donating
+                                             [ @ 55 ] Volunteering
+                                             [ @ 56 ] Greeting Card
+                                             [ @ 57 ] Meet My Loved One
+
+                [ 67 ] Problem with the website? Please send us  [ @ 69 ] Site Map [ @ 70 ] Terms of Use
+                [ @ 68 ] feedback.                               [ @ 71 ] Privacy Policy - Avisos Privacidad
+                [ 72 ] © 2023 West Tennessee Healthcare
+----------------------------------------------------------------------------------------------------------------------------------------
+Image timing: 2.56 seconds
+Page text timing: 15.05 seconds
+Token count: 756

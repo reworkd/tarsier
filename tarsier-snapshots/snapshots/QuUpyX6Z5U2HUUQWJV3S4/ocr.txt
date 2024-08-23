@@ -3,7 +3,7 @@
     [ @ 1 ]
     Wachtell, Lipton, Rosen & Katz                                                                                                                                                                                       [ $ 3 ] WLRK Careers                [ $ 4 ] Introduce Yourself
 
-                                          Administrative Staff Careers
+                                           Administrative Staff Careers
 
 
 
@@ -45,7 +45,7 @@
                            [ 29 ] Knowledge, Skills, and Abilities Required:
                                .   [ 30 ] Strong expertise in E - billing systems, electronic invoicing, and compliance with client billing
                                    guidelines.
-                               .    [ 31 ] Advanced user of the Thomson Reuters 3E product suite, Power BI proficiency in generating
+                               .   [ 31 ] Advanced user of the Thomson Reuters 3E product suite, Power BI proficiency in generating
                                    reports and metrics.
                                .   [ 32 ] Experience in collections, with a proven track record of effectively managing outstanding
                                    invoices and resolving payment issues.
@@ -77,4 +77,6 @@
                                                                                                                                            workday
                                                                                                                            [ 51 ] © 2023 Workday, Inc. All rights reserved.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Image timing: 0.57 seconds
+Page text timing: 2.38 seconds
 Token count: 1010

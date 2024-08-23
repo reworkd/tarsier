@@ -21,111 +21,115 @@ $ 2 ] [ @ 3 ]                                  [ @ 4 ] PEOPLE      [ @ 5 ] CAPAB
 
 
 
-       [ 24 ] RESULTS [ 27 ] 1 [ 25 ] [ 28 ] 20 [ 26 ] OF [ 29 ] 3,705
+        [ 24 ] RESULTS [ 26 ] 1 [ 27 ] 20 [ 25 ] ] OF [ 28 ] 3,705
 
          Manuel ( Manny ) A. Abascal                                                                              Douglas Abernethy
-                                                              [ @ 30 ] Manuel ( Manny ) A.
-                                                             Abascal                                                                                                  [ @ 35 ] Douglas Abernethy
-                                                                                                                                                                      [ 36 ] Partner
-                                                              [ 31 ] Partner
-                                                                                                                                                                      [ 37 ] London
-                                                              [ 32 ] Los Angeles                                                                                      [ 38 ] douglas.abernethy@lw.com
-                                                              [ 33 ] manny.abascal@lw.com                                                                             [ 39 ] +44.20.7710.4760
-                                                              [ 34 ] +1.213.891.7889
+                                                              [ @ 29 ] Manuel ( Manny ) A.
+                                                             Abascal                                                                                                  [ @ 34 ] Douglas Abernethy
+                                                                                                                                                                      [ 35 ] Partner
+                                                              [ 30 ] Partner
+                                                                                                                                                                      [ 36 ] London
+                                                              [ 31 ] Los Angeles
+                                                                                                                                                                      [ 37 ] douglas.abernethy@lw.com
+                                                              [ 32 ] manny.abascal@lw.com                                                                             [ 38 ] +44.20.7710.4760
+                                                              [ 33 ] +1.213.891.7889
 
 
                                                                                                                   Nathan Ajiashvili
-                                                              [ @ 40 ] Christian Adams                                                                                [ @ 45 ] Nathan Ajiashvili
-                                                              [ 41 ] Partner                                                                                          [ 46 ] Partner
-                                                              [ 42 ] Dubai                                                                                            [ 47 ] New York
-                                                              [ 43 ] christian.adams@lw.com                                                                           [ 48 ] nathan.ajiashvili@lw.com
-                                                              [ 44 ] +971.4.704.6420                                                                                  [ 49 ] +1.212.906.2916
+                                                              [ @ 39 ] Christian Adams                                                                                [ @ 44 ] Nathan Ajiashvili
+                                                              [ 40 ] Partner                                                                                          [ 45 ] Partner
+                                                              [ 41 ] Dubai                                                                                            [ 46 ] New York
+                                                              [ 42 ] christian.adams@lw.com                                                                           [ 47 ] nathan.ajiashvili@lw.com
+                                                              [ 43 ] +971.4.704.6420                                                                                  [ 48 ] +1.212.906.2916
 
 
           Hamad M. Al - Hoshan                                                                                    Basil Al - Jafari
-                                                              [ @ 50 ] Hamad M. Al - Hoshan                                                                           [ @ 55 ] Basil Al - Jafari
-                                                              [ 51 ] Partner                                                                                          [ 56 ] Partner
-                                                              [ 52 ] New York                                                                                         [ 57 ] Dubai
-                                                              [ 53 ] hamad.al-hoshan@lw.com                                                                           [ 58 ] basil.aljafari@lw.com
-                                                              [ 54 ] +1.212.906.1210                                                                                  [ 59 ] +971.4.704.6403
+                                                              [ @ 49 ] Hamad M. Al - Hoshan                                                                           [ @ 54 ] Basil Al - Jafari
+                                                              [ 50 ] Partner                                                                                          [ 55 ] Partner
+                                                              [ 51 ] New York                                                                                         [ 56 ] Dubai
+                                                              [ 52 ] hamad.al-hoshan@lw.com                                                                           [ 57 ] basil.aljafari@lw.com
+                                                              [ 53 ] +1.212.906.1210                                                                                  [ 58 ] +971.4.704.6403
 
 
          Salman Al - Sudairi                                                                                      Mary Rose Alexander
-                                                              [ @ 60 ] Salman Al - Sudairi                                                                            [ @ 65 ] Mary Rose Alexander
-                                                              [ 61 ] Partner                                                                                          [ 66 ] Partner
-                                                              [ 62 ] Riyadh                                                                                           [ 67 ] Chicago
-                                                              [ 63 ] salman.al-sudairi@lw.com                                                                         [ 68 ] mary.rose.alexander@lw.com
-                                                              [ 64 ] +966.11.207.2515                                                                                 [ 69 ] +1.312.876.7672
+                                                              [ @ 59 ] Salman Al - Sudairi                                                                            [ @ 64 ] Mary Rose Alexander
+                                                              [ 60 ] Partner                                                                                          [ 65 ] Partner
+                                                              [ 61 ] Riyadh                                                                                           [ 66 ] Chicago
+                                                              [ 62 ] salman.al-sudairi@lw.com                                                                         [ 67 ] mary.rose.alexander@lw.com
+                                                              [ 63 ] +966.11.207.2515                                                                                 [ 68 ] +1.312.876.7672
 
 
          Owen J.D. Alexander                                                                                     Joe Alexander
-                                                              [ @ 70 ] Owen J.D. Alexander                                                                            [ @ 75 ] Joe Alexander
-                                                              [ 71 ] Partner                                                                                          [ 76 ] Partner
-                                                              [ 72 ] Chicago                                                                                          [ 77 ] New York
-                                                              [ 73 ] owen.alexander@lw.com                                                                            [ 78 ] joe.alexander@lw.com
-                                                              [ 74 ] +1.312.876.7654                                                                                  [ 79 ] +1.212.906.1261
+                                                              [ @ 69 ] Owen J.D. Alexander                                                                            [ @ 74 ] Joe Alexander
+                                                              [ 70 ] Partner                                                                                          [ 75 ] Partner
+                                                              [ 71 ] Chicago                                                                                          [ 76 ] New York
+                                                              [ 72 ] owen.alexander@lw.com                                                                            [ 77 ] joe.alexander@lw.com
+                                                              [ 73 ] +1.312.876.7654                                                                                  [ 78 ] +1.212.906.1261
 
 
          Stuart Alford KC                                                                                         Nineveh Alkhas
-                                                              [ @ 80 ] Stuart Alford KC                                                                               [ @ 85 ] Nineveh Alkhas
-                                                              [ 81 ] Partner                                                                                          [ 86 ] Partner
-                                                              [ 82 ] London                                                                                           [ 87 ] Chicago
-                                                              [ 83 ] stuart.alford.kc@lw.com                                                                          [ 88 ] nineveh.alkhas@lw.com
-                                                              [ 84 ] +44.20.7710.4502                                                                                 [ 89 ] +1.312.876.7724
+                                                              [ @ 79 ] Stuart Alford KC                                                                               [ @ 84 ] Nineveh Alkhas
+                                                              [ 80 ] Partner                                                                                          [ 85 ] Partner
+                                                              [ 81 ] London                                                                                           [ 86 ] Chicago
+                                                              [ 82 ] stuart.alford.kc@lw.com                                                                          [ 87 ] nineveh.alkhas@lw.com
+                                                              [ 83 ] +44.20.7710.4502                                                                                 [ 88 ] +1.312.876.7724
 
 
          David S. Allinson                                                                                        José María Alonso
-                                                              [ @ 90 ] David S. Allinson                                                                              [ @ 95 ] José María Alonso
-                                                              [ 91 ] Partner                                                                                          [ 96 ] Partner
-                                                              [ 92 ] New York                                                                                         [ 97 ] Madrid
-                                                              [ 93 ] david.allinson@lw.com                                                                            [ 98 ] jose.alonso@lw.com
-                                                              [ 94 ] +1.212.906.1749                                                                                  [ 99 ] +34.91.791.5113
+                                                              [ @ 89 ] David S. Allinson                                                                              [ @ 94 ] José María Alonso
+                                                              [ 90 ] Partner                                                                                          [ 95 ] Partner
+                                                              [ 91 ] New York                                                                                         [ 96 ] Madrid
+                                                              [ 92 ] david.allinson@lw.com                                                                            [ 97 ] jose.alonso@lw.com
+                                                              [ 93 ] +1.212.906.1749                                                                                  [ 98 ] +34.91.791.5113
 
 
          Marissa Alter - Nelson                                                                                   Carlos Alvarez
-                                                              [ @ 100 ] Marissa Alter - Nelson                                                                        [ @ 105 ] Carlos Alvarez
-                                                              [ 101 ] Partner                                                                                         [ 106 ] Partner
-                                                              [ 102 ] New York                                                                                        [ 107 ] New York
-                                                              [ 103 ] marissa.alter-nelson@lw.com                                                                     [ 108 ] carlos.alvarez@lw.com
-                                                              [ 104 ] +1.212.906.1345                                                                                 [ 109 ] +1.212.906.1269
+                                                              [ @ 99 ] Marissa Alter - Nelson                                                                         [ @ 104 ] Carlos Alvarez
+                                                              [ 100 ] Partner                                                                                         [ 105 ] Partner
+                                                              [ 101 ] New York                                                                                        [ 106 ] New York
+                                                              [ 102 ] marissa.alter-nelson@lw.com                                                                     [ 107 ] carlos.alvarez@lw.com
+                                                              [ 103 ] +1.212.906.1345                                                                                 [ 108 ] +1.212.906.1269
 
          Melissa S. Alwang
-                                                                                                                                                                      [ @ 115 ] Arash Aminian
-                                                              [ @ 110 ] Melissa S. Alwang
-                                                              [ 111 ] Partner                                                                                         Baghai
-                                                                                                                                                                      [ 116 ] Partner
-                                                              [ 112 ] New York
-                                                              [ 113 ] melissa.alwang@lw.com                                                                           [ 117 ] Los Angeles
-                                                              [ 114 ] +1.212.906.1706                                                                                 [ 118 ] arash.aminianbaghai@lw.com
-                                                                                                                                                                      [ 119 ] +1.213.891.7809
+                                                                                                                                                                      [ @ 114 ] Arash Aminian
+                                                              [ @ 109 ] Melissa S. Alwang
+                                                                                                                                                                      Baghai
+                                                              [ 110 ] Partner
+                                                                                                                                                                      [ 115 ] Partner
+                                                              [ 111 ] New York
+                                                              [ 112 ] melissa.alwang@lw.com                                                                           [ 116 ] Los Angeles
+                                                              [ 113 ] +1.212.906.1706                                                                                 [ 117 ] arash.aminianbaghai@lw.com
+                                                                                                                                                                      [ 118 ] +1.213.891.7809
 
 
          Nathaniel Amory                                                                                          Michael V. Anastasio
-                                                              [ @ 120 ] Nathaniel Amory                                                                               [ @ 125 ] Michael V. Anastasio
-                                                              [ 121 ] Partner                                                                                         [ 126 ] Partner
-                                                              [ 122 ] Boston                                                                                          [ 127 ] New York
-                                                              [ 123 ] nate.amory@lw.com                                                                               [ 128 ] michael.anastasio@lw.com
-                                                              [ 124 ] +1.617.948.6024                                                                                 [ 129 ] +1.212.906.1846
+                                                              [ @ 119 ] Nathaniel Amory                                                                               [ @ 124 ] Michael V. Anastasio
+                                                              [ 120 ] Partner                                                                                         [ 125 ] Partner
+                                                              [ 121 ] Boston                                                                                          [ 126 ] New York
+                                                              [ 122 ] nate.amory@lw.com                                                                               [ 127 ] michael.anastasio@lw.com
+                                                              [ 123 ] +1.617.948.6024                                                                                 [ 128 ] +1.212.906.1846
 
 
-          [ $ 130 ] 1 [ $ 131 ] 2  [ $ 132 ] 3  [ $ 133 ] 4 [ $ 134 ] 5 [ $ 135 ]
-                                                                        >
+          [ $ 129 ] 1 [ $ 130 ] 2  [ $ 131 ] 3               $ 133 ] 5  [ $ 134 ]
+                                                [ $ 132 ] 4 [
 
 
 
-          [ @ 137 ] SUBSCRIBE             [ @ 138 ] NEWSROOM           [ @ 139 ] OFFICES       [ @ 140 ] MEDIA CONTACTS             [ @ 141 ] ABOUT US         [ @ 142 ] ALUMNI      [ @ 143 ] CAREERS
+          [ @ 136 ] SUBSCRIBE             [ @ 137 ] NEWSROOM           [ @ 138 ] OFFICES       [ @ 139 ] MEDIA CONTACTS             [ @ 140 ] ABOUT US        [ @ 141 ] ALUMNI       [ @ 142 ] CAREERS
 
 
-       [ 186 ] The Cookies We Use
-       [ 187 ] Latham & Watkins uses cookies which are essential for the operation of our website. We would
+       [ 185 ] The Cookies We Use
+       [ 186 ] Latham & Watkins uses cookies which are essential for the operation of our website. We would
       also like to use analytics cookies to help us understand how visitors use our site so we can continue to
-      improve it, but we will only do so with your consent. We use a cookie to remember your preferences.   go,  [ @ 156 ] Dubai, [ @ 157 ] Düsseldorf, [ @ 158 ] Frankfurt, [ @ 159 ] Hamburg, [ @ 160 ] Hong Kong,
-      You can access and change your preferences at any time by clicking on the gear icon. [ @ 188 ] Cookie
-      Policy                                                                                                2166 ] Manchester GSO,   [ @ 167 ] Milan, [ @ 168 ] Munich, [ @ 169 ] New York, [ @ 170 ] Orange County,
-                                                                                                            n Valley, [ @ 177 ] Singapore, [ @ 178 ] Tel Aviv, [ 179 ] Tokyo, and [ @ 180 ] Washington, D.C.
-       [ $ 191 ] Cookies Settings
-                                                                   [ $ 190 ] ACCEPT ALL COOKIES
-                                                                                                             182 ] Site Map   [ @ 183 ] Privacy [ @ 184 ] Scam Warning   [ @ 185 ] Attorney Advertising & Terms of Use
-                                                                   [ $ 189 ] REJECT ALL COOKIES
+      improve it, but we will only do so with your consent. We use a cookie to remember your preferences.   go,  [ @ 155 ] Dubai, [ @ 156 ] Düsseldorf, [ @ 157 ] Frankfurt, [ @ 158 ] Hamburg, [ @ 159 ] Hong Kong,
+      You can access and change your preferences at any time by clicking on the gear icon. [ @ 187 ] Cookie
+      Policy                                                                                                  165 ] Manchester GSO,  [ @ 166 ] Milan, [ @ 167 ] Munich, [ @ 168 ] New York, [ @ 169 ] Orange County,
+                                                                                                            n Valley, [ @ 176 ] Singapore, [ @ 177 ] Tel Aviv, [ @ 178 ] Tokyo, and [ @ 179 ] Washington, D.C.
+       [ $ 190 ] Cookies Settings
+                                                                   [ $ 189 ] ACCEPT ALL COOKIES
+                                                                                                             181 ] Site Map   [ @ 182 ] Privacy [ @ 183 ] Scam Warning   [ @ 184 ] Attorney Advertising & Terms of Use
+                                                                   [ $ 188 ] REJECT ALL COOKIES
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Image timing: 9.62 seconds
+Page text timing: 14.79 seconds
 Token count: 1835

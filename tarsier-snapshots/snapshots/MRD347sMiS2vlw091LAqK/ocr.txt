@@ -99,38 +99,39 @@
 
                            [ 114 ] UW Medical Center - Northwest is a full - service medical center based in North Seattle, offering emergency and inpatient and outpatient medical,
                            surgical and therapeutic care. The hospital offers personalized, quality care on a beautiful, easy - to - access, 44 - acre campus that includes the
-                           neighboring [ @ 117 ] Northwest Outpatient Medical Center [ 115 ] and [ @ 118 ] Specialty Care Meridian Pavilion [ 116 ].
-                           [ 119 ] UW Medical Center - Northwest is a community - based, non - profit hospital with 281 beds, 2,000 - plus employees and a world - class medical staff
+                           neighboring [ @ 116 ] Northwest Outpatient Medical Center [ 115 ] and [ @ 117 ] Specialty Care Meridian Pavilion.
+                           [ 118 ] UW Medical Center - Northwest is a community - based, non - profit hospital with 281 beds, 2,000 - plus employees and a world - class medical staff
                            that provides innovative, technologically advanced, patient - centered care.
 
 
-                           [ 120 ] LOCATION SPOTLIGHT
-                           [ 121 ] Childbirth Center                                      [ 124 ] World - Class Joint                                     [ 127 ] Vascular Health
-                           [ 122 ] We recognize that every family is                      Care
-                                                                          unique,                                                                         [ 128 ] The multidisciplinary team at the Regional
+                           [ 119 ] LOCATION SPOTLIGHT
+                            [ 120 ] Childbirth Center                                     [ 123 ] World - Class Joint                                     [ 126 ] Vascular Health
+                           [ 121 ] We recognize that every family is unique,              Care                                                            [ 127 ] The multidisciplinary team at the Regional
                            and we offer many different options to best suit                                                                              Vascular Center tackles acute and chronic
-                                 individual pregnancy and birth needs.                     [ 125 ] We provide a wide range of surgical and
+                                 individual pregnancy and birth needs.                    [ 124 ] We provide a wide range of surgical and
                            your                                                                                                                          diseases using the latest in diagnostic and
                                                                                           non - surgical treatment options for a full
                                                                                                                                                          therapeutic technology.
                                                                                           spectrum of bone, joint, spine and muscular
                                                                                           conditions.
 
-                              [ @ 123 ] LEARN MORE                                            [ @ 126 ] LEARN MORE                                           [ @ 129 ] LEARN MORE
+                              [ @ 122 ] LEARN MORE                                            [ @ 125 ] LEARN MORE                                           [ @ 128 ] LEARN MORE
 
 
 
-                                                                                                                                                    [ @ 130 ]     / [ @ 131 ]       / [ @ 132 ]       / [ @ 133 ]        / [ @ 134 ]
+                                                                                                                                                    [ @ 129 ]     / [ @ 130 ]       / [ @ 131 ]       / [ @ 132 ]        / [ @ 133 ]
 
-     [ @ 135 ] Contact Us                                    [ @ 136 ] About UW Medicine                                     [ @ 147 ] UW Medicine Newsroom                          [ @ 148 ] Donate
-     [ @ 137 ] Careers                                       [ @ 138 ] Harborview Medical Center                             [ @ 149 ] UW Medicine Fact Book                         [ @ 150 ] Volunteer
-     [ @ 139 ] UW Medical Center - Montlake                  [ @ 140 ] UW Medical Center     Northwest                       [ @ 151 ] UW.edu                                        [ @ 152 ] Right as Rain Health Blog
-     [ @ 141 ] UW Medicine Primary Care Clinics              [ @ 142 ] Medical Conditions Directory                          [ @ 153 ] Fred Hutchinson Cancer Center                 [ @ 154 ] The Huddle - for employees
-     [ @ 143 ] ] Patient Resources                           [ @ 144 ] UW School of Medicine                                 [ @ 155 ] Airlift Northwest                             [ @ 156 ] Employee Resources
-     [ @ 145 ] UW Medicine Research                          [ @ 146 ] UW Physicians                                         [ @ 157 ] Valley Medical Center                         [ @ 158 ] Give Website Feedback
-                                                                                                                                                                                                [ @ 159 ]     Xedicino
-                           [ 165 ] By continuing you agree to the storing of cookies on your device to enhance site navigation, analyze site usage and assist
-  [ 160 ]                                                                                                                                [ @ 162 ]                [ @ 163 ]                     [ $ 167 ] [ Accept @ 164 ]
-                           in marketing efforts. For more information, see [ [ $ 166 ] Website Policy @ 161 ]
+     [ @ 134 ] Contact Us                                    [ @ 135 ] About UW Medicine                                     [ @ 146 ] UW Medicine Newsroom                          [ @ 147 ] Donate
+     [ @ 136 ] Careers                                       [ @ 137 ] Harborview Medical Center                             [ @ 148 ] UW Medicine Fact Book                         [ @ 149 ] Volunteer
+     [ @ 138 ] UW Medical Center - Montlake                  [ @ 139 ] UW Medical Center - Northwest                         [ @ 150 ] UW.edu                                        [ @ 151 ] Right as Rain Health Blog
+     [ @ 140 ] UW Medicine Primary Care Clinics              [ @ 141 ] Medical Conditions Directory                          [ @ 152 ] Fred Hutchinson Cancer Center                 [ @ 153 ] The Huddle - for employees
+     [ @ 142 ] ] Patient Resources                           [ @ 143 ] ] UW School of Medicine                               [ @ 154 ] Airlift Northwest                             [ @ 155 ] Employee Resources
+     [ @ 144 ] UW Medicine Research                          [ @ 145 ] ] UW Physicians                                       [ @ 156 ] Valley Medical Center                         [ @ 157 ] Give Website Feedback
+                                                                                                                                                                                                [ @ 158 ]     Xedicino
+                           [ 164 ] By continuing you agree to the storing of cookies on your device to enhance site navigation, analyze site usage and assist
+  [ 159 ]                                                                                                                                [ @ 161 ]                [ @ 162 ]                     [ $ 166 ] [ Apt @ 163 ]
+                           in marketing efforts. For more information, see [ [ $ 165 ] Website Policy @ 160 ]
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2022
+Image timing: 4.27 seconds
+Page text timing: 2.25 seconds
+Token count: 2018

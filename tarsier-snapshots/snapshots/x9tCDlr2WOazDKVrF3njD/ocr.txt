@@ -37,7 +37,8 @@
  [ @ 31 ]
 
                                                               [ # 47 ]                                                                    [ $ 48 ], scribe
-                        [ 46 ] Newsletter Subscription          E - mail
+                        [ 46 ] Newsletter Subscription
+                                                                E - mail
 
                             49 ] Call Center: 0096265607171               [ @ 57 ] Homepage         [ @ 62 ] Events Calendar  [ @ 67 ] Copyright        [ @ 72 ]
                             [                                                                                                                               GET IT ON
@@ -58,4 +59,6 @@
                                                                                                                                           [ @ 83 ]    [ @ 84 ] ☐
                                                                                                                                                                            [ 0 ] Leave a message
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 815
+Image timing: 2.75 seconds
+Page text timing: 2.70 seconds
+Token count: 816

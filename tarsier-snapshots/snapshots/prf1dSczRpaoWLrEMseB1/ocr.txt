@@ -14,13 +14,13 @@ a School           [ @ 2 ]              ☐                                     
                                                                                             **[ 24 ] Office Support Staff**
                                                  [ @ 20 ] Instructional and
                                                  Technical Support
-                                                                                            [ @ 28 ] Mountain Vista High School [ 25 ] » [ @ 29 ] About MVHS [ 26 ] » [ @ 30 ] Main
-                                                                                            Office [ 27 ] » [ 31 ] Office Support Staff
+                                                                                            [ @ 25 ] Mountain Vista High School » [ @ 26 ] About MVHS » [ @ 27 ] Main Office » [ 28 ] Office Support
+                                                                                            Staff
                                                  [ @ 21 ] Office Support Staff
                                                  [ @ 22 ] Health
-                                                 [ @ 23 ] SRO                                  [ 32 ] Attendance
+                                                 [ @ 23 ] SRO                                  [ 29 ] Attendance
 
-                                                                                               [ 33 ] Tina Henwood             [ 34 ] Attendance          [ 35 ] thenwood@dcsdk12.org                   [ 36 ] 303.387.1502
+                                                                                               [ 30 ] Tina Henwood             [ 31 ] Attendance          [ 32 ] thenwood@dcsdk12.org                   [ 33 ] 303.387.1502
                                                                                                ( students A - L )              Secretary
                                                                                                 23-24
 
@@ -30,13 +30,13 @@ a School           [ @ 2 ]              ☐                                     
 
 
 
-                                                                                                [ 37 ] Christine Miles         [ 38 ] Attendance          [ 39 ] christine.miles@dcsdk12.org [ 40 ] 303.387.1502
+                                                                                               [ 34 ] Christine Miles          [ 35 ] Attendance          [ 36 ] christine.miles@dcsdk12.org [ 37 ] ] 303.387.1502
                                                                                                ( students M - Z )              Secretary
 
 
-                                                                                               [ 41 ] Finance Office
+                                                                                               [ 38 ] Finance Office
 
-                                                                                                [ 42 ] Kelli Perardi                [ 43 ] Finance             [ 44 ] kperardi1@dcsdk12.org            [ 45 ] ] 303.387.1516
+                                                                                                [ 39 ] Kelli Perardi               [ 40 ] Finance              [ 41 ] kperardi1@dcsdk12.org            [ 42 ] 303.387.1516
                                                                                                                                    Secretary
 
 
@@ -44,19 +44,19 @@ a School           [ @ 2 ]              ☐                                     
 
 
 
-                                                                                                [ 46 ] Registrar
-                                                                                               [ 47 ] Ros Geraci                    [ 48 ] Registrar           [ 49 ] rgeraci@dcsdk12.org              [ 50 ] OFFICE:
+                                                                                               [ 43 ] Registrar
+                                                                                                [ 44 ] Ros Geraci                  [ 45 ] Registrar            [ 46 ] rgeraci@dcsdk12.org              [ 47 ] OFFICE:
                                                                                                                                                                                                        303.387.1524
-                                                                                                                                                                                                       [ 51 ] ] FAX:
+                                                                                                                                                                                                       [ 48 ] FAX:
                                                                                                                                                                                                        303.387.1668
 
 
 
 
 
-                                                                                                [ 52 ] Counseling
+                                                                                                [ 49 ] Counseling
                                                                                                Office
-                                                                                                [ 53 ] Lori Cagle                   [ 54 ] Post Grad           [ 55 ] lori.cagle@dcsdk12.org           [ 56 ] 303.387.1510
+                                                                                                [ 50 ] Lori Cagle                   [ 51 ] Post Grad           [ 52 ] lori.cagle@dcsdk12.org           [ 53 ] 303.387.1510
 
 
 
@@ -65,7 +65,7 @@ a School           [ @ 2 ]              ☐                                     
 
 
 
-                                                                                                [ 57 ] Kristen Foss                 [ 58 ] Counseling          [ 59 ] kfoss@dcsdk12.org                [ 60 ] 303-387-1520
+                                                                                               [ 54 ] Kristen Foss                 [ 55 ] Counseling           [ 56 ] kfoss@dcsdk12.org                [ 57 ] 303-387-1520
                                                                                                                                    Secretary
                                                                                                 22-23 ©
 
@@ -75,13 +75,13 @@ a School           [ @ 2 ]              ☐                                     
 
 
 
-                                                                                               [ 61 ] Law Enforcement and Security
+                                                                                               [ 58 ] Law Enforcement and Security
 
-                                                                                                [ 62 ] ] Jeff Cislo                                          [ @ 65 ] jcislo@dcsheriff.net              [ 66 ] 303.387.1530
-                                                                                                                                          [ 63 ] School                                                 ext. 71530
+                                                                                                [ 59 ] Jeff Cislo                                            [ @ 62 ] jcislo@dcsheriff.net              [ 63 ] 303.387.1530
+                                                                                                                                      ⚫ [ 60 ] School                                                   ext. 71530
                                                                                                                                           Resource
                                                                                                                                           Office
-                                                                                                                                      ⚫ [ 64 ] Douglas
+                                                                                                                                      ⚫ [ 61 ] ] Douglas
                                                                                                                                           County
                                                                                                                                           Deputy
                                                                                                                                           Sheriff
@@ -89,45 +89,44 @@ a School           [ @ 2 ]              ☐                                     
 
 
 
-                                                                                                [ 67 ] Kevin Dooley                [ 68 ] Lead Security      [ 69 ] kevin.dooley@dcsdk12.org [ 71 ] 303.387.1669
+                                                                                                [ 64 ] Kevin Dooley                [ 65 ] Lead Security      [ 66 ] kevin.dooley@dcsdk12.org [ 68 ] 303.387.1669
                                                                                                                                   Officer
-                                                                                                                                                             [ 70 ] MVHS Security                       [ 72 ] ext. 61594/71669
-
-
-
-                                                                                                                    DCSD
-                                                                                                                   SECURITY
-
-                                                                                                [ 73 ] Kent Erickson               [ 74 ] Security           [ 75 ] MVHS Security
+                                                                                                                                                             [ 67 ] MVHS Security                       [ 69 ] ext. 61594/71669
 
 
 
 
 
-
-                                                                                                                                   [ 77 ] Security           [ 78 ] MVHS Security
-                                                                                               [ 76 ] Randy Glanville
+                                                                                               [ 70 ] Kent Erickson                [ 71 ] Security           [ 72 ] MVHS Security
 
 
 
 
 
-                                                                                                                     DCSL
-                                                                                                                     SECURITY
 
-                                                                                                [ 79 ] Scott Krueger               [ 80 ] Security           [ 81 ] MVHS Security
+                                                                                                                                   [ 74 ] Security           [ 75 ] MVHS Security
+                                                                                               [ 73 ] Randy Glanville
+
+
+
+
+
+                                                                                                                      Des
+                                                                                                                     SECURLY
+
+                                                                                               [ [ 76 ] Scott Krueger              [ 77 ] Security           [ 78 ] MVHS Security
                                                                                                 23-24 ©
 
 
 
 
-                                                                                                                         DCSD
+                                                                                                                         DCSB
                                                                                                                         SECURITY
 
 
-                                                                                               [ 82 ] Volunteer Coordination
+                                                                                               [ 79 ] Volunteer Coordination
 
-                                                                                               [ 83 ] Denise Potterton             [ 84 ] Volunteer           [ 85 ] d.potterton@dcsdk12.org           [ 86 ] 303.387.1687
+                                                                                                [ 80 ] Denise Potterton            [ 81 ] Volunteer           [ 82 ] d.potterton@dcsdk12.org           [ 83 ] 303.387.1687
                                                                                                                                    Coordinator
                                                                                                 23-24
 
@@ -139,9 +138,8 @@ a School           [ @ 2 ]              ☐                                     
 
 
 
-                                                                                              [ 87 ] Copy Room
-
-                                                                                                [ 88 ] Kathy Reed                [ 89 ] Copy Room           [ @ 90 ] kathy.reed@dcsdk12.org             [ 91 ] 303.387.1534
+                                                                                              [ 84 ] Copy Room
+                                                                                                [ 85 ] Kathy Reed                [ 86 ] Copy Room           [ @ 87 ] kathy.reed@dcsdk12.org            [ 88 ] 303.387.1534
                                                                                                                                  Technician
 
 
@@ -150,12 +148,12 @@ a School           [ @ 2 ]              ☐                                     
 
 
 
-                                                                                              [ 92 ] Facility Maintenance
+                                                                                               [ 89 ] Facility Maintenance
 
-                                                                                                [ 93 ] Rhonda Durham              [ 94 ] Lead             [ 95 ] rhonda.durham@dcsdk12.org [ 96 ] 303.387.1543
+                                                                                               [ 90 ] Rhonda Durham                [ 91 ] Lead            [ 92 ] rhonda.durham@dcsdk12.org [ 93 ] ] 303.387.1543
                                                                                                                                   Custodian
 
-                                                                                               [ 97 ] Andy Marton                  [ 98 ] Custodian       [ 99 ] andrew.marton@dcsdk12.org
+                                                                                                [ 94 ] Andy Marton                 [ 95 ] Custodian       [ 96 ] andrew.marton@dcsdk12.org
                                                                                                 23-24 ©
 
 
@@ -164,8 +162,9 @@ a School           [ @ 2 ]              ☐                                     
 
 
 
-                                                                                              [ 100 ] Kitchen
-                                                                                                [ 101 ] Yvette Ladislao        [ 102 ] Kitchen           [ @ 103 ] yaladislao@dcsdk12.org [ 104 ] 303.387.1606
+                                                                                               [ 97 ] Kitchen
+
+                                                                                               [ 98 ] Yvette Ladislao         [ 99 ] Kitchen             [ @ 100 ] yaladislao@dcsdk12.org [ 101 ] 303.387.1606
                                                                                                                               Manager                                                                 ext. 71606
 
 
@@ -174,9 +173,9 @@ a School           [ @ 2 ]              ☐                                     
 
 
 
-                                                                                               [ 105 ] Athletic Training
+                                                                                               [ 102 ] Athletic Training
 
-                                                                                                [ 106 ] Joe Ekhoff               [ 107 ] Athletic    [ @ 108 ] joseph.ekhoff@dcsdk12.org [ 109 ] 303.387.1600
+                                                                                                [ 103 ] Joe Ekhoff              [ 104 ] Athletic     [ @ 105 ] joseph.ekhoff@dcsdk12.org [ 106 ] 303.387.1600
                                                                                                                                 Trainer                                                               ext. 71600
 
 
@@ -185,9 +184,8 @@ a School           [ @ 2 ]              ☐                                     
 
 
 
-                                                                                               [ 110 ] Library
-
-                                                                                                [ 111 ] Katie Trevino                        [ 112 ] Library Specialist           [ 113 ] ktrevino@dcsdk12.org
+                                                                                               [ 107 ] Library
+                                                                                               [ 108 ] Katie Trevino                         [ 109 ] Library Specialist           [ 110 ] ktrevino@dcsdk12.org
                                                                                                 23-24 ©
 
 
@@ -196,33 +194,35 @@ a School           [ @ 2 ]              ☐                                     
 
 
 
-                                                 [ 114 ] Mountain Vista High School
+                                                 [ 111 ] Mountain Vista High School
                                                                                                                                                                                                                 Douglas
-                                                 [ 116 ] Principal:   [ 115 ] Rob Ceglie                                                                                                                        County
-                                                                                                                                                                                                                School District
-                                                 [ 117 ] 10585 Mountain Vista Ridge, Highlands Ranch, CO 80126
-                                                                                                                                                                                   [ @ 122 ] **Learn Today, Lead Tomorrow**
-                                                 [ 118 ] Phone 303-387-1500 [ 119 ] | Fax [ 120 ] 303-387-1501
-                                                 [ 121 ] Attendance Phone 303-387-1502
-                                                                             [ 125 ] Website by [ @ 127 ] SchoolMessenger Presence [ 126 ]. © 2024 SchoolMessenger Corporation. All rights reserved.
-                                                 [ 128 ] In compliance with Titles VI & VII of the Civil Rights Act of 1964, Title IX of the Education Amendments of 1972, Section 504 of the Rehabilitation Act of 1973, the Age Discrimination in Employment Act of
+                                                 [ 113 ] Principal:   [ 112 ] Rob Ceglie                                                                                                                        County
+                                                                                                                                                                                                               School District
+                                                 [ 114 ] 10585 Mountain Vista Ridge, Highlands Ranch, CO 80126
+                                                                                                                                                                                    [ @ 119 ] **Learn Today, Lead Tomorrow**
+                                                 [ 115 ] Phone 303-387-1500 [ 116 ] | Fax [ 117 ] 303-387-1501
+                                                 [ 118 ] Attendance Phone 303-387-1502
+                                                                             [ 122 ] Website by [ @ 124 ] SchoolMessenger Presence [ 123 ]. © 2024 SchoolMessenger Corporation. All rights reserved.
+                                                 [ 125 ] In compliance with Titles VI & VII of the Civil Rights Act of 1964, Title IX of the Education Amendments of 1972, Section 504 of the Rehabilitation Act of 1973, the Age Discrimination in Employment Act of
                                                 1967, the Americans with Disabilities Act, the Genetic Information Nondiscrimination Act of 2008, and Colorado law, the Douglas County School District RE - 1 does not unlawfully discriminate against otherwise
                                                 qualified students, employees, applicants for employment, or members of the public on the basis of disability, race, creed, color, sex, sexual orientation, marital status, national origin, religion, ancestry, or need for
                                                 special education services. Discrimination against employees and applicants for employment based on age, genetic information, and conditions related to pregnancy or childbirth is also prohibited in accordance with
                                                 state and / or federal law. Complaint procedures have been established for students, parents, employees, and members of the public. The School District's Compliance Officer and Title IX Coordinator to address
-                                                complaints alleging sexual harassment under Title IX is Aaron Henderson, 620 Wilcox Street, Castle Rock, Colorado, [ @ 132 ] complianceofficer@dcsdk12.org [ 129 ], 303-387-0127.
-                                                 [ 130 ] Outside Agencies
-                                                 [ 131 ] Complaints regarding violations of Title VI, ( race, national origin ), Title IX ( sex, gender ), Section 504 / ADA ( handicap or disability ), may be filed directly with the Office for Civil Rights, U.S. Department of
+                                                complaints alleging sexual harassment under Title IX is Aaron Henderson, 620 Wilcox Street, Castle Rock, Colorado, [ @ 129 ] complianceofficer@dcsdk12.org [ 126 ], 303-387-0127.
+                                                 [ 127 ] Outside Agencies
+                                                 [ 128 ] Complaints regarding violations of Title VI, ( race, national origin ), Title IX ( sex, gender ), Section 504 / ADA ( handicap or disability ), may be filed directly with the Office for Civil Rights, U.S. Department of
                                                 Education, 1244 North Speer Blvd., Suite 310, Denver, CO 80204. Complaints regarding violations of Title VII ( employment ) and the ADEA ( prohibiting age discrimination in employment ) may be filed directly with
                                                 the Federal Office of Equal Employment Opportunity Commission, 303 E. 17th Ave., Suite 510, Denver, CO 80202, or the Colorado Civil Rights Commission, 1560 Broadway, Suite 1050, Denver, CO 80202.
-                                                 [ 133 ] NOTICE OF DESTRUCTION OF SPECIAL EDUCATION RECORDS
-                                                 [ 134 ] Special Education records which have been collected by Douglas County School District related to the identification, evaluation, educational placement, or the provision of
+                                                 [ 130 ] NOTICE OF DESTRUCTION OF SPECIAL EDUCATION RECORDS
+                                                 [ 131 ] Special Education records which have been collected by Douglas County School District related to the identification, evaluation, educational placement, or the provision of
                                                 special education in the district, must be maintained under state and federal laws for the period of five ( 5 ) years after special education services have ended for the student.
                                                 Special education services end when the student is no longer eligible for services, graduates, or completes his / her educational program at age 21, or moves from the district. This
                                                 notification is to inform parents / guardians and former students of Douglas County School District's intent to destroy the special education records of students who exited special
                                                 education services as of June 30, 2016. These records will be destroyed in accordance with state law unless the parent / guardian or eligible ( adult ) student notifies the school
                                                 district otherwise. After five years, the records are no longer useful to the district, but may be useful to the parent / guardian or former student in applying for social security
                                                 benefits, rehabilitation services, college entrance, etc. The parent / guardian or eligible ( adult ) student may request a copy of the records by requesting the records at this link
-                                                 [ @ 135 ] ( Douglas County School District Transcripts and Records Requests ).
+                                                 [ @ 132 ] ( Douglas County School District Transcripts and Records Requests ).
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2113
+Image timing: 0.68 seconds
+Page text timing: 8.37 seconds
+Token count: 2102

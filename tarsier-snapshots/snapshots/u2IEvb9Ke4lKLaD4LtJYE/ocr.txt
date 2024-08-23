@@ -104,8 +104,8 @@
                                                                                                                                                   accommodations@scale.com. Please see the United States Department of
                                                                                                                                                    Labor's [ @ 38 ] Know Your Rights poster [ 39 ] for additional information.
                                                                                                                                                    [ 40 ] We comply with the United States Department of Labor's [ @ 41 ] Pay
-                                                                                                                                                  Transparency provision [ 42 ].
-                                                                                                                                                   [ 44 ] PLEASE NOTE: [ 43 ] We collect, retain and use personal data for our
+                                                                                                                                                   Transparency provision.
+                                                                                                                                                   [ 43 ] PLEASE NOTE: [ 42 ] We collect, retain and use personal data for our
                                                                                                                                                   professional business purposes, including notifying you of job opportunities
                                                                                                                                                   that may be of interest and sharing with our affiliates. We limit the personal
                                                                                                                                                   data we collect to that which we believe is appropriate and necessary to
@@ -120,33 +120,35 @@
 
 
 
-                                                                                                      **] The future of**
-                                                                              **[ 45**
+                                                                                                       **] The future of**
+                                                                              **[ 44**
                                                                                             **your industry**
                                                                                                                                                                     **here.**
-                                                                                     **[ 46 ] starts**
+                                                                                    **[ 45 ] starts**
 
-                                                                                                                   [ @ 47 ] Book a demo →                [ @ 48 ] Build Al →
-
-
+                                                                                                                   [ @ 46 ] Book a demo →                [ @ 47 ] Build Al →
 
 
 
 
-                      [ 49 ] PRODUCTS                                  [ 58 ] SOLUTIONS                        [ 67 ] COMPANY [ 74 ] RESOURCES                                      [ 84 ] GUIDES                                     [ 91 ] CONTACT
-                      [ @ 50 ] Scale Data Engine                       [ @ 59 ] Retail & eCommerce [ @ 68 ] About                      [ @ 75 ] Blog                                [ @ 85 ] Data Labeling                            [ @ 92 ] sales@scale.com
-                      [ @ 51 ] Scale Custom LLMs Engine                [ @ 60 ] Defense                        [ @ 69 ] Pricing       [ @ 76 ] Customers                            [ @ 86 ] ML Model Training                        [ @ 93 ] support@scale.com
-                      [ @ 52 ] Scale Generative Al Platform [ @ 61 ] Logistics                                 [ @ 70 ] Careers        [ @ 77 ] Events                              [ @ 87 ] Diffusion Models                         [ @ 94 ] careers@scale.com
-                      [ @ 53 ] Scale Donovan                           [ @ 62 ] Autonomous Vehicles [ @ 71 ] Security                  [ @ 78 ] Open Datasets                       [ @ 88 ] Guide to Al for eCommerce                [ @ 95 ] press@scale.com
-                                                                       [ @ 63 ] Robotics                      [ @ 72 ] Terms           [ @ 79 ] Interviews                          [ @ 89 ] Computer Vision Applications
-                      [ 54 ] GOVERNMENT                                                                                                                                                                                               [ @ 96 ] [ @ 97 ] [ @ 98 ]
-                                                                       [ @ 64 ] AR / VR                        [ @ 73 ] Privacy       [ @ 80 ] Documentation                        [ @ 90 ] Large Language Models
+
+
+                      [ 48 ] PRODUCTS                                  [ 57 ] SOLUTIONS                       [ 66 ] COMPANY [ 73 ] RESOURCES                                       [ 83 ] GUIDES                                     [ 90 ] CONTACT
+                      [ @ 49 ] Scale Data Engine                       [ @ 58 ] Retail & eCommerce [ @ 67 ] About                     [ @ 74 ] Blog                                 [ @ 84 ] Data Labeling                            [ @ 91 ] sales@scale.com
+                      [ @ 50 ] Scale Custom LLMs Engine                [ @ 59 ] Defense                        [ @ 68 ] Pricing       [ @ 75 ] Customers                            [ @ 85 ] ML Model Training                        [ @ 92 ] support@scale.com
+                      [ @ 51 ] Scale Generative Al Platform [ @ 60 ] Logistics                                 [ @ 69 ] Careers        [ @ 76 ] Events                              [ @ 86 ] Diffusion Models                         [ @ 93 ] careers@scale.com
+                      [ @ 52 ] Scale Donovan                           [ @ 61 ] Autonomous Vehicles [ @ 70 ] Security                  [ @ 77 ] Open Datasets                       [ @ 87 ] Guide to Al for eCommerce                [ @ 94 ] press@scale.com
+                                                                       [ @ 62 ] Robotics                       [ @ 71 ] Terms          [ @ 78 ] Interviews                          [ @ 88 ] Computer Vision Applications
+                      [ 53 ] GOVERNMENT                                                                                                                                                                                               [ @ 95 ]    [ @ 96 ] [ @ 97 ]
+                                                                       [ @ 63 ] AR / VR                        [ @ 72 ] Privacy        [ @ 79 ] Documentation                       [ @ 89 ] Large Language Models
                                                                                                                                                                                                                                      X           €            in
-                      [ @ 55 ] Defense                                 [ @ 65 ] Content & Language                                    [ @ 81 ] Guides
-                      [ @ 56 ] Federal                                 [ @ 66 ] RLHF                                                   [ @ 82 ] Community
-                      [ @ 57 ] Public Sector                                                                                           [ @ 83 ] Al Readiness Report 2023
+                      [ @ 54 ] Defense                                 [ @ 64 ] Content & Language                                     [ @ 80 ] Guides
+                      [ @ 55 ] Federal                                 [ @ 65 ] RLHF                                                   [ @ 81 ] Community
+                      [ @ 56 ] Public Sector                                                                                           [ @ 82 ] Al Readiness Report 2023
 
 
-                      [ 99 ] Copyright © [ 100 ] 2023 [ 101 ] Scale Al, Inc. All rights reserved.                                                                                                    [ @ 103 ] Terms of Use [ 102 ] & [ @ 104 ] Privacy Policy
+                      [ 98 ] Copyright © [ 99 ] 2023 [ 100 ] Scale Al, Inc. All rights reserved.                                                                                                            [ @ 101 ] Terms of Use & [ @ 102 ] Privacy Policy
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2142
+Image timing: 2.34 seconds
+Page text timing: 5.46 seconds
+Token count: 2134

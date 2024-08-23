@@ -42,4 +42,6 @@
                                                                                                                                                [ 120 ]
                                 [ 122 ] Cookies help us improve your website experience. By using our website, you agree to our use of cookies.       [ @ 123 ] Confirm                   [ @ 121 ] X
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Image timing: 2.53 seconds
+Page text timing: 1.00 seconds
 Token count: 562

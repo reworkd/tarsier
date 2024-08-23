@@ -17,44 +17,43 @@ III
          [ $ 7 ] 0 Bookmarks
                                     [ 14 ] He started his project as a hobby and then started to earn money.
          [ @ 8 ]  1 Comment
-                                    [ 15 ] --
-           [ $ 9 ] A Report         [ 16 ] Here is the short form of interview and for more details, check our
-                                    website.
-                                    [ @ 18 ] https://saastrappers.com/interviews/ivan-kutskir-photopea/
-                                     [ 17 ] --
 
-                                    [ 19 ] Question: Can you give us some information about your background?
-                                     [ 20 ] Answer: I was born in Ukraine and moved to Czechia with my
+           [ $ 9 ] A Report         [ 15 ] Here is the short form of interview and for more details, check our
+                                    website.
+                                    [ @ 16 ] https://saastrappers.com/interviews/ivan-kutskir-photopea/
+
+                                    [ 17 ] Question: Can you give us some information about your background?
+                                     [ 18 ] Answer: I was born in Ukraine and moved to Czechia with my
                                     parents when I was 11. When I turned 18, I came to Prague to study at the
                                     university.
 
-                                    [ 21 ] Question: What did you study in the university?
-                                    [ 22 ] Answer: My major was in computer science.
+                                     [ 19 ] Question: What did you study in the university?
+                                    [ 20 ] Answer: My major was in computer science.
 
-                                     [ 23 ] Question: And at that time, I guess you were busy with flash games
+                                    [ 21 ] Question: And at that time, I guess you were busy with flash games
                                     and other stuff, right?
-                                     [ 24 ] Answer: Yes, that's correct. I actually started making flash games
+                                    [ 22 ] Answer: Yes, that's correct. I actually started making flash games
                                     even before going to university. I began playing with flash around when I
                                     was 15.
 
-                                    [ 25 ] Question: Is it something related to your family, or was it your
+                                    [ 23 ] Question: Is it something related to your family, or was it your
                                     interest?
-                                    [ 26 ] Answer: It was more of a personal interest. My two cousins, who are
+                                    [ 24 ] Answer: It was more of a personal interest. My two cousins, who are
                                     three years older than me, had a computer. I got really excited about it,
                                     which led me to want my own computer. I got my first computer around
                                     2013 or 14. When I got it, I immediately started learning things like how to
                                     make websites. It was the beginning of the internet era here in Czechia,
                                     and we had limited internet access initially.
 
-                                    [ 27 ] Question: You were coding and developing flash games, and you
+                                     [ 25 ] Question: You were coding and developing flash games, and you
                                     started to earn money from those games, right?
-                                     [ 28 ] Answer: Yes, that's right. When I was in high school, around 15 or 16
+                                     [ 26 ] Answer: Yes, that's right. When I was in high school, around 15 or 16
                                     years old, I began connecting with people who needed Flash games or
                                     animations. I started making some money before university by doing these
                                     freelance projects.
 
-                                    [ 29 ] Question: What led you to focus on Photopea after flash games?
-                                     [ 30 ] Answer: Well, during my high school years, Flash was owned by
+                                    [ 27 ] Question: What led you to focus on Photopea after flash games?
+                                    [ 28 ] Answer: Well, during my high school years, Flash was owned by
                                     Macromedia, later bought by Adobe. I used Adobe Photoshop back then
                                     and was quite proficient with it. While I continued making some flash
                                     games for money during my first years at the university, my main focus
@@ -65,30 +64,30 @@ III
                                     five years ago with Internet Explorer. So, I transitioned from making Flash
                                     games to developing JavaScript games and monetized them with ads.
 
-                                    [ 31 ] Question: You found the missing feature of Adobe and decided to
+                                    [ 29 ] Question: You found the missing feature of Adobe and decided to
                                     create your own Photoshop service, right?
-                                     [ 32 ] Answer: Yes, exactly. As I was working on these games and other
+                                     [ 30 ] Answer: Yes, exactly. As I was working on these games and other
                                     projects, I came up with the idea to make a web - based viewer for PSD
                                     files. I wasn't aiming to create an editor at first; I just wanted a platform
                                     where one could open a PSD file, and the JavaScript would process and
                                     analyze the file to provide a preview of its content, like showing how many
                                     layers are there.
 
-                                    [ 33 ] Question: Adobe didn't offer any features like this at the time, right?
-                                    [ 34 ] Answer: Correct. Back then, if you wanted to open a PSD file, you
+                                    [ 31 ] Question: Adobe didn't offer any features like this at the time, right?
+                                    [ 32 ] Answer: Correct. Back then, if you wanted to open a PSD file, you
                                     had to buy Photoshop. There was no other way. You could open PSD files
                                     in GIMP, but it would open them without any styles or adjustment layers,
                                     so it wasn't accurate.
 
-                                     [ 35 ] Question: Do you have any advice for bootstrappers?
-                                    [ 36 ] Answer: One crucial piece of advice is to genuinely enjoy what you
+                                    [ 33 ] Question: Do you have any advice for bootstrappers?
+                                     [ 34 ] Answer: One crucial piece of advice is to genuinely enjoy what you
                                     are doing. Your project should be something you're passionate about,
                                     almost like a hobby. If you're excited about your work, it will feel less like a
                                     task and more like something you're eager to spend time on. For me,
                                     working on Photopea was akin to playing an instrument; it was something
                                     I did for enjoyment, not just as a job.
 
-                                     [ 37 ] When starting out, don't be intimidated by the idea of entering a
+                                     [ 35 ] When starting out, don't be intimidated by the idea of entering a
                                     crowded market or tackling complex tasks. Begin by focusing on the core,
                                     essential features of your product, the ones that are most important and
                                     useful. These don't have to be numerous or complicated; even a simplified
@@ -97,46 +96,46 @@ III
                                     Photopea that were either poorly implemented or missing in other
                                     software.
 
-                                    [ 38 ] It's also important to recognize that you don't need to have everything
+                                    [ 36 ] It's also important to recognize that you don't need to have everything
                                     figured out from the start. You can develop your product gradually. Start
                                     with the most important features and build from there. This approach
                                     reduces the risk of feeling overwhelmed and allows you to adapt and
                                     respond to user feedback.
 
-                                    [ 39 ] --
-                                    [ 40 ] For more details, check our website.
-                                     [ @ 42 ] https://saastrappers.com/interviews/ivan-kutskir-photopea/
-                                     [ 41 ] --
 
-                                    [ @ 43 ] - Leo Askan [ @ 44 ] on November 26, 2023
+                                     [ 37 ] For more details, check our website.
+                                    [ @ 38 ] https://saastrappers.com/interviews/ivan-kutskir-photopea/
 
 
-                                      [ $ 45 ] 4   [ $ 46 ] 0   [ $ 47 ]
+                                    [ @ 39 ] - Leo Askan [ @ 40 ] on November 26, 2023
 
 
-
-                                      [ @ 48 ] Say something nice to leventaskan ...
+                                      [ $ 41 ] 4   [ $ 42 ] 0   [ $ 43 ]
 
 
 
-                                      [ @ 49 ] POST COMMENT
+                                      [ @ 44 ] Say something nice to leventaskan ...
 
-                                   [ @ 50 ] [ 51 ] Reassuring to see that it's totally alright if your product evolves from a basic
-                                       MVP over time.
+
+
+                                      [ @ 45 ] POST COMMENT
+
+                                   [ @ 46 ] [ 47 ] Reassuring to see that it's totally alright if your product evolves from a basic
+                                    ^ MVP over time.
                                      1
-                                       [ 52 ] I've definitely moved one step at a time to bring my current project together
+                                       [ 48 ] I've definitely moved one step at a time to bring my current project together
                                        and it has shape - shifted significantly over the last 2 years.
-                                       [ @ 53 ] OddNugget [ 54 ] [ 55 ] 8 hours ago [ 56 ] [ @ 57 ] REPLY
+                                       [ @ 49 ] OddNugget [ @ 50 ] 8 hours ago. [ @ 51 ] REPLY
 
 
-                                                       [ 58 ] Trending on Indie Hackers
-
-
-
+                                                       [ 52 ] Trending on Indie Hackers
 
 
 
-                                       [ @ 59 ]                           [ @ 60 ]
+
+
+
+                                       [ @ 53 ]                            [ @ 54 ]
                                        Showcase Your Black Friday         How I got 21k + views on Reddit
                                       Cyber Monday Deals                  for my product launch
 
@@ -148,7 +147,7 @@ III
 
 
 
-                                       [ @ 61 ]                            [ @ 62 ]
+                                       [ @ 55 ]                            [ @ 56 ]
                                        Building a $ 1M ARR portfolio of   " The key is to invest little, launch
                                        side hustles with a full - time job fast, and kill fast."
 
@@ -157,11 +156,11 @@ III
 
 
 
-                                                    [ 63 ] Stay informed as an indie hacker.
-                                                  [ 64 ] Market insights that help you start and grow your
+                                                    [ 57 ] Stay informed as an indie hacker.
+                                                  [ 58 ] Market insights that help you start and grow your
                                                                    business.
-                                                                     [ # 65 ]
-                                                                                           [ $ 67
+                                                                     [ # 59 ]
+                                                                                           [ $ 61 ]
                                                 Enter email address
 
 
@@ -170,16 +169,17 @@ III
 
 
 
-                     [ @ 68 ] IH INDIE HACKERS [ 69 ] by [ @ 70 ] @csallen [ @ 87 ] COMMUNITY [ @ 94 ] PRODUCTS [ @ 100 ] LEARN
-                                                                 [ @ 88 ] Groups     [ @ 95 ] All Products [ @ 101 ] Explore
-                      [ 71 ] Learn from the founders behind hundreds of
-                     profitable online businesses, and connect with others [ @ 89 ] Meetups [ @ 96 ] Highest Revenue [ @ 102 ] Start Here
-                     who are starting and growing their own companies. [ @ 90 ] Top Today [ @ 97 ] Side Projects [ @ 103 ] Podcasts
-                                                                 [ @ 91 ] Top This Week [ @ 98 ] Self - Funded [ @ 104 ] Contribute →
-                     [ @ 73 ] Indie Hackers, Inc. [ 74 ] [ @ 75 ] FAQ [ 76 ]
-                      [ @ 77 ] Terms [ 78 ] [ @ 79 ] Privacy [ 80 ] [ @ 92 ] Top This Month [ @ 99 ] Add Yours →
-                     [ @ 81 ] Manage Cookies [ 72 ] / [ @ 82 ] Policy [ 83 ] [ 84 ] [ @ 93 ] Join →
-                      [ @ 8 [ @ 86 ]                     f
-                      YO
+                     [ @ 62 ] IH INDIE HACKERS [ 63 ] by [ @ 64 ] @csallen [ @ 75 ] COMMUNITY [ @ 82 ] PRODUCTS [ @ 88 ] LEARN
+                                                                  [ @ 76 ] Groups     [ @ 83 ] All Products [ @ 89 ] Explore
+                      [ 65 ] Learn from the founders behind hundreds of
+                     profitable online businesses, and connect with others [ @ 77 ] Meetups [ @ 84 ] Highest Revenue [ @ 90 ] Start Here
+                     who are starting and growing their own companies. [ @ 78 ] Top Today [ @ 85 ] Side Projects [ @ 91 ] Podcasts
+                                                                  [ @ 79 ] Top This Week [ @ 86 ] Self - Funded [ @ 92 ] Contribute →
+                      [ @ 66 ] Indie Hackers, Inc. [ @ 67 ] FAQ.
+                      [ @ 68 ] Terms [ @ 69 ] Privacy ⚫           [ @ 80 ] Top This Month [ @ 87 ] Add Yours →
+                      [ @ 70 ] Manage Cookies / [ @ 71 ] Policy. [ @ 7 [ @ 7 [ @ 74 ] [ @ 81 ] Join →
+                                                  f yo
 --------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2010
+Image timing: 5.33 seconds
+Page text timing: 4.19 seconds
+Token count: 1959

@@ -103,4 +103,6 @@
 
                                     [ 76 ] En poursuivant votre visite sur ce site, vous acceptez l'utilisation de cookies. Pour plus d'informations [ @ 77 ] Cliquez ici                                 [ @ 75 ]
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Image timing: 0.37 seconds
+Page text timing: 1.41 seconds
 Token count: 1262
