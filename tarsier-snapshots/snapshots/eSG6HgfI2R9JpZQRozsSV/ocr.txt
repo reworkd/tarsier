@@ -1,42 +1,51 @@
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[@4] English [@5] Fran ais [@6] Vers o udio                                                                                                                                                                                                        [@7] Contactos
-                                           **[@9] Parlamento [@10] Deputados [@11] Atividade parlamentar**                                 **[@19] Comiss es**       **[@20] UE e Internacional**
-     [@12] Atividades parlamentares       [@13] Or amento do Estado e contas p blicas          [@14] Di rio da Assembleia da Rep blica
-     **[@15] I S rie**
-     **[@16] II S rie**
-     **[@17] Separatas**
-     **[@18] Debates parlamentares desde 1821**
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 4 ] English [ @ 5 ] Français [ @ 6 ] Versão áudio                                                                                                                          [ @ 7 ] Contactos
+    [ @ 8 ]                     [ @ 9 ] Parlamento         [ @ 10 ] Deputados          [ @ 11 ] Atividade parlamentar            [ @ 19 ] Comissões          [ @ 20 ] UE e Internacional
+
+    [ @ 12 ] Atividades parlamentares [ @ 13 ] Orçamento do Estado e contas públicas [ @ 14 ] Diário da Assembleia da República
+                                                                                                                                                                                    [ @ 21 ] Q
+  • [ @ 15 ] I Série
+  • [ @ 16 ] II Série
+    [ @ 17 ] Separatas
+    [ @ 18 ] Debates parlamentares desde 1821
 
 
-                                                **[22] Di rio da Assembleia da Rep blica I S rie**
 
-                **[@146] Sobre o Di rio**       **[$23] XV Legislatura [2022-03-29 a ] [$24] 2.ª Sessão Legislativa**
-                                                [25] Di rios I S rie - XV Legislatura - 2. Sess o Legislativa.
+                                    [ 22 ] Diário da Assembleia da República | I Série
 
-                                                [26] T tulo                                [28] Data                   [30] Em leitura p blica desde
-                                                [@27] Sum rios de A a Z                    [29] 2023-09-26             [31] 2023-09-26 / 17:00
+                                   [ $ 23 ]                                                        [ $ 24 ] Sessão                                          <
+         [ @ 146 ] Sobre o                Legislatura [ 2022-03-29 a ]                                          Legislativa                                 >
+                      Diário
+                                    [ 25 ] Diários I Série - XV Legislatura - 2.ª Sessão Legislativa.
 
-                                                [32] T tulo                                [34] Data                   [36] Em leitura p blica desde
-                                                [@33] DAR I S rie n. 019                   [35] 2023-11-02             [37] 2023-11-13 / 18:00
+                                    [ 26 ] Título                  [ 28 ] Data          [ 30 ] Em leitura pública desde
+                                    [ @ 27 ] Sumários de A a Z     [ 29 ] 2023-09-26    [ 31 ] 2023-09-26 / 17:00
 
-                                                [38] T tulo                                [40] Data                   [42] Em leitura p blica desde
-                                                [@39] DAR I S rie n. 018                   [41] 2023-10-31             [43] 2023-11-08 / 13:30
 
-                                                [44] T tulo                                [46] Data                   [48] Em leitura p blica desde
-                                                [@45] DAR I S rie n. 017                   [47] 2023-10-26             [49] 2023-11-06 / 16:00
+                                    [ 32 ] Título                   [ 34 ] Data         [ 36 ] Em leitura pública desde
+                                    [ @ 33 ] DAR I Série n. ° 019  [ 35 ] ] 2023-11-02  [ 37 ] 2023-11-13 / 18: 00
 
-                                                [50] T tulo                                [52] Data                   [54] Em leitura p blica desde
-                                                [@51] DAR I S rie n. 016                   [53] 2023-10-21             [55] 2023-11-06 / 16:00
 
-                                                [56] T tulo                                [58] Data                   [60] Em leitura p blica desde
-                                                [@57] DAR I S rie n. 015                   [59] 2023-10-20             [61] 2023-10-30 / 10:30
+                                    [ 38 ] Título                  [ 40 ] Data          [ 42 ] Em leitura pública desde
+                                    [ @ 39 ] DAR I Série n. ° 018  [ 41 ] 2023-10-31    [ 43 ] 2023-11-08 / 13:30
 
-                                                [62] T tulo                                [64] Data                   [66] Em leitura p blica desde
-                                                [@63] DAR I S rie n. 014                   [65] 2023-10-19             [67] 2023-10-25 / 17:00
 
-                                                [68] T tulo                                [70] Data                   [72] Em leitura p blica desde
-                                                [@69] DAR I S rie n. 013                   [71] 2023-10-14             [73] 2023-10-24 / 10:30
-   [199] Este site utiliza cookies para permitir o seu correto funcionamento e melhorar a sua experi ncia de navega o. Ao navegar no site est a concordar com a Pol tica de Cookies.
-     [$201] Rejeitar todos os cookies         [@202] Configurar todos os cookies           [$203] Aceitar todos os cookies
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 845
+                                    [ 44 ] Título                   [ 46 ] Data         [ 48 ] Em leitura pública desde
+                                    [ @ 45 ] DAR I Série n. ° 017  [ 47 ] 2023-10-26    [ 49 ] 2023-11-06 / 16:00
+
+
+                                    [ 50 ] Título                  [ 52 ] Data          [ 54 ] Em leitura pública desde
+                                    [ @ 51 ] DAR I Série n. ° 016  [ 53 ] 2023-10-21    [ 55 ] 2023-11-06 / 16:00
+
+
+                                    [ 56 ] Título                  [ 58 ] Data          [ 60 ] Em leitura pública desde
+                                    [ @ 57 ] DAR I Série n. ° 015  [ 59 ] 2023-10-20    [ 61 ] 2023-10-30 / 10:30
+
+
+                                    [ 62 ] Título                  [ 64 ] Data          [ 66 ] Em leitura pública desde
+                                    [ @ 63 ]                       [ 65 ]    10.10      [ 67 ] 2002 1005 / 17.00
+  [ 199 ] Este site utiliza cookies para permitir o seu correto funcionamento e melhorar a sua experiência de navegação. Ao navegar no site está a concordar com a [ @ 200 ] Política de Cookies.
+    [ $ 201 ] Rejeitar todos os cookies [ 68 ] [ @ 202 ] Configurar todos os mies [ $ 203 ] [ 72 ] tar todos os cookies
+ [ $ 198 ]
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 855

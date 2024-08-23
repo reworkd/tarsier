@@ -1,20 +1,18 @@
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**[91] Principal Software Engineer - Studio Scripting**                                                                                                      [@92] Apply now
-                                     [@1] Careers             [@2] Work at             [@3] Early Career         [@4] Research          [@5] Blog         [@6] View Jobs
-                                                              Roblox
+--------------------------------------------------------------------------------------------------------------------------------
+[ 92 ] Principal Software Engineer - Studio Scripting                                                [ @ 93 ] APPLY NOW
 
 
 
 
 
-                                                         **[7] Principal Software**
-                                                 **Engineer - Studio Scripting**
 
-                                                    [8] San Mateo, CA, United States          [9] Engineering         [10] ID: 3214
+                                             **[ 7 ] Principal Software**
+                                       **Engineer - Studio Scripting**
 
+                                          [ 8 ] SAN MATEO, CA, UNITED STATES [ 9 ] ENGINEERING [ 10 ] ID: 3214
 
-                                                                                   [@11] Apply now
 
+                                                          [ @ 11 ] APPLY NOW
 
 
 
@@ -44,149 +42,162 @@
 
 
 
-                                 [@12] Back to search results
 
-                                **[13] Job Description**
 
-                                [14] Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with
-                                friends in 3D immersive digital experiences all created by our global community of developers and
-                                creators.
-                                [15] At Roblox, we re building the tools and platform that empower our community to bring any experience
-                                that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the
-                                world, and on any device. [16] We re on a mission to connect a billion people with optimism and civility, and
-                                looking for amazing talent to help us get there.
-                                [17] A career at Roblox means you ll be working to shape the future of human interaction, solving unique
-                                technical challenges at scale, and helping to create safer, more civil shared experiences for everyone.
 
+                           [ @ 12 ] BACK TO SEARCH RESULTS
 
+                           **[ 13 ] Job Description**
 
-                                [18] As a [20] Principal Studio Software Engineer [19], you will be a key contributor to the evolution of
-                                Roblox Studio as a world-class IDE. Roblox Studio facilitates instant synchronization between game
-                                developers, enables collaborative script editing, and manages a cloud-based repository that serves a global
-                                audience. You will help Roblox Studio break new grounds for the gaming industry and software engineering
-                                [21] You Will:
-                                     [23] Own and deliver [22] complex technical projects from the planning stage through initiatives.
-                                     [25] Design and execute [24] on the architecture and technical direction of multi-quarter features
-                                     that will be the future of our application
-                                     [27] Work cross functionally [26], across teams and technology platforms
-                                     [29] Mentor team members [28] with team initiatives and advocates with stakeholders to move
-                                     projects forward.
-                                     [31] Design, develop, and implement [30] technological practices, patterns, and strategies
-                                     [33] Participate in building [32] the world's best professional application for massively multiplayer
-                                     game development
-                                     [35] Report [34] into the Engineering Manager of Studio Scripting Team
-                                [36] You Have:
-                                     [38] Experience [37], 8+ years in developing and deploying complex software for massive
-                                     cloud-based systems, with a Bachelor's degree in Computer Science, or a similar technical field
-                                     [40] Hands-on [39] with C++ and Boost libraries, multithreading and networking. Experience with
-                                     QT/QML, MFC or other UI frameworks for desktop applications
-                                     [42] Proficiencies [41] in industry standards, best practices and design patterns
-                                     [44] Focus [43] on writing clear, readable, testable, modular, and monitored code
-                                     [46] Passion [45] for solving complex problems that are not solved easily
-                                     [48] Collaborative [47] experience with team members an able to work cross functionally with others
-                                     [50] Organizing [49] and analytical skills
+                           [ 14 ] Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with
+                          friends in 3D immersive digital experiences- all created by our global community of developers and
+                           creators.
+                           [ 15 ] At Roblox, we're building the tools and platform that empower our community to bring any experience
+                          that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the
+                          world, and on any device. [ 16 ] We're on a mission to connect a billion people with optimism and civility, and
+                          looking for amazing talent to help us get there.
+                           [ 17 ] A career at Roblox means you'll be working to shape the future of human interaction, solving unique
+                          technical challenges at scale, and helping to create safer, more civil shared experiences for everyone.
 
 
 
-                                [51] For roles that are based at our headquarters in San Mateo, CA: The starting base pay for this position is
-                                as shown below. The actual base pay is dependent upon a variety of job-related factors such as
-                                professional background, training, work experience, location, business needs and market demand.
-                                Therefore, in some circumstances, the actual salary could fall outside of this expected range. This pay
-                                range is subject to change and may be modified in the future. All full-time employees are also eligible for
-                                equity compensation and for benefits.
-                                **[52] Annual Salary Range**
-                                [53] 283,780 [54] 331,640 USD
+                           [ 18 ] As a [ 20 ] Principal Studio Software Engineer [ 19 ], you will be a key contributor to the evolution of
+                           Roblox Studio as a world - class IDE. Roblox Studio facilitates instant synchronization between game
+                          developers, enables collaborative script editing, and manages a cloud - based repository that serves a global
+                          audience. You will help Roblox Studio break new grounds for the gaming industry and software engineering
+                           [ 21 ] You Will:
+                            ⚫ [ 23 ] Own and deliver [ 22 ] complex technical projects from the planning stage through initiatives.
+                              [ 25 ] Design and execute [ 24 ] on the architecture and technical direction of multi - quarter features that
+                              will be the future of our application
+                            ⚫ [ 27 ] Work cross functionally [ 26 ], across teams and technology platforms
+                            ⚫ [ 29 ] Mentor team members [ 28 ] with team initiatives and advocates with stakeholders to move
+                              projects forward.
+                            ⚫ [ 31 ] Design, develop, and implement [ 30 ] technological practices, patterns, and strategies
+                              [ 33 ] Participate in building [ 32 ] the world's best professional application for massively multiplayer
+                              game development
+                            • [ 35 ] Report [ 34 ] into the Engineering Manager of Studio Scripting Team
+                           [ 36 ] You Have:
+                            ⚫ [ 38 ] Experience [ 37 ], 8+ years in developing and deploying complex software for massive cloud-
+                              based systems, with a Bachelor's degree in Computer Science, or a similar technical field
+                            ⚫ [ 40 ] Hands - on [ 39 ] with C ++ and Boost libraries, multithreading and networking. Experience with
+                              QT / QML, MFC or other Ul frameworks for desktop applications
+                            ⚫ [ 42 ] Proficiencies [ 41 ] in industry standards, best practices and design patterns
+                            • [ 44 ] Focus [ 43 ] on writing clear, readable, testable, modular, and monitored code
+                            • [ 46 ] Passion [ 45 ] for solving complex problems that are not solved easily
+                            • [ 48 ] Collaborative [ 47 ] experience with team members an able to work cross functionally with others
+                            ⚫ [ 50 ] Organizing [ 49 ] and analytical skills
 
 
 
-                                [55] You ll Love:
-                                     [56] Industry-leading compensation package
-                                     [57] Excellent medical, dental, and vision coverage
-                                     [58] A rewarding 401k program
-                                     [59] Flexible vacation policy
-                                     [60] Roflex - Flexible and supportive work policy
-                                     [61] Roblox Admin badge for your avatar
-                                     [62] At Roblox HQ:
-                                           [63] Free catered lunches five times a week and several fully stocked kitchens with unlimited
-                                           snacks
-                                           [64] Onsite fitness center and fitness program credit
-                                           [65] Annual CalTrain Go Pass
-                                [66] Roblox provides equal employment opportunities to all employees and applicants for employment and
-                                prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national
-                                origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or
-                                expression, or any other characteristic protected by federal, state or local laws. This policy applies to all
-                                terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff,
-                                recall, transfer, leaves of absence, compensation and training.
+                           [ 51 ] For roles that are based at our headquarters in San Mateo, CA: The starting base pay for this position is
+                           as shown below. The actual base pay is dependent upon a variety of job - related factors such as
+                           professional background, training, work experience, location, business needs and market demand.
+                           Therefore, in some circumstances, the actual salary could fall outside of this expected range. This pay
+                           range is subject to change and may be modified in the future. All full - time employees are also eligible for
+                           equity compensation and for benefits.
 
+                           [ 52 ] Annual Salary Range
+                           [ 53 ] $ 283,780 [ 54 ] - [ 55 ] $ 331,640 USD
 
 
-   **[67] Similar Jobs**
 
-        **[68] Senior Applications Software Engineer - Marketplace**
-        [69] San Mateo, CA, United States
-        [70] Engineering
+                           [ 56 ] You'll Love:
+                            ⚫ [ 57 ] Industry - leading compensation package
+                            ⚫ [ 58 ] Excellent medical, dental, and vision coverage
+                            ⚫ [ 59 ] A rewarding 401k program
+                            ⚫ [ 60 ] Flexible vacation policy
+                            • [ 61 ] Roflex - Flexible and supportive work policy
+                            • [ 62 ] Roblox Admin badge for your avatar
+                            ⚫ [ 63 ] At Roblox HQ:
+                                • [ 64 ] Free catered lunches five times a week and several fully stocked kitchens with unlimited
+                                  snacks
+                                。 [ 65 ] Onsite fitness center and fitness program credit
+                                ⚫ [ 66 ] Annual CalTrain Go Pass
+                           [ 67 ] Roblox provides equal employment opportunities to all employees and applicants for employment and
+                           prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national
+                           origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression,
+                           or any other characteristic protected by federal, state or local laws. This policy applies to all terms and
+                           conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall,
+                          transfer, leaves of absence, compensation and training.
 
-        [@71] View Job
 
 
-        **[72] Principal Security Technical Program Manager- Application Security**
-        [73] San Mateo, CA, United States
-        [74] Engineering
 
+          **[ 68 ] Similar Jobs**
 
-        [@75] View Job
+             [ 69 ] Senior Applications Software Engineer - Marketplace
+             [ 70 ] SAN MATEO, CA, UNITED STATES
+             [ 71 ] ENGINEERING
 
 
-        **[76] Principal Software Engineer, Data Platform**
-        [77] San Mateo, CA, United States
-        [78] Engineering
+             [ @ 72 ] VIEW JOB
 
-        [@79] View Job
 
+             [ 73 ] Principal Security Technical Program Manager- Application Security
+             [ 74 ] SAN MATEO, CA, UNITED STATES
+             [ 75 ] ENGINEERING
 
-        **[80] Senior / Principal Frontend Software Engineer - Growth Core**
-        [81] San Mateo, CA, United States
-        [82] Engineering
 
+             [ @ 76 ] VIEW JOB
 
-        [@83] View Job
 
+             [ 77 ] Principal Software Engineer, Data Platform
+             [ 78 ] SAN MATEO, CA, UNITED STATES
+             [ 79 ] ENGINEERING
 
-        **[84] Build Engineering Manager**
-        [85] San Mateo, CA, United States
-        [86] Engineering
 
+             [ @ 80 ] VIEW JOB
 
-        [@87] View Job
 
+             [ 81 ] Senior / Principal Frontend Software Engineer - Growth Core
+             [ 82 ] SAN MATEO, CA, UNITED STATES
+             [ 83 ] ENGINEERING
 
 
+             [ @ 84 ] VIEW JOB
 
 
+             [ 85 ] Build Engineering Manager
+             [ 86 ] SAN MATEO, CA, UNITED STATES
+             [ 87 ] ENGINEERING
 
 
+             [ @ 88 ] VIEW JOB
 
 
-                                                **[89] Join us in shaping the future**
 
+                                 > [
 
-                                                                                 [@90] View All Jobs
 
 
 
 
+                                      **[ 90 ] Join us in shaping the future**
 
 
+                                                        [ @ 91 ] VIEW ALL JOBS
 
 
 
 
-           [94] Company                                                                                       [98] Resources
-           [@95] Corporate [@96] Investor Relations  [@97] Blog                                               [@99] Education [@100] FAQ [@101] Contact [@102] Terms [@103] Privacy
 
 
 
-                                                                                                              [@104] Job Application Privacy
-           [106] & 2023 Roblox Corporation. All Rights Reserved.                                              Notice                          [@105] Accessibility
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1447
+               [ @ 94 ] BLOX
+
+
+               [ 95 ] COMPANY                           [ 99 ] RESOURCES
+               [ @ 96 ] Corporate [ @ 97 ] Investor Relations [ @ 100 ] Education [ @ 101 ] FAQ [ @ 102 ] Contact [ @ 103 ] Terms
+
+               [ @ 98 ] Blog                            [ @ 104 ] Privacy
+
+
+
+
+               [ 107 ] © & TM 2023 Roblox Corporation. All Rights Reserved. [ @ 105 ] Job Application Privacy Notice [ @ 106 ] Accessibility
+
+
+
+                                                                       [ @ 108 ]
+--------------------------------------------------------------------------------------------------------------------------------
+Token count: 1606

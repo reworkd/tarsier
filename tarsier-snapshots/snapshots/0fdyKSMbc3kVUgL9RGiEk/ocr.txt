@@ -1,61 +1,64 @@
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[0] O Melveny Worldwide
-                                   [2] Professionals       [3] Services     [4] Insights     [5] News     [6] Locations                     [7] About      [@8] Careers [@9] Alumni
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ 0 ] O'MELVENY WORLDWIDE
+            [ @ 1 ]
+              **' Melveny**         [ 2 ] PROFESSIONALS [ 3 ] SERVICES [ 4 ] INSIGHTS [ 5 ] NEWS [ 6 ] LOCATIONS       [ 7 ] ABOUT [ @ 8 ] CAREERS [ @ 9 ] ALUMNI  ☐
 
-  [@10] Our Team [11] Ryan Coombs
-                                                                                                                                  [20] Areas of Focus
-
-                                                                                                                                 [@21] Bank Finance
-                                                                                                                                 [@22] Capital Markets
-                                                                                                                                 [@23] Emerging Companies
-                                                                                                                                 [@24] Private Equity
-                                                                                                                                 [@25] Public Company Advisory
-
-
+         [ @ 10 ] Our Team > [ 11 ] Ryan Coombs
+                                                                                                               [ 20 ] AREAS OF FOCUS
+                                                                                                               [ @ 21 ] Bank Finance
+                                                                                                               [ @ 22 ] Capital Markets
+                                                                                                               [ @ 23 ] Emerging Companies
+                                                                                                               [ @ 24 ] Private Equity
+                                                                                                               [ @ 25 ] Public Company Advisory
 
 
 
 
-                                                                                                                        [37] O Melveny uses cookies to improve website functionality
-                                                                                                                        and performance. By continuing to this website, you are
-                                                                                                                        agreeing to our Cookie Policy.
-                                                                                                                             [$39] Only use essential cookies    [$40] Accept Cookies
-
-
-      **[12] Ryan Coombs**                                                                           [@14] San Francisco Office
-      [13] Partner
-
-      [@15] rcoombs omm.com     [16] D: +1-415-984-8943
-
-     [@26] Overview [@27] News [@28] Credentials
-
-  **[29] Ryan Coombs structures and executes a broad range of capital**
-  **markets transactions for issuers and investment banks, including initial**
-  **public offerings and other common and preferred equity offerings,**
-  **investment grade and high-yield debt issuances, convertible notes**
-  **offerings, SPAC transactions, PIPEs, and other complex capital-raising**
-  **transactions. Clients turn to Ryan for counsel on public company**
-  **reporting, corporate governance and other corporate matters.**
-  [30] Ryan s experience spans a variety of sectors, with an emphasis on technology, and includes social media,
-  consumer electronics, and software, as well as entertainment, life sciences, healthcare and renewable energy.
-
-
-  [31] Related Practices
-
-  [@32] Bank Finance
-
-  [@33] Capital Markets
-
-  [@34] Emerging Companies
-
-  [@35] Private Equity
-
-  [@36] Public Company Advisory
 
 
 
 
-                                                                                          [47] O Melveny s latest insights, straight to your inbox [@48] Subscribe
-  [@50] Disclaimer [@51] Privacy Policy [@52] Contact Us                                                        [49] Attorney Advertising 2023 O'Melveny & Myers LLP. All rights reserved
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 483
+
+
+
+
+             [ 12 ] Ryan Coombs                                                      [ @ 14 ] San Francisco Office
+            [ 13 ] Partner
+
+            [ @ 15 ] rcoombs@omm.com [ 16 ] D: [ @ 17 ] + 1-415-984-8943            [ @ 18 ]   [ @ 19 ]
+
+           [ @ 26 ] OVERVIEW [ @ 27 ] NEWS [ @ 28 ] CREDENTIALS
+
+
+         **[ 29 ] Ryan Coombs structures and executes a broad range of capital**
+         markets transactions for issuers and investment banks, including initial
+         public offerings and other common and preferred equity offerings,
+         investment grade and high - yield debt issuances, convertible notes
+         offerings, SPAC transactions, PIPES, and other complex capital - raising
+         **transactions. Clients turn to Ryan for counsel on public company**
+         **reporting, corporate governance and other corporate matters.**
+         [ 30 ] Ryan's experience spans a variety of sectors, with an emphasis on technology, and includes social media, consumer
+         electronics, and software, as well as entertainment, life sciences, healthcare and renewable energy.
+
+
+           [ 31 ] RELATED PRACTICES
+           [ @ 32 ] Bank Finance
+
+           [ @ 33 ] Capital Markets
+
+           [ @ 34 ] Emerging Companies
+
+           [ @ 35 ] Private Equity
+
+           [ @ 36 ] Public Company Advisory.
+
+
+                                                                                                                [ 37 ] O'Melveny uses cookies to improve website functionality
+                                                                                                               and performance. By continuing to this website, you are
+                                                                                                               agreeing to our [ @ 39 ] Cookie Policy [ 38 ].
+           [ @ 42 ]
+                                      [ 48 ] O'Melveny's latest insights, straight to your inbox [ @ 49 ] Subscribe [ @ 43 ] [ @ 44 ] Only [ @ 45 ] tial Co [ @ 46 ] [ @ 47 ] .ccept Cookies
+           O'Melveny
+           [ @ 51 ] DISCLAIMER [ @ 52 ] PRIVACY POLICY [ @ 53 ] CONTACT US                      [ 50 ] ATTORNEY ADVERTISING © 2023 O'MELVENY & MYERS LLP. ALL RIGHTS RESERVED
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 638

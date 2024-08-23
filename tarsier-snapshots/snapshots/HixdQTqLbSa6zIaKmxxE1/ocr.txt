@@ -1,102 +1,98 @@
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[@0] Go to
-  the
-  main                                                                                                                                                   [@5] Investors                               [@6] Contact us                                   [$7] English
-  content
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 0 ] Go
+ to the
+ main                                            Search ...                                                         [ $ 4 ]                                                                                                 ▼
+              **[ 1 ]** CNMV COMISIÓN                                                                                                  [ @ 5 ] Investors                     [ @ 6 ] Contact us               [ $ 7 ] English
+ content                  NACIONAL
+                          DEL MERCADO
+                          DE VALORES
 
-      [@8] About CNMV                                       [@18] Home [@19] Legislation [@20] Spanish legislation    [21] Latest developments
-      [@9] Press room
-      [@10] Registration files
-                                                         [22]
-      [@11] Inside information                           Latest
-      [@12] Prospectuses                                 developments
-      [@13] Investors and financial
-      education                                               Circular 3/2023 [23], de 31 de octubre, del Banco de Espa a, por la que se modifican la Circular 2/2016, de 2 de febrero, a las entidades de cr dito, sobre
-                                                              supervisi n y solvencia, que completa la adaptaci n del ordenamiento jur dico espa ol a la Directiva 2013/36/UE y al Reglamento (UE) n. 575/2013, y la Circular
-      [@14] Legislation                                       1/2022, de 24 de enero, a los establecimientos financieros de cr dito, sobre liquidez, normas prudenciales y obligaciones de informaci n.
-      [@15] Publications and Statistics                       Real Decreto 817/2023 [25], de 8 de noviembre, que establece un entorno controlado de pruebas para el ensayo del cumplimiento de la propuesta de
-                                                              Reglamento del Parlamento Europeo y del Consejo por el que se establecen normas armonizadas en materia de inteligencia artificial.
-      [@16] Regulated sectors
-                                                              Real Decreto 816/2023 [27], de 8 de noviembre, por el que se modifica el Reglamento de desarrollo de la Ley 35/2003, de 4 de noviembre, de
-      [@17] Virtual Office                                    Instituciones de Inversi n Colectiva, aprobado por el Real Decreto 1082/2012, de 13 de julio. [29] (Este Real Decreto entrar                                        en vigor a los 20 d as de su publicaci n en el
-                                                              BOE).
-                                                              Real Decreto 815/2023 [30], de 8 de noviembre, por el que se desarrolla la Ley 6/2023, de 17 de marzo, de los Mercados de Valores y de los Servicios
-                                                              de Inversi n, en relaci n con los registros oficiales de la Comisi n Nacional del Mercado de Valores, la cooperaci n con otras autoridades y la supervisi n de
-                                                              empresas de servicios de inversi n.
-                                                              Real Decreto 814/2023 [32], de 8 de noviembre, sobre instrumentos financieros, admisi n a negociaci n, registro de valores negociables e
-                                                              infraestructuras de mercado. ( [34] Este Real Decreto entrar                en vigor a los veinte d as de su publicaci n en el BOE. El art culo 111 entrar            en vigor el d a siguiente de la publicaci n de
-                                                              este Real Decreto en el BOE)
-                                                              Real Decreto 813/2023 [35], de 8 de noviembre, sobre el r gimen jur dico de las empresas de servicios de inversi n y de las dem s entidades que
-                                                              prestan servicios de inversi n. [37] (Este Real Decreto entrar                en vigor a los 20 d as de su publicaci n en el BOE).
-                                                              Resoluci n de 8 de noviembre de 2023 [38], de la Secretar a General del Tesoro y Financiaci n Internacional, por la que se actualiza
-                                                              el Anexo 1 incluido en la Resoluci n de 4 de julio de 2017, de la Secretar a General del Tesoro y Pol tica Financiera, por la que se define el principio de
-                                                              prudencia financiera aplicable a las operaciones de endeudamiento y derivados de las comunidades aut nomas y entidades locales.
-                                                              Resoluci n de 26 de julio de 2023 [40], del Consejo de la Comisi n Nacional del Mercado de Valores, por la que se modifica el
-                                                              Reglamento de R gimen Interior de la Comisi n. ( Texto consolidado [41],                                         ltima modificaci n 01/08/2023).
-                                                              Resoluci n de 20 de julio de 2023 [44], de la Secretar a General de Financiaci n Auton mica y Local, por la que se da cumplimiento
-                                                              al art culo 41.1.a) del Real Decreto-ley 17/2014, de 26 de diciembre, de medidas de sostenibilidad financiera de las comunidades aut nomas y entidades locales y
-                                                              otras de car cter econ mico.
-                                                              Resoluci n de 11 de julio de 2023 [46], de la Comisi n Nacional del Mercado de Valores, sobre medidas de intervenci n de producto
-                                                              relativas a contratos financieros por diferencias y otros productos apalancados.
-                                                              Real Decreto 571/2023 [48], de 4 de julio, sobre inversiones exteriores.
-                                                              Real Decreto-ley 5/2023 [50], de 28 de junio, por el que se adoptan y prorrogan determinadas medidas de respuesta a las consecuencias econ micas y
-                                                              sociales de la Guerra de Ucrania, de apoyo a la reconstrucci n de la isla de La Palma y a otras situaciones de vulnerabilidad; de transposici n de Directivas de la
-                                                              Uni n Europea en materia de modificaciones estructurales de sociedades mercantiles y conciliaci n de la vida familiar y la vida profesional de los progenitores y
-                                                              los cuidadores; y de ejecuci n y cumplimiento del Derecho de la Uni n Europea.
-                                                              Resoluci n de 12 de mayo de 2023 [52], del Instituto de Contabilidad y Auditor a de Cuentas, por la que se disponen ceses y
-                                                              nombramientos de vocales titulares y suplentes del Comit Consultivo de Contabilidad, y se nombran vocales titulares y suplentes del Comit Consultivo de
-                                                              Sostenibilidad.
-                                                              Ley 6/2023 [54], de 17 de marzo, de los Mercados de Valores y de los Servicios de Inversi n.
-                                                              [56] Esta ley entrar en vigor a los veinte d as de su publicaci n en el Bolet n Oficial del Estado.
-                                                              Resoluci n de 7 de marzo de 2023 [57], de la Comisi n Ejecutiva del Banco de Espa a, de modificaci n de la de 25 de enero de 2008,
-                                                              de aprobaci n de las cl usulas generales aplicables al Servicio de Liquidaci n de Dep sitos Interbancarios.
-                                                              Circular 1/2023, de 24 de febrero [59], del Banco de Espa a, a entidades de cr dito, sucursales en Espa a de entidades de cr dito autorizadas
-                                                              en otro Estado miembro de la Uni n Europea y establecimientos financieros de cr dito, sobre la informaci n que se ha de remitir al Banco de Espa a sobre los
-                                                              bonos garantizados y otros instrumentos de movilizaci n de pr stamos, y por la que se modifican la Circular 4/2017, de 27 de noviembre, a entidades de cr dito,
-                                                              sobre normas de informaci n financiera p blica y reservada, y modelos de estados financieros, y la Circular 4/2019, de 26 de noviembre, a establecimientos
-                                                              financieros de cr dito, sobre normas de informaci n financiera p blica y reservada, y modelos de estados financieros.
-                                                              Orden ETD/37/2023, de 17 de enero [61], por la que se dispone la creaci n de Deuda del Estado durante el a o 2023 y enero de 2024.
-                                                              Acuerdo de 22 de diciembre de 2022 [63], de la Comisi n Nacional del Mercado de Valores, sobre delegaci n de competencias.
-                                                              Correcci n de errores.
-                                                              Circular 4/2022 [66], de 22 de diciembre, de la Comisi n Nacional del Mercado de Valores, sobre normas contables, cuentas anuales y estados financieros
-                                                              intermedios de las infraestructuras del mercado espa ol de valores.
-                                                              Ley 38/2022 [68], de 27 de diciembre, para el establecimiento de grav menes temporales energ tico y de entidades de cr dito y establecimientos financieros
-                                                              de cr dito y por la que se crea el impuesto temporal de solidaridad de las grandes fortunas, y se modifican determinadas normas tributarias.
-                                                              Real Decreto-ley 20/2022 [70], de 27 de diciembre, de medidas de respuesta a las consecuencias econ micas y sociales de la Guerra de Ucrania y de
-                                                              apoyo a la reconstrucci n de la isla de La Palma y a otras situaciones de vulnerabilidad.
-                                                              Orden PCM/1237/2022 [72], de 15 de diciembre, por la que se publica el Acuerdo del Consejo de Ministros de 13 de diciembre de 2022, por el que se
-                                                              prorrogan las medidas contenidas en el art culo 10 del Real Decreto-ley 38/2020, de 29 de diciembre, por el que se adoptan medidas de adaptaci n a la situaci n
-                                                              de Estado Tercero del Reino Unido de Gran Breta a e Irlanda del Norte tras la finalizaci n del periodo transitorio previsto en el Acuerdo sobre la retirada del
-                                                              Reino Unido de Gran Breta a e Irlanda del Norte de la Uni n Europea y de la Comunidad Europea de la Energ a At mica, de 31 de enero de 2020.
-                                                              Resoluci n de 17 de noviembre de 2022 [74], de la Comisi n Nacional del Mercado de Valores, sobre delegaci n de competencias del
-                                                              Presidente en materia de contrataci n, comisiones de servicio, disposici n de gastos, ordenaci n de pagos y personal.
-                                                              Resoluci n de 23 de noviembre de 2022 [76], de la Secretar a de Estado de Econom a y Apoyo a la Empresa, por la que se publica el
-                                                              Acuerdo del Consejo de Ministros de 22 de noviembre de 2022, por el que se aprueba el C digo de Buenas Pr cticas de medidas urgentes para deudores
-                                                              hipotecarios en riesgo de vulnerabilidad.
-                                                              Real Decreto-ley 19/2022 [78], de 22 de noviembre, por el que se establece un C digo de Buenas Pr cticas para aliviar la subida de los tipos de inter s en pr
-                                                              stamos hipotecarios sobre vivienda habitual, se modifica el Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protecci n de deudores hipotecarios
-                                                              sin recursos, y se adoptan otras medidas estructurales para la mejora del mercado de pr stamos hipotecarios.
-                                                              Real Decreto-ley 18/2022 [80], de 18 de octubre, por el que se aprueban medidas de refuerzo de la protecci n de los consumidores de energ a y de contribuci n a
-                                                              la reducci n del consumo de gas natural en aplicaci n del Plan + seguridad para tu energ a (+SE)", as como medidas en materia de retribuciones del personal al
-                                                              servicio del sector p blico y de protecci n de las personas trabajadoras agrarias eventuales afectadas por la sequ a.
-                                                              Ley 18/2022, de 28 de septiembre [82], de creaci n y crecimiento de empresas.
-                                                              Resoluci n de 21 de julio de 2022 [84], del Consejo de la Comisi n Nacional del Mercado de Valores, por la que se modifica el Reglamento de R gimen Interior
-                                                              de la Comisi n. ( Texto consolidado [85].                         ltima modificaci n 05/08/2022)
-                                                              Circular 3/2022 [88], de 21 de julio, de la Comisi n Nacional del Mercado de Valores, sobre el folleto de las instituciones de inversi n colectiva y el registro del
-                                                              documento con los datos fundamentales para el inversor. (La Circular entrar en vigor el 01 de enero de 2023).
-                                                              Ley Org nica 9/2022 [90], de 28 de julio, por la que se establecen normas que faciliten el uso de informaci n financiera y de otro tipo para la prevenci n, detecci
-                                                                n, investigaci n o enjuiciamiento de infracciones penales, de modificaci n de la Ley Org nica 8/1980, de 22 de septiembre, de Financiaci n de las Comunidades
-                                                              Aut nomas y otras disposiciones conexas y de modificaci n de la Ley Org nica 10/1995, de 23 de noviembre, del C digo Penal.
-                                                              Ley Org nica 6/2022,
-                                                              [92] de 12 de julio, complementaria de la Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminaci n, de modificaci n de la Ley Org
-                                                              nica 10/1995, de 23 de noviembre, del C digo Penal.
-                                                              Real Decreto-ley 11/2022
-                                                              [94], de 25 de junio, por el que se adoptan y se prorrogan determinadas medidas para responder a las consecuencias econ micas y sociales de la guerra en
-                                                              Ucrania, para hacer frente a situaciones de vulnerabilidad social y econ mica, y para la recuperaci n econ mica y social de la isla de La Palma.
+     [ @ 8 ] About CNMV □                        [ @ 19 ] Home [ 18 ] > [ @ 21 ] Legislation [ 20 ] > [ @ 23 ] Spanish legislation [ 22 ] > [ 24 ] Latest developments
+     [ @ 9 ] Press room
+     [ @ 10 ] Registration files
+     [ @ 11 ] Inside information               [ 25 ]
+                                              Latest developments
+     [ @ 12 ] Prospectuses
+     [ @ 13 ] Investors and financial
+    education
+                                                  [ @ 27 ] Circular 3/2023 [ 26 ], de 31 de octubre, del Banco de España, por la que se modifican la Circular 2/2016, de 2 de febrero, a las entidades de crédito, sobre supervisión y
+                                                  solvencia, que completa la adaptación del ordenamiento jurídico español a la Directiva 2013 / 36 / UE y al Reglamento ( UE ) n. ° 575/2013, y la Circular 1/2022, de 24 de enero, a los
+     [ @ 14 ] Legislation                         establecimientos financieros de crédito, sobre liquidez, normas prudenciales y obligaciones de información.
+     [ @ 15 ] Publications and                     [ @ 29 ] Real Decreto 817/2023 [ 28 ], de 8 de noviembre, que establece un entorno controlado de pruebas para el ensayo del cumplimiento de la propuesta de Reglamento del Parlamento
+    Statistics ☐                                  Europeo y del Consejo por el que se establecen normas armonizadas en materia de inteligencia artificial.
+     [ @ 16 ] Regulated sectors                    [ @ 31 ] Real Decreto 816/2023 [ 30 ] ], de 8 de noviembre, por el que se modifica el Reglamento de desarrollo de la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión
+                                                  Colectiva, aprobado por el Real Decreto 1082/2012, de 13 de julio. [ 32 ] ( Este Real Decreto entrará en vigor a los 20 días de su publicación en el BOE ).
+     [ @ 17 ] Virtual Office
+                                                   [ @ 34 ] Real Decreto 815/2023 [ 33 ], de 8 de noviembre, por el que se desarrolla la Ley 6/2023, de 17 de marzo, de los Mercados de Valores y de los Servicios de Inversión, en relación
+                                                  con los registros oficiales de la Comisión Nacional del Mercado de Valores, la cooperación con otras autoridades y la supervisión de empresas de servicios de inversión.
+                                                   [ @ 36 ] Real Decreto 814/2023 [ 35 ] ], de 8 de noviembre, sobre instrumentos financieros, admisión a negociación, registro de valores negociables e infraestructuras de mercado. ( [ 37 ] Este
+                                                  Real Decreto entrará en vigor a los veinte días de su publicación en el BOE. El artículo 111 entrará en vigor el día siguiente de la publicación de este Real Decreto en el BOE )
+                                                   [ @ 39 ] Real Decreto 813/2023 [ 38 ], de 8 de noviembre, sobre el régimen jurídico de las empresas de servicios de inversión y de las demás entidades que prestan servicios de
+                                                  inversión. [ 40 ] ( Este Real Decreto entrará en vigor a los 20 días de su publicación en el BOE ).
+                                                   [ @ 42 ] Resolución de 8 de noviembre de 2023 [ 41 ], de la Secretaría General del Tesoro y Financiación Internacional, por la que se actualiza el Anexo 1 incluido en la Resolución de 4
+                                                  de julio de 2017, de la Secretaría General del Tesoro y Política Financiera, por la que se define el principio de prudencia financiera aplicable a las operaciones de endeudamiento y
+                                                  derivados de las comunidades autónomas y entidades locales.
+                                                   [ @ 45 ] Resolución de 26 de julio de 2023 [ 43 ], del Consejo de la Comisión Nacional del Mercado de Valores, por la que se modifica el Reglamento de Régimen Interior de la
+                                                  Comisión. ( [ @ 46 ] Texto consolidado [ 44 ], última modificación 01/08/2023 ).
+                                                   [ @ 48 ] Resolución de 20 de julio de 2023 [ 47 ], de la Secretaría General de Financiación Autonómica y Local, por la que se da cumplimiento al artículo 41.1.a ) del Real Decreto - ley
+                                                  17/2014, de 26 de diciembre, de medidas de sostenibilidad financiera de las comunidades autónomas y entidades locales y otras de carácter económico.
+                                                   [ @ 50 ] Resolución de 11 de julio de 2023 [ 49 ], de la Comisión Nacional del Mercado de Valores, sobre medidas de intervención de producto relativas a contratos financieros por
+                                                  diferencias   otros productos apalancados.
+                                                   [ @ 52 ] Real Decreto 571/2023 [ 51 ], de 4 de julio, sobre inversiones exteriores.
+                                                   [ @ 54 ] Real Decreto - ley 5/2023 [ 53 ], de 28 de junio, por el que se adoptan y prorrogan determinadas medidas de respuesta a las consecuencias económicas y sociales de la Guerra de
+                                                  Ucrania, de apoyo a la reconstrucción de la isla de La Palma y a otras situaciones de vulnerabilidad; de transposición de Directivas de la Unión Europea en materia de modificaciones
+                                                  estructurales de sociedades mercantiles y conciliación de la vida familiar y la vida profesional de los progenitores y los cuidadores; y de ejecución y cumplimiento del Derecho de la
+                                                  Unión Europea.
+                                                  [ @ 56 ] Resolución de 12 de mayo de 2023 [ 55 ], del Instituto de Contabilidad y Auditoría de Cuentas, por la que se disponen ceses y nombramientos de vocales titulares y suplentes del
+                                                  Comité Consultivo de Contabilidad, y se nombran vocales titulares y suplentes del Comité Consultivo de Sostenibilidad.
+                                                   [ @ 58 ] Ley 6/2023 [ 57 ] ], de 17 de marzo, de los Mercados de Valores y de los Servicios de Inversión.
+                                                   [ 59 ] Esta ley entrará en vigor a los veinte días de su publicación en el Boletín Oficial del Estado.
+                                                   [ @ 61 ] Resolución de 7 de marzo de 2023 [ 60 ], de la Comisión Ejecutiva del Banco de España, de modificación de la de 25 de enero de 2008, de aprobación de las cláusulas generales
+                                                  aplicables al Servicio de Liquidación de Depósitos Interbancarios.
+                                                   [ @ 63 ] Circular 1/2023, de 24 de febrero [ 62 ] ], del Banco de España, a entidades de crédito, sucursales en España de entidades de crédito autorizadas en otro Estado miembro de la
+                                                  Unión Europea y establecimientos financieros de crédito, sobre la información que se ha de remitir al Banco de España sobre los bonos garantizados y otros instrumentos de
+                                                  movilización de préstamos, y por la que se modifican la Circular 4/2017, de 27 de noviembre, a entidades de crédito, sobre normas de información financiera pública y reservada, y
+                                                  modelos de estados financieros, y la Circular 4/2019, de 26 de noviembre, a establecimientos financieros de crédito, sobre normas de información financiera pública y reservada, y
+                                                  modelos de estados financieros.
+                                                   [ @ 65 ] Orden ETD / 37 / 2023, de 17 de enero [ 64 ], por la que se dispone la creación de Deuda del Estado durante el año 2023 y enero de 2024.
+                                                   [ @ 67 ] Acuerdo de 22 de diciembre de 2022 [ 66 ], de la Comisión Nacional del Mercado de Valores, sobre delegación de competencias.   [ @ 68 ] Corrección de errores.
+                                                   [ @ 70 ] Circular 4/2022 [ 69 ], de 22 de diciembre, de la Comisión Nacional del Mercado de Valores, sobre normas contables, cuentas anuales y estados financieros intermedios de las
+                                                  infraestructuras del mercado español de valores.
+                                                   [ @ 72 ] Ley 38/2022 [ 71 ], de 27 de diciembre, para el establecimiento de gravámenes temporales energético y de entidades de crédito y establecimientos financieros de crédito y por la
+                                                  que se crea el impuesto temporal de solidaridad de las grandes fortunas, y se modifican determinadas normas tributarias.
+                                                   [ @ 74 ] Real Decreto - ley 20/2022 [ 73 ] ], de 27 de diciembre, de medidas de respuesta a las consecuencias económicas y sociales de la Guerra de Ucrania y de apoyo a la reconstrucción
+                                                  de la isla de La Palma y a otras situaciones de vulnerabilidad.
+                                                   [ @ 76 ] Orden PCM / 1237 / 2022 [ 75 ], de 15 de diciembre, por la que se publica el Acuerdo del Consejo de Ministros de 13 de diciembre de 2022, por el que se prorrogan las medidas
+                                                  contenidas en el artículo 10 del Real Decreto - ley 38/2020, de 29 de diciembre, por el que se adoptan medidas de adaptación a la situación de Estado Tercero del Reino Unido de Gran
+                                                  Bretaña e Irlanda del Norte tras la finalización del periodo transitorio previsto en el Acuerdo sobre la retirada del Reino Unido de Gran Bretaña e Irlanda del Norte de la Unión Europea
+                                                  y de la Comunidad Europea de la Energía Atómica, de 31 de enero de 2020.
+                                                   [ @ 78 ] Resolución de 17 de noviembre de 2022 [ 77 ] ], de la Comisión Nacional del Mercado de Valores, sobre delegación de competencias del Presidente en materia de contratación,
+                                                  comisiones de servicio, disposición de gastos, ordenación de pagos y personal.
+                                                   [ @ 80 ] Resolución de 23 de noviembre de 2022 [ 79 ], de la Secretaría de Estado de Economía y Apoyo a la Empresa, por la que se publica el Acuerdo del Consejo de Ministros de 22
+                                                  de noviembre de 2022, por el que se aprueba el Código de Buenas Prácticas de medidas urgentes para deudores hipotecarios en riesgo de vulnerabilidad.
+                                                   [ @ 82 ] Real Decreto - ley 19/2022 [ 81 ], de 22 de noviembre, por el que se establece un Código de Buenas Prácticas para aliviar la subida de los tipos de interés en préstamos
+                                                  hipotecarios sobre vivienda habitual, se modifica el Real Decreto - ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos, y se adoptan otras
+                                                  medidas estructurales para la mejora del mercado de préstamos hipotecarios.
+                                                   [ @ 84 ] Real Decreto - ley 18/2022 [ 83 ] ], de 18 de octubre, por el que se aprueban medidas de refuerzo de la protección de los consumidores de energía y de contribución a la reducción
+                                                  del consumo de gas natural en aplicación del" Plan + seguridad para tu energía ( + SE )", así como medidas en materia de retribuciones del personal al servicio del sector público y de
+                                                  protección de las personas trabajadoras agrarias eventuales afectadas por la sequía.
+                                                   [ @ 86 ] Ley 18/2022, de 28 de septiembre [ 85 ] ], de creación y crecimiento de empresas.
+                                                   [ @ 89 ] Resolución de 21 de julio de 2022 [ [ 87 ], del Consejo de la Comisión Nacional del Mercado de Valores, por la que se modifica el Reglamento de Régimen Interior de la
+                                                  Comisión.   ( @ 90 ] Texto consolidado [ 88 ] Última modificación 05/08/2022 )
+                                                   [ @ 92 ] Circular 3/2022 [ 91 ], de 21 de julio, de la Comisión Nacional del Mercado de Valores, sobre el folleto de las instituciones de inversión colectiva y el registro del documento con
+                                                  los datos fundamentales para el inversor. ( La Circular entrará en vigor el 01 de enero de 2023 ).
+                                                   [ @ 94 ] Ley Orgánica 9/2022 [ 93 ], de 28 de julio, por la que se establecen normas que faciliten el uso de información financiera y de otro tipo para la prevención, detección,
+                                                  investigación o enjuiciamiento de infracciones penales, de modificación de la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas y otras
+                                                  disposiciones conexas y de modificación de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
+                                                   [ @ 96 ] Ley Orgánica 6/2022, [ 95 ] ] de 12 de julio, complementaria de la Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación, de modificación de la
+                                                  Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
+                                                  [ @ 98 ] Real Decreto - ley 11/2022 [ 97 ], de 25 de junio, por el que se adoptan y se prorrogan determinadas medidas para responder a las consecuencias económicas y sociales de la
+                                                  guerra en Ucrania, para hacer frente a situaciones de vulnerabilidad social y económica, y para la recuperación económica y social de la isla de La Palma.
 
 
-                                                                                                                                                                                                    [@101] Twitter CNMV_MEDIOS     [@104] LinkedIn [@105] YouTube [@106] RSS
-                   [@96] Site                 [@97] Links            [@98] Legal note              [@99] Data protection               [@100] Accesibility                                          [@102] Twitter CNMV_IP
-                   map                                                                                                                                                                              [@103] Twitter CNMV_IFI
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 3287
+                                                                                                                                                           [ @ 104 ] ] @ CNMV_MEDIOS         ☐             ☐
+                                                                                                                                                                                                   L
+               [ @ 99 ] Site map   [ @ 100 ] Links    [ @ 101 ] Legal note    [ @ 102 ] Data protection   [ @ 103 ] Accesibility                           [ @ 105 ] @CNMV_IP
+                                                                                                                                                           [ @ 106 ] @CNMV_IFI            [ @ 107 ] [ @ 108 ] [ @ 109 ] ]
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 3469

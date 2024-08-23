@@ -1,191 +1,60 @@
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[3] MyHealth
-                                                                                                                                                                                               [@4] Contact Us
-          [@5] Doctors & Locations              [@6] Services & Resources              [@7] Patients & Visitors          [@8] Giving & Support         [@9] About          [@10] For Health Professionals
-            [$11] Choose one:                                                                    [$15] Name or keyword:
-                   [$12] Locations       [13] OR              [$14] Doctors
-
-            [$17] Filter by:
-                                                                                       [$20] Zip Code
-            **[$18] Location Type**                                                                             **[$22] 5**                                                        [$23] Search
-                                                                                                                                                                                 [$24] Clear Filters
-
-      [26] Showing [25] 1-25 of 261 [27] LOCATION results
-      [28] Check with your insurance to see which providers are included in your network. Learn more.
-
-                                            **[@32] Carl Peterson Clinical Education Center**
-                                                [@33] 300 N. Graham Street
-                                                Legacy Emanuel Medical Center                  More
-                                                                                          **[@35] +**
-                                                Portland, OR, 97227
-                                                [@34] 503-413-2200
-
-
-
-                                            **[@37] Green Gables Guest House at Legacy Good**
-                                            **Samaritan Medical Center**
-                                                [@38] 2183 N.W. Northrup St.
-                                                Portland, OR, 97210                            More
-                                                                                          **[@42] +**
-                                                [@39] Campus Map
-                                                [@40] Mapa del Campus
-                                                [@41] 503-413-7848
-
-                                            **[@44] Labcorp at Legacy Bridgeport**
-                                                [@45] 18010 SW McEwan Road
-                                                Lake Oswego, OR, 97035                         [@49] Schedule
-                                                [@46] 503-413-1234
-                                                                                               More
-                                                [47] 503-413-5048                         **[@50] +**
-                                                [48] Monday-Friday, 8 a.m.- 5
-                                                p.m.
-
-
-
-                                                                          **[256] Our**                             **[260] For Patients**                    **[266] Connect With**
-                                                                          **Organization**                          [@261] Clinical Trials                    **Us**
-          [250] Our mission is good health for our                        [@257] Careers                            [@262] Financial Assistance               [@267] Join Our Newsletter
-          people, our patients, our communities and                       [@258] Volunteering                       [@263] Interpreter Services               [@268] Contact Us
-          our world. Above all, we will do the right                                                                [@264] Medical Records
-          thing.                                                          [@259] Doing Business With Us
-                                                                                                                    [@265] Pay a Bill
-                                                                          [269] 2023 Legacy Health Terms of Use Privacy Policy Notice of Nondiscrimination No Surprise Billing
-                                                                          Capital Reporting Do Not Sell or Share My Personal Information
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                [@183] 1010 SW Coast Hwy, Suite 104
-                                                Newport, OR, 97365
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 617
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 0 ] ]                                                                                       [ # 1 ] ] Search            [ $ 2 ]    [ 3 ] MyHealth
+                        LEGACY
+                        HEALTH                                                                                                                       [ @ 4 ] Contact Us
+               [ @ 5 ] Doctors & Locations [ @ 6 ] Services & Resources [ @ 7 ] Patients & Visitors [ @ 8 ] Giving & Support [ @ 9 ] About [ @ 10 ] For Health Professionals
+                   [ $ 11 ] Choose one:                                       [ $ 15 ] Name or keyword:
+                                                           ☐
+                        [ $ 12 ] Locations     [ 13 ] OR
+                                                            [ $ 14 ] Doctors  [ # 16 ]
+
+                   [ $ 17 ] Filter by:
+                  [ $ 18                       [ $ 19                       [ $ 20 ] Zip      [ $ 22 ]
+                      ] ation Type                 ] vices                  Code                                                               [ $ 23 ] Search
+                                  日                                         [ # 21 ]                     日
+                                                                                    ☐                                                         [ $ 24 ] Clear Filters
+
+               [ 26 ] Showing [ 25 ] 1-25 of 261 [ 27 ] location results
+               [ 28 ] Check with your insurance to see which providers are included in your network. [ @ 30 ]?
+               [ @ 29 ] Learn more.
+
+                  [ @ 31 ] ]                [ @ 32 ] Carl Peterson Clinical Education Center
+                                               [ @ 33 ] 300 N. Graham Street  [ @ 35 ] +
+                                               Legacy Emanuel Medical Center
+                                                                              More
+                                               Portland, OR, 97227
+                                               [ @ 34 ] 503-413-2200
+
+
+
+
+                  [ @ 36 ]                  [ @ 37 ] Green Gables Guest House at Legacy
+                                            Good Samaritan Medical Center
+                                               [ @ 38 ] 2183 N.W. Northrup St. [ @ 42 ] +
+                                               Portland, OR, 97210
+                                                                              More
+                                               [ @ 39 ] Campus Map
+                   Green Gables                [ @ 40 ] Mapa del Campus
+                   Guest House
+                                               [ @ 41 ] 503-413-7848
+
+
+
+
+
+             [ @ 249 ]                                                                                                                                  With Us
+                                                                [ 256 ] Our Organization [ 260 ] For Patients                       [ 266 ] Connect
+                     LEGACY                                     [ @ 257 ] Careers                 [ @ 261 ] Clinical Trials         [ @ 267 ] Join Our Newsletter
+                    HEALTH                                                                                                                        Us
+                                                                [ @ 258 ] Volunteering            [ @ 262 ] Financial Assistance    [ @ 268 ] Contact
+             [ 250 ] Our mission is good health for our         [ @ 259 ] Doing Business With Us  [ @ 263 ] Interpreter Services
+            people, our patients, our communities and our                                         [ @ 264 ] Medical Records
+            world. Above all, we will do the right thing.
+                                                                                                  [ @ 265 ] Pay a Bill
+             [ @ 251 ] **f [ @ 252 ]**
+                                                                [ 269 ] © 2023 Legacy Health [ 270 ] [ @ 271 ] Terms of Use [ 272 ] | [ @ 273 ] Privacy Policy [ 274 ] |
+                                                                [ @ 275 ] Notice of Nondiscrimination [ 276 ] [ @ 277 ] No Surprise Billing [ 278 ] [ @ 279 ] Capital Reporting [ 280 ] |
+             [ @ 253 ] O [ @ 254 ] in                           [ @ 281 ] Do Not Sell or Share My Personal Information
+             [ @ 255 ] ►
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 747

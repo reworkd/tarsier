@@ -1,46 +1,56 @@
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**[@1] Select a School** **[@2] Language**                                                                                      **[@7] Login**
-                                                                                          **[@9] Flagstone**
-                                                                                       **Elementary**
-                                                                                    104 Lovington St, Castle Rock, CO 80104
-                            **[@10] Home [@11] About [@12] Registration [@13] Classrooms [@14] Parents [@15] BASE [@16] State Testing** **[@17] Thursday Blast** **[@18] Open Enrollment**
-                           [@20] Administrative & Office        [@23] Flagstone Elementary [@24] About [25] Administrative & Office Staff
-                           Staff
-                                                                  Administrative & Office Staff
-                           [@21] Classified Staff                                                                                                                              **[26]**
-                           [@22] Student Support Staff
+-----------------------------------------------------------------------------------------------------------------------------
+a School  [ @ 2 ]    ㅁ                                                 [ # 5 ] Search ...   ㅁ
+                        [ @ 1 ] Select           ㅁ                                            [ @ 7 ] Login
+                                         Language       [ @ 4 ] Flyers
+                                                                        [ @ 9 ]
+                                 [ @ 8 ]
+                                                             **FLAGSTONE**
+                        **Flagstone** ELEMENTARY
+                                                            **ELEMENTARY**
+                                                          104 Lovington St, Castle Rock, CO 80104
+
+                         [ @ 10 ] Home [ @ 11 ] About [ @ 12 ] Registration [ @ 13 ] Classrooms [ @ 14 ] Parents [ @ 15 ] BASE [ @ 16 ] State Testing
+
+                         [ @ 17 ] Thursday Blast [ @ 18 ] Open Enrollment
+
+                         [ @ 20 ] Administrative & [ @ 23 ] FLAGSTONE ELEMENTARY [ 24 ] / [ @ 25 ] ABOUT [ 26 ] [ 27 ] ADMINISTRATIVE & OFFICE
+                        Office Staff          STAFF
+                         [ @ 21 ] Classified Staff ADMINISTRATIVE & OFFICE STAFF
+                         [ @ 22 ] Student Support Staff
 
 
 
 
 
 
-                                                                             [27] Meg Jacques                         [30] Angela Tucker                        [33] Ashley Solano
-                                                                               [28] Principal                      [31] Assistant Principal                 [34] Principal's Secretary
-                                                                                    [@29] Email                               [@32] Email                               [@35] Email
+                                                      [ 29 ] Meg Jacques       [ 32 ] Angela Tucker     [ 35 ] Ashley Solano
+                                                       [ 30 ] Principal      [ 33 ] Assistant Principal [ 36 ] Principal's Secretary
+                                                        [ @ 31 ] Email           [ @ 34 ] Email           [ @ 37 ] Email
 
 
 
 
 
 
-                                                                              [36] Pam Cavit                      [39] Candice Lopez Trejo                     [42] Kay Livingstone
-                                                                               [37] Registrar                          [40] School Nurse                      [43] Building Engineer
-                                                                                    [@38] Email              [@41] Email                                                [@44] Email
+
+                                                       [ 38 ] Pam Cavit      [ 41 ] Candice Lopez Trejo [ 44 ] Kay Livingstone
+                                                       [ 39 ] Registrar        [ 42 ] School Nurse     [ 45 ] Building Engineer
+                                                        [ @ 40 ] Email           [ @ 43 ] Email           [ @ 46 ] Email
 
 
-                                                                            [45] Odessa Morris
-                                                                           [46] Health Assistant
-                                                                                    [@47] Email
+                                                      [ 47 ] Odessa Morris
+                                                     [ 48 ] Health Assistant
+                                                        [ @ 49 ] Email
 
 
 
 
-                        **[48] Flagstone Elementary**
-                        [49] Principal: Meg Jacques
-                        [50] 104 Lovington St, Castle Rock, CO 80104
-                        [51] Phone [52] 303-387-5225 [53] Fax [54] 303-387-5226
+                      [ 50 ] FLAGSTONE ELEMENTARY
+                                                                                                     **fo**
+                      [ 51 ] Principal: Meg Jacques
+                      [ 52 ] 104 Lovington St, Castle Rock, CO 80104
+                      [ 53 ] Phone [ 54 ] 303-387-5225 [ 55 ] | Fax [ 56 ] 303-387-5226
 
-                                                             [57] Website by SchoolMessenger Presence [58]. 2024 SchoolMessenger Corporation. All rights reserved.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 387
+                                          [ 59 ] Website by [ @ 61 ] SchoolMessenger Presence [ 60 ]. © 2024 SchoolMessenger Corporation. All rights reserved.
+-----------------------------------------------------------------------------------------------------------------------------
+Token count: 514

@@ -1,129 +1,118 @@
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[@0] Scale                                        [$1] Products [$2] Government [$3] Solutions [$4] Customers [@5] Pricing [$6] Resources                    [@7] Book a Demo    [@8] Log In
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 0 ]                                         [ $ 1 ] Products        [ $ 2 ] Government           [ $ 3 ] Solutions        [ $ 4 ] Customers          [ @ 5 ] Pricing       [ $ 6 ] Resource [ @ 7 ] Book a Demo →              [ @ 8 ] Log In
+                      scale
 
 
-       [9] EPD                                                                                    **[14] Scale AI is seeking a highly skilled and motivated [16]**
-                                                                                                  **Infrastructure Software Engineer [15] to join our dynamic**
-                                                                                                  **Federal Engineering team. As a part of this team, you will play**
-    **[10] Infrastructure Software**
-                                                                                                  **a critical role in delivering high-impact AI-powered mission**
-                                                                                                  **solutions for government customers. Our scalable and**
-    **Engineer, Public Sector**
-                                                                                                  **high-performance platform forms the foundation for these**
-                                                                                                  **solutions, and your expertise will be instrumental in designing**
-       [@11] Apply Now                                                                            **and implementing systems that can handle billions of data**
-                                                                                                  **points with exceptional performance.**
-         [12] Washington, DC          [13] Full Time
-                                                                                                  **[17] You will:**
+                          [ 9 ] EPD                                                                                                                [ 14 ] Scale Al is seeking a highly skilled and motivated
+                                                                                                                                                   [ 16 ] Infrastructure Software Engineer [ 15 ] to join our dynamic
+                                                                                                                                                  Federal Engineering team. As a part of this team, you will play
+                       **[ 10 ] Infrastructure Software**
+                                                                                                                                                  a critical role in delivering high - impact Al - powered mission
+                      **Engineer, Public Sector**                                                                                                 solutions for government customers. Our scalable and high-
+                                                                                                                                                  performance platform forms the foundation for these
+                                                                                                                                                  solutions, and your expertise will be instrumental in designing
+                          [ @ 11 ] Apply Now →                                                                                                    and implementing systems that can handle billions of data
+                                                                                                                                                  points with exceptional performance.
 
-                                                                                                       **[18] Design and implement secure scalable backend systems for Federal**
-                                                                                                       **customers, leveraging Scale's modern and cloud-native AI infrastructure.**
+                            [ 12 ] Washington, DC                   [ 13 ] Full Time                                                                               will:
+                                                                                                                                                   [ 17 ] You
 
-                                                                                                       **[19] Own services or systems and define their long-term health goals,**
-                                                                                                       **while also improving the health of surrounding components**
+                                                                                                                                                         [ 18 ] Design and implement secure scalable backend systems for Federal
+                                                                                                                                                        customers, leveraging Scale's modern and cloud - native Al infrastructure.
+                                                                                                                                                         [ 19 ] Own services or systems and define their long - term health goals,
+                                                                                                                                                        while also improving the health of surrounding components
+                                                                                                                                                         [ 20 ] Improve our high engineering standards, tooling, and process
+                                                                                                                                                         [ 21 ] Collaborate with cross - functional teams to define and execute the
+                                                                                                                                                        vision for backend solutions, ensuring they meet the unique needs of
+                                                                                                                                                        government agencies operating in secure environments.
+                                                                                                                                                         [ 22 ] Participate actively in customer engagements, working closely with
+                                                                                                                                                        stakeholders to understand requirements and deliver innovative solutions.
+                                                                                                                                                         [ 23 ] Contribute to the platform roadmap and product strategy for Scale
+                                                                                                                                                        Al's Federal business, playing a key role in shaping the future direction of
+                                                                                                                                                        our offerings.
 
-                                                                                                       **[20] Improve our high engineering standards, tooling, and process**
-
-                                                                                                       **[21] Collaborate with cross-functional teams to define and execute the**
-                                                                                                       **vision for backend solutions, ensuring they meet the unique needs of**
-                                                                                                       **government agencies operating in secure environments.**
-
-                                                                                                       **[22] Participate actively in customer engagements, working closely with**
-                                                                                                       **stakeholders to understand requirements and deliver innovative solutions.**
-
-                                                                                                       **[23] Contribute to the platform roadmap and product strategy for Scale**
-                                                                                                       **AI's Federal business, playing a key role in shaping the future direction of**
-                                                                                                       **our offerings.**
-
-                                                                                                  **[24] Ideally you'd have:**
-                                                                                                       **[25] An active TS/SCI security clearance. This is a requirement and**
-                                                                                                       **candidates will not be considered who do not hold this level of clearance**
-                                                                                                       **[26] Full Stack Development: Proficiency in both front-end and back-end**
-                                                                                                       **development, including experience with modern web development**
-                                                                                                       **frameworks, programming languages, and databases. Experience with**
-                                                                                                       **developing & delivering software to air-grapped & isolated environments**
-                                                                                                       **is a plus.**
-
-                                                                                                       **[27] Cloud-Native Technologies: Understanding of containerization (e.g.,**
-                                                                                                       **Docker) and container orchestration (e.g., Kubernetes) is required.**
-                                                                                                       **Familiarity with cloud platforms (e.g., AWS, Azure, GCP) and experience**
-                                                                                                       **in developing and deploying applications in a cloud-native environment.**
-
-                                                                                                       **[28] Security Focused: Experience with Federal Compliance frameworks,**
-                                                                                                       **and requirements(e.g, Cloud SRG, FedRAMP, STIG Benchmarks, etc).**
-                                                                                                       **Experience developing software & technical solutions that meet strict**
-                                                                                                       **security & regulatory compliance requirements.**
-
-                                                                                                       **[29] Problem Solving: Strong analytical and problem-solving skills to**
-                                                                                                       **understand complex challenges and devise effective solutions. Ability to**
-                                                                                                       **think critically, identify root causes, and propose innovative approaches to**
-                                                                                                       **overcome technical obstacles.**
-
-                                                                                                       **[30] Collaboration and Communication: Excellent interpersonal and**
-                                                                                                       **communication skills to effectively collaborate with cross-functional**
-                                                                                                       **teams, stakeholders, and customers. Ability to clearly articulate technical**
-                                                                                                       **concepts to non-technical audiences and foster a collaborative work**
-                                                                                                       **environment.**
-
-                                                                                                       **[31] Adaptability and Learning Agility: Willingness to embrace new**
-                                                                                                       **technologies, learn new skills, and adapt to evolving project requirements.**
-                                                                                                       **Ability to quickly grasp and apply new concepts and stay up-to-date with**
-                                                                                                       **emerging trends in software engineering.**
-
-                                                                                                       **[32] Must be able to support work 2-3 days a week at client sites within**
-                                                                                                       **the St. Louis, MO or DC Metro area.**
+                                                                                                                                                   [ 24 ] Ideally you'd have:
+                                                                                                                                                         [ 25 ] An active TS / SCI security clearance. This is a requirement and
+                                                                                                                                                        candidates will not be considered who do not hold this level of clearance
+                                                                                                                                                         [ 26 ] Full Stack Development: Proficiency in both front - end and back - end
+                                                                                                                                                        development, including experience with modern web development
+                                                                                                                                                        frameworks, programming languages, and databases. Experience with
+                                                                                                                                                        developing & delivering software to air - grapped & isolated environments
+                                                                                                                                                        is a plus.
+                                                                                                                                                         [ 27 ] Cloud - Native Technologies: Understanding of containerization ( e.g.,
+                                                                                                                                                        Docker ) and container orchestration ( e.g., Kubernetes ) is required.
+                                                                                                                                                        Familiarity with cloud platforms ( e.g., AWS, Azure, GCP ) and experience
+                                                                                                                                                        in developing and deploying applications in a cloud - native environment.
+                                                                                                                                                         [ 28 ] Security Focused: Experience with Federal Compliance frameworks,
+                                                                                                                                                        and requirements ( e.g, Cloud SRG, FedRAMP, STIG Benchmarks, etc ).
+                                                                                                                                                        Experience developing software & technical solutions that meet strict
+                                                                                                                                                        security & regulatory compliance requirements.
+                                                                                                                                                         [ 29 ] Problem Solving: Strong analytical and problem - solving skills to
+                                                                                                                                                        understand complex challenges and devise effective solutions. Ability to
+                                                                                                                                                        think critically, identify root causes, and propose innovative approaches to
+                                                                                                                                                        overcome technical obstacles.
+                                                                                                                                                         [ 30 ] Collaboration and Communication: Excellent interpersonal and
+                                                                                                                                                        communication skills to effectively collaborate with cross - functional
+                                                                                                                                                        teams, stakeholders, and customers. Ability to clearly articulate technical
+                                                                                                                                                        concepts to non - technical audiences and foster a collaborative work
+                                                                                                                                                        environment.
+                                                                                                                                                         [ 31 ] Adaptability and Learning Agility: Willingness to embrace new
+                                                                                                                                                        technologies, learn new skills, and adapt to evolving project requirements.
+                                                                                                                                                        Ability to quickly grasp and apply new concepts and stay up - to - date with
+                                                                                                                                                        emerging trends in software engineering.
+                                                                                                                                                         [ 32 ] Must be able to support work 2-3 days a week at client sites within
+                                                                                                                                                        the St. Louis, MO or DC Metro area.
 
 
-                                                                                                  **[33] The base salary range for this full-time position in Washington, DC is**
-                                                                                                  **153,600 -** **215,040. Compensation packages at Scale include base salary,**
-                                                                                                  **equity, and benefits. The range displayed on each job posting reflects the**
-                                                                                                  **minimum and maximum target for new hire salaries for the position,**
-                                                                                                  **determined by work location and additional factors, including job-related**
-                                                                                                  **skills, experience, interview performance, and relevant education or training.**
-                                                                                                  **Your recruiter can share more about the specific salary range for your**
-                                                                                                  **preferred location during the hiring process. Scale employees are also**
-                                                                                                  **granted Stock Options that are awarded upon board of director approval. You**
-                                                                                                  **ll also receive benefits including, but not limited to: Comprehensive health,**
-                                                                                                  **dental and vision coverage, retirement benefits, a learning and development**
-                                                                                                  **stipend, and generous PTO. Additionally, this role may be eligible for**
-                                                                                                  **additional benefits such as a commuter stipend.**
+                                                                                                                                                   [ 33 ] The base salary range for this full - time position in Washington, DC is
+                                                                                                                                                   $ 153,600 - $ 215,040. Compensation packages at Scale include base salary,
+                                                                                                                                                  equity, and benefits. The range displayed on each job posting reflects the
+                                                                                                                                                  minimum and maximum target for new hire salaries for the position,
+                                                                                                                                                  determined by work location and additional factors, including job - related
+                                                                                                                                                  skills, experience, interview performance, and relevant education or training.
+                                                                                                                                                  Your recruiter can share more about the specific salary range for your
+                                                                                                                                                  preferred location during the hiring process. Scale employees are also
+                                                                                                                                                  granted Stock Options that are awarded upon board of director approval.
+                                                                                                                                                   You'll also receive benefits including, but not limited to: Comprehensive
+                                                                                                                                                  health, dental and vision coverage, retirement benefits, a learning and
+                                                                                                                                                  development stipend, and generous PTO. Additionally, this role may be
+                                                                                                                                                  eligible for additional benefits such as a commuter stipend.
 
 
 
-                                                                                                  **[34] About Us:**
-                                                                                                  **[35] At Scale, we believe that the transition from traditional software to AI is**
-                                                                                                  **one of the most important shifts of our time. Our mission is to make that**
-                                                                                                  **happen faster across every industry, and our team is transforming how**
-                                                                                                  **machine learning can build innovative products. Our products provide access**
-                                                                                                  **to human-powered data for hundreds of use cases and are used by industry**
-                                                                                                  **leaders such as Open AI, Lyft, Meta, GM, Samsung, Airbnb, NVIDIA, and**
-                                                                                                  **many more. We ve recently raised 325 million in Series E funding at a**
-                                                                                                  **valuation of 7B+ and are expanding our team to accelerate the development**
-                                                                                                  **of AI applications.**
-                                                                                                  **[36] We believe that everyone should be able to bring their whole selves to**
-                                                                                                  **work, which is why we are proud to be an affirmative action employer and**
-                                                                                                  **inclusive and equal opportunity workplace. We are committed to equal**
-                                                                                                  **employment opportunity regardless of race, color, ancestry, religion, sex,**
-                                                                                                  **national origin, sexual orientation, age, citizenship, marital status, disability**
-                                                                                                  **status, gender identity or Veteran status.**
-                                                                                                  **[37] We are committed to working with and providing reasonable**
-                                                                                                  **accommodations to applicants with physical and mental disabilities. If you**
-                                                                                                  **need assistance and/or a reasonable accommodation in the application or**
-                                                                                                  **recruiting process due to a disability, please contact us at accommodations**
-                                                                                                  **scale.com. Please see the United States Department of Labor's**
-                                                                                                  **[@38] Know Your Rights**
-                                                                                                  **[39] poster for additional information.**
-                                                                                                  **[40] We comply with the United States Department of Labor's**
-                                                                                                  **[@41] Pay Transparency provision**
 
-                                                                                                  **[43] PLEASE NOTE: [42] We collect, retain and use personal data for our**
-                                                                                                  **professional business purposes, including notifying you of job opportunities**
-                                                                                                  **that may be of interest and sharing with our affiliates. We limit the personal**
-                                                                                                  **data we collect to that which we believe is appropriate and necessary to**
-                                                                                                  **manage applicants needs, provide our services, and comply with applicable**
-                                                                                                  **laws. Any information we collect in connection with your application will be**
-                                                                                                  **treated in accordance with our internal policies and programs designed to**
-                                                                                                  **protect personal data.**
+                                                                                                                                                   [ 34 ] About Us:
+                                                                                                                                                   [ 35 ] At Scale, we believe that the transition from traditional software to Al is
+                                                                                                                                                  one of the most important shifts of our time. Our mission is to make that
+                                                                                                                                                   happen faster across every industry, and our team is transforming how
+                                                                                                                                                  machine learning can build innovative products. Our products provide access
+                                                                                                                                                  to human - powered data for hundreds of use cases and are used by industry
+                                                                                                                                                  leaders such as Open Al, Lyft, Meta, GM, Samsung, Airbnb, NVIDIA, and
+                                                                                                                                                   many more. We've recently raised $ 325 million in Series E funding at a
+                                                                                                                                                  valuation of $ 7B + and are expanding our team to accelerate the development
+                                                                                                                                                   of Al applications.
+                                                                                                                                                   [ 36 ] We believe that everyone should be able to bring their whole selves to
+                                                                                                                                                  work, which is why we are proud to be an affirmative action employer and
+                                                                                                                                                  inclusive and equal opportunity workplace. We are committed to equal
+                                                                                                                                                  employment opportunity regardless of race, color, ancestry, religion, sex,
+                                                                                                                                                   national origin, sexual orientation, age, citizenship, marital status, disability
+                                                                                                                                                   status, gender identity or Veteran status.
+                                                                                                                                                   [ 37 ] We are committed to working with and providing reasonable
+                                                                                                                                                  accommodations to applicants with physical and mental disabilities. If you
+                                                                                                                                                  need assistance and / or a reasonable accommodation in the application or
+                                                                                                                                                   recruiting process due to a disability, please contact us at
+                                                                                                                                                  accommodations@scale.com. Please see the United States Department of
+                                                                                                                                                   Labor's [ @ 38 ] Know Your Rights poster [ 39 ] for additional information.
+                                                                                                                                                   [ 40 ] We comply with the United States Department of Labor's [ @ 41 ] Pay
+                                                                                                                                                  Transparency provision [ 42 ].
+                                                                                                                                                   [ 44 ] PLEASE NOTE: [ 43 ] We collect, retain and use personal data for our
+                                                                                                                                                  professional business purposes, including notifying you of job opportunities
+                                                                                                                                                  that may be of interest and sharing with our affiliates. We limit the personal
+                                                                                                                                                  data we collect to that which we believe is appropriate and necessary to
+                                                                                                                                                   manage applicants' needs, provide our services, and comply with applicable
+                                                                                                                                                  laws. Any information we collect in connection with your application will be
+                                                                                                                                                  treated in accordance with our internal policies and programs designed to
+                                                                                                                                                  protect personal data.
 
 
 
@@ -131,31 +120,33 @@
 
 
 
+                                                                                                      **] The future of**
+                                                                              **[ 45**
+                                                                                            **your industry**
+                                                                                                                                                                    **here.**
+                                                                                     **[ 46 ] starts**
+
+                                                                                                                   [ @ 47 ] Book a demo →                [ @ 48 ] Build Al →
 
 
-                                                                                                                             **[45]**
-                                                               **starts here.**
-
-                                                                                  [@46] Book a demo    [@47] Build AI
 
 
 
 
+                      [ 49 ] PRODUCTS                                  [ 58 ] SOLUTIONS                        [ 67 ] COMPANY [ 74 ] RESOURCES                                      [ 84 ] GUIDES                                     [ 91 ] CONTACT
+                      [ @ 50 ] Scale Data Engine                       [ @ 59 ] Retail & eCommerce [ @ 68 ] About                      [ @ 75 ] Blog                                [ @ 85 ] Data Labeling                            [ @ 92 ] sales@scale.com
+                      [ @ 51 ] Scale Custom LLMs Engine                [ @ 60 ] Defense                        [ @ 69 ] Pricing       [ @ 76 ] Customers                            [ @ 86 ] ML Model Training                        [ @ 93 ] support@scale.com
+                      [ @ 52 ] Scale Generative Al Platform [ @ 61 ] Logistics                                 [ @ 70 ] Careers        [ @ 77 ] Events                              [ @ 87 ] Diffusion Models                         [ @ 94 ] careers@scale.com
+                      [ @ 53 ] Scale Donovan                           [ @ 62 ] Autonomous Vehicles [ @ 71 ] Security                  [ @ 78 ] Open Datasets                       [ @ 88 ] Guide to Al for eCommerce                [ @ 95 ] press@scale.com
+                                                                       [ @ 63 ] Robotics                      [ @ 72 ] Terms           [ @ 79 ] Interviews                          [ @ 89 ] Computer Vision Applications
+                      [ 54 ] GOVERNMENT                                                                                                                                                                                               [ @ 96 ] [ @ 97 ] [ @ 98 ]
+                                                                       [ @ 64 ] AR / VR                        [ @ 73 ] Privacy       [ @ 80 ] Documentation                        [ @ 90 ] Large Language Models
+                                                                                                                                                                                                                                     X           €            in
+                      [ @ 55 ] Defense                                 [ @ 65 ] Content & Language                                    [ @ 81 ] Guides
+                      [ @ 56 ] Federal                                 [ @ 66 ] RLHF                                                   [ @ 82 ] Community
+                      [ @ 57 ] Public Sector                                                                                           [ @ 83 ] Al Readiness Report 2023
 
 
-    [48] Products                        [57] Solutions                [66] Company             [73] Resources                    [83] Guides                           [90] Contact
-    [@49] Scale Data Engine              [@58] Retail & eCommerce      [@67] About              [@74] Blog                        [@84] Data Labeling                   [@91] sales scale.com
-    [@50] Scale Custom LLMs Engine       [@59] Defense                 [@68] Pricing            [@75] Customers                   [@85] ML Model Training               [@92] support scale.com
-    [@51] Scale Generative AI Platform   [@60] Logistics               [@69] Careers            [@76] Events                      [@86] Diffusion Models                [@93] careers scale.com
-    [@52] Scale Donovan                  [@61] Autonomous Vehicles     [@70] Security           [@77] Open Datasets               [@87] Guide to AI for eCommerce       [@94] press scale.com
-                                         [@62] Robotics                [@71] Terms              [@78] Interviews                  [@88] Computer Vision Applications
-    [53] Government
-                                         [@63] AR/VR                   [@72] Privacy            [@79] Documentation               [@89] Large Language Models
-    [@54] Defense                        [@64] Content & Language                               [@80] Guides
-    [@55] Federal                        [@65] RLHF                                             [@81] Community
-    [@56] Public Sector                                                                         [@82] AI Readiness Report 2023
-
-
-    [98] Copyright   [99] 2023 [100] Scale AI, Inc. All rights reserved.                                                                                     [@101] Terms of Use [@102] Privacy Policy
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2047
+                      [ 99 ] Copyright © [ 100 ] 2023 [ 101 ] Scale Al, Inc. All rights reserved.                                                                                                    [ @ 103 ] Terms of Use [ 102 ] & [ @ 104 ] Privacy Policy
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 2142

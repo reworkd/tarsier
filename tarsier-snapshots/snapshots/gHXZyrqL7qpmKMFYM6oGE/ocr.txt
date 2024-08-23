@@ -1,154 +1,143 @@
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[@1] Store [@3] Mac [@5] iPad [@7] iPhone [@9] Watch [@11] Vision [@12] AirPods [@14] TV & Home                                      [@16] Entertainment [@18] Accessories [@20] Support
-                                  [@24] Careers [@0] Apple at Apple                                                                                                                                                                                 [@29] Search Jobs at Apple
-                                                                                                                                                                           **[@25] Work at Apple** **[@26] Life at Apple** **[@27] Profile [@28] Sign In**
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 1 ]         [ @ 3 ]       [ @ 5 ]       [ @ 7 ]          [ @ 9 ]         [ @ 11 ]          [ @ 12 ]                                                             [ @ 18 ]                [ @ 20 ]            [ @ 22 ]      [ @ 23 ]
+                                              [ @ 0 ] <           Stc [ $ 2 ]     M [ $ 4 ]     IP: [ $ 6 ]   iPho [ $ 8 ]     Wat [ $ 10 ]      Vision           **AirPo [ $ 13,14 ] TV & Hor [ $ 1516 ] Entertainme [ $ 171**        Accessori [ $ 19 ] Supp [ $ 21 ]
+
+                                              [ @ 24 ] Careers at Apple                                                       [ @ 25 ] Work at Apple     [ @ 26 ] Life at Apple   [ @ 27 ] Profile  [ @ 28 ] Sign In        [ @ 29 ] Search
 
 
-                                                               **[30] Engineering Manager, Camera**
+                                                                      **[ 30 ] Engineering Manager, Camera**
                                                                                                                         **Foundation**
-                                                                                 [31] Santa Clara Valley (Cupertino) [32] California [33] United States
-                                                                                                                         [34] Software and Services
-                                                                                                                                            [$35] Add
-                                                                                                                                                           [$36] Share Engineering Manager, Camera Foundation
-                                                                                                                                            to
-                                                          [@37] Submit Resume Engineering Manager, Camera Foundation                        Favorites
-                                                                                                                                            Engineering
-                                                                                                                                            Manager,
-                                                                                                                                    [@38] Back Camera to search results
-                                                                                                                                            Foundation
-                                  [39] Summary                                     **[46] iPhone is the most popular camera in the world. The seamless integration of software and hardware has**
-                                                                                   **enabled us to create features like Portrait with Focus Control and Night mode, which deliver experiences that**
-                                  [40] Posted: [41] Nov 2, 2023                    **are magical! The Camera & Photos team focuses on user experience, utilizing computer vision and image**
-                                  [42] Weekly Hours: [43] 40                       **processing through machine learning. Our team works hard on products that ship to millions of people, and**
-                                  [44] Role Number: [45]
-                                                                                   **we re looking for people who want to do the same. The Camera Foundation team provides the capture and**
-                                  200517170
-                                                                                   **camera infrastructure for all of Apple s innovative devices. We aim to deliver an unsurpassed media**
-                                                                                   **experience by combining forward-leaning software techniques with the latest innovations in hardware.**
+                                                                            [ 31 ] Santa Clara Valley ( Cupertino ) [ 32 ],                      [ 33 ] California [ 34 ],          [ 35 ] United States
+                                                                                                                         [ 36 ] Software and Services
 
 
-                                  [47] Key                                             **[48] You have 2+ years of experience leading/managing software engineering projects, and have**
-                                  Qualifications                                       **full-cycle project planning and resource management experience.**
-                                                                                       **[49] You thrive in a collaborative environment and can clearly communicate while confidently driving**
-                                                                                       **multiple projects across many teams.**
-                                                                                       **[50] You have experience building and growing teams of experienced engineers.**
-                                                                                       **[51] You have 5+ years of multithreading software development experience.**
-                                                                                       **[52] You are proficient in Objective-C, or C/C++.**
-                                                                                       **[53] You own API design and maintenance.**
+                                                                                                                                 [ @ 39 ] Submit Resume
+
+                                                                                                                        [ @ 40 ]       Back to search results
+
+                                              [ 41 ] Summary                            [ 48 ] iPhone is the most popular camera in the world. The seamless integration of software and hardware has
+                                                                                        enabled us to create features like Portrait with Focus Control and Night mode, which deliver experiences that
+                                              [ 42 ] Posted: [ 43 ] Nov 2, 2023         are magical! The Camera & Photos team focuses on user experience, utilizing computer vision and image
+                                              [ 44 ] Weekly Hours: [ 45 ] 40            processing through machine learning. Our team works hard on products that ship to millions of people, and
+                                              [ 46 ] Role Number:                       we're looking for people who want to do the same. The Camera Foundation team provides the capture and
+                                              [ 47 ] 200517170                          camera infrastructure for all of Apple's innovative devices. We aim to deliver an unsurpassed media
+                                                                                        experience by combining forward - leaning software techniques with the latest innovations in hardware.
 
 
-                                  [54] Description                                 **[55] If you consider yourself an engaging and highly-collaborative engineering lead with excellent**
-                                                                                   **communication skills, and are comfortable in a dynamic environment, we feel we have a rewarding**
-                                                                                   **opportunity for you. We need a strong engineering manager to drive the development and innovation of**
-                                                                                   **camera capture and processing pipelines while building and expanding a team of experienced engineers.**
-                                                                                   **In addition, you ideally have a background in media and have a good working understanding of the various**
-                                                                                   **media formats. In this role you will have the unique opportunity to drive high-impact customer-facing**
-                                                                                   **features as well as influence the direction of Apple s custom silicon designs**                                           **and to build the**
-                                                                                   **vertically-integrated software stack that connects them.**
-
-
-                                  **[56] Education & [57] MS/BS degree in Computer Science or equivalent experience.**
-                                  Experience
-
-
-                                  [58] Additional                                      **[59] - Development and debug experience on embedded mobile platforms.**
-                                  Requirements
-                                                                                       **[60] - Experience with Unix/Linux highly desired. Experience in OS X / Darwin is a major plus.**
-                                                                                       **[61] - Familiarity with modern processor and SoC architectures.**
-                                                                                       **[62] - Familiarity with H264/JVT, MPEG 4 as well as common media container formats.**
-                                                                                       **[63] - Familiarity with A/V compression/decompression & synchronization technology.**
-
-
-                                  [64] Pay &                                       **[65] At Apple, base pay is one part of our total compensation package and is determined within a range.**
-                                  Benefits                                         **This provides the opportunity to progress as you grow and develop within a role. The base pay range for**
-                                                                                   **this role is between 183,400 and 316,900, and your base pay will depend on your skills, qualifications,**
-                                                                                   **experience, and location.**
-                                                                                   **[66] Apple employees also have the opportunity to become an Apple shareholder through participation in**
-                                                                                   **Apple s discretionary employee stock programs. Apple employees are eligible for discretionary restricted**
-                                                                                   **stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple s**
-                                                                                   **Employee Stock Purchase Plan. You ll also receive benefits including: Comprehensive medical and dental**
-                                                                                   **coverage, retirement benefits, a range of discounted products and free services, and for formal education**
-                                                                                   **related to advancing your career at Apple, reimbursement for certain educational expenses**                                                        **including**
-                                                                                   **tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as**
-                                                                                   **relocation.**
-                                                                                   **Learn more**
-                                                                                   **[67] about Apple Benefits.**
-                                                                                   **[68] Note: Apple benefit, compensation and employee stock programs are subject to eligibility**
-                                                                                   **requirements and other terms of the applicable plan or program.**
+                                              [ 49 ] Key                                   [ 50 ] You have 2+ years of experience leading / managing software engineering projects, and have full-
+                                             Qualifications                                cycle project planning and resource management experience.
+                                                                                       ⚫ [ 51 ] You thrive in a collaborative environment and can clearly communicate while confidently driving
+                                                                                           multiple projects across many teams.
+                                                                                       •   [ 52 ] You have experience building and growing teams of experienced engineers.
+                                                                                           [ 53 ] You have 5+ years of multithreading software development experience.
+                                                                                       •   [ 54 ] You are proficient in Objective - C, or C / C ++.
+                                                                                           [ 55 ] You own API design and maintenance.
 
 
 
-                                                          [@70] Submit Resume Engineering Manager, Camera Foundation
+                                              [ 56 ] Description                        [ 57 ] If you consider yourself an engaging and highly - collaborative engineering lead with excellent
+                                                                                        communication skills, and are comfortable in a dynamic environment, we feel we have a rewarding
+                                                                                        opportunity for you. We need a strong engineering manager to drive the development and innovation of
+                                                                                       camera capture and processing pipelines while building and expanding a team of experienced engineers.
+                                                                                        In addition, you ideally have a background in media and have a good working understanding of the various
+                                                                                        media formats. In this role you will have the unique opportunity to drive high - impact customer - facing
+                                                                                        features as well as influence the direction of Apple's custom silicon designs - and to build the vertically-
+                                                                                        integrated software stack that connects them.
 
-                                                                                                                                    [@71] Back to search results
-                                                                                                                                            [$72] Add
-                                                                                                                                                           [$73] Share Engineering Manager, Camera Foundation
-                                                                                                                                            to
-                                                                                                            [@74] See all roles in Santa Favorites Clara Valley (Cupertino)
-                                                                                                                                            Engineering
-                                                                                                                                            Manager,
-                                                                                                                                            Camera
-                                  [76] Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race,
-                                  color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran           Foundation status, or other legally protected characteristics.
-                                  Learn more about your EEO rights as an applicant (Opens
-                                                                                                in
-                                  .                                                             a
-                                  [78] Apple will not discriminate or retaliate against new applicants who inquire about, disclose, or discuss their compensation or that of other applicants.
-                                  United Learn more (Opens                                      window)
-                                  . States      in
-                                  Department [80] Apple will a consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law. If you re applying for a position in San Francisco,
-                                  of review the new
-                                  Labor. San guidelines (opens window)
-                                  [81] Francisco applicable in in your area.
-                                  Fair [83] Apple a participates in the E-Verify program in certain locations as required by law.
-                                  Chance Learn more new about the E-Verify
-                                  Ordinance. program (Opens window)
-                                  [85] Apple in is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities.
-                                  Reasonable Learn more a (Opens
-                                  . Accommodation new in
-                                  and        window) a
-                                  [87] Drug Apple is new a drug-free workplace.
-                                  Reasonable Learn Free more (Opens window)
-                                  . Accommodation in
-                                  Workplace and a
-                                  policy Drug   new
-                                  Free          window)             [91] Careers at Apple
-                                  Workplace [@89] Apple [@90] Careers at Apple
-                                  policy
-                                  [92] Shop and Learn                           [111] Account [$112] Account +               [127] Apple Store [$128] Apple Store +        [140] For Business                           [158] Apple Values
-                                  [$93] Shop and Learn +                        [@113] Manage Your Apple ID                  [@129] Find a Store                           [$141] For Business +                        [$159] Apple Values +
-                                  [@94] Store                                   [@114] Apple Store Account                   [@130] Genius Bar                             [@142] Apple and Business                    [@160] Accessibility
-                                  [@95] Mac                                     [@115] iCloud.com                            [@131] Today at Apple                         [@143] Shop for Business                     [@161] Education
-                                  [@96] iPad                                                                                 [@132] Apple Camp                                                                          [@162] Environment
-                                                                                [116] Entertainment                                                                        [144] For Education
-                                  [@97] iPhone                                                                               [@133] Apple Store App                        [$145] For Education +                       [@163] Inclusion and Diversity
-                                                                                [$117] Entertainment +
-                                  [@98] Watch                                                                                [@134] Certified Refurbished                  [@146] Apple and Education                   [@164] Privacy
-                                                                                [@118] Apple One
-                                  [@99] Vision                                                                               [@135] Apple Trade In                         [@147] Shop for K-12                         [@165] Racial Equity and Justice
-                                                                                [@119] Apple TV+
-                                  [@100] AirPods                                                                             [@136] Financing                              [@148] Shop for College                      [@166] Supplier Responsibility
-                                                                                [@120] Apple Music
-                                  [@101] TV & Home                                                                           [@137] Carrier Deals at Apple
-                                                                                [@121] Apple Arcade                                                                        [149] For Healthcare                         [167] About Apple
-                                  [@102] AirTag                                                                              [@138] Order Status                           [$150] For Healthcare +                      [$168] About Apple +
-                                                                                [@122] Apple Fitness+
-                                  [@103] Accessories                                                                         [@139] Shopping Help                          [@151] Apple in Healthcare                   [@169] Newsroom
-                                                                                [@123] Apple News+
-                                  [@104] Gift Cards                                                                                                                        [@152] Health on Apple Watch                 [@170] Apple Leadership
-                                                                                [@124] Apple Podcasts
-                                  [105] Apple Wallet                            [@125] Apple Books                                                                         [@153] Health Records on iPhone              [@171] Career Opportunities
-                                  [$106] Apple Wallet +                         [@126] App Store                                                                                                                        [@172] Investors
-                                  [@107] Wallet                                                                                                                            [154] For Government                         [@173] Ethics & Compliance
-                                                                                                                                                                           [$155] For Government +
-                                  [@108] Apple Card                                                                                                                        [@156] Shop for Government                   [@174] Events
-                                  [@109] Apple Pay                                                                                                                         [@157] Shop for Veterans and Military        [@175] Contact Apple
-                                  [@110] Apple Cash
-                                  [176] More ways to shop: Find an Apple Store [177] or other retailer [178] near you. [181] Or call 1-800-MY-APPLE.
-                                  [183] Copyright        2023 Apple Inc. All rights reserved.              [@184] Privacy Policy                                                                                                                     [@182] United States
-                                                                                                           [@185] Terms of Use
-                                                                                                           [@186] Sales and Refunds
-                                                                                                           [@187] Legal
-                                                                                                           [@188] Site Map
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2275
+
+                                              [ 58 ] Education &                        [ 59 ] MS / BS degree in Computer Science or equivalent experience.
+                                              Experience
+
+
+                                              [ 60 ] Additional                            [ 61 ] - Development and debug experience on embedded mobile platforms.
+                                              Requirements                                 [ [ 62 ] - Experience with Unix / Linux highly desired. Experience in OS X / Darwin is a major plus.
+                                                                                           [ 63 ] - Familiarity with modern processor and SoC architectures.
+                                                                                           [ 64 ] - Familiarity with H264 / JVT, MPEG 4 as well as common media container formats.
+                                                                                           [ 65 ] - Familiarity with A / V compression / decompression & synchronization technology.
+
+
+
+                                              [ 66 ] Pay &                              [ 67 ] At Apple, base pay is one part of our total compensation package and is determined within a range.
+                                              Benefits                                  This provides the opportunity to progress as you grow and develop within a role. The base pay range for
+                                                                                        this role is between $ 183,400 and $ 316,900, and your base pay will depend on your skills, qualifications,
+                                                                                        experience, and location.
+
+                                                                                        [ 68 ] Apple employees also have the opportunity to become an Apple shareholder through participation in
+                                                                                       Apple's discretionary employee stock programs. Apple employees are eligible for discretionary restricted
+                                                                                        stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple's
+                                                                                        Employee Stock Purchase Plan. You'll also receive benefits including: Comprehensive medical and dental
+                                                                                        coverage, retirement benefits, a range of discounted products and free services, and for formal education
+                                                                                        related to advancing your career at Apple, reimbursement for certain educational expenses - including
+                                                                                        tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as
+                                                                                        relocation. [ @ 71 ] Learn more [ 69 ] ] about Apple Benefits.
+
+                                                                                        [ 70 ] Note: Apple benefit, compensation and employee stock programs are subject to eligibility
+                                                                                        requirements and other terms of the applicable plan or program.
+
+
+
+                                                                                                                                 [ @ 72 ] Submit Resume
+
+                                                                                                                        [ @ 73 ]       Back to search results
+                                                                                                                                         ☆
+                                                                                                        [ @ 76 ] See all roles in Santa Clara Valley ( Cupertino ) ☐
+
+
+                                              [ 78 ] Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race,
+                                             color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. [ @ 80 ] Learn more about your EEO rights as an
+                                             applicant [ 79 ]
+                                              [ 81 ] Apple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation or that of other applicants. [ @ 83 ] Learn more [ 82 ] ]
+                                              [ 84 ] Apple will consider for employment all qualified applicants with criminal histories in a manner consistent with applicable law. If you're applying for a position in San Francisco, review
+                                             the [ @ 86 ] guidelines [ 85 ] applicable in your area.
+                                              [ 87 ] Apple participates in the E - Verify program in certain locations as required by law. [ @ 89 ] Learn more about the E - Verify program [ 88 ]
+                                              [ 90 ] Apple is committed to working with and providing reasonable accommodation to applicants with physical and mental disabilities. [ @ 92 ] Learn more [ 91 ]
+                                              [ 93 ] Apple is a drug - free workplace. [ @ 95 ] Learn more [ 94 ]
+
+                                              [ @ 96 ] [ 97 ] Careers at Apple        [ 98 ] Careers at Apple
+
+                                              [ 99 ] ] Shop and Learn                [ 118 ] Account [ $ 119 ] Account +    [ 134 ] Apple Store                    [ 147 ] For Business                   [ 165 ] Apple Values
+                                              [ $ 100 ] Shop and Learn +                                                    [ $ 135 ] Apple Store +                [ $ 148 ] For Business +               [ $ 166 ] Apple Values +
+                                                                                     [ @ 120 ] Manage Your Apple ID
+                                              [ @ 101 ] Store                                       Store Account           [ @ 136 ] Find a Store                 [ @ 149 ] Apple and Business           [ @ 167 ] Accessibility
+                                                                                     [ @ 121 ] Apple
+                                              [ @ 102 ] Mac                                                                 [ @ 137 ] Genius Bar                   [ @ 150 ] Shop for Business            [ @ 168 ] Education
+                                                                                     [ @ 122 ] iCloud.com
+                                              [ @ 103 ] iPad                                                                [ @ 138 ] Today at Apple                                                      [ @ 169 ] Environment
+                                                                                                                                                                   [ 151 ] For Education
+                                              [ @ 104 ] iPhone                       [ 123 ] ] Entertainment                [ @ 139 ] Apple Camp                   [ $ 152 ] For Education +              [ @ 170 ] Inclusion and Diversity
+                                                                                     [ $ 124 ] Entertainment +
+                                              [ @ 105 ] Watch                                                               [ @ 140 ] Apple Store App              [ @ 153 ] Apple and Education          [ @ 171 ] Privacy
+                                                                                     [ @ 125 ] Apple One
+                                              [ @ 106 ] Vision                                                              [ @ 141 ] Certified Refurbished        [ @ 154 ] Shop for K - 12              [ @ 172 ] Racial Equity and
+                                                                                     [ @ 126 ] Apple TV +                                                                                                 Justice
+                                              [ @ 107 ] AirPods                                                             [ @ 142 ] Apple Trade In               [ @ 155 ] Shop for College
+                                              @ 108 ] TV & Home                      [ @ 127 ] Apple Music                                                                                                [ @ 173 ] Supplier Responsibility
+                                              [                                                                             [ @ 143 ] Financing
+                                                                                     [ @ 128 ] Apple Arcade                                                        [ 156 ] For Healthcare
+                                              [ @ 109 ] AirTag                                                              [ @ 144 ] Carrier Deals at Apple       [ $ 157 ] For Healthcare +              [ 174 ] About Apple
+                                                                                     [ @ 129 ] Apple Fitness +                                                                                            [ $ 175 ] About Apple +
+                                              [ @ 110 ] Accessories                                                         [ @ 145 ] Order Status
+                                                                                     [ @ 130 ] Apple News +                                                        [ @ 158 ] Apple in Healthcare
+                                              [ @ 111 ] Gift Cards                                                          [ @ 146 ] Shopping Help                                                       [ @ 176 ] Newsroom
+                                                                                     [ @ 131 ] Apple Podcasts                                                      [ @ 159 ] Health on Apple Watch
+                                                                                                                                                                                                          [ @ 177 ] Apple Leadership
+                                              [ 112 ] Apple Wallet                   [ @ 132 ] Apple Books                                                         [ @ 160 ] Health Records on
+                                              $ 113 ] Apple Wallet +                                                                                               iPhone                                 [ @ 178 ] Career Opportunities
+                                              [                                             ] App Store
+                                                                                     [ @ 133                                                                                                              [ @ 179 ] Investors
+                                              [ @ 114 ] Wallet                                                                                                     [ 161 ] For Government
+                                               @ 115 ] Apple Card                                                                                                                                         [ @ 180 ] Ethics & Compliance
+                                              [                                                                                                                    [ $ 162 ] For Government +
+                                              [ @ 116 ] Apple                                                                                                                                             [ @ 181 ] Events
+                                                             Pay                                                                                                   [ @ 163 ] Shop for Government
+                                              [ @ 117 ] Apple Cash                                                                                                 [ @ 164 ] Shop for Veterans and        [ @ 182 ] Contact Apple
+                                                                                                                                                                   Military
+
+                                              [ 183 ] More ways to shop: [ @ 186 ] ] Find an Apple Store [ 184 ] or [ @ 187 ] other retailer [ 185 ] ] near you. [ 188 ] Or call 1-800 - MY - APPLE.
+                                              [ 190 ] Copyright © 2023 Apple Inc. All rights reserved.        [ @ 191 ] Privacy Policy                                                                                    [ @ 189 ] United States
+                                                                                                              [ @ 192 ] Terms of Use
+                                                                                                              [ @ 193 ] Sales and Refunds
+                                                                                                              [ @ 194 ] Legal
+                                                                                                              [ @ 195 ] Site Map
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 2447

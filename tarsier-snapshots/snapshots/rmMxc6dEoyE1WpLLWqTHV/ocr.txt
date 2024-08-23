@@ -1,201 +1,230 @@
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**[@2] Toronto, ON**
-                                                 **[@5] Black Friday [@6] Deals [@7] Forums [@8] Flyers [@9] Deal Alerts [@10] News [@11] Financial Tools**               **[@4] Login / Create an account**
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 2 ] Toronto, ON [ # 0 ]           [ $ 1 ]
+                                                                                                                                                      Search RedFlagDeals
+                  **[ 3 ]** **RedFlagDeal**   **FRID**
+                                  [ @ 5 ] BLACK Canadian FRIDAY [ @ 6 ] DEALS [ @ 7 ] FORUMS [ @ 8 ] FLYERS [ @ 9 ] DEAL ALERTS [ @ 10 ] NEWS [ @ 11 ] FINA TOOLSeate an account ☐
+                                    Uniquely
+                                                                                                                                              [ @ 41
 
 
 
-      **[@12] Forums [@13] Rules [@14] Deal Alerts**                                                                                                                                  [@15] Search All Forums
- **[@16] Forums [@17] Computers & Electronics** **[18] 1366 vs 1150?**
-                                    **[19] 1366 vs 1150?**
-                                    [20] Last Updated: [21] Sep 28th, 2013 4:33 pm
-                                    [22] Tags: [23] None
+   [ @ 12 ] Forums   [ @ 13 ] Rules [ @ 14 ] Deal Alerts NEW                                                                                                             [ @ 15 ] Search All Forums
+ [ @ 16 ] Forums [ @ 17 ] Computers & Electronics [ 18 ] 1366 vs 1150?
 
-                                                                                                                                   [@26] Search this thread
-    [27] Sep 26th, 2013 11:14 pm                                                                                                                [@28] 1
-    [@29] eagleservice [30] [36] 1366 vs 1150?
-    [OP]
-    [31] Member                     [37] Ok so i just got this i7 950 cpu given to me as the motherboard was inoperable im rmaing
-                                    the motherboard
-                                    [38] what would be faster a newer 1150 or this is this faster then core i5?                                         **[256] Trending Hot Deals**
-                                                                                                                                                          [@257] [Fido] Fido 30 GB for 29 or 50 GB
-                                                                                                                                                          for  34
-      [33] Aug 25, 2013                                                                                                                                    [258] +82 [259] 594 comments
-      [34] 257 posts
-      [35] Sudbury                                                                                                                                        [@260] [Samsung] Samsung S23 Ultra and
-                                                                                                                       [@39] Reply [@40] Reply with quote Flip5 - Best Black Friday Deal - 0
-                                                                                                                                                          Interest - Cheaper with
-                                      [41] Advertisement                                                                                                  Student/employee plan and Trade-In
-                                        [42] RedFlagDeals - Deals Roundup - Nov 22nd                                                                       [261] +38 [262] 265 comments
-                                                                                                                                                          [@263] [Purdy's] FREE 3 pack of Purdy's
-                                                                                                                                                          Hedgehogs when you send a text
-                                                                                                                                                           [264] +183 [265] 72 comments
-                                                                                                                                                          [@266] [Acanac] 30/mo 150Mbps, 40/mo
-                                                                                                                                                          500Mbps, 55/mo for 1Gbps for 2
-                                                                                                                                                          years, no contract - Fibre Internet in
-                                                                                                                                                          Ontario and Quebec YMMV
-                                                                                                                                                           [267] +110 [268] 379 comments
-    [43] Sep 26th, 2013 11:26 pm                                                                                                                [@44] 2 [@269] [Samsung] [YMMV] 100 eVoucher
-    [@45] Mark77                    http://cpubenchmark.net/high_end_cpus.html                                                                            for Galaxy devices
-    [46] Banned                                                                                                                                            [270] +15 [271] 50 comments
-                                    [52] According to the chart, you'd be better off with a new Core i5 on the 1150 platform.
-                                    [53] 1366 motherboards aren't cheap in the 'used' market. And certainly you'd be able to
-                                    achieve at least [56] some [54] recovery for on the i7 CPU by selling it. So I personally feel
-                                    you'd be better off pursuing a new platform based on a cheaper modern motherboard. Energy
-                                    consumption should be less as well, and you'd get benefits like SATA-3 support, PCI-E 3.0
-      [48] Feb 15, 2008             support, etc..
-      [49] 26318 posts
-      [50] 3238 upvotes                   TodayHello [58] wrote: [57] ...The Banks are smarter than you - they have floors
-      [51] Calgary                        full of people whose job it is to read Mark77 posts...
-                                                                                                                       [@62] Reply [@63] Reply with quote
-    [64] Sep 26th, 2013 11:28 pm                                                                                                                [@65] 3
-    [@66] Mark77                    [73] Err, wait, you're RMA'ing the motherboard and get a free replacement?
-    [67] Banned
-                                    [74] Then you may as well throw it back together and run it for a while. Its not dramatically
-                                    slower for most desktop or gaming purposes than the modern stuff. Get yourself a nice SSD
-                                    and you should be good for a few more years unless you're a serious video editor or high-end
-                                    gamer. In which case, you probably should be comparing against a modern i7 instead.
-                                          TodayHello [76] wrote: [75] ...The Banks are smarter than you - they have floors
-      [69] Feb 15, 2008                   full of people whose job it is to read Mark77 posts...
-      [70] 26318 posts
-      [71] 3238 upvotes
-      [72] Calgary                                                                                                     [@80] Reply [@81] Reply with quote
-    [82] Sep 27th, 2013 10:25 am                                                                                                                [@83] 4
-    [@84] crowTrobot                [91] I'd keep the i7-950 for now. Not worth it, especially considering Haswell retail overclocks
-    [85] Deal Addict                like garbage. The upside of going with 1150 is that it uses a lot less power, has integrated
-                                    graphics so you can still use it just in case your video card dies, new CPUs support newer
-                                    instructions sets for some programs that can utilize it, native USB3 and SATA6, and PCI-E 3.0.
-                                    [92] Most likely your X58 motherboard has USB3 and SATA6 functionality already anyway via
-                                    3rd party (not really any worse than native Intel, as it can be controller dependent specially
-                                    with USB 3) and PCI-E 3.0 advantage is marketing gimmick right now when it comes to the
-      [87] Jan 21, 2010             crop of current video cards as the lanes are not exactly bottlenecked.
-      [88] 3367 posts
-      [89] 129 upvotes
-      [90] Scarborough, ON                                                                                             [@94] Reply [@95] Reply with quote
-    [96] Sep 27th, 2013 10:53 am                                                                                                                [@97] 5
-    [@98] Mark77
-    [99] Banned                          crowTrobot [107] wrote:
-                                         [106] I'd keep the i7-950 for now. Not worth it, especially considering Haswell retail
-                                         overclocks like garbage.
-                                    [105] Any i5 or i7 Haswell chip, even without any overclocking, will beat the old i7 handsomely.
-      [101] Feb 15, 2008                  TodayHello [111] wrote: [110] ...The Banks are smarter than you - they have floors
-      [102] 26318 posts                   full of people whose job it is to read Mark77 posts...
-      [103] 3238 upvotes
-      [104] Calgary                                                                                                    [@115] Reply [@116] Reply with quote
-    [117] Sep 27th, 2013 11:03 am                                                                                                               [@118] 6
-    [@119] crowTrobot
-    [120] Deal Addict                    Mark77 [129] wrote:
-                                         [128] Any i5 or i7 Haswell chip, even without any overclocking, will beat the old i7
-                                         handsomely.
-                                    [126] Not quite: http://www.anandtech.com/bench/product/100? vs 837
-      [122] Jan 21, 2010            [127] Surely not buying new mobo + CPU worth it.
-      [123] 3367 posts
-      [124] 129 upvotes
-      [125] Scarborough,
-    ON                                                                                                                 [@134] Reply [@135] Reply with quote
-    [136] Sep 27th, 2013 11:56 am                                                                                                               [@137] 7
-    [@138] infamouskid              [145] if hes getting a mobo replacement i would stick with what he has.
-    [139] Banned                    [146] there is no reason to upgrade really unless there is something he cannot run.
+     [ @ 24 ]    [ @ 25 ]      [ 19 ] 1366 vs 1150?
+                              [ 20 ] Last Updated: [ 21 ] Sep 28th, 2013 4:33 pm
+                              [ 22 ] Tags [ 23 ] None
 
+                                                                                                                               [ @ 26 ] Search this thread
+   [ 27 ] Sep 26th, 2013 11:14 pm                                                                                                        [ @ 28 ] # 1
+   [ @ 29 ] eagles ... [ 30 ] ] [ 36 ] 1366 vs 1150?
+   [ OP ]
+   [ 31 ] Member              [ 37 ] Ok so i just got this i7 950 cpu given to me as the motherboard was inoperable im rmaing the motherboard
+                               [ 38 ] what would be faster a newer 1150 or this is this faster then core i5?
+   [ @ 32 ]                                                                                                                                            257 ]                 HOT DEALS
+                                                                                                                                                      [      TRENDING
 
+                                                                                                                                                        [ @ 258 ] [ Fido ] Fido 30 GB for $ 29 or
+                                                                                                                                                        50 GB for $ 34
+     [ 33 ] Aug 25, 2013                                                                                                                                 [ 259 ] +82 [ 260 ] 594 comments
+   ☐ [ 34 ] 257 posts
+     [ 35 ] Sudbury                                                                                             [ @ 39 ] Reply [ @ 40 ] Reply with quote [ @ 261 ] [ Samsung ] Samsung S23
+                                                                                                                                                        Ultra and Flip5 Best Black Friday
+                                                                                                                                                       Deal -0 % Interest Cheaper with
+                                           [ 41 ] Advertisement                                                                                                / employee plan and Trade - In
+                                                                                                                                                       Student
+                                             [ 43 ] RedFlagDeals - Deals Roundup - Nov 22nd       primis                                                 [ 262 ] +38 [ 263 ] 265 comments
+                                                                                                                                                        [ @ 264 ] [ Purdy's ] FREE 3 pack of
+                                                                                                                                                        Purdy's Hedgehogs when you send a
+                                                                                                                                                       text
+                                                          **RedFlagDeals**                                                                               [ 265 ] +183 [ 266 ] 72 comments
+                                                                            Uniquely Canadian
+                                                                                                                                                        [ @ 267 ] [ Acanac ] $ 30 / mo 150Mbps,
+                                                                                                                                                        $ 40 / mo 500Mbps, $ 55 / mo for 1Gbps
+                                                                                                                                                       for 2 years, no contract Fibre
+                                                                       [ 42 ] 10                 CC                                                    Internet in Ontario and Quebec
+                                                                                                                                                       YMMV
+   [ 44 ] Sep 26th, 2013 11:26 pm                                                                                                        [ @ 45 ] # 2    [ 268 ] +110 [ 269 ] 379 comments
+   [ @ 46 ] Mark77            [ @ 56 ] http://cpubenchmark.net/high_end_cpus.html
+   [ 47 ] Banned                                                                                                                                        [ @ 270 ] [ Samsung ] [ YMMV ] $ 100
+                                                                                                                                                       eVoucher for Galaxy devices
+                              [ 53 ] According to the chart, you'd be better off with a new Core i5 on the 1150 platform.
+   [ @ 48 ]                                                                                                                                              [ 271 ] +15 [ 272 ] 50 comments
+   GREETINGS FROM             [ 54 ] 1366 motherboards aren't cheap in the' used' market. And certainly you'd be able to achieve at least
+    TEEGEEACK                 [ 57 ] some [ 55 ] recovery for on the i7 CPU by selling it. So I personally feel you'd be better off pursuing a new platform
+                              based on a cheaper modern motherboard. Energy consumption should be less as well, and you'd get benefits like
+                              SATA - 3 support, PCI - E 3.0 support, etc ..
+     [ 49 ] ] Feb 15, 2008
+     [ 50 ] 26318 posts             [ @ 60 ] Today Hello [ 59 ] wrote: [ @ 61 ] 1 [ 58 ] ... The Banks are smarter than you - they have floors full of people
+     [ 51 ] 3238 upvotes            whose job it is to read Mark77 posts ...
+     [ 52 ] Calgary
+                              [ @ 62 ]                                                                          [ @ 63 ] Reply [ @ 64 ] Reply with quote
+   [ 65 ] Sep 26th, 2013 11:28 pm                                                                                                        [ @ 66 ] # 3
+   [ @ 67 ] Mark77            [ 74 ] Err, wait, you're RMA'ing the motherboard and get a free replacement?
+   [ 68 ] Banned
+                              [ 75 ] ] Then you may as well throw it back together and run it for a while. Its not dramatically slower for most desktop
+   [ @ 69 ]                   or gaming purposes than the modern stuff. Get yourself a nice SSD and you should be good for a few more years
+   GREETINGS FROM             unless you're a serious video editor or high - end gamer. In which case, you probably should be comparing against a
+    TEEGEEACK                 modern i7 instead.
 
-      [141] Oct 15, 2005
-      [142] 12954 posts
-      [143] 1617 upvotes
-      [144] North York                                                                                                 [@148] Reply [@149] Reply with quote
-    [150] Sep 27th, 2013 11:59 am                                                                                                               [@151] 8
-    [@152] hainer36                 http://www.legitreviews.com/upgrading-f ... 4770k_2247
-    [153] Deal Addict
-                                    [158] Thats from a S775 Q6600 to a 4770k, I would have kept my i7-920/X58 Sabretooth rig
-                                    for a few more years easily, if I hadn't come across an insane deal on a xeon 8C/16T monster
-
-
-      [155] May 31, 2005
-      [156] 1320 posts
-      [157] 154 upvotes                                                                                                [@161] Reply [@162] Reply with quote
-    [163] Sep 27th, 2013 4:57 pm                                                                                                                [@164] 9
-    [@165] Dinujan                  [172] I haven't seen any notable differences from when I upgraded from my 950/ASUS
-    [166] Deal Fanatic              EXTREME II to my 3570k/ASUS Maximus V.
-
-                                    [173] The 950 BLCK goes way higher than any the new ones(my 950 operated near 190) and
-                                    overclocked it comes pretty close to my LGA2011, LGA1150 and LGA1155 CPUs. With that said,
-                                    I mainly surf the web, and the only time I max my CPU is with 7Zip
-      [168] Sep 21, 2012
-      [169] 5065 posts
-      [170] 586 upvotes
-      [171] Mississauga                                                                                                [@175] Reply [@176] Reply with quote
-    [177] Sep 27th, 2013 9:08 pm                                                                                                              [@178] 10
-    [@179] balance                  [184] still running my i7 920 ))))
-    [180] Deal Addict
-      [181] Sep 11, 2007
-      [182] 4497 posts
-      [183] 725 upvotes                                                                                                [@186] Reply [@187] Reply with quote
-    [188] Sep 28th, 2013 8:31 am                                                                                                              [@189] 11
-    [@190] flyz
-    [191] Deal Fanatic                   balance [198] wrote:
-      [192] Oct 1, 2004
-      [193] 5854 posts                   [197] still running my i7 920 ))))
-      [194] 266 upvotes
-                                    [195] Same with my L5640. Even though the multipliers suck and only does 18x. Had it run at
-                                    212BCLK but that required so much voltage, I'd settle for 3.6GHz. Used a 990X purely on GHz
-                                    basis for comparison.
-                                    http://www.anandtech.com/bench/product/444? vs 836
-                                    [196] Would be nice to get but it's not worth the 800 difference.
-                                    [202] signature edited for rule violations
-                                                                                                                       [@204] Reply [@205] Reply with quote
-    [206] Sep 28th, 2013 10:11 am                                                                                                             [@207] 12
-    [@208] THEDARKLORD              [214] Running an i5-750, Never been happier, only thing i miss is the USB 3.0 (micro ATX so no
-    [209] Sr. Member                expansion available)
-      [210] Jan 14, 2013            [215] Is it worth it to pay about 400 to upgrade? No, all the games are running at ultra with
-      [211] 853 posts               no hiccups
-      [212] 99 upvotes
-      [213] Gatineau                [216] The Biggest LIE I tell myself, I don't need to write that down, I'll remember it.
-                                                                                                                       [@218] Reply [@219] Reply with quote
-    [220] Sep 28th, 2013 2:41 pm                                                                                                              [@221] 13
-    [@222] Keas                     [229] what if op doesnt overclock? is the 950 still worth it over an i5 Haswell?
-    [223] Deal Addict
-                                    [230] Poor Grammar and being long winded don't fit well together, Oh well.
+                                    [ @ 78 ] TodayHello [ 77 ] wrote: [ @ 79 ] [ 76 ] ... The Banks are smarter than you - they have floors full of people
+     [ 70 ] Feb 15, 2008           whose job it is to read Mark77 posts ...
+     [ 71 ] 26318 posts
+     [ 72 ] 3238 upvotes
+     [ 73 ] Calgary           [ @ 80 ]                                                                          [ @ 81 ] Reply [ @ 82 ] Reply with quote
+   [ 83 ] Sep 27th, 2013 10:25 am                                                                                                        [ @ 84 ] # 4
+   [ @ 85 ] crowTrobot        [ 92 ] I'd keep the i7-950 for now. Not worth it, especially considering Haswell retail overclocks like garbage. The upside
+   [ 86 ] Deal Addict         of going with 1150 is that it uses a lot less power, has integrated graphics so you can still use it just in case your video
+                              card dies, new CPUs support newer instructions sets for some programs that can utilize it, native USB3 and SATA6,
+   [ @ 87 ]  7                and PCI - E 3.0.
+                              [ 93 ] Most likely your X58 motherboard has USB3 and SATA6 functionality already anyway via 3rd party ( not really any
+                              worse than native Intel, as it can be controller dependent specially with USB 3 ) and PCI - E 3.0 advantage is marketing
+                              gimmick right now when it comes to the crop of current video cards as the lanes are not exactly bottlenecked.
+     [ 88 ] Jan 21, 2010
+     [ 89 ] 3367 posts
+     [ 90 ] 129 upvotes
+     [ 91 ] Scarborough, ON   [ @ 94 ]                                                                          [ @ 95 ] Reply [ @ 96 ] Reply with quote
+   [ 97 ] Sep 27th, 2013 10:53 am                                                                                                        [ @ 98 ] # 5
+   [ @ 99 ] Mark77
+   [ 100 ] Banned                 [ @ 109 ] crowTrobot [ 108 ] wrote:
+   [ @ 101 ]                      [ 107 ] I'd keep the i7-950 for now. Not worth it, especially considering Haswell retail overclocks like garbage.
+   GREETINGS FROM
+    TEEGEEACK                 [ 106 ] Any i5 or i7 Haswell chip, even without any overclocking, will beat the old i7 handsomely.
+                                    [ @ 113 ] Today Hello [ 112 ] wrote: [ @ 114 ] [ 111 ] ... The Banks are smarter than you - they have floors full of
+     [ 102 ] Feb 15, 2008           people whose job it is to read Mark77 posts ...
+     [ 103 ] 26318 posts
+     [ 104 ] 3238 upvotes
+     [ 105 ] Calgary          [ @ 115 ]                                                                        [ @ 116 ] Reply [ @ 117 ] Reply with quote
+   [ 118 ] Sep 27th, 2013 11:03 am                                                                                                      [ @ 119 ] # 6
+   [ @ 120 ] crowTrobot
+   [ 121 ] Deal Addict             @ 131 ] Mark77 [ 130 ] wrote:
+                                  [
+   [ @ 122 ]
+                                   [ 129 ] Any 15 or i7 Haswell chip, even without any overclocking, will beat the old i7 handsomely.
+                              [ 127 ] Not quite: [ @ 133 ] http://www.anandtech.com/bench/product/100?vs=837
+                              [ 128 ] Surely not buying new mobo + CPU worth it.
+     [ 123 ] Jan 21, 2010
+     [ 124 ] 3367 posts
+     [ 125 ] 129 upvotes
+     [ 126 ] Scarborough,
+   ON                                                                                                          [ @ 135 ] Reply [ @ 136 ] Reply with quote
+                              [ @ 134 ]
+   [ 137 ] Sep 27th, 2013 11:56 am                                                                                                      [ @ 138 ] # 7
+   [ @ 139 ] infamouskid      [ 146 ] if hes getting a mobo replacement i would stick with what he has.
+   [ 140 ] Banned             [ 147 ] there is no reason to upgrade really unless there is something he cannot run.
+   [ @ 141 ]
 
 
-      [225] Feb 18, 2007
-      [226] 4114 posts
-      [227] 299 upvotes
-      [228] New
-    Westminster                                                                                                        [@232] Reply [@233] Reply with quote
-    [234] Sep 28th, 2013 4:33 pm                                                                                                              [@235] 14
-    [@236] THEDARKLORD
-    [237] Sr. Member                     Keas [242] wrote:
-      [238] Jan 14, 2013
-      [239] 853 posts                    [245] what if op doesnt overclock? is the 950 still worth it over an i5 Haswell?
-      [240] 99 upvotes
-      [241] Gatineau
-                                    [246] overclocking which is 99        safe if you read all the words vs paying 400 for a non-major
-                                    / noticeable performance if we're talking about games
-                                    [247] The Biggest LIE I tell myself, I don't need to write that down, I'll remember it.
-                                                                                                                       [@249] Reply [@250] Reply with quote
-                                                                                                     **[$252] Jump to Forum [$253] Go [@251] Top**
-
-    [254] Thread Information
-    [255] There is currently 1 user viewing this thread. (0 members and 1 guest)
+     [ 142 ] Oct 15, 2005
+     [ 143 ] 12954 posts
+     [ 144 ] 1617 upvotes
+     [ 145 ] North York                                                                                        [ @ 149 ] Reply [ @ 150 ] Reply with quote
+                              [ @ 148 ]
+   [ 151 ] Sep 27th, 2013 11:59 am                                                                                                      [ @ 152 ] # 8
+   [ @ 153 ] hainer36         [ @ 160 ] http: //www.legitreviews.com/upgrading-f ... 4770k_2247
+   [ 154 ] Deal Addict
+   [ @ 155 ] avatar           [ 159 ] ] Thats from a S775 Q6600 to a 4770k, I would have kept my i7-920 / X58 Sabretooth rig for a few more years
+                              easily, if I hadn't come across an insane deal on a xeon 8C / 16T monster
 
 
+     [ 156 ] May 31, 2005
+     [ 157 ] 1320 posts
+     [ 158 ] 154 upvotes      [ @ 161 ]                                                                        [ @ 162 ] Reply [ @ 163 ] Reply with quote
+   [ 164 ] Sep 27th, 2013 4:57 pm                                                                                                       [ @ 165 ] # 9
+   [ @ 166 ] Dinujan          [ 173 ] I haven't seen any notable differences from when I upgraded from my 950 / ASUS EXTREME II to my 3570k / ASUS
+   [ 167 ] Deal Fanatic       Maximus V.
+   [ @ 168 ]
+                              [ 174 ] ] The 950 BLCK goes way higher than any the new ones ( my 950 operated near 190 ) and overclocked it comes
+                              pretty close to my LGA2011, LGA1150 and LGA1155 CPUs. With that said, I mainly surf the web, and the only time I
+   BILLY TALENT               max my CPU is with 7Zip
+     [ 169 ] Sep 21, 2012
+     [ 170 ] 5065 posts
+     [ 171 ] 586 upvotes
+     [ 172 ] Mississauga       @ 175 ]                                                                         [ @ 176 ] Reply @ 177 ] Reply with quote
+                              [
+   [ 178 ] Sep 27th, 2013 9:08 pm                                                                                                      [ @ 179 ] # 10
+   [ @ 180 ] balance          [ 185 ] still running my i7 920 = ) ) ) )
+   [ 181 ] Deal Addict
+     [ 182 ] Sep 11, 2007
+     [ 183 ] 4497 posts
+     [ 184 ] 725 upvotes      [ @ 186 ]                                                                        [ @ 187 ] Reply [ @ 188 ] Reply with quote
+   [ 189 ] Sep 28th, 2013 8:31 am                                                                                                      [ @ 190 ] # 11
+   [ @ 191 ] flyz
+   [ 192 ] Deal Fanatic           [ @ 200 ] balance [ 199 ] wrote:
+     [ 193 ] Oct 1, 2004
+     [ 194 ] 5854 posts           [ 198 ] still running my i7 920 = ) ) ) )
+     [ 195 ] 266 upvotes
+                              [ 196 ] Same with my L5640. Even though the multipliers suck and only does 18x. Had it run at 212BCLK but that
+                              required so much voltage, I'd settle for 3.6GHz. Used a 990X purely on GHz basis for comparison.
+                              [ @ 202 ] http://www.anandtech.com/bench/product/444?vs=836
+                              [ 197 ] Would be nice to get but it's not worth the $ 800 difference.
+                              [ 203 ] signature edited for rule violations
+                              [ @ 204 ]                                                                        [ @ 205 ] Reply [ @ 206 ] Reply with quote
+   [ 207 ] Sep 28th, 2013 10:11 am                                                                                                     [ @ 208 ] # 12
+   [ @ 209 ] THEDARKL ...     [ 215 ] Running an i5-750, Never been happier, only thing i miss is the USB 3.0 ( micro ATX so no expansion available )
+   [ 210 ] Sr. Member         [ 216 ] Is it worth it to pay about $ 400 to upgrade? No, all the games are running at ultra with no hiccups
+     [ 211 ] Jan 14, 2013
+     [ 212 ] 853 posts        [ 217 ] The Biggest LIE I tell myself, I don't need to write that down, I'll remember it.
+     [ 213 ] 99 upvotes
+     [ 214 ] Gatineau          @ 218 ]                                                                         [ @ 219 ] Reply [ @ 220 ] Reply with quote
+                              [
+   [ 221 ] Sep 28th, 2013 2:41 pm                                                                                                      [ @ 222 ] # 13
+   [ @ 223 ] Keas             [ 230 ] what if op doesnt overclock? is the 950 still worth it over an i5 Haswell?
+   [ 224 ] Deal Addict
+   [ @ 225 ]                  [ 231 ] Poor Grammar and being long winded don't fit well together, Oh well.
 
-        [278] Advertisers                                               [290] Quick links                                                [303] Popular Merchants
-        [@279] Advertise on RedFlagDeals.com                            [@291] Deals                                                     [@304] Bed Bath and Beyond
-                                                                        [@292] Financial                                                 [@305] Best Buy
-        [280] About us                                                  [@293] Flyers                                                    [@306] Boston Pizza
-        [@281] About RedFlagDeals.com                                   [@294] Forums                                                    [@307] Canadian Tire
-        [@282] Contact us                                               [@295] Reviews                                                   [@308] Costco
-        [@283] Media Kit                                                [@296] Black Friday 2023                                         [@309] Dairy Queen
-        [@284] Latest News                                              [@297] Boxing Day 2023                                           [@310] Staples
-        [@285] Careers                                                                                                                   [@311] Subway
-        [@286] Follow us on Twitter                                     [298] Mobile, tools and more                                     [@312] Swiss Chalet
-        [@287] Facebook fan page                                        [@299] RedFlagDeals.com Mobile App                               [@313] more coupons & deals from top stores
-        [@288] Terms and conditions                                     [@300] Tools
-        [@289] Privacy policy                                           [@301] RSS feeds
-                                                                        [@302] Newsletter
 
-                                                                                         [314] All times are [315] UTC-05:00
-                                                                            [316] Powered by phpBB [317] Forum Software phpBB Limited
-                                                      [319] Copyright 2000 2023 RedFlagDeals.com. All rights reserved. ( Terms of Use, Privacy Policy, Do Not Sell My Data )
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 3412
+     [ 226 ] Feb 18, 2007
+     [ 227 ] 4114 posts
+     [ 228 ] 299 upvotes
+     [ 229 ] New
+   Westminster                       ]                                                                         [ @ 233 ] Reply [ @ 234 ] Reply with quote
+                              [ @ 232
+   [ 235 ] Sep 28th, 2013 4:33 pm                                                                                                      [ @ 236 ] # 14
+   [ @ 237 ] THEDARKL ...
+   [ 238 ] Sr. Member             [ @ 244 ] Keas [ 243 ] wrote:
+     [ 239 ] Jan 14, 2013
+     [ 240 ] 853 posts            [ 246 ] what if op doesnt overclock? is the 950 still worth it over an i5 Haswell?
+     [ 241 ] 99 upvotes
+     [ 242 ] Gatineau
+                              [ 247 ] overclocking which is 99 % safe if you read all the words vs paying $ 400 for a non - major / noticeable
+                              performance if we're talking about games
+                              [ 248 ] The Biggest LIE I tell myself, I don't need to write that down, I'll remember it.
+                              [ @ 249 ]                                                                        [ @ 250 ] Reply [ @ 251 ] Reply with quote
+
+                                                                                                 Jump [ $ 253 ] um        [ $ 254 ] Go [ @ 252 ] Top
+
+   [ 255 ] Thread Information
+   [ 256 ] There is currently 1 user viewing this thread. ( 0 members and 1 guest )
+
+
+
+
+
+
+
+
+                                                                                                                                      [ @ 273 ] [ @ 274 ] [ @ 275 ] [ @ 276 ] [ @ 277 ] [ @ 278 ]
+
+
+
+                  [ 279 ] Advertisers                                   [ 291 ] Quick links                                    [ 304 ] Popular Merchants
+                  [ @ 280 ] Advertise on RedFlagDeals.com               [ @ 292 ] Deals                                       [ @ 305 ] Bed Bath and Beyond!
+                                                                        [ @ 293 ] Financial                                   [ @ 306 ] Best Buy
+                  [ 281 ] About us                                      [ @ 294 ] Flyers                                      [ @ 307 ] Boston Pizza
+                  [ @ 282 ] About RedFlagDeals.com                      [ @ 295 ] Forums                                       @ 3081 Canadian Tire
+                  @ 283 ] Contact us                                    [ @ 296 ] Reviews                                     [ @ 309 ] Costco
+                  [ @ 284 ] Media Kit                                   [ @ 297 ] Black Friday 2023                            @ 3101 Dairy Queen
+                  [ @ 285 ] Latest News                                 [ @ 298 ] Boxing Day 2023                             [ @ 311 ] Staples
+                  [ @ 286 ] Careers                                                                                            [ @ 312 ] Subway
+                  [ @ 287 ] Follow us on Twitter                        [ 299 ] Mobile, tools and more                         @ 313 ] Swiss Chalet
+                  [ @ 288 ] Facebook fan page                           [ @ 300 ] RedFlagDeals.com Mobile App                  [ @ 314 ] more coupons & deals from top stores.
+                  [ @ 289 ] Terms and conditions                        [ @ 301 ] Tools
+                  [ @ 290 ] Privacy policy                              [ @ 302 ] RSS feeds
+                                                                        [ @ 303 ] Newsletter
+
+                                                                                      [ 315 ] All times are [ 316 ] UTC - 05: 00
+                                                                        [ 317 ] Powered by [ @ 319 ] phpBB [ 318 ] ® Forum Software © phpBB Limited
+                                          [ 320 ] Copyright © 2000-2023 RedFlagDeals.com. All rights reserved. ( [ @ 323 ] ] Terms of Use [ 321 ], [ @ 324 ] Privacy Policy [ 325 ]. [ @ 326 ] Do Not Sell My Data [ 322 ] )
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 4225

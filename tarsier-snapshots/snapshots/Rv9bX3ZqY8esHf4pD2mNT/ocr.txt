@@ -1,96 +1,105 @@
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[@1] Hacker News [@2] new [@3] past [@4] comments [@5] ask [@6] show [@7] jobs [@8] submit                                               [@9] login
-                [10] 1. [@12] I've built my first successful side project, and I hate it
-                        [@13] switowski.com
-                        [15] 1008 points [14] by switowski 13 hours ago hide 296 comments
-                [20] 2. [@22] Bioaccumulation of Microplastics in Decedent Human Brains
-                        [@23] nih.gov
-                        [25] 71 points [24] by apsec112 4 hours ago hide 34 comments
-                [30] 3. [@32] Py5, a Python version of Processing for your creative coding projects
-                        [@33] py5coding.org
-                        [35] 76 points [34] by hx2a 6 hours ago hide 26 comments
-                [40] 4. [@42] Breaking down a record-setting day on the Texas grid
-                        [@43] gridstatus.io
-                        [45] 110 points [44] by kmax12 6 hours ago hide 34 comments
-                [50] 5. [@52] Ren'Py
-                        [@53] github.com/renpy
-                        [55] 17 points [54] by hyperific 2 hours ago hide 3 comments
-                [60] 6. [@62] Do low-level optimizations matter? Faster quicksort with cmov (2020)
-                        [@63] cantrip.org
-                        [65] 59 points [64] by fanf2 5 hours ago hide 20 comments
-                [70] 7. [@72] How to build a 50k ton forging press
-                        [@73] construction-physics.com
-                        [75] 243 points [74] by chmaynard 12 hours ago hide 111 comments
-                [80] 8. [@82] The Euphemism Treadmill
-                        [@83] languagehat.com
-                        [85] 37 points [84] by yamrzou 2 hours ago hide 21 comments
-                [90] 9. [@92] Better Living Through Algorithms (2023)
-                        [@93] clarkesworldmagazine.com
-                        [95] 149 points [94] by RafelMri 9 hours ago hide 27 comments
-             [100] 10. [@102] Distributed Locks with Redis
-                        [@103] redis.io
-                        [105] 19 points [104] by thenewwazoo 3 hours ago hide 9 comments
-             [110] 11. [@112] Launch HN: Outerport (YC S24) Instant hot-swapping for AI model weights
-                        [114] 63 points [113] by tovacinni 9 hours ago hide 12 comments
-             [119] 12. [@121] Euclid's Proof that 2 is Irrational
-                        [@122] mathsisfun.com
-                        [124] 64 points [123] by thunderbong 5 hours ago hide 40 comments
-             [129] 13. [@131] Microsoft's latest security update has ruined dual-boot Windows and Linux PCs
-                        [@132] theverge.com
-                        [134] 37 points [133] by chaychoong 1 hour ago hide 14 comments
-             [139] 14. [@141] Turnstyle An esoteric, graphical functional language
-                        [@142] jaspervdj.be
-                        [144] 63 points [143] by JNRowe 8 hours ago hide 2 comments
-             [149] 15. [@151] I'm Tired of Fixing Customers' AI Generated Code
-                        [@152] medium.com/thetateman
-                        [154] 47 points [153] by BitWiseVibe 2 hours ago hide 12 comments
-             [159] 16. [@160] Meticulous (YC S21) is hiring to eliminate E2E UI tests
-                        [@161] 5 hours ago [@162] hide
-             [163] 17. [@165] Midjourney web experience is now open to everyone
-                        [@166] midjourney.com
-                        [168] 215 points [167] by meetpateltech 8 hours ago hide 111 comments
-             [173] 18. [@175] Show HN: Handwriter.ttf Handwriting Synthesis with Harfbuzz WASM
-                        [@176] github.com/hsfzxjy
-                        [178] 148 points [177] by hsfzxjy 13 hours ago hide 37 comments
-             [183] 19. [@185] Maps Mania: How the World Powers Itself
-                        [@186] googlemapsmania.blogspot.com
-                        [188] 15 points [187] by speckx 4 hours ago hide 1 comment
-             [193] 20. [@195] Revisiting the Classics: Jensen's Inequality (2023)
-                        [@196] francisbach.com
-                        [198] 54 points [197] by cpp_frog 9 hours ago hide 4 comments
-             [203] 21. [@205] US hospital told family their daughter had checked out when in fact she'd died
-                        [@206] theguardian.com
-                        [208] 206 points [207] by howard941 6 hours ago hide 109 comments
-             [213] 22. [@215] Google Play will no longer pay to discover vulnerabilities in Android apps
-                        [@216] androidauthority.com
-                        [218] 40 points [217] by axiomdata316 3 hours ago hide 5 comments
-             [223] 23. [@225] Rye and Uv: August Is Harvest Season for Python Packaging
-                        [@226] pocoo.org
-                        [228] 159 points [227] by keybits 14 hours ago hide 59 comments
-             [233] 24. [@235] Mathematicians prove Hawking wrong about the most extreme black holes
-                        [@236] quantamagazine.org
-                        [238] 57 points [237] by worldvoyageur 11 hours ago hide 8 comments
-             [243] 25. [@245] Self-Supervised Learning for Videos
-                        [@246] lightly.ai
-                        [248] 59 points [247] by sauravmaheshkar 11 hours ago hide 4 comments
-             [253] 26. [@255] Wardriving for a place to Live
-                        [@256] jampauchoa.substack.com
-                        [258] 13 points [257] by jampa 5 hours ago hide 4 comments
-             [263] 27. [@265] Australian government approves AAPowerLink project to export solar to Singapore
-                        [@266] pv-tech.org
-                        [268] 151 points [267] by wmstack 20 hours ago hide 213 comments
-             [273] 28. [@275] Immutable Data Structures in Qdrant
-                        [@276] qdrant.tech
-                        [278] 30 points [277] by andre-z 7 hours ago hide 4 comments
-             [283] 29. [@285] Unhygienic and referentially opaque macros with Scheme syntax-rules [pdf] (2013)
-                        [@286] okmij.org
-                        [288] 29 points [287] by fanf2 11 hours ago hide 8 comments
-             [293] 30. [@295] Electrostatic motors reach the macro scale
-                        [@296] ieee.org
-                        [298] 102 points [297] by namanyayg 14 hours ago hide 50 comments
-                        [@303] More
-                                                  [@304] Consider applying for YC's first-ever Fall batch! Applications are open till Aug 27.
-                                                             [@305] Guidelines [@306] FAQ [@307] Lists [@308] API [@309] Security [@310] Legal [@311] Apply to YC [@312] Contact
-                                                                       [313] Search:
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 1738
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 0 ]
+                   Y [ @ 1 ] Hacker News [ @ 2 ] new | [ @ 3 ] past | [ @ 4 ] comments | [ @ 5 ] ask | [ @ 6 ] show  [ @ 7 ] jobs | [ @ 8 ] submit                                                       [ @ 9 ] login
+                     [ 10 ] 1. [ @ 11 ]
+                              A    [ @ 12 ] I've built my first successful side project, and I hate it ( [ @ 13 ] switowski.com )
+                                    [ 15 ] 1008 points [ 14 ] by [ @ 16 ] switowski [ @ 17 ] 13 hours ago | [ @ 18 ] hide | [ @ 19 ] 296 comments
+                     [ 20 ] 2. [ @ 21 ]
+                                    [ @ 22 ] Bioaccumulation of Microplastics in Decedent Human Brains ( [ @ 23 ] nih.gov )
+                                    [ 25 ] 71 points [ 24 ] ] by [ @ 26 ] apsec112 [ @ 27 ] 4 hours ago | [ @ 28 ] hide | [ @ 29 ] ] 34 comments
+
+                     [ 30 ] 2 3. [ @ 31 ]
+                                    [ @ 32 ] Py5, a Python version of Processing for your creative coding projects ( @ 33 ] py5coding.org )
+                                    [ 35 ] 76 points [ 34 ] by [ @ 36 ] ] hx2a [ @ 37 ] 6 hours ago | [ @ 38 ] hide | [ @ 39 ] 26 comments
+
+                     [ 40 ] 4. 6 [ @ 41 ]
+                                    [ @ 42 ] Breaking down a record - setting day on the Texas grid ( [ @ 43 ] gridstatus.io )
+                                    [ 45 ] 110 points [ 44 ] by [ @ 46 ] kmax12 [ @ 47 ] 6 hours ago | [ @ 48 ] hide [ @ 49 ] 34 comments
+
+                     [ 50 ] 5. 2 [ @ 51 ]
+                              A     [ @ 52 ] Ren'Py ( [ @ 53 ] github.com/renpy )
+                                    [ 55 ] 17 points [ 54 ] ] by [ @ 56 ] ] hyperific [ @ 57 ] 2 hours ago | [ @ 58 ] hide | [ @ 59 ] 3 comments
+
+                     [ 60 ] 6. 2 [ @ 61 ]
+                              A     [ @ 62 ] Do low - level optimizations matter? Faster quicksort with cmov ( 2020 ) ( [ @ 63 ] cantrip.org )
+                                    [ 65 ] 59 points [ 64 ] by [ @ 66 ] fanf2 [ @ 67 ] 5 hours ago | [ @ 68 ] hide [ @ 69 ] 20 comments
+
+                     [ 70 ] 7 2 . [ @ 71 ]
+                                    [ @ 72 ] How to build a 50k ton forging press ( @ 73 ] construction-physics.com )
+                                    [ 75 ] 243 points [ 74 ] by [ @ 76 ] chmaynard [ @ 77 ] 12 hours ago | [ @ 78 ] hide | [ @ 79 ] 111 comments
+
+                     [ 80 ] 8. 2 [ @ 81 ]
+                                    [ @ 82 ] The Euphemism Treadmill ( @ 83 ] languagehat.com )
+                                    [ 85 ] 37 points [ 84 ] by [ @ 86 ] yamrzou [ @ 87 ] 2 hours ago | [ @ 88 ] hide [ @ 89 ] 21 comments
+
+                     [ 90 ] 9. 2 [ @ 91 ]
+                                   [ @ 92 ] Better Living Through Algorithms ( 2023 ) ( @ 93 ] clarkesworldmagazine.com )
+                                    [ 95 ] 149 points [ 94 ] by [ @ 96 ] Rafel Mri [ @ 97 ] 9 hours ago | [ @ 98 ] hide | @ 99 ] 27 comments
+                  [ 100 ] 10. [ @ 101 ]
+                              A    [ @ 102 ] Distributed Locks with Redis ( [ @ 103 ] redis.io )
+                                    [ 105 ] 19 points [ 104 ] by [ @ 106 ] thenewwazoo [ @ 107 ] 3 hours ago | [ @ 108 ] hide | @ 10919 comments
+                  [ 110 ] 11. [ @ 111 ]
+                              A    [ @ 112 ] Launch HN: Outerport ( YC S24 ) - Instant hot - swapping for AI model weights
+                                    [ 114 ] 63 points [ 113 ] by [ @ 115 ] tovacinni [ @ 116 ] 9 hours ago | @ 117 ] hide | [ @ 118 ] 12 comments
+                  [ 119 ] 12. [ @ 120 ]
+                              ▲     [ @ 121 ] Euclid's Proof that √2 is Irrational ( @ 122 ] mathsisfun.com )
+                                    [ 124 ] 64 points [ 123 ] by [ @ 125 ] thunderbong [ @ 126 ] 5 hours ago | [ @ 127 ] hide | [ @ 128 ] 40 comments
+                  [ 129 ] 13. [ @ 130 ]
+                              A     [ @ 131 ] Microsoft's latest security update has ruined dual - boot Windows and Linux PCs ( @ 132 ] theverge.com )
+                                    [ 134 ] 37 points [ 133 ] by [ @ 135 ] chaychoong [ @ 136 ] 1 hour ago | [ @ 137 ] hide | [ @ 138 ] 14 comments
+                  [ 139 ] 14. [ @ 140 ]
+                              A     [ @ 141 ] Turnstyle - An esoteric, graphical functional language ( @ 142 ] jaspervdj.be )
+                                    [ 144 ] 63 points [ 143 ] by [ @ 145 ] JNRowe [ @ 146 ] 8 hours ago | [ @ 147 ] hide [ @ 148 ] 2 comments
+                  [ 149 ] 15. [ @ 150 ]
+                              A    [ @ 151 ] I'm Tired of Fixing Customers' AI Generated Code ( @ 152 ] medium.com/thetateman )
+                                    [ 154 ] 47 points [ 153 ] by [ @ 155 ] BitWiseVibe [ @ 156 ] 2 hours ago | [ @ 157 ] hide | [ @ 158 ] 12 comments
+                  [ 159 ] 16.       [ @ 160 ] Meticulous ( YC S21 ) is hiring to eliminate E2E UI tests
+                                    [ @ 161 ] 5 hours ago | [ @ 162 ] hide
+                  [ 163 ] 17. [ @ 164 ]
+                              A    [ @ 165 ] Midjourney web experience is now open to everyone ( @ 166 ] midjourney.com )
+                                    [ 168 ] 215 points [ 167 ] by [ @ 169 ] meetpateltech [ @ 170 ] 8 hours ago | @ 171 ] hide | @ 172 ] 111 comments
+                  [ 173 ] 18. [ @ 174 ]
+                              A     [ @ 175 ] Show HN: Handwriter.ttf - Handwriting Synthesis with Harfbuzz WASM ( @ 176 ] github.com/hsfzxjy )
+                                    [ 178 ] 148 points [ 177 ] by [ @ 179 ] hsfzxjy [ @ 180 ] 13 hours ago | [ @ 181 ] hide [ @ 182 ] 37 comments
+                  [ 183 ] 19. [ @ 184 ]
+                                   [ @ 185 ] Maps Mania: How the World Powers Itself ( [ @ 186 ] googlemapsmania.blogspot.com )
+                                    [ 188 ] 15 points [ 187 ] ] by [ @ 189 ] speckx [ @ 190 ] 4 hours ago | [ @ 191 ] hide [ @ 192 ] 1 comment
+                  [ 193 ] 20. [ @ 194 ]
+                              A     [ @ 195 ] Revisiting the Classics: Jensen's Inequality ( 2023 ) ( @ 196 ] francisbach.com )
+                                    [ 198 ] 54 points [ 197 ] by [ @ 199 ] cpp_frog @ 200 ] 9 hours ago | [ @ 201 ] hide | [ @ 202 ] 4 comments
+                  [ 203 ] ] 21. [ @ 204 ]
+                              A    [ @ 205 ] US hospital told family their daughter had checked out when in fact she'd died ( @ 206 ] theguardian.com )
+                                    [ 208 ] 206 points [ 207 ] by [ @ 209 ] howard941 [ @ 210 ] 6 hours ago | [ @ 211 ] hide | [ @ 212 ] 109 comments
+                  [ 213 ] 22. [ @ 214 ]
+                              A    [ @ 215 ] Google Play will no longer pay to discover vulnerabilities in Android apps ( [ @ 216 ] androidauthority.com )
+                                    [ 218 ] 40 points [ 217 ] by [ @ 219 ] axiomdata316 [ @ 220 ] 3 hours ago | [ @ 221 ] hide | [ @ 222 ] 5 comments
+                  [ 223 ] 23. [ @ 224 ]
+                              A    [ @ 225 ] Rye and Uv: August Is Harvest Season for Python Packaging ( @ 226 ] pocoo.org )
+                                    [ 228 ] 159 points [ 227 ] ] by [ @ 229 ] keybits [ @ 230 ] 14 hours ago | [ @ 231 ] hide | [ @ 232 ] 59 comments
+                  [ 233 ] 24. [ @ 234 ]
+                                    [ @ 235 ] Mathematicians prove Hawking wrong about the most extreme black holes ( [ @ 236 ] quantamagazine.org )
+                                    [ 238 ] 57 points [ 237 ] by [ @ 239 ] worldvoyageur [ @ 240 ] 11 hours ago | [ @ 241 ] hide [ @ 242 ] 8 comments
+                  [ 243 ] 25. [ @ 244 ]
+                              A     [ @ 245 ] Self - Supervised Learning for Videos ( [ @ 246 ] lightly.ai )
+                                    [ 248 ] 59 points [ 247 ] by [ @ 249 ] sauravmaheshkar [ @ 250 ] 11 hours ago | [ @ 251 ] hide | [ @ 252 ] 4 comments
+                  [ 253 ] 26. [ @ 254 ]
+                              A     [ @ 255 ] Wardriving for a place to Live ( @ 256 ] jampauchoa.substack.com )
+                                    [ 258 ] 13 points [ 257 ] ] by [ @ 259 ] jampa [ @ 260 ] 5 hours ago | [ @ 261 ] hide | [ @ 262 ] 4 comments
+                  [ 263 ] 27. [ @ 264 ] ]
+                              A     [ @ 265 ] Australian government approves AAPowerLink project to export solar to Singapore ( @ 266 ] pv-tech.org )
+                                    [ 268 ] 151 points [ 267 ] by [ @ 269 ] wmstack [ @ 270 ] 20 hours ago | [ @ 271 ] hide | [ @ 272 ] 213 comments
+                  [ 273 ] 28. [ @ 274 ]
+                              A    [ @ 275 ] Immutable Data Structures in Qdrant ( [ @ 276 ] qdrant.tech )
+                                    [ 278 ] 30 points [ 277 ] by [ @ 279 ] andre - z [ @ 280 ] 7 hours ago | [ @ 281 ] hide | [ @ 282 ] 4 comments
+                  [ 283 ] 29. [ @ 284 ]
+                                    [ @ 285 ] Unhygienic and referentially opaque macros with Scheme syntax - rules [ pdf ] ( 2013 ) ( [ 286 ] okmij.org )
+                                    [ 288 ] 29 points [ 287 ] by [ @ 289 ] fanf2 [ @ 290 ] 11 hours ago | [ @ 291 ] hide [ @ 292 ] 8 comments
+                  [ 293 ] 30. [ @ 294 ]
+                              A    [ @ 295 ] Electrostatic motors reach the macro scale ( @ 296 ] ieee.org )
+                                    [ 298 ] 102 points [ 297 ] by [ @ 299 ] namanyayg [ @ 300 ] 14 hours ago | [ @ 301 ] hide | [ @ 302 ] 50 comments
+                                    [ @ 303 ] More
+                                                                    [ @ 304 ] Consider applying for YC's first - ever Fall batch! Applications are open till Aug 27.
+                                                          [ @ 305 ] Guidelines [ @ 306 ] FAQ | [ @ 307 ] Lists [ @ 308 ] API | [ @ 309 ] Security [ @ 310 ] Legal | [ @ 311 ] Apply to YC | [ @ 312 ] Contact
+                                                                                             [ 313 ] Search: [ # 314 ]
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 2845

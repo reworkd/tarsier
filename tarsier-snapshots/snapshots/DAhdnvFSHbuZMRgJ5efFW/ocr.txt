@@ -1,93 +1,98 @@
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[@0] About [@7] Pay My Bill   [@8] Patient Portal [@9] Medical Professionals  [@15] Careers [@16] Contact Us  [$17] Search
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 0 ] About  [ @ 1 ] Pay My Bill [ @ 2 ] Patient Portal [ @ 3 ] Medical Professionals [ @ 4 ] Careers [ @ 5 ] Contact Us [ $ 6 ] Search
+                                                                                                                                                       ㅁ
+
+  [ @ 20 ]
+  NORTHSIDE                                   [ @ 21 ] Locations    [ @ 22 ] Providers   [ @ 23 ] Services   [ 24 ] Patients & Visitors    [ 25 ] Wellness ▾
+      HOSPITAL
 
 
-                                                             [@32] Locations [@33] Providers [@34] Services [35] Patients & Visitors                     [36] Wellness
+    [ @ 26 ] Northside Hospital Home / [ @ 27 ] Locations [ 28 ] Atlanta Ophthalmology Associates                                  [ @ 29 ] SHARE [ @ 30 ] PRINT
 
 
-     [@37] Northside Hospital Home [@38] Locations [39] Atlanta Ophthalmology Associates                                                                   [@40] Share [@41] Print
+    [ 31 ] SPECIALTY CARE
+    **[ 32 ] Atlanta Ophthalmology**
+    Associates
 
+    [ 33 ] 5730 Glenridge Drive
+    [ 34 ] Suite 120
+    [ 35 ] Atlanta, GA 30328
+    [ @ 36 ] Directions →
 
-     [42] Specialty Care
-     **[43] Atlanta Ophthalmology**
-     **Associates**
-     [44] 5730 Glenridge Drive
-     [45] Suite 120
-     [46] Atlanta, GA 30328
-     Directions
+        [ @ 37 ] 404-252-1194
 
-         [@48] 404-252-1194
-
-     [49] Additional Contact Information
-       [51] Fax          [50]          404-252-1196
-       [53] Toll-Free       [52]      877-353-1280
-     **[54] Location Website**
-     **[55] Please visit Atlanta Ophthalmology Associates [56] for additional**
-     **information.**
-
-
-
-
-
-
-     **[58] Meet Our Team**
-                                                                                                                              [79] At This Location
-
-                                                                                                                                        [@80] Find a Provider
-
-                                                                                                                                            [@81] Pay a Bill
-
-                                                                                                                              [82] Hours
-                                                                                                                                 [84] Monday [83] 8:00 a.m. - 4:00 p.m.
-            [@60] Reay Brown, MD                  [@65] David Palay, MD                                                          [86] Tuesday [85] 8:00 a.m. - 4:00 p.m.
-                                                                                                                                 [88] Wednesday [87] 8:00 a.m. - 4:00 p.m.
-               [61] Specialty:                        [66] Specialty:
-              [62] Ophthalmology                    [67] Ophthalmology                                                           [90] Thursday [89] 8:00 a.m. - 4:00 p.m.
-                                                                                                                                 [92] Friday [91] 8:00 a.m. - 3:00 p.m.
-           [63] 4.9 out of 5 (256                 [68] 4.9 out of 5 (280
-                  ratings)                               ratings)
-                                                                                                                                       [@93] Need another location?
-                                                                                                                                    Search Locations
+    [ 38 ] ADDITIONAL CONTACT INFORMATION
+      [ 40 ] Fax    [ 39 ]    404-252-1196
+      [ 42 ] Toll - Free [ 41 ] 877-353-1280
+    [ 43 ] Location Website
+    [ 44 ] Please visit [ @ 46 ] Atlanta Ophthalmology Associates [ 45 ] for
+    additional information.
 
 
 
 
 
 
+    [ 47 ] Meet Our Team
+                                                                                                               [ 68 ] At This Location
+
+                                                                                                                       [ @ 69 ] FIND A PROVIDER
+
+                                                                                                                          [ @ 70 ] PAY A BILL
+       [ @ 48 ]                          [ @ 53 ]
+                                                                           [ @ 58 ]
+                                                                                                               [ 71 ] Hours
+                                                                                                                 [ 73 ] ] Monday [ 72 ] 8:00 a.m. 4:00 p.m.
+        [ @ 49 ] Reay Brown, MD           [ @ 54 ] David Palay, MD                                                                   8:00 a.m. - 4:00
+                                                                                                                 [ 75 ] Tuesday [ 74 ] ]          p.m.
+              [ 50 ] Specialty:                 [ 55 ] Specialty:                                                [ 77 ] Wednesday [ 76 ] 8:00 a.m. - 4:00 p.m.
+            [ 51 ] Ophthalmology              [ 56 ] Ophthalmology          [ @ 59 ] Ira Perszyk, MD             [ 79 ] Thursday [ 78 ] 8:00 a.m. 4:00 p.m.
+              *****                                                                                                                  8:00 a.m.
+                                                                                                                 [ [ 81 ] Friday [ 80 ]       3:00 p.m.
+                                                                                  [ 60 ] Specialty:
+        [ 52 ] 4.9 out of 5 ( 256 ratings ) [ 57 ] 4.9 out of 5 ( 280 ratings ) [ 61 ] Ophthalmology
+
+                                                                           [ 62 ] 4.6 out of 5 ( 671 ratings ) ①                [ @ 82 ]
+                                                                                                                         Need another location?
+                                                                                                                       SEARCH LOCATIONS →
 
 
 
-            [@70] Ira Perszyk, MD               [@75] Heather Weissman,
-                                                           MD
-               [71] Specialty:
-              [72] Ophthalmology                      [76] Specialty:
-                                                    [77] Ophthalmology
-           [73] 4.6 out of 5 (671
-                  ratings)                        [78] 4.7 out of 5 (768
-                                                         ratings)
+
+
+       [ @ 63 ]
+
+
+
+       [ @ 64 ] Heather Weissman,
+                 MD
+              [ 65 ] Specialty:
+            [ 66 ] Ophthalmology
+
+        [ 67 ] 4.7 out of 5 ( 768 ratings ) ①
 
 
 
 
 
 
+      [ @ 83 ]
+                                                                  [ @ 96 ]    [ @ 97 ] □ [ @ 98 ] MD    [ @ 99 ] □  [ @ 100 ] □   [ @ 101 ]    [  102 ]
+       NORTHSIDE
+          HOSPITAL
 
 
 
-
-          [@95] For Employees                   [@101] Pricing Transparency Information     [114] Northside News                      [117] Northside
-                                                                                                                                      Partnerships
-          [@96] For Providers                   [@102] Graduate Medical Education           [115] Stay healthy and informed with our
-                                                                                            latest headlines, patient stories, and    [118] Learn more about our partnerships
-          [@97] For Researchers                 [@103] Site Map                             videos and articles from our experts.     and how to make a difference in the
-                                                                                                                                      communities we serve.
-          [@98] For Media                       [@104] Privacy Policy
-                                                                                                [@116] NEWS CENTER
-          [@99] Careers                         [@105] Non Discrimination Notice                                                                  [@119] Support
-                                                                                                                                               Communities
-          [@100] Foundation                     [@106] Recalls
+        [ @ 84 ] For Employees            [ @ 90 ] Pricing Transparency Information [ 103 ] Northside News             [ 106 ] Northside Partnerships
+        [ @ 85 ] For Providers            [ @ 91 ] Graduate Medical Education    [ 104 ] Stay healthy and informed with our latest [ 107 ] Learn more about our partnerships and
+                                                                                 headlines, patient stories, and videos and how to make a difference in the communities we
+        [ @ 86 ] For Researchers          [ @ 92 ] Site Map                      articles from our experts.           serve.
+        [ @ 87 ] For Media                [ @ 93 ] Privacy Policy
+                                                                                     [ @ 105 ] NEWS CENTER                     [ @ 108 ] SUPPORT
+        [ @ 88 ] Careers                  [ @ 94 ] Non Discrimination Notice                                                    COMMUNITIES
+        [ @ 89 ] Foundation               [ @ 95 ] Recalls
 
 
-        [120] Northside Hospital 2023 All Rights Reserved [@121] Hospital Transparency Information
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 766
+      [ 109 ] Northside Hospital © 2023 All Rights Reserved [ @ 110 ] Hospital Transparency Information
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1015

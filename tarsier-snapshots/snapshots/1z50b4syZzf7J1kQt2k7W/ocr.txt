@@ -1,24 +1,35 @@
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[5] Governo italiano        [@6] Presidenza del Consiglio dei Ministri
+----------------------------------------------------------------------------------------------------------------------------------
+[ 5 ] Governo italiano | [ @ 6 ] Presidenza del Consiglio dei Ministri
 
-                                                                                                                                                         **[10] Seguici su**
+              Ministero
+ [ @ 8 ]                                                                                             [ 10 ] Seguici su ㅁㅁㅁㅁ ㅁㅁㅁㅁ
+    **MEF**   dell'Economia e delle Finanze
 
-              [@22] Ministero [@23] Ministro e staff     [@24] Documenti e pubblicazioni     [@25] Servizi [@26] Comunica con noi      [@27] Trasparenza [@28] PNRR
-                                                                                                                                                                                                     **[@31] EN**
-           [@33] Home          [@35] Ruolo del
-                  [@34] Ministero Ministero      [@36] Normativa
-             **[38] Decreti ministeriali, interministeriali, direttoriali**
+[ @ 20 ] [ @ 22 ] Ministero [ @ 23 ] Ministro e staff ▾ [ @ 24 ] Documenti e pubblicazioni ▾ [ @ 25 ] Servizi▾
+                                                                                                    [ @ 29 ] **[ @ 30 ]** **[ @ 31 ] EN**
+ MEF                                                         ▼
+        [ @ 26 ] Comunica con noi ▾ [ @ 27 ] Trasparenza [ @ 28 ] PNRR
+
+             [ @ 33 ] Home [ @ 34 ] Ministero [ @ 35 ] Ruolo del Ministero [ @ 36 ] Normativa
+
+               **[ 38 ] Decreti ministeriali,** **interministeriali, direttoriali**
+                                                                                                  [ @ 39 ] [ @ 40 ] [ @ 41 ] [ @ 42 ] [ @ 43 ]
 
 
 
-
-               **[44] 2022**
-                     **Decreto ministeriale del 22 dicembre 2022 [45] - Piano biennale 2023-2024 per la valutazione e la revisione della**
-                 **regolamentazione del Ministero dell Economia e delle Finanze.**
-                     **Decreto interministeriale del 6 aprile 2022 [47] - Riduzione delle aliquote di accisa applicate alla benzina, al gasolio e al**
-                 **GPL usati come carburanti;**
-                     **Decreto ministeriale del 21 marzo 2022 [49] - Approvazione degli indici sintetici di affidabilit**                                **fiscale relativi ad attivit**
-                 **economiche nei comparti delle manifatture, dei servizi, del commercio e delle attivit**                                **professionali e di approvazione delle**
-                 **territorialit** **specifiche. Periodo d'imposta 2021;**
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 366
+                [ 44 ] 2022
+                   [ @ 46 ] Decreto ministeriale del 22 dicembre 2022 [ 45 ] - Piano biennale 2023-2024 per la valutazione e la revisione della
+                regolamentazione del Ministero dell'Economia e delle Finanze.
+                   [ @ 48 ] Decreto interministeriale del 6 aprile 2022 [ 47 ] - Riduzione delle aliquote di accisa applicate alla benzina, al
+                gasolio e al GPL usati come carburanti;
+                   [ @ 50 ] Decreto ministeriale del 21 marzo 2022 [ 49 ] - Approvazione degli indici sintetici di affidabilità fiscale relativi ad
+                attività economiche nei comparti delle manifatture, dei servizi, del commercio e delle attività professionali e di approvazione
+                delle territorialità specifiche. Periodo d'imposta 2021;
+                   [ @ 52 ] Decreto interministeriale del 18 marzo 2022
+                 [ 51 ] Riduzione delle aliquote di accisa applicate alla benzina, al gasolio e ai GPL usati come carburanti;
+                   [ @ 54 ] Decreto del Ragioniere Generale dello Stato del 14 marzo 2022
+                 [ 53 ] Aggiornamento del decreto 11 marzo 2004, concernente le caratteristiche tecniche della Tessera sanitaria su supporto;
+                   [ @ 56 ] Decreto ministeriale dell' 11 febbraio 2022
+                 [ 55 ] Modifica del programma complementare di azione e coesione per la governance dei sistemi di gestione e controllo
+----------------------------------------------------------------------------------------------------------------------------------
+Token count: 653

@@ -1,228 +1,306 @@
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**[0] Rohan Pandey**
-                                                                                                                **[1] AI Researcher &**
-                                                                                                                **[2] 10x Hackathon Winner**
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**[ 0 ] Rohan Pandey**
+                                                                                                                                                                                                             [ 1 ] Al Researcher &
+                                                                                                                                                                                                             [ 2 ] 10x Hackathon Winner
+
+                                                                                                                                                                                                             [ @ 3 ]                 [ @ 4 ]                [ @ 5 ]                [ @ 6 ]
+                                                                                                                                                                                                                                                                        M
+                                                                                                                                                                                                             [ @ 7 ]                 [ @ 8 ]                [ @ 9 ]                 [ @ 10 ]
+                                                                                                                                                                                                                         [ $ 11 ] Email me
+                                                                                                                                                                                                                   [ $ 12 ] Schedule chat
+
+                                                                 [ 13 ] I'm an Artificial Intelligence researcher who recently graduated with CS honors from [ 17 ] Carnegie Mellon [ 14 ]. I've won [ 18 ] 10+
+                                                                 hackathons [ 15 ] and published several papers at [ 19 ] ML conferences [ 16 ].
+                                                                  [ 20 ] Currently, I'm building [ 23 ] agents [ 21 ] to automate web interaction workflows, leveraging advances in vision - language & code-
+                                                                 generation. My undergrad thesis explored semantics in [ 24 ] multimodal [ 22 ] transformers.
+                                                                 [ 25 ] Previously, I fine - tuned language models at [ 27 ] Microsoft Al [ 26 ] and advised startups deploying NLP for various B2B verticals. In
+                                                                 my free time, I enjoy reading Sanskrit literature & learning weird math.
 
 
 
-                                                                                                                        [$11] Email me
-                                                                                                                    [$12] Schedule chat
+                                                                                                                                                 **[ 28 ] Awarded or Cited by**
 
-                          [13] I'm an Artificial Intelligence researcher who recently graduated with CS honors from [16] Carnegie Mellon [14]. I've won [17] 10+
-                          hackathons [15] and published several papers at [18] ML conferences.
-                          [19] Currently, I'm building [22] agents [20] to automate web interaction workflows, leveraging advances in vision-language &
-                          code-generation. My undergrad thesis explored semantics in [23] multimodal [21] transformers.
-                          [24] Previously, I fine-tuned language models at [26] Microsoft AI [25] and advised startups deploying NLP for various B2B verticals. In
-                          my free time, I enjoy reading Sanskrit literature & learning weird math.
+                                                                                                                                                                                                   aws
+                                                                                                                             [ @ 30 ]     **IBM**                                                                                        [ @ 32 ] DocuSign
+                                                                                                                                                                                     [ @ 31 ]
+                                                                      [ @ 29 ]      **G**                                                                                                                                                                                                           [ @ 33 ]
 
-
-                                                                           **[27] Awarded or Cited by**
+                                                                                   UNIVERSITY OF CALIFORNIA
+                                                                                                                                UC San Diego                                                   **Berkeley**                                                                                                      UCSB
+                                                                     **[ @ 34 ] SANTA CRUZ**                                                                                      [ @ 35 ]     UNIVERSITY OF CALIFORNIA                       [ @ 36 ]     **Ucla**                                [ @ 37 ] ]
 
 
+                                                                                NSF                                                                                                                                                                                                                [ @ 41 ] Capital One
+                                                                                                                                 [ @ 38 ] NEUROTECHX                                [ @ 39 ]
+                                                                                                                                                                                                                                            [ @ 40 ] OPENBCI
+
+                                                                                                                                                                                                        Hedera
+                                                                                                                             [ @ 43 ] agora.10                                       [ @ 44 ]           Hashgraph                           [ @ 45 ] ▲ Radar                                                    **MLH** MAJOR LEAGUE HACKING
+                                                                     [ @ 42 ] angelhack                                                                                                                                                                                                             [ @ 46 ] -
 
 
-
-
-
-
-
-
-
-
-
-
-
-                          **[46] Experience**
-                             **[47] Reworkd (YC S23)**
-                             [48] As Founding Research Engineer, I develop [50] AI agents [49] that
-                             automate business workflows.
+                                                                  **[ 47 ] Experience**
+                                                                                                                                                                                                                              [ @ 52 ]
+                                                                       [ 48 ] Reworkd ( YC S23 )
+                                                                       [ 49 ] As Founding Research Engineer, I develop [ 51 ] Al agents [ 50 ] that
+                                                                      automate business workflows.
+                                                                                                                                                                                                                                                                      **Reworkd**
 
 
 
-                                                                                         **[53] Ousia**
-                                                                                         [54] SEO content writers have to deeply research their topic to know
-                                                                                         what to write about. Ousia [55] automates research.
-                                                                                         [56] As [58] technical co-founder [57], I built NLP & LLM solutions to
-                                                                                         10x our users' article writing ability. Exited via co-founder buyout.
-
-                             **[59] Carnegie Mellon University**                                 **MultiComp**
-                             [61] Vision-Language Models [60] drastically fail to represent & align
-                             compositional structure (e.g. mug in grass" vs grass in mug" ).
-                             [62] In my Honors Thesis, we explore various vectorial approaches
-                             inspired by [64] linguistic theory [63] to address this problem, with
-                             papers at NeurIPS, EACL, ACL, EMNLP, and ICCV.
+                                                                 [ @ 53 ]
+                                                                     OUSIA                                                                                              [ 54 ] Ousia
+                                                                                                                                                                        [ 55 ] SEO content writers have to deeply research their topic to know
+                                                                                                                                Deployme                               what to write about. Ousia [ 57 ] automates research [ 56 ].
+                                                                                                                                                                        [ 58 ] As [ 60 ] technical co - founder [ 59 ], I built NLP & LLM solutions to
+                                                                                                                                                                       10x our users' article writing ability. Exited via co - founder buyout.
 
 
+                                                                                                                                                                                                                              [ @ 67 ]
+                                                                       [ 61 ] Carnegie                                                                                     -   - MultiComp                                                                Attention Regularization for
+                                                                                                                  Mellon University.                                                                                                                                                                               ML
+                                                                                                                                                                                                                                                    Vision - Language Relation Alignment
+                                                                                                                                                                                                                                  MultiComo Lab          Rohan Pandey, Rulin Shao, Paul Pu Liang,
+                                                                                                                                                                                                                                                       Louis - Philippe Morency. Ruslan Salakhutdinov
+                                                                       [ 63 ] Vision - Language Models [ 62 ] drastically fail to represent & align                                                                                 Background                          Method                           Results
+                                                                      compositional structure ( e.g." mug in grass" vs" grass in mug" ).
+                                                                       [ 64 ] In my Honors Thesis, we explore various vectorial approaches
+                                                                                                                                                                                                                                                              Crass, used to softly find viel    We were beaut
+                                                                      inspired by [ 66 ] linguistic theory [ 65 ] to address this problem, with
+                                                                      papers at NeurIPS, EACL, ACL, EMNLP, and ICCV.                                                                                                                                          speed bel to meet equivals the deemeeleon of" "" ".
+                                                                                                                                                                                                                              relation Wingsand- align de ( RA Rá ) models SV perf Meriliyorix under the c congruence of oppskr
+                                                                                                                                                                                                                                                                                                with Registered a to by" "" "
+                                                                                                                                                                                                                                                                 - ( Serv                       all Next region Steps,: contrating Alf to pro
+                                                                                                                                                                                                                               EXMERT ( GA )                                                           References
+                                                                                                                                                                                                                               Code           Frity Files
+                                                                                                                                                                                                                              these afterte lence atrices betwem, but it medaltim as a
+                                                                                                                                                                                                                               deyro - m
+
+                                                                 [ @ 68 ]
+                                                                                                                                    [ 69 ] Microsoft Al
+                                                                                                                                    [ 70 ] The Al Platform group at Microsoft builds infrastructure for [ 72 ] enterprise-
+                                                                                                                                   scale [ 71 ] machine learning lifecycles on Azure.
+                                                                    Azure Machine Learning                                          [ 73 ] | fine - tuned [ 75 ] distilled LLMs [ 74 ] to aid annotators in natural language data
+                                                                                                                                   labeling, saving compute & improving speed.
+
+                                                                                                                                                                                                                             [ @ 83 ]
+                                                                       [ 76 ] Carnegie Mellon University.                                                                          NeuLab                                                 Probing t   Compositional Semantics Captured by Neural Language Models
+                                                                                                                                                                                                                                                   Langug Trekaclogies Robon Pandey Entite, Uri - Slod Alen, of Frank Conster F. X Sine, Graham Care Nubig Hy
+                                                                                                                                                                                                                                                                           App
+                                                                       [ 77 ] Are [ 80 ] large language models [ 78 ] ] just learning co - occurence
+                                                                      statistics, or can they capture compositional relations as encoded by
+                                                                       [ 81 ] semantic formalisms [ 79 ]?
+
+                                                                       [ 82 ] We applied graph algorithms to Abstract Meaning Representation                                                                                                                            Sangle subgraph
+                                                                      to create a task that probes compositional ability. I presented our work
+                                                                      at the 2021 SCS Research Fair.
+                                                                                                                                                                                                                                                                " We bough
+                                                                                                                                                                                                                                                                    Generale probability from L
+                                                                                                                                                                                                                                                                             I
+
+                                                                 [ @ 84 ]
+                                                                                                                                                                                      [ 85 ] Vizerto
+                                                                                                                                                                                      [ 86 ] Vizerto is a [ 88 ] digital sales assistant [ 87 ] that makes
+                                                                                                                                                                                     domain - specific knowledge easily available to B2B sellers.
+                                                                                                                                                                                      [ 89 ] I advised their ML team on novel approaches to
+                                                                                                                                                                                      [ 91 ] information retrieval [ 90 ], graphical knowledge
+                                                                                                                                                                                     representations, and more.
 
 
-                                                                   **[67] Microsoft AI**
-                                                                   [68] The AI Platform group at Microsoft builds infrastructure for [70] enterprise-scale
-                                                                   [69] machine learning lifecycles on Azure.
-                                                                   [71] I fine-tuned [73] distilled LLMs [72] to aid annotators in natural language data
-                                                                   labeling, saving compute & improving speed.
+                                                                                                                                                                                                                 [ @ 99 ]
+                                                                       [ 92 ] Language & Dialogue Systems Lab                                                                                                           Segment: Template Set            Segment: Callback Function           Segment: Callback Function
+                                                                                                                                                                                                                     Yeah, it probably wouldn't have been r's jalot The answer is ( slo )                       mindow
+                                                                       [ 93 ] Our conversational socialbot interacted with thousands of                                                                             " Well, I guess it would have been a
+                                                                                                                                                                                                                   " Let me tell you then, so you can     1. strawberries     [ si ]              Segment: Template Set
+                                                                       [ 95 ] Amazon Alexa [ 94 ] ] users every day, maintaining the top                                                                            perhaps suprise person the you red meet health with your
+                                                                                                                                                                                                                    conscious knowledge )                                                       Do you want to hear one more
+                                                                      average user rating for 2 months straight against teams from                                                                                                                      C's strawberries                       interesting Though I just thing remembered I've read though another?
+                                                                      Stanford, USC,                                                                                                                                                                    strawberries ..                        thing. Do you want to hear? )
+                                                                                                       and more.
+                                                                                                                                                                                                                                                                                     sample
+                                                                       [ 96 ] My work on user modeling and entity graphs was included in                                                                            thing Yeah I've, it probably read though wouldn't?"," Well have, I guess been an it would easy guess have been anyway a. difficult The answer guess. is It's strawberies strawberries. Do. Though you want I just to remembered hear one more another interesting
+                                                                                                                                                                                                                    thing your. knowledge Do you want. It's to strawberies hear?"," Let. me Do you tell you want then to, hear so you one can more perhaps interesting surprise thing the I've next read health though - conscious?", ... ) person you meet with
+                                                                      our paper at [ 98 ] EMNLP 2021 [ 97 ].
 
-                             **[74] Carnegie Mellon University**                                 **NeuLab**
-                             [75] Are [77] large language models [76] just learning co-occurence
-                             statistics, or can they capture compositional relations as encoded by
-                             [78] semantic formalisms
-                             [79] We applied graph algorithms to Abstract Meaning Representation
-                             to create a task that probes compositional ability. I presented our work
-                             at the 2021 SCS Research Fair.
+                                                                 [ @ 100 ]
+                                                                           74                                                                             [ 101 ] SapientX
+                                                                                                                                                          [ 102 ] SapientX builds white label intelligent [ 104 ] voice assistants [ 103 ] for
+                                                                                                                                                         cars, phones, fridges, and stores.
+                                                                                                                                                          [ 105 ] I fine - tuned state - of - the - art models for [ 108 ] extractive question
+                                                                                                                                                         answering [ 106 ] to give Tele the ability to answer domain - specific user
+                                                                          1 HR 35 MIN 74 MI
+                                                                              8:26 PM                                                                    queries from large, unorganized [ 109 ] document corpora [ 107 ]
 
+                                                                                                                                                                                                                 [ @ 117 ]
+                                                                       [ 110 ] Language, Logic, & Cognition Lab                                                                                                       steps 1,3,4   NP - SBJ step 5                       steps 2,6,7     VP sup step s
+                                                                       [ 111 ] Can deep reinforcement learning model how humans learn                                                                                                 PRP               NP - SBJ .VP                     VBD               NP - SBJ     VP
+                                                                      to parse [ 113 ] syntax trees [ 112 ] from experience?                                                                                                           He                 PRP                           sighed              PRP        VBD
+                                                                       [ 114 ] We built a family of cognitively realistic parsing                                                                                                                          He                                                 He      sighed
+                                                                      environments to explore how novel neural architectures & RL
+                                                                      algorithms could inform psycholinguistic theory. Our work was
+                                                                      accepted at [ 116 ] NeurIPS 2021 [ 115 ] Deep RL workshop.
 
-                                                                                                  **[82] Vizerto**
-                                                                                                  [83] Vizerto is a [85] digital sales assistant [84] that makes
-                                                                                                  domain-specific knowledge easily available to B2B sellers.
-                                                                                                  [86] I advised their ML team on novel approaches to [88]
-                                                                                                  information retrieval [87], graphical knowledge representations,
-                                                                                                  and more.
+                                                                 [ @ 118 ]
+                                                                                    Life - Saving Summary                                                 [ 119 ] Wordcab
+                                                                                       Tue May 25 L46AM
+                                                                   日
+                                                                                                                                                          [ 120 ] Wordcab summarizes business meetings using the latest in abstractive
+                                                                   8                                                                                      [ 122 ] neural summarization [ 121 ] tech.
+                                                                                         is Rick on Jack the amount what's of on time teada acentuading, and Saphina through agenda says the bars fint each item
+                                                                                                                                                          [ 123 ] I worked with Aleks ( CEO ) to build topic - based summarization, a highly-
+                                                                                         through Dave C discusses scripts their each soul week being, and slowly asks evaporating Fhey should go to a
+                                                                                                                                                         demanded but [ 125 ] technologically challenging [ 124 ] feature.
+                                                                                         Sophina today Beer B to write a task list for each agenda item
 
-                             **[89] Language & Dialogue Systems Lab**
-                             [90] Our conversational socialbot interacted with thousands of
-                             [92] Amazon Alexa [91] users every day, maintaining the top
-                             average user rating for 2 months straight against teams from
-                             Stanford, USC, and more.
-                             [93] My work on user modeling and entity graphs was included in
-                             our paper at [94] EMNLP 2021.
+                                                                                                                                                                                                                                                       [ @ 133 ]
+                                                                       [ 126 ] Intheon
+                                                                       [ 127 ] Intheon builds neural [ 129 ] data processing infrastructure [ 128 ] used by
+                                                                      labs across the world to simplify their brainwave analysis pipelines.
+                                                                       [ 130 ] I undertook NSF - funded research to investigate how language models could
+                                                                      aid [ 132 ] brain - computer interfaces [ 131 ] ] in assisting users.
 
-                                                                                 **[97] SapientX**
-                                                                                 [98] SapientX builds white label intelligent [100] voice assistants [99] for cars,
-                                                                                 phones, fridges, and stores.
-                                                                                 [101] I fine-tuned state-of-the-art models for [103] extractive question
-                                                                                 answering [102] to give Tele the ability to answer domain-specific user queries
-                                                                                 from large, unorganized [104] document corpora.
+                                                                 [ @ 134 ]
+                                                                                                                                            [ 135 ] Applied Machine Learning Lab
+                                                                                                                                10
+                                                                                                                                08          [ 136 ] The AMLL lab applies novel ML research to [ 138 ] social good [ 137 ] issues
+                                                                                                                                0.6
+                                                                                                                                0.4        primarily in psychology and neuroscience.
+                                                                                                                               0.2
+                                                                                                                               0.0
+                                                                                                                                            [ 139 ] Our work used hierarchical [ 141 ] document representations [ 140 ] to identify
+                                                                          -3-2-101                                                          mental illness in social media discussions and quantify COVID's diachronic effects.
+                                                                                    PCA      23
 
-                             **[105] Language, Logic, & Cognition Lab**
-                             [106] Can deep reinforcement learning model how humans learn
-                             to parse [108] syntax trees [107] from experience?
-                             [109] We built a family of cognitively realistic parsing
-                             environments to explore how novel neural architectures & RL
-                             algorithms could inform psycholinguistic theory. Our work was
-                             accepted at [111] NeurIPS 2021 [110] Deep RL workshop.
+                                                                                                                                                                                                                 [ @ 149 ]
+                                                                         142 ] Bunch Inc                                                                                                                                                                                    10000          Time 20000 ( a ) 30000
+                                                                       [
+                                                                                                                                                                                                                                                     man, dumb curl, 10lb.12: 00.mp4: Work / Rep Graph
+                                                                                                                                                                                                                                                     Weight b
+                                                                       [ 143 ] Bunch builds enterprise - grade video & [ 145 ] computer                                                                                                              Average PPS:
+                                                                      vision [ 144 ] software while exploring related high risk - reward                                                                                                             work  Total: 0.390
+                                                                                                                                                                                                                                                          0.067
+                                                                      projects.
+                                                                                                                                                                                                                                                         0.045
+                                                                       [ 146 ] I deployed [ 148 ] tensorflow.js [ 147 ] pose detection models
+                                                                      client - side for a project virtualizing expensive gym equipment.                                                                                                                  0015-
 
-                                                                                 **[114] Wordcab**
-                                                                                 [115] Wordcab summarizes business meetings using the latest in abstractive
-                                                                                 [117] neural summarization [116] tech.
-                                                                                 [118] I worked with Aleks (CEO) to build topic-based summarization, a
-                                                                                 highly-demanded but [120] technologically challenging [119] feature.
-
-                             **[121] Intheon**
-                             [122] Intheon builds neural [124] data processing infrastructure [123] used by labs
-                             across the world to simplify their brainwave analysis pipelines.
-                             [125] I undertook NSF-funded research to investigate how language models could
-                             aid [127] brain-computer interfaces [126] in assisting users.
-
-                                                                        **[130] Applied Machine Learning Lab**
-                                                                        [131] The AMLL lab applies novel ML research to [133] social good [132] issues
-                                                                        primarily in psychology and neuroscience.
-                                                                        [134] Our work used hierarchical [136] document representations [135] to identify
-                                                                        mental illness in social media discussions and quantify COVID's diachronic effects.
-
-                             **[137] Bunch Inc**
-                             [138] Bunch builds enterprise-grade video & [140] computer
-                             vision [139] software while exploring related high risk-reward
-                             projects.
-                             [141] I deployed [143] tensorflow.js [142] pose detection models
-                             client-side for a project virtualizing expensive gym equipment.
-
-
-                          **[145] Publications**
-                            [146] Towards Vision-Language Mechanistic Interpretability: a Causal Tracing Tool for BLIP
-                            [147] ICCV 2023 Vision-Language Workshop
-                            [148] Vedant Palit*, [150] Rohan Pandey* [149], Aryaman Arora, Paul Pu Liang
-                            [151] WinogroundVQA: Zero-shot Reasoning with LLMs for Compositional Visual Question Answering
-                            [152] Under Review at EMNLP 2023
-                            [154] Rohan Pandey [153], Spandan Das, Tristan Thrush, Paul Pu Liang, Ruslan Salakhutdinov, Louis-Philippe Morency
-                            [155] Multimodal Learning Without Multimodal Data: Guarantees and Applications
-                            [156] Under Review at NeurIPS 2023
-                            [157] Paul Pu Liang, Chun Kai Ling, Yun Cheng, Alexander Obolenskiy, Yudong Liu, [159] Rohan Pandey [158], Alex Wilf, Louis-Philippe Morency,
-                            Ruslan Salakhutdinov
-                            [160] Cross-modal Attention Congruence Regularization for Vision-Language Relation Alignment
-                            [@161] ACL 2023
-                            [163] Rohan Pandey [162], Rulin Shao, Paul Pu Liang, Ruslan Salakhutdinov, Louis-Philippe Morency
-                            [164] Syntax-guided Neural Module Distillation to Probe Compositionality in Sentence Embeddings
-                            [@165] EACL 2023
-                            [166] Rohan Pandey
-                            [167] Does Structural Attention Improve Compositional Representations in Vision-Language Models?
-                            [@168] NeurIPS 2022 Self-Supervised Learning Workshop
-                            [170] Rohan Pandey [169], Rulin Shao, Paul Pu Liang, Louis-Philippe Morency
-                            [171] Probing Compositional Representations in Neural Language Models with Semantic Graphs
-                            [172] Preprint, 2022
-                            [174] Rohan Pandey [173], Uri Alon, Frank Xu, Graham Neubig
-                            [175] A Family of Cognitively Realistic Parsing Environments for Deep Reinforcement Learning
-                            [@176] Architectures and Mechanisms for Language Processing 2022
-                            [@177] NeurIPS 2021 Deep Reinforcement Learning Workshop
-                            [178] Adrian Brasoveanu, [180] Rohan Pandey [179], Maximilian Alfano-Smith
-                            [181] Athena 2.0: Contextualized Dialogue Management for an Alexa Prize SocialBot
-                            [@182] EMNLP 2021 System Demonstrations
-                            [@183] Proceedings of Amazon Alexa Prize Socialbot Grand Challenge 4
-                            [184] Juraj Juraska, Kevin K. Bowden, Lena Reed, Vrindavan Harrison, Wen Cui, Omkar Patil, Rishi Rajasekaran, Angela Ramirez, Cecilia Li, Eduardo
-                            Zamora, Phillip Lee, Jeshwanth Bheemanpally, [186] Rohan Pandey [185], Adwait Ratnaparkhi, Marilyn Walker
-                            [187] Transfer Learning for Mental Health Evaluation from Natural Language
-                            [188] Preprint, 2020
-                            [189] Kamil Kisielewicz, [191] Rohan Pandey [190], Shivansh Rustagi, Narges Norouzi
-
-                          **[192] Research**
-                          [193] I'm interested in questions like...
-                          [194] How do humans perform [197] semantic composition [195] and how can we build systems that analyze language compositionally
-                          [196]    Transformers have outpaced virtually all other architectures in NLP is something about the self-attention mechanism inherently
-                          effective at expressing semantic composition?
-                          [203] How do humans [207] ground language [204] in their environment and how can we build systems that understand language in
-                          relation to the real world [205]      The dominant approach of learning from large text corpora has gone a long way, but it falls into a trap
-                          [206] that can only be avoided by grounding language. How do perception & action modalities influence semantic representations?
-                          [215] What is the underlying relationship between [218] symbolic and statistical approaches [216]                          Why do some parts of nature seem
-                          so perfectly described [217] by symbolic relations while others don't? Is reality fundamentally symbolic or are symbols a formalism that
-                          humans apply to our environment?
-                          [221] And a few miscellaneous ones: What makes specifically human brains so good at manipulating symbols, genetically, structurally,
-                          and culturally? How does the brain represent non-linguistic thoughts and is all perception symbolic at some level [222]                          How can
-                          classical theories from linguistics and philosophy of language [223] aid modern research in NLP? Is internality an inherent property of
-                          matter
-
-                          **[227] Projects**
+                                                                                                                                                                                                                                                                                           Time ( s )
 
 
+                                                                  **[ 150 ] Publications**
+                                                                     [ 151 ] Towards Vision - Language Mechanistic Interpretability: a Causal Tracing Tool for BLIP
+                                                                     [ 152 ] ICCV 2023 Vision - Language Workshop
+                                                                     [ 153 ] Vedant Palit *, [ 155 ] Rohan Pandey * [ 154 ], Aryaman Arora, Paul Pu Liang
+                                                                     [ 156 ] WinogroundVQA: Zero - shot Reasoning with LLMs for Compositional Visual Question Answering
+                                                                     [ 157 ] Under Review at EMNLP 2023
+                                                                     [ 159 ] Rohan Pandey [ 158 ], Spandan Das, Tristan Thrush, Paul Pu Liang, Ruslan Salakhutdinov, Louis - Philippe Morency
+                                                                     [ 160 ] Multimodal Learning Without Multimodal Data: Guarantees and Applications
+                                                                     [ 161 ] Under Review at NeurIPS 2023
+                                                                     [ 162 ] Paul Pu Liang, Chun Kai Ling, Yun Cheng, Alexander Obolenskiy, Yudong Liu, [ 164 ] Rohan Pandey [ 163 ], Alex Wilf, Louis - Philippe Morency,
+                                                                     Ruslan Salakhutdinov
+                                                                     [ 165 ] Cross - modal Attention Congruence Regularization for Vision - Language Relation Alignment
+                                                                     [ @ 166 ] ACL 2023
+                                                                     [ 168 ] Rohan Pandey [ 167 ], Rulin Shao, Paul Pu Liang, Ruslan Salakhutdinov, Louis - Philippe Morency
+                                                                     [ 169 ] Syntax - guided Neural Module Distillation to Probe Compositionality in Sentence Embeddings
+                                                                     [ @ 170 ] EACL 2023
+                                                                     [ 171 ] Rohan Pandey
+                                                                     [ 172 ] Does Structural Attention Improve Compositional Representations in Vision - Language Models?
+                                                                     [ @ 173 ] NeurIPS 2022 Self - Supervised Learning Workshop
+                                                                     [ 175 ] Rohan Pandey [ 174 ], Rulin Shao, Paul Pu Liang, Louis - Philippe Morency
+                                                                     [ 176 ] Probing Compositional Representations in Neural Language Models with Semantic Graphs
+                                                                     [ 177 ] Preprint, 2022
+                                                                     [ 179 ] Rohan Pandey [ 178 ], Uri Alon, Frank Xu, Graham Neubig
+                                                                     [ 180 ] A Family of Cognitively Realistic Parsing Environments for Deep Reinforcement Learning
+                                                                     [ @ 182 ] Architectures and Mechanisms for Language Processing 2022 [ 181 ];
+                                                                     [ @ 183 ] NeurIPS 2021 Deep Reinforcement Learning Workshop
+                                                                     [ 184 ] Adrian Brasoveanu,                    [ 186 ] Rohan Pandey [ 185 ], Maximilian Alfano - Smith
+                                                                     [ 187 ] Athena 2.0: Contextualized Dialogue Management for an Alexa Prize SocialBot
+                                                                     [ @ 189 ] EMNLP 2021 System Demonstrations [ 188 ] ];
+                                                                     [ @ 190 ] Proceedings of Amazon Alexa Prize Socialbot Grand Challenge 4
+                                                                     [ 191 ] Juraj Juraska, Kevin K. Bowden, Lena Reed, Vrindavan Harrison, Wen Cui, Omkar Patil, Rishi Rajasekaran, Angela Ramirez, Cecilia Li, Eduardo
+                                                                    Zamora, Phillip Lee, Jeshwanth Bheemanpally, [ 193 ] Rohan Pandey [ 192 ], Adwait Ratnaparkhi, Marilyn Walker
+                                                                     [ 194 ] Transfer Learning for Mental Health Evaluation from Natural Language
+                                                                     [ 195 ] Preprint, 2020
+                                                                     [ 196 ] Kamil Kisielewicz,                 [ 198 ] Rohan Pandey [ 197 ], Shivansh Rustagi, Narges Norouzi
+
+
+                                                                 **[ 199 ] Research**
+                                                                 [ 200 ] I'm interested in questions like ...
+                                                                 [ 201 ] How do humans perform [ 204 ] semantic composition [ 202 ] and how can we build [ @ 205 ] systems [ @ 206 ] that [ @ 207 ] analyze
+                                                                 [ @ 208 ] language [ @ 209 ] compositionally. [ 203 ]? Transformers have outpaced virtually all other architectures in NLP - is something
+                                                                 about the self - attention mechanism inherently effective at expressing semantic composition?
+                                                                 [ 210 ] How do humans [ 214 ] ground language [ 211 ] ] in their environment and how can we build systems that understand language
+                                                                 [ @ 215 ] in [ @ 216 ] relation [ @ 217 ] to [ @ 218 ] the [ @ 219 ] real [ @ 220 ] world [ 212 ]? The dominant approach of learning from large text
+                                                                 corpora has gone a long way, but it [ @ 221 ] falls into a trap [ 213 ] that can only be avoided by grounding language. How do perception &
+                                                                 action modalities influence semantic representations?
+                                                                 [ 222 ] What is the underlying relationship between [ 225 ] symbolic and statistical [ @ 226 ] approaches [ 223 ]? Why do some parts of
+                                                                 nature seem so [ @ 227 ] perfectly described [ 224 ] by symbolic relations while others don't? Is reality fundamentally symbolic or are
+                                                                symbols a formalism that humans apply to our environment?
+                                                                 [ 228 ] And a few miscellaneous ones: What makes specifically human brains so good at manipulating symbols, genetically, structurally,
+                                                                and culturally? How does the brain represent non - linguistic thoughts and is all perception [ @ 232 ] symbolic at some level [ 229 ]? How can
+                                                                classical theories from linguistics and [ @ 233 ] philosophy of language [ 230 ] aid modern research in NLP? Is internality an inherent
+                                                                 [ @ 234 ] property of matter [ 231 ]?
+
+
+                                                                  **[ 235 ] Projects**
+
+                                                                  [ @ 236 ]                                                           [ @ 240 ]                                                            [ @ 245 ]                                                           [ @ 249 ]
+                                                                                                                                                             Statistics                                                        Rgveda 6.26
+                                                                                                                                                                                                                        indra hvayamasitva mahah vajasya
+                                                                                                                                                           Profit: broccoli                               sam yat  Kahayanta düra- atau ugram nah
+                                                                                                                                           400                                                                  tvām vāj havate vineyati mahab vājasya gadhyasya
+                                                                                                                                                                                                            kav NOUM NOC SM  petim tarutram vam caste must - ha                                            101
+                                                                                                                                                                                                           tvam kavim codayan arka- satau tam kutsiya   usam daluse va
+                                                                                                                                                                                                             tvam sirah amarmanah parahan atithigaya samsyam karisyan                         San Francisco
+                                                                                             Rui                                                                                                            ratham pra bharah yodham svamah yudhyantam vrsabham da
+                                                                                                                                                            Profit: celery                                                           shan vam um amantam indra       tot
+                                                                           From: New Canaan, Connecticut                                                                                                  Tvam tugram vetasave sacs -
+                                                                           Contact: raguiar2@stanford.edu                                                                                                 tvam tat uktham indra barhana kay pra yat - katā sahasrā šūra d                      the
+                                                                                    Enjoys: KFC, Apple                                                                                                      ava gireh dasam sambaram han prävah divodāsam citrabhiḥ     |
+                                                                                                                                                                                                          tvam draddhabhi mandasana    somah dabhitaye cumurim indra sis                                                          +
+                                                                                                                                                                                                                                                                                                                          101
+                                                                                                                                                        [ 241 ] Celery                                                   [ 246 ] veda.dev
+                                                                                     [ 237 ] fbIRL                                          [ 242 ] Won 2nd & FinTech @                                     [ 247 ] Deployed with active users                                      Friends                                    Profile
+                                                                     [ 238 ] Won 1st @ Facebook SF                                             [ 243 ] UCLA Hacks 2019                                                                                                                         [ 250 ] SWEep
+                                                                              Dev Hackathon 2019                                                                                                             [ 248 ] Morphology visualizer for
+                                                                                                                                          [ 244 ] Big data                                                     Sanskrit literature research &                                       [ 251 ] Won 1st @ SRC Code.
+                                                                                                                                                                      forecasting for                                                                                                                   2018
+                                                                        [ 239 ] Tomorrow's AR social                                           sustainable businesses                                                           education
+                                                                                network ( Pre - Meta )                                                                                                                                                                           [ 252 ] Cleaning neighborhoods
+                                                                                                                                                                                                                                                                                          with computer vision
+
+                                                                  [ @ 253 ]                                                            [ @ 257 ]                                                          [ @ 261 ]                                                           [ @ 265 ] ]
+                                                                      Input                                              Output                              CALL IN PROGRESS
 
 
 
+                                                                                                                                                    [ 258 ] We & You
+                                                                            Encoder                              Decoder                                                                                                       [ 262 ] Phil
+                                                                                                                                            [ 259 ] Won Google Cloud @                                       263 ] Won Amazon & Blockchain
+                                                                             [ 254 ] Latent Space                                                    BASEHacks 2018                                         [
+                                                                     255 ] Won 3rd @ HackMIT 2020                                                                                                                       @ CruzHacks 2019                                                  [ 266 ] Boolepathy
+                                                                    [
+                                                                                                                                        [ 260 ] Peer - to - peer mental health                                                                                                          [ 267 ] Won 1st in US @
+                                                                       [ 256 ] Domain - specific neural                                              services for teens                                         [ 264 ] Facilitating blockchain                                         268 ]                             2020
+                                                                                                                                                                                                               donations with Alexa skill art                                          [           NeuroTechX
+                                                                      audio compression for virtual
+                                                                                           bands                                                                                                                                                                                    [ 269 ] Non - invasive synthetic
+                                                                                                                                                                                                                                                                                                    telepathy
 
 
-
-                                                                                [233] Celery                            [238] veda.dev
-                                      [229] fbIRL                       [234] Won 2nd & FinTech                [239] Deployed with active users
-                             [230] Won 1st      Facebook SF               [235] UCLA Hacks 2019                                                                    [242] sWEep
-                                                                                                                [240] Morphology visualizer for
-                                  Dev Hackathon 2019                                                                                                        [243] Won 1st       SRC Code
-                                                                       [236] Big data forecasting for             Sanskrit literature research &
-                               [231] Tomorrow's AR social                  sustainable businesses                           education                                    2018
-                                   network (Pre-Meta)                                                                                                     [244] Cleaning neighborhoods
-                                                                                                                                                                with computer vision
-
-
-
-
-                                                                             [250] We & You
-                                                                        [251] Won Google Cloud                             [254] Phil
-                                 [246] Latent Space                           BASEHacks 2018                   [255] Won Amazon & Blockchain
-                            [247] Won 3rd       HackMIT 2020                                                              CruzHacks 2019                        [258] Boolepathy
-                                                                     [252] Peer-to-peer mental health                                                          [259] Won 1st in US
-                              [248] Domain-specific neural                    services for teens                  [256] Facilitating blockchain               [260] NeuroTechX 2020
-                              audio compression for virtual                                                       donations with Alexa skill art
-                                          bands                                                                                                             [261] Non-invasive synthetic
-                                                                                                                                                                       telepathy
-
-
-                          **[262] Fun Facts**
-                            [263] I'm a philosophy enthusiast and tend to align with the M m s school [264] of Indian thought.
-                            [266] I still have much to learn in higher math, but I'm intrigued by topological models [267] of natural language semantics.
-                            [272] I've been teaching myself Sanskrit [273] and Mandarin Chinese since 2018. I'm fluent in English, Hindi, and Spanish, as well as a
-                            [mediocre] Tamil heritage speaker. I've dabbled in French, Arabic, Japanese, Hebrew, Russian, and Greek.
-                            [275] I enjoy building constructed languages [276], including a 2-channel parallelized experimental lang and a modern descendant of
-                            Sumerian.
-                            [278] I founded NeuroTechSC [279], which I led to winning 1st in the US at NeuroTechX's 2020 student competition with our 25 student
-                            team and subvocal recognition BCI [280]. I was also Vice President of UCSC's AI club, SCAI.
-                            [284] My current reading list includes G del, Escher, Bach (Hofstadter), Every Life is on Fire (England), and Arthasa graha (Bh
-                            skara).
-                            [285] The source code for this site is based on Andrej Karpathy's personal website.
-                            [287] Feel free to reach out to chat!
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 2973
+                                                                 **[ 270 ] Fun Facts**
+                                                                    [ 271 ] I'm a philosophy enthusiast and tend to align with the [ @ 273 ] Mīmāmsā school [ 272 ] of Indian thought.
+                                                                    [ 274 ] I still have much to learn in higher math, but I'm intrigued by [ @ 277 ] topological [ 278 ] models [ 275 ] of [ @ 279 ] natural language
+                                                                    [ @ 280 ] semantics [ 276 ].
+                                                                    [ 281 ] I've been teaching myself [ @ 283 ] Sanskrit [ 282 ] ] and Mandarin Chinese since 2018. I'm fluent in English, Hindi, and Spanish, as
+                                                                   well as a [ mediocre ] Tamil heritage speaker. I've dabbled in French, Arabic, Japanese, Hebrew, Russian, and Greek.
+                                                                    [ 284 ] I enjoy building [ @ 286 ] constructed languages [ 285 ], including a 2 - channel parallelized experimental lang and a modern
+                                                                   descendant of Sumerian.
+                                                                    [ 287 ] I founded [ @ 291 ] NeuroTechSC [ 288 ], which I led to winning 1st in the US at NeuroTechX's 2020 student competition with our 25
+                                                                   student team and [ @ 292 ] subvocal recognition BCI [ 289 ]. I was also Vice President of UCSC's Al club,                                                                                                   [ @ 293 ] SCAI [ 290 ].
+                                                                    [ 294 ] My current reading list includes Gödel, Escher,                                                 Bach ( Hofstadter ), Every Life is on Fire ( England ), and Arthasaṁgraha
+                                                                   ( Bhāskara ).
+                                                                    [ 295 ] The source code for this site is based on [ [ @ 297 ] Andrej Karpathy's personal website [ 296 ].
+                                                                    [ 298 ] Feel free to reach out to chat!
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 5121

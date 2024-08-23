@@ -1,27 +1,35 @@
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[@1] Donate
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 0 ]
+               PAN AMERICAN ACADEMY
+               CHARTER SCHOOL                                                                                                                            [ @ 1 ] DONATE
 
-                                            [@2] About Us [@3] Academics [@4] Enrollment [@5] Calendar [@6] Parents [@7] Employment [@8] Support Us
-
-      [@9] Resources
-      **[10] Staff**
-            [@11] Leadership [@12] Faculty [@13] Staff
-      **[14] Pan American Academy s dedicated staff is committed to preparing bilingual, internationally-minded inquirers. By**
-      **utilizing inquiry-based instructional strategies, teachers facilitate independent and innovative thinkers.**
+             [ @ 2 ] About Us     [ @ 3 ] Academics     [ @ 4 ] Enrollment     [ @ 5 ] Calendar    [ @ 6 ] Parents    [ @ 7 ] Employment      [ @ 8 ] Support Us Q
 
 
+      [ @ 9 ] RESOURCES
+      **[ 10 ] Staff**
+
+       → [ @ 11 ] LEADERSHIP           [ @ 12 ] FACULTY        [ @ 13 ] STAFF
+
+      [ 14 ] Pan American Academy's dedicated staff is committed to preparing bilingual, internationally - minded inquirers.              By utilizing inquiry - based
+      instructional strategies, teachers facilitate independent and innovative thinkers.
+
+      [ @ 15 ]                         [ @ 16 ]                          [ @ 17 ]                         [ @ 18 ]                          [ @ 19 ]
 
 
 
 
 
-                                                                                                                                                       **[$79] English**
 
-      [@15] Louis Alvarez               [@16] Marisela Ayala             [@17] Lorraine Cartagena          [@18] Lorna Concepcion
-                                                                                                                                            [@19] Dayana Covington
-      School Resource Officer           Lunchroom Assistant              School Counselor                  Social Worker
+
+
+
+     Louis Alvarez                     Marisela Ayala                    Lorraine Cartagena               Lorna Concepcion
+      School Resource Officer          Lunchroom Assistant               School Counselor                 Social Worker                     Dayana Covington
                                                                                                                                             Instructional Coach
 
+      [ @ 20 ]                         [ @ 21 ]                          [ @ 22 ]                          [ @ 23 ]                         [ @ 24 ]
+                                                                                                                                                         [ $ 79 ]
 
 
 
@@ -30,10 +38,12 @@
 
 
 
-                                                                         [@22] Altagracia Espinola
-      [@20] Miobelin DeJesus            [@21] Yocelys DeOleo                                               [@23] Miguel Feliciano           [@24] Orialis Feliciano
+                                                                         Altagracia Espinola
+      Miobelin DeJesus                 Yocelys DeOleo                                                     Miguel Feliciano                  Orialis Feliciano
                                                                          Food Service Coordinator
-      Classroom Assistant               Special Education Assistant                                        Dean of School Culture           Accounts Manager
+      Classroom Assistant              Special Education Assistant                                        Dean of School Culture            Accounts Manager
+
+      [ @ 25 ]                         [ @ 26 ]                          [ @ 27 ]                         [ @ 28 ]                          [ @ 29 ]
 
 
 
@@ -43,11 +53,12 @@
 
 
 
-                                                                         [@27] Gloribel Hernandez          [@28] Laura Higgin-Divito
-      [@25] Megan Fields                [@26] Solimar Gonzalez                                                                              [@29] Marisol Lugo
-                                                                         Special Education Assistant       Dean of Curriculum,
-      Speech Therapist                  Classroom Assistant                                                Instruction & Assessment         Security
-                                                                                                           MYP
+                                                                         Gloribel Hernandez               Laura Higgin - Divito
+      Megan Fields                     Solimar Gonzalez                                                                                     Marisol Lugo
+                                                                         Special Education Assistant      Dean of Curriculum, Instruction &
+      Speech Therapist                 Classroom Assistant                                                Assessment - MYP                  Security
+
+      [ @ 30 ]                          [ @ 31 ]                         [ @ 32 ]                         [ @ 33 ]                          [ @ 34 ]
 
 
 
@@ -57,13 +68,14 @@
 
 
 
-                                                                                                                                            [@34] [35] Jose Nu ez
-      [@30] Constance Malone            [@31] Amanda Martel              [@32] Annie Mendez                [@33] Elzy Mu oz
-                                                                                                                                            [36] IT Support Technician
-      Dean of Curriculum,               Special Education Assistant      Kitchen Assistant                 Instructional Coach
-                                                                                                                                            [37] Apple Teacher
-      Instruction & Assessment                                                                                                              Recognition
-      PYP
+                                                                                                                                            [ 35 ] Jose Nuñez
+      Constance Malone                 Amanda Martel                     Annie Mendez                     Elzy Muñoz
+                                                                                                                                            [ 36 ] IT Support Technician
+      Dean of Curriculum, Instruction & Special Education Assistant      Kitchen Assistant                Instructional Coach
+                                                                                                                                            [ 37 ] Apple Teacher Recognition
+     Assessment - PYP
+
+      [ @ 38 ]                         [ @ 39 ]                          [ @ 40 ]                         [ @ 41 ]                          [ @ 42 ]
 
 
 
@@ -73,10 +85,18 @@
 
 
 
-      [@38] Eddie Olivares              [@39] Eddie Olivares                                                                                [@42] Richei Phoeung
-                                                                         [@40] Ruth Ozuna                  [@41] Sueleidy Pagan
-      CARE Assistant                    Classroom Assistant                                                                                 IT Support Technician
-                                                                         Personal Care Assistant           Special Education Assistant      Apple Teacher Recognition
+      Eddie Olivares                   Eddie Olivares                                                                                       Richei Phoeung
+           Assistant                                                     Ruth Ozuna                       Sueleidy Pagan
+      CARE                             Classroom Assistant                                                                                  IT Support Technician
+                                                                         Personal Care Assistant          Special Education Assistant       Apple Teacher Recognition
+
+      [ @ 43 ]                         [ @ 44 ]                          [ @ 45 ]                         [ @ 46 ]                          [ @ 47 ]
+                                                                                                                                       **ம்**
+      Yolanie Ramirez                  Jeanette Rivera                   Juan Rosa                                                          Taylor Sparks
+      Food Services Assistant          Main Office Manager               CARE Assistant                   Hannah Seabrooks                  School Based Therapist
+                                                                                                          Instructional Coach
+
+      [ @ 48 ]                         [ @ 49 ]                          [ @ 50 ]                          [ @ 51 ]                         [ @ 52 ]
 
 
 
@@ -86,10 +106,12 @@
 
 
 
-      [@43] Yolanie Ramirez             [@44] Jeanette Rivera            [@45] Juan Rosa                                                    [@47] Taylor Sparks
-                                                                                                           [@46] Hannah Seabrooks
-      Food Services Assistant           Main Office Manager              CARE Assistant                                                     School Based Therapist
-                                                                                                           Instructional Coach
+     Linda Soto                        Gregory Thomas                    Francheska Torres                Aydee Trinidad
+         - teaching Assistant          School Resource Officer                     Services Coordinator   Classroom Assistant               Ramaylin Ureña
+      Non                                                                Specialized
+                                                                                                                                            Spanish Support Assistant
+
+      [ @ 53 ]                         [ @ 54 ]                          [ @ 55 ]                         [ @ 56 ]                          [ @ 57 ]
 
 
 
@@ -99,10 +121,11 @@
 
 
 
-      [@48] Linda Soto                  [@49] Gregory Thomas             [@50] Francheska Torres           [@51] Aydee Trinidad
-                                                                                                                                            [@52] Ramaylin Ure a
-      Non-teaching Assistant            School Resource Officer          Specialized Services              Classroom Assistant
-                                                                         Coordinator                                                        Spanish Support Assistant
+      Melissa Valle                                                                                       Jenny Velazquez
+      Intervention Coordinator         Miguel Vargas                     Timothy Vassion                  Intervention Assistant            Rosita Zayas
+                                       Dean of School Culture            Facilities Manager                                                 Administrative Assistant
+
+      [ @ 58 ]                         [ @ 59 ]
 
 
 
@@ -112,35 +135,42 @@
 
 
 
-      [@53] Melissa Valle                                                                                  [@56] Jenny Velazquez
-                                        [@54] Miguel Vargas              [@55] Timothy Vassion                                              [@57] Rosita Zayas
-      Intervention Coordinator                                                                             Intervention Assistant
-                                        Dean of School Culture           Facilities Manager                                                 Administrative Assistant
 
 
 
+                                                              .
 
 
-
-
-
-
-                                        [@59] Jessica Zipin
-      [@58] Lori Zimmaro
-                                        School Based Therapist
+                                       Jessica Zipin
+     Lori Zimmaro                      School
+                                              Based Therapist
       EL Coordinator
 
 
 
 
 
-      [65] Trujillo Center
-      [66] Pan American Academy Charter School
-      [60] 2830 North American Street
-                                                                             [@69] In Partnership with Congreso de Latinos Unidos                 [@76] Rights to Know Policy
-      [61] Philadelphia, PA 19133
-      [62] Phone: 215-425-1212                                                                                                                    [@77] Site Map
-      [63] Fax: 215-423-0871
-      [64] Copyright      2024 PAACS                                         [@71] IB World School
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 814
+
+
+
+
+
+
+
+                                                                                                                                                         English
+
+
+      [ 65 ] Trujillo Center                                                                                                                  [ @ 72 ] [ @ 73 ] [ @ 74 ] [ @ 75 ]
+                                                                                       CONGRESO
+      [ 66 ] Pan American Academy Charter School                                       Strengthening Latino Communities
+                                                                          [ @ 68 ]
+      [ 60 ] 2830 North American Street
+                                                                           [ @ 69 ] In Partnership with Congreso de Latinos Unidos            [ @ 76 ] Rights to Know Policy
+      [ 61 ] Philadelphia, PA 19133
+                                                                                                                                              [ @ 77 ] Site Map
+      [ 62 ] Phone: [ @ 67 ] 215-425-1212
+      [ 63 ] Fax: 215-423-0871                                                    **ib**
+                                                                          [ @ 70 ]
+      [ 64 ] Copyright © 2024 PAACS                                        [ @ 71 ] IB World School
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1092

@@ -1,5 +1,8 @@
-----------------------------------------------------------------------------------------------------------------------------------
-[$1] menu
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WILSON
+           [ @CONSINI
+
+            ㅁ  [ $ 1 ] MENU
 
 
 
@@ -7,88 +10,92 @@
 
 
 
-                      **[2] Sebastian**
-                      **Alsheimer**
-                      [3] Partner
-                      **[@4] Corporate**
-                      [@5] New York
 
-                      **[@6] salsheimer wsgr.com**
-                      **[7] D** **[@8] 212-453-2832**
+                                               **[ 2 ] Sebastian**
+                                              **Alsheimer**
 
-                                                                            [17] Focus Areas
-                                                                            [@18] Corporate
-                                                                            [@19] Corporate Governance
-                                                                            [@20] Mergers & Acquisitions
-                                                                            [@21] Shareholder Engagement and
-                                                                            Activism
+                                               [ 3 ] PARTNER
+                                               [ @ 4 ] Corporate
+                                               [ @ 5 ] New York
 
-                  [$13] Experience [$14] Credentials
+                                               [ @ 6 ] salsheimer@wsgr.com
+                                                  D [ @ 8 ] 212-453-2832
 
-                                                                            [22] Recent Insights
-                    **[15] Sebastian Alsheimer is a corporate partner in the New**
-                    **York office of Wilson Sonsini Goodrich & Rosati. He is a**
-                    **leader of the firm s shareholder engagement and activism**
-                    **practice, focusing on shareholder activism, proxy contests,**
-                    **corporate governance, and mergers and acquisitions.**
-                                                                              [23] Alerts
-                    **[16] Prior to joining the firm, Sebastian was a partner at**
-                    **Olshan Frome Wolosky.**                                 [24] SEC Adopts
-                                                                              Amendments to Rules
-                                                                              Governing Beneficial
-                                                                              Ownership Reporting
-                                                                              [25] On October 10, 2023,
-                                                                              the U.S. Securities and
-                                                                              Exchange Commission (SEC)
-                                                                              approved final rules [26]
-                                                                              amending the beneficial
-                                                                              ownership reporting
-                                                                              requirements under Sections
-                                                                              13(d) and 13(g) of the
-                                                                              Securities Exchange Act of
-                                                                              [28] 1934 Learn (Exchange More Act). These
-                                                                                    rule amendments and the
-                                                                                    related updated guidance
-                                                                                    provided by the SEC are the
-                                                                                    most significant reforms to
-                                                                                    the beneficial ownership
-                                                                                    reporting requirements since
-                                                                                    the adoption of the Williams
-                                                                                    Act in 1968.
+                                                 [ @ 9 ]         [ $ 10 ]     [ @ 11 ]       [ $ 12 ]
+                                                                                                                                                                   [ 17 ] FOCUS AREAS
+                                                                                                                                                                   [ @ 18 ] Corporate
+                                                                                                                                                                   [ @ 19 ] Corporate Governance
+                                                                                                                                                                   [ @ 20 ] Mergers & Acquisitions
+                                                                                                                                                                   [ @ 21 ] Shareholder Engagement and
+                                                                                                                                                                   Activism
+
+                                      [ $ 13 ] Experience   [ $ 14 ] Credentials
+
+                                           [ 15 ] Sebastian Alsheimer is a corporate partner in the New York
+                                           office of Wilson Sonsini Goodrich & Rosati. He is a leader of the                                                       [ 22 ] RECENT INSIGHTS
+                                           firm's shareholder engagement and activism practice, focusing on
+                                           shareholder activism, proxy contests, corporate governance, and                                                         [ @ 29 ]
+                                           mergers and acquisitions.
+
+                                           [ 16 ] Prior to joining the firm, Sebastian was a partner at Olshan
+                                           Frome Wolosky.                                                                                                              [ 23 ] ALERTS
+                                                                                                                                                                       [ 24 ] SEC Adopts
+                                                                                                                                                                       Amendments to Rules
+                                                                                                                                                                       Governing Beneficial
+                                                                                                                                                                       Ownership Reporting
+                                                                                                                                                                       [ 25 ] On October 10, 2023, the
+                                                                                                                                                                       U.S. Securities and Exchange.
+                                                                                                                                                                       Commission ( SEC )
+                                                                                                                                                                       approved [ @ 27 ] final
+                                                                                                                                                                       rules [ 26 ] amending the ...
+
+                                                                                                                                                                       [ 28 ] LEARN MORE ㅁ
 
 
-                                                                                    [30] Client Highlights
-                                                                                    [31] Wilson Sonsini
-                                                                                    Advises VirnetX on
-                                                                                    Dividend and
-                                                                                    Shareholder Agreement
-                                                                                    [32] On March 30, 2023,
-                                                                                    internet security company
-                                                                                    VirnetX announced a special
-                                                                                    cash dividend of 1.00 per
-                                                                                    share, as well as a
-                                                                                    cooperation agreement with
-                                                                                    shareholders Bradley L.
-                                                                                    Radoff and Michael Torok.
-                                                                                    Wilson Sonsini Goodrich &
-                                                                                    [33] Rosati Learn advised More VirnetX on the
-                                                                                           transactions.
 
-                                                                                           [@35] View
-                                                                                           All
+                                                                                                                                                                   [ @ 34 ]
+
+
+                                                                                                                                                                       [ 30 ] CLIENT HIGHLIGHTS
+                                                                                                                                                                       [ 31 ] Wilson Sonsini
+                                                                                                                                                                       Advises VirnetX on
+                                                                                                                                                                       Dividend and
+                                                                                                                                                                       Shareholder
+                                                                                                                                                                       Agreement
+                                                                                                                                                                       [ 32 ] On March 30, 2023, internet
+                                                                                                                                                                       security company VirnetX
+                                                                                                                                                                       announced a special cash
+                                                                                                                                                                       dividend of $ 1.00 per share, as
+                                                                                                                                                                       well as a cooperation agreeme ...
+
+                                                                                                                                                                       [ 33 ] LEARN MORE ☐
+
+
+                                                                                                                                                                                  [ @ 35 ] VIEW ALL
 
 
 
 
 
 
-                                      [@38] people                       [@43] Alumni
-                                      [56] Copyright 2023 Wilson Sonsini Goodrich & Rosati. All Rights Reserved.
-                                      [@39] insights                     [@44] Mailing List Signup
-                                      [@40] about us                     [@45] Employee Login
-                                      [@41] careers                      [@46] Client FTP Portal
-                                      [@42] Binder                       [@47] Privacy Policy
-                                                                         [@48] Terms of Use
-                                                                         [49] Accessibility
-----------------------------------------------------------------------------------------------------------------------------------
-Token count: 628
+
+
+
+                                                                             [ @ 38 ]    Search                                              [ @ 43 ] Alumni
+                                                                              [ * ]                wsgr.com
+                                                                             5 @ 51 ]       [ 52 ]           [ @ 53 ]         [ @ 54 ]        [ 55 ] Reserved.
+                                                                             [ @ 39 ] INSIGHTS                                               [ @ 44 ] Mailing List Signup
+
+                                                                             [ @ 40 ] ABOUT US                                               [ @ 45 ] Employee Login
+
+                                                                            **[ @ 41 ] MEERS ON**                                            [ @ 46 ] Client FTP Portal
+                                                                                  **SONSINI**                                                [ @ 47 ] Privacy Policy
+
+                                                                                                                                             [ @ 48 ] Terms of Use
+
+                                                                                                                                             [ 49 ] Accessibility
+
+     [ 57 ] By clicking" Accept All Cookies," you agree to the storing of cookies on your device to help us analyze traffic, enhance your experience, [ $ 58 ] Cookie Settings [ $ 59 ] Disable All  [ $ 60 ] Accept All Cookies
+     and provide you with tailored content.                                                                                                                                                                                            [ $ 61 ]
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 757

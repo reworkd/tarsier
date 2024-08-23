@@ -1,77 +1,83 @@
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[0] O Melveny Worldwide
-                                   [2] Professionals       [3] Services     [4] Insights     [5] News     [6] Locations                     [7] About      [@8] Careers [@9] Alumni
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ 0 ] O'MELVENY WORLDWIDE
+            [ @ 1 ]
+             **' Melveny**         [ 2 ] PROFESSIONALS [ 3 ] SERVICES [ 4 ] INSIGHTS [ 5 ] NEWS [ 6 ] LOCATIONS    [ 7 ] ABOUT [ @ 8 ] CAREERS [ @ 9 ] ALUMNI ☐
 
-  [@10] Our Team [11] Billy Abbott
-                                                                                                                                  [20] Areas of Focus
-
-                                                                                                                                 [@21] Asset Management
-                                                                                                                                 [@22] Mergers & Acquisitions
-                                                                                                                                 [@23] Private Equity
-                                                                                                                                 [@24] Tax
-                                                                                                                                 [@25] Digital Assets & Web3
-
-
+         [ @ 10 ] Our Team > [ 11 ] Billy Abbott
+                                                                                                            [ 20 ] AREAS OF FOCUS
+                                                                                                           [ @ 21 ] Asset Management
+                                                                                                           [ @ 22 ] Mergers & Acquisitions
+                                                                                                           [ @ 23 ] Private Equity
+                                                                                                           [ @ 24 ] Tax
+                                                                                                           [ @ 25 ] Digital Assets & Web3
 
 
 
 
-                                                                                                                        [46] O Melveny uses cookies to improve website functionality
-                                                                                                                        and performance. By continuing to this website, you are
-                                                                                                                        agreeing to our Cookie Policy.
-                                                                                                                             [$48] Only use essential cookies    [$49] Accept Cookies
-
-
-      **[12] Billy Abbott**                                                                            [@14] Silicon Valley Office
-      [13] Partner
-
-      [@15] babbott omm.com    [16] D: +1-650-473-2614
-
-     [@26] Overview [@27] Experience [@28] Insights [@29] News [@30] Credentials
-
-  **[31] Billy Abbott advises clients on tax matters arising from private and**
-  **public mergers and acquisitions, asset management funds, digital**
-  **assets, complex cross-border structuring and more.**
-  [32] He represents a wide range of enterprises, including start-ups, large multinational corporations, financial institutions,
-  private equity, real estate, and other investment funds, sovereign wealth and foreign pension funds, financial technology
-  creators and investors, among others. A talented and versatile corporate tax lawyer, Billy is a trusted advisor to his
-  clients who appreciate his collaborative approach, his broad and deep technical expertise and his ability to distill
-  complex tax matters into clear and helpful guidance. Billy is also committed to pro bono efforts, primarily assisting
-  non-profit organizations apply for tax exempt status and manage their corporate concerns in a range of fields, from
-  education to criminal justice to supporting the LGBTQ+ community.
-
-
-    **[33] Get to Know Billy**                                 [34] What                do         you        enjoy         most         about         your        job?
-
-                                                               [35] For our clients, tax issues are incredibly important, but can also be quite daunting. I spend much of my day
-                                                               immersed in the highly technical and complex world of tax law, but our clients are rightfully focused on growing their
-                                                               business or successfully completing a transaction. What I enjoy most is bridging that gap explaining and breaking
-                                                               down the most difficult tax issues facing our clients into clear, digestible guidance. By promoting our clients
-                                                               understanding about tax issues, they feel confident in their decisions and that they have achieved the best possible
-                                                               outcome.
-
-
-                                                               [36] Why                    did         you          become            a          tax          lawyer?
-
-                                                               [37] What              is      the       most       rewarding        part       of      your       work?
-
-                                                               [38] How do        you    keep   clients  up    to  speed    with   the   constantly   changing    tax   law?
-
-
-  [39] Related Practices                                                [44] Related Industries
-
-  [@40] Asset Management                                                [@45] Digital Assets & Web3
-
-  [@41] Mergers & Acquisitions
-
-  [@42] Private Equity
-
-  [@43] Tax
 
 
 
 
-                                                                                          [56] O Melveny s latest insights, straight to your inbox [@57] Subscribe
-  [@59] Disclaimer [@60] Privacy Policy [@61] Contact Us                                                        [58] Attorney Advertising 2023 O'Melveny & Myers LLP. All rights reserved
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Token count: 765
+
+
+
+
+            [ 12 ] Billy Abbott                                                    [ @ 14 ] Silicon Valley Office
+            [ 13 ] Partner
+
+            [ @ 15 ] babbott@omm.com [ 16 ] D: [ @ 17 ] + 1-650-473-2614         [ @ 18 ]   [ @ 19 ]
+
+           [ @ 26 ] OVERVIEW [ @ 27 ] EXPERIENCE [ @ 28 ] INSIGHTS [ @ 29 ] NEWS [ @ 30 ] CREDENTIALS
+
+
+         **[ 31 ] Billy Abbott advises clients on tax matters arising from private and**
+         public mergers and acquisitions, asset management funds, digital
+        assets, complex cross - border structuring and more.
+         [ 32 ] He represents a wide range of enterprises, including start - ups, large multinational corporations, financial institutions,
+        private equity, real estate, and other investment funds, sovereign wealth and foreign pension funds, financial technology
+        creators and investors, among others. A talented and versatile corporate tax lawyer, Billy is a trusted advisor to his clients
+        who appreciate his collaborative approach, his broad and deep technical expertise and his ability to distill complex tax
+        matters into clear and helpful guidance. Billy is also committed to pro bono efforts, primarily assisting non - profit
+        organizations apply for tax exempt status and manage their corporate concerns in a range of fields, from education to
+        criminal justice to supporting the LGBTQ + community.
+
+
+         [ 33 ] Get to Know Billy                    [ 34 ]                         What do you enjoy most about your job?
+
+                                                    [ 35 ] For our clients, tax issues are incredibly important, but can also be quite daunting. I spend much of my day immersed in the
+                                                    highly technical and complex world of tax law, but our clients are rightfully focused on growing their business or successfully
+                                                    completing a transaction. What I enjoy most is bridging that gap - explaining and breaking down the most difficult tax issues facing
+                                                    our clients into clear, digestible guidance. By promoting our clients' understanding about tax issues, they feel confident in their
+                                                    decisions and that they have achieved the best possible outcome.
+
+
+                                                                                                                                                    ☐
+                                                    [ 36 ]                            Why did you become a tax lawyer?
+
+                                                                                                                                                   ☐
+                                                    [ 37 ]                        What is the most rewarding part of your work?
+
+
+                                                    [ 38 ]             How do you keep clients up to speed with the constantly changing tax law?   ☐
+
+
+
+           [ 39 ] RELATED PRACTICES                          [ 44 ] RELATED INDUSTRIES
+          [ @ 40 ] Asset Management                          [ @ 45 ] Digital Assets & Web3
+
+          [ @ 41 ] Mergers & Acquisitions
+
+          [ @ 42 ] Private Equity
+
+          [ @ 43 ] Tax
+
+
+                                                                                                            [ 46 ] O'Melveny uses cookies to improve website functionality
+                                                                                                            and performance. By continuing to this website, you are
+                                                                                                            agreeing to our [ @ 48 ] Cookie Policy [ 47 ].
+          [ @ 51 ]
+                                     [ 57 ] O'Melveny's latest insights, straight to your inbox [ @ 58 ] Subscribe [ @ 52 ] [ @ 53 ] Only [ @ 54 ] tial Co [ @ 55 ] [ @ 56 ] .ccept Cookies
+           O'Melveny
+           [ @ 60 ] DISCLAIMER [ @ 61 ] PRIVACY POLICY [ @ 62 ] CONTACT US                   [ 59 ] ATTORNEY ADVERTISING © 2023 O'MELVENY & MYERS LLP. ALL RIGHTS RESERVED
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 921
