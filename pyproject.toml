@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tarsier"
-version = "0.6.39"
+version = "0.7.0"
 description = "Vision utilities for web interaction agents"
 authors = ["Rohan Pandey", "Adam Watkins", "Asim Shrestha"]
 readme = "README.md"
@@ -9,7 +9,7 @@ exclude = ["tarsier/**/*.ts", "tarsier_snapshots", "tarsier_snapshots/*"]
 
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = ">=3.11,<4.0"
 playwright = "^1.44.0"
 selenium = "^4.21.0"
 google-cloud-vision = "^3.7.2"
