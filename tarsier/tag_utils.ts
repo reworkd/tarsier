@@ -83,9 +83,7 @@ const isTextNodeAValidWord = (child: ChildNode) => {
   // We don't want to be tagging separator symbols like '|' or '/' or '>' etc
   const trimmedWord = child.textContent?.trim();
   return trimmedWord && (trimmedWord.match(/\w/) || trimmedWord.length > 3); // Regex matches any character, number, or _
-}
-
-
+};
 
 const inputs = ["a", "button", "textarea", "select", "details", "label"];
 const isInteractable = (el: HTMLElement) => {
@@ -354,9 +352,7 @@ function getElementsToTag(
     } else if (tagLeafTexts) {
       // Append the parent tag as it may have multiple individual child nodes with text
       // We will tag them individually later
-      if (
-        Array.from(el.childNodes).filter(isTaggableTextNode).length >= 1
-      ) {
+      if (Array.from(el.childNodes).filter(isTaggableTextNode).length >= 1) {
         elementsToTag.push(el);
       }
     }
