@@ -94,6 +94,7 @@ examples = [
 ]
 
 
+@pytest.mark.skip("need to update CI")
 @pytest.mark.asyncio
 @pytest.mark.parametrize("data", examples)
 async def test_snapshot_execution_time(data, tarsier):
