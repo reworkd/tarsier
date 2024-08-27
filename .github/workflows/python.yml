@@ -76,6 +76,8 @@ jobs:
           python-version: ${{ env.PYTHON_VERSION }}
           cache: "poetry"
       - run: poetry install && poetry run playwright install chromium
+      - name: Download example data
+        run: poetry run python -m bananalyzer.data --download
       - name: Run pytest check
         run: poetry run pytest -vv --cov="tarsier" .
         env:
