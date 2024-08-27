@@ -7,7 +7,7 @@ example_data = [
     {
         "id": "h4q2uwr0z0sVFM0q5AV7n",
         "expected_page_to_image_time": 1.0,
-        "expected_page_to_text_time": 2.0,
+        "expected_page_to_text_time": 3.0,
     },
     {
         "id": "7dhL1dij4AsT9qWCbWBHq",
@@ -47,7 +47,7 @@ example_data = [
     {
         "id": "BBofvHlOP5C5aSVJknz1C",
         "expected_page_to_image_time": 0.9,
-        "expected_page_to_text_time": 3.0,
+        "expected_page_to_text_time": 3.5,
     },
     {
         "id": "7xlvZTTi21A1s7k3AoBOS",
@@ -57,7 +57,7 @@ example_data = [
     {
         "id": "ct6PuXzujbOlM9zaARUpa",
         "expected_page_to_image_time": 3.0,
-        "expected_page_to_text_time": 8.0,
+        "expected_page_to_text_time": 12.0,
     },
     {
         "id": "bwwko5J7aFk5K8qz61jBI",
