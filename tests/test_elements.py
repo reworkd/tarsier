@@ -64,6 +64,15 @@ from tarsier import Tarsier, DummyOCRService
             ["Display contents"],
             ["[ 0 ]"],
         ),
+        (
+            "mock_html/icon_buttons.html",
+            {
+                0: "//html/body/button[1]",
+                1: "//html/body/button[2]",
+            },
+            [],
+            ["[ $ 0 ]", "[ $ 1 ]"],
+        )
     ],
 )
 async def test_combined_elements_page(
