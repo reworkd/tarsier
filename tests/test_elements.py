@@ -73,6 +73,12 @@ from tarsier import Tarsier, DummyOCRService
             [],
             ["[ $ 0 ]", "[ $ 1 ]"],
         ),
+        (
+            "mock_html/image.html",
+            {},
+            ["Hello World"],
+            [],
+        ),
     ],
 )
 async def test_combined_elements_page(
