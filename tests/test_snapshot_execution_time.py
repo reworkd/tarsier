@@ -1,7 +1,10 @@
 import time
+import os
 import pytest
 from bananalyzer.data.examples import get_training_examples
 from playwright.async_api import async_playwright
+
+IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
 
 example_data = [
     {
@@ -81,21 +84,23 @@ example_data = [
     },
 ]
 
-all_examples = get_training_examples()
-examples = [
-    {
-        "example": example,
-        "expected_page_to_image_time": data["expected_page_to_image_time"],
-        "expected_page_to_text_time": data["expected_page_to_text_time"],
-    }
-    for data in example_data
-    for example in all_examples
-    if example.id == data["id"]
-]
+examples = []
+
+if IS_GITHUB_ACTIONS:
+    all_examples = get_training_examples()
+    examples = [
+        {
+            "example": example,
+            "expected_page_to_image_time": data["expected_page_to_image_time"],
+            "expected_page_to_text_time": data["expected_page_to_text_time"],
+        }
+        for data in example_data
+        for example in all_examples
+        if example.id == data["id"]
+    ]
 
 
-@pytest.mark.skip("need to update CI")
-@pytest.mark.asyncio
+@pytest.mark.skipif(IS_GITHUB_ACTIONS, reason="skip in github actions")
 @pytest.mark.parametrize("data", examples)
 async def test_snapshot_execution_time(data, tarsier):
     example = data["example"]
