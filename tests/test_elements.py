@@ -75,12 +75,9 @@ from tarsier import Tarsier, DummyOCRService
         ),
         (
             "mock_html/image.html",
-            {
-                0: "//html/body/img",
-            },
             {},
             ["Hello World"],
-            ["[ 0 ]"],
+            [],
         ),
     ],
 )
