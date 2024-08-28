@@ -72,7 +72,7 @@ from tarsier import Tarsier, DummyOCRService
             },
             [],
             ["[ $ 0 ]", "[ $ 1 ]"],
-        )
+        ),
     ],
 )
 async def test_combined_elements_page(
