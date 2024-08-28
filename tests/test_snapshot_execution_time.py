@@ -5,7 +5,6 @@ from bananalyzer.data.examples import get_training_examples
 from playwright.async_api import async_playwright
 
 IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
-
 example_data = [
     {
         "id": "h4q2uwr0z0sVFM0q5AV7n",
@@ -84,9 +83,7 @@ example_data = [
     },
 ]
 
-examples = []
-
-if IS_GITHUB_ACTIONS:
+if not IS_GITHUB_ACTIONS:
     all_examples = get_training_examples()
     examples = [
         {
@@ -98,10 +95,13 @@ if IS_GITHUB_ACTIONS:
         for example in all_examples
         if example.id == data["id"]
     ]
+else:
+    examples = []
 
 
 @pytest.mark.skipif(IS_GITHUB_ACTIONS, reason="skip in github actions")
 @pytest.mark.parametrize("data", examples)
+@pytest.mark.asyncio
 async def test_snapshot_execution_time(data, tarsier):
     example = data["example"]
     expected_image_time = data["expected_page_to_image_time"]
