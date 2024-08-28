@@ -98,8 +98,6 @@ async def test_combined_elements_page(
     page_text, tag_to_xpath = await tarsier.page_to_text(
         async_page, tag_text_elements=True
     )
-    print("PAGE TEXT: \n")
-    print(page_text)
 
     assert tag_to_xpath == expected_tag_to_xpath, (
         f"tag_to_xpath does not match expected output for "
