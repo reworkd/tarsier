@@ -83,7 +83,9 @@ example_data = [
     },
 ]
 
-if not IS_GITHUB_ACTIONS:
+if IS_GITHUB_ACTIONS:
+    examples = []
+else:
     all_examples = get_training_examples()
     examples = [
         {
@@ -95,8 +97,6 @@ if not IS_GITHUB_ACTIONS:
         for example in all_examples
         if example.id == data["id"]
     ]
-else:
-    examples = []
 
 
 @pytest.mark.skipif(IS_GITHUB_ACTIONS, reason="skip in github actions")
