@@ -1,31 +1,28 @@
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-SAP       [ 0 ] Business Network                                                                                                                                          [ $ 1 ] Register   [ $ 2 ] Login
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SAP      [ 0 ] Business Network                                                                                                                            [ $ 1 ] Register [ $ 2 ] Login
 
 
-                                                              [ $ 7 ]    [ 8 ] ISO 14001 Certified ( Environmental Management )
-                                                                         [ 9 ] Self - Reported
+                                                        [ $ 7 ]   [ 8 ] ISO 14001 Certified ( Environmental Management )
+                                                                  [ 9 ] Self - Reported
 
-                                         ALAB                   [ @ 10 ]
-                                                                Sep 21, 2017 - Sep 20, 2020                                     [ $ 11 ]           [ 12 ] Effective - Expiration Date
-                                                                Current - Expired                               Certificate                        [ 13 ] Sep 21, 2017 - Sep 20, 2020
-                                                                                                                          preview image
-                                                                                                                                                   [ 14 ] Year of Publication
-                          SINOSTEEL                                                                                                                [ 15 ] 2017
-                                                                                                                                                 ☐
-                                                                                                                                                   [ 16 ] Certification Number
-                                                                                                                                                   [ 17 ] 02217E3040R3L
-            ☐  [ @ 3 ] Overview
-                                                                                                                                                   [ 18 ] Certified By
-                                                                                                                                                   [ 19 ] Beijing Grand Honour Management System
-           ☐   [ 4 ] Credentials                                                                                                                   Certification Co., Ltd.
-                  [ @ 5 ] Certifications                                                                                                           [ 20 ] Certified Location
-                                                                                                                                                   [ 21 ] Beijing
-                  [ @ 6 ] Sustainability Ratings
-                                                                                                                                                   [ 22 ] Additional Information
-
-
-
-
+                                     ALAB                 [ @ 10 ]
+                                                          Sep 21, 2017 - Sep 20, 2020                               [ $ 11 ]          [ 12 ] Effective - Expiration Date
+                                                          Current - Expired                           Certificate                    [ 13 ] Sep 21, 2017 - Sep 20, 2020
+                                                                                                               preview image
+                                                                                                                                     [ 14 ] Year of Publication
+                        SINOSTEEL                                                                                                    [ 15 ] 2017
+                                                                                                                                    ☐
+                                                                                                                                      [ 16 ] Certification Number
+                                                                                                                                      [ 17 ] 02217E3040R3L
+           ☐  [ @ 3 ] Overview
+                                                                                                                                     [ 18 ] Certified By
+                                                                                                                                     [ 19 ] Beijing Grand Honour Management System
+          ☐   [ 4 ] Credentials                                                                                                      Certification Co., Ltd.
+                [ @ 5 ] Certifications                                                                                               [ 20 ] Certified Location
+                                                                                                                                     [ 21 ] Beijing
+                [ @ 6 ] Sustainability Ratings
+                                                                                                                                     [ 22 ] Additional Information
+                                                                                                                                      [ 23 ] -
 
 
 
@@ -41,8 +38,9 @@ SAP       [ 0 ] Business Network                                                
 
 
 
-       SAP      [ 23 ] © 2024 [ 24 ] ] SAP SE or an SAP affiliate company. All rights reserved.                                                   [ @ 25 ] Privacy Statement [ @ 26 ] Security Disclosure [ @ 27 ] Terms of Use
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Image timing: 2.86 seconds
-Page text timing: 0.51 seconds
-Token count: 335
+
+
+
+      SAP     [ 24 ] © 2024 [ 25 ] SAP SE or an SAP affiliate company. All rights reserved.                                         [ @ 26 ] Privacy Statement [ @ 27 ] Security Disclosure [ @ 28 ] Terms of Use
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 342

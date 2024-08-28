@@ -35,133 +35,132 @@ Fried                                                                           
                                                         certifications or other professional licenses held, and if applicable, the location in which the
                                                         applicant lives and / or from which they will be performing the job.
                                                          [ 20 ] Salary Range
-                                                         [ 21 ] $ 295,000- [ 22 ] $ 415,000 USD
+                                                         [ 21 ] $ 295,000 [ 22 ]      [ 23 ] $ 415,000 USD
 
-                                                                 23 ] Apply for this Job                                                                                [ 24 ] Required
-                                                                [
-                                                                [ $ 25 ] First Name *     [ # 26 ]
+                                                                                          this Job                                                               [ 26 ] [ 25 ] Required
+                                                                [ 24 ] Apply for
+                                                                [ $ 27 ] First Name *     [ # 28 ]
 
-                                                                [ $ 27 ] Last Name        [ # 28 ]
+                                                                [ $ 29 ] Last Name        [ # 30 ]
 
-                                                                       [ $ 29 ] Email     [ # 30 ]
+                                                                       [ $ 31 ] Email     [ # 32 ]
 
-                                                                      [ $ 31 ] Phone      [ # 32 ]
+                                                                      [ $ 33 ] Phone      [ # 34 ]
 
-                                                                  [ $ 33 ] Resume / CV [ $ 34 ] Attach, [ @ 35 ] Dropbox, [ @ 36 ] Google Drive,
-                                                                                           [ $ 37 ] or enter manually
-                                                                                           [ 38 ] ( File types: pdf, doc, docx, txt, rtf )
-                                                                 [ $ 39 ] Cover Letter     [ $ 40 ] Attach,  [ @ 41 ] Dropbox,     [ @ 42 ] Google Drive,
-                                                               [ $ 43 ] or enter manually
-                                                                [ 44 ] ( File types: pdf, doc, docx, txt, rtf )
+                                                                  [ $ 35 ] Resume / CV [ $ 36 ] Attach, [ @ 37 ] Dropbox,          [ @ 38 ] Google Drive,
+                                                                                           [ $ 39 ] or enter manually
+                                                                                           [ 40 ] ( File types: pdf, doc, docx, txt, rtf )
+                                                                 [ $ 41 ] Cover Letter     [ $ 42 ] Attach,  [ @ 43 ] Dropbox, [ @ 44 ] Google Drive,
+                                                                [ $ 45 ] or enter manually
+                                                               [ 46 ] ( File types: pdf, doc, docx, txt, rtf )
 
-                                                                     [ $ 45 ] School *      [ @ 46 ]
-                                                                                          [ # 48 ]
-                                                                     [ $ 49 ] Degree *     [ @ 50 ]
-                                                                                          [ # 52 ]
+                                                                     [ $ 47 ] School  *     [ @ 48 ]
+                                                                                          [ # 50 ]
+                                                                     [ $ 51 ] Degree *      [ @ 52 ]
+                                                                                          [ # 54 ]
+                                                                  [ $ 55 ] Discipline *    [ @ 56 ]
+                                                                                          [ # 58 ]
 
-                                                                  [ $ 53 ] Discipline *     [ @ 54 ]
-                                                                                          [ # 56 ]
-
-                                                                    [ $ 57 ] Start Date    [ # 58 ] MM [ # 59 ] YYYY
+                                                                    [ $ 59 ] Start Date    [ # 60 ] MM [ # 61 ] YYYY
+                                                                               ( Year )
+                                                                     [ $ 62 ] End Date     [ # 63 ] MM [ # 64 ] YYYY
                                                                                ( Year )
 
-                                                                     [ $ 60 ] End Date     [ # 61 ] MM [ # 62 ] YYYY
-                                                                               ( Year * )
+                                                                    [ @ 65 ] + Add another education
 
-                                                                    [ @ 63 ] + Add another education
-
-                                                                [ $ 64 ] Please upload your transcript.
-                                                                [ $ 65 ] Attach File, [ @ 66 ] Dropbox, [ @ 67 ] Google Drive
-                                                                [ 68 ] ( File types: pdf, doc, docx, txt, rtf )
-                                                                [ $ 69 ] Please upload additional transcript.
-                                                                [ $ 70 ] Attach File, [ @ 71 ] Dropbox,       [ @ 72 ] Google Drive
-                                                               [ [ 73 ] ( File types: pdf, doc, docx, txt, rtf )
-                                                                [ $ 74 ] Please upload deal sheet.
-                                                                [ $ 75 ] Attach File, [ @ 76 ] Dropbox, [ @ 77 ] Google Drive
-                                                                [ 78 ] ( File types: pdf, doc, docx, txt, rtf )
-                                                                [ 79 ] Select language ( s ) in which you have fluency or a working level knowledge in:
-                                                                [ # 81 ]
-                                                                [ 82 ] Are you a U.S. citizen, U.S. lawful permanent resident ( i.e. green card holder ), or Refugee or
-                                                               Asylee? *
-                                                                  [ @ 83 ] ]
-                                                                [ # 85 ]
-                                                                [ 86 ] Do you presently have an authorization that will allow you to lawfully work for the Firm? *
-                                                                  [ @ 87 ]
-                                                                [ # 89 ]
-                                                                [ 90 ] Will you now or in the future require the firm to sponsor you to obtain, maintain or extend your
-                                                               U.S. employment work authorization ( for example, H - 1B or other visa status )? *
+                                                                [ $ 66 ] Please upload your transcript.
+                                                                [ $ 67 ] Attach File, [ @ 68 ] Dropbox,       [ @ 69 ] Google Drive
+                                                                [ 70 ] ( File types: pdf, doc, docx, txt, rtf )
+                                                                [ $ 71 ] Please upload additional transcript.
+                                                                [ $ 72 ] Attach File,  [ @ 73 ] Dropbox, [ @ 74 ] Google Drive
+                                                                [ 75 ] ( File types: pdf, doc, docx, txt, rtf )
+                                                                [ $ 76 ] Please upload deal sheet.
+                                                                [ $ 77 ] Attach File, [ @ 78 ] Dropbox, [ @ 79 ] Google Drive
+                                                                [ 80 ] ( File types: pdf, doc, docx, txt, rtf )
+                                                                [ 81 ] Select language ( s ) in which you have fluency or a working level knowledge in:
+                                                                [ # 83 ]
+                                                                [ 84 ] Are you a U.S. citizen, U.S. lawful permanent resident ( i.e. green card holder ), or Refugee or
+                                                               Asylee? [ 85 ]
+                                                                 [ @ 86 ]
+                                                                [ # 88 ]
+                                                               [ 89 ] Do you presently have an authorization that will allow you to lawfully work for the Firm? [ 90 ] *
                                                                   [ @ 91 ]
                                                                 [ # 93 ]
-                                                                [ 94 ] Have you ever been employed by or applied for a job at this Firm in the past? *
-                                                                  [ @ 95 ]
-                                                                [ # 97 ]
-                                                                [ 98 ] If YES, please indicate date and position:
-                                                                [ # 99 ]
-
-                                                               [ 100 ] Do you have any relatives currently employed by Fried Frank?
-                                                                 [ @ 101 ]
+                                                                [ 94 ] Will you now or in the future require the firm to sponsor you             obtain, maintain or extend your
+                                                               U.S. employment work authorization ( for example, H - 1B or other visa status )? [ 95 ]
+                                                                 [ @ 96 ]
+                                                                [ # 98 ]
+                                                                [ 99 ] Have you ever been employed by or applied for a job at this Firm in the past? [ 100 ] *
+                                                                  [ @ 101 ]
                                                                 [ # 103 ] ]
-                                                               [ 104 ] If YES, please provide name, role and department:
+                                                                [ 104 ] If YES, please indicate date and position:
                                                                 [ # 105 ]
 
-                                                                [ 106 ] Are you admitted in the jurisdiction to the office in which you are applying? *
+                                                               [ 106 ] Do you have any relatives currently employed by Fried Frank?
                                                                   [ @ 107 ]
                                                                 [ # 109 ]
-                                                                [ 110 ] If YES, please select:
-                                                                [ # 112 ]
-                                                                [ 113 ] If NO, are you currently eligible to sit for an examination in that jurisdiction?
+                                                                [ 110 ] If YES, please provide name, role and department:
+                                                                [ # 111 ]
+
+                                                                [ 112 ] Are you admitted in the jurisdiction to the office in which you are applying? [ 113 ] *
                                                                  [ @ 114 ]
                                                                 [ # 116 ]
-                                                                [ $ 117 ] If NO, please describe the circumstances around your ineligibility, including when you will
+                                                                [ 117 ] If YES, please select:
+                                                                [ # 119 ]
+                                                                [ 120 ] If NO, are you currently eligible to sit for an examination in that jurisdiction?
+                                                                  [ @ 121 ]
+                                                                [ # 123 ]
+                                                                [ $ 124 ] If NO, please describe the circumstances around your ineligibility, including when you will
                                                                become eligible, if applicable:
 
 
 
 
 
-                                                                [ 118 ] If not admitted to the jurisdiction to the office in which you are applying, have you previously
+                                                                [ 125 ] If not admitted to the jurisdiction to the office in which you are applying, have you previously
                                                                sat for an examination in that jurisdiction, including the MPRE?
-                                                                  [ @ 119 ]
-                                                                [ # 121 ]
-                                                                [ $ 122 ] If YES, please list Date ( s ) of Examination and Results:
-
-
-
-
-
-                                                                [ 123 ] Are you scheduled to sit for an examination in that jurisdiction, including the MPRE?
-                                                                  [ @ 124 ]
-                                                                [ # 126 ]
-                                                                [ 127 ] If YES, please list Date of Examination:
+                                                                  [ @ 126 ]
                                                                 [ # 128 ]
+                                                                [ $ 129 ] If YES, please list Date ( s ) of Examination and Results:
 
-                                                                [ 129 ] How were you referred? Select all that apply.
-                                                               [ $ 131 ] ] Online Advertising
-                                                               [ $ 133 ] On - Campus Recruiting
-                                                               [ $ 135 ] Internet Site
-                                                               [ $ 137 ]  Recruitment Agency
-                                                               [ $ 139 ]  Referral
-                                                               [ $ 141 ]  Other
-                                                                [ 142 ] If applicable, please add referrer name or additional information on how you were referred:
-                                                                [ # 143 ]
 
-                                                                [ 144 ] Application Certification
-                                                                [ 145 ] By submitting your application, you certify that the information you provided is true and
+
+
+
+                                                                [ 130 ] Are you scheduled to sit for an examination in that jurisdiction, including the MPRE?
+                                                                  [ @ 131 ]
+                                                                [ # 133 ]
+                                                                [ 134 ] If YES, please list Date of Examination:
+                                                                [ # 135 ]
+
+                                                                [ 136 ] How were you referred? Select all that apply.
+                                                               [ $ 138 ] ] Online Advertising
+                                                               [ $ 140 ] On - Campus Recruiting
+                                                               [ $ 142 ] Internet Site
+                                                               [ $ 144 ] Recruitment Agency
+                                                               [ $ 146 ]  Referral
+                                                                $ 148 ]   Other
+                                                               [
+                                                                [ 149 ] If applicable, please add referrer name or additional information on how you were referred:
+                                                                [ # 150 ]
+
+                                                               [ 151 ] Application Certification [ 152 ]
+                                                                [ 153 ] By submitting your application, you certify that the information you provided is true and
                                                                complete and that no attempt has been made to disguise or conceal information ( other than criminal
                                                                records that have been properly sealed or expunged ). If any information provided by you during the
                                                                application process is false or misleading, you understand that you may be denied employment and,
                                                                if employed, will be subject to dismissal at any time without notice. All statements made by you in the
                                                                course of applying for employment with Fried, Frank, Harris, Shriver & Jacobson LLP are subject to
                                                                verification by Fried, Frank, Harris, Shriver & Jacobson LLP (" the Firm" ).
-                                                               [ 146 ] You understand that should you become employed as a law firm employee, you would be
+                                                                [ 154 ] You understand that should you become employed as a law firm employee, you would be
                                                                expected to engage in ethical conduct, and to exhibit honesty and candor at all times. You also
                                                                recognize that the Firm and Firm's clients are entitled to have their confidences protected from
                                                                disclosure outside the Firm and you agree not to disclose any confidential information related to the
                                                                Firm or the Firm's clients, business or business affairs. You will comply with all rules and regulations,
                                                                written or oral, of the Firm, as they may exist from time to time.
-                                                                [ 147 ] You authorize the Firm to use your pre - employment picture, employment - related photographs,
+                                                                [ 155 ] You authorize the Firm to use your pre - employment picture, employment - related photographs,
                                                                and any biographical data in its business publications without compensation or prior notice.
-                                                                [ 148 ] You understand that this application does not, by itself, create a contract of employment.
+                                                                [ 156 ] You understand that this application does not, by itself, create a contract of employment.
                                                                Further, you understand and agree that, if hired, your employment is for no definite period of time
                                                                and may be terminated at any time with or without cause or advance notice. Any employment offered
                                                                or accepted is employment" at will" and you both recognize and covenant that by accepting
@@ -169,70 +168,70 @@ Fried                                                                           
                                                                You understand and agree that no manual, handbook, oral statement, or conduct of the Firm or its
                                                                employees may or should be relied upon to establish employment by the Firm other than" at will" at
                                                                the time of original employment or thereafter.
-                                                               [ $ 150 ]    Certify.
+                                                               [ $ 158 ]  | Certify.
 
-                                                                [ 151 ] Demographic Information [ Voluntary ]
-                                                                [ 152 ] This section is [ 154 ] entirely voluntary [ 153 ], and refusal to provide information will
+                                                                [ 159 ] Demographic Information [ Voluntary ]
+                                                                [ 160 ] This section is [ 162 ] entirely voluntary [ 161 ], and refusal to provide information will
                                                                not subject the applicant to any adverse treatment. The information collected will help Fried
                                                                Frank comply with its legal and regulatory diversity and inclusion obligations and to also
                                                                track the success of Fried Frank's voluntary diversity and inclusion efforts, including
                                                                complying with the Mansfield Rule 6.0 initiative. Fried Frank is an Equal Opportunity
                                                                Employer, dedicated to hiring exceptional talent regardless of background. Learn more about
-                                                               our [ @ 155 ] Hiring / Equal Opportunity Policy.
-                                                                [ 156 ] Any personal information will be treated in accordance with Fried Frank's data privacy
+                                                               our [ @ 163 ] Hiring / Equal Opportunity Policy.
+                                                                [ 164 ] Any personal information will be treated in accordance with Fried Frank's data privacy
                                                                policy. Answers will be kept confidential and in accordance with the Americans with
                                                                Disabilities Act and used only for diversity and inclusion monitoring purposes. Answers will
                                                                not be used during the hiring process.
-                                                                [ 157 ] * Please note that those who self - identify as Middle Eastern / North African will be
+                                                                [ 165 ] * Please note that those who self - identify as Middle Eastern / North African will be
                                                                counted as White for surveys using EEO - 1 race / ethnic definitions, unless they identify
                                                                otherwise.
-                                                                [ 158 ] Do you identify as a member of a minority group by virtue of your gender,
-                                                               race / ethnicity, sexual orientation and / or disability status? [ 159 ] ( Select one ) *
-                                                               [ $ 161 ] ] ] Yes
-                                                               [ $ 163 ] ] No
-                                                               [ $ 165 ] ] I don't wish to answer
-                                                                [ 166 ] Indicate the race / ethnicity with which you primarily identify with *:               [ 167 ] ( Select one ) *
-                                                               [ $ 169 ] ] Asian
-                                                               [ $ 171 ] ] Black or African American
-                                                               [ $ 173 ] Hispanic or Latino
-                                                               [ $ 175 ]  Middle Eastern / North African
-                                                               [ $ 177 ] Native American or Alaska Native
-                                                               [ $ 179 ] ] ] Native Hawaiian or Pacific Islander
-                                                               [ $ 181 ] ] Two or more races
-                                                               [ $ 183 ]  White
-                                                               [ $ 185 ] Other, please self - describe:
-                                                               [ $ 187 ] I don't wish to answer
-                                                                [ 188 ] How would you describe your gender? [ 189 ] ( Select one ) *
-                                                               [ $ 191 ] ] Female
-                                                               [ $ 193 ] Male
-                                                               [ $ 195 ] Non - binary
-                                                               [ $ 197 ] Other, please self - describe:
-                                                                $ 199 ] ] I don't wish to answer
-                                                               [
-                                                                [ 200 ] Do you identify as LGBTQ +? [ 201 ] ( Select one ) *
-                                                               [ $ 2031 ] Yes
-                                                               [ $ 205 ] ] No
-                                                               [ $ 207 ] I don't wish to answer
-                                                                [ 208 ] Do you have a disability or have a history / record of a disability? [ 209 ] ( Select one ) *
-                                                               [ $ 2111 ] Yes
-                                                               [ $ 213 ] ] No
-                                                               [ $ 215 ] I don't wish to answer
-                                                                [ 216 ] Are you a veteran? [ 217 ] ( Select one ) *
-                                                               [ $ 219 ] ] Yes
-                                                               [ $ 2211 No
-                                                               [ $ 223 ] I don't wish to answer
+                                                                [ 166 ] Do you identify as a member of a minority group by virtue of your gender,
+                                                               race / ethnicity, sexual orientation and / or disability status? [ 167 ] ( Select one ) [ 168 ] ]
+                                                               [ $ 170 ] ] Yes
+                                                                          No
+                                                               [ $ 172 ] ]
+                                                               [ $ 174 ] I don't wish to answer
+                                                                [ 175 ] Indicate the race / ethnicity with which you primarily identify with *: [ [ 176 ] ( Select one )
+                                                                [ 177 ]
+                                                               [ $ Sam 179 ] Asian
+                                                               [ $ 181 ] ] Black or African American
+                                                               [ $ 183 ] ] Hispanic or Latino
+                                                               [ $ 185 ]  Middle Eastern / North African
+                                                               [ $ 187 ] Native American or Alaska Native
+                                                               [ $ 189 ] ] Native Hawaiian or Pacific Islander
+                                                               [ $ 191 ] ] ] Two or more races
+                                                               [ $ 193 ] ] White
+                                                               [ $ 195 ] Other, please self - describe:
+                                                               [ $ 197 ]  I don't wish to answer
+                                                               [ 198 ] How would you describe your gender? [ 199 ] ( Select one ) [ 200 ] ]
+                                                               [ $ 2021 ] Female
+                                                               [ $ 204 ] ] Male
+                                                               [ $ 206 ] Non - binary
+                                                               [ $ 208 ] Other, please self - describe:
+                                                               [ $ 210 ]  I don't wish to answer
+                                                                [ 211 ] Do you identify as LGBTQ +? [ 212 ] ( Select one ) [ 213 ]
+                                                              [ $ 215 ] Yes
+                                                               [ $ 217 ] ] No
+                                                               [ $ 219 ] I don't wish to answer
+                                                                [ 220 ] Do you have a disability or have a history / record of a disability? [ 221 ] ( Select one )
+                                                                [ 222 ]
+                                                               [ $ 2241 ] Yes
+                                                               [ $ 2261   No
+                                                               [ $ 228 ]  I don't wish to answer
+                                                                [ 229 ] Are you a veteran? [ 230 ] ( Select one ) [ 231 ]
+                                                               [ $ 233 ] ] Yes
+                                                               [ $ 235 ] ] No
+                                                               [ $ 237 ] I don't wish to answer
 
 
-                                                                                                                                                     [ $ 224 ] mit Application
+                                                                                                                                                     [ $ 238bmit 238 ] Application
 
 
-                                                                                                                                              Powered by                greenhouse
-                                                                                                                                        [ 225 ]               [ @ 226 ]
+                                                                                                                                               Powered by               greenhouse
+                                                                                                                                        [ 239 ]               [ @ 240 ]
                                                                                                                                                      Read our            Privacy Policy
-                                                                                                                                              [ 227 ]           [ @ 228 ]
+                                                                                                                                              [ 241 ]           [ @ 242 ]
                                                                                                                                                                                                                                                                                                                         Privacy - Terms
-[ $ 233 ]
+[ $ 247 ]
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Image timing: 1.59 seconds
-Page text timing: 6.37 seconds
-Token count: 2927
+Token count: 2985

@@ -54,9 +54,7 @@
                                                                                                                                                                                                                                                                   tics as
                                                              [ 41 ] Degree Level                           [ 42 ] Bachelor's Degree                                                                                                                               earn more
                                                              [ 43 ] Job Schedule                           [ 44 ] Full time
-                                                             45 ]                                              46 ] Boston                                                                                                                                        ECLINE
-                                                             [   Locations                                    [
+                                                                                                                                                                                                                                                                  ECLINE
+                                                             [ 45 ] Locations                                 [ 46 ] Boston
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Image timing: 1.02 seconds
-Page text timing: 5.29 seconds
-Token count: 846
+Token count: 845

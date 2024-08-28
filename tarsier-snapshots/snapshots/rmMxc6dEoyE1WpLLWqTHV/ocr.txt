@@ -224,9 +224,7 @@
                                                                         [ @ 303 ] Newsletter
 
                                                                                       [ 315 ] All times are [ 316 ] UTC - 05: 00
-                                                                        [ 317 ] Powered by [ @ 319 ] phpBB [ 318 ] ] Forum Software © phpBB Limited
-                                                [ 320 ] Copyright © 2000-2023 RedFlagDeals.com. All rights reserved. ( [ @ 321 ] Terms of Use. [ @ 322 ] Privacy Policy. [ @ 323 ] Do Not Sell My Data )
+                                                                        [ 317 ] Powered by [ @ 319 ] phpBB [ 318 ] ® Forum Software © phpBB Limited
+                                          [ 320 ] Copyright © 2000-2023 RedFlagDeals.com. All rights reserved. ( [ @ 323 ] ] Terms of Use [ 321 ], [ @ 324 ] Privacy Policy [ 325 ]. [ @ 326 ] Do Not Sell My Data [ 322 ] )
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Image timing: 13.52 seconds
-Page text timing: 8.80 seconds
-Token count: 4214
+Token count: 4225

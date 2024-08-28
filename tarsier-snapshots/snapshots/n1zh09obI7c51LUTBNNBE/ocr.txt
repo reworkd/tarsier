@@ -1,284 +1,284 @@
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ @ 0 ]                                                                                                                                            [ # 3 ]
-               SFU SIMON ENGAGING FRASER THE WORLD UNIVERSITY                                                                                                Search
-                                                                                                                                    [ @ 8 ] A - Z DIRECTORY [ @ 9 ] SIGN IN
-                        [ @ 1 ] STUDENT SERVICES
-                                                                                                                                                            [ $ 5 ] ] This site [ $ 7 ] ] SFU.ca
-                        [ 2 ] Spring Calendar
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ @ 0 ]                                                                                                                         [ # 3 ]
+             SFU SIMON ENGAGING FRASER THE WORLD UNIVERSITY                                                                               Search
+                                                                                                                    [ @ 8 ] A - Z DIRECTORY [ @ 9 ] SIGN IN
+                     [ @ 1 ] STUDENT SERVICES
+                                                                                                                                         [ $ 5 ] ] This site [ $ 7 ] ] SFU.ca
+                     [ 2 ] Spring Calendar
 
-            [ @ 10 ] SPRING 2024 CALENDAR              [ @ 17 ] Spring 2024 Calendar [ 16 ] / Computing Science Major ( Bachelor of Science or Bachelor of Arts )
-            [ @ 11 ] FACULTIES
-                                                          [ 19 ] Please note:
-            [ @ 12 ] ACADEMIC PROGRAMS
-                                                          [ 20 ] To view the Fall 2023 Academic Calendar, go to [ @ 21 ] www.sfu.ca/students/calendar/2023/fall.html.
-            [ @ 13 ] COURSES
-            [ @ 14 ] FEES, REGULATIONS AND MORE
-                                                       [ @ 22 ] School of Computing Science I [ 23 ] Faculty of Applied Sciences
-            [ @ 15 ] STUDENT SERVICES HOME             [ 24 ] Simon Fraser University Calendar | Spring 2024
+          [ @ 10 ] SPRING 2024 CALENDAR         [ @ 17 ] Spring 2024 Calendar [ 16 ] / Computing Science Major ( Bachelor of Science or Bachelor of Arts )
+          [ @ 11 ] FACULTIES
+                                                  [ 19 ] Please note:
+          [ @ 12 ] ACADEMIC PROGRAMS
+                                                  [ 20 ] To view the Fall 2023 Academic Calendar, go to [ @ 22 ] www.sfu.ca/students/calendar/2023/fall.html [ 21 ].
+          [ @ 13 ] COURSES
+          [ @ 14 ] FEES, REGULATIONS AND MORE
+                                                [ @ 24 ] School of Computing Science [ 23 ] | [ @ 25 ] Faculty of Applied Sciences
+          [ @ 15 ] STUDENT SERVICES HOME        [ 26 ] Simon Fraser University Calendar | Spring 2024
 
-                                                       **[ 25 ] Computing Science Major**
-                                                       [ 26 ] BACHELOR OF SCIENCE OR BACHELOR OF ARTS
-                                                       [ 27 ] The school offers a general program leading to a bachelor of science ( BSc ) or bachelor of arts ( BA ) degree. This undergraduate
-                                                       degree is appropriate for many interdisciplinary areas. Visit [ @ 29 ] www.cs.sfu.ca [ 28 ] for information.
+                                                **[ 27 ] Computing Science Major**
+                                                 [ 28 ] BACHELOR OF SCIENCE OR BACHELOR OF ARTS
+                                                [ 29 ] The school offers a general program leading to a bachelor of science ( BSc ) or bachelor of arts ( BA ) degree. This undergraduate
+                                                degree is appropriate for many interdisciplinary areas. Visit [ @ 31 ] www.cs.sfu.ca [ 30 ] for information.
 
-                                                       [ 30 ] Admission Requirements
-                                                       [ 31 ] Entry into computing science programs is possible via
-                                                         [ 32 ] direct admission from high school
-                                                         [ 33 ] direct transfer from a recognized post - secondary institution, or combined transfer units from more than one post - secondary
-                                                         institution
-                                                         [ 34 ] internal transfer from within Simon Fraser University
-                                                       [ 35 ] Admission is competitive. A separate admission average for each entry route is established each term, depending on spaces
-                                                       available and subject to the approval of the Dean of Applied Sciences. Admission averages are calculated over a set of courses
-                                                       satisfying particular breadth constraints.
-                                                       [ 36 ] For detailed university admission requirements, visit [ @ 39 ] https://www.sfu.ca/students/admission/admission-
-                                                       requirements.html [ 37 ]. For more detailed School of Computing Science admission information,
-                                                       visit [ @ 40 ] https://www.sfu.ca/computing/prospective-students/undergraduate-students/admissions/advising.html [ 38 ], or send
-                                                       an email to [ @ 41 ] asadvise@sfu.ca.
+                                                [ 32 ] **Admission Requirements**
+                                                [ 33 ] Entry into computing science programs is possible via
+                                                  [ 34 ] direct admission from high school
+                                                  [ 35 ] direct transfer from a recognized post - secondary institution, or combined transfer units from more than one post - secondary
+                                                  institution
+                                                  [ 36 ] internal transfer from within Simon Fraser University
+                                                [ 37 ] Admission is competitive. A separate admission average for each entry route is established each term, depending on spaces
+                                                available and subject to the approval of the Dean of Applied Sciences. Admission averages are calculated over a set of courses
+                                                satisfying particular breadth constraints.
+                                                [ 38 ] For detailed university admission requirements, visit [ [ @ 42 ] https://www.sfu.ca/students/admission/admission-
+                                                requirements.html [ 39 ]. For more detailed School of Computing Science admission information,
+                                                visit [ @ 43 ] https://www.sfu.ca/computing/prospective-students/undergraduate-students/admissions/advising.html [ 40 ], or send
+                                                an email to [ @ 44 ] asadvise@sfu.ca [ 41 ].
 
-                                                       [ 42 ] Internal Transfer
-                                                       [ 43 ] Internal transfer allows students to transfer, within Simon Fraser University, from one faculty to another.
-                                                       [ 44 ] Simon Fraser University students applying for School of Computing Science admission are selected on the basis of an
-                                                       admission Computing Related Grade Point Average ( CRGPA ) and Cumulative Grade Point Average ( CGPA ). The CRGPA is
-                                                       computed from all courses the student has taken from the following: ( CMPT 120, 128 or 130 ), ( CMPT 125, 129 or 135 ), CMPT 225,
-                                                       ( CMPT 275 or 276 ), CMPT 295, CMPT 300, CMPT 307, MACM 101, ( CMPT 210 or MACM 201 ), MACM 316. Applicants must have
-                                                       completed at least one MACM course and at least two CMPT courses from this list before applying. At least two courses used in the
-                                                       CRGPA calculation must have been taken at SFU.
-                                                       [ 45 ] No course may be included in the average if it is a duplicate of any previous course completed at Simon Fraser University or
-                                                       elsewhere.
-                                                       [ 46 ] The average for admission based on internal transfer is competitive and the school sets competitive averages each term.
-                                                       [ 47 ] The CRGPA minimum average is 2.67 and the CGPA minimum average is 2.40 - the competitive averages will never be below
-                                                       these minima.
+                                                [ 45 ] Internal Transfer
+                                                [ 46 ] Internal transfer allows students to transfer, within Simon Fraser University, from one faculty to another.
+                                                [ 47 ] Simon Fraser University students applying for School of Computing Science admission are selected on the basis of an
+                                                admission Computing Related Grade Point Average ( CRGPA ) and Cumulative Grade Point Average ( CGPA ). The CRGPA is
+                                                computed from all courses the student has taken from the following: ( CMPT 120, 128 or 130 ), ( CMPT 125, 129 or 135 ), CMPT 225,
+                                                ( CMPT 275 or 276 ), CMPT 295, CMPT 300, CMPT 307, MACM 101, ( CMPT 210 or MACM 201 ), MACM 316. Applicants must have
+                                                completed at least one MACM course and at least two CMPT courses from this list before applying. At least two courses used in the
+                                                CRGPA calculation must have been taken at SFU.
+                                                [ 48 ] No course may be included in the average if it is a duplicate of any previous course completed at Simon Fraser University or
+                                                elsewhere.
+                                                [ 49 ] The average for admission based on internal transfer is competitive and the school sets competitive averages each term.
+                                                [ 50 ] The CRGPA minimum average is 2.67 and the CGPA minimum average is 2.40 - the competitive averages will never be below
+                                                these minima.
 
-                                                       [ 48 ] Continuation Requirements
-                                                       [ 49 ] Students who do not maintain at least a 2.40 CGPA will be placed on probation within the School. Courses available to
-                                                       probationary students may be limited. Each term, these students must [ @ 51 ] consult an advisor [ 50 ] prior to enrollment and must
-                                                       achieve either a term 2.40 term GPA or an improved CGPA. Students who fail to do so may be removed from the program.
-                                                       [ 52 ] Reinstatement from probationary standing occurs when the CGPA improves to 2.40 or better and is maintained.
+                                                [ 51 ] Continuation Requirements
+                                                [ 52 ] Students who do not maintain at least a 2.40 CGPA will be placed on probation within the School. Courses available to
+                                                probationary students may be limited. Each term, these students must [ @ 54 ] consult an advisor [ 53 ] prior to enrollment and must
+                                                achieve either a term 2.40 term GPA or an improved CGPA. Students who fail to do so may be removed from the program.
+                                                [ 55 ] Reinstatement from probationary standing occurs when the CGPA improves to 2.40 or better and is maintained.
 
-                                                       [ 53 ] Graduation Requirements
-                                                       [ 54 ] A GPA of 2.00 must be obtained for upper division courses used to fulfil the program requirements.
+                                                [ 56 ] Graduation Requirements
+                                                [ 57 ] A GPA of 2.00 must be obtained for upper division courses used to fulfil the program requirements.
 
-                                                       [ 55 ] Prerequisite Grade Requirement
-                                                       [ 56 ] Computing science course entry requires a grade of C- or better in each prerequisite course.
-                                                       [ 57 ] A minimum 2.40 CGPA is required for 200, 300 and 400 division CMPT courses. For complete information, contact an
-                                                       [ @ 58 ] Applied Sciences Advisor.
+                                                [ 58 ] Prerequisite Grade Requirement
+                                                [ 59 ] Computing science course entry requires a grade of C- or better in each prerequisite course.
+                                                [ 60 ] A minimum 2.40 CGPA is required for 200, 300 and 400 division CMPT courses. For complete information, contact an
+                                                [ @ 61 ] Applied Sciences Advisor.
 
-                                                       [ 59 ] Program Requirements
-                                                       [ 60 ] For specific program information and course plans consult an [ @ 61 ] Applied Sciences Advisor.
+                                                [ 62 ] Program Requirements
+                                                [ 63 ] For specific program information and course plans consult an [ @ 64 ] Applied Sciences Advisor.
 
-                                                       [ 62 ] Lower Division Requirements
-                                                       [ 63 ] Students must complete the courses listed below. It is suggested that students complete a recommended schedule of courses
-                                                       within the first two years.
-                                                       [ 64 ] Students complete all of
-                                                       [ @ 65 ] CMPT 105W - Social Issues and Communication Strategies in Computing Science ( 3 )
-                                                       [ @ 66 ] CMPT 120 - Introduction to Computing Science and Programming I ( 3 )
-                                                       [ @ 67 ] CMPT 125 - Introduction to Computing Science and Programming II ( 3 )
-                                                       [ @ 68 ] CMPT 210 - Probability and Computing ( 3 )
-                                                       [ @ 69 ] CMPT 225 - Data Structures and Programming ( 3 )
-                                                       [ @ 70 ] CMPT 276 - Introduction to Software Engineering ( 3 )
-                                                       [ @ 71 ] CMPT 295 - Introduction to Computer Systems ( 4 )
-                                                       [ @ 72 ] MACM 101 - Discrete Mathematics I ( 3 )
-                                                       [ @ 73 ] STAT 271 - Probability and Statistics for Computing Science ( 3 )
-                                                       [ 74 ] and one of
-                                                       [ @ 75 ] MATH 150 - Calculus I with Review ( 4 )
-                                                       [ @ 76 ] MATH 151 - Calculus I ( 3 )
-                                                       [ @ 77 ] MATH 154 - Mathematics for the Life Sciences I ( 3 ) **
-                                                       [ @ 78 ] MATH 157 - Calculus I for the Social Sciences ( 3 ) **
-                                                       [ 79 ] and one of
-                                                       [ @ 80 ] MATH 152 - Calculus II ( 3 )
-                                                       [ @ 81 ] MATH 155 - Mathematics for the Life Sciences II ( 3 ) **
-                                                       [ @ 82 ] MATH 158 - Calculus II for the Social Sciences ( 3 ) *
-                                                       [ 83 ] and one of
-                                                       [ @ 84 ] MATH 232 - Applied Linear Algebra ( 3 )
-                                                       [ @ 85 ] MATH 240 - Algebra I: Linear Algebra ( 3 )
-                                                       [ 86 ] ** with a grade of at least B +, and with school permission.
+                                                [ 65 ] Lower Division Requirements
+                                                [ 66 ] Students must complete the courses listed below. It is suggested that students complete a recommended schedule of courses
+                                                within the first two years.
+                                                [ 67 ] Students complete all of
+                                                [ @ 68 ] CMPT 105W - Social Issues and Communication Strategies in Computing Science ( 3 )
+                                                [ @ 69 ] CMPT 120 - Introduction to Computing Science and Programming I ( 3 )
+                                                [ @ 70 ] CMPT 125 - Introduction to Computing Science and Programming II ( 3 )
+                                                [ @ 71 ] CMPT 210 - Probability and Computing ( 3 )
+                                                [ @ 72 ] CMPT 225 - Data Structures and Programming ( 3 )
+                                                [ @ 73 ] CMPT 276 - Introduction to Software Engineering ( 3 )
+                                                [ @ 74 ] CMPT 295 - Introduction to Computer Systems ( 4 )
+                                                [ @ 75 ] MACM 101 - Discrete Mathematics I ( 3 )
+                                                [ @ 76 ] STAT 271 - Probability and Statistics for Computing Science ( 3 )
+                                                [ 77 ] and one of
+                                                [ @ 78 ] MATH 150 - Calculus I with Review ( 4 )
+                                                [ @ 79 ] MATH 151 - Calculus I ( 3 )
+                                                [ @ 80 ] MATH 154 - Mathematics for the Life Sciences I ( 3 ) [ 81 ] **
+                                                [ @ 82 ] MATH 157 - Calculus I for the Social Sciences ( 3 ) [ 83 ] ] **
+                                                [ 84 ] and one of
+                                                [ @ 85 ] MATH 152 - Calculus II ( 3 )
+                                                                                                         **
+                                                [ @ 86 ] MATH 155 - Mathematics for the Life Sciences II ( 3 ) [ 87 ]
+                                                [ @ 88 ] MATH 158 - Calculus II for the Social Sciences ( 3 ) [ 89 ] *
+                                                [ 90 ] and one of
+                                                [ @ 91 ] MATH 232 - Applied Linear Algebra ( 3 )
+                                                [ @ 92 ] MATH 240 - Algebra I: Linear Algebra ( 3 )
+                                                [ 93 ] ** with a grade of at least B +, and with school permission.
 
-                                                       [ 87 ] Upper Division Requirements
-                                                       [ 88 ] Students complete at least 45 upper division units including
-                                                       [ @ 89 ] CMPT 376W - Professional Responsibility and Technical Writing ( 3 )
-                                                       [ 90 ] Students should consult an [ [ @ 92 ] academic advisor [ 91 ] before commencing upper division requirements.
+                                                [ 94 ] Upper Division Requirements
+                                                [ 95 ] Students complete at least 45 upper division units including
+                                                [ @ 96 ] CMPT 376W - Professional Responsibility and Technical Writing ( 3 )
+                                                [ 97 ] Students should consult an [ @ 99 ] academic advisor [ 98 ] before commencing upper division requirements.
 
-                                                       [ 93 ] Elective Courses
-                                                       [ 94 ] In addition to the courses listed above, students should consult an [ @ 96 ] academic advisor [ 95 ] to plan the remaining required
-                                                       elective courses.
+                                                [ 100 ] Elective Courses
+                                                [ 101 ] In addition to the courses listed above, students should consult an [ @ 103 ] academic advisor [ 102 ] ] to plan the remaining
+                                                required elective courses.
 
-                                                       [ 97 ] Breadth Requirement
-                                                       [ 98 ] Five courses from five of the six Table I areas of concentration ( see below ) must be completed including both of
-                                                       [ @ 99 ] CMPT 300 - Operating Systems I ( 3 )
-                                                       [ @ 100 ] CMPT 307 - Data Structures and Algorithms ( 3 )
-                                                       [ 101 ] CMPT 354 is also recommended.
+                                                [ 104 ] Breadth Requirement
+                                                [ 105 ] Five courses from five of the six Table I areas of concentration ( see below ) must be completed including both of
+                                                [ @ 106 ] ] CMPT 300 - Operating Systems I ( 3 )
+                                                [ @ 107 ] CMPT 307 - Data Structures and Algorithms ( 3 )
+                                                [ 108 ] CMPT 354 is also recommended.
 
-                                                       [ 102 ] Depth Requirement
-                                                       [ 103 ] Twelve units of additional CMPT courses numbered CMPT 400 or above must be completed ( excluding CMPT 415, 416 and
-                                                       498, which may be included by special permission ).
+                                                [ 109 ] Depth Requirement
+                                                [ 110 ] Twelve units of additional CMPT courses numbered CMPT 400 or above must be completed ( excluding CMPT 415, 416 and
+                                                498, which may be included by special permission ).
 
-                                                       [ 104 ] BSc Credential
-                                                       [ 105 ] For a BSc computing science degree, the following additional requirements must be met.
-                                                          [ 106 ] two additional courses chosen from Table I, Table II or Table III
-                                                       [ @ 107 ] MACM 316 - Numerical Analysis I ( 3 )
+                                                [ 111 ] BSc Credential
+                                                [ 112 ] For a BSc computing science degree, the following additional requirements must be met.
+                                                  [ 113 ] two additional courses chosen from Table I, Table II or Table III
+                                                [ @ 114 ] MACM 316 - Numerical Analysis I ( 3 )
 
-                                                       [ 108 ] BEd Credential
-                                                       [ 109 ] For a major in compu    science in onjunction with a BEd program as offered by the Faculty of Education, one additional
-                                                       CMPT course chosen from Table I or Table II must be completed, to total at least 30 upper division units in CMPT courses.
+                                                [ 115 ] BEd Credential
+                                                [ 116 ] For a major in compu science in conjunction with a BEd program as offered by the Faculty of Education, one additional
+                                                CMPT course chosen from Table I or Table II must be completed, to total at least 30 upper division units in CMPT courses.
 
-                                                       [ 110 ] BA Credential
-                                                       [ 111 ] For a BA computing science degree within the Faculty of Applied Sciences, the following additional requirements must be met.
-                                                       [ 112 ] one additional CMPT upper division course chosen from Table I or Table II must be completed bringing the total upper
-                                                       division units in CMPT courses to a minimum of 30 units.
-                                                       [ 113 ] a concentration of 15 units in a Faculty of Arts and Social Sciences discipline ( department ) including at least six units of upper
-                                                       division credit.
+                                                [ 117 ] BA Credential
+                                                [ 118 ] For a BA computing science degree within the Faculty of Applied Sciences, the following additional requirements must be
+                                                met.
+                                                [ 119 ] one additional CMPT upper division course chosen from Table I or Table II must be completed bringing the total upper
+                                                division units in CMPT courses to a minimum of 30 units.
+                                                [ 120 ] a concentration of 15 units in a Faculty of Arts and Social Sciences discipline ( department ) including at least six units of upper
+                                                division credit.
 
-                                                       [ 114 ] Areas of Concentration
-                                                       [ 115 ] The primary upper division requirements are structured according to breadth, depth and credential requirements as listed
-                                                       above.
-                                                       [ 116 ] As part of a major program, students may complete one or more areas of concentration from the six areas listed in Table I. To
-                                                       complete a concentration, students complete the major requirements, including four courses in the corresponding Area as listed in
-                                                       Table I, two of which must be at the 400 division. Courses used to meet the requirements of a concentration may also be used to
-                                                       meet other program requirements.
+                                                [ 121 ] Areas of Concentration
+                                                [ 122 ] The primary upper division requirements are structured according to breadth, depth and credential requirements as listed
+                                                above.
+                                                [ 123 ] As part of a major program, students may complete one or more areas of concentration from the six areas listed in Table I. To
+                                                complete a concentration, students complete the major requirements, including four courses in the corresponding Area as listed in
+                                                Table I, two of which must be at the 400 division. Courses used to meet the requirements of a concentration may also be used to
+                                                meet other program requirements.
 
-                                                       [ 117 ] Table I - Computing Science Concentrations
+                                                [ 124 ] Table - Computing Science Concentrations
 
-                                                       [ 118 ] ARTIFICIAL INTELLIGENCE
-                                                       [ @ 119 ] CMPT 310 - Introduction to Artificial Intelligence ( 3 )
-                                                       [ @ 120 ] CMPT 340 - Biomedical Computing ( 3 )
-                                                       [ @ 121 ] CMPT 410 - Machine Learning ( 3 )
-                                                       [ @ 122 ] ] CMPT 411 - Knowledge Representation ( 3 )
-                                                       [ @ 123 ] CMPT 413 - Computational Linguistics ( 3 )
-                                                       [ @ 124 ] CMPT 417 - Intelligent Systems ( 3 )
-                                                       [ @ 125 ] CMPT 419 - Special Topics in Artificial Intelligence ( 3 )
-                                                       [ @ 126 ] CMPT 420 - Deep Learning ( 3 )
+                                                [ 125 ] ARTIFICIAL INTELLIGENCE
+                                                [ @ 126 ] CMPT 310 - Introduction to Artificial Intelligence ( 3 )
+                                                [ @ 127 ] CMPT 340 - Biomedical Computing ( 3 )
+                                                [ @ 128 ] CMPT 410 - Machine Learning ( 3 )
+                                                [ @ 129 ] CMPT 411 - Knowledge Representation ( 3 )
+                                                [ @ 130 ] CMPT 413 - Computational Linguistics ( 3 )
+                                                [ @ 131 ] CMPT 417 - Intelligent Systems ( 3 )
+                                                [ @ 132 ] CMPT 419 - Special Topics in Artificial Intelligence ( 3 )
+                                                [ @ 133 ] CMPT 420 - Deep Learning ( 3 )
 
-                                                       [ 127 ] VISUAL AND INTERACTIVE COMPUTING
-                                                       [ @ 128 ] CMPT 361 - Introduction to Visual Computing ( 3 )
-                                                       [ @ 129 ] CMPT 363 - User Interface Design ( 3 )
-                                                       [ @ 130 ] CMPT 365 - Multimedia Systems ( 3 )
-                                                       [ @ 131 ] CMPT 412 - Computer Vision ( 3 )
-                                                       [ @ 132 ] CMPT 461 - Computational Photography and Image Manipulation ( 3 )
-                                                       [ @ 133 ] CMPT 464 - Geometric Modelling in Computer Graphics ( 3 )
-                                                       [ @ 134 ] CMPT 466 - Animation ( 3 )
-                                                       [ @ 135 ] ] CMPT 467 - Visualization ( 3 )
-                                                       [ @ 136 ] CMPT 469 - Special Topics in Computer Graphics ( 3 )
+                                                [ 134 ] VISUAL AND INTERACTIVE COMPUTING
+                                                [ @ 135 ] CMPT 361 - Introduction to Visual Computing ( 3 )
+                                                [ @ 136 ] CMPT 363 - User Interface Design ( 3 )
+                                                [ @ 137 ] CMPT 365 - Multimedia Systems ( 3 )
+                                                [ @ 138 ] CMPT 412 - Computer Vision ( 3 )
+                                                [ @ 139 ] CMPT 461 - Computational Photography and Image Manipulation ( 3 )
+                                                [ @ 140 ] CMPT 464 - Geometric Modelling in Computer Graphics ( 3 )
+                                                [ @ 141 ] CMPT 466 - Animation ( 3 )
+                                                [ @ 142 ] CMPT 467 - Visualization ( 3 )
+                                                [ @ 143 ] CMPT 469 - Special Topics in Computer Graphics ( 3 )
 
-                                                       [ 137 ] COMPUTING SYSTEMS
-                                                       [ @ 138 ] CMPT 300 - Operating Systems I ( 3 )
-                                                       [ @ 139 ] CMPT 305 - Computer Simulation and Modelling ( 3 )
-                                                       [ @ 140 ] CMPT 371 - Data Communications and Networking ( 3 )
-                                                       [ @ 141 ] CMPT 379 - Principles of Compiler Design ( 3 )
-                                                       [ @ 142 ] CMPT 403 - System Security and Privacy ( 3 )
-                                                       [ @ 143 ] CMPT 431 - Distributed Systems ( 3 )
-                                                       [ @ 144 ] CMPT 433 - Embedded Systems ( 3 )
-                                                       [ @ 145 ] CMPT 450 - Computer Architecture ( 3 )
-                                                       [ @ 146 ] CMPT 471 - Networking II ( 3 )
-                                                       [ @ 147 ] CMPT 479 - Special Topics in Computing Systems ( 3 )
-                                                       [ @ 148 ] CMPT 499 - Special Topics in Computer Hardware ( 3 )
+                                                [ 144 ] COMPUTING SYSTEMS
+                                                [ @ 145 ] CMPT 300 - Operating Systems I ( 3 )
+                                                [ @ 146 ] CMPT 305 - Computer Simulation and Modelling ( 3 )
+                                                [ @ 147 ] CMPT 371 - Data Communications and Networking ( 3 )
+                                                [ @ 148 ] CMPT 379 - Principles of Compiler Design ( 3 )
+                                                [ @ 149 ] CMPT 403 - System Security and Privacy ( 3 )
+                                                [ @ 150 ] CMPT 431 - Distributed Systems ( 3 )
+                                                [ @ 151 ] CMPT 433 - Embedded Systems ( 3 )
+                                                [ @ 152 ] CMPT 450 - Computer Architecture ( 3 )
+                                                [ @ 153 ] CMPT 471 - Networking II ( 3 )
+                                                [ @ 154 ] CMPT 479 - Special Topics in Computing Systems ( 3 )
+                                                [ @ 155 ] CMPT 499 - Special Topics in Computer Hardware ( 3 )
 
-                                                       [ 149 ] INFORMATION SYSTEMS
-                                                       [ @ 150 ] CMPT 353 - Computational Data Science ( 3 )
-                                                       [ @ 151 ] CMPT 354 - Database Systems I ( 3 )
-                                                       [ @ 152 ] ] CMPT 362 - Mobile Applications Programming and Design ( 3 )
-                                                       [ @ 153 ] CMPT 372 - Web II - Server - side Development ( 3 )
-                                                       [ @ 154 ] ] CMPT 441 - Computational Biology ( 3 )
-                                                       [ @ 155 ] CMPT 454 - Database Systems II ( 3 )
-                                                       [ @ 156 ] CMPT 456 - Information Retrieval and Web Search ( 3 )
-                                                       [ @ 157 ] CMPT 459 - Special Topics in Database Systems ( 3 )
-                                                       [ @ 158 ] CMPT 474 - Web Systems Architecture ( 3 )
+                                                [ 156 ] INFORMATION SYSTEMS
+                                                [ @ 157 ] CMPT 353 - Computational Data Science ( 3 )
+                                                [ @ 158 ] CMPT 354 - Database Systems I ( 3 )
+                                                [ @ 159 ] CMPT 362 - Mobile Applications Programming and Design ( 3 )
+                                                [ @ 160 ] CMPT 372 - Web II - Server - side Development ( 3 )
+                                                [ @ 161 ] CMPT 441 - Computational Biology ( 3 )
+                                                [ @ 162 ] ] CMPT 454 - Database Systems II ( 3 )
+                                                [ @ 163 ] CMPT 456 - Information Retrieval and Web Search ( 3 )
+                                                [ @ 164 ] CMPT 459 - Special Topics in Database Systems ( 3 )
+                                                [ @ 165 ] CMPT 474 - Web Systems Architecture ( 3 )
 
-                                                       [ 159 ] PROGRAMMING LANGUAGES AND SOFTWARE
-                                                       [ @ 160 ] CMPT 373 - Software Development Methods ( 3 )
-                                                       [ @ 161 ] CMPT 383 - Comparative Programming Languages ( 3 )
-                                                       [ @ 162 ] CMPT 384 - Symbolic Computing ( 3 )
-                                                       [ @ 163 ] CMPT 473 - Software Testing, Reliability and Security ( 3 )
-                                                       [ @ 164 ] CMPT 475 - Requirements Engineering ( 3 )
-                                                       [ @ 165 ] CMPT 477 - Introduction to Formal Verification ( 3 )
-                                                       [ @ 166 ] CMPT 489 - Special Topics in Programming Languages ( 3 )
+                                                [ 166 ] PROGRAMMING LANGUAGES AND SOFTWARE
+                                                [ @ 167 ] CMPT 373 - Software Development Methods ( 3 )
+                                                [ @ 168 ] CMPT 383 - Comparative Programming Languages ( 3 )
+                                                [ @ 169 ] CMPT 384 - Symbolic Computing ( 3 )
+                                                [ @ 170 ] CMPT 473 - Software Testing, Reliability and Security ( 3 )
+                                                [ @ 171 ] CMPT 475 - Requirements Engineering ( 3 )
+                                                [ @ 172 ] ] CMPT 477 - Introduction to Formal Verification ( 3 )
+                                                [ @ 173 ] CMPT 489 - Special Topics in Programming Languages ( 3 )
+                                                [ 174 ] THEORETICAL COMPUTING SCIENCE
+                                                [ @ 175 ] CMPT 307 - Data Structures and Algorithms ( 3 )
+                                                [ @ 176 ] CMPT 308 - Computability and Complexity ( 3 )
+                                                [ @ 177 ] CMPT 404 - Cryptography and Cryptographic Protocols ( 3 )
+                                                [ @ 178 ] CMPT 405 - Design and Analysis of Computing Algorithms ( 3 )
+                                                [ @ 179 ] CMPT 406 - Computational Geometry ( 3 )
+                                                [ @ 180 ] CMPT 407 - Computational Complexity ( 3 )
+                                                [ @ 181 ] CMPT 409 - Special Topics in Theoretical Computing Science ( 3 )
+                                                [ @ 182 ] CMPT 476 - Introduction to Quantum Algorithms ( 3 )
+                                                [ @ 183 ] MACM 300 - Introduction to Formal Languages and Automata with Applications ( 3 )
 
-                                                       [ 167 ] THEORETICAL COMPUTING SCIENCE
-                                                       [ @ 168 ] CMPT 307 - Data Structures and Algorithms ( 3 )
-                                                       [ @ 169 ] CMPT 308 - Computability and Complexity ( 3 )
-                                                       [ @ 170 ] CMPT 404 - Cryptography and Cryptographic Protocols ( 3 )
-                                                       [ @ 171 ] CMPT 405 - Design and Analysis of Computing Algorithms ( 3 )
-                                                       [ @ 172 ] CMPT 406 - Computational Geometry ( 3 )
-                                                       [ @ 173 ] ] CMPT 407 - Computational Complexity ( 3 )
-                                                       [ @ 174 ] CMPT 409 - Special Topics in Theoretical Computing Science ( 3 )
-                                                       [ @ 175 ] ] CMPT 476 - Introduction to Quantum Algorithms ( 3 )
-                                                       [ @ 176 ] MACM 300 - Introduction to Formal Languages and Automata with Applications ( 3 )
+                                                [ 184 ] Table II - Application Courses
+                                                [ 185 ] Currently no courses.
 
-                                                       [ 177 ] Table II - Application Courses
-                                                       [ [ 178 ] Currently no courses.
+                                                [ 186 ] Table III - Computing Mathematics Courses
+                                                [ @ 187 ] MACM 316 - Numerical Analysis I ( 3 )
+                                                [ @ 188 ] MACM 401 - Introduction to Computer Algebra ( 3 )
+                                                [ @ 189 ] MACM 442 - Cryptography ( 3 )
+                                                [ @ 190 ] MATH 308 - Linear Optimization ( 3 )
+                                                [ @ 191 ] MATH 340 - Algebra II: Rings and Fields ( 3 )
+                                                [ @ 192 ] MATH 343 - Applied Discrete Mathematics ( 3 )
 
-                                                       [ 179 ] Table III - Computing Mathematics Courses
-                                                       [ @ 180 ] MACM 316 - Numerical Analysis I ( 3 )
-                                                       [ @ 181 ] MACM 401 - Introduction to Computer Algebra ( 3 )
-                                                       [ @ 182 ] MACM 442 - Cryptography ( 3 )
-                                                       [ @ 183 ] MATH 308 - Linear Optimization ( 3 )
-                                                       [ @ 184 ] MATH 340 - Algebra II: Rings and Fields ( 3 )
-                                                       [ @ 185 ] MATH 343 - Applied Discrete Mathematics ( 3 )
+                                                [ 193 ] Other Courses Per Department Approval
+                                                [ 194 ] The following courses may be counted in one of the above tables with permission of the school.
+                                                [ @ 195 ] CMPT 318 - Special Topics in Computing Science ( 3 )
+                                                [ @ 196 ] CMPT 415 - Special Research Projects ( 3 )
+                                                [ @ 197 ] CMPT 416 - Special Research Projects ( 3 )
+                                                [ @ 198 ] CMPT 496 - Directed Studies ( 3 )
+                                                [ @ 199 ] CMPT 497 - Dual Degree Program Capstone Project ( 6 )
+                                                [ @ 200 ] CMPT 498 - Honours Research Project ( 6 )
 
-                                                       [ 186 ] Other Courses Per Department Approval
-                                                       [ 187 ] The following courses may be counted in one of the above tables with permission of the school.
-                                                       [ @ 188 ] CMPT 318 - Special Topics in Computing Science ( 3 )
-                                                       [ @ 189 ] CMPT 415 - Special Research Projects ( 3 )
-                                                       [ @ 190 ] ] CMPT 416 - Special Research Projects ( 3 )
-                                                       [ @ 191 ] ] CMPT 496 - Directed Studies ( 3 )
-                                                       [ @ 192 ] CMPT 497 - Dual Degree Program Capstone Project ( 6 )
-                                                       [ @ 193 ] CMPT 498 - Honours Research Project ( 6 )
+                                                [ 201 ] Writing, Quantitative, and Breadth Requirements
+                                                [ 202 ] Students admitted to Simon Fraser University beginning in the fall 2006 term must meet writing, quantitative and breadth
+                                                requirements as part of any degree program they may undertake. See [ @ 204 ] Writing, Quantitative, and Breadth
+                                                Requirements [ 203 ] for university - wide information.
 
-                                                       [ 194 ] Writing, Quantitative, and Breadth Requirements
-                                                       [ 195 ] Students admitted to Simon Fraser University beginning in the fall 2006 term must meet writing, quantitative and breadth
-                                                       requirements as part of any degree program they may undertake. See [ @ 197 ] Writing, Quantitative, and Breadth
-                                                       Requirements [ 196 ] for university - wide information.
+                                                [ 205 ] WQB Graduation Requirements
 
-                                                       [ 198 ] WQB Graduation Requirements
-
-                                                       [ 199 ] A GRADE OF C- OR BETTER IS REQUIRED TO EARN W, Q OR B CREDIT
-
-
-                                                         [ 200 ] Requirement      [ 201 ] Units  [ 202 ] Notes
-
-                                                                                                 [ 205 ] Must include at least one upper division course, taken at Simon Fraser University
-                                                         [ 203 ] W - Writing      [ 204 ] 6
-                                                                                                within the student's major subject
-                                                         [ 206 ] Q-
-                                                                                  [ 207 ] 6      [ 208 ] Q courses may be lower or upper division
-                                                         Quantitative
-                                                                                                                       [ 212 ] Must be outside the student's major subject, and may be
-                                                                                                                      lower or upper division
-                                                                                                 [ 211 ] Designated
-                                                                                 [ 210 ] 18      Breadth              [ 213 ] ] 6 units Social Sciences: B - Soc
-                                                                                                                       [ 214 ] 6 units Humanities: B - Hum
-                                                                                                                       [ 215 ] 6 units Sciences: B - Sci
-                                                                                                                       [ 218 ] 6 units outside the student's major subject ( may or may not
-                                                         [ 209 ] B - Breadth                                          be B - designated courses, and will likely help fulfil individual degree
-                                                                                                                      program requirements )
-                                                                                                 [ 217 ] Additional
-                                                                                  [ 216 ] 6                            [ 219 ] Students choosing to complete a joint major, joint honours,
-                                                                                                 Breadth
-                                                                                                                      double major, two extended minors, an extended minor and a
-                                                                                                                      minor, or two minors may satisfy the breadth requirements
-                                                                                                                      ( designated or not designated ) with courses completed in either
-                                                                                                                      one or both program areas.
+                                                 [ 206 ] A GRADE OF C- OR BETTER IS REQUIRED TO EARN W, Q OR B CREDIT
 
 
+                                                  [ 207 ] Requirement  [ 208 ] Units [ 209 ] Notes
 
-                                                       **[ 220 ] Residency Requirements and Transfer Credit**
-                                                       ■ [ 221 ] At least half of the program's total units must be earned through Simon Fraser University study.
-                                                          [ 222 ] At least two thirds of the program's total upper division units must be earned through Simon Fraser University study.
-                                                       [ 223 ] Please see [ @ 225 ] Faculty of Applied Sciences Residency Requirements [ 224 ] for further information.
+                                                                                     [ 212 ] Must include at least one upper division course, taken at Simon Fraser University
+                                                  [ 210 ] W - Writing   [ 211 ] 6
+                                                                                    within the student's major subject
+                                                  [ 213 ] Q-
+                                                                       [ 214 ] 6     [ 215 ] Q courses may be lower    division
+                                                  Quantitative
+                                                                                                        [ 219 ] Must be outside the student's major subject, and may be
+                                                                                                        lower or upper division
+                                                                                     [ 218 ] Designated
+                                                                       [ 217 ] 18                       [ 220 ] 6 units Social Sciences: B - Soc
+                                                                                     Breadth
+                                                                                                        [ 221 ] 6 units Humanities: B - Hum
+                                                                                                        [ 222 ] ] 6 units Sciences: B - Sci
+                                                                                                        [ 225 ] 6 units outside the student's major subject ( may or may not
+                                                  [ 216 ] B - Breadth                                   be B - designated courses, and will likely help fulfil individual
+                                                                                                        degree program requirements )
+                                                                                     [ 224 ] Additional
+                                                                       [ 223 ] 6                        [ 226 ] Students choosing to complete a joint major, joint honours,
+                                                                                     Breadth
+                                                                                                        double major, two extended minors, an extended minor and a
+                                                                                                        minor, or two minors may satisfy the breadth requirements
+                                                                                                        ( designated or not designated ) with courses completed in either
+                                                                                                        one or both program areas.
 
-                                                       **[ 226 ] Co - operative Education and Work Experience**
-                                                       [ 227 ] All computing science students are strongly encouraged to explore the opportunities that Work Integrated Learning ( WIL )
-                                                       can offer them. Please contact a [ @ 229 ] computing science co - op advisor [ 228 ] during your first year of studies to ensure that you
-                                                       have all of the necessary courses and information to help plan for a successful co - op experience.
-                                                                                                                                                                       [ @ 230 ] Back To Top
 
-                             [ @ 231 ] Admission      [ @ 237 ] Maps + directions       [ 243 ] CONNECT WITH US     [ @ 247 ] CONTACT US           [ @ 251 ] CALENDAR CHANGES AND CORRECTIONS
-                             [ @ 232 ] Programs       [ @ 238 ] Library                 [ @ 244 ] Facebook          [ @ 248 ] Burnaby Campus       [ @ 252 ] Terms and conditions
-                             [ @ 233 ] Learning       [ @ 239 ] Academic Calendar       [ @ 245 ] Twitter           [ @ 249 ] Surrey Campus        [ @ 253 ] Privacy policy
-                                                                                        [ @ 246 ] YouTube           [ @ 250 ] Vancouver Campus
-                             [ @ 234 ] Research       [ @ 240 ] Road Report                                                                        [ 254 ] © Simon Fraser University
-                             [ @ 235 ] Community      [ @ 241 ] Give to SFU                                                                                                                        [ @ 18 ]
-                             [ @ 236 ] About          [ @ 242 ] Emergency Information
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Image timing: 5.82 seconds
-Page text timing: 9.02 seconds
-Token count: 4511
+
+                                                **[ 227 ] Residency Requirements and Transfer Credit**
+                                                ■ [ 228 ] At least half of the program's total units must be earned through Simon Fraser University study.
+                                                  [ 229 ] At least two thirds of the program's total upper division units must be earned through Simon Fraser University study.
+                                                [ 230 ] Please see [ 232 ] Faculty of Applied Sciences Residency Requirements [ 231 ] for further information.
+
+                                                [ 233 ] Co - operative Education and Work Experience
+                                                [ 234 ] All computing science students are strongly encouraged to explore the opportunities that Work Integrated Learning ( WIL )
+                                                can offer them. Please contact a [ @ 236 ] computing science co - op advisor [ 235 ] during your first year of studies to ensure that you
+                                                have all of the necessary courses and information to help plan for a successful co - op experience.
+                                                                                                                                                   [ @ 237 ] Back To Top
+
+                          [ @ 238 ] Admission   [ @ 244 ] Maps + directions  [ 250 ] CONNECT WITH US [ @ 254 ] CONTACT US        [ @ 258 ] CALENDAR CHANGES AND CORRECTIONS
+                          [ @ 239 ] Programs    [ @ 245 ] Library            [ @ 251 ] Facebook      [ @ 255 ] Burnaby Campus    [ @ 259 ] Terms and conditions
+                          [ @ 240 ] Learning    [ @ 246 ] Academic Calendar  [ @ 252 ] Twitter       [ @ 256 ] Surrey Campus     [ @ 260 ] Privacy policy
+                                                                             [ @ 253 ] YouTube       [ @ 257 ] Vancouver Campus
+                          [ @ 241 ] Research    [ @ 247 ] Road Report                                                            [ 261 ] Simon Fraser University
+                          [ @ 242 ] Community  [ @ 248 ] Give to SFU                                                                                                       [ @ 18 ]
+                          [ @ 243 ] About       [ @ 249 ] Emergency Information
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 4536

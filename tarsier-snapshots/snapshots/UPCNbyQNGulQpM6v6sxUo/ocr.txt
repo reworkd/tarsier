@@ -24,6 +24,4 @@
                                                                           [ @ 25 ] www.micronsystems.com      [ @ 26 ] About Micron Systems     [ @ 27 ] Privacy Policy  [ @ 28 ] Terms & Conditions
                                                                                                        [ 29 ] © Copyright 2023 Micron Systems, Inc. All rights reserved.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Image timing: 2.70 seconds
-Page text timing: 0.85 seconds
 Token count: 431

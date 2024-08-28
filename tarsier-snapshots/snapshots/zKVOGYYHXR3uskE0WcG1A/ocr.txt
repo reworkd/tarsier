@@ -1,43 +1,41 @@
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-IDAHO [ 1 ] ] Official Government Website                                                                                       [ @ 2 ] Contact Us [ @ 3 ] About Us ΑΙ
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+IDAHO [ 1 ] ] Official Government Website                                                                                                                                          [ @ 2 ] Contact Us       [ @ 3 ] About Us     A [ 4 ] |
 
 
 
-                   [ @ 4 ]
+                           [ @ 5 ]
 
-                                                                                                                      [ # 5 ]                 [ $ 6 ] b
-                       **IDAHO**
-                                                                                                                     Agency Search
-                   Department of Administration
-                   STATE DIVISION OF PURCHASING
+                                                                                                                                                                         [ # 6 ]                            [ $ 7 ] b
+                                 **IDAHO**
+                                                                                                                                                                         Agency Search
+                           Department of Administration
+                           STATE DIVISION OF PURCHASING
 
- [ @ 7 ] Information for Vendors [ @ 8 ] Statewide Contracts ▾ [ @ 9 ] Templates and Forms [ @ 10 ] Exemptions [ @ 11 ] Governing Laws and Policies [ @ 12 ] Training
- [ @ 13 ] ] Contract Administration ToolKit [ @ 14 ] Luma [ @ 15 ] Contact Us
-                   [ @ 16 ] Home [ 17 ] Statewide Contracts List View
-                   **[ 18 ] Statewide Contracts List View**
+ [ @ 8 ] Information for Vendors         [ @ 9 ] Statewide Contracts ▾          [ @ 10 ] Templates and Forms           [ @ 11 ] Exemptions       [ @ 12 ] Governing Laws and Policies             [ @ 13 ] Training ▾
+ [ @ 14 ] Contract Administration ToolKit           [ @ 15 ] Luma      [ @ 16 ] Contact Us
+                            [ @ 17 ] Home      [ 18 ] Statewide Contracts List View
+                            **[ 19 ] Statewide Contracts List View**
 
-                      [ # 19 ]                                                                                                                 [ $ 2
-                     Search for a Statewide Contract by Vendor, Contract Number, or by Category
-                     ⚫ [ @ 22 ] 22nd Century Technologies, Inc. ( Temporary Staffing Services ) SBPO20200075
-                     ⚫ [ @ 23 ] Abbott Laboratories, Inc. ( Infant Formula Rebate ( WIC / NASPO ValuePoint ) PADD 19200325
-                     ⚫ [ @ 24 ] Air Van, Inc. ( Moving Services to Chinden Campus ) SBPO19200501
-                     ⚫ [ @ 25 ] Allied Envelope ( Envelopes ) SBPO20220924
-                     ⚫ [ @ 26 ] Allsteel ( Office Furniture and Related Services ) PADD20231522
-                     ⚫ [ @ 27 ] Amerigas ( Propane Fuel and Related Equipment ) SBPO20220916
-                        [ @ 28 ] Apple ( Computer Equipment, Peripherals, and Related Services ) SDE PADD 16-0010
-                     ⚫ [ @ 29 ] AT & T Corporation ( Cellular / Wireless Services ) PADD20210619
-                     ⚫ [ @ 30 ] Athena Consulting, LLC ( Temporary Staffing Services ) SBPO20200077
-                     ⚫ [ @ 31 ] Atkinson Distributing, Inc. ( Fuels, Bulk ) SBP017200381
-                     • [ @ 32 ] Audio Enhancement Inc. ( Audio Video Equipment and Supplies ) PADD20200446
-                     ⚫ [ @ 33 ] Aviat Networks ( Public Safety Communications Products, Services and Solutions ) PADD20221087
-                     • [ @ 34 ] B & H Photo Video ( Audio Video Equipment and Supplies ) PADD20210479
-                     ⚫ [ @ 35 ] BDM Squared ( Smartsheet Project Management Software ) SBPO20220977
-                     ⚫ [ @ 36 ] BK technologies ( Public Safety Communications Products, Services and Solutions ) PADD20221065
-                     ⚫ [ @ 37 ] BlueCrest ( Mailing Equipment, Supplies and Maintenance ) PADD20231478
-                        [ @ 38 ] Brady Industries ( Facilities MRO ) SBPO19200191
-                       [ @ 39 ] Bridgestone Americas Tire Operation ( includes Firestone ) ( Tire, Tube and Related Services ) PADD19200551
-                       [ @ 40 ] BuzzClan, LLC ( Temporary Staffing Services ) SBPO20200079
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Image timing: 0.53 seconds
-Page text timing: 3.37 seconds
-Token count: 721
+                               [ # 20 ]                                                                                                                                                                       [ $ 2
+                               Search for a Statewide Contract by Vendor, Contract Number, or by Category
+                               ⚫ [ @ 23 ] 22nd Century Technologies, Inc. ( Temporary Staffing Services ) SBPO20200075
+                               ⚫ [ @ 24 ] Abbott Laboratories, Inc. ( Infant Formula Rebate ( WIC / NASPO ValuePoint ) PADD 19200325
+                               ⚫ [ @ 25 ] Air Van, Inc. ( Moving Services to Chinden Campus ) SBPO19200501
+                               ⚫ [ @ 26 ] Allied Envelope ( Envelopes ) SBPO20220924
+                               ⚫ [ @ 27 ] Allsteel ( Office Furniture and Related Services ) PADD20231522
+                               ⚫ [ @ 28 ] Amerigas ( Propane Fuel and Related Equipment ) SBPO20220916
+                                  [ @ 29 ] Apple ( Computer Equipment, Peripherals, and Related Services ) SDE PADD 16-0010
+                               • [ @ 30 ] AT & T Corporation ( Cellular / Wireless Services ) PADD20210619
+                               ⚫ [ @ 31 ] Athena Consulting, LLC ( Temporary Staffing Services ) SBPO20200077
+                               ⚫ [ @ 32 ] Atkinson Distributing, Inc. ( Fuels, Bulk ) SBP017200381
+                               ⚫ [ @ 33 ] Audio Enhancement Inc. ( Audio Video Equipment and Supplies ) PADD20200446
+                               ⚫ [ @ 34 ] Aviat Networks ( Public Safety Communications Products, Services and Solutions ) PADD20221087
+                               • [ @ 35 ] B & H Photo Video ( Audio Video Equipment and Supplies ) PADD20210479
+                               ⚫ [ @ 36 ] BDM Squared ( Smartsheet Project Management Software ) SBPO20220977
+                               ⚫ [ @ 37 ] BK technologies ( Public Safety Communications Products, Services and Solutions ) PADD20221065
+                               ⚫ [ @ 38 ] BlueCrest ( Mailing Equipment, Supplies and Maintenance ) PADD20231478
+                               ⚫ [ @ 39 ] Brady Industries ( Facilities MRO ) SBPO19200191
+                                  [ @ 40 ] Bridgestone Americas Tire Operation ( includes Firestone ) ( Tire, Tube and Related Services ) PADD19200551
+                                  [ @ 41 ] BuzzClan,    LLC ( Temporary Staffing Services ) SBPO20200079
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 740

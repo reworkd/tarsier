@@ -1,17 +1,15 @@
-------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 [ 1 ] Quotes
-                                                  [ 0 ] An ordered list of quotes i've found the most interesting / inspiring.
-                                                      [ 2 ]" You can't learn [ 4 ] everything [ 3 ], but you have to convince yourself that you
-                                                      can learn [ 5 ] anything."
-                                                       [ 6 ] John Carmack
-                                                      [ 7 ]" Day 2 is stasis. Followed by irrelevance. Followed by [ 9 ] excruciating [ 8 ], painful
-                                                      decline. Followed by death."
-                                                       [ 10 ] Jeff Bezos
-                                                      [ 11 ]" Intelligence is the efficiency in which you turn a sampling of experiences into
-                                                      generalized programs."
-                                                       [ 12 ] François Chollet
-                                                  [ @ 13 ] Back
-------------------------------------------------------------------------------------------------------------------------------------
-Image timing: 4.84 seconds
-Page text timing: 1.25 seconds
-Token count: 171
+                                             [ O ] An ordered list of quotes i've found the most interesting / inspiring.
+                                                [ 2 ]" You can't learn [ 5 ] everything [ 3 ], but you have to convince yourself that you
+                                                can learn [ 6 ] anything [ 4 ]."
+                                                [ 7 ] - [ 8 ] John Carmack
+                                                [ 9 ]" Day 2 is stasis. Followed by irrelevance. Followed by [ 11 ] excruciating [ 10 ],
+                                                painful decline. Followed by death."
+                                                [ 12 ] - [ 13 ] Jeff Bezos
+                                                [ 14 ]" Intelligence is the efficiency in which you turn a sampling of experiences into
+                                                generalized programs."
+                                                [ 15 ] - [ 16 ] François Chollet
+                                             [ @ 17 ] Back
+--------------------------------------------------------------------------------------------------------------------
+Token count: 188

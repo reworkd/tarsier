@@ -40,7 +40,7 @@
                                                                                                 DE GOLDEN **Millport**
                                                                                                    **PHARMACY**
                                                                                                  **Golden**
-         [ 120 ] Lewis and Faye Manderson Cancer [ 127 ] SpineCare Center  [ 134 ] FMC Medical Clinic - Millport
+          [ 120 ] Lewis and Faye Manderson Cancer [ 127 ] SpineCare Center [ 134 ] FMC Medical Clinic - Millport
          Center                           [ 128 ] General                  [ 135 ] General
          [ 121 ] General
                                           [ 129 ] 1050 Ruby Tyler Parkway  [ 136 ] 13530 Hwy 96
@@ -86,22 +86,20 @@
 
 
 
-                              [ @ 179 ] Community Involvement [ @ 180 ] Find a Doctor [ @ 181 ] Services [ @ 189 ]
+                              [ @ 180 ] Community Involvement [ @ 181 ] Find a Doctor [ @ 182 ] Services [ @ 190 ] f
      **DCH**
-     Health System            [ @ 182 ] News        [ @ 183 ] The DCH Foundation [ @ 184 ] Careers
-                                                                                                    [ @ 190 ] X
-                              [ @ 185 ] DCH Employee Resources [ @ 186 ] Education [ @ 187 ] Events Calendar
-     [ 174 ] 809 University Blvd. E.                                                               BBB
-     [ 175 ] Tuscaloosa, [ 176 ] AL [ @ 188 ] Privacy Practices                                     [ @ 191 ]
-                                                                                             [ @ 193 ] Rat
-     [ 177 ] 35401
-     [ @ 178 ] 205-759-7111                                                                         [ @ 192 ] O
+     Health System            [ @ 183 ] News        [ @ 184 ] The DCH Foundation [ @ 185 ] Careers
+                                                                                                    [ @ 191 ] X
+                              [ @ 186 ] DCH Employee Resources [ @ 187 ] Education [ @ 188 ] Events Calendar
+     [ 175 ] 809 University Blvd. E.                                                               BBB
+     [ 176 ] Tuscaloosa [ 174 ], [ @ 189 ] Privacy Practices                                        [ @ 192 ]
+                                                                                              [ @ 194 ] Ratm
+     [ 177 ] AL [ 178 ] 35401
+     [ @ 179 ] 205-759-7111                                                                         [ @ 193 ] O
 
 
-                                                                                                 [ @ 197 ]
-   [ 194 ] Copyright © 2023 [ @ 195 ] Privacy Policy. [ @ 196 ] Site Map
+                                                                                                 [ @ 198 ]
+   [ 195 ] Copyright © 2023 [ @ 196 ] Privacy Policy. [ @ 197 ] Site Map
                                                                                                  SCORPION
 ----------------------------------------------------------------------------------------------------------------
-Image timing: 5.74 seconds
-Page text timing: 13.74 seconds
-Token count: 1256
+Token count: 1261

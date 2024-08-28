@@ -23,7 +23,7 @@
 
                                      [ @ 13 ] APPLY                                 [ @ 14 ] SHORTLIST □
 
-                                                                                                                                                    [ @ 92 ]
+                                                                                                                                                    [ @ 93 ]
                                                                                                                                                     Find out about our
                                                                                                                                                     affinity networks
                  **[ 15 ] Job Description**
@@ -41,17 +41,17 @@
                 attract, retain and develop exceptional talent. Whilst our approach is global, we must ensure that
                 our processes and employee experiences are as seamless as possible, driving self - service and
                 optimising automation.
-                                                                                                                                                    **[ 93 ] Hear from our**
+                                                                                                                                                    **[ 94 ] Hear from our**
                  [ 20 ] This role straddles both the Global HR and Global IT functions and you will be working with
                 functional stakeholders as well as solution architects and internal subject matter experts, to                                      **people**
                 continually transform our HR operations globally.
-                                                                                                                                                    [ 94 ] The Clifford Chance Careers Podcast
+                                                                                                                                                    [ 95 ] The Clifford Chance Careers Podcast
                  [ 21 ] You will have line management responsibility for the People Services Systems Team,                                          features our colleagues from across the
                 ensuring a high level of engagement and performance, fostering their ongoing development, and                                       globe, discussing career advice, new
                 promoting a mindset of continual improvement.                                                                                       trends in the industry and giving unique
                                                                                                                                                     insights into their personal journeys.
                  [ 22 ] Who you will work with
-                                                                                                                                                        [ @ 95 ] READ MORE
+                                                                                                                                                        [ @ 96 ] READ MORE
                  [ 23 ] You will work closely with the Global Head of People Services Delivery and the Global HR
                 Product Manager. You will partner with the Global HR leadership, functional business owners,
                 Global HR IT systems, HR Data & Analytics, Risk & Compliance, Data Privacy, and functional
@@ -83,7 +83,7 @@
                       maintained through regular budgetary oversight.
                    ⚫ [ 34 ] Horizon scanning to ensure that advancements in service, technology and employee
                      experience are at the forefront of our decision making.         Identifying future opportunities for
-                     implementation that support the People Strategy.
+                      implementation that support the People Strategy.
                  [ 35 ] System Management
                    ⚫ [ 36 ] Working with the Global HR Product Manager, you will manage relationships with
                       system providers to regularly discuss system improvements and update them on future
@@ -198,12 +198,10 @@
                 improvement.
                 [ 81 ] Our goal is to deliver an equality of opportunity, an equality of aspiration and an equality of
                 experience to everyone who works in our firm.
-                [ 82 ] Find out more about our inclusive culture [ @ 83 ] here.
-                 [ 84 ] # IND1 # LI - JS1
+                 [ 82 ] Find out more about our inclusive culture [ @ 84 ] here [ 83 ].
+                 [ 85 ] # IND1 # LI - JS1
 
-                      [ @ 85 ] Apply                 [ @ 86 ] Shortlist □
-
-
+                      [ @ 86 ] Apply                 [ @ 87 ] Shortlist
 
 
 
@@ -214,33 +212,33 @@
 
 
 
-                [ $ 87 ] SHARE [ @ 89 ]          [ @ 88 ] □ [ @ 90 ]                 [ @ 91 ] @
+
+
+                [ $ 88 ] SHARE [ @ 90 ]          [ @ 89 ] ☐ [ @ 91 ]                 [ @ 92 ] @
 
 
 
 
-           **[ 96 ] Join our community of**
+           **[ 97 ] Join our community of**
           **bright minds**                                                           BE PROUD.
                                                                                      BE CLIFFORD CHANCE
-          [ 97 ] Can't find the role you are looking for? Sign up to our talent
+          [ 98 ] Can't find the role you are looking for? Sign up to our talent
           community today
 
-                [ @ 98 ] REGISTER
+                [ @ 99 ] REGISTER
 
 
 
-                 [ @ 102 ] About [ @ 103 ] Accessibility         [ @ 104 ] Legal          [ @ 105 ] Contact [ @ 106 ] Privacy                                      Start your job search
-                                                                                                                                                                                            here [ @ 108 ]
-                Us               Statement                      Statements                us                policy                                          [ # 107 ]
+                 [ @ 103 ] About [ @ 104 ] Accessibility         [ @ 105 ] Legal          [ @ 106 ] Contact [ @ 107 ] Privacy                                      Start your job search here
+                Us               Statement                      Statements                us                                                                                                     [ @ 109 ] ]
+                                                                                                            policy                                          [ # 108 ]
 
 
 
-         [ 128 ] We use cookies on our websites and other online services to enable them to function correctly, and also to ensure that
+         [ 129 ] We use cookies on our websites and other online services to enable them to function correctly, and also to ensure that
          you get the most out of them. We also use cookies for analysis of how people use and interact with our websites, as well to
-         enable social media features. You can accept or reject these other cookies using the appropriate button, or you can manage [ $ 130 ] Cookies Settings [ $ 131 ] Reject All [ $ 132 ] Accept All Cookies
+         enable social media features. You can accept or reject these other cookies using the appropriate button, or you can manage [ $ 131 ] Cookies Settings [ $ 132 ] Reject All [ $ 133 ] Accept All Cookies
          which cookies you wish to allow. Please note that by rejecting some cookies you may not be able to access the complete
-         functionality of our websites. [ @ 129 ] Cookie policy.
+         functionality of our websites. [ @ 130 ] Cookie policy.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Image timing: 1.81 seconds
-Page text timing: 4.21 seconds
-Token count: 2898
+Token count: 2902

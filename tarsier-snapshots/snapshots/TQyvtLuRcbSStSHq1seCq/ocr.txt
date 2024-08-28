@@ -1,101 +1,98 @@
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 0 ]
-                                                                                                                        [ @ 1 ] About Us          [ @ 2 ] Careers         [ @ 3 ] Living Well         [ @ 4 ] Volunteer        [ @ 5 ]    Donate         [ @ 6 ] Patient Portal
-        **FAITH**    **REGIONAL**
-             HEALTH SERVICES
+                                                                      [ @ 1 ] About Us [ @ 2 ] Careers [ @ 3 ] Living Well [ @ 4 ] Volunteer [ @ 5 ] Donate [ @ 6 ] Patient Portal
+    **FAITH** **REGIONAL**
+       HEALTH SERVICES
 
-        [ @ 7 ] Medical                                     [ @ 9 ] Find a                                 [ 11 ] Find a                                          [ @ 14 ] Patients &                                     [ @ 16 ] Classes &
-        Services                                            Doctor                                         [ 12 ] Location                                       Visitors                                                Events
+    [ @ 7 ] Medical                [ @ 9 ] Find a             [ 11 ] Find a                    [ @ 14 ] Patients &              [ @ 16 ] Classes &
+    Services                       Doctor                     [ 12 ] Location                  Visitors                        Events
 
-        [ @ 20 ] Home / [ 21 ] Find a Location
+    [ @ 21 ] Home [ 20 ] ] / [ 22 ] Find a Location
 
-        **[ 22 ] Find a Location**
+    **[ 23 ] Find a Location**
 
-              [ $ 23 ] Location Name
-              [ # 24 ]
-
-
-               [ $ 25 ] City                                                                                                                    [ $ 27 ] ZIP Code                                   [ $ 29 ] Radius
-              [ $ 26                                                                                                                            [ # 28 ]                                                Any
-                     ] y City
-
-              [ $ 30 ] arch
+        [ $ 24 ] Location Name
+        [ # 25 ]
 
 
+        [ $ 26 ] City                                                               [ $ 28 ] ZIP Code              [ $ 30 ] Radius
+        [ $ 27 ] y City                                                             [ # 29 ]                         Any
 
-                                                         [ @ 31 ] Skyview Villa Assisted Living
-                               Skyview                   [ 33 ] 210 Harris Drive                                                                                                                                                                   [ @ 32 ] 402-371-5269
-                                                         [ 34 ] Norfolk, [ 35 ] NE [ 36 ] 68701                                                                                                                                      [ @ 37 ] Get Driving Directions
+        [ $ 31 ] arch
 
 
 
-                                                         [ @ 38 ] Faith Regional Surgery Center
-                                                         [ 40 ] 2701 W. Norfolk Ave.                                                                                                                                                               [ @ 39 ] 402-644-7262
-                                                         [ 41 ] Floor 1                                                                                                                                                              [ @ 45 ] Get Driving Directions
-                                                         [ 42 ] Norfolk, [ 43 ] NE [ 44 ] 68701
-      **ན་**
-                                                         [ @ 46 ] Cardiac and Pulmonary Rehabilitation
-                                                         [ 47 ] 110 N 29th St Ste 202                                                                                                                                                [ @ 51 ] Get Driving Directions
-                                                         [ 48 ] Norfolk, [ 49 ] NE [ 50 ] 68701
+                                 [ @ 32 ] Skyview Villa Assisted Living
+                  Skyview        [ 35 ] 210 Harris Drive                                                                                       [ @ 33 ] 402-371-5269
+                                 [ 36 ] Norfolk [ 34 ], [ 37 ] NE [ 38 ] 68701                                                        [ @ 39 ] Get Driving Directions
 
 
 
-                                                         [ @ 52 ] Dr. NP Patel
-      **ག**
-                                                         [ 54 ] 3901 W. Norfolk Ave.                                                                                                                                                               [ @ 53 ] 402-379-8080
-                                                         [ 55 ] Norfolk, [ 56 ] NE [ 57 ] 68701                                                                                                                                      [ @ 58 ] Get Driving Directions
-                                                                                                                                                                                                                   [ @ 59 ] Find a Physician at this Location
-
-
-                                                         [ @ 60 ] Faith Regional Appearance Center
-                                                         [ 62 ] 110 N. 29th St.                                                                                                                                                                    [ @ 61 ] 402-644-7139
-                                                         [ 63 ] Norfolk, [ 64 ] NE [ 65 ] 68701                                                                                                                                      [ @ 66 ] Get Driving Directions
-
-
-                                                         [ @ 67 ] Faith Regional CardioVascular Institute
-                                                         [ 69 ] 2701 W. Norfolk Ave.                                                                                                                                                               [ @ 68 ] 402-844-8284
-                                                         [ 70 ] Floor 3                                                                                                                                                              [ @ 74 ] Get Driving Directions
-                                                         [ 71 ] Norfolk, [ 72 ] NE [ 73 ] 68701
-                                                                                                                                                                                                                   [ @ 75 ] Find a Physician at this Location
-
-
-                                                         [ @ 76 ] Faith Regional Carson Cancer Center
-                                                         [ 78 ] 110 N. 29th St.                                                                                                                                                                    [ @ 77 ] 402-644-7534
-                                                         [ 79 ] Ste.     101                                                                                                                                                         [ @ 83 ] Get Driving Directions
-                                                         [ 80 ] Norfolk, [ 81 ] NE [ 82 ] 68701
-                                                                                                                                                                                                                   [ @ 84 ] Find a Physician at this Location
-
-
-                                                         [ @ 85 ] Faith Regional Health Services
-                                                         [ 87 ] 2700 W. Norfolk Ave.                                                                                                                                                               [ @ 86 ] 402-371-4880
-                                                         [ 88 ] Norfolk,        [ 89 ] NE [ 90 ] 68701                                                                                                                               [ @ 91 ] Get Driving Directions
-                                                                                                                                                                                                                   [ @ 92 ] Find a Physician at this Location
-
-
-                                                         [ @ 93 ] Faith Regional Health Services Advanced Wound Center
-                                                         [ 95 ] 2700 W. Norfolk Ave.                                                                                                                                                               [ @ 94 ] 402-844-8135
-                                                         [ 96 ] Norfolk, [ 97 ] NE [ 98 ] 68701                                                                                                                                      [ @ 99 ] Get Driving Directions
-                                                                                                                                                                                                                [ @ 100 ] Find a Physician at this Location
-
-
-                                                         [ @ 101 ] Faith Regional Health Services Behavioral Health Services
-                                                         [ 103 ] 2700 W. Norfolk Ave.                                                                                                                                                            [ @ 102 ] 402-371-4880
-                                                         [ 104 ] Norfolk, [ 105 ] NE [ 106 ] 68701                                                                                                                                 [ @ 107 ] Get Driving Directions
-                                                                                                                                                                                                                [ @ 108 ] Find a Physician at this Location
+                                 [ @ 40 ] Faith Regional Surgery Center
+                                 [ 43 ] 2701 W. Norfolk Ave.                                                                                   [ @ 41 ] 402-644-7262
+                                 [ 44 ] Floor 1                                                                                       [ @ 48 ] Get Driving Directions
+                                 [ 45 ] Norfolk [ 42 ], [ 46 ] NE [ 47 ] 68701
+   **ག་**
+                                 [ @ 49 ] Cardiac and Pulmonary Rehabilitation
+                                 [ 51 ] 110 N 29th St Ste 202                                                                         [ @ 55 ] Get Driving Directions
+                                 [ 52 ] Norfolk [ 50 ], [ 53 ] NE [ 54 ] 68701
 
 
 
-        [ 109 ] Faith Regional Health Services                      [ @ 114 ] Contact Us
-        [ 110 ] 2700 W. Norfolk Ave.                                [ @ 115 ] For Healthcare Professionals & Staff
-                                                                                                                                                                                                                                                        [        [       [        [
-        [ 111 ] Norfolk, NE 68701                                    @ 116 ] Privacy Practices Policy                                                                                                                                        [ @ @             @
-                                                                    [                                                                                                                                                                        12                         @ •     @
-        [ 112 ] Call [ @ 113 ] ( 402 ) 371-4880                                                                                                                                                                                                      12   ☑ 12
-                                                                    [ @ 117 ] Nondiscrimination Notice                                                                                                                                        0 ]
-                                                                                                                                                                                                                                                      1 ]      2 ],    314 ]
-                                                                    [ @ 118 ] Accessibility Statement                                                                                                                  [ 125 ] © 2023 Faith Regionalea                    Services.
-                                                                    [ @ 119 ] No Surprise Billing                                                                                                                                                    [ 126 ] All rights reserved.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Image timing: 1.81 seconds
-Page text timing: 9.90 seconds
-Token count: 1240
+                                 [ @ 56 ] Dr. NP Patel
+   **ག་**
+                                 [ 59 ] 3901 W. Norfolk Ave.                                                                                   [ @ 57 ] 402-379-8080
+                                 [ 60 ] Norfolk [ 58 ], [ 61 ] NE [ 62 ] 68701                                                        [ @ 63 ] Get Driving Directions
+                                                                                                                            [ @ 64 ] Find a Physician at this Location
+
+
+                                 [ @ 65 ] Faith Regional Appearance Center
+                                 [ 68 ] 110 N. 29th St.                                                                                        [ @ 66 ] 402-644-7139
+                                 [ 69 ] Norfolk [ 67 ], [ 70 ] NE [ 71 ] 68701                                                        [ @ 72 ] Get Driving Directions.
+
+
+                                 [ @ 73 ] Faith Regional CardioVascular Institute
+                                 [ 76 ] 2701 W. Norfolk Ave.                                                                                   [ @ 74 ] 402-844-8284
+                                 [ 77 ] Floor 3                                                                                       [ @ 81 ] Get Driving Directions
+                                 [ 78 ] Norfolk [ 75 ], [ 79 ] NE [ 80 ] 68701
+                                                                                                                            [ @ 82 ] Find a Physician at this Location
+
+
+                                 [ @ 83 ] Faith Regional Carson Cancer Center
+                                 [ 86 ] 110 N. 29th St.                                                                                        [ @ 84 ] 402-644-7534
+                                 [ 87 ] Ste. 101                                                                                      [ @ 91 ] Get Driving Directions
+                                 [ 88 ] Norfolk [ 85 ], [ 89 ] NE [ 90 ] 68701
+                                                                                                                           [ @ 92 ] Find a Physician at this Location
+
+
+                                 [ @ 93 ] Faith Regional Health Services
+                                 [ 96 ] 2700 W. Norfolk Ave.                                                                                   [ @ 94 ] 402-371-4880
+                                 [ 97 ] Norfolk [ 95 ], [ 98 ] NE [ 99 ] 68701                                                       [ @ 100 ] Get Driving Directions
+                                                                                                                          [ @ 101 ] Find a Physician at this Location
+
+
+                                 [ @ 102 ] Faith Regional Health Services Advanced Wound Center
+                                 [ 105 ] 2700 W. Norfolk Ave.                                                                                [ @ 103 ] 402-844-8135
+                                 [ 106 ] Norfolk [ 104 ], [ 107 ] NE [ 108 ] 68701                                                   [ @ 109 ] Get Driving Directions
+                                                                                                                          [ @ 110 ] Find a Physician at this Location
+
+
+                                 [ @ 111 ] Faith Regional Health Services Behavioral Health Services
+                                 [ 114 ] 2700 W. Norfolk Ave.                                                                                [ @ 112 ] 402-371-4880
+                                 [ 115 ] Norfolk [ 113 ], [ 116 ] NE [ 117 ] 68701                                                   [ @ 118 ] Get Driving Directions
+                                                                                                                          [ @ 119 ] Find a Physician at this Location
+
+
+
+    [ 120 ] Faith Regional Health Services [ @ 125 ] Contact Us
+    [ 121 ] 2700 W. Norfolk Ave.        [ @ 126 ] For Healthcare Professionals & Staff
+                                                                                                                                           @     [    [    [     [
+    [ 122 ] Norfolk, NE 68701           @ 127 ] Privacy Practices Policy.                                                                  [    @    @
+                                        [                                                                                                  13-            @ @
+    [ 123 ] Call [ @ 124 ] ( 402 ) 371-4880 [ @ 128 ] Nondiscrimination Notice                                                                  13   13   13in10
+                                                                                                                                            1 ] 2 ]
+                                                                                                                                                     3 ]. 4 ]   5 ]
+                                        [ @ 129 ] Accessibility Statement                                                     [ 136 ] © 2023 Faith Regional Healui Services.
+                                        [ @ 130 ] No Surprise Billing                                                                           [ 137 ] All rights reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Token count: 1243

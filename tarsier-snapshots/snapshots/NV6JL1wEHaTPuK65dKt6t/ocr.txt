@@ -68,6 +68,4 @@ Krispy Kreme           [ @ 0 ] POSITION INFORMATION
 
   [ 41 ] Powered by Talentreef / Mitratech [ @ 42 ] Privacy Policy.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Image timing: 1.08 seconds
-Page text timing: 3.89 seconds
 Token count: 942

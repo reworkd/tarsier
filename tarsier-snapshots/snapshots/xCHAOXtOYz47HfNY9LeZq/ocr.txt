@@ -82,9 +82,8 @@
                                                   [ 130 ] Posted: April 15, 2020
                                                   [ @ 131 ] Report on Fake News aired during 14th to 28th February 2020.
                                                   [ 132 ] Posted: March 09, 2020
-                                                                                                                                [ @ 137 ] [ @ 138 ]
-                                                      [ @ 133 ] HOME [ @ 134 ] ABOUT PEMRA [ @ 135 ] CONTACT US [ @ 136 ] FAQ                      [ 139 ] COPYRIGHTS 2020 ALL RIGHTS RESERVED BY PEMRA
+                                                                                                                                [ @ 140 ] [ 141 ]
+                                                      [ @ 136 ] HOME [ 133 ] [ @ 137 ] ABOUT PEMRA [ 134 ] [ @ 138 ] CONTACT                       [ 142 ] COPYRIGHTS © 2020 ALL RIGHTS RESERVED BY PEMRA
+                                                     US [ 135 ] [ @ 139 ] FAQ
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Image timing: 6.58 seconds
-Page text timing: 2.93 seconds
-Token count: 1491
+Token count: 1505

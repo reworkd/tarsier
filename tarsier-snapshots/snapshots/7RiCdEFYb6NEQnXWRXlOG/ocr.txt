@@ -24,6 +24,4 @@
                                                                                       [ 21 ] Created by the TodoMVC Team
                                                                                         [ 22 ] Part of @ 23 ] ] TodoMVC
 -------------------------------------------------------------------------------------------------------------------------------------
-Image timing: 0.77 seconds
-Page text timing: 0.34 seconds
 Token count: 195

@@ -1,12 +1,14 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ @ 0 ]
                         [ $ 1 ] RAISE                    [ $ 3 ] BROKERS &      [ $ 4 ] THE   [ $ 5 ] DISCOVER
-                                      [ $ 2 ] INVESTING                        EXCHANGE                           [ # 6 ]  Search by Symbol or Name      ] 07 [ عربي
-           DFM           CAPITAL                           MEMBERS                                 DFM
+                                      [ $ 2 ] INVESTING                                                          [ # 6 ]  Search by Symbol or Name      ] 07 [ عربي
+           DFM           CAPITAL                           MEMBERS            EXCHANGE            DFM
            المالي دبي سوق
-                                                             ( [ 12 ] -9.03 / [ 14 ] TOTAL             [ 16 ] TOTAL                 [ 18 ] TOTAL               MARKET
-      [ 8 ] MARKET [ 9 ] CLOSED ✓   [ 10 ] DFMGI  [ 11 ] 3969.17            VOLUME     [ 15 ] 92,143,984 VALUE   [ 17 ] 229,873,470.88 TRADES [ 19 ] 5,318 [ @ 2 WATCH
-                                                             [ 13 ] -0.227 % )
+                                                             [ 12 ]
+                                                              [ 15 ] -9.03 [ 13 ] [ 17 ] TOTAL         [ 19 ] TOTAL                 [ 21 ] TOTAL               MARKET
+      [ 8 ] MARKET [ 9 ] CLOSED V   [ 10 ] DFMGI  [ 11 ] 3969.17             VOLUME    [ 18 ] 92,143,984 VALUE   [ 20 ] 229,873,470.88 TRADES  [ 22 ] 5,318 [ @ 2 WATCH
+                                                              [ 16 ] -0.227 %
+                                                             [ 14 ]
 
 
 
@@ -15,46 +17,44 @@
 
 
 
-                   **[ 21 ] Market Rules**
+                   **[ 24 ] Market Rules**
 
 
 
 
-               [ 22 ] We are committed to providing issuers, brokers and investors an attractive, efficient and well - regulated market to raise capital and fulfill investment and
+               [ 25 ] We are committed to providing issuers, brokers and investors an attractive, efficient and well - regulated market to raise capital and fulfill investment and
                trading requirements.
-               [ 23 ] We comply with all requirements of the Securities and Commodities Authority's ( SCA ) Rules and Regulations. These rules are closely linked to the
+               [ 26 ] We comply with all requirements of the Securities and Commodities Authority's ( SCA ) Rules and Regulations. These rules are closely linked to the
                operation of the trading system and should be read together with the SCA Rules and Regulations.
-               [ 24 ] Amendments to market rules and guidance are disseminated through the Market Announcements.
+               [ 27 ] Amendments to market rules and guidance are disseminated through the Market Announcements.
 
-               [ 25 ] MARKET RULES  [ 26 ] INDEX RULES [ 27 ] RSS ELIGIBLE SECURITIES LIST
-
-
-
-                   @ 28 ]    DFM                                                          @ 32 ]    DFM           35 ] Module One
-                   [                       [ 30 ] Glossary Rules                         [                       [
-                             [ 29 ] Glossary Rules                                                 [ 33 ] Module One [ 36 ] General Rules
-                                                                                                   [ 34 ] General Rules
-                                           [ 31 ] DOWNLOAD ↓                                                     [ 37 ] DOWNLOAD ✓
+               [ 28 ] MARKET RULES [ 29 ] INDEX RULES [ 30 ] RSS ELIGIBLE SECURITIES LIST
 
 
-                   [ @ 38 ]  DFM           [ 41 ] Module Two                             [ @ 44 ]   DFM          [ 47 ] Module Three
-                             [ 39 ] Module Two [ 42 ] Listing Rules                                [ 45 ] Module Three [ 48 ] Membership, Trading, And
-                             [ 40 ] Listing Rules                                                  [ 46 ] Membership.
-                                                                                                   Trading, And Derivatives
-                                                                                                   Rules         Derivatives Rules
-                                           [ 43 ] DOWNLOAD ↓
-                                                                                                                 [ 49 ] DOWNLOAD ↓
+
+                   [ @ 31 ]  DFM                        Rules                            [ @ 35 ] < DFM
+                                          [ 33 ] Glossary                                                        [ 38 ] Module One
+                             [ 32 ] Glossary Rules                                                 [ 36 ] Module One [ 39 ] General Rules
+                                                                                                   [ 37 ] General Rules
+                                          [ 34 ] DOWNLOAD ↓                                                     [ 40 ] DOWNLOAD ✓
 
 
-                   [ @ 50 ]  DFM           53 ]        Four
-                                           [   Module
-                             [ 51 ] Module Four [ 54 ] Penalty Rules
-                             [ 52 ] Penalty Rules
-                                           [ 55 ] DOWNLOAD ✓
+                   [ @ 41 ]  DFM           44 ] Module Two                               [ @ 47 ]  DFM
+                                          [                                                                     [ 50 ] Module Three
+                             [ 42 ] Module Two 45 ] Listing Rules                                  [ 48 ] Module Three
+                             [ 43 ] Listing Rules [                                                [ 49 ] Membership. [ 51 ] Membership, Trading, And
+                                                                                                  Trading Rules, And Derivatives Derivatives Rules
+                                          [ 46 ] DOWNLOAD ✓
+                                                                                                                [ 52 ] DOWNLOAD ↓
 
 
-                        [ @ 56 ] VIEW ALL SCA'S RULES AND REGULATIONS
+                   [ @ 53 ]  DFM           [ 56 ] Module Four
+                             [ 54 ] Module Four [ 57 ] Penalty Rules
+                             [ 55 ] Penalty Rules
+                                          [ 58 ] DOWNLOAD ✓
 
+
+                       [ @ 59 ] VIEW ALL SCA'S RULES AND REGULATIONS
 
 
 
@@ -63,32 +63,29 @@
 
 
 
-                                                               [ 65 ] TELEPHONE               [ 67 ] EMAIL                   [ 69 ] OFFICE HOURS
-                      DFM                                      [ 66 ] +971 4 305 5555         [ 68 ] customerservice@dfm.ae  [ 70 ] 8:00 AM-4:00PM / Mon - Fri
+
+                                                               [ 68 ] TELEPHONE              [ 70 ] EMAIL                   [ 72 ] OFFICE HOURS
+                     DFM                                       [ 69 ] +971 4 305 5555         [ 71 ] customerservice@dfm.ae [ 73 ] 8:00 AM-4:00PM / Mon - Fri
                       المالي دبي سوق
 
-               [ 57 ] Reception - Mezzanine Floor
-               [ 58 ] World Trade Centre ( Rashid Tower )
-                              Road                             [ 71 ] QUICK ACCESS           [ 76 ] QUICK LINKS            [ 80 ] RELATED COMPANIES
-               [ 59 ] Sheikh Zayed
-               [ 60 ] P.O. Box: 9700                           [ @ 72 ] Market Watch         [ @ 77 ] Listed Securities   [ @ 81 ] Nasdaq Dubai
-               [ 61 ] Dubai, United Arab Emirates              [ @ 73 ] Mobile app           [ @ 78 ] Foreign Ownership   [ @ 82 ] Borse Dubai Limited
-               [ 62 ] Makani Number: [ 63 ] 27608 91214        [ @ 74 ] eServices            @ 79 ] Investor Relations     @ 83 ] Dubai CSD LLC
-                                                                                             [                            [
-                                                               [ @ 75 ] Contact Us                                        [ @ 84 ] Dubai Clear LLC
-                   [ @ 64 ] View Location
+               [ 60 ] Reception - Mezzanine Floor
+               [ 61 ] World Trade Centre ( Rashid Tower )
+                         Zayed Road                            [ 74 ] QUICK ACCESS          [ 79 ] QUICK LINKS            [ 83 ] RELATED COMPANIES
+               [ 62 ] Sheikh
+               [ 63 ] P.O. Box: 9700                           [ @ 75 ] Market Watch        [ @ 80 ] Listed Securities    [ @ 84 ] Nasdaq Dubai
+               [ 64 ] Dubai, United Arab Emirates              [ @ 76 ] Mobile app          [ @ 81 ] Foreign Ownership    [ @ 85 ] Borse Dubai Limited
+               [ 65 ] Makani Number: [ 66 ] 27608 91214                                                                                 LLC
+                                                               [ @ 77 ] eServices           [ @ 82 ] Investor Relations   [ @ 86 ] Dubai CSD
+                                                               [ @ 78 ] Contact Us                                        [ @ 87 ] Dubai Clear LLC
+                  [ @ 67 ] View Location
 
 
 
+                                                                                         [ @ 90 ]      [ @ 91 ]       [ @ 92 ] [ 93 ] [ @ 94 ] [ @ 95 ] [ @ 96 ]
+               [ @ 88 ] Privacy Policy [ @ 89 ] Disclaimer                                   Download on the GET IT ON
+                                                                                             App Store     Google Play        in    ☑      f
 
-                                                                                         [ @ 87 ]       [ @ 88 ]       [ @ 89 ] [ @ 90 @ ] [ @ 91 ] [ @ 92 ] [ @ 93 ]
-               [ @ 85 ] Privacy Policy [ @ 86 ] Disclaimer                                   Download on the GET IT ON           *
-                                                                                             App Store      Google Play Ο     in 5   ☑
-
-                                                      [ 94 ] COPYRIGHT © 2023 DUBAI FINANCIAL MARKET PJSC. ALL RIGHTS RESERVED
-                                                                   [ @ 95 ]
-                                                                        4 SUGGESTIONS / COMPLAINTS
+                                                      [ 97 ] COPYRIGHT © 2023 DUBAI FINANCIAL MARKET PJSC. ALL RIGHTS RESERVED
+                                                                  [ @ 98 ]   SUGGESTIONS / COMPLAINTS
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Image timing: 15.14 seconds
-Page text timing: 3.53 seconds
-Token count: 1056
+Token count: 1052

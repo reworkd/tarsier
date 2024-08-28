@@ -100,11 +100,8 @@
    [ 166 ] Have concerns? Please visit [ @ 167 ] https://www.philasd.org/face/concerns [ 168 ] Alexander Adaire School [ @ 171 ] 215-400-7480
                                                                          [ 169 ] 1300 E. Palmer Street      [ 172 ] Grades: PreK - 8
                                                                          [ 170 ] Philadelphia, PA 19125     [ 173 ] Principal: Anna Jenkins
-
-                                                                         [ @ 174 ] Terms of Use .
-                                                                                           [ @ 175 ] Privacy Policy. [ @ 176 ] Notice . of Nondiscrimination
-                                                                         [ @ 177 ] Website Accessibility ⚫ [ @ 178 ] Accommodations [ @ 179 ] Philasd.org
+                                                                         [ @ 174 ] Terms of Use [ 175 ]. [ @ 176 ] Privacy Policy [ 177 ].
+                                                                         [ @ 178 ] Notice of Nondiscrimination [ [ 179 ] ] ⚫ [ @ 180 ] Website Accessibility [ 181 ].
+                                                                         [ @ 182 ] Accommodations [ 183 ]. [ @ 184 ] Philasd.org
 -----------------------------------------------------------------------------------------------------------------------------------------------
-Image timing: 2.87 seconds
-Page text timing: 7.88 seconds
-Token count: 1937
+Token count: 1956

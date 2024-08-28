@@ -8,17 +8,15 @@
                                  ⚫ [ @ 4 ] Select Specialty Hospitals - Morgantown ( WV )
                                  . [ @ 5 ] Select Specialty Hospitals - Weirton ( WV )
                                  ⚫ [ @ 6 ] Select Specialty Hospitals - Wheeling ( WV )
-                                 [ 7 ] For careers opportunities at these five locations please visit [ @ 8 ] Select Specialty Hospitals career page.
+                                 [ 7 ] For careers opportunities at these five locations please visit [ @ 9 ] Select Specialty Hospitals career page [ 8 ].
 
 
 
 
 
 
-                             [ 9 ] © 2023 Select Specialty Hospitals, a division of Select Medical. All rights reserved.
+                             [ 10 ] © 2023 Select Specialty Hospitals, a division of Select Medical. All rights reserved.
                                                                                                                       **H**              Select
-                                                                                                             [ @ 10 ]        [ @ 11 ]     MEDICAL
+                                                                                                             [ @ 11 ]        [ @ 12 ]     MEDICAL
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-Image timing: 0.35 seconds
-Page text timing: 1.08 seconds
-Token count: 231
+Token count: 235

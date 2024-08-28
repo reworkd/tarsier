@@ -61,58 +61,56 @@
                               or any other legally protected status. Pursuant to the San Francisco Fair Chance
                               Ordinance, we will consider qualified applicants with arrest and conviction records.
                                [ 33 ] We are committed to providing reasonable accommodations to applicants with
-                              disabilities, and requests can be made via this [ @ 34 ] link.
-                               [ @ 35 ] OpenAI US Applicant Privacy Policy
+                              disabilities, and requests can be made via this [ @ 35 ] link [ 34 ].
+                               [ @ 36 ] OpenAI US Applicant Privacy Policy
 
 
 
-                               [ 36 ] Compensation, Benefits and Perks
-                               [ 37 ] Total compensation also includes generous equity and benefits.
-                              ⚫ [ 38 ] Medical, dental, and vision insurance for you and your family
-                                 [ 39 ] Mental health and wellness support
-                              ⚫ [ 40 ] 401 ( k ) plan with 4 % matching
-                                 [ 41 ] Unlimited time off and 18+ company holidays per year
-                                 [ 42 ] Paid parental leave ( 20 weeks ) and family - planning support
-                                 [ 43 ] Annual learning & development stipend ( $ 1,500 per year )
-                               [ 44 ] Annual Salary Range
-                               [ 45 ] $ 300,000- [ 46 ] $ 450,000 USD
+                               [ 37 ] Compensation, Benefits and Perks
+                               [ 38 ] Total compensation also includes generous equity and benefits.
+                              ⚫ [ 39 ] Medical, dental, and vision insurance for you and your family
+                                 [ 40 ] Mental health and wellness support
+                              ⚫ [ 41 ] 401 ( k ) plan with 4 % matching
+                                 [ 42 ] Unlimited time off and 18+ company holidays per year
+                                 [ 43 ] Paid parental leave ( 20 weeks ) and family - planning support
+                                 [ 44 ] Annual learning & development stipend ( $ 1,500 per year )
+                               [ 45 ] Annual Salary Range
+                               [ 46 ] $ 300,000 [ 47 ] - [ 48 ] $ 450,000 USD
 
-                               [ 47 ] About OpenAl
-                               [ 48 ] OpenAl is an Al research and deployment company dedicated to ensuring that
+                               [ 49 ] About OpenAl
+                               [ 50 ] OpenAl is an Al research and deployment company dedicated to ensuring that
                               general - purpose artificial intelligence benefits all of humanity. We push the
                               boundaries of the capabilities of Al systems and seek to safely deploy them to the
                               world through our products. Al is an extremely powerful tool that must be created
                               with safety and human needs at its core, and to achieve our mission, we must
                               encompass and value the many different perspectives, voices, and experiences that
                               form the full spectrum of humanity.
-                               [ 49 ] At OpenAl, we believe artificial intelligence has the potential to help people solve
+                               [ 51 ] At OpenAl, we believe artificial intelligence has the potential to help people solve
                               immense global challenges, and we want the upside of Al to be widely shared. Join
                               us in shaping the future of technology.
 
-                               [ @ 50 ] Apply now
+                               [ @ 52 ] Apply now >
 
 
 
 
 
-  [ @ 51 ]                                                 [ 52 ] Research             [ 57 ] API                  [ 62 ] ChatGPT             [ 66 ] Company
-      Open Al                                              [ @ 53 ] Overview           [ @ 58 ] Overview           [ @ 63 ] Overview           [ @ 67 ] About
-                                                           [ @ 54 ] Index              [ @ 59 ] Data privacy       [ @ 64 ] Enterprise         [ @ 68 ] Blog
-                                                           [ @ 55 ] GPT - 4            [ @ 60 ] Pricing            [ @ 65 ] Try ChatGPT >      [ @ 69 ] Careers
-                                                           [ @ 56 ] DALL - E 3         [ @ 61 ] Docs 7                                         [ @ 70 ] Charter
-                                                                                                                                              [ @ 71 ] Security
-                                                                                                                                               [ @ 72 ] Customer stories
-                                                                                                                                              [ @ 73 ] Safety
+  [ @ 53 ]                                                 [ 54 ] Research             [ 59 ] API                  [ 64 ] ChatGPT             [ 68 ] Company
+      Open Al                                              [ @ 55 ] Overview           [ @ 60 ] Overview           [ @ 65 ] Overview           [ @ 69 ] About
+                                                           [ @ 56 ] Index              [ @ 61 ] Data privacy       [ @ 66 ] Enterprise         [ @ 70 ] Blog
+                                                           [ @ 57 ] GPT - 4            [ @ 62 ] Pricing            [ @ 67 ] Try ChatGPT >      [ @ 71 ] Careers
+                                                           [ @ 58 ] DALL - E 3         [ @ 63 ] Docs 7                                        [ @ 72 ] Charter
+                                                                                                                                               [ @ 73 ] Security
+                                                                                                                                               [ @ 74 ] Customer stories
+                                                                                                                                              [ @ 75 ] Safety
 
 
 
 
 
-   [ 74 ] OpenAl © 2015–2023                               [ @ 78 ] Twitter [ @ 79 ] YouTube [ @ 80 ] GitHub [ @ 81 ] SoundCloud [ @ 82 ] LinkedIn
-   [ @ 75 ] Terms & policies
-   [ @ 76 ] Privacy policy
-   [ @ 77 ] Brand guidelines                               [ $ 83 ] Back to top ↑
+   [ 76 ] OpenAl © 2015–2023                               [ @ 80 ] Twitter [ @ 81 ] YouTube [ @ 82 ] GitHub [ @ 83 ] SoundCloud [ @ 84 ] LinkedIn
+   [ @ 77 ] Terms & policies
+   [ @ 78 ] Privacy policy
+   [ @ 79 ] Brand guidelines                               [ $ 85 ] Back to top ↑
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Image timing: 4.04 seconds
-Page text timing: 5.61 seconds
-Token count: 1489
+Token count: 1498

@@ -6,12 +6,11 @@
              [ @ 4 ]
                  ' FEDERAL TAX AUTHORITY
                                                                                                                                                                                     United Arab Emirates
-           [ @ 5 ] Login                                                                                                 [ @ 12 ] Advanced Search [ # 13 ] Search in site                     ☐
-                                                        [ @ 6 ]   [ @ 7 ]   [ @ 8 ]    [ @ 9 ]     [ @ 10 ] [ @ 11 ]
+           [ @ 5 ] Login                                [ @ 6 ]   [ @ 7 ]   [ @ 8 ]    [ @ 9 ]     [ @ 10 ] [ @ 11 ]     [ @ 12 ] Advanced Search   [ # 13 ] Search in site                   ☐
 
              [ @ 14 ] [ @ 15 ] About   [ @ 16 ] Taxes  [ @ 17 ] ESR   [ @ 18 ] Tax [ @ 19 ] Services  [ @ 20 ] Open   [ @ 21 ] E       [ @ 22 ] Legislation [ @ 23 ] Media   [ @ 24 ] E-  ]  25 [ العربية
 
-                 [ 35 ] Latest News                                                                                           [ @ 36 ] Federal Tax Authority holds second Tax Agents Fo
+                 [ 35 ] Latest News @ 36 ] Federal Tax Authority holds second Tax Agents Forum of 2023 with 204 accredited Tax Agents in attendance      [ @ 37 ] Federal Tax Authority h
 
            [ @ 51 ] Home     [ @ 52 ] Legislation  [ 50 ] Legislation Archive
 
@@ -91,17 +90,15 @@
                                                                          [ @ 130 ] Press Releases
 
            [ 145 ] Plugins
-                                                                                                                      [ @ 150 ]         تواصل   [ @ 151 ]            [ @ 152 ] UAE
-                                                                                                                                   171 TAWASUL
-           [ @ 146 ]     [ @ 147 ] PDF  [ @ 148 ] x    [ @ 149 ]                                                                 171  04 7771777
+                                                                                                                      [ @ 150 ]   171   تواصل تواصل [ @ 151 ]        [ @ 152 ] UAE
+                  ]      [ @                                                                                                          TAWASUL
+           [ @ 146          147 ] PDF   [ @ 148 ] x    [ @ 149 ]                                                                 171  04 7771777
 
-           [ 153 ] This site is best viewed in Screen Resolution 1024 x 764 Supports     [ @ 155 ] Uae Government Charter Of Future Services | [ @ 156 ] Privacy Policy I
-           Microsoft Edge, Firefox 92+, Chrome 93+                                       [ @ 157 ] Accessibility Policy | [ @ 158 ] Terms & Conditions | [ @ 159 ] Disclaimer
+           [ 153 ] This site is best viewed in Screen Resolution 1024 x 764 Supports     [ @ 155 ] Uae Government Charter Of Future Services [ 156 ]   [ @ 157 ] Privacy Policy [ 158 ] |
+           Microsoft Edge, Firefox 92+, Chrome 93+                                       [ @ 159 ] Accessibility Policy [ 160 ] [ 161 ] Terms & Conditions [ 162 ] [ 163 ] Disclaimer
            [ 154 ] Page last updated: December 06 2023 12:06 AM
-                                                                                                                                                                                                   [ $ 163 ]
-   گا      [ 160 ]                   Authority. All rights reserved.                                                                                                [ 161 ] Total Visitors: 2625949
-           [ 162 ] Sign Language
+                                                                                                                                                                                                   [ $ 167 ]
+           [ 164 ]                   Authority. All rights reserved.                                                                                                 [ 165 ] Total Visitors: 2625949
+           [ 166 ] Sign Language
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Image timing: 2.46 seconds
-Page text timing: 2.37 seconds
-Token count: 1637
+Token count: 1671

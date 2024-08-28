@@ -21,10 +21,11 @@
                                                                                                                                                                                                                               [ $ 361
                                                                                                                                                                                                             [ $ 41 ] 2        [ $ 37
                                                                                                                                                                                                                   [ $ 43 ]
-                                                                                                                     [ $ 44 ] ( $ 54 ]
+                                                                                                                     [ $ 44 ] [ $ 54 ]
                                                                                                            [ $ 47 ] ⚫
                                                                                                                        [ $ 53 ]
-                                                                                                                                       [ $ 51 ]                     [ $ 45 ]
+                                                                                                                                       [ $ 51 ]                     $ 45 ]
+                                                                                                                                                                    [
 
                                                                                                                                        [ $ 49 ]
 
@@ -264,6 +265,4 @@
                              [ 275 ] © 2023 HealthPartners  [ @ 276 ] About  [ @ 277 ] Accessibility [ @ 278 ] Good faith estimate [ @ 279 ] Nondiscrimination statement [ @ 280 ] Notice of privacy practices [ @ 281 ] Privacy policy
                                                                                                      [ @ 282 ] Surprise billing [ @ 283 ] Terms & conditions
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Image timing: 3.10 seconds
-Page text timing: 8.11 seconds
-Token count: 3294
+Token count: 3296

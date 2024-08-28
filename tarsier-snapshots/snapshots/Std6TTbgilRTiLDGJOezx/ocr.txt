@@ -22,6 +22,4 @@
 
                                                                            [ 36 ] © 2023, Designed & Developed by National Information Technology Board. All Rights Reserved
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Image timing: 0.18 seconds
-Page text timing: 0.84 seconds
 Token count: 503
