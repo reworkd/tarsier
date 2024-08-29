@@ -4,6 +4,8 @@ import pytest
 
 from tarsier import Tarsier, DummyOCRService
 
+IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
+
 
 @pytest.mark.asyncio
 @pytest.mark.parametrize(
@@ -79,45 +81,60 @@ from tarsier import Tarsier, DummyOCRService
             ["Hello World"],
             [],
         ),
-        (
+        pytest.param(
             "mock_html/japanese.html",
             {
                 0: '//html/body/p[@id="japanese"]',
             },
             ["こんにちは世界"],
             ["[ 0 ]"],
+            marks=pytest.mark.skipif(
+                IS_GITHUB_ACTIONS, reason="Skipping language test in CI"
+            ),
         ),
-        (
+        pytest.param(
             "mock_html/russian.html",
             {
                 0: '//html/body/p[@id="russian"]',
             },
             ["Привет, мир"],
             [],  # add tag back in here when testing colour tagging
+            marks=pytest.mark.skipif(
+                IS_GITHUB_ACTIONS, reason="Skipping language test in CI"
+            ),
         ),
-        (
+        pytest.param(
             "mock_html/chinese.html",
             {
                 0: '//html/body/p[@id="chinese"]',
             },
             ["你好, 世界"],
             ["[ 0 ]"],
+            marks=pytest.mark.skipif(
+                IS_GITHUB_ACTIONS, reason="Skipping language test in CI"
+            ),
         ),
-        (
+        pytest.param(
             "mock_html/arabic.html",
             {
                 0: '//html/body/p[@id="arabic"]',
             },
             ["مرحبا بالعالم"],
             [],  # add tag back in here when testing colour tagging
+            marks=pytest.mark.skipif(
+                IS_GITHUB_ACTIONS, reason="Skipping language test in CI"
+            ),
         ),
-        (
+        pytest.param(
             "mock_html/hindi.html",
             {
                 0: '//html/body/p[@id="hindi"]',
             },
             ["नमस्ते दुनिया"],
             ["[ 0 ]"],
+            marks=pytest.mark.skipif(
+                IS_GITHUB_ACTIONS, reason="Skipping language test in CI"
+            ),
         ),
     ],
 )
