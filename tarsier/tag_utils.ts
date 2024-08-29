@@ -265,11 +265,11 @@ function getElementXPath(element: HTMLElement | null) {
 function create_tagged_span(idNum: number, el: HTMLElement) {
   let idStr: string;
   if (isInteractable(el)) {
-    if (isTextInsertable(el)) idStr = `[#${idNum}]`;
-    else if (el.tagName.toLowerCase() == "a") idStr = `[@${idNum}]`;
-    else idStr = `[$${idNum}]`;
+    if (isTextInsertable(el)) idStr = `[ # ${idNum} ]`;
+    else if (el.tagName.toLowerCase() == "a") idStr = `[ @ ${idNum} ]`;
+    else idStr = `[ $ ${idNum} ]`;
   } else {
-    idStr = `[${idNum}]`;
+    idStr = `[ ${idNum} ]`;
   }
 
   let idSpan = document.createElement("span");
@@ -1065,14 +1065,13 @@ window.getElementHtmlByXPath = function (xpath: string): string {
 };
 
 function createIdSymbol(idNum: number, el: HTMLElement): string {
-  console.log("createIdSymbol called");
   let idStr: string;
   if (isInteractable(el)) {
-    if (isTextInsertable(el)) idStr = `[#${idNum}]`;
-    else if (el.tagName.toLowerCase() == "a") idStr = `[@${idNum}]`;
-    else idStr = `[$${idNum}]`;
+    if (isTextInsertable(el)) idStr = `[ # ${idNum} ]`;
+    else if (el.tagName.toLowerCase() == "a") idStr = `[ @ ${idNum} ]`;
+    else idStr = `[ $ ${idNum} ]`;
   } else {
-    idStr = `[${idNum}]`;
+    idStr = `[ ${idNum} ]`;
   }
   return idStr;
 }
