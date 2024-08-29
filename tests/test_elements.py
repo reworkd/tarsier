@@ -137,8 +137,18 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
             ),
         ),
         (
+            "mock_html/dropdown.html",
+            {
+                0: "//html/body/label",
+            },
+            ["Option 1"],
+            ["[ $ 0 ]"],
+        ),
+        (
             "mock_html/iframe.html",
-            {0: "iframe[0]//html/body/p"},
+            {
+                0: "iframe[0]//html/body/p",
+            },
             ["This is some text content inside the iframe"],
             ["[ 0 ]"],
         ),
@@ -198,3 +208,22 @@ async def test_text_nodes_are_query_selectable(async_page):
     assert len(tag_to_xpath) == 2
     assert await async_page.query_selector(tag_to_xpath[0])
     assert await async_page.query_selector(tag_to_xpath[1])
+
+
+@pytest.mark.asyncio
+async def test_dropdown_text_not_shown(tarsier, async_page):
+    dropdown_html_path = os.path.abspath(
+        os.path.join(os.path.dirname(__file__), "mock_html/dropdown.html")
+    )
+    await async_page.goto(f"file://{dropdown_html_path}")
+    page_text, tag_to_xpath = await tarsier.page_to_text(
+        async_page, tag_text_elements=True
+    )
+
+    assert "[ $ 1 ]" not in page_text
+    assert "[ $ 2 ]" not in page_text
+    assert "[ $ 3 ]" not in page_text
+    assert "[ $ 4 ]" not in page_text
+    assert "Option 2" not in page_text
+    assert "Option 3" not in page_text
+    assert "Option 4" not in page_text
