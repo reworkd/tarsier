@@ -11,131 +11,131 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
 @pytest.mark.parametrize(
     "html_file, expected_tag_to_xpath, expected_page_text, expected_tag_string",
     [
-        # (
-        #     "mock_html/text_only.html",
-        #     {0: "//html/body/h1"},
-        #     ["Hello, World!"],
-        #     ["[ 0 ]"],
-        # ),
-        # (
-        #     "mock_html/hyperlink_only.html",
-        #     {0: '//html/body/p/a[@id="link1"]'},
-        #     ["Example Link 1"],
-        #     ["[ @ 0 ]"],
-        # ),
-        # (
-        #     "mock_html/interactable_only.html",
-        #     {
-        #         0: '//html/body/button[@id="button"]',
-        #         1: '//html/body/input[@id="checkbox"]',
-        #     },
-        #     ["Click Me"],
-        #     ["[ $ 0 ]", "[ $ 1 ]"],
-        # ),
-        # (
-        #     "mock_html/combination.html",
-        #     {
-        #         0: '//html/body/input[1][@id="text"]',
-        #         1: '//html/body/input[2][@id="checkbox"]',
-        #         2: "//html/body/p",
-        #     },
-        #     ["Enter text here", "Some random text"],
-        #     ["[ # 0 ]", "[ $ 1 ]", "[ 2 ]"],
-        # ),
-        # (
-        #     "mock_html/insertable_only.html",
-        #     {0: '//html/body/input[@id="text"]'},
-        #     ["Enter text here"],
-        #     ["[ # 0 ]"],
-        # ),
-        # (
-        #     "mock_html/br_elem.html",
-        #     {
-        #         0: "//html/body/div",
-        #         1: "//html/body/div",
-        #         2: "//html/body/div",
-        #     },
-        #     ["168 North Brent Street, Suite 401", "Ventura, CA 93003", "805-948-5093"],
-        #     ["[ 0 ]", " [ 1 ]", "[ 2 ]"],
-        # ),
-        # (
-        #     "mock_html/display_contents.html",
-        #     {
-        #         0: "//html/body/div",
-        #     },
-        #     ["Display contents"],
-        #     ["[ 0 ]"],
-        # ),
-        # (
-        #     "mock_html/icon_buttons.html",
-        #     {
-        #         0: "//html/body/button[1]",
-        #         1: "//html/body/button[2]",
-        #     },
-        #     [],
-        #     ["[ $ 0 ]", "[ $ 1 ]"],
-        # ),
-        # (
-        #     "mock_html/image.html",
-        #     {},
-        #     ["Hello World"],
-        #     [],
-        # ),
-        # pytest.param(
-        #     "mock_html/japanese.html",
-        #     {
-        #         0: '//html/body/p[@id="japanese"]',
-        #     },
-        #     ["こんにちは世界"],
-        #     ["[ 0 ]"],
-        #     marks=pytest.mark.skipif(
-        #         IS_GITHUB_ACTIONS, reason="Skipping language test in CI"
-        #     ),
-        # ),
-        # pytest.param(
-        #     "mock_html/russian.html",
-        #     {
-        #         0: '//html/body/p[@id="russian"]',
-        #     },
-        #     ["Привет, мир"],
-        #     [],  # add tag back in here when testing colour tagging
-        #     marks=pytest.mark.skipif(
-        #         IS_GITHUB_ACTIONS, reason="Skipping language test in CI"
-        #     ),
-        # ),
-        # pytest.param(
-        #     "mock_html/chinese.html",
-        #     {
-        #         0: '//html/body/p[@id="chinese"]',
-        #     },
-        #     ["你好, 世界"],
-        #     ["[ 0 ]"],
-        #     marks=pytest.mark.skipif(
-        #         IS_GITHUB_ACTIONS, reason="Skipping language test in CI"
-        #     ),
-        # ),
-        # pytest.param(
-        #     "mock_html/arabic.html",
-        #     {
-        #         0: '//html/body/p[@id="arabic"]',
-        #     },
-        #     ["مرحبا بالعالم"],
-        #     [],  # add tag back in here when testing colour tagging
-        #     marks=pytest.mark.skipif(
-        #         IS_GITHUB_ACTIONS, reason="Skipping language test in CI"
-        #     ),
-        # ),
-        # pytest.param(
-        #     "mock_html/hindi.html",
-        #     {
-        #         0: '//html/body/p[@id="hindi"]',
-        #     },
-        #     ["नमस्ते दुनिया"],
-        #     ["[ 0 ]"],
-        #     marks=pytest.mark.skipif(
-        #         IS_GITHUB_ACTIONS, reason="Skipping language test in CI"
-        #     ),
-        # ),
+        (
+            "mock_html/text_only.html",
+            {0: "//html/body/h1"},
+            ["Hello, World!"],
+            ["[ 0 ]"],
+        ),
+        (
+            "mock_html/hyperlink_only.html",
+            {0: '//html/body/p/a[@id="link1"]'},
+            ["Example Link 1"],
+            ["[ @ 0 ]"],
+        ),
+        (
+            "mock_html/interactable_only.html",
+            {
+                0: '//html/body/button[@id="button"]',
+                1: '//html/body/input[@id="checkbox"]',
+            },
+            ["Click Me"],
+            ["[ $ 0 ]", "[ $ 1 ]"],
+        ),
+        (
+            "mock_html/combination.html",
+            {
+                0: '//html/body/input[1][@id="text"]',
+                1: '//html/body/input[2][@id="checkbox"]',
+                2: "//html/body/p",
+            },
+            ["Enter text here", "Some random text"],
+            ["[ # 0 ]", "[ $ 1 ]", "[ 2 ]"],
+        ),
+        (
+            "mock_html/insertable_only.html",
+            {0: '//html/body/input[@id="text"]'},
+            ["Enter text here"],
+            ["[ # 0 ]"],
+        ),
+        (
+            "mock_html/br_elem.html",
+            {
+                0: "//html/body/div",
+                1: "//html/body/div",
+                2: "//html/body/div",
+            },
+            ["168 North Brent Street, Suite 401", "Ventura, CA 93003", "805-948-5093"],
+            ["[ 0 ]", " [ 1 ]", "[ 2 ]"],
+        ),
+        (
+            "mock_html/display_contents.html",
+            {
+                0: "//html/body/div",
+            },
+            ["Display contents"],
+            ["[ 0 ]"],
+        ),
+        (
+            "mock_html/icon_buttons.html",
+            {
+                0: "//html/body/button[1]",
+                1: "//html/body/button[2]",
+            },
+            [],
+            ["[ $ 0 ]", "[ $ 1 ]"],
+        ),
+        (
+            "mock_html/image.html",
+            {},
+            ["Hello World"],
+            [],
+        ),
+        pytest.param(
+            "mock_html/japanese.html",
+            {
+                0: '//html/body/p[@id="japanese"]',
+            },
+            ["こんにちは世界"],
+            ["[ 0 ]"],
+            marks=pytest.mark.skipif(
+                IS_GITHUB_ACTIONS, reason="Skipping language test in CI"
+            ),
+        ),
+        pytest.param(
+            "mock_html/russian.html",
+            {
+                0: '//html/body/p[@id="russian"]',
+            },
+            ["Привет, мир"],
+            [],  # add tag back in here when testing colour tagging
+            marks=pytest.mark.skipif(
+                IS_GITHUB_ACTIONS, reason="Skipping language test in CI"
+            ),
+        ),
+        pytest.param(
+            "mock_html/chinese.html",
+            {
+                0: '//html/body/p[@id="chinese"]',
+            },
+            ["你好, 世界"],
+            ["[ 0 ]"],
+            marks=pytest.mark.skipif(
+                IS_GITHUB_ACTIONS, reason="Skipping language test in CI"
+            ),
+        ),
+        pytest.param(
+            "mock_html/arabic.html",
+            {
+                0: '//html/body/p[@id="arabic"]',
+            },
+            ["مرحبا بالعالم"],
+            [],  # add tag back in here when testing colour tagging
+            marks=pytest.mark.skipif(
+                IS_GITHUB_ACTIONS, reason="Skipping language test in CI"
+            ),
+        ),
+        pytest.param(
+            "mock_html/hindi.html",
+            {
+                0: '//html/body/p[@id="hindi"]',
+            },
+            ["नमस्ते दुनिया"],
+            ["[ 0 ]"],
+            marks=pytest.mark.skipif(
+                IS_GITHUB_ACTIONS, reason="Skipping language test in CI"
+            ),
+        ),
         (
             "mock_html/iframe.html",
             {0: "iframe[0]//html/body/p"},
