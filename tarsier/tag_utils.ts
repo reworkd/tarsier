@@ -1196,6 +1196,20 @@ window.getElementBoundingBoxes = (xpath: string) => {
         (box) =>
           box.width > 0 && box.height > 0 && box.top >= 0 && box.left >= 0,
       );
+
+    if (boundingBoxes.length === 0) {
+      const elementRect = element.getBoundingClientRect();
+      return [
+        {
+          text: element.textContent || "",
+          top: elementRect.top,
+          left: elementRect.left,
+          width: elementRect.width,
+          height: elementRect.height,
+        },
+      ];
+    }
+
     return boundingBoxes;
   } else {
     return [];
