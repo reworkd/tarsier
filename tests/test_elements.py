@@ -144,6 +144,14 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
             ["Option 1"],
             ["[ $ 0 ]"],
         ),
+        (
+            "mock_html/iframe.html",
+            {
+              0: "iframe[0]//html/body/p"
+            },
+            ["This is some text content inside the iframe"],
+            ["[ 0 ]"],
+        ),
     ],
 )
 async def test_combined_elements_page(
