@@ -79,6 +79,14 @@ from tarsier import Tarsier, DummyOCRService
             ["Hello World"],
             [],
         ),
+        (
+            "mock_html/dropdown.html",
+            {
+                0: "//html/body/select",
+            },
+            [],
+            ["[ $ 0 ]"],
+        ),
     ],
 )
 async def test_combined_elements_page(
