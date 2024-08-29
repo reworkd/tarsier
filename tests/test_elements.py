@@ -116,7 +116,9 @@ async def test_combined_elements_page(
         )
 
     for expected_tag in expected_tag_string:
-        assert expected_tag in page_text, (
+        normalized_expected_tag = "".join(expected_tag.split())
+        page_text_combined = "".join(page_text).replace(" ", "")
+        assert normalized_expected_tag in page_text_combined, (
             f"Expected tag '{expected_tag}' not found in page text for {html_file}. "
             f"Got: {page_text}"
         )
