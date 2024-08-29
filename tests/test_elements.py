@@ -74,6 +74,12 @@ from tarsier import Tarsier, DummyOCRService
             ["[ $ 0 ]", "[ $ 1 ]"],
         ),
         (
+            "mock_html/image.html",
+            {},
+            ["Hello World"],
+            [],
+        ),
+        (
             "mock_html/japanese.html",
             {
                 0: '//html/body/p[@id="japanese"]',
