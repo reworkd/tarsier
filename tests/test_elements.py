@@ -147,7 +147,7 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
         (
             "mock_html/iframe.html",
             {
-              0: "iframe[0]//html/body/p"
+                0: "iframe[0]//html/body/p",
             },
             ["This is some text content inside the iframe"],
             ["[ 0 ]"],
