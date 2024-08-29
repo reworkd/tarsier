@@ -158,6 +158,7 @@ async def test_combined_elements_page(
         f"{html_file}. Got: {tag_to_xpath}"
     )
 
+    # TODO: revert to testing against entire string when colour tagging is merged
     for expected_text in expected_page_text:
         normalized_expected_text = "".join(
             expected_text.split()
