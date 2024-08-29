@@ -82,9 +82,9 @@ from tarsier import Tarsier, DummyOCRService
         (
             "mock_html/dropdown.html",
             {
-                0: "//html/body/select",
+                0: "//html/body/label",
             },
-            [],
+            ["Option 1"],
             ["[ $ 0 ]"],
         ),
     ],
