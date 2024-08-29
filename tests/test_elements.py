@@ -211,8 +211,6 @@ async def test_dropdown_text_not_shown(tarsier, async_page):
     page_text, tag_to_xpath = await tarsier.page_to_text(
         async_page, tag_text_elements=True
     )
-    print("\nPAGE TEXT")
-    print(page_text)
 
     assert "[ $ 1 ]" not in page_text
     assert "[ $ 2 ]" not in page_text
