@@ -1,5 +1,4 @@
 import asyncio
-import json
 import os
 from pathlib import Path
 from statistics import median
@@ -18,10 +17,6 @@ load_dotenv()
 
 
 def google_creds() -> Dict[str, str]:
-    creds = json.loads(os.environ.get("TARSIER_GOOGLE_OCR_CREDENTIALS", ""))
-    if creds:
-        return creds
-
     return {
         "type": os.getenv("TYPE") or "",
         "project_id": os.getenv("PROJECT_ID") or "",
@@ -61,7 +56,8 @@ async def snapshot_example(
 ) -> None:
     async with semaphore:
         counter = Cl100kBaseTokenCounter()
-        page = await browser.new_page()
+        # Viewport used in Harambe
+        page = await browser.new_page(viewport={"width": 1440, "height": 1024})
         example_path = snapshots_path / example.id
         prefix = f"#{index}/{len(examples)}"
         print(f"{prefix} Snapshotting {example.id}")
@@ -88,10 +84,6 @@ async def snapshot_example(
             )
             f.write(page_text_with_token_count)
             print(f"{prefix} Writing OCR text to {example_path / 'ocr.txt'}")
-
-        # with open(example_path / "non_ocr.txt", "w") as f:
-        #     f.write(page_text_colour_tagged)
-        #     print(f"{prefix} Writing non OCR text to {example_path / 'non_ocr.txt'}")
         print(f"{prefix} Finished snapshotting {example.id}")
 
 
@@ -111,13 +103,6 @@ async def generate_snapshots() -> None:
             # if example.source == "mhtml" and example.id == "CsjbrXOwtX1rRqggZALRB"
         ]
         await asyncio.gather(*tasks)
-        # mhtml_examples = [ex for ex in examples if ex.source == "mhtml"][:3]
-        #
-        # tasks = [
-        #     snapshot_example(i, semaphore, browser, example, snapshots_path, tarsier)
-        #     for i, example in enumerate(mhtml_examples)
-        # ]
-        # await asyncio.gather(*tasks)
 
 
 def calculate_token_count_statistics(snapshots_dir: Path) -> None:

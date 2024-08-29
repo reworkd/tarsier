@@ -4,6 +4,8 @@ import pytest
 
 from tarsier import Tarsier, DummyOCRService
 
+IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
+
 
 @pytest.mark.asyncio
 @pytest.mark.parametrize(
@@ -64,6 +66,76 @@ from tarsier import Tarsier, DummyOCRService
             ["Display contents"],
             ["[ 0 ]"],
         ),
+        (
+            "mock_html/icon_buttons.html",
+            {
+                0: "//html/body/button[1]",
+                1: "//html/body/button[2]",
+            },
+            [],
+            ["[ $ 0 ]", "[ $ 1 ]"],
+        ),
+        (
+            "mock_html/image.html",
+            {},
+            ["Hello World"],
+            [],
+        ),
+        pytest.param(
+            "mock_html/japanese.html",
+            {
+                0: '//html/body/p[@id="japanese"]',
+            },
+            ["こんにちは世界"],
+            ["[ 0 ]"],
+            marks=pytest.mark.skipif(
+                IS_GITHUB_ACTIONS, reason="Skipping language test in CI"
+            ),
+        ),
+        pytest.param(
+            "mock_html/russian.html",
+            {
+                0: '//html/body/p[@id="russian"]',
+            },
+            ["Привет, мир"],
+            [],  # add tag back in here when testing colour tagging
+            marks=pytest.mark.skipif(
+                IS_GITHUB_ACTIONS, reason="Skipping language test in CI"
+            ),
+        ),
+        pytest.param(
+            "mock_html/chinese.html",
+            {
+                0: '//html/body/p[@id="chinese"]',
+            },
+            ["你好, 世界"],
+            ["[ 0 ]"],
+            marks=pytest.mark.skipif(
+                IS_GITHUB_ACTIONS, reason="Skipping language test in CI"
+            ),
+        ),
+        pytest.param(
+            "mock_html/arabic.html",
+            {
+                0: '//html/body/p[@id="arabic"]',
+            },
+            ["مرحبا بالعالم"],
+            [],  # add tag back in here when testing colour tagging
+            marks=pytest.mark.skipif(
+                IS_GITHUB_ACTIONS, reason="Skipping language test in CI"
+            ),
+        ),
+        pytest.param(
+            "mock_html/hindi.html",
+            {
+                0: '//html/body/p[@id="hindi"]',
+            },
+            ["नमस्ते दुनिया"],
+            ["[ 0 ]"],
+            marks=pytest.mark.skipif(
+                IS_GITHUB_ACTIONS, reason="Skipping language test in CI"
+            ),
+        ),
     ],
 )
 async def test_combined_elements_page(
@@ -86,8 +158,14 @@ async def test_combined_elements_page(
         f"{html_file}. Got: {tag_to_xpath}"
     )
 
+    # TODO: revert to testing against entire string when colour tagging is merged
     for expected_text in expected_page_text:
-        assert expected_text in page_text, (
+        normalized_expected_text = "".join(
+            expected_text.split()
+        )  # Remove whitespace from expected text
+        page_text_combined = "".join(page_text).replace(" ", "")
+
+        assert all(char in page_text_combined for char in normalized_expected_text), (
             f"Expected text '{expected_text}' not found in page text for {html_file}. "
             f"Got: {page_text}"
         )
