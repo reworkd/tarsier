@@ -192,7 +192,7 @@ class Tarsier(ITarsier):
                         text=annotation_text,
                         midpoint=midpoint,
                         midpoint_normalized=normalized_midpoint,
-                        width=box["width"] + 48,
+                        width=box["width"] + 96,
                         height=box["height"],
                     )
                     if elem["isFixed"] and elem["fixedPosition"] == "top":
