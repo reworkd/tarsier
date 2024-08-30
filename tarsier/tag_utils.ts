@@ -1246,7 +1246,7 @@ window.getElementBoundingBoxes = (xpath: string) => {
           top: rect.top,
           left: rect.left,
           width: rect.width,
-          height: rect.height,
+          height: rect.height * 0.75,
         };
       })
       .filter(
@@ -1266,7 +1266,7 @@ window.getElementBoundingBoxes = (xpath: string) => {
           top: elementRect.top,
           left: elementRect.left,
           width: elementRect.width,
-          height: elementRect.height,
+          height: elementRect.height * 0.75,
         },
       ];
     }
