@@ -1227,6 +1227,15 @@ window.getElementBoundingBoxes = (xpath: string) => {
       ];
     }
 
+    // Check for elements that might have placeholder text
+    let placeholderText = '';
+    if (
+      (element.tagName.toLowerCase() === 'input' || element.tagName.toLowerCase() === 'textarea') &&
+      (element as HTMLInputElement).placeholder
+    ) {
+      placeholderText = (element as HTMLInputElement).placeholder;
+    }
+
     // Get all children with the 'tarsier-highlighted-word' class
     const words = element.querySelectorAll(".tarsier-highlighted-word");
     const boundingBoxes = Array.from(words)
@@ -1245,6 +1254,7 @@ window.getElementBoundingBoxes = (xpath: string) => {
           box.width > 0 && box.height > 0 && box.top >= 0 && box.left >= 0,
       );
 
+    // If no valid words or some are empty, check for the placeholder
     if (
       words.length === 0 ||
       Array.from(words).some((word) => (word.textContent || "").trim() === "")
@@ -1252,7 +1262,7 @@ window.getElementBoundingBoxes = (xpath: string) => {
       const elementRect = element.getBoundingClientRect();
       return [
         {
-          text: element.textContent || "",
+          text: placeholderText || element.textContent || "", // Include placeholder text if available
           top: elementRect.top,
           left: elementRect.left,
           width: elementRect.width,
