@@ -929,6 +929,11 @@ window.colourBasedTagify = (
     ).singleNodeValue;
 
     if (node instanceof HTMLElement) {
+      const computedStyle = getComputedStyle(node);
+      // Check if the element has display: contents, if so, remove the display property
+      if (computedStyle.display === "contents") {
+        node.style.removeProperty("display");
+      }
       const rect = node.getBoundingClientRect();
       if (
         rect.width > 0 &&
@@ -978,11 +983,55 @@ window.colourBasedTagify = (
       boundingBoxY: rect.y,
     });
 
-    element.style.setProperty("background-color", color, "important");
-    element.style.setProperty("color", color, "important");
-    element.style.setProperty("border-color", color, "important");
-    element.style.setProperty("opacity", "1", "important");
-    element.setAttribute(attribute, "true");
+    // Apply specific styles for checkboxes
+    if (
+      element.tagName.toLowerCase() === "input" &&
+      (element as HTMLInputElement).type === "checkbox"
+    ) {
+      const checkboxElement = element as HTMLInputElement; // Type assertion to HTMLInputElement
+      // Get the original width and height of the checkbox
+      const originalWidth = checkboxElement.offsetWidth + 2 + "px";
+      const originalHeight = checkboxElement.offsetHeight + 2 + "px";
+
+      // Apply styles to make the checkbox appear filled
+      checkboxElement.style.setProperty("width", originalWidth, "important");
+      checkboxElement.style.setProperty("height", originalHeight, "important");
+      checkboxElement.style.setProperty("background-color", color, "important");
+      checkboxElement.style.setProperty(
+        "border",
+        `2px solid ${color}`,
+        "important",
+      );
+      checkboxElement.style.setProperty("appearance", "none", "important");
+      checkboxElement.style.setProperty("border-radius", "4px", "important");
+      checkboxElement.style.setProperty("position", "relative", "important");
+      checkboxElement.style.setProperty("cursor", "pointer", "important");
+      checkboxElement.setAttribute(attribute, "true");
+
+      // Adding a pseudo-element to create a checkmark when checked
+      checkboxElement.addEventListener("change", function () {
+        if (checkboxElement.checked) {
+          checkboxElement.style.setProperty(
+            "background-color",
+            color,
+            "important",
+          );
+        } else {
+          checkboxElement.style.setProperty(
+            "background-color",
+            color,
+            "important",
+          ); // Keeps the filled color
+        }
+      });
+    } else {
+      // Apply styles for other elements
+      element.style.setProperty("background-color", color, "important");
+      element.style.setProperty("color", color, "important");
+      element.style.setProperty("border-color", color, "important");
+      element.style.setProperty("opacity", "1", "important");
+      element.setAttribute(attribute, "true");
+    }
 
     if (element.tagName.toLowerCase() === "a") {
       const computedStyle = window.getComputedStyle(element);
@@ -1120,7 +1169,7 @@ window.createTextBoundingBoxes = () => {
           } else {
             // Create multiple inner spans for individual words or groups of words
             let newHTML = textContent.replace(
-              /(\[[^\]]*\]|[\w',&-:]+[\w",\-\/\[\]]*[?.!,;:]?)/g,
+              /(\S+)/g, // Match any sequence of non-whitespace characters
               '<span class="tarsier-highlighted-word">$1</span>',
             );
             let tempDiv = document.createElement("div");
@@ -1196,7 +1245,10 @@ window.getElementBoundingBoxes = (xpath: string) => {
           box.width > 0 && box.height > 0 && box.top >= 0 && box.left >= 0,
       );
 
-    if (words.length === 0 || Array.from(words).some(word => (word.textContent || "").trim() === "")) {
+    if (
+      words.length === 0 ||
+      Array.from(words).some((word) => (word.textContent || "").trim() === "")
+    ) {
       const elementRect = element.getBoundingClientRect();
       return [
         {
