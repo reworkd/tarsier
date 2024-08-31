@@ -110,7 +110,7 @@ class Tarsier(ITarsier):
             adapter, tag_text_elements, tagless
         )
 
-        tag_to_xpath = {elem["id"]: elem["xpath"] for elem in coloured_elems}
+        tag_to_xpath = {index: elem["xpath"] for index, elem in enumerate(coloured_elems)}
         await self._hide_non_coloured_elements(adapter)
         await self._disable_transitions(adapter)
         coloured_image = await self._take_screenshot(adapter)
