@@ -56,7 +56,7 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                 2: "//html/body/div",
             },
             ["168 North Brent Street, Suite 401", "Ventura, CA 93003", "805-948-5093"],
-            ["[ 0 ]", " [ 1 ]", "[ 2 ]"],
+            ["[ 0 ]", "[ 1 ]", "[ 2 ]"],
         ),
         (
             "mock_html/display_contents.html",
