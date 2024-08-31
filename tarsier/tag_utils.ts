@@ -23,7 +23,10 @@ interface Window {
   hideNonTagElements: () => void;
   revertVisibilities: () => void;
   fixNamespaces: (tagName: string) => string;
-  colourBasedTagify: (tagLeafTexts?: boolean) => {
+  colourBasedTagify: (
+    tagLeafTexts?: boolean,
+    tagless?: boolean,
+  ) => {
     colorMapping: ColouredElem[];
     insertedIdStrings: string[];
   };
@@ -882,6 +885,7 @@ function assignColors(
 
 window.colourBasedTagify = (
   tagLeafTexts = false,
+  tagless: boolean = false,
 ): { colorMapping: ColouredElem[]; insertedIdStrings: string[] } => {
   const tagMappingWithTagMeta = window.tagifyWebpage(tagLeafTexts);
   const tagMapping = Object.entries(tagMappingWithTagMeta).reduce(
@@ -907,7 +911,7 @@ window.colourBasedTagify = (
         null,
       ).singleNodeValue as Text;
 
-      if (textNode) {
+      if (textNode && !tagless) {
         // Prepending the ID directly to the text node data
         textNode.data = `${meta.idString} ${textNode.data}`;
         insertedIdStrings.push(meta.idString);
@@ -1228,9 +1232,10 @@ window.getElementBoundingBoxes = (xpath: string) => {
     }
 
     // Check for elements that might have placeholder text
-    let placeholderText = '';
+    let placeholderText = "";
     if (
-      (element.tagName.toLowerCase() === 'input' || element.tagName.toLowerCase() === 'textarea') &&
+      (element.tagName.toLowerCase() === "input" ||
+        element.tagName.toLowerCase() === "textarea") &&
       (element as HTMLInputElement).placeholder
     ) {
       placeholderText = (element as HTMLInputElement).placeholder;

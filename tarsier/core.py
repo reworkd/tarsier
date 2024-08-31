@@ -99,12 +99,15 @@ class Tarsier(ITarsier):
         return image, page_text, tag_to_xpath
 
     async def page_to_text_colour_tag(
-        self, driver: AnyDriver, tag_text_elements: bool = False
+        self,
+        driver: AnyDriver,
+        tag_text_elements: bool = False,
+        tagless: bool = False,
     ) -> Tuple[str, TagToXPath]:
         adapter = adapter_factory(driver)
 
         coloured_elems, inserted_id_strings = await self._colour_based_tagify(
-            adapter, tag_text_elements
+            adapter, tag_text_elements, tagless
         )
 
         tag_to_xpath = {elem["id"]: elem["xpath"] for elem in coloured_elems}
@@ -170,6 +173,9 @@ class Tarsier(ITarsier):
 
             # create ImageAnnotation objects for each bounding box
             for i, box in enumerate(bounding_boxes):
+                if tagless and not box["text"].strip():
+                    continue
+
                 box_tuple = self.box_to_tuple(box)
                 if box_tuple in seen_boxes:
                     continue
@@ -181,7 +187,7 @@ class Tarsier(ITarsier):
                     midpoint[1] / document_height,
                 )
 
-                if i == 0:
+                if i == 0 and not tagless:
                     # first bounding box is given the idSymbol
                     annotation_text = (
                         elem["idSymbol"] + " " + box["text"]
@@ -285,11 +291,14 @@ class Tarsier(ITarsier):
         return {int(key): value for key, value in tag_to_xpath.items()}
 
     async def _colour_based_tagify(
-        self, adapter: BrowserAdapter, tag_text_elements: bool = False
+        self,
+        adapter: BrowserAdapter,
+        tag_text_elements: bool = False,
+        tagless: bool = False,
     ) -> tuple[list[ColouredElem], set[str]]:
         await adapter.run_js(self._js_utils)
 
-        script = f"return window.colourBasedTagify({str(tag_text_elements).lower()});"
+        script = f"return window.colourBasedTagify({str(tag_text_elements).lower()}, {str(tagless).lower()});"
         result = await adapter.run_js(script)
         colour_mapping = result["colorMapping"]
         inserted_id_strings = result["insertedIdStrings"]
