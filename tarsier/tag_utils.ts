@@ -1216,13 +1216,18 @@ window.getElementBoundingBoxes = (xpath: string) => {
   ).singleNodeValue as HTMLElement | null;
   if (element) {
     // Check if any child elements have the 'selected' attribute
-    const selectedChild = element.querySelector("option[selected]");
+    let dropDownElem = element.querySelector("option[selected]");
 
-    if (selectedChild) {
+    // if there is no selected option, just use the first option
+    if (!dropDownElem) {
+      dropDownElem = element.querySelector("option");
+    }
+
+    if (dropDownElem) {
       const parentRect = element.getBoundingClientRect();
       return [
         {
-          text: selectedChild.textContent || "",
+          text: dropDownElem.textContent || "",
           top: parentRect.top,
           left: parentRect.left,
           width: parentRect.width,
