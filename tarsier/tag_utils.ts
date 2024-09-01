@@ -614,9 +614,7 @@ const shrinkCollidingTags = () => {
 };
 
 window.removeTags = () => {
-  const allElements = getAllElementsInAllFrames();
-
-  allElements
+  getAllElementsInAllFrames()
     .filter((element) => element.matches(tarsierSelector))
     .forEach((tag) => tag.remove());
 
