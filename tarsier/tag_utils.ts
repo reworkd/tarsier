@@ -28,6 +28,7 @@ interface Window {
     tagless?: boolean,
   ) => {
     colorMapping: ColouredElem[];
+    tagMappingWithTagMeta: { [p: number]: TagMetadata };
     insertedIdStrings: string[];
   };
   hideNonColouredElements: () => void;
@@ -46,6 +47,8 @@ interface Window {
   reColourElements: (colouredElems: ColouredElem[]) => ColouredElem[];
   disableTransitionsAndAnimations: () => void;
   enableTransitionsAndAnimations: () => void;
+  removeTextBoundingBoxes: () => void;
+  revertColourBasedTagify: () => void;
 }
 
 interface TagMetadata {
@@ -888,7 +891,7 @@ function assignColors(
 window.colourBasedTagify = (
   tagLeafTexts = false,
   tagless: boolean = false,
-): { colorMapping: ColouredElem[]; insertedIdStrings: string[] } => {
+): { colorMapping: ColouredElem[]; tagMappingWithTagMeta: { [p: number]: TagMetadata }; insertedIdStrings: string[] } => {
   const tagMappingWithTagMeta = window.tagifyWebpage(tagLeafTexts);
   const tagMapping = Object.entries(tagMappingWithTagMeta).reduce(
     (acc, [id, meta]) => {
@@ -900,7 +903,7 @@ window.colourBasedTagify = (
   window.removeTags();
 
   let insertedIdStrings: string[] = [];
-  console.log(tagMappingWithTagMeta);
+  // console.log(tagMappingWithTagMeta);
   Object.entries(tagMappingWithTagMeta).forEach(([id, meta]) => {
     if (meta.textNodeIndex !== undefined && meta.idString !== undefined) {
       // Constructing the XPath to directly access the specific text node
@@ -1097,7 +1100,63 @@ window.colourBasedTagify = (
       }
     });
   });
-  return { colorMapping, insertedIdStrings };
+  return { colorMapping, tagMappingWithTagMeta, insertedIdStrings };
+};
+
+window.revertColourBasedTagify = () => {
+  // Remove any styles or modifications applied by the colour-based tagify
+  document.querySelectorAll("[data-colored]").forEach((element) => {
+    const htmlElement = element as HTMLElement; // Type assertion to HTMLElement
+    if (htmlElement.tagName.toLowerCase() === "input" && (htmlElement as HTMLInputElement).type === "checkbox") {
+      // Revert styles specific to checkboxes
+      const checkboxElement = htmlElement as HTMLInputElement; // Further type assertion to HTMLInputElement
+      checkboxElement.style.removeProperty("width");
+      checkboxElement.style.removeProperty("height");
+      checkboxElement.style.removeProperty("background-color");
+      checkboxElement.style.removeProperty("border");
+      checkboxElement.style.removeProperty("appearance");
+      checkboxElement.style.removeProperty("border-radius");
+      checkboxElement.style.removeProperty("position");
+      checkboxElement.style.removeProperty("cursor");
+      checkboxElement.removeAttribute("data-colored");
+    } else {
+      // Revert styles for other elements
+      htmlElement.style.removeProperty("background-color");
+      htmlElement.style.removeProperty("color");
+      htmlElement.style.removeProperty("border-color");
+      htmlElement.style.removeProperty("opacity");
+      htmlElement.removeAttribute("data-colored");
+    }
+  });
+
+  // Restore any display properties modified
+  document.querySelectorAll("[data-id]").forEach((element) => {
+    const htmlElement = element as HTMLElement; // Type assertion to HTMLElement
+    htmlElement.style.removeProperty("display");
+    htmlElement.removeAttribute("data-id");
+  });
+
+  // Restore hidden child elements to visible
+  document.querySelectorAll("[data-id] *").forEach((child) => {
+    const htmlElement = child as HTMLElement; // Type assertion to HTMLElement
+    htmlElement.style.removeProperty("visibility");
+  });
+
+  // Remove any ID strings that were added to text nodes
+  const snapshot = document.evaluate(
+    '//text()[starts-with(., "ID")]',
+    document,
+    null,
+    XPathResult.UNORDERED_NODE_SNAPSHOT_TYPE,
+    null
+  );
+  for (let i = 0; i < snapshot.snapshotLength; i++) {
+    const textNode = snapshot.snapshotItem(i) as Text;
+    if (textNode) {
+      const originalText = textNode.data.replace(/^ID\s*/, "");
+      textNode.data = originalText;
+    }
+  }
 };
 
 window.getElementHtmlByXPath = function (xpath: string): string {
@@ -1151,7 +1210,7 @@ window.createTextBoundingBoxes = () => {
     root.querySelectorAll("body *").forEach((element) => {
       if (
         ["SCRIPT", "STYLE", "IFRAME", "INPUT", "TEXTAREA"].includes(
-          element.tagName,
+          element.tagName
         )
       ) {
         return;
@@ -1164,6 +1223,10 @@ window.createTextBoundingBoxes = () => {
           node.textContent.trim().length > 0
         ) {
           let textContent = node.textContent.replace(/\u00A0/g, " "); // Replace non-breaking space with regular space
+
+          // Regular expression to match Tarsier tags
+          const tarsierTagRegex = /\[\s*(?:[$@#]?\s*\d+)\s*\]/g;
+
           if (element.hasAttribute("selected")) {
             // Create an outer span for elements with the 'selected' attribute
             let span = document.createElement("span");
@@ -1173,13 +1236,35 @@ window.createTextBoundingBoxes = () => {
               node.parentNode.replaceChild(span, node);
             }
           } else {
-            // Create multiple inner spans for individual words or groups of words
-            let newHTML = textContent.replace(
-              /(\S+)/g, // Match any sequence of non-whitespace characters
-              '<span class="tarsier-highlighted-word">$1</span>',
-            );
+            // Split textContent into parts, keeping Tarsier tags intact
+            let parts = textContent.split(tarsierTagRegex);
+            let matches = textContent.match(tarsierTagRegex);
             let tempDiv = document.createElement("div");
-            tempDiv.innerHTML = newHTML;
+
+            parts.forEach((part, index) => {
+              if (part.trim().length > 0) {
+                // Wrap non-matching parts in spans for individual words
+                let words = part.split(/(\S+)/g); // Split into words
+                words.forEach((word) => {
+                  if (word.trim().length > 0) {
+                    let span = document.createElement("span");
+                    span.className = "tarsier-highlighted-word";
+                    span.textContent = word;
+                    tempDiv.appendChild(span);
+                  }
+                });
+              }
+
+              // If there's a matching Tarsier tag, add it wrapped in a single span
+              if (matches && matches[index]) {
+                let span = document.createElement("span");
+                span.className = "tarsier-highlighted-word";
+                span.textContent = matches[index];
+                tempDiv.appendChild(span);
+              }
+            });
+
+            // Replace the original text node with the new content
             while (tempDiv.firstChild) {
               element.insertBefore(tempDiv.firstChild, node);
             }
@@ -1195,6 +1280,42 @@ window.createTextBoundingBoxes = () => {
   document.querySelectorAll("iframe").forEach((iframe) => {
     try {
       iframe.contentWindow?.postMessage({ action: "highlight" }, "*");
+    } catch (error) {
+      console.error("Error accessing iframe content: ", error);
+    }
+  });
+};
+
+window.removeTextBoundingBoxes = () => {
+  // Remove the style for highlighted words
+  const styleSheets = Array.from(document.styleSheets);
+  styleSheets.forEach((styleSheet) => {
+    try {
+      if (styleSheet && styleSheet.cssRules) {
+        Array.from(styleSheet.cssRules).forEach((rule, index) => {
+          // Ensure the rule is a CSSStyleRule before accessing selectorText
+          if (rule instanceof CSSStyleRule && rule.selectorText === ".tarsier-highlighted-word") {
+            styleSheet.deleteRule(index);
+          }
+        });
+      }
+    } catch (error) {
+      console.error("Error accessing style sheet: ", error);
+    }
+  });
+
+  // Revert the highlighted elements
+  document.querySelectorAll(".tarsier-highlighted-word").forEach((span) => {
+    if (span.parentNode) {
+      // Replace the span with its text content
+      span.parentNode.replaceChild(document.createTextNode(span.textContent || ""), span);
+    }
+  });
+
+  // Revert the iframes
+  document.querySelectorAll("iframe").forEach((iframe) => {
+    try {
+      iframe.contentWindow?.postMessage({ action: "removeHighlight" }, "*");
     } catch (error) {
       console.error("Error accessing iframe content: ", error);
     }

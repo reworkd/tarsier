@@ -106,11 +106,9 @@ class Tarsier(ITarsier):
     ) -> Tuple[str, TagToXPath]:
         adapter = adapter_factory(driver)
 
-        coloured_elems, inserted_id_strings = await self._colour_based_tagify(
+        coloured_elems, tag_to_xpath, inserted_id_strings = await self._colour_based_tagify(
             adapter, tag_text_elements, tagless
         )
-
-        tag_to_xpath = {index: elem["xpath"] for index, elem in enumerate(coloured_elems)}
         await self._hide_non_coloured_elements(adapter)
         await self._disable_transitions(adapter)
         coloured_image = await self._take_screenshot(adapter)
@@ -222,6 +220,8 @@ class Tarsier(ITarsier):
                     else:
                         annotations.append(annotation)
 
+        await self._remove_text_bounding_boxes(adapter)
+        await self._revert_colour_tagging(adapter)
         # sort annotations before combining
         fixed_top_annotations = self.sort_annotations(fixed_top_annotations)
         annotations = self.sort_annotations(annotations)
@@ -295,14 +295,16 @@ class Tarsier(ITarsier):
         adapter: BrowserAdapter,
         tag_text_elements: bool = False,
         tagless: bool = False,
-    ) -> tuple[list[ColouredElem], set[str]]:
+    ) -> tuple[list[ColouredElem], Dict[int, str], set[str]]:
         await adapter.run_js(self._js_utils)
 
         script = f"return window.colourBasedTagify({str(tag_text_elements).lower()}, {str(tagless).lower()});"
         result = await adapter.run_js(script)
         colour_mapping = result["colorMapping"]
+        tag_mapping_with_tag_meta = result["tagMappingWithTagMeta"]
+        tag_to_xpath = {int(key): meta["xpath"] for key, meta in tag_mapping_with_tag_meta.items()}
         inserted_id_strings = result["insertedIdStrings"]
-        return colour_mapping, inserted_id_strings
+        return colour_mapping, tag_to_xpath, inserted_id_strings
 
     async def _remove_tags(self, adapter: BrowserAdapter) -> None:
         await self._load_tarsier_utils(adapter)
@@ -313,6 +315,26 @@ class Tarsier(ITarsier):
     async def remove_tags(self, driver: AnyDriver) -> None:
         adapter = adapter_factory(driver)
         await self._remove_tags(adapter)
+
+    async def _remove_text_bounding_boxes(self, adapter: BrowserAdapter) -> None:
+        await self._load_tarsier_utils(adapter)
+        script = "return window.removeTextBoundingBoxes();"
+
+        await adapter.run_js(script)
+
+    async def remove_text_bounding_boxes(self, driver: AnyDriver) -> None:
+        adapter = adapter_factory(driver)
+        await self._remove_text_bounding_boxes(adapter)
+
+    async def _revert_colour_tagging(self, adapter: BrowserAdapter) -> None:
+        await self._load_tarsier_utils(adapter)
+        script = "return window.revertColourBasedTagify();"
+
+        await adapter.run_js(script)
+
+    async def revert_colour_tagging(self, driver: AnyDriver) -> None:
+        adapter = adapter_factory(driver)
+        await self._revert_colour_tagging(adapter)
 
     async def _load_tarsier_utils(self, adapter: BrowserAdapter) -> None:
         await adapter.run_js(self._js_utils)
