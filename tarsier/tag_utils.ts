@@ -614,8 +614,10 @@ const shrinkCollidingTags = () => {
 };
 
 window.removeTags = () => {
-  const tags = document.querySelectorAll(tarsierSelector);
-  tags.forEach((tag) => tag.remove());
+  getAllElementsInAllFrames()
+    .filter((element) => element.matches(tarsierSelector))
+    .forEach((tag) => tag.remove());
+
   showMapElements();
 };
 
