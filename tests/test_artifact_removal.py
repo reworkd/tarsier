@@ -39,7 +39,7 @@ async def test_artifact_removal(
     )
 
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=False)
+        browser = await p.chromium.launch(headless=True)
         page = await browser.new_page()
 
         await page.goto(f"file://{html_file_path}")
