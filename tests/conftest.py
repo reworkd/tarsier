@@ -5,6 +5,7 @@ from os import environ
 import pytest
 import pytest_asyncio
 from dotenv import load_dotenv
+from contextlib import asynccontextmanager
 from playwright.async_api import async_playwright
 from playwright.sync_api import sync_playwright
 from selenium import webdriver
@@ -93,3 +94,26 @@ def tarsier(credentials):
             raise ValueError("Invalid OCR provider")
 
     yield Tarsier(ocr_service)
+
+
+@asynccontextmanager
+async def page_context(html_file: str):
+    """Context manager for opening and navigating to a file URL using Playwright."""
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=IN_GITHUB_ACTIONS)
+        page = await browser.new_page()
+        try:
+            # Construct the absolute file path
+            html_file_path = os.path.abspath(
+                os.path.join(os.path.dirname(__file__), "mock_html", html_file)
+            )
+            await page.goto(f"file://{html_file_path}")
+            yield page
+        finally:
+            await page.close()
+            await browser.close()
+
+
+@pytest.fixture
+def page_context_manager():
+    return page_context

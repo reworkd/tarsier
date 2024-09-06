@@ -1,4 +1,3 @@
-import os
 import pytest
 
 
@@ -13,14 +12,13 @@ import pytest
         ("xx_large.html", ["**XXLarge**"]),
     ],
 )
-async def test_font_formatting(tarsier, async_page, html_file, expected_text_content):
-    font_formatting_html_path = os.path.abspath(
-        os.path.join(os.path.dirname(__file__), f"mock_html/{html_file}")
-    )
-    await async_page.goto(f"file://{font_formatting_html_path}")
-    page_text, tag_to_xpath = await tarsier.page_to_text(
-        async_page, tagless=True, tag_text_elements=True
-    )
+async def test_font_formatting(
+    tarsier, page_context_manager, html_file, expected_text_content
+):
+    async with page_context_manager(html_file) as page:
+        page_text, tag_to_xpath = await tarsier.page_to_text(
+            page, tagless=True, tag_text_elements=True
+        )
 
     for expected_line in expected_text_content:
         assert (
