@@ -1,37 +1,34 @@
+import os
+
 import pytest
 from playwright.async_api import async_playwright
-from bananalyzer.data.examples import get_training_examples
 
 example_data = [
     {
-        "id": "7xlvZTTi21A1s7k3AoBOS",
+        "file_name": "test_artifact_page.mhtml",
         "artifact_selectors": [
             "[__tarsier_id]"
         ],  # TODO: add more selectors once colour tagging is merged
     },
 ]
 
-all_examples = get_training_examples()
-examples = [
-    {"example": example, "artifact_selectors": data["artifact_selectors"]}
-    for data in example_data
-    for example in all_examples
-    if example.id == data["id"]
-]
 
-
-@pytest.mark.parametrize("data", examples)
+@pytest.mark.parametrize("data", example_data)
 @pytest.mark.asyncio
 async def test_artifact_removal(data, tarsier):
-    example = data["example"]
+    file_name = data["file_name"]
     artifact_selectors = data["artifact_selectors"]
+
+    # Construct the path to the HTML file
+    html_file_path = os.path.abspath(
+        os.path.join(os.path.dirname(__file__), "mock_html", file_name)
+    )
 
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
-        page = await browser.new_page(viewport={"width": 1440, "height": 1024})
+        page = await browser.new_page()
 
-        await page.goto(example.get_static_url())
-        await page.wait_for_timeout(3000)
+        await page.goto(f"file://{html_file_path}")
 
         _, _ = await tarsier.page_to_text(page, tag_text_elements=True)
 
@@ -40,6 +37,6 @@ async def test_artifact_removal(data, tarsier):
             elements = await page.query_selector_all(selector)
             assert (
                 len(elements) == 0
-            ), f"Tarsier artifact '{selector}' still exists for example ID: {example.id}"
+            ), f"Tarsier artifact '{selector}' still exists in file: {file_name}"
 
         await browser.close()
