@@ -118,4 +118,4 @@ async def page_context_manager(html_file: str):
 
 @pytest.fixture
 def page_context():
-    return page_context
+    return page_context_manager
