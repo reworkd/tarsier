@@ -14,6 +14,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 from tarsier import GoogleVisionOCRService, Tarsier, MicrosoftAzureOCRService
 
+test_html_folder = "mock_html"
+
 IN_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
 
 if not IN_GITHUB_ACTIONS or os.getenv("NODE_ENV") == "development":
@@ -97,7 +99,7 @@ def tarsier(credentials):
 
 
 @asynccontextmanager
-async def page_context(html_file: str):
+async def page_context_manager(html_file: str):
     """Context manager for opening and navigating to a file URL using Playwright."""
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=IN_GITHUB_ACTIONS)
@@ -105,7 +107,7 @@ async def page_context(html_file: str):
         try:
             # Construct the absolute file path
             html_file_path = os.path.abspath(
-                os.path.join(os.path.dirname(__file__), "mock_html", html_file)
+                os.path.join(os.path.dirname(__file__), test_html_folder, html_file)
             )
             await page.goto(f"file://{html_file_path}")
             yield page
@@ -115,5 +117,5 @@ async def page_context(html_file: str):
 
 
 @pytest.fixture
-def page_context_manager():
+def page_context():
     return page_context

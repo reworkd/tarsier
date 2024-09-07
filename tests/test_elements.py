@@ -156,13 +156,13 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
 )
 async def test_combined_elements_page(
     tarsier,
-    page_context_manager,
+    page_context,
     html_file,
     expected_tag_to_xpath,
     expected_page_text,
     expected_tag_string,
 ):
-    async with page_context_manager(html_file) as page:
+    async with page_context(html_file) as page:
         page_text, tag_to_xpath = await tarsier.page_to_text(
             page, tag_text_elements=True
         )
@@ -194,8 +194,8 @@ async def test_combined_elements_page(
 
 
 @pytest.mark.asyncio
-async def test_text_nodes_are_query_selectable(page_context_manager):
-    async with page_context_manager("text_nodes.html") as page:
+async def test_text_nodes_are_query_selectable(page_context):
+    async with page_context("text_nodes.html") as page:
         tarsier = Tarsier(DummyOCRService())
         _, tag_to_xpath = await tarsier.page_to_text(page, tag_text_elements=True)
 
@@ -208,8 +208,8 @@ async def test_text_nodes_are_query_selectable(page_context_manager):
 
 
 @pytest.mark.asyncio
-async def test_dropdown_text_not_shown(tarsier, page_context_manager):
-    async with page_context_manager("dropdown.html") as page:
+async def test_dropdown_text_not_shown(tarsier, page_context):
+    async with page_context("dropdown.html") as page:
         page_text, tag_to_xpath = await tarsier.page_to_text(
             page, tag_text_elements=True
         )

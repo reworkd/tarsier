@@ -31,11 +31,11 @@ def create_tarsier_functions(tarsier):
 
 @pytest.mark.parametrize("data", example_data)
 @pytest.mark.asyncio
-async def test_artifact_removal(data, tarsier, page_context_manager):
+async def test_artifact_removal(data, tarsier, page_context):
     file_name = data["file_name"]
     artifact_selectors = data["artifact_selectors"]
 
-    async with page_context_manager(file_name) as page:
+    async with page_context(file_name) as page:
         tarsier_functions = create_tarsier_functions(tarsier)
 
         for tarsier_func, cleanup_funcs in tarsier_functions:

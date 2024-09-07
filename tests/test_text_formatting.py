@@ -12,10 +12,8 @@ import pytest
         ("xx_large.html", ["**XXLarge**"]),
     ],
 )
-async def test_font_formatting(
-    tarsier, page_context_manager, html_file, expected_text_content
-):
-    async with page_context_manager(html_file) as page:
+async def test_font_formatting(tarsier, page_context, html_file, expected_text_content):
+    async with page_context(html_file) as page:
         page_text, tag_to_xpath = await tarsier.page_to_text(
             page, tagless=True, tag_text_elements=True
         )
