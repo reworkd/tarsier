@@ -1,7 +1,4 @@
-import os
-
 import pytest
-from playwright.async_api import async_playwright
 
 example_data = [
     {
@@ -34,21 +31,12 @@ def create_tarsier_functions(tarsier):
 
 @pytest.mark.parametrize("data", example_data)
 @pytest.mark.asyncio
-async def test_artifact_removal(data, tarsier):
+async def test_artifact_removal(data, tarsier, page_context):
     file_name = data["file_name"]
     artifact_selectors = data["artifact_selectors"]
 
-    html_file_path = os.path.abspath(
-        os.path.join(os.path.dirname(__file__), "mock_html", file_name)
-    )
-
-    tarsier_functions = create_tarsier_functions(tarsier)
-
-    async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
-        page = await browser.new_page()
-
-        await page.goto(f"file://{html_file_path}")
+    async with page_context(file_name) as page:
+        tarsier_functions = create_tarsier_functions(tarsier)
 
         for tarsier_func, cleanup_funcs in tarsier_functions:
             await tarsier_func(page)
@@ -72,5 +60,3 @@ async def test_artifact_removal(data, tarsier):
                     f"Tarsier artifact '{selector}' still exists in file: {file_name} "
                     f"after applying cleanup functions"
                 )
-
-        await browser.close()

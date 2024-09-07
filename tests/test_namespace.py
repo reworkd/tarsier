@@ -1,5 +1,3 @@
-import os
-
 import pytest
 import pytest_asyncio
 from playwright.async_api import Page
@@ -60,12 +58,8 @@ async def test_fix_namespaces(browser_adapter_with_js):
 
 
 @pytest.mark.asyncio
-async def test_xpath_namespace(tarsier, async_page):
-    html_with_namespace_path = os.path.abspath(
-        os.path.join(os.path.dirname(__file__), "mock_html/namespace.html")
-    )
-    await async_page.goto(f"file://{html_with_namespace_path}")
-
-    _, tag_to_xpath = await tarsier.page_to_text(async_page, tag_text_elements=True)
-    assert len(tag_to_xpath) == 1, "The page contains only a single tag"
-    assert tag_to_xpath[0] == '//html/body/*[name()="sc:visitoridentification"]/div'
+async def test_xpath_namespace(tarsier, page_context):
+    async with page_context("namespace.html") as page:
+        _, tag_to_xpath = await tarsier.page_to_text(page, tag_text_elements=True)
+        assert len(tag_to_xpath) == 1, "The page contains only a single tag"
+        assert tag_to_xpath[0] == '//html/body/*[name()="sc:visitoridentification"]/div'
