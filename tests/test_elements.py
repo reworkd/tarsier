@@ -186,7 +186,6 @@ async def test_combined_elements_page(
             f"Got: {page_text}"
         )
 
-    print(f"PAGE TEXT: \n{page_text}")
     for expected_tag in expected_tag_string:
         assert expected_tag in page_text, (
             f"Expected tag '{expected_tag}' not found in page text for {html_file}. "
