@@ -152,6 +152,33 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
             ["This is some text content inside the iframe"],
             ["[ 0 ]"],
         ),
+        (
+            "image_inside_button.html",
+            {
+                0: '//html/body/button[@id="image-button"]',
+            },
+            [],
+            ["[ $ 0 ]"],
+        ),
+        (
+            "image_and_text.html",
+            {
+                0: "//html/body/div/img",
+                1: "//html/body/div/p",
+            },
+            ["Some text next to an image"],
+            ["[ % 0 ]", "[ 1 ]"],
+        ),
+        (
+            "different_image_sizes.html",
+            {
+                0: '//html/body/img[1][@id="small"]',
+                1: '//html/body/img[2][@id="medium"]',
+                2: '//html/body/img[3][@id="large"]',
+            },
+            [],
+            ["[ % 0 ]", "[ % 1 ]", "[ % 2 ]"],
+        ),
     ],
 )
 async def test_combined_elements_page(
