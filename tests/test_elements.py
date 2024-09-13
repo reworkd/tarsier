@@ -179,6 +179,22 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
             [],
             ["[ % 0 ]", "[ % 1 ]", "[ % 2 ]"],
         ),
+        (
+            "hidden_image.html",
+            {
+                0: '//html/body/img[1][@id="visible-image"]',
+            },
+            [],
+            ["[ % 0 ]"],
+        ),
+        (
+            "image_inside_link.html",
+            {
+                0: '//html/body/a[@id="link1"]',
+            },
+            [],
+            ["[ @ 0 ]"],
+        ),
     ],
 )
 async def test_combined_elements_page(
