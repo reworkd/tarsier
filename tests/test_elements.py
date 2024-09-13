@@ -77,9 +77,9 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
         ),
         (
             "image.html",
-            {},
+            {0: "//html/body/img"},
             ["Hello World"],
-            [],
+            ["[ % 0 ]"],
         ),
         pytest.param(
             "japanese.html",
@@ -151,6 +151,49 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
             },
             ["This is some text content inside the iframe"],
             ["[ 0 ]"],
+        ),
+        (
+            "image_inside_button.html",
+            {
+                0: '//html/body/button[@id="image-button"]',
+            },
+            [],
+            ["[ $ 0 ]"],
+        ),
+        (
+            "image_and_text.html",
+            {
+                0: "//html/body/div/img",
+                1: "//html/body/div/p",
+            },
+            ["Some text next to an image"],
+            ["[ % 0 ]", "[ 1 ]"],
+        ),
+        (
+            "different_image_sizes.html",
+            {
+                0: '//html/body/img[1][@id="small"]',
+                1: '//html/body/img[2][@id="medium"]',
+                2: '//html/body/img[3][@id="large"]',
+            },
+            [],
+            ["[ % 0 ]", "[ % 1 ]", "[ % 2 ]"],
+        ),
+        (
+            "hidden_image.html",
+            {
+                0: '//html/body/img[1][@id="visible-image"]',
+            },
+            [],
+            ["[ % 0 ]"],
+        ),
+        (
+            "image_inside_link.html",
+            {
+                0: '//html/body/a[@id="link1"]',
+            },
+            [],
+            ["[ @ 0 ]"],
         ),
     ],
 )

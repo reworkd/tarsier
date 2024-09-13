@@ -85,6 +85,10 @@ const isTextNodeAValidWord = (child: ChildNode) => {
   return trimmedWord && (trimmedWord.match(/\w/) || trimmedWord.length > 3); // Regex matches any character, number, or _
 };
 
+const isImageElement = (el: HTMLElement) => {
+  return el.tagName.toLowerCase() === "img";
+};
+
 const inputs = ["a", "button", "textarea", "select", "details", "label"];
 const isInteractable = (el: HTMLElement) => {
   // If it is a label but has an input child that it is a label for, say not interactable
@@ -233,6 +237,8 @@ function create_tagged_span(idNum: number, el: HTMLElement) {
     if (isTextInsertable(el)) idStr = `[#${idNum}]`;
     else if (el.tagName.toLowerCase() == "a") idStr = `[@${idNum}]`;
     else idStr = `[$${idNum}]`;
+  } else if (isImageElement(el)) {
+    idStr = `[%${idNum}]`;
   } else {
     idStr = `[${idNum}]`;
   }
@@ -343,11 +349,11 @@ function getElementsToTag(
   const elementsToTag: HTMLElement[] = [];
 
   for (let el of allElements) {
-    if (isTextLess(el) || !elIsVisible(el)) {
+    if ((isTextLess(el) && !isImageElement(el)) || !elIsVisible(el)) {
       continue;
     }
 
-    if (isInteractable(el)) {
+    if (isInteractable(el) || isImageElement(el)) {
       elementsToTag.push(el);
     } else if (tagLeafTexts) {
       // Append the parent tag as it may have multiple individual child nodes with text
@@ -478,6 +484,14 @@ function insertTags(
         const insertionElement = getElementToInsertInto(el, idSpan);
         insertionElement.prepend(idSpan);
         absolutelyPositionTagIfMisaligned(idSpan, insertionElement);
+      }
+      idNum++;
+    } else if (isImageElement(el)) {
+      // Handle image elements
+      const idSpan = create_tagged_span(idNum, el);
+      if (el.parentElement) {
+        el.parentElement.insertBefore(idSpan, el);
+        absolutelyPositionTagIfMisaligned(idSpan, el);
       }
       idNum++;
     } else if (tagLeafTexts) {
