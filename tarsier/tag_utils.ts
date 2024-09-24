@@ -4,7 +4,7 @@ interface Window {
   // This means that subsequent calls to .evaluate will not have access to the functions defined in this file
   // since they will be in an inaccessible scope. To circumvent this, we attach the following methods to the
   // window which is always available globally when run in a browser environment.
-  tagifyWebpage: (tagLeafTexts?: boolean) => { [key: number]: string };
+  tagifyWebpage: (tagLeafTexts?: boolean) => TagMetadata[];
   removeTags: () => void;
   hideNonTagElements: () => void;
   revertVisibilities: () => void;
@@ -12,8 +12,14 @@ interface Window {
 }
 
 interface TagMetadata {
+  tarsierID: number;
+  elementName: string;
+  elementHTML: string;
   xpath: string;
-  textNodeIndex?: number; // Used if the tag refers to specific TextNode elements within the tagged ElementNode
+  elementText: string | null;
+  textNodeIndex?: number | null; // Used if the tag refers to specific TextNode elements within the tagged ElementNode
+  idSymbol: string;
+  idString: string;
 }
 
 const tarsierId = "__tarsier_id";
@@ -298,17 +304,11 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
   const allElements = getAllElementsInAllFrames();
   const rawElementsToTag = getElementsToTag(allElements, tagLeafTexts);
   const elementsToTag = removeNestedTags(rawElementsToTag);
-  const idToTagMeta = insertTags(elementsToTag, tagLeafTexts);
+  const tagMetadataList = insertTags(elementsToTag, tagLeafTexts);
   shrinkCollidingTags();
   ensureMinimumTagFontSizes();
 
-  return Object.entries(idToTagMeta).reduce(
-    (acc, [id, meta]) => {
-      acc[parseInt(id)] = meta.xpath;
-      return acc;
-    },
-    {} as { [key: number]: string },
-  );
+  return tagMetadataList;
 };
 
 function getAllElementsInAllFrames(): HTMLElement[] {
@@ -400,7 +400,7 @@ function removeNestedTags(elementsToTag: HTMLElement[]): HTMLElement[] {
 function insertTags(
   elementsToTag: HTMLElement[],
   tagLeafTexts: boolean,
-): { [key: number]: TagMetadata } {
+): TagMetadata[] {
   function trimTextNodeStart(element: HTMLElement) {
     // Trim leading whitespace from the element's text content
     // This way, the tag will be inline with the word and not textwrap
@@ -463,21 +463,46 @@ function insertTags(
     }
 
     trimTextNodeStart(element);
-
-    // Base case
     return element;
   }
 
-  const idToTagMetadata: { [key: number]: TagMetadata } = {};
+  function extractIdSymbol(idSpanContent: string): string {
+    const symbols = ["@", "#", "%", "$"];
+    for (const symbol of symbols) {
+      if (idSpanContent.includes(symbol)) {
+        return symbol;
+      }
+    }
+    return "";
+  }
+
+  const tagMetadataList: TagMetadata[] = [];
   let idNum = 0;
 
   for (let el of elementsToTag) {
-    idToTagMetadata[idNum] = {
-      xpath: getElementXPath(el),
-    };
+    const xpath = getElementXPath(el);
+    const elementHTML = el.outerHTML;
+    const elementName = el.tagName.toLowerCase();
+    const text = el.textContent?.trim() || null;
 
     if (isInteractable(el)) {
       const idSpan = create_tagged_span(idNum, el);
+
+      const idSpanContent = idSpan.textContent || "";
+      const idSymbol = extractIdSymbol(idSpanContent);
+      const idString = idSymbol ? `[ ${idSymbol} ${idNum} ]` : `[ ${idNum} ]`;
+
+      tagMetadataList.push({
+        tarsierID: idNum,
+        elementName: elementName,
+        elementHTML: elementHTML,
+        xpath: xpath,
+        elementText: text,
+        textNodeIndex: null,
+        idSymbol: idSymbol,
+        idString: idString,
+      });
+
       if (isTextInsertable(el) && el.parentElement) {
         el.parentElement.insertBefore(idSpan, el);
       } else {
@@ -489,6 +514,19 @@ function insertTags(
     } else if (isImageElement(el)) {
       // Handle image elements
       const idSpan = create_tagged_span(idNum, el);
+      const idSymbol = extractIdSymbol(idSpan.textContent || "");
+      const idString = idSymbol ? `[ ${idSymbol} ${idNum} ]` : `[ ${idNum} ]`;
+
+      tagMetadataList.push({
+        tarsierID: idNum,
+        elementName: elementName,
+        elementHTML: elementHTML,
+        xpath: xpath,
+        elementText: null,
+        textNodeIndex: null,
+        idSymbol: idSymbol,
+        idString: idString,
+      });
       if (el.parentElement) {
         el.parentElement.insertBefore(idSpan, el);
         absolutelyPositionTagIfMisaligned(idSpan, el);
@@ -506,19 +544,30 @@ function insertTags(
         const parentXPath = getElementXPath(el);
         const textNodeIndex = allTextNodes.indexOf(child) + 1;
 
-        idToTagMetadata[idNum] = {
-          xpath: parentXPath,
-          textNodeIndex: textNodeIndex,
-        };
-
         const idSpan = create_tagged_span(idNum, el);
+
+        const idSpanContent = idSpan.textContent || "";
+        const idSymbol = extractIdSymbol(idSpanContent);
+        const idString = idSymbol ? `[ ${idSymbol} ${idNum} ]` : `[ ${idNum} ]`;
+
+        tagMetadataList.push({
+          tarsierID: idNum,
+          elementName: elementName,
+          elementHTML: elementHTML,
+          xpath: parentXPath,
+          elementText: child.textContent?.trim() || null,
+          textNodeIndex: textNodeIndex,
+          idSymbol: idSymbol,
+          idString: idString,
+        });
+
         el.insertBefore(idSpan, child);
         idNum++;
       }
     }
   }
 
-  return idToTagMetadata;
+  return tagMetadataList;
 }
 
 function absolutelyPositionTagIfMisaligned(
