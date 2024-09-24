@@ -1,13 +1,11 @@
 from asyncio import Protocol
 from pathlib import Path
-from typing import Dict, Tuple, Optional
+from typing import Tuple, Optional
 
 from tarsier._utils import load_js
 from tarsier.adapter import AnyDriver, BrowserAdapter, adapter_factory
 from tarsier.ocr import OCRService
 from tarsier.text_format import format_text
-
-TagToXPath = Dict[int, str]
 
 
 class TagMetadata:
@@ -31,15 +29,15 @@ class TagMetadata:
         self.idSymbol = idSymbol
         self.idString = idString
 
-    def __repr__(self):
+    def __repr__(self) -> str:
         return f"TagMetadata(tarsierID={self.tarsierID}, elementName={self.elementName}, xpath={self.xpath})"
 
 
 class ITarsier(Protocol):
-    async def page_to_image(self, driver: AnyDriver) -> Tuple[bytes, Dict[int, str]]:
+    async def page_to_image(self, driver: AnyDriver) -> Tuple[bytes, list[TagMetadata]]:
         raise NotImplementedError()
 
-    async def page_to_text(self, driver: AnyDriver) -> Tuple[str, Dict[int, str]]:
+    async def page_to_text(self, driver: AnyDriver) -> Tuple[str, list[TagMetadata]]:
         raise NotImplementedError()
 
 
@@ -59,7 +57,7 @@ class Tarsier(ITarsier):
     ) -> Tuple[bytes, list[TagMetadata]]:
         adapter = adapter_factory(driver)
         tag_to_xpath = (
-            await self._tag_page(adapter, tag_text_elements) if not tagless else {}
+            await self._tag_page(adapter, tag_text_elements) if not tagless else []
         )
         if tagless:
             await self._remove_tags(adapter)
@@ -69,7 +67,7 @@ class Tarsier(ITarsier):
         if not keep_tags_showing:
             await self._remove_tags(adapter)
 
-        return screenshot, tag_to_xpath if not tagless else {}
+        return screenshot, tag_to_xpath if not tagless else []
 
     async def page_to_text(
         self,
