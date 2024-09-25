@@ -21,7 +21,7 @@ async def test_dummy_ocr_returns_no_text(async_page: AsyncPage):
     assert all([line == "-" * len(line) for line in divider_lines])
 
     # Test paths exist
-    assert isinstance(paths[0].tarsierID, int)
-    assert isinstance(paths[0].xpath, str)
-    hacker_news_el = await async_page.query_selector(paths[1].xpath)
+    assert isinstance(paths[0]["tarsier_id"], int)
+    assert isinstance(paths[0]["xpath"], str)
+    hacker_news_el = await async_page.query_selector(paths[1]["xpath"])
     assert "Hacker" in await hacker_news_el.inner_text()

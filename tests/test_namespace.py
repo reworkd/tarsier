@@ -63,6 +63,6 @@ async def test_xpath_namespace(tarsier, page_context):
         _, tag_to_xpath = await tarsier.page_to_text(page, tag_text_elements=True)
         assert len(tag_to_xpath) == 1, "The page contains only a single tag"
         assert (
-            tag_to_xpath[0].xpath
+            tag_to_xpath[0]["xpath"]
             == '//html/body/*[name()="sc:visitoridentification"]/div'
         )

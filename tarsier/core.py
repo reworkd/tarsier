@@ -1,6 +1,6 @@
 from asyncio import Protocol
 from pathlib import Path
-from typing import Tuple, Optional
+from typing import Tuple, Optional, TypedDict
 
 from tarsier._utils import load_js
 from tarsier.adapter import AnyDriver, BrowserAdapter, adapter_factory
@@ -8,29 +8,15 @@ from tarsier.ocr import OCRService
 from tarsier.text_format import format_text
 
 
-class TagMetadata:
-    def __init__(
-        self,
-        tarsierID: int,
-        elementName: str,
-        elementHTML: str,
-        xpath: str,
-        elementText: Optional[str],
-        textNodeIndex: Optional[int],
-        idSymbol: str,
-        idString: str,
-    ):
-        self.tarsierID = tarsierID
-        self.elementName = elementName
-        self.elementHTML = elementHTML
-        self.xpath = xpath
-        self.elementText = elementText
-        self.textNodeIndex = textNodeIndex
-        self.idSymbol = idSymbol
-        self.idString = idString
-
-    def __repr__(self) -> str:
-        return f"TagMetadata(tarsierID={self.tarsierID}, elementName={self.elementName}, xpath={self.xpath})"
+class TagMetadata(TypedDict):
+    tarsier_id: int
+    element_name: str
+    opening_tag_html: str
+    xpath: str
+    element_text: Optional[str]
+    text_node_index: Optional[int]
+    id_symbol: str
+    id_string: str
 
 
 class ITarsier(Protocol):
@@ -121,14 +107,14 @@ class Tarsier(ITarsier):
 
         tag_metadata_list = [
             TagMetadata(
-                tarsierID=meta["tarsierID"],
-                elementName=meta["elementName"],
-                elementHTML=meta["elementHTML"],
+                tarsier_id=meta["tarsierID"],
+                element_name=meta["elementName"],
+                opening_tag_html=meta["openingTagHTML"],
                 xpath=meta["xpath"],
-                elementText=meta.get("elementText"),
-                textNodeIndex=meta.get("textNodeIndex"),
-                idSymbol=meta["idSymbol"],
-                idString=meta["idString"],
+                element_text=meta.get("elementText"),
+                text_node_index=meta.get("textNodeIndex"),
+                id_symbol=meta["idSymbol"],
+                id_string=meta["idString"],
             )
             for meta in tag_to_meta
         ]
