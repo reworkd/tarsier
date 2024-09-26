@@ -704,9 +704,9 @@ window.fixNamespaces = (tagName: string): string => {
   if (validNamespaceTag.test(tagOnly)) {
     // If it's a valid namespaced tag, wrap with the name() function
     return tagName.replace(tagOnly, `*[name()="${tagOnly}"]`);
-  } else {
-    return tagName;
   }
+
+  return tagName;
 };
 
 window.revertVisibilities = () => {
