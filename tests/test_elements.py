@@ -13,8 +13,8 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
     [
         (
             "text_only.html",
-            [
-                {
+            {
+                0: {
                     "xpath": "//html/body/h1",
                     "opening_tag_html": "<h1>",
                     "element_name": "h1",
@@ -24,13 +24,13 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_string": "[ 0 ]",
                     "tarsier_id": 0,
                 }
-            ],
+            },
             ["Hello, World!"],
         ),
         (
             "hyperlink_only.html",
-            [
-                {
+            {
+                0: {
                     "xpath": '//html/body/p/a[@id="link1"]',
                     "opening_tag_html": '<a href="https://www.example.com" id="link1">',
                     "element_name": "a",
@@ -40,13 +40,13 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_string": "[ @ 0 ]",
                     "tarsier_id": 0,
                 }
-            ],
+            },
             ["Example Link 1"],
         ),
         (
             "interactable_only.html",
-            [
-                {
+            {
+                0: {
                     "xpath": '//html/body/button[@id="button"]',
                     "opening_tag_html": '<button id="button" style="font-size: 20px">',
                     "element_name": "button",
@@ -56,7 +56,7 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_string": "[ $ 0 ]",
                     "tarsier_id": 0,
                 },
-                {
+                1: {
                     "xpath": '//html/body/input[@id="checkbox"]',
                     "opening_tag_html": '<input type="checkbox" id="checkbox" name="checkbox">',
                     "element_name": "input",
@@ -66,13 +66,13 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_string": "[ $ 1 ]",
                     "tarsier_id": 1,
                 },
-            ],
+            },
             ["Click Me"],
         ),
         (
             "combination.html",
-            [
-                {
+            {
+                0: {
                     "xpath": '//html/body/input[1][@id="text"]',
                     "opening_tag_html": '<input type="text" id="text" name="text" placeholder="Enter text here" style="font-size: 20px">',
                     "element_name": "input",
@@ -82,7 +82,7 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_string": "[ # 0 ]",
                     "tarsier_id": 0,
                 },
-                {
+                1: {
                     "xpath": '//html/body/input[2][@id="checkbox"]',
                     "opening_tag_html": '<input type="checkbox" id="checkbox" name="checkbox">',
                     "element_name": "input",
@@ -92,7 +92,7 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_string": "[ $ 1 ]",
                     "tarsier_id": 1,
                 },
-                {
+                2: {
                     "xpath": "//html/body/p",
                     "opening_tag_html": '<p style="font-size: 20px">',
                     "element_name": "p",
@@ -102,13 +102,13 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_string": "[ 2 ]",
                     "tarsier_id": 2,
                 },
-            ],
+            },
             ["Enter text here", "Some random text"],
         ),
         (
             "insertable_only.html",
-            [
-                {
+            {
+                0: {
                     "xpath": '//html/body/input[@id="text"]',
                     "opening_tag_html": '<input type="text" id="text" name="text" placeholder="Enter text here" style="font-size: 20px">',
                     "element_name": "input",
@@ -118,13 +118,13 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_string": "[ # 0 ]",
                     "tarsier_id": 0,
                 }
-            ],
+            },
             ["Enter text here"],
         ),
         (
             "br_elem.html",
-            [
-                {
+            {
+                0: {
                     "xpath": "//html/body/div",
                     "opening_tag_html": '<div style="display: inline-block">',
                     "element_name": "div",
@@ -134,7 +134,7 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_string": "[ 0 ]",
                     "tarsier_id": 0,
                 },
-                {
+                1: {
                     "xpath": "//html/body/div",
                     "opening_tag_html": '<div style="display: inline-block">',
                     "element_name": "div",
@@ -144,7 +144,7 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_string": "[ 1 ]",
                     "tarsier_id": 1,
                 },
-                {
+                2: {
                     "xpath": "//html/body/div",
                     "opening_tag_html": '<div style="display: inline-block">',
                     "element_name": "div",
@@ -154,13 +154,13 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_string": "[ 2 ]",
                     "tarsier_id": 2,
                 },
-            ],
+            },
             ["168 North Brent Street, Suite 401", "Ventura, CA 93003", "805-948-5093"],
         ),
         (
             "display_contents.html",
-            [
-                {
+            {
+                0: {
                     "tarsier_id": 0,
                     "element_name": "div",
                     "opening_tag_html": '<div style="display: contents; font-size: 2.5em">',
@@ -170,13 +170,13 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_symbol": "",
                     "id_string": "[ 0 ]",
                 },
-            ],
+            },
             ["Display contents elements technically have 0 width and height"],
         ),
         (
             "icon_buttons.html",
-            [
-                {
+            {
+                0: {
                     "tarsier_id": 0,
                     "element_name": "button",
                     "opening_tag_html": "<button>",
@@ -186,7 +186,7 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_symbol": "$",
                     "id_string": "[ $ 0 ]",
                 },
-                {
+                1: {
                     "tarsier_id": 1,
                     "element_name": "button",
                     "opening_tag_html": "<button>",
@@ -196,13 +196,13 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_symbol": "$",
                     "id_string": "[ $ 1 ]",
                 },
-            ],
+            },
             [],
         ),
         (
             "image.html",
-            [
-                {
+            {
+                0: {
                     "tarsier_id": 0,
                     "element_name": "img",
                     "opening_tag_html": '<img src="https://placehold.co/200x200/black/white/?text=Hello+World" alt="Image with Text">',
@@ -212,13 +212,13 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_symbol": "%",
                     "id_string": "[ % 0 ]",
                 },
-            ],
+            },
             ["Hello World"],
         ),
         pytest.param(
             "japanese.html",
-            [
-                {
+            {
+                0: {
                     "tarsier_id": 0,
                     "element_name": "p",
                     "opening_tag_html": '<p id="japanese">',
@@ -228,7 +228,7 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_symbol": "",
                     "id_string": "[ 0 ]",
                 },
-            ],
+            },
             ["こんにちは世界"],
             marks=pytest.mark.skipif(
                 IS_GITHUB_ACTIONS, reason="Skipping language test in CI"
@@ -236,8 +236,8 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
         ),
         pytest.param(
             "russian.html",
-            [
-                {
+            {
+                0: {
                     "tarsier_id": 0,
                     "element_name": "p",
                     "opening_tag_html": '<p id="russian" style="padding-left: 50px">',
@@ -247,7 +247,7 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     # 'id_symbol': '',
                     # 'id_string': '[ 0 ]',
                 },
-            ],
+            },
             ["Привет, мир"],
             marks=pytest.mark.skipif(
                 IS_GITHUB_ACTIONS, reason="Skipping language test in CI"
@@ -255,8 +255,8 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
         ),
         pytest.param(
             "chinese.html",
-            [
-                {
+            {
+                0: {
                     "tarsier_id": 0,
                     "element_name": "p",
                     "opening_tag_html": '<p id="chinese">',
@@ -266,7 +266,7 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_symbol": "",
                     "id_string": "[ 0 ]",
                 },
-            ],
+            },
             ["你好, 世界"],
             marks=pytest.mark.skipif(
                 IS_GITHUB_ACTIONS, reason="Skipping language test in CI"
@@ -274,8 +274,8 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
         ),
         pytest.param(
             "arabic.html",
-            [
-                {
+            {
+                0: {
                     "tarsier_id": 0,
                     "element_name": "p",
                     "opening_tag_html": '<p id="arabic">',
@@ -285,7 +285,7 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     # 'id_symbol': '',
                     # 'id_string': '[ 0 ]',
                 },
-            ],
+            },
             ["مرحبا بالعالم"],
             marks=pytest.mark.skipif(
                 IS_GITHUB_ACTIONS, reason="Skipping language test in CI"
@@ -293,8 +293,8 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
         ),
         pytest.param(
             "hindi.html",
-            [
-                {
+            {
+                0: {
                     "tarsier_id": 0,
                     "element_name": "p",
                     "opening_tag_html": '<p id="hindi">',
@@ -304,7 +304,7 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_symbol": "",
                     "id_string": "[ 0 ]",
                 },
-            ],
+            },
             ["नमस्ते दुनिया"],
             marks=pytest.mark.skipif(
                 IS_GITHUB_ACTIONS, reason="Skipping language test in CI"
@@ -312,8 +312,8 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
         ),
         (
             "dropdown.html",
-            [
-                {
+            {
+                0: {
                     "tarsier_id": 0,
                     "element_name": "label",
                     "opening_tag_html": "<label>",
@@ -323,13 +323,13 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_symbol": "$",
                     "id_string": "[ $ 0 ]",
                 },
-            ],
+            },
             ["Option 1"],
         ),
         (
             "iframe.html",
-            [
-                {
+            {
+                0: {
                     "tarsier_id": 0,
                     "element_name": "p",
                     "opening_tag_html": '<p iframe_index="0">',
@@ -339,13 +339,13 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_symbol": "",
                     "id_string": "[ 0 ]",
                 },
-            ],
+            },
             ["This is some text content inside the iframe"],
         ),
         (
             "image_inside_button.html",
-            [
-                {
+            {
+                0: {
                     "tarsier_id": 0,
                     "element_name": "button",
                     "opening_tag_html": '<button id="image-button">',
@@ -355,13 +355,13 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_symbol": "$",
                     "id_string": "[ $ 0 ]",
                 },
-            ],
+            },
             [],
         ),
         (
             "image_and_text.html",
-            [
-                {
+            {
+                0: {
                     "tarsier_id": 0,
                     "element_name": "img",
                     "opening_tag_html": '<img src="https://placehold.co/200x200?text=`" alt="An image" style="float: left; margin-right: 10px">',
@@ -371,7 +371,7 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_symbol": "%",
                     "id_string": "[ % 0 ]",
                 },
-                {
+                1: {
                     "tarsier_id": 1,
                     "element_name": "p",
                     "opening_tag_html": "<p>",
@@ -381,13 +381,13 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_symbol": "",
                     "id_string": "[ 1 ]",
                 },
-            ],
+            },
             ["Some text next to an image"],
         ),
         (
             "different_image_sizes.html",
-            [
-                {
+            {
+                0: {
                     "tarsier_id": 0,
                     "element_name": "img",
                     "opening_tag_html": '<img id="small" src="https://placehold.co/60x60?text=+" alt="Small Image">',
@@ -397,7 +397,7 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_symbol": "%",
                     "id_string": "[ % 0 ]",
                 },
-                {
+                1: {
                     "tarsier_id": 1,
                     "element_name": "img",
                     "opening_tag_html": '<img id="medium" src="https://placehold.co/250x250?text=+" alt="Medium Image">',
@@ -407,7 +407,7 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_symbol": "%",
                     "id_string": "[ % 1 ]",
                 },
-                {
+                2: {
                     "tarsier_id": 2,
                     "element_name": "img",
                     "opening_tag_html": '<img id="large" src="https://placehold.co/600x600?text=+" alt="Large Image">',
@@ -417,13 +417,13 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_symbol": "%",
                     "id_string": "[ % 2 ]",
                 },
-            ],
+            },
             [],
         ),
         (
             "hidden_image.html",
-            [
-                {
+            {
+                0: {
                     "tarsier_id": 0,
                     "element_name": "img",
                     "opening_tag_html": '<img src="https://placehold.co/100x100?text=+" alt="Visible Image" class="visible" id="visible-image">',
@@ -433,13 +433,13 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_symbol": "%",
                     "id_string": "[ % 0 ]",
                 },
-            ],
+            },
             [],
         ),
         (
             "image_inside_link.html",
-            [
-                {
+            {
+                0: {
                     "tarsier_id": 0,
                     "element_name": "a",
                     "opening_tag_html": '<a href="http://example.com" id="link1">',
@@ -449,13 +449,13 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_symbol": "@",
                     "id_string": "[ @ 0 ]",
                 },
-            ],
+            },
             [],
         ),
         (
             "invalid_text_nodes.html",
-            [
-                {
+            {
+                0: {
                     "xpath": "//html/body/div",
                     "opening_tag_html": '<div style="font-size: xx-large">',
                     "element_name": "div",
@@ -465,7 +465,7 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_string": "[ 0 ]",
                     "tarsier_id": 0,
                 },
-                {
+                1: {
                     "xpath": "//html/body/div",
                     "opening_tag_html": '<div style="font-size: xx-large">',
                     "element_name": "div",
@@ -475,13 +475,13 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_string": "[ 1 ]",
                     "tarsier_id": 1,
                 },
-            ],
+            },
             ["Index 2 Index 3"],
         ),
         (
             "full_xpath.html",
-            [
-                {
+            {
+                0: {
                     "tarsier_id": 0,
                     "element_name": "p",
                     "opening_tag_html": '<p class="text">',
@@ -491,7 +491,7 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "id_symbol": "",
                     "id_string": "[ 0 ]",
                 },
-            ],
+            },
             ["Sample text 1"],
         ),
     ],
@@ -508,18 +508,14 @@ async def test_combined_elements_page_detailed(
             page, tag_text_elements=True
         )
 
-        for expected_values in expected_tag_metadata:
-            tarsier_id = expected_values["tarsier_id"]
-            matching_tag = next(
-                (tag for tag in tag_metadata_list if tag["tarsier_id"] == tarsier_id),
-                None,
-            )
+        for tarsier_id, expected_values in expected_tag_metadata.items():
+            matching_tag = tag_metadata_list.get(tarsier_id)
             assert (
                 matching_tag
             ), f"Tag with tarsier_id '{tarsier_id}' not found in tag_metadata_list"
 
             for key, expected_value in expected_values.items():
-                actual_value = matching_tag.get(key, None)
+                actual_value = matching_tag.get(key)
                 assert actual_value == expected_value, (
                     f"Expected {key} '{expected_value}' does not match actual "
                     f"'{actual_value}' for tarsierID '{tarsier_id}'"
@@ -533,7 +529,9 @@ async def test_combined_elements_page_detailed(
         ), f"Expected text '{expected_page_text}' not found in page text. Got: {page_text}"
 
         expected_tag_strings = [
-            tag["id_string"] for tag in expected_tag_metadata if "id_string" in tag
+            tag["id_string"]
+            for tag in expected_tag_metadata.values()
+            if "id_string" in tag
         ]
         for expected_tag in expected_tag_strings:
             assert (
@@ -551,7 +549,7 @@ async def test_text_nodes_are_query_selectable(page_context):
         # As a result, the tagged xpath for the text node should belong to the parent
         # https://github.com/microsoft/playwright/blob/main/packages/playwright-core/src/server/injected/xpathSelectorEngine.ts#L29-L30)
         assert len(tag_to_xpath) == 2
-        for tag_metadata in tag_to_xpath:
+        for tag_metadata in tag_to_xpath.values():
             xpath = tag_metadata["xpath"]
             assert await page.query_selector(xpath), f"XPath '{xpath}' not selectable"
 
