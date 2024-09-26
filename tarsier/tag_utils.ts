@@ -385,18 +385,10 @@ function removeNestedTags(elementsToTag: HTMLElement[]): HTMLElement[] {
 
 function getTagSymbol(el: HTMLElement): TagSymbol {
   if (isInteractable(el)) {
-    if (isTextInsertable(el)) {
-      return "#";
-    } else if (el.tagName.toLowerCase() === "a") {
-      return "@";
-    } else {
-      return "$";
-    }
-  } else if (isImageElement(el)) {
-    return "%";
-  } else {
-    return "";
+    if (isTextInsertable(el)) return "#";
+    return el.tagName.toLowerCase() === "a" ? "@" : "$";
   }
+  return isImageElement(el) ? "%" : "";
 }
 
 function insertTags(
