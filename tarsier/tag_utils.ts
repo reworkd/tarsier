@@ -466,17 +466,14 @@ function insertTags(
   }
 
   function getOpeningTag(el: HTMLElement): string {
-    const clonedEl = el.cloneNode(false) as HTMLElement;
-    const openingAndClosingTags = clonedEl.outerHTML;
-    const tagName = clonedEl.tagName.toLowerCase();
+    const elementWithoutChildren = el.cloneNode(false) as HTMLElement;
+    const openingAndClosingTags = elementWithoutChildren.outerHTML;
+    const tagName = elementWithoutChildren.tagName.toLowerCase();
     const closingTag = `</${tagName}>`;
-    if (openingAndClosingTags.endsWith(closingTag)) {
-      return openingAndClosingTags.slice(
-        0,
-        openingAndClosingTags.length - closingTag.length,
-      );
-    }
-    return openingAndClosingTags;
+
+    return openingAndClosingTags.endsWith(closingTag)
+      ? openingAndClosingTags.slice(0, -closingTag.length)
+      : openingAndClosingTags;
   }
 
   const tagDataList: {
