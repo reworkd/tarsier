@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tarsier"
-version = "0.7.2"
+version = "0.8.0"
 description = "Vision utilities for web interaction agents"
 authors = ["Rohan Pandey", "Adam Watkins", "Asim Shrestha"]
 readme = "README.md"
@@ -19,14 +19,14 @@ azure-ai-vision-imageanalysis = "^1.0.0b2"
 [tool.poetry.group.dev.dependencies]
 mypy = "^1.10.0"
 ruff = ">=0.4.8,<0.7.0"
-bananalyzer = "^0.9.17"
+bananalyzer = "0.10.8"
 
 
 [tool.poetry.group.test.dependencies]
 pytest = ">=7.4.3,<9.0.0"
 pytest-cov = ">=4.1,<6.0"
 pytest-playwright = ">=0.4.4,<0.6.0"
-pytest-asyncio = ">=0.21.2,<0.24.0"
+pytest-asyncio = ">=0.24.0,<0.25.0"
 nest-asyncio = "^1.6.0"
 webdriver-manager = "^4.0.1"
 pytest-mock = "^3.14.0"
