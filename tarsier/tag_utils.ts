@@ -12,7 +12,7 @@ interface Window {
 }
 
 interface TagMetadata {
-  tarsierID: number;
+  tarsierId: number;
   elementName: string;
   openingTagHTML: string;
   xpath: string;
@@ -26,6 +26,7 @@ const tarsierId = "__tarsier_id";
 const tarsierDataAttribute = "data-tarsier-id";
 const tarsierSelector = `#${tarsierId}`;
 const reworkdVisibilityAttribute = "reworkd-original-visibility";
+type TagSymbol = "#" | "$" | "@" | "%" | "";
 
 const elIsVisible = (el: HTMLElement) => {
   const rect = el.getBoundingClientRect();
@@ -237,11 +238,7 @@ function getElementXPath(element: HTMLElement | null) {
   return iframe_str + "//" + path_parts.join("/");
 }
 
-function create_tagged_span(
-  idNum: number,
-  symbol: "#" | "$" | "@" | "%" | "",
-  el: HTMLElement,
-) {
+function create_tagged_span(idNum: number, symbol: TagSymbol) {
   let idStr: string = `[${symbol}${idNum}]`;
 
   let idSpan = document.createElement("span");
@@ -392,7 +389,7 @@ function removeNestedTags(elementsToTag: HTMLElement[]): HTMLElement[] {
   return res;
 }
 
-function getTagSymbol(el: HTMLElement): "#" | "$" | "@" | "%" | "" {
+function getTagSymbol(el: HTMLElement): TagSymbol {
   if (isInteractable(el)) {
     if (isTextInsertable(el)) {
       return "#";
@@ -416,10 +413,11 @@ function insertTags(
     // Trim leading whitespace from the element's text content
     // This way, the tag will be inline with the word and not textwrap
     // Element text
-    if (element.firstChild && element.firstChild.nodeType === Node.TEXT_NODE) {
-      const textNode = element.firstChild as Text;
-      textNode.textContent = textNode.textContent!.trimStart();
+    if (!element.firstChild || element.firstChild.nodeType !== Node.TEXT_NODE) {
+      return;
     }
+    const textNode = element.firstChild as Text;
+    textNode.textContent = textNode.textContent!.trimStart();
   }
 
   function getElementToInsertInto(element: HTMLElement): HTMLElement {
@@ -431,8 +429,12 @@ function insertTags(
     // into when these empty elements are considered, we should drill
     const childrenToConsider = Array.from(element.childNodes).filter(
       (child) => {
-        if (isNonWhiteSpaceTextNode(child)) return true;
-        if (child.nodeType === Node.TEXT_NODE) return false;
+        if (isNonWhiteSpaceTextNode(child)) {
+          return true;
+        } else if (child.nodeType === Node.TEXT_NODE) {
+          return false;
+        }
+
         return !(
           child.nodeType === Node.ELEMENT_NODE &&
           (isTextLess(child as HTMLElement) ||
@@ -470,8 +472,27 @@ function insertTags(
   }
 
   function getOpeningTag(el: HTMLElement): string {
-    return el.outerHTML.split(">")[0] + ">";
+    const clonedEl = el.cloneNode(false) as HTMLElement;
+    const openingAndClosingTags = clonedEl.outerHTML;
+    const tagName = clonedEl.tagName.toLowerCase();
+    const closingTag = `</${tagName}>`;
+    if (openingAndClosingTags.endsWith(closingTag)) {
+      return openingAndClosingTags.slice(
+        0,
+        openingAndClosingTags.length - closingTag.length,
+      );
+    }
+    return openingAndClosingTags;
   }
+
+  const tagDataList: {
+    xpath: string;
+    element: HTMLElement;
+    tagElement: HTMLElement;
+    textNodeIndex: number | null;
+    originalTextContent: string | null;
+  }[] = [];
+  let idNum = 0;
 
   function createAndInsertTag(
     el: HTMLElement,
@@ -482,15 +503,15 @@ function insertTags(
     originalTextContent: string | null = null,
   ) {
     const symbol = getTagSymbol(el);
-    const idSpan = create_tagged_span(idNum, symbol, el);
+    const idSpan = create_tagged_span(idNum, symbol);
 
-    tagDataList.push({
+    const tagDataEntry = {
       xpath,
       element: el,
       tagElement: idSpan,
       textNodeIndex,
       originalTextContent,
-    });
+    };
 
     if (referenceNode && el.parentElement) {
       el.insertBefore(idSpan, referenceNode);
@@ -508,17 +529,8 @@ function insertTags(
       absolutelyPositionTagIfMisaligned(idSpan, el);
     }
 
-    idNum++;
+    return tagDataEntry;
   }
-
-  const tagDataList: {
-    xpath: string;
-    element: HTMLElement;
-    tagElement: HTMLElement;
-    textNodeIndex: number | null;
-    originalTextContent: string | null;
-  }[] = [];
-  let idNum = 0;
 
   for (const el of elementsToTag) {
     const xpath = getElementXPath(el);
@@ -529,7 +541,7 @@ function insertTags(
 
       const originalTextContent = el.textContent?.trim() || null;
 
-      createAndInsertTag(
+      const tagDataEntry = createAndInsertTag(
         el,
         xpath,
         null,
@@ -537,6 +549,9 @@ function insertTags(
         null,
         originalTextContent,
       );
+
+      tagDataList.push(tagDataEntry);
+      idNum++;
     } else if (tagLeafTexts) {
       trimTextNodeStart(el);
       const textNodes = Array.from(el.childNodes).filter(
@@ -549,7 +564,7 @@ function insertTags(
 
         const originalTextContent = child.textContent?.trim() || null;
 
-        createAndInsertTag(
+        const tagDataEntry = createAndInsertTag(
           el,
           xpath,
           textNodeIndex,
@@ -557,6 +572,9 @@ function insertTags(
           child,
           originalTextContent,
         );
+
+        tagDataList.push(tagDataEntry);
+        idNum++;
       });
     }
   }
@@ -569,7 +587,7 @@ function insertTags(
     const elementText = tagData.originalTextContent;
 
     return {
-      tarsierID: index,
+      tarsierId: index,
       elementName: tagData.element.tagName.toLowerCase(),
       openingTagHTML: elementHTML,
       xpath: tagData.xpath,

@@ -26,6 +26,11 @@ class ITarsier(Protocol):
     async def page_to_text(self, driver: AnyDriver) -> Tuple[str, list[TagMetadata]]:
         raise NotImplementedError()
 
+    async def page_to_image_and_text(
+        self, driver: AnyDriver
+    ) -> Tuple[bytes, str, list[TagMetadata]]:
+        raise NotImplementedError()
+
 
 class Tarsier(ITarsier):
     _JS_TAG_UTILS = Path(__file__).parent / "tag_utils.min.js"
@@ -107,7 +112,7 @@ class Tarsier(ITarsier):
 
         tag_metadata_list = [
             TagMetadata(
-                tarsier_id=meta["tarsierID"],
+                tarsier_id=meta["tarsierId"],
                 element_name=meta["elementName"],
                 opening_tag_html=meta["openingTagHTML"],
                 xpath=meta["xpath"],

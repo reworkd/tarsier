@@ -445,12 +445,38 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "opening_tag_html": '<a href="http://example.com" id="link1">',
                     "xpath": '//html/body/a[@id="link1"]',
                     "element_text": None,
-                    "textNodeIndex": None,
+                    "text_node_index": None,
                     "id_symbol": "@",
                     "id_string": "[ @ 0 ]",
                 },
             ],
             [],
+        ),
+        (
+            "invalid_text_nodes.html",
+            [
+                {
+                    "xpath": "//html/body/div",
+                    "opening_tag_html": '<div style="font-size: xx-large">',
+                    "element_name": "div",
+                    "element_text": "Index 2",
+                    "text_node_index": 2,
+                    "id_symbol": "",
+                    "id_string": "[ 0 ]",
+                    "tarsier_id": 0,
+                },
+                {
+                    "xpath": "//html/body/div",
+                    "opening_tag_html": '<div style="font-size: xx-large">',
+                    "element_name": "div",
+                    "element_text": "Index 3",
+                    "text_node_index": 3,
+                    "id_symbol": "",
+                    "id_string": "[ 1 ]",
+                    "tarsier_id": 1,
+                },
+            ],
+            ["Index 2 Index 3"],
         ),
     ],
 )
@@ -491,7 +517,7 @@ async def test_combined_elements_page_detailed(
         ), f"Expected text '{expected_page_text}' not found in page text. Got: {page_text}"
 
         expected_tag_strings = [
-            v["id_string"] for v in expected_tag_metadata if "id_string" in v
+            tag["id_string"] for tag in expected_tag_metadata if "id_string" in tag
         ]
         for expected_tag in expected_tag_strings:
             assert (
