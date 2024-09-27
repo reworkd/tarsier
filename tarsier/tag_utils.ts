@@ -18,7 +18,7 @@ interface Window {
   // This means that subsequent calls to .evaluate will not have access to the functions defined in this file
   // since they will be in an inaccessible scope. To circumvent this, we attach the following methods to the
   // window which is always available globally when run in a browser environment.
-  tagifyWebpage: (tagLeafTexts?: boolean) => TagMetadata[];
+  tagifyWebpage: (tagLeafTexts?: boolean) => { [p: number]: TagMetadata };
   removeTags: () => void;
   hideNonTagElements: () => void;
   revertVisibilities: () => void;
@@ -330,11 +330,11 @@ window.tagifyWebpage = (tagLeafTexts = false) => {
   const allElements = getAllElementsInAllFrames();
   const rawElementsToTag = getElementsToTag(allElements, tagLeafTexts);
   const elementsToTag = removeNestedTags(rawElementsToTag);
-  const tagMetadataList = insertTags(elementsToTag, tagLeafTexts);
+  const tagMetadataDict = insertTags(elementsToTag, tagLeafTexts);
   shrinkCollidingTags();
   ensureMinimumTagFontSizes();
 
-  return tagMetadataList;
+  return tagMetadataDict;
 };
 
 function getAllElementsInAllFrames(): HTMLElement[] {
@@ -434,7 +434,7 @@ function getTagSymbol(el: HTMLElement): TagSymbol {
 function insertTags(
   elementsToTag: HTMLElement[],
   tagLeafTexts: boolean,
-): TagMetadata[] {
+): { [p: number]: TagMetadata } {
   function trimTextNodeStart(element: HTMLElement) {
     // Trim leading whitespace from the element's text content
     // This way, the tag will be inline with the word and not textwrap
@@ -509,6 +509,7 @@ function insertTags(
   }
 
   const tagDataList: {
+    tarsierId: number;
     xpath: string;
     element: HTMLElement;
     tagElement: HTMLElement;
@@ -529,6 +530,7 @@ function insertTags(
     const idSpan = create_tagged_span(idNum, symbol);
 
     const tagDataEntry = {
+      tarsierId: idNum,
       xpath,
       element: el,
       tagElement: idSpan,
@@ -602,15 +604,16 @@ function insertTags(
     }
   }
 
-  return tagDataList.map((tagData, index) => {
+  const tagDataDict: { [key: number]: TagMetadata } = {};
+  tagDataList.forEach((tagData) => {
     const elementHTML = getOpeningTag(tagData.element);
     const symbol = getTagSymbol(tagData.element) || "";
-    const idString = `[ ${symbol}${symbol ? " " : ""}${index} ]`;
+    const idString = `[ ${symbol}${symbol ? " " : ""}${tagData.tarsierId} ]`;
 
     const elementText = tagData.originalTextContent;
 
-    return {
-      tarsierId: index,
+    tagDataDict[tagData.tarsierId] = {
+      tarsierId: tagData.tarsierId,
       elementName: tagData.element.tagName.toLowerCase(),
       openingTagHTML: elementHTML,
       xpath: tagData.xpath,
@@ -620,6 +623,7 @@ function insertTags(
       idString: idString,
     };
   });
+  return tagDataDict;
 }
 
 function absolutelyPositionTagIfMisaligned(
@@ -821,9 +825,9 @@ window.fixNamespaces = (tagName: string): string => {
   if (validNamespaceTag.test(tagOnly)) {
     // If it's a valid namespaced tag, wrap with the name() function
     return tagName.replace(tagOnly, `*[name()="${tagOnly}"]`);
-  } else {
-    return tagName;
   }
+
+  return tagName;
 };
 
 window.revertVisibilities = () => {
