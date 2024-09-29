@@ -870,7 +870,8 @@ window.hideNonColouredElements = () => {
 
     if (
       !element.hasAttribute("data-colored") ||
-      element.getAttribute("data-colored") !== "true"
+      element.getAttribute("data-colored") !== "true" ||
+      isImageElement(element)
     ) {
       element.style.visibility = "hidden";
     } else {
@@ -911,13 +912,12 @@ function getNextColors(totalTags: number): string[] {
     }
   }
 
-  // Optional: Shuffle colors to randomize the distribution
   for (let i = colors.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [colors[i], colors[j]] = [colors[j], colors[i]];
   }
 
-  return colors.slice(0, totalTags); // Ensure we return exactly totalTags colors
+  return colors.slice(0, totalTags);
 }
 
 function colorDistance(color1: string, color2: string): number {
@@ -974,7 +974,37 @@ function assignColors(
 window.colourBasedTagify = (
   tagLeafTexts = false,
   tagless: boolean = false,
-): { colorMapping: ColouredElem[]; tagMappingWithTagMeta: { [p: number]: TagMetadata }; insertedIdStrings: string[] } => {
+): {
+  colorMapping: ColouredElem[];
+  tagMappingWithTagMeta: { [p: number]: TagMetadata };
+  insertedIdStrings: string[];
+} => {
+  const { tagMapping, tagMappingWithTagMeta } = createTagMappings(tagLeafTexts);
+
+  window.removeTags();
+
+  const insertedIdStrings = insertIdStringsIntoTextNodes(
+    tagMappingWithTagMeta,
+    tagless,
+  );
+
+  const elements = collectElementsToColor(tagMapping);
+
+  const colorAssignments = getColorsForElements(elements);
+
+  const colorMapping = createColorMappingAndApplyStyles(
+    elements,
+    colorAssignments,
+    tagMapping,
+  );
+
+  return { colorMapping, tagMappingWithTagMeta, insertedIdStrings };
+};
+
+function createTagMappings(tagLeafTexts: boolean): {
+  tagMapping: { [key: number]: string };
+  tagMappingWithTagMeta: { [key: number]: TagMetadata };
+} {
   const tagMappingWithTagMeta = window.tagifyWebpage(tagLeafTexts);
   const tagMapping = Object.entries(tagMappingWithTagMeta).reduce(
     (acc, [id, meta]) => {
@@ -983,13 +1013,16 @@ window.colourBasedTagify = (
     },
     {} as { [key: number]: string },
   );
-  window.removeTags();
+  return { tagMapping, tagMappingWithTagMeta };
+}
 
+function insertIdStringsIntoTextNodes(
+  tagMappingWithTagMeta: { [key: number]: TagMetadata },
+  tagless: boolean,
+): string[] {
   let insertedIdStrings: string[] = [];
-  // console.log(tagMappingWithTagMeta);
   Object.entries(tagMappingWithTagMeta).forEach(([id, meta]) => {
     if (meta.textNodeIndex !== undefined && meta.idString !== undefined) {
-      // Constructing the XPath to directly access the specific text node
       const xpathWithTextNode = `${meta.xpath}/text()[${meta.textNodeIndex}]`;
       const textNode = document.evaluate(
         xpathWithTextNode,
@@ -1000,16 +1033,19 @@ window.colourBasedTagify = (
       ).singleNodeValue as Text;
 
       if (textNode && !tagless) {
-        // Prepending the ID directly to the text node data
         textNode.data = `${meta.idString} ${textNode.data}`;
         insertedIdStrings.push(meta.idString);
       }
     }
   });
+  return insertedIdStrings;
+}
 
-  const viewportWidth = window.innerWidth;
-  // Collect elements that have a bounding box > 0
+function collectElementsToColor(
+  tagMapping: { [key: number]: string },
+): HTMLElement[] {
   const elements: HTMLElement[] = [];
+  const viewportWidth = window.innerWidth;
   Object.keys(tagMapping).forEach((id) => {
     let xpath = tagMapping[parseInt(id)];
     const node = document.evaluate(
@@ -1022,7 +1058,6 @@ window.colourBasedTagify = (
 
     if (node instanceof HTMLElement) {
       const computedStyle = getComputedStyle(node);
-      // Check if the element has display: contents, if so, remove the display property
       if (computedStyle.display === "contents") {
         node.style.removeProperty("display");
       }
@@ -1038,11 +1073,23 @@ window.colourBasedTagify = (
       }
     }
   });
+  return elements;
+}
 
+function getColorsForElements(
+  elements: HTMLElement[],
+): Map<HTMLElement, string> {
   const totalTags = elements.length;
   const colors = getNextColors(totalTags);
   const colorAssignments = assignColors(elements, colors);
+  return colorAssignments;
+}
 
+function createColorMappingAndApplyStyles(
+  elements: HTMLElement[],
+  colorAssignments: Map<HTMLElement, string>,
+  tagMapping: { [key: number]: string },
+): ColouredElem[] {
   const colorMapping: ColouredElem[] = [];
   const bodyRect = document.body.getBoundingClientRect();
   const attribute = "data-colored";
@@ -1075,124 +1122,145 @@ window.colourBasedTagify = (
       boundingBoxY: rect.y,
     });
 
-    // Apply specific styles for checkboxes
-    if (
-      element.tagName.toLowerCase() === "input" &&
-      (element as HTMLInputElement).type === "checkbox"
-    ) {
-      const checkboxElement = element as HTMLInputElement; // Type assertion to HTMLInputElement
-      // Get the original width and height of the checkbox
-      const originalWidth = checkboxElement.offsetWidth + 2 + "px";
-      const originalHeight = checkboxElement.offsetHeight + 2 + "px";
+    applyStylesToElement(element, color, attribute, taggedElements, rect);
+  });
+  return colorMapping;
+}
 
-      // Apply styles to make the checkbox appear filled
-      checkboxElement.style.setProperty("width", originalWidth, "important");
-      checkboxElement.style.setProperty("height", originalHeight, "important");
-      checkboxElement.style.setProperty("background-color", color, "important");
+function applyStylesToElement(
+  element: HTMLElement,
+  color: string,
+  attribute: string,
+  taggedElements: Set<string>,
+  rect: DOMRect,
+) {
+  if (
+    element.tagName.toLowerCase() === "input" &&
+    (element as HTMLInputElement).type === "checkbox"
+  ) {
+    applyStylesToCheckbox(element as HTMLInputElement, color, attribute);
+  } else {
+    element.style.setProperty("background-color", color, "important");
+    element.style.setProperty("color", color, "important");
+    element.style.setProperty("border-color", color, "important");
+    element.style.setProperty("opacity", "1", "important");
+    element.setAttribute(attribute, "true");
+  }
+
+  if (element.tagName.toLowerCase() === "a") {
+    applyStylesToLink(element, taggedElements, rect);
+  }
+
+  // Hide untagged child elements
+  Array.from(element.children).forEach((child) => {
+    const childXpath = getElementXPath(child as HTMLElement);
+    const childComputedStyle = window.getComputedStyle(child);
+    if (
+      !taggedElements.has(childXpath) &&
+      childComputedStyle.display !== "none"
+    ) {
+      (child as HTMLElement).style.visibility = "hidden";
+    }
+  });
+}
+
+function applyStylesToCheckbox(
+  checkboxElement: HTMLInputElement,
+  color: string,
+  attribute: string,
+) {
+  const originalWidth = checkboxElement.offsetWidth + 2 + "px";
+  const originalHeight = checkboxElement.offsetHeight + 2 + "px";
+
+  // Apply styles to make the checkbox appear filled
+  checkboxElement.style.setProperty("width", originalWidth, "important");
+  checkboxElement.style.setProperty("height", originalHeight, "important");
+  checkboxElement.style.setProperty("background-color", color, "important");
+  checkboxElement.style.setProperty(
+    "border",
+    `2px solid ${color}`,
+    "important",
+  );
+  checkboxElement.style.setProperty("appearance", "none", "important");
+  checkboxElement.style.setProperty("border-radius", "4px", "important");
+  checkboxElement.style.setProperty("position", "relative", "important");
+  checkboxElement.style.setProperty("cursor", "pointer", "important");
+  checkboxElement.setAttribute(attribute, "true");
+
+  // Add event listener for checkbox state change
+  checkboxElement.addEventListener("change", function () {
+    if (checkboxElement.checked) {
       checkboxElement.style.setProperty(
-        "border",
-        `2px solid ${color}`,
+        "background-color",
+        color,
         "important",
       );
-      checkboxElement.style.setProperty("appearance", "none", "important");
-      checkboxElement.style.setProperty("border-radius", "4px", "important");
-      checkboxElement.style.setProperty("position", "relative", "important");
-      checkboxElement.style.setProperty("cursor", "pointer", "important");
-      checkboxElement.setAttribute(attribute, "true");
-
-      // Adding a pseudo-element to create a checkmark when checked
-      checkboxElement.addEventListener("change", function () {
-        if (checkboxElement.checked) {
-          checkboxElement.style.setProperty(
-            "background-color",
-            color,
-            "important",
-          );
-        } else {
-          checkboxElement.style.setProperty(
-            "background-color",
-            color,
-            "important",
-          ); // Keeps the filled color
-        }
-      });
     } else {
-      // Apply styles for other elements
-      element.style.setProperty("background-color", color, "important");
-      element.style.setProperty("color", color, "important");
-      element.style.setProperty("border-color", color, "important");
-      element.style.setProperty("opacity", "1", "important");
-      element.setAttribute(attribute, "true");
+      checkboxElement.style.setProperty(
+        "background-color",
+        color,
+        "important",
+      );
     }
-
-    if (element.tagName.toLowerCase() === "a") {
-      const computedStyle = window.getComputedStyle(element);
-      if (computedStyle.backgroundImage !== "none") {
-        element.style.backgroundImage = "none";
-      }
-
-      let hasTextChild = false;
-      let hasImageChild = false;
-      let boundingBoxGreaterThanZero = rect.width > 0 && rect.height > 0;
-      let hasUnTaggedTextElement = false;
-
-      // Check for text nodes and images within child elements
-      Array.from(element.children).forEach((child) => {
-        const childElement = child as HTMLElement; // Type assertion to HTMLElement
-        if (
-          childElement.textContent &&
-          childElement.textContent.trim().length > 0
-        ) {
-          hasTextChild = true;
-        }
-        if (childElement.tagName.toLowerCase() === "img") {
-          hasImageChild = true;
-        }
-        // Check if child element itself is not tagged
-        const childXpath = getElementXPath(childElement);
-        if (
-          !taggedElements.has(childXpath) &&
-          childElement.textContent &&
-          childElement.textContent.trim().length > 0
-        ) {
-          hasUnTaggedTextElement = true;
-        }
-      });
-
-      if (
-        (!hasTextChild &&
-          !hasImageChild &&
-          !hasDirectTextContent(element) &&
-          !boundingBoxGreaterThanZero) ||
-        hasUnTaggedTextElement
-      ) {
-        element.style.width = `${rect.width}px`;
-        element.style.height = `${rect.height}px`;
-        element.style.display = "block";
-      }
-    }
-
-    Array.from(element.children).forEach((child) => {
-      const childXpath = getElementXPath(child as HTMLElement);
-      const childComputedStyle = window.getComputedStyle(child);
-      if (
-        !taggedElements.has(childXpath) &&
-        childComputedStyle.display !== "none"
-      ) {
-        (child as HTMLElement).style.visibility = "hidden";
-      }
-    });
   });
-  return { colorMapping, tagMappingWithTagMeta, insertedIdStrings };
-};
+}
+
+function applyStylesToLink(
+  element: HTMLElement,
+  taggedElements: Set<string>,
+  rect: DOMRect,
+) {
+  const computedStyle = window.getComputedStyle(element);
+  if (computedStyle.backgroundImage !== "none") {
+    element.style.backgroundImage = "none";
+  }
+
+  let hasTextChild = false;
+  let hasImageChild = false;
+  let boundingBoxGreaterThanZero = rect.width > 0 && rect.height > 0;
+  let hasUnTaggedTextElement = false;
+
+  // Check for text nodes and images within child elements
+  Array.from(element.children).forEach((child) => {
+    const childElement = child as HTMLElement;
+    if (
+      childElement.textContent &&
+      childElement.textContent.trim().length > 0
+    ) {
+      hasTextChild = true;
+    }
+    if (childElement.tagName.toLowerCase() === "img") {
+      hasImageChild = true;
+    }
+    // Check if child element itself is not tagged
+    const childXpath = getElementXPath(childElement);
+    if (
+      !taggedElements.has(childXpath) &&
+      childElement.textContent &&
+      childElement.textContent.trim().length > 0
+    ) {
+      hasUnTaggedTextElement = true;
+    }
+  });
+
+  if (
+    (!hasTextChild &&
+      !hasImageChild &&
+      !hasDirectTextContent(element) &&
+      !boundingBoxGreaterThanZero) ||
+    hasUnTaggedTextElement
+  ) {
+    element.style.width = `${rect.width}px`;
+    element.style.height = `${rect.height}px`;
+    element.style.display = "block";
+  }
+}
 
 window.revertColourBasedTagify = () => {
-  // Remove any styles or modifications applied by the colour-based tagify
   document.querySelectorAll("[data-colored]").forEach((element) => {
-    const htmlElement = element as HTMLElement; // Type assertion to HTMLElement
+    const htmlElement = element as HTMLElement;
     if (htmlElement.tagName.toLowerCase() === "input" && (htmlElement as HTMLInputElement).type === "checkbox") {
-      // Revert styles specific to checkboxes
-      const checkboxElement = htmlElement as HTMLInputElement; // Further type assertion to HTMLInputElement
+      const checkboxElement = htmlElement as HTMLInputElement;
       checkboxElement.style.removeProperty("width");
       checkboxElement.style.removeProperty("height");
       checkboxElement.style.removeProperty("background-color");
@@ -1203,7 +1271,6 @@ window.revertColourBasedTagify = () => {
       checkboxElement.style.removeProperty("cursor");
       checkboxElement.removeAttribute("data-colored");
     } else {
-      // Revert styles for other elements
       htmlElement.style.removeProperty("background-color");
       htmlElement.style.removeProperty("color");
       htmlElement.style.removeProperty("border-color");
@@ -1212,34 +1279,16 @@ window.revertColourBasedTagify = () => {
     }
   });
 
-  // Restore any display properties modified
   document.querySelectorAll("[data-id]").forEach((element) => {
-    const htmlElement = element as HTMLElement; // Type assertion to HTMLElement
+    const htmlElement = element as HTMLElement;
     htmlElement.style.removeProperty("display");
     htmlElement.removeAttribute("data-id");
   });
 
-  // Restore hidden child elements to visible
   document.querySelectorAll("[data-id] *").forEach((child) => {
-    const htmlElement = child as HTMLElement; // Type assertion to HTMLElement
+    const htmlElement = child as HTMLElement;
     htmlElement.style.removeProperty("visibility");
   });
-
-  // Remove any ID strings that were added to text nodes
-  const snapshot = document.evaluate(
-    '//text()[starts-with(., "ID")]',
-    document,
-    null,
-    XPathResult.UNORDERED_NODE_SNAPSHOT_TYPE,
-    null
-  );
-  for (let i = 0; i < snapshot.snapshotLength; i++) {
-    const textNode = snapshot.snapshotItem(i) as Text;
-    if (textNode) {
-      const originalText = textNode.data.replace(/^ID\s*/, "");
-      textNode.data = originalText;
-    }
-  }
 };
 
 window.getElementHtmlByXPath = function (xpath: string): string {
@@ -1279,11 +1328,11 @@ window.createTextBoundingBoxes = () => {
   if (style.sheet) {
     style.sheet.insertRule(
       `
-          .tarsier-highlighted-word {
-              border: 0px solid orange;
-              display: inline-block !important;
-              visibility: visible;
-          }
+        .tarsier-highlighted-word, .tarsier-space {
+          border: 0px solid orange;
+          display: inline-block !important;
+          visibility: visible;
+        }
       `,
       0,
     );
@@ -1305,13 +1354,11 @@ window.createTextBoundingBoxes = () => {
           node.textContent &&
           node.textContent.trim().length > 0
         ) {
-          let textContent = node.textContent.replace(/\u00A0/g, " "); // Replace non-breaking space with regular space
+          let textContent = node.textContent.replace(/\u00A0/g, " ");
 
-          // Regular expression to match Tarsier tags
           const tarsierTagRegex = /\[\s*(?:[$@#]?\s*\d+)\s*\]/g;
 
           if (element.hasAttribute("selected")) {
-            // Create an outer span for elements with the 'selected' attribute
             let span = document.createElement("span");
             span.className = "tarsier-highlighted-word";
             span.textContent = textContent;
@@ -1319,39 +1366,35 @@ window.createTextBoundingBoxes = () => {
               node.parentNode.replaceChild(span, node);
             }
           } else {
-            // Split textContent into parts, keeping Tarsier tags intact
             let parts = textContent.split(tarsierTagRegex);
             let matches = textContent.match(tarsierTagRegex);
-            let tempDiv = document.createElement("div");
+            let fragment = document.createDocumentFragment();
 
             parts.forEach((part, index) => {
-              if (part.trim().length > 0) {
-                // Wrap non-matching parts in spans for individual words
-                let words = part.split(/(\S+)/g); // Split into words
-                words.forEach((word) => {
-                  if (word.trim().length > 0) {
-                    let span = document.createElement("span");
-                    span.className = "tarsier-highlighted-word";
-                    span.textContent = word;
-                    tempDiv.appendChild(span);
-                  }
-                });
-              }
+              let tokens = part.split(/(\s+)/g);
+              tokens.forEach((token) => {
+                let span = document.createElement("span");
+                if (token.trim().length === 0) {
+                  span.className = "tarsier-space";
+                } else {
+                  span.className = "tarsier-highlighted-word";
+                }
+                span.textContent = token;
+                fragment.appendChild(span);
+              });
 
-              // If there's a matching Tarsier tag, add it wrapped in a single span
               if (matches && matches[index]) {
                 let span = document.createElement("span");
                 span.className = "tarsier-highlighted-word";
                 span.textContent = matches[index];
-                tempDiv.appendChild(span);
+                fragment.appendChild(span);
               }
             });
 
-            // Replace the original text node with the new content
-            while (tempDiv.firstChild) {
-              element.insertBefore(tempDiv.firstChild, node);
+            if (fragment.childNodes.length > 0 && node.parentNode) {
+              element.insertBefore(fragment, node);
+              node.remove();
             }
-            node.remove();
           }
         }
       });
@@ -1369,15 +1412,18 @@ window.createTextBoundingBoxes = () => {
   });
 };
 
+
 window.removeTextBoundingBoxes = () => {
-  // Remove the style for highlighted words
   const styleSheets = Array.from(document.styleSheets);
   styleSheets.forEach((styleSheet) => {
     try {
       if (styleSheet && styleSheet.cssRules) {
         Array.from(styleSheet.cssRules).forEach((rule, index) => {
-          // Ensure the rule is a CSSStyleRule before accessing selectorText
-          if (rule instanceof CSSStyleRule && rule.selectorText === ".tarsier-highlighted-word") {
+          if (
+            rule instanceof CSSStyleRule &&
+            (rule.selectorText === ".tarsier-highlighted-word" ||
+              rule.selectorText === ".tarsier-space")
+          ) {
             styleSheet.deleteRule(index);
           }
         });
@@ -1388,14 +1434,15 @@ window.removeTextBoundingBoxes = () => {
   });
 
   // Revert the highlighted elements
-  document.querySelectorAll(".tarsier-highlighted-word").forEach((span) => {
+  document.querySelectorAll(".tarsier-highlighted-word, .tarsier-space").forEach((span) => {
     if (span.parentNode) {
-      // Replace the span with its text content
-      span.parentNode.replaceChild(document.createTextNode(span.textContent || ""), span);
+      span.parentNode.replaceChild(
+        document.createTextNode(span.textContent || ""),
+        span
+      );
     }
   });
 
-  // Revert the iframes
   document.querySelectorAll("iframe").forEach((iframe) => {
     try {
       iframe.contentWindow?.postMessage({ action: "removeHighlight" }, "*");
@@ -1413,74 +1460,76 @@ window.documentDimensions = () => {
 };
 
 window.getElementBoundingBoxes = (xpath: string) => {
-  const element = document.evaluate(
+  const element  = document.evaluate(
     xpath,
     document,
     null,
     XPathResult.FIRST_ORDERED_NODE_TYPE,
     null,
-  ).singleNodeValue as HTMLElement | null;
+  ).singleNodeValue as HTMLElement;
   if (element) {
-    // Check if any child elements have the 'selected' attribute
+    const isValidText = (text: string) => text && text.trim().length > 0;
     let dropDownElem = element.querySelector("option[selected]");
 
-    // if there is no selected option, just use the first option
     if (!dropDownElem) {
       dropDownElem = element.querySelector("option");
     }
 
     if (dropDownElem) {
-      const parentRect = element.getBoundingClientRect();
-      return [
-        {
-          text: dropDownElem.textContent || "",
-          top: parentRect.top,
-          left: parentRect.left,
-          width: parentRect.width,
-          height: parentRect.height,
-        },
-      ];
+      const elemText = dropDownElem.textContent || "";
+      if (isValidText(elemText)) {
+        const parentRect = element.getBoundingClientRect();
+        return [
+          {
+            text: elemText.trim(),
+            top: parentRect.top + window.scrollY,
+            left: parentRect.left + window.scrollX,
+            width: parentRect.width,
+            height: parentRect.height,
+          },
+        ];
+      } else {
+        return [];
+      }
     }
-
-    // Check for elements that might have placeholder text
-    let placeholderText = "";
+    let placeholderText = " ";
     if (
       (element.tagName.toLowerCase() === "input" ||
         element.tagName.toLowerCase() === "textarea") &&
       (element as HTMLInputElement).placeholder
     ) {
       placeholderText = (element as HTMLInputElement).placeholder;
+    } else if (element.tagName.toLowerCase() === "a") {
+      placeholderText = " ";
+    } else if (element.tagName.toLowerCase() === "img") {
+      placeholderText = (element as HTMLImageElement).alt || " ";
     }
 
-    // Get all children with the 'tarsier-highlighted-word' class
-    const words = element.querySelectorAll(".tarsier-highlighted-word");
+    const words = element.querySelectorAll(":scope > .tarsier-highlighted-word") as NodeListOf<HTMLElement>;
     const boundingBoxes = Array.from(words)
-      .map((word) => {
+      .map((word ) => {
         const rect = (word as HTMLElement).getBoundingClientRect();
         return {
-          text: word.textContent || "",
-          top: rect.top,
-          left: rect.left,
+          text: word.innerText || "",
+          top: rect.top + window.scrollY,
+          left: rect.left + window.scrollX,
           width: rect.width,
           height: rect.height * 0.75,
         };
       })
       .filter(
         (box) =>
-          box.width > 0 && box.height > 0 && box.top >= 0 && box.left >= 0,
+          box.width > 0 && box.height > 0 && box.top >= 0 && box.left >= 0 && isValidText(box.text),
       );
 
-    // If no valid words or some are empty, check for the placeholder
     if (
-      words.length === 0 ||
-      Array.from(words).some((word) => (word.textContent || "").trim() === "")
-    ) {
+      words.length === 0) {
       const elementRect = element.getBoundingClientRect();
       return [
         {
-          text: placeholderText || element.textContent || "", // Include placeholder text if available
-          top: elementRect.top,
-          left: elementRect.left,
+          text: placeholderText,
+          top: elementRect.top + window.scrollY,
+          left: elementRect.left + window.scrollX,
           width: elementRect.width,
           height: elementRect.height * 0.75,
         },
@@ -1555,7 +1604,6 @@ window.reColourElements = (colouredElems: ColouredElem[]): ColouredElem[] => {
   const totalTags = colouredElems.length;
   const colors = getNextColors(totalTags);
 
-  // Get elements based on the xpaths
   const elements: HTMLElement[] = colouredElems.map((elem) => {
     const element = document.evaluate(
       elem.xpath,
@@ -1572,7 +1620,6 @@ window.reColourElements = (colouredElems: ColouredElem[]): ColouredElem[] => {
 
   const bodyRect = document.body.getBoundingClientRect();
 
-  // Update the colours and return the updated ColouredElems
   const updatedColouredElems = colouredElems.map((elem) => {
     const element = document.evaluate(
       elem.xpath,

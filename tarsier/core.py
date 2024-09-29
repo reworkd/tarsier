@@ -11,8 +11,6 @@ from tarsier.ocr import OCRService, ImageAnnotatorResponse
 from tarsier.ocr.types import ImageAnnotation
 from tarsier.text_format import format_text
 
-TagToXPath = Dict[int, str]
-
 class TagMetadata(TypedDict):
     tarsier_id: int
     element_name: str
@@ -122,133 +120,26 @@ class Tarsier(ITarsier):
         driver: AnyDriver,
         tag_text_elements: bool = False,
         tagless: bool = False,
-    ) -> Tuple[str, TagToXPath]:
+    ) -> Tuple[str, dict[int, TagMetadata]]:
         adapter = adapter_factory(driver)
 
         coloured_elems, tag_to_xpath, inserted_id_strings = await self._colour_based_tagify(
             adapter, tag_text_elements, tagless
         )
-        await self._hide_non_coloured_elements(adapter)
-        await self._disable_transitions(adapter)
-        coloured_image = await self._take_screenshot(adapter)
-        await self._enable_transitions(adapter)
 
-        detected_colours = await self.check_colors_brute_force(coloured_image)
+        coloured_image = await self._take_coloured_screenshot(adapter)
 
-        # remove the colours from coloured_elems that are not common between detected_colours and coloured_elems
-        detected_coloured_elems = [
-            elem for elem in coloured_elems if elem["color"] in detected_colours
-        ]
+        detected_colours = await self._detect_colours_in_image(coloured_image)
 
-        for elem in detected_coloured_elems:
-            xpath = elem["xpath"]
-            await self._hide_element(adapter, xpath)
-
-        undetected_coloured_elems = [
-            elem for elem in coloured_elems if elem["color"] not in detected_colours
-        ]
-
-        # re colour the undetected elements
-        re_coloured_elems = await self._re_colour_elements(
-            adapter, undetected_coloured_elems
+        all_detected_coloured_elems = await self._process_detected_colours(
+            adapter, coloured_elems, detected_colours
         )
 
-        # attempt to detect the missing elements after we have re coloured them
-        await self._disable_transitions(adapter)
-        re_coloured_image = await self._take_screenshot(adapter)
-        await self._enable_transitions(adapter)
-
-        new_detected_colours = await self.check_colors_brute_force(re_coloured_image)
-
-        new_detected_coloured_elems = [
-            elem for elem in re_coloured_elems if elem["color"] in new_detected_colours
-        ]
-
-        all_detected_coloured_elems = (
-            detected_coloured_elems + new_detected_coloured_elems
+        combined_annotations = await self._create_annotations(
+            adapter, all_detected_coloured_elems, inserted_id_strings, tagless
         )
 
-        # create bounding boxes for each text element
-        await self._create_text_bounding_boxes(adapter)
-        document_dimensions_script = "return window.documentDimensions();"
-        document_dimensions = await adapter.run_js(document_dimensions_script)
-        document_width = document_dimensions["width"]
-        document_height = document_dimensions["height"]
-
-        annotations: ImageAnnotatorResponse = []
-        fixed_top_annotations: ImageAnnotatorResponse = []
-        fixed_bottom_annotations: ImageAnnotatorResponse = []
-        seen_boxes = set()
-
-        for elem in all_detected_coloured_elems:
-            xpath = elem["xpath"]
-
-            bounding_boxes_script = (
-                f"return window.getElementBoundingBoxes({json.dumps(xpath)});"
-            )
-            bounding_boxes = await adapter.run_js(bounding_boxes_script)
-
-            # create ImageAnnotation objects for each bounding box
-            for i, box in enumerate(bounding_boxes):
-                if tagless and not box["text"].strip():
-                    continue
-
-                box_tuple = self.box_to_tuple(box)
-                if box_tuple in seen_boxes:
-                    continue
-                seen_boxes.add(box_tuple)
-
-                midpoint = (box["left"], box["top"] + box["height"])
-                normalized_midpoint = (
-                    midpoint[0] / document_width,
-                    midpoint[1] / document_height,
-                )
-
-                if i == 0 and not tagless:
-                    # first bounding box is given the idSymbol
-                    annotation_text = (
-                        elem["idSymbol"] + " " + box["text"]
-                        if (elem["idSymbol"] not in inserted_id_strings)
-                        else box["text"]
-                    )
-                    tag_annotation = ImageAnnotation(
-                        text=annotation_text,
-                        midpoint=midpoint,
-                        midpoint_normalized=normalized_midpoint,
-                        width=box["width"] + 96,
-                        height=box["height"],
-                    )
-                    if elem["isFixed"] and elem["fixedPosition"] == "top":
-                        fixed_top_annotations.append(tag_annotation)
-                    elif elem["isFixed"] and elem["fixedPosition"] == "bottom":
-                        fixed_bottom_annotations.append(tag_annotation)
-                    else:
-                        annotations.append(tag_annotation)
-                else:
-                    annotation = ImageAnnotation(
-                        text=box["text"],
-                        midpoint=midpoint,
-                        midpoint_normalized=normalized_midpoint,
-                        width=box["width"],
-                        height=box["height"],
-                    )
-                    if elem["isFixed"] and elem["fixedPosition"] == "top":
-                        fixed_top_annotations.append(annotation)
-                    elif elem["isFixed"] and elem["fixedPosition"] == "bottom":
-                        fixed_bottom_annotations.append(annotation)
-                    else:
-                        annotations.append(annotation)
-
-        await self._remove_text_bounding_boxes(adapter)
-        await self._revert_colour_tagging(adapter)
-        # sort annotations before combining
-        fixed_top_annotations = self.sort_annotations(fixed_top_annotations)
-        annotations = self.sort_annotations(annotations)
-        fixed_bottom_annotations = self.sort_annotations(fixed_bottom_annotations)
-
-        combined_annotations = (
-            fixed_top_annotations + annotations + fixed_bottom_annotations
-        )
+        await self._cleanup(adapter)
 
         annotations_formatted = format_text(combined_annotations)
         return annotations_formatted, tag_to_xpath
@@ -294,6 +185,13 @@ class Tarsier(ITarsier):
 
         return screenshot
 
+
+    async def _take_coloured_screenshot(self, adapter: BrowserAdapter) -> bytes:
+        await self._disable_transitions(adapter)
+        coloured_image = await self._take_screenshot(adapter)
+        await self._enable_transitions(adapter)
+        return coloured_image
+
     def _run_ocr(self, image: bytes) -> str:
         ocr_text = self._ocr_service.annotate(image)
         page_text = format_text(ocr_text)
@@ -327,16 +225,165 @@ class Tarsier(ITarsier):
         adapter: BrowserAdapter,
         tag_text_elements: bool = False,
         tagless: bool = False,
-    ) -> tuple[list[ColouredElem], Dict[int, str], set[str]]:
+    ) -> tuple[list[ColouredElem], Dict[int, TagMetadata], set[str]]:
         await adapter.run_js(self._js_utils)
 
         script = f"return window.colourBasedTagify({str(tag_text_elements).lower()}, {str(tagless).lower()});"
         result = await adapter.run_js(script)
         colour_mapping = result["colorMapping"]
         tag_mapping_with_tag_meta = result["tagMappingWithTagMeta"]
-        tag_to_xpath = {int(key): meta["xpath"] for key, meta in tag_mapping_with_tag_meta.items()}
+
+        tag_metadata_dict = {}
+        for tarsier_id_str, meta in tag_mapping_with_tag_meta.items():
+            tarsier_id = int(tarsier_id_str)
+            tag_metadata_dict[tarsier_id] = TagMetadata(
+                tarsier_id=meta["tarsierId"],
+                element_name=meta["elementName"],
+                opening_tag_html=meta["openingTagHTML"],
+                xpath=meta["xpath"],
+                element_text=meta.get("elementText"),
+                text_node_index=meta.get("textNodeIndex"),
+                id_symbol=meta["idSymbol"],
+                id_string=meta["idString"],
+            )
+
         inserted_id_strings = result["insertedIdStrings"]
-        return colour_mapping, tag_to_xpath, inserted_id_strings
+
+        await self._hide_non_coloured_elements(adapter)
+        return colour_mapping, tag_metadata_dict, inserted_id_strings
+
+
+    async def _detect_colours_in_image(self, image_bytes: bytes) -> list[str]:
+        detected_colours = await self.check_colors_brute_force(image_bytes)
+        return detected_colours
+
+    async def _process_detected_colours(
+        self,
+        adapter: BrowserAdapter,
+        coloured_elems: list[ColouredElem],
+        detected_colours: list[str],
+    ) -> list[ColouredElem]:
+        detected_coloured_elems = [
+            elem for elem in coloured_elems if elem["color"] in detected_colours
+        ]
+        undetected_coloured_elems = [
+            elem for elem in coloured_elems if elem["color"] not in detected_colours
+        ]
+
+        for elem in detected_coloured_elems:
+            xpath = elem["xpath"]
+            await self._hide_element(adapter, xpath)
+
+        if undetected_coloured_elems:
+            re_coloured_elems = await self._re_colour_elements(
+                adapter, undetected_coloured_elems
+            )
+
+            re_coloured_image = await self._take_coloured_screenshot(adapter)
+
+            new_detected_colours = await self._detect_colours_in_image(
+                re_coloured_image
+            )
+
+            new_detected_coloured_elems = [
+                elem
+                for elem in re_coloured_elems
+                if elem["color"] in new_detected_colours
+            ]
+
+            all_detected_coloured_elems = (
+                detected_coloured_elems + new_detected_coloured_elems
+            )
+        else:
+            all_detected_coloured_elems = detected_coloured_elems
+
+        return all_detected_coloured_elems
+
+    async def _create_annotations(
+        self,
+        adapter: BrowserAdapter,
+        all_detected_coloured_elems: list[ColouredElem],
+        inserted_id_strings: set[str],
+        tagless: bool,
+    ) -> ImageAnnotatorResponse:
+        await self._create_text_bounding_boxes(adapter)
+
+        document_dimensions_script = "return window.documentDimensions();"
+        document_dimensions = await adapter.run_js(document_dimensions_script)
+        document_width = document_dimensions["width"]
+        document_height = document_dimensions["height"]
+
+        annotations: ImageAnnotatorResponse = []
+        fixed_top_annotations: ImageAnnotatorResponse = []
+        fixed_bottom_annotations: ImageAnnotatorResponse = []
+        seen_boxes = set()
+
+        for elem in all_detected_coloured_elems:
+            xpath = elem["xpath"]
+            bounding_boxes_script = (
+                f"return window.getElementBoundingBoxes({json.dumps(xpath)});"
+            )
+            bounding_boxes = await adapter.run_js(bounding_boxes_script)
+
+            for i, box in enumerate(bounding_boxes):
+                if tagless and not box["text"].strip():
+                    continue
+
+                box_tuple = self.box_to_tuple(box)
+                if box_tuple in seen_boxes:
+                    continue
+                seen_boxes.add(box_tuple)
+
+                midpoint = (box["left"], box["top"] + box["height"])
+                normalized_midpoint = (
+                    midpoint[0] / document_width,
+                    midpoint[1] / document_height,
+                )
+
+                if i == 0 and not tagless:
+                    annotation_text = (
+                        elem["idSymbol"] + " " + box["text"]
+                        if (elem["idSymbol"] not in inserted_id_strings)
+                        else box["text"]
+                    )
+                    tag_annotation = ImageAnnotation(
+                        text=annotation_text,
+                        midpoint=midpoint,
+                        midpoint_normalized=normalized_midpoint,
+                        width=box["width"] + 96,
+                        height=box["height"],
+                    )
+                else:
+                    tag_annotation = ImageAnnotation(
+                        text=box["text"],
+                        midpoint=midpoint,
+                        midpoint_normalized=normalized_midpoint,
+                        width=box["width"],
+                        height=box["height"],
+                    )
+
+                if elem["isFixed"] and elem["fixedPosition"] == "top":
+                    fixed_top_annotations.append(tag_annotation)
+                elif elem["isFixed"] and elem["fixedPosition"] == "bottom":
+                    fixed_bottom_annotations.append(tag_annotation)
+                else:
+                    annotations.append(tag_annotation)
+
+        await self._remove_text_bounding_boxes(adapter)
+
+        fixed_top_annotations = self.sort_annotations(fixed_top_annotations)
+        annotations = self.sort_annotations(annotations)
+        fixed_bottom_annotations = self.sort_annotations(fixed_bottom_annotations)
+
+        combined_annotations = (
+            fixed_top_annotations + annotations + fixed_bottom_annotations
+        )
+
+        return combined_annotations
+
+    async def _cleanup(self, adapter: BrowserAdapter) -> None:
+        await self._remove_text_bounding_boxes(adapter)
+        await self._revert_colour_tagging(adapter)
 
     async def _remove_tags(self, adapter: BrowserAdapter) -> None:
         await self._load_tarsier_utils(adapter)
@@ -397,7 +444,6 @@ class Tarsier(ITarsier):
         width, height = image_rgb.size
         unique_colors = set()
 
-        # looping through each pixel
         for x in range(width):
             for y in range(height):
                 color = image_rgb.getpixel((x, y))
