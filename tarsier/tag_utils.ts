@@ -222,6 +222,12 @@ function getElementXPath(element: HTMLElement | null) {
 
     if (element.id) {
       prefix += `[@id="${element.id}"]`;
+
+      // If the id is unique and we have enough path parts, we can stop
+      if (path_parts.length > 3) {
+        path_parts.unshift(prefix);
+        return "//" + path_parts.join("/");
+      }
     } else if (element.className) {
       prefix += `[@class="${element.className}"]`;
     }

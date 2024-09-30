@@ -485,7 +485,7 @@ IS_GITHUB_ACTIONS = os.getenv("GITHUB_ACTIONS") == "true"
                     "tarsier_id": 0,
                     "element_name": "p",
                     "opening_tag_html": '<p class="text">',
-                    "xpath": '//html/body/div[@class="container"]/div[@id="column"]/div[@class="row"]/div[@class="level1"]/div[@class="level2"]/div[@class="level3"]/p[@class="text"]',
+                    "xpath": '//div[@id="column"]/div[@class="row"]/div[@class="level1"]/div[@class="level2"]/div[@class="level3"]/p[@class="text"]',
                     "element_text": "Sample text 1",
                     "text_node_index": 1,
                     "id_symbol": "",
