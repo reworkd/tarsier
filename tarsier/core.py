@@ -20,15 +20,19 @@ class TagMetadata(TypedDict):
 
 
 class ITarsier(Protocol):
-    async def page_to_image(self, driver: AnyDriver) -> Tuple[bytes, list[TagMetadata]]:
+    async def page_to_image(
+        self, driver: AnyDriver
+    ) -> Tuple[bytes, dict[int, TagMetadata]]:
         raise NotImplementedError()
 
-    async def page_to_text(self, driver: AnyDriver) -> Tuple[str, list[TagMetadata]]:
+    async def page_to_text(
+        self, driver: AnyDriver
+    ) -> Tuple[str, dict[int, TagMetadata]]:
         raise NotImplementedError()
 
     async def page_to_image_and_text(
         self, driver: AnyDriver
-    ) -> Tuple[bytes, str, list[TagMetadata]]:
+    ) -> Tuple[bytes, str, dict[int, TagMetadata]]:
         raise NotImplementedError()
 
 
@@ -45,10 +49,10 @@ class Tarsier(ITarsier):
         tag_text_elements: bool = False,
         tagless: bool = False,
         keep_tags_showing: bool = False,
-    ) -> Tuple[bytes, list[TagMetadata]]:
+    ) -> Tuple[bytes, dict[int, TagMetadata]]:
         adapter = adapter_factory(driver)
         tag_to_xpath = (
-            await self._tag_page(adapter, tag_text_elements) if not tagless else []
+            await self._tag_page(adapter, tag_text_elements) if not tagless else {}
         )
         if tagless:
             await self._remove_tags(adapter)
@@ -58,7 +62,7 @@ class Tarsier(ITarsier):
         if not keep_tags_showing:
             await self._remove_tags(adapter)
 
-        return screenshot, tag_to_xpath if not tagless else []
+        return screenshot, tag_to_xpath if not tagless else {}
 
     async def page_to_text(
         self,
@@ -66,7 +70,7 @@ class Tarsier(ITarsier):
         tag_text_elements: bool = False,
         tagless: bool = False,
         keep_tags_showing: bool = False,
-    ) -> Tuple[str, list[TagMetadata]]:
+    ) -> Tuple[str, dict[int, TagMetadata]]:
         image, tag_to_xpath = await self.page_to_image(
             driver, tag_text_elements, tagless, keep_tags_showing
         )
@@ -79,7 +83,7 @@ class Tarsier(ITarsier):
         tag_text_elements: bool = False,
         tagless: bool = False,
         keep_tags_showing: bool = False,
-    ) -> Tuple[bytes, str, list[TagMetadata]]:
+    ) -> Tuple[bytes, str, dict[int, TagMetadata]]:
         image, tag_to_xpath = await self.page_to_image(
             driver, tag_text_elements, tagless, keep_tags_showing
         )
@@ -104,14 +108,16 @@ class Tarsier(ITarsier):
 
     async def _tag_page(
         self, adapter: BrowserAdapter, tag_text_elements: bool = False
-    ) -> list[TagMetadata]:
+    ) -> dict[int, TagMetadata]:
         await self._load_tarsier_utils(adapter)
 
         script = f"return window.tagifyWebpage({str(tag_text_elements).lower()});"
         tag_to_meta = await adapter.run_js(script)
 
-        tag_metadata_list = [
-            TagMetadata(
+        tag_metadata_dict = {}
+        for tarsier_id_str, meta in tag_to_meta.items():
+            tarsier_id = int(tarsier_id_str)
+            tag_metadata_dict[tarsier_id] = TagMetadata(
                 tarsier_id=meta["tarsierId"],
                 element_name=meta["elementName"],
                 opening_tag_html=meta["openingTagHTML"],
@@ -121,9 +127,7 @@ class Tarsier(ITarsier):
                 id_symbol=meta["idSymbol"],
                 id_string=meta["idString"],
             )
-            for meta in tag_to_meta
-        ]
-        return tag_metadata_list
+        return tag_metadata_dict
 
     async def _remove_tags(self, adapter: BrowserAdapter) -> None:
         await self._load_tarsier_utils(adapter)
