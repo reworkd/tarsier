@@ -32,7 +32,6 @@ interface Window {
     insertedIdStrings: string[];
   };
   hideNonColouredElements: () => void;
-  getElementHtmlByXPath: (xpath: string) => string;
   createTextBoundingBoxes: () => void;
   documentDimensions: () => { width: number; height: number };
   getElementBoundingBoxes: (xpath: string) => {
@@ -47,8 +46,8 @@ interface Window {
   reColourElements: (colouredElems: ColouredElem[]) => ColouredElem[];
   disableTransitionsAndAnimations: () => void;
   enableTransitionsAndAnimations: () => void;
-  removeTextBoundingBoxes: () => void;
-  revertColourBasedTagify: () => void;
+  restoreDOM: (storedDOM: string) => void;
+  storeDOM: () => string;
 }
 
 interface TagMetadata {
@@ -67,6 +66,24 @@ const tarsierDataAttribute = "data-tarsier-id";
 const tarsierSelector = `#${tarsierId}`;
 const reworkdVisibilityAttribute = "reworkd-original-visibility";
 type TagSymbol = "#" | "$" | "@" | "%" | "";
+
+let originalDOM = document.body.cloneNode(true);
+
+window.storeDOM = () => {
+  originalDOM = document.body.cloneNode(true);
+  console.log("DOM state stored.");
+  return document.body.outerHTML;
+};
+
+
+window.restoreDOM = (storedDOM) => {
+  console.log("Restoring DOM");
+  if (storedDOM) {
+    document.body.innerHTML = storedDOM;
+  } else {
+    console.error("No DOM state was provided.");
+  }
+};
 
 const elIsVisible = (el: HTMLElement) => {
   const rect = el.getBoundingClientRect();
@@ -870,8 +887,7 @@ window.hideNonColouredElements = () => {
 
     if (
       !element.hasAttribute("data-colored") ||
-      element.getAttribute("data-colored") !== "true" ||
-      isImageElement(element)
+      element.getAttribute("data-colored") !== "true"
     ) {
       element.style.visibility = "hidden";
     } else {
@@ -979,7 +995,7 @@ window.colourBasedTagify = (
   tagMappingWithTagMeta: { [p: number]: TagMetadata };
   insertedIdStrings: string[];
 } => {
-  const { tagMapping, tagMappingWithTagMeta } = createTagMappings(tagLeafTexts);
+  const tagMappingWithTagMeta = window.tagifyWebpage(tagLeafTexts);
 
   window.removeTags();
 
@@ -988,33 +1004,18 @@ window.colourBasedTagify = (
     tagless,
   );
 
-  const elements = collectElementsToColor(tagMapping);
+  const elements = collectElementsToColor(tagMappingWithTagMeta);
 
   const colorAssignments = getColorsForElements(elements);
 
   const colorMapping = createColorMappingAndApplyStyles(
     elements,
     colorAssignments,
-    tagMapping,
+    tagMappingWithTagMeta,
   );
 
   return { colorMapping, tagMappingWithTagMeta, insertedIdStrings };
 };
-
-function createTagMappings(tagLeafTexts: boolean): {
-  tagMapping: { [key: number]: string };
-  tagMappingWithTagMeta: { [key: number]: TagMetadata };
-} {
-  const tagMappingWithTagMeta = window.tagifyWebpage(tagLeafTexts);
-  const tagMapping = Object.entries(tagMappingWithTagMeta).reduce(
-    (acc, [id, meta]) => {
-      acc[parseInt(id)] = meta.xpath;
-      return acc;
-    },
-    {} as { [key: number]: string },
-  );
-  return { tagMapping, tagMappingWithTagMeta };
-}
 
 function insertIdStringsIntoTextNodes(
   tagMappingWithTagMeta: { [key: number]: TagMetadata },
@@ -1042,12 +1043,12 @@ function insertIdStringsIntoTextNodes(
 }
 
 function collectElementsToColor(
-  tagMapping: { [key: number]: string },
+  tagMappingWithTagMeta: { [key: number]: TagMetadata },
 ): HTMLElement[] {
   const elements: HTMLElement[] = [];
   const viewportWidth = window.innerWidth;
-  Object.keys(tagMapping).forEach((id) => {
-    let xpath = tagMapping[parseInt(id)];
+  Object.values(tagMappingWithTagMeta).forEach((meta) => {
+    const { tarsierId: id, xpath } = meta;
     const node = document.evaluate(
       xpath,
       document,
@@ -1068,7 +1069,7 @@ function collectElementsToColor(
         rect.left >= 0 &&
         rect.right <= viewportWidth
       ) {
-        node.setAttribute("data-id", id);
+        node.setAttribute("data-id", id.toString());
         elements.push(node);
       }
     }
@@ -1088,12 +1089,14 @@ function getColorsForElements(
 function createColorMappingAndApplyStyles(
   elements: HTMLElement[],
   colorAssignments: Map<HTMLElement, string>,
-  tagMapping: { [key: number]: string },
+  tagMappingWithTagMeta: { [key: number]: TagMetadata },
 ): ColouredElem[] {
   const colorMapping: ColouredElem[] = [];
   const bodyRect = document.body.getBoundingClientRect();
   const attribute = "data-colored";
-  const taggedElements = new Set(Object.values(tagMapping));
+  const taggedElements = new Set(
+    Object.values(tagMappingWithTagMeta).map((meta) => meta.xpath)
+  );
 
   elements.forEach((element) => {
     const id = parseInt(element.getAttribute("data-id")!);
@@ -1104,14 +1107,17 @@ function createColorMappingAndApplyStyles(
       (midpoint[0] - bodyRect.left) / bodyRect.width,
       (midpoint[1] - bodyRect.top) / bodyRect.height,
     ];
-    const idSymbol = createIdSymbol(id, element);
+
+    const symbol = getTagSymbol(element) || "";
+    const idSymbol = `[ ${symbol}${symbol ? " " : ""}${id} ]`;
+
     const { isFixed, fixedPosition } = getFixedPosition(element);
 
     colorMapping.push({
       id,
       idSymbol,
       color,
-      xpath: tagMapping[id],
+      xpath: tagMappingWithTagMeta[id].xpath,
       midpoint,
       normalizedMidpoint,
       width: rect.width,
@@ -1139,6 +1145,8 @@ function applyStylesToElement(
     (element as HTMLInputElement).type === "checkbox"
   ) {
     applyStylesToCheckbox(element as HTMLInputElement, color, attribute);
+  } else if (element.tagName.toLowerCase() === "img") {
+    applyStylesToImage(element as HTMLImageElement, color, attribute);
   } else {
     element.style.setProperty("background-color", color, "important");
     element.style.setProperty("color", color, "important");
@@ -1205,6 +1213,24 @@ function applyStylesToCheckbox(
   });
 }
 
+function applyStylesToImage(element: HTMLImageElement, color: string, attribute: string) {
+  const imageWidth = element.offsetWidth;
+  const imageHeight = element.offsetHeight;
+
+  const rgbToHex = (rgb: string) => {
+    const result = rgb.match(/\d+/g);
+    return result
+      ? result.map((x) => parseInt(x).toString(16).padStart(2, "0")).join("")
+      : "000000";
+  };
+
+  const hexColor = rgbToHex(color);
+  const newSrc = `https://craftypixels.com/placeholder-image/${imageWidth}x${imageHeight}/${hexColor}/${hexColor}`;
+
+  element.setAttribute("src", newSrc);
+  element.setAttribute(attribute, "true");
+}
+
 function applyStylesToLink(
   element: HTMLElement,
   taggedElements: Set<string>,
@@ -1255,60 +1281,6 @@ function applyStylesToLink(
     element.style.display = "block";
   }
 }
-
-window.revertColourBasedTagify = () => {
-  document.querySelectorAll("[data-colored]").forEach((element) => {
-    const htmlElement = element as HTMLElement;
-    if (htmlElement.tagName.toLowerCase() === "input" && (htmlElement as HTMLInputElement).type === "checkbox") {
-      const checkboxElement = htmlElement as HTMLInputElement;
-      checkboxElement.style.removeProperty("width");
-      checkboxElement.style.removeProperty("height");
-      checkboxElement.style.removeProperty("background-color");
-      checkboxElement.style.removeProperty("border");
-      checkboxElement.style.removeProperty("appearance");
-      checkboxElement.style.removeProperty("border-radius");
-      checkboxElement.style.removeProperty("position");
-      checkboxElement.style.removeProperty("cursor");
-      checkboxElement.removeAttribute("data-colored");
-    } else {
-      htmlElement.style.removeProperty("background-color");
-      htmlElement.style.removeProperty("color");
-      htmlElement.style.removeProperty("border-color");
-      htmlElement.style.removeProperty("opacity");
-      htmlElement.removeAttribute("data-colored");
-    }
-  });
-
-  document.querySelectorAll("[data-id]").forEach((element) => {
-    const htmlElement = element as HTMLElement;
-    htmlElement.style.removeProperty("display");
-    htmlElement.removeAttribute("data-id");
-  });
-
-  document.querySelectorAll("[data-id] *").forEach((child) => {
-    const htmlElement = child as HTMLElement;
-    htmlElement.style.removeProperty("visibility");
-  });
-};
-
-window.getElementHtmlByXPath = function (xpath: string): string {
-  try {
-    const result = document.evaluate(
-      xpath,
-      document,
-      null,
-      XPathResult.FIRST_ORDERED_NODE_TYPE,
-      null,
-    );
-    const element = result.singleNodeValue as HTMLElement | null;
-    return element
-      ? element.outerHTML
-      : "No element matches the provided XPath.";
-  } catch (error) {
-    console.error("Error evaluating XPath:", error);
-    return "";
-  }
-};
 
 function createIdSymbol(idNum: number, el: HTMLElement): string {
   let idStr: string;
@@ -1412,45 +1384,6 @@ window.createTextBoundingBoxes = () => {
   });
 };
 
-
-window.removeTextBoundingBoxes = () => {
-  const styleSheets = Array.from(document.styleSheets);
-  styleSheets.forEach((styleSheet) => {
-    try {
-      if (styleSheet && styleSheet.cssRules) {
-        Array.from(styleSheet.cssRules).forEach((rule, index) => {
-          if (
-            rule instanceof CSSStyleRule &&
-            (rule.selectorText === ".tarsier-highlighted-word" ||
-              rule.selectorText === ".tarsier-space")
-          ) {
-            styleSheet.deleteRule(index);
-          }
-        });
-      }
-    } catch (error) {
-      console.error("Error accessing style sheet: ", error);
-    }
-  });
-
-  // Revert the highlighted elements
-  document.querySelectorAll(".tarsier-highlighted-word, .tarsier-space").forEach((span) => {
-    if (span.parentNode) {
-      span.parentNode.replaceChild(
-        document.createTextNode(span.textContent || ""),
-        span
-      );
-    }
-  });
-
-  document.querySelectorAll("iframe").forEach((iframe) => {
-    try {
-      iframe.contentWindow?.postMessage({ action: "removeHighlight" }, "*");
-    } catch (error) {
-      console.error("Error accessing iframe content: ", error);
-    }
-  });
-};
 
 window.documentDimensions = () => {
   return {

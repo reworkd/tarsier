@@ -122,6 +122,7 @@ class Tarsier(ITarsier):
         tagless: bool = False,
     ) -> Tuple[str, dict[int, TagMetadata]]:
         adapter = adapter_factory(driver)
+        stored_dom = await self.store_dom(driver)
 
         coloured_elems, tag_to_xpath, inserted_id_strings = await self._colour_based_tagify(
             adapter, tag_text_elements, tagless
@@ -139,7 +140,7 @@ class Tarsier(ITarsier):
             adapter, all_detected_coloured_elems, inserted_id_strings, tagless
         )
 
-        await self._cleanup(adapter)
+        await self.restore_dom(driver, stored_dom)
 
         annotations_formatted = format_text(combined_annotations)
         return annotations_formatted, tag_to_xpath
@@ -369,8 +370,6 @@ class Tarsier(ITarsier):
                 else:
                     annotations.append(tag_annotation)
 
-        await self._remove_text_bounding_boxes(adapter)
-
         fixed_top_annotations = self.sort_annotations(fixed_top_annotations)
         annotations = self.sort_annotations(annotations)
         fixed_bottom_annotations = self.sort_annotations(fixed_bottom_annotations)
@@ -381,9 +380,25 @@ class Tarsier(ITarsier):
 
         return combined_annotations
 
-    async def _cleanup(self, adapter: BrowserAdapter) -> None:
-        await self._remove_text_bounding_boxes(adapter)
-        await self._revert_colour_tagging(adapter)
+
+    async def _store_dom(self, adapter: BrowserAdapter) -> str:
+        await self._load_tarsier_utils(adapter)
+        stored_dom = await adapter.run_js("return window.storeDOM();")
+        return stored_dom
+
+    async def store_dom(self, driver: AnyDriver) -> str:
+        adapter = adapter_factory(driver)
+        return await self._store_dom(adapter)
+
+    async def _restore_dom(self, adapter: BrowserAdapter, stored_dom: str) -> None:
+        await self._load_tarsier_utils(adapter)
+        script = f"return window.restoreDOM({json.dumps(stored_dom)});"
+        await adapter.run_js(script)
+
+    async def restore_dom(self, driver: AnyDriver, stored_dom: str) -> None:
+        adapter = adapter_factory(driver)
+        await self._restore_dom(adapter, stored_dom)
+
 
     async def _remove_tags(self, adapter: BrowserAdapter) -> None:
         await self._load_tarsier_utils(adapter)
@@ -394,26 +409,6 @@ class Tarsier(ITarsier):
     async def remove_tags(self, driver: AnyDriver) -> None:
         adapter = adapter_factory(driver)
         await self._remove_tags(adapter)
-
-    async def _remove_text_bounding_boxes(self, adapter: BrowserAdapter) -> None:
-        await self._load_tarsier_utils(adapter)
-        script = "return window.removeTextBoundingBoxes();"
-
-        await adapter.run_js(script)
-
-    async def remove_text_bounding_boxes(self, driver: AnyDriver) -> None:
-        adapter = adapter_factory(driver)
-        await self._remove_text_bounding_boxes(adapter)
-
-    async def _revert_colour_tagging(self, adapter: BrowserAdapter) -> None:
-        await self._load_tarsier_utils(adapter)
-        script = "return window.revertColourBasedTagify();"
-
-        await adapter.run_js(script)
-
-    async def revert_colour_tagging(self, driver: AnyDriver) -> None:
-        adapter = adapter_factory(driver)
-        await self._revert_colour_tagging(adapter)
 
     async def _load_tarsier_utils(self, adapter: BrowserAdapter) -> None:
         await adapter.run_js(self._js_utils)
