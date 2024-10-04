@@ -1315,7 +1315,7 @@ window.createTextBoundingBoxes = () => {
     root.querySelectorAll("body *").forEach((element) => {
       if (
         ["SCRIPT", "STYLE", "IFRAME", "INPUT", "TEXTAREA"].includes(
-          element.tagName
+          element.tagName,
         )
       ) {
         return;
