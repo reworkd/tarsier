@@ -11,6 +11,7 @@ from tarsier.ocr import OCRService, ImageAnnotatorResponse
 from tarsier.ocr.types import ImageAnnotation
 from tarsier.text_format import format_text
 
+
 class TagMetadata(TypedDict):
     tarsier_id: int
     element_name: str
@@ -124,9 +125,11 @@ class Tarsier(ITarsier):
         adapter = adapter_factory(driver)
         stored_dom = await self.store_dom(driver)
 
-        coloured_elems, tag_to_xpath, inserted_id_strings = await self._colour_based_tagify(
-            adapter, tag_text_elements, tagless
-        )
+        (
+            coloured_elems,
+            tag_to_xpath,
+            inserted_id_strings,
+        ) = await self._colour_based_tagify(adapter, tag_text_elements, tagless)
 
         coloured_image = await self._take_coloured_screenshot(adapter)
 
@@ -185,7 +188,6 @@ class Tarsier(ITarsier):
         await adapter.set_viewport_size(default_width, viewport["height"])
 
         return screenshot
-
 
     async def _take_coloured_screenshot(self, adapter: BrowserAdapter) -> bytes:
         await self._disable_transitions(adapter)
@@ -252,7 +254,6 @@ class Tarsier(ITarsier):
 
         await self._hide_non_coloured_elements(adapter)
         return colour_mapping, tag_metadata_dict, inserted_id_strings
-
 
     async def _detect_colours_in_image(self, image_bytes: bytes) -> list[str]:
         detected_colours = await self.check_colors_brute_force(image_bytes)
@@ -380,7 +381,6 @@ class Tarsier(ITarsier):
 
         return combined_annotations
 
-
     async def _store_dom(self, adapter: BrowserAdapter) -> str:
         await self._load_tarsier_utils(adapter)
         stored_dom = await adapter.run_js("return window.storeDOM();")
@@ -398,7 +398,6 @@ class Tarsier(ITarsier):
     async def restore_dom(self, driver: AnyDriver, stored_dom: str) -> None:
         adapter = adapter_factory(driver)
         await self._restore_dom(adapter, stored_dom)
-
 
     async def _remove_tags(self, adapter: BrowserAdapter) -> None:
         await self._load_tarsier_utils(adapter)

@@ -75,7 +75,6 @@ window.storeDOM = () => {
   return document.body.outerHTML;
 };
 
-
 window.restoreDOM = (storedDOM) => {
   console.log("Restoring DOM");
   if (storedDOM) {
@@ -1042,9 +1041,9 @@ function insertIdStringsIntoTextNodes(
   return insertedIdStrings;
 }
 
-function collectElementsToColor(
-  tagMappingWithTagMeta: { [key: number]: TagMetadata },
-): HTMLElement[] {
+function collectElementsToColor(tagMappingWithTagMeta: {
+  [key: number]: TagMetadata;
+}): HTMLElement[] {
   const elements: HTMLElement[] = [];
   const viewportWidth = window.innerWidth;
   Object.values(tagMappingWithTagMeta).forEach((meta) => {
@@ -1095,7 +1094,7 @@ function createColorMappingAndApplyStyles(
   const bodyRect = document.body.getBoundingClientRect();
   const attribute = "data-colored";
   const taggedElements = new Set(
-    Object.values(tagMappingWithTagMeta).map((meta) => meta.xpath)
+    Object.values(tagMappingWithTagMeta).map((meta) => meta.xpath),
   );
 
   elements.forEach((element) => {
@@ -1198,22 +1197,18 @@ function applyStylesToCheckbox(
   // Add event listener for checkbox state change
   checkboxElement.addEventListener("change", function () {
     if (checkboxElement.checked) {
-      checkboxElement.style.setProperty(
-        "background-color",
-        color,
-        "important",
-      );
+      checkboxElement.style.setProperty("background-color", color, "important");
     } else {
-      checkboxElement.style.setProperty(
-        "background-color",
-        color,
-        "important",
-      );
+      checkboxElement.style.setProperty("background-color", color, "important");
     }
   });
 }
 
-function applyStylesToImage(element: HTMLImageElement, color: string, attribute: string) {
+function applyStylesToImage(
+  element: HTMLImageElement,
+  color: string,
+  attribute: string,
+) {
   const imageWidth = element.offsetWidth;
   const imageHeight = element.offsetHeight;
 
@@ -1384,7 +1379,6 @@ window.createTextBoundingBoxes = () => {
   });
 };
 
-
 window.documentDimensions = () => {
   return {
     width: document.documentElement.scrollWidth,
@@ -1393,7 +1387,7 @@ window.documentDimensions = () => {
 };
 
 window.getElementBoundingBoxes = (xpath: string) => {
-  const element  = document.evaluate(
+  const element = document.evaluate(
     xpath,
     document,
     null,
@@ -1438,9 +1432,11 @@ window.getElementBoundingBoxes = (xpath: string) => {
       placeholderText = (element as HTMLImageElement).alt || " ";
     }
 
-    const words = element.querySelectorAll(":scope > .tarsier-highlighted-word") as NodeListOf<HTMLElement>;
+    const words = element.querySelectorAll(
+      ":scope > .tarsier-highlighted-word",
+    ) as NodeListOf<HTMLElement>;
     const boundingBoxes = Array.from(words)
-      .map((word ) => {
+      .map((word) => {
         const rect = (word as HTMLElement).getBoundingClientRect();
         return {
           text: word.innerText || "",
@@ -1452,11 +1448,14 @@ window.getElementBoundingBoxes = (xpath: string) => {
       })
       .filter(
         (box) =>
-          box.width > 0 && box.height > 0 && box.top >= 0 && box.left >= 0 && isValidText(box.text),
+          box.width > 0 &&
+          box.height > 0 &&
+          box.top >= 0 &&
+          box.left >= 0 &&
+          isValidText(box.text),
       );
 
-    if (
-      words.length === 0) {
+    if (words.length === 0) {
       const elementRect = element.getBoundingClientRect();
       return [
         {
