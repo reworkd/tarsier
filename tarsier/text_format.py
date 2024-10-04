@@ -24,54 +24,17 @@ def format_text(ocr_text: ImageAnnotatorResponse) -> str:
 
     # Ensure line_cluster is not empty before proceeding
     if line_cluster:
-        canvas_width = int(
-            max(
-                [
-                    max(
-                        (
-                            sum(len(token["text"]) + 1 for token in line)
-                            for line in line_cluster.values()
-                        ),
-                        default=default_canvas_width,
-                    ),
-                    max(
-                        (
-                            canvas_height
-                            * (
-                                annotation["midpoint"][0]
-                                / annotation["midpoint_normalized"][0]
-                                if annotation["midpoint_normalized"][0] != 0
-                                else default_canvas_width
-                            )
-                            / (
-                                annotation["midpoint"][1]
-                                / annotation["midpoint_normalized"][1]
-                                if annotation["midpoint_normalized"][1] != 0
-                                else default_canvas_width
-                            )
-                            for line in line_cluster.values()
-                            for annotation in line
-                        ),
-                        default=default_canvas_width,
-                    ),
-                    max(
-                        (
-                            max(
-                                (
-                                    len(annotation["text"])
-                                    / (1 - annotation["midpoint_normalized"][0])
-                                    if annotation["midpoint_normalized"][0] != 1
-                                    else len(annotation["text"])
-                                )
-                                for annotation in line
-                            )
-                            for line in line_cluster.values()
-                        ),
-                        default=default_canvas_width,
-                    ),
-                ]
-            )
+        # Calculate the canvas width based on the longest line
+        longest_line = max(
+            line_cluster.values(),
+            key=lambda line: sum(len(token["text"]) + 1 for token in line),
         )
+
+        max_sum_text_lengths = sum(len(token["text"]) + 1 for token in longest_line)
+        canvas_width = int(
+            max_sum_text_lengths * 1.5
+        )  # Adding a buffer to ensure it fits
+
     else:
         canvas_width = default_canvas_width
 
@@ -82,12 +45,19 @@ def format_text(ocr_text: ImageAnnotatorResponse) -> str:
     empty_space_height = letter_height + 5
     max_previous_line_height = empty_space_height
 
+    def adjust_canvas_width(new_width: int) -> None:
+        nonlocal canvas, canvas_width
+        if new_width > canvas_width:
+            print(f"Adjusting canvas width from {canvas_width} to {new_width}")
+            for row in canvas:
+                row.extend([" " for _ in range(new_width - canvas_width)])
+            canvas_width = new_width
+
     # Place the annotations on the canvas
     i = 0
     for y, line_annotations in line_cluster.items():
         # Sort annotations in this line by x coordinate
         line_annotations.sort(key=lambda e: e["midpoint_normalized"][0])
-        # grouped_line_annotations = line_annotations
         grouped_line_annotations = group_words_in_sentence(line_annotations)
 
         # Use the TOP height of the letter
@@ -118,15 +88,14 @@ def format_text(ocr_text: ImageAnnotatorResponse) -> str:
             # Move forward if there's an overlap
             x = max(x, last_x)
 
-            # Check if the text fits; if not, move to next line (this is simplistic)
+            # Ensure the text fits within the canvas
             if x + len(text) >= canvas_width:
-                canvas[i] += [" " for _ in range(len(text) + 1)]
+                adjust_canvas_width(x + len(text) + 1)
 
             # Place the text on the canvas
             for j, char in enumerate(text):
                 canvas[i][x + j] = char
 
-            # Update the last inserted position
             last_x = x + len(text) + 1  # +1 for a space between words
 
         i += 1

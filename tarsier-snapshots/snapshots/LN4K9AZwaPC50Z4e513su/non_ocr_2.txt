@@ -1,0 +1,51 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[@93] Find a Doctor [@101] Locations [@110] Services [@120] Patients Visitors [@130] Giving [@139] Careers MyChart
+[@146] cls-1 fill currentColor; fill-rule evenodd; [@147] Search [@160] Contact us [@161] More info [@701] Find us on Facebook [@702] Find us on Twitter [@703] Find us on YouTube
+
+
+
+
+                                                                  **[162] Find a Location**
+
+
+
+     [$163] My Address
+                                                  **[167] MILES AWAY**
+                                                                                 [$168] Facility Type                        [$170] Service
+
+
+
+
+
+**[172] 1 [173] Specialty Care**
+         [@174] Alcohol Substance Abuse
+         Treatment at Garnet Health Medical
+         Center
+         [175] 75 Crystal Run Road
+         Middletown, New York 10941
+         [177] Phone 845 [@178] 845 333-7818 333-7818
+[@179] View more info
+
+
+**[181] 2 [182] Specialty Care**
+         [@183] Ambulatory Surgery  Procedure
+         Center at Garnet Health Medical
+         Center
+         [184] 707 East Main Street
+         Middletown, New York 10940
+         [186] Phone 845 [@187] 845 333-3499 333-3499
+[@188] View more info
+                                                                                                                                [$692] Keyboard shortcuts [693] Map data 2023 Google [@694] Terms [@695] Report a map error
+
+                                              [@697] Pay My Bill [@698] MyChart Login [@699] Donate [@700] Medical Records
+
+
+   [704] Patients Visitors                                                                   [715] Physicians Employees                   [720] Garnet Health
+   [@705] Find a Doctor                     [@706] Locations                                 [@716] Physician Jobs                        [@721] About Us
+   [@707] Services                          [@708] Patient Support                           [@717] For Employees                         [@722] Contact Us
+   [@709] Billing Insurance                 [@710] Pay My Bill                               [@718] Medical Education                     [@723] Careers Jobs
+   [@711] Patient Stories                   [@712] Medical Records                           [@719] Nursing Excellence                    [@724] Disclaimer
+   [@713] Classes Events                    [@714] Telehealth                                                                             [@725] Privacy Policy
+
+     [726] Copyright 2023 Garnet Health, All Rights Reserved.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,48 @@
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[0] We value your privacy
+     [1] We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking Accept
+     All", you consent to our use of cookies.
+                                                                                                                                                                                                            [$2] Customize                [$3] Reject All             [$4] Accept All
+                                                                                      [@7] Notice of Non-Discrimination             [@8] Careers [@9] Patient Portal/Pay my Bill              [@10] For Providers      [@11] Contact Us
+                                                                           [@12] About Us             [@26] For Patients               [@35] Our Services               [@65] Our Locations                 [@66] Find a Provider
+
+
+                **[69] Our Locations**
+                [$71] Search by location name                                                          [$73] Filter by category                                                               [$75] Search by ZIP code
+[$74] All categories Children's Hospital New Orleans East Jefferson General Hospital Lakeside Hospital Lakeview Hospital Lakeview Regional Physician Group New Orleans East Hospital Touro Tulane Medical Center University Medical Center New Orleans Urgent Care West Jefferson Medical Center
+
+
+
+
+
+
+
+                                                                                                                                                                                                                                                      [@77] Use my location
+
+                                                                                                                                                                                                                                                          [@78] Clear filters
+
+     [79] Amelia Health Center Cardiology and
+     Cardiovascular Surgery
+     [80] Touro
+     [81] 3715 Prytania St.
+     [82] Suite 400
+     [83] New Orleans, LA 70115
+     [@84] 504. 897. 8276
+     [@85] More information
+     [@86] Get directions
+
+     [87] Behavioral Health Center
+     [88] Children's Hospital New Orleans
+     [89] 210 State St.
+     [90] New Orleans, LA 10118
+     [@91] 504. 896. 7200
+     [@92] More information
+     [@93] Get directions
+
+     [94] Bienville Health Center Primary Care and
+     OB/GYN
+     [95] Touro
+
+     [98] New Orleans, LA 70119
+     [@99] 504. 252. 9488
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,311 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[$0] Menu         [@1] Find A Provider            [@2] Services                                                                    [@4] Locations
+
+                                                                                                                                  [@5] Patients and Visitors
+                                                                                                                                                                                    [$6] Find Help
+                                                                                                                                                                                        Now
+               [@7] Homepage [9] GI Motility Clinic
+
+
+
+
+
+
+
+
+
+            **[10] GI Motility Clinic**
+
+
+            **[11] Location Information**
+
+                                                            **[12] GI Motility Clinic**
+                                                            [13] UofL Health  Jewish Hospital Outpatient Care Center
+                                                            225 [14] 225 Abraham Abraham Flexner Flexner Way, Way, Suite Suite 502 502
+                                                            Louisville, [15] Louisville, KY [16] KY 40202
+                                                            Fax [18] Fax 502-540-1414 502-540-1414
+                                                                [@19] 502-588-7690 [@20] Get Directions
+                                                                                                                                   **[21] Schedule An Appointment**
+                                                                                                                                        [@22] Appointments
+
+
+
+
+
+
+            **[23] Services [25] Services Offered Offered**
+            Colorectal [@26] Colorectal Screening Screening Gastroenterology [@27] Gastroenterology Digestive [@28] Digestive And And Liver Liver Health Health
+
+
+
+            **[29] Overview**
+            [30] Welcome to the University of Louisville GI Motility Clinic.
+            [31] Thank you for choosing us to provide excellent patient care for your Gastroenterology Motility needs.
+            [32] We are so glad that you have trusted us with your health, our team is ready to work with you as you take steps to improve your
+            gastroenterology health.
+            [33] We see patients in our clinic at 225 Abraham Flexner, Suite 502, in Louisville and virtually via MyChart or similar technology. To become a
+            patient, we need as many records from other providers as possible so we can review your medical history.
+            [34] We see patients for at least the 5 general types of problems
+                 [35] Swallowing and esophageal problems
+                 [36] Gastroparesis and related stomach problems
+                 [37] Abdominal pain and other difficult GI symptoms
+                 [38] Constipation and diarrhea/fecal incontinence
+                 [39] Nutritional support and IV infusions
+            [40] We want you to get the most out of your time in our office and interacting with staff
+            [41] In this packet you will find
+                 [43] Provider information
+                 [44] Staff names and contact details
+                 [45] General office information
+                 [46] What to expect during initial and future appointments
+                 [47] Information about your diagnosis
+            [48] General Information
+                 [49] MyChart [50] is a tool we use within the organization to communicate and connect with patients. If you are not currently signed up it is
+                 [51] strongly [52] encouraged that you do. Access to MyChart allows more opportunity to connect with the office or providers without the hassle
+                 of calling and waiting on hold or leaving a voicemail. Through MyChart you can request medication refills, appointments, and ask
+                 questions to your care team.
+                 [53] Initial visits to the office are with the MD. These visits include an assessment of current and past symptoms, medical history, and
+                 sometimes include follow-up lab work or testing. All information regarding follow up care will be given and discussed with you before you
+                 leave.
+                 [54] FMLA Disability paperwork will not be filled out until you have received care in our office for 3 months.
+                 [55] Follow up visits are typically with the NP or PA.
+                 [56] If you are experiencing any issues or have any questions regarding your care, please reach out to the office.
+            [57] Office Providers
+            [58] Dr. Thomas Abell
+            [59] Dr. Abigail Stocker
+            [60] Dr. Benjamin Rogers
+            [61] Carmelita Moppins NP
+            [62] Lindsay McElmurray PA
+            [63] Office staff and Contacts
+            [65] Christina [66] 502-588-8507 [@67] 502-588-8507
+                 [68] Dr. Abell
+                 [69] Permanent Stimulator scheduling/authorizations
+            [70] Derrika [71] 502-588-7696 [@72] 502-588-7696
+                 [73] Dr. Rogers and Carmelita
+            [74] Jasmine [75] 502-588-0420 [@76] 502-588-0420
+                 [77] Dr. Stocker and Lindsay
+            [78] Nurse Line for general questions, concerns, or problems
+            [79] Cheryl [80] 502-588-8504 [@81] 502-588-8504
+            [82] Medical Scheduler
+            [83] Danessa [84] 502-588-7656 [@85] 502-588-7656
+            [86] Surgery Scheduler/Temporary Stimulator scheduling only
+            [87] JaCoreya [88] 502-588-7688 [@89] 502-588-7688
+            [90] Front Desk/Appointment scheduling
+            [91] Nicole 502-588-7690 [@92] 502-588-7690
+            [93] BaNae 502-588-7690 [@94] 502-588-7690
+            [95] Practice Manager
+            [96] Ashley Beams [97] 502-588-7693 [@98] 502-588-7693
+            [99] Research Department
+            [@100] 502-540-1400
+            [101] Research Nurse
+            [102] Bridget Cannon 502-540-1428 [@103] 502-540-1428
+            **[104] GI Motility Clinic Providers**
+
+
+
+
+
+
+                       **[@105] Carmelita [106] Carmelita**         **[@111] Benjamin [112] Benjamin**   **[@121] Abigail [122] Abigail Stocker, Stocker,**   **[@127] Lindsay [128] Lindsay**
+                 **Moppins, Moppins, APRN APRN**                **Rogers, Rogers, M. M. D. D.**                      **M. M. D. D.**                     **McElmurray, McElmurray,**
+                     Digestive [107] Digestive and and Liver Liver Gastroenterology, [113] Gastroenterology,  Digestive [123] Digestive and and Liver Liver
+                            Health, Health,                    Reflux, [114] Reflux, Swallowing Swallowing and and   Health, Health,
+                      Gastroenterology [108] Gastroenterology       Hernia Hernia Center, Center,              Gastroenterology [124] Gastroenterology
+                      Areas [109] Areas of of Interest Interest                                                Areas [125] Areas of of Interest Interest
+                       Gastroenterology [110] Gastroenterology                                               Gastrointestinal [126] Gastrointestinal Motility Motility
+                    Gastrointestinal Gastrointestinal Motility Motility                                             Disorders Disorders
+                   Disorders Disorders Gastroparesis Gastroparesis                                            Gastroparesis/Gastric Gastroparesis/Gastric
+                                                                 Digestive [115] Digestive and and Liver Liver
+                                                                         Health, Health,
+                                                                         Reflux, [116] Reflux,
+                                                               Swallowing [117] Swallowing Problems, Problems,
+                                                                         Hernia [118] Hernia
+                                                                  Areas [119] Areas of of Interest Interest
+                                                            Chronic [120] Chronic Constipation Constipation Chronic Chronic
+                                                                  GERD GERD Dysphagia Dysphagia
+                                                                Gastrointestinal Gastrointestinal Motility Motility
+                                                                        Disorders Disorders
+                                                                                                              Stimulation Stimulation General General
+                                                                                                                Gastroenterology Gastroenterology
+                                                                                                                                                                 **PA-C PA-C**
+                                                                                                                                                          Digestive [129] Digestive and and Liver Liver
+                                                                                                                                                                 Health, Health,
+                                                                                                                                                           Gastroenterology [130] Gastroenterology
+                                                                                                                                                           Areas [131] Areas of of Interest Interest
+                                                                                                                                                         Gastrointestinal [132] Gastrointestinal Motility Motility
+                                                                                                                                                        Disorders Disorders Gastroparesis Gastroparesis
+
+
+
+
+
+
+
+                                                                       [@133] View All GI Motility Clinic Providers
+
+
+
+            **[134] Health Library**
+
+
+                     [@135] Brain [136] Brain Spine Spine                                                     [@141] Patient [142] Patient Stories Stories
+
+
+
+                 **Elvis [137] Elvis Golja Golja Stroke Stroke Patient Patient Story Story**               **A [143] A New New Heart Heart**
+                 UofL [138] UofL Health Health May [140] May 16, 16, 2023 2023                             UofL [144] UofL Health Health February [146] February 2, 2, 2023 2023
+
+
+                                                                                      [@147] View All Articles
+                                                                                                                                                                                         [@148] Schedule [149] Schedule an an
+                                                                                                                                                                                         Appointment Appointment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            [152] Follow Us
+                                                                      [@159] Find A Provider            [@164] Appointments
+                                                                      [@160] Services                   [@165] About UofL Health
+                                                                      [@161] Locations                  [@166] Health Library
+                                                                      [@162] Patients and Visitors      [@167] Careers
+                                                                      [@163] Patient Portal             [@168] Volunteer Information
+                                                                                                                                                 [@169] For Health Care Professionals
+                                                                                                                                                 [@170] News
+                                                                                                                                                 [@171] Pay My Bill
+                                                                                                                                                 [@172] Ways to Give
+                                                                                                                                                 [@173] Contact
+
+
+               [174] 2023 UofL Health. All Rights Reserved          [@175] Nondiscrimination Notice [@176] Terms of Use [@177] Notice of Privacy Practices [@178] Code of Conduct
+                                                                    [@179] Privacy Policy
+                [180] UofL Health complies with applicable Federal civil rights laws and does not discriminate on the basis of race, color, national origin, age, disability or sex
+              including discrimination based on pregnancy, gender identity and sex stereotyping when providing or administering health-related insurance or other
+                                                                                          **health-related** coverage.
+               [181] UofL Health, Inc. is 501 c 3 a nonprofit corporation is governed by an independent Board of Directors and is a related organization as defined under 42
+             CFR 413. 17 with the University of Louisville s School of Medicine. UofL Health, Inc., on behalf of its teaching hospitals and providers, entered into academic
+                affiliation agreement with the University of Louisville in which the University of Louisville agreed that its Health Sciences Center would be the academic
+             partner with UofL Health, Inc. to maintain and enhance the University of Louisville s affiliated graduate medical education as well as its research in medicine,
+                                                                                dentistry, nursing and public health.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

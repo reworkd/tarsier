@@ -14,6 +14,9 @@ playwright = "^1.44.0"
 selenium = "^4.21.0"
 google-cloud-vision = "^3.7.2"
 azure-ai-vision-imageanalysis = "^1.0.0b2"
+pillow = "^10.4.0"
+numpy = "^2.0.1"
+tiktoken = "^0.7.0"
 
 
 [tool.poetry.group.dev.dependencies]

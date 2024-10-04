@@ -64,7 +64,10 @@ async def snapshot_example(
         await page.goto(example.get_static_url())
         await page.wait_for_timeout(3000)
         image, _ = await tarsier.page_to_image(page, tag_text_elements=True)
-        page_text, _ = await tarsier.page_to_text(page, tag_text_elements=True)
+        # page_text, _ = await tarsier.page_to_text(page, tag_text_elements=True)
+        page_text_colour_tagged, _ = await tarsier.page_to_text_colour_tag(
+            page, tag_text_elements=True
+        )
         await page.close()
 
         # Create the directory if it doesn't exist
@@ -76,7 +79,8 @@ async def snapshot_example(
 
         with open(example_path / "ocr.txt", "w") as f:
             page_text_with_token_count = (
-                page_text + f"\nToken count: {counter.count(page_text)}"
+                page_text_colour_tagged
+                + f"\nToken count: {counter.count(page_text_colour_tagged)}"
             )
             f.write(page_text_with_token_count)
             print(f"{prefix} Writing OCR text to {example_path / 'ocr.txt'}")
@@ -88,7 +92,7 @@ snapshots_path = Path(__file__).parent.parent / "snapshots"
 
 async def generate_snapshots() -> None:
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
+        browser = await p.chromium.launch(headless=False)
         tarsier = Tarsier(GoogleVisionOCRService(google_creds()))
         semaphore = asyncio.Semaphore(10)
 
@@ -96,7 +100,7 @@ async def generate_snapshots() -> None:
             snapshot_example(i, semaphore, browser, example, snapshots_path, tarsier)
             for i, example in enumerate(examples)
             if example.source == "mhtml"
-            # if example.source == "mhtml" and example.id == 'CsjbrXOwtX1rRqggZALRB'
+            # if example.source == "mhtml" and example.id == "CsjbrXOwtX1rRqggZALRB"
         ]
         await asyncio.gather(*tasks)
 
